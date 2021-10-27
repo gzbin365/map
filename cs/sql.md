@@ -1,0 +1,68 @@
+# SQL
+
+**自学SQL网(**[**s**](http://xuesql.cn)**, **[**v**](https://www.bilibili.com/video/BV12V411a7wZ/)**, )   **[**NoSQL数据存储**](https://www.fullstackpython.com/no-sql-datastore.html)****
+
+|                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 廖雪峰 SQL教程(MySQL) ([书栈](https://www.bookstack.cn/books/liaoxuefeng-sql), )                                                                                                                                                                                                                                                                                    |
+| SQLFlow Document ([书栈](https://www.bookstack.cn/books/SQLFlow-EN), )                                                                                                                                                                                                                                                                                         |
+| MySQL实战45讲（[极客](https://time.geekbang.org/column/intro/100020801)，）                                                                                                                                                                                                                                                                                          |
+| SQL / MySQL([My CS](https://www.youtube.com/playlist?list=PLqrmzsjOpq5j5u6dAqGPbifOFNYF2EBNx))                                                                                                                                                                                                                                                               |
+| 【 数据库 】MySQL 从入门到精通视频课程 [Tutorial 教程](https://www.youtube.com/playlist?list=PLnHbptcieUBeQge-fNq9qABiqoopGMg3L)                                                                                                                                                                                                                                              |
+| Learn PostgreSQL Tutorial - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=qw--VYLpxG4)                                                                                                                                                                                                                                            |
+| SQL Tutorial - Full Database Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)                                                                                                                                                                                                                                                |
+| How do NoSQL databases work? Simply Explained! [Simply Explained](https://www.youtube.com/watch?v=0buKQHokLK8)                                                                                                                                                                                                                                               |
+| Mysql基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYy9WcEWjgY3VUA0GrMjyqq)                                                                                                                                                                                                                                                                    |
+| Mysql进阶 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZAfQdrjsy2SiFVG9fFq9-c)                                                                                                                                                                                                                                                                    |
+| 网络安全 SqlMap专题 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbcKMJYdV1QE6ecj84tUxi0)                                                                                                                                                                                                                                                              |
+| 网络安全 SQL注入专题 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbektcoFGW7VJ9huFMm9JMt)                                                                                                                                                                                                                                                               |
+| 【数据库】SQL 3小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=gvRXjsrpCHw)                                                                                                                                                                                                                                                                           |
+| SQLite Databases With Python - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=byHcYRpMgI4)                                                                                                                                                                                                                                                       |
+| SQL you need as a Data Scientist [CodeEmporium](https://www.youtube.com/watch?v=CM2zjiud5PI)                                                                                                                                                                                                                                                                 |
+| 宇哥玩Access数据库 抖音号： [datamap1999](https://www.douyin.com/user/MS4wLjABAAAAin9w9OsIhOrpoHa15hIs0ZMLQYWjCGVwJZznOi39pg0?author\_id=92217300043\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6899788817893477635\&group\_id=6899788817893477635\&log\_pb=%7B%22impr\_id%22%3A%22021633809810658fdbddc0300fff0010a8a62d5000000576f83d8%22%7D) |
+|                                                                                                                                                                                                                                                                                                                                                              |
+
+|                                                                                           |   |
+| ----------------------------------------------------------------------------------------- | - |
+| Redis入门 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbeBI7RH4ppJFeDtP6SdfH4) |   |
+| Redis Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=jgpVdJB2sKQ)      |   |
+
+|                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| Mongodb最佳实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZjgqnj6wEB0fVusQJASh2c)                                          |
+| MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm [freeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4) |
+
+| 其他                                                               |   |
+| ---------------------------------------------------------------- | - |
+| 数据中台实战课 [极客时间](https://time.geekbang.org/column/intro/100049101) |   |
+
+## 大数据
+
+|                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 大数据存哥 抖音号： [bigdata\_cun](https://www.douyin.com/user/MS4wLjABAAAAE6J6zqyDX-yNq09ag6uhTFUJUpRzPCCIaz95w4tqy7eXDpZrmWYqYmOVPipgXuW0?author\_id=2735238559043117\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6916748072622017805\&group\_id=6916748072622017805\&log\_pb=%7B%22impr\_id%22%3A%22202110090706560101330302043E0A99A0%22%7D) |
+| 大数据老王 抖音号： [code\_club](https://www.douyin.com/user/MS4wLjABAAAAml759D7raW33xNxTBdRr36zCloEZi2RcBNj606oXC8R8H1c-jXh05MIHZURGlgA0?author\_id=1248679939287949\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7003319844758129933\&group\_id=7003319844758129933\&log\_pb=%7B%22impr\_id%22%3A%2220211009073915010151199071470C8149%22%7D)   |
+|                                                                                                                                                                                                                                                                                                                                                               |
+
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| 麦子学院-10小时入门大数据 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzveyPX8XgTBKf3tjxjA1tW) |
+| 大数据入门指南 [v](https://www.douyin.com/video/6992859759204519204) git                                   |
+
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| Hadoop2 x入门简介及生态圈 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYUmaVt1FF7yFDic8pcAzR1) |
+| Hadoop从零基础到直接工作课程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha2gKQquPR0SB8QDQh89xmy) |
+
+|                                                                                           |   |
+| ----------------------------------------------------------------------------------------- | - |
+| HBase基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbpYutMb5xJ1891erEb3OWO) |   |
+
+### 分布式
+
+| Zabbix                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------- |
+| Zabbix监控环境搭建与配置入门实战视频课程高清版 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyyfFX7DBn48FyEVbO-Tr4e)     |
+| 企业级大型监控系统zabbix深入介绍 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx61m6rK8KZmbGXX8WrpdZC)            |
+| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D) |
+| 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                  |
