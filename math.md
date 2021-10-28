@@ -692,7 +692,7 @@ description: 用数学充实人生
 
 |                                                                                                  |      |
 | ------------------------------------------------------------------------------------------------ | ---- |
-| **Systems Innovation(**[**u**](https://www.youtube.com/c/ComplexityLearningLab/playlists)**, )** | **** |
+| **Systems Innovation(**[**u**](https://www.youtube.com/c/ComplexityLearningLab/playlists)**, )** |      |
 
 |                                                                                                                                                      |   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -709,6 +709,7 @@ description: 用数学充实人生
 |   |   |
 | - | - |
 |   |   |
+
 
 ##
 
@@ -733,16 +734,16 @@ description: 用数学充实人生
 | **贝塞尔曲线扫盲(**[**b**](https://myst729.github.io/posts/2013/bezier-curve-literacy/)**, **[**B**](https://www.bilibili.com/video/BV1bb411L7u3?from=search\&seid=8028880781361425729)**, )** | **贝塞尔曲线参数方程推导(**[**u**](https://www.youtube.com/watch?v=Jwq3C5Mg9oM)**, **[**B**](https://www.bilibili.com/video/BV18E411L71V)**, **[**code**](https://github.com/136108Haumea/my-manim/blob/master/old%20projects/BezierCurve.py)**, )** |
 | **贝塞尔曲线练习(**[**s**](https://bezier.method.ac)**, **[**B**](https://www.bilibili.com/video/BV1bb411L7u3?from=search\&seid=8028880781361425729)**, )**                                    | **数学物理方程与特殊函数-贝塞尔(**[**B**](https://www.bilibili.com/video/BV1ft4y1D7xS?p=32)**, )**                                                                                                                                                      |
 | **Lsn7\_贝塞尔曲线-算法\_1\_(**[**B**](https://www.bilibili.com/video/BV19p4y1a7cH?from=search\&seid=17894561141213535961)**, )**                                                              | **Lsn7\_贝塞尔曲线-QQ气泡\_2\_clip\_(**[**B**](https://www.bilibili.com/video/BV14k4y1C7AP)**, )**                                                                                                                                               |
-| ****                                                                                                                                                                                    | **Android 绘制N阶Bezier曲线(**[**b**](https://blog.csdn.net/venshine/article/details/51758841)**, )**                                                                                                                                          |
+|                                                                                                                                                                                         | **Android 绘制N阶Bezier曲线(**[**b**](https://blog.csdn.net/venshine/article/details/51758841)**, )**                                                                                                                                          |
 | **BezierMaker(**[**git**](https://github.com/venshine/BezierMaker)**, )**                                                                                                               | **德卡斯特里奥算法——找到Bezier曲线上的一个点(**[**b**](https://blog.csdn.net/venshine/article/details/51750906)**, )**                                                                                                                                     |
-| ****                                                                                                                                                                                    | **路径规划与轨迹跟踪系列算法学习\_第7讲\_贝塞尔曲线法(**[**B**](https://www.bilibili.com/video/BV1rf4y167Ns?from=search\&seid=17894561141213535961)**, )**                                                                                                       |
+|                                                                                                                                                                                         | **路径规划与轨迹跟踪系列算法学习\_第7讲\_贝塞尔曲线法(**[**B**](https://www.bilibili.com/video/BV1rf4y167Ns?from=search\&seid=17894561141213535961)**, )**                                                                                                       |
 |                                                                                                                                                                                         | Bezier曲线曲面([网课慕课](https://www.youtube.com/watch?v=sRuKSO1Y7jE\&list=PLqlw88i7XLoyQW0QhTcq4bYCjf1Ibd4rH\&index=12\&t=618s))                                                                                                                |
-| ****                                                                                                                                                                                    | **Search · **[**Bezier curves Python**](https://github.com/search?q=Bezier+curves++Python)** · GitHub**                                                                                                                                   |
+|                                                                                                                                                                                         | **Search · **[**Bezier curves Python**](https://github.com/search?q=Bezier+curves++Python)** · GitHub**                                                                                                                                   |
 
 |                                                                                                                         |      |
 | ----------------------------------------------------------------------------------------------------------------------- | ---- |
-| **Coding Math: Episode 19 - Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=dXECQRlmIaE)**)**         | **** |
-| **Coding Math: Episode 20 - More on Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=2hL1LGMVnVM)**)** | **** |
+| **Coding Math: Episode 19 - Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=dXECQRlmIaE)**)**         |      |
+| **Coding Math: Episode 20 - More on Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=2hL1LGMVnVM)**)** |      |
 | **Bezier Curves Explained(**[**Guidev**](https://www.youtube.com/watch?v=pnYccz1Ha34)**)**                              |      |
 
 
@@ -759,8 +760,8 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 |                                                                                                                     |      |
 | ------------------------------------------------------------------------------------------------------------------- | ---- |
-| ****[**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)** 中国大学MOOC-慕课** | **** |
-| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**             | **** |
+| ****[**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)** 中国大学MOOC-慕课** |      |
+| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**             |      |
 | **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**         |      |
 | [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course                   |      |
 | 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)                   |      |
@@ -873,11 +874,11 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 |                                                                                                                                 |      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| **快速平方根逆— Quake III算法(**[**Nemean**](https://www.youtube.com/watch?v=p8u\_k2LIZyo)**)**                                         | **** |
+| **快速平方根逆— Quake III算法(**[**Nemean**](https://www.youtube.com/watch?v=p8u\_k2LIZyo)**)**                                         |      |
 | ****[**二进制搜索-不同的角度**](https://www.youtube.com/watch?v=tgVSkMA8joQ)****                                                          |      |
 | 10701 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-WKZo-xHK3NhBsJ4JX-ESp1)                                       |      |
 | 10601 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VTdXuvm2heF7fPjDizKAXJ)                                       |      |
-| **Learn Mathematics from START to FINISH(**[**The Math Sorcerer**](https://www.youtube.com/watch?v=pTnEG\_WGd2Q)**)**           | **** |
+| **Learn Mathematics from START to FINISH(**[**The Math Sorcerer**](https://www.youtube.com/watch?v=pTnEG\_WGd2Q)**)**           |      |
 | [数学地图](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)(DoS - Domain of Science)                                                    |      |
 | 神奇的零知识证明！既能保守秘密，又让别人信你！([李永乐老师](https://www.youtube.com/watch?v=FuKEpOhiVPg\&t=1s))                                             |      |
 | [Intuitive maths](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmwxSL\_xZKNq6MSEjAMKcmT) Yinan Zuo                         |      |
