@@ -14,7 +14,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 |                                                | [**维基百科**](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5) | [**前站导航**](http://www.frontendjs.com)              | [**paper-digest**](http://www.paper-digest.com)                                                |
 | [**stackoverflow**](https://stackoverflow.com) | [**quora**](https://www.quora.com)                                     | [**code-nav**](https://github.com/liyupi/code-nav) | [**csdn**](https://www.csdn.net)                                                               |
 | [**开源中国**](https://www.oschina.net)            | [**走114**](http://www.zou114.com)                                      | [**博客园**](https://www.cnblogs.com)                 | 阿雷科技导航 [s](https://aleikeji.com) [u](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ) |
-|                                                |                                                                        |                                                    | [dy](https://www.douyin.com/recommend) [tictoc](https://www.tiktok.com/en)                     |
+|                                                |                   编程导航 [s](https://www.bcnav.cn/) [dy](https://www.douyin.com/user/MS4wLjABAAAATJWS6usq5VDd4fLYOpmb63-bKR9jZeCugc1k3SyxqwXrMfXhOR_kfXlXK11VfzWg)                                                     |                                                    | [dy](https://www.douyin.com/recommend) [tictoc](https://www.tiktok.com/en)                     |
 
 ## 常用工具
 
