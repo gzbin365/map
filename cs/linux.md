@@ -42,16 +42,22 @@
 | RedHat([s](https://www.redhat.com/zh), [u](https://www.youtube.com/c/redhat/playlists), )                                                                                                                                                                                                                                            | Redcore Linux([v](https://www.youtube.com/watch?v=oFs9accYV2c), )                                                                                                                                                                                                         |
 | mint                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                           |
 
-|                                                                                                                                                             |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Why I Switched from Arch to Debian [DorianDotSlash](https://www.youtube.com/watch?v=EUHmEO3\_zjU)                                                           |   |
-| Installing Debian Linux 2.1 From 1999 Was A Painful Experience ... [NCommander](https://www.youtube.com/watch?v=tQQCcvFUzrg)                                |   |
-| Fedora 34 \| This is the ABSOLUTE Best Linux Distro of 2021 Yet (NEW RELEASE!) [Linux Tex](https://www.youtube.com/watch?v=bMQaGM3N9zg)                     |   |
-| 世界排名前3名的Linux桌面系统 \| [零度解说](https://www.youtube.com/watch?v=3lQrwvIgDdY\&list=TLPQMjcwODIwMjFpmYxDpGfFnA\&index=3) mint manjaro mx                          |   |
-| How to Test Distributions Using Your Web Browser  [Chris Titus Tech](https://www.youtube.com/watch?v=RQaXL3a774o)                                           |   |
-| How to Install Arch Linux on Windows 10 using VirtualBox with the NEW OFFICIAL INSTALL Script!! [SavvyNik](https://www.youtube.com/watch?v=nx5qAUtytW8)     |   |
-| Install .exe file in ubuntu, Kali Linux, CentOS and other Linux Distros \| Install .exe file in Linux [TecHub](https://www.youtube.com/watch?v=uasl5KxzETo) |   |
-|                                                                                                                                                             |   |
+|                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Why I Switched from Arch to Debian [DorianDotSlash](https://www.youtube.com/watch?v=EUHmEO3\_zjU)                                                           |
+| Installing Debian Linux 2.1 From 1999 Was A Painful Experience ... [NCommander](https://www.youtube.com/watch?v=tQQCcvFUzrg)                                |
+| Fedora 34 \| This is the ABSOLUTE Best Linux Distro of 2021 Yet (NEW RELEASE!) [Linux Tex](https://www.youtube.com/watch?v=bMQaGM3N9zg)                     |
+| 世界排名前3名的Linux桌面系统 \| [零度解说](https://www.youtube.com/watch?v=3lQrwvIgDdY\&list=TLPQMjcwODIwMjFpmYxDpGfFnA\&index=3) mint manjaro mx                          |
+| How to Test Distributions Using Your Web Browser  [Chris Titus Tech](https://www.youtube.com/watch?v=RQaXL3a774o)                                           |
+| How to Install Arch Linux on Windows 10 using VirtualBox with the NEW OFFICIAL INSTALL Script!! [SavvyNik](https://www.youtube.com/watch?v=nx5qAUtytW8)     |
+| Install .exe file in ubuntu, Kali Linux, CentOS and other Linux Distros \| Install .exe file in Linux [TecHub](https://www.youtube.com/watch?v=uasl5KxzETo) |
+|                               自由軟件協會真理部 [u](https://www.youtube.com/channel/UCVO7lXKucA6z3O37WV7FG5w)                                                                                                                              |
+|                                          archlinuxstudio [s](https://archlinuxstudio.github.io/) [git](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)                                                                                                                   |
+|                                                     Arch Linux 安装使用教程 [git](https://github.com/ArchLinuxStudio/ArchLinuxTutorial)                                                                                                        |
+|                                                                         蚌埠居士蚌埠住 [B](https://space.bilibili.com/1993346831)                                                                                    |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
 
 ## UP主
 
@@ -211,6 +217,7 @@
 |                                                                       |                                                                         |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | **gnome-look(**[**s**](https://www.gnome-look.org/browse/cat/)**, )** | **GNOME Shell Extensions(**[**s**](https://extensions.gnome.org)**, )** |
+|                                Give Your GNOME Desktop The Wow Factor Nord Color Pallete  [Linux Scoop](https://www.youtube.com/watch?v=Z9NeWoDN7wc)                                       |                                                                     |
 
 ## 运维
 

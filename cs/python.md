@@ -303,6 +303,7 @@
 | Python Django and Google APIs - Project Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_vCT42vDfgw)                                                                            |                                                   |
 | E-commerce Website With Django and Vue Tutorial (Django Rest Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Yg5zkd9nm6w)                                                      |                                                   |
 | Django For Everybody - Full Python University Course [freeCodeCamp](https://www.youtube.com/watch?v=o0XbHvKxw7Y)                                                                         |                                                   |
+| Django Tutorial - Create a Digital Resume with a Python Backend [freeCodeCamp](https://www.youtube.com/watch?v=0oSsLbh_Kv4)                                                                         |                                                   |
 
 | Fabric                                                                                     |   |
 | ------------------------------------------------------------------------------------------ | - |
@@ -399,9 +400,11 @@ https://btsow.cam/search/VS%20Code
 
 vscode 小插件 [v](https://www.douyin.com/video/7008898156960222503)
 
+GitHub Student Developer Pack [s](https://code.visualstudio.com/learn/students/github-pack)
 
+End to End App Development Using Visual Studio Code  Microsoft Reactor [v](https://www.youtube.com/watch?v=Myc1T4n6wn0)
 
-
+Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/learn/modules/introduction-to-github-visual-studio-code/)
 
 
 

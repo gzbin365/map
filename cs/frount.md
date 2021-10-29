@@ -205,6 +205,7 @@
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 麦子学院-利用Sass编写高质量CSS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbNkUTsKNXovhiN0iPXCzTO)   [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx3QnzKg5uCIKz4BMb9fBQd) |
+| Sass Tutorial for Beginners - CSS With Superpowers [freeCodeCamp](https://www.youtube.com/watch?v=_a5j7KoflTs) |
 | CSS [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SeTVVqMM3kySJx0RPSsc9Mn)                                                                                                   |
 | Intro to HTML and CSS [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmd5v7c9i883AwqVZquegHM)                                                                                    |
 | 3D CSS - lighting, animations, and more! [Kevin Powell](https://www.youtube.com/watch?v=NdftnCDwKaU)                                                                                         |
