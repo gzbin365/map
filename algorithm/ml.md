@@ -421,7 +421,7 @@ description: 机器学习
 | 算法：时间序列AIRMA模型 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZoa2x7TTMhKSMngDXLo6-w)                                                                     |
 | 时间序列分析：用数据做预测（第595期）[Data Application Lab](https://www.youtube.com/watch?v=V0RIuYjz65I)                                                                              |
 | <p>数据科学读书会 Book 15 – 《Hands-on Time Series Analysis with Python》</p><p>时间序列分析 第一讲 <a href="https://www.youtube.com/watch?v=7Ndu4G7HJkI">Data Application Lab</a></p> |
-|                                                                                                                                                                      |
+|                                  数据科学读书会 Book 15 - 时间序列分析 单变量时间序列[v](https://www.youtube.com/watch?v=S0jViiUxdHM)                                                                                                                                    |
 |                                                                                                                                                                      |
 
 ### 支持向量机 SVM

@@ -4,6 +4,9 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 宋大叔教音樂 songdashu([u](https://www.youtube.com/c/%E5%AE%8B%E5%A4%A7%E5%8F%94%E6%95%99%E9%9F%B3%E6%A8%82songdashu/playlists), ) | NiceChord (好和弦) ([u](https://www.youtube.com/c/NiceChord%E5%A5%BD%E5%92%8C%E5%BC%A6/playlists), ) |
 | 音乐人生Music Life([u](https://www.youtube.com/channel/UCtErO\_WBz7Gh3EBrkTa9bgQ/playlists), )                                   | Andrew Furmanczyk [u](https://www.youtube.com/c/pianolounge)                                      |
+|                                李泳彬音乐商学 抖音号： [yongbin_li](https://www.douyin.com/user/MS4wLjABAAAAamEjbLdLyyZ93mDgHy6VtknVomLEFeghXwn3VV8sl0I)                                                                                              |                                                                                                   |
+|                                                                                                                              |                                                                                                   |
+|                                                                                                                              |                                                                                                   |
 
 |                                                                                                                                                                                                  |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
@@ -17,3 +20,5 @@
 | 什麼是大調和小調？[NiceChord (好和弦)](https://www.youtube.com/watch?v=T70L-t60j5c)                                                                                                                          |   |
 | 重制版：音乐也有科学道理吗？Do、Re、Mi...都是如何确定的？[李永乐老师讲音律](https://www.youtube.com/watch?v=v5QlocAclXY)                                                                                                         |   |
 | Learn How To Play Piano (NEW) [Andrew Furmanczyk](https://www.youtube.com/playlist?list=PL253192EED47525A8)                                                                                      |   |
+|   |   |
+|   |   |

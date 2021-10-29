@@ -1,12 +1,12 @@
 ---
-description: 窗前NLP，疑似GNN，举头望CV，低头学RL
+description: 算法无涯 窗前NLP，疑似GNN，举头望CV，低头学RL
 ---
 
 # Algorithm
 
-** Murtaza's Workshop - Robotics and AI(**[**u2b**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)**, )**
+ Murtaza's Workshop - Robotics and AI(**[**u2b**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)**, )
 
-****[**topics/algorithm**](https://github.com/topics/algorithm)
+[**topics/algorithm**](https://github.com/topics/algorithm)
 
 
 
@@ -18,6 +18,4 @@ description: 窗前NLP，疑似GNN，举头望CV，低头学RL
 | ---------------------------------------------------------------------------- | - |
 | 不僅僅是編程｜如何成為成功的工程師 [HackBear 泰瑞](https://www.youtube.com/watch?v=xS5Lv7-bMYI) |   |
 
-## ****
 
-****

@@ -14,9 +14,7 @@
 
 柴知道 [u](https://www.youtube.com/channel/UCQtwvRQWnT5Buh9hpvNNryQ)   三個字SunGuts [u](https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY\_MaKNg)
 
-****
 
-****
 
 ****
 
@@ -28,9 +26,13 @@
 | **Time Machine Laboratory(**[**quora**](https://timemachinelaboratory.quora.com)**, )**                                                                                                                        | **WashingtonPost(**[**s**](https://www.washingtonpost.com)**, )**                                                                                                                                                 |
 | 泡菜女博士김치여박사 [u](https://www.youtube.com/channel/UC4NnQdkTV4TaQSFNec00k5A/videos)                                                                                                                                | Primer [u](https://www.youtube.com/c/PrimerLearning/videos)                                                                                                                                                       |
 | 俞敏洪 抖音号： [970308643](https://www.douyin.com/user/MS4wLjABAAAAYkN--6n0AOLCeJK23yGwYvZRwLjfiDONotSIo1a3sdc?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7018203070278503720\&is\_full\_screen=0) | 虎嗅APP　抖音号： [1005522689](https://www.douyin.com/user/MS4wLjABAAAA2MxACf1MWqHhiKVCjyFH5-NxDwJ9o4QY0yC4RCCQsTE?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7012561514771008799\&is\_full\_screen=0) |
+|                猪猪小百科 抖音号： [spblackpig](https://www.douyin.com/user/MS4wLjABAAAAL-FenUAyg04QdVYPD7vC941cUZyClJE92JWTnqIcp8ivcuH6tP9dLxLpvsYZzsVt)                                                                                                                                                                                                |                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                |                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                |                                                                                                                                                                                                                   |
-
+| ABCD妈 抖音号： [FantasticABCD](https://www.douyin.com/user/MS4wLjABAAAAQMse9F2T3mlekFfbZPrRvpcCrnyEd8C7W_qrL991ENg)  |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 ### 实用网站
 
 |                                                                                                                                                              |
