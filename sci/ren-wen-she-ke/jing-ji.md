@@ -25,7 +25,10 @@
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 资本论 抖音号： [51069304](https://www.douyin.com/user/MS4wLjABAAAAd23jWkNJ2yPXAQseofIP-mEdScK7NhS5LFQun6nIjhs)  |
 |  金枪大叔 抖音号： [Jinqiangdashu](https://www.douyin.com/user/MS4wLjABAAAAT4iFvoTOtlJCDuUMyovtft5NLQOnQZ-HECl7EGe-rT0) |
-
+| 兰老师说经济 抖音号： [lanlanshuojingji](https://www.douyin.com/user/MS4wLjABAAAAiBGWl5DacpdCBgNnGN61udRkiKrtEhdyYyUBkJWD1Fc)  |
+|   |
+|   |
+|   |
 
 |                                                                                                |
 | ---------------------------------------------------------------------------------------------- |
@@ -39,11 +42,11 @@
 | 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)             |
 | 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)  |
 
-|                                                                                                                                                                                                                                         |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 说房沁 抖音号： [77706190822](https://www.douyin.com/user/MS4wLjABAAAA8Bdr\_mW9MhX5BnUQjYac3wzXbOvph9Bp\_41jfKmB7o1jIRcvnEHsUeJfHtmwSwcD?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7014315812341255460\&is\_full\_screen=0) |   |
-|                                                                                                                                                                                                                                         |   |
-|                                                                                                                                                                                                                                         |   |
+|                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 说房沁 抖音号： [77706190822](https://www.douyin.com/user/MS4wLjABAAAA8Bdr\_mW9MhX5BnUQjYac3wzXbOvph9Bp\_41jfKmB7o1jIRcvnEHsUeJfHtmwSwcD?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7014315812341255460\&is\_full\_screen=0) |
+|                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                         |
 
 ###
 
