@@ -372,8 +372,11 @@
 | **Visual Studio Code(**[**u**](https://www.youtube.com/c/Code/featured)**, **[**site**](https://code.visualstudio.com)**, **[**new version**](https://code.visualstudio.com/updates)**, **[**docs**](https://code.visualstudio.com/docs)**, **[**Settings Sync**](https://code.visualstudio.com/docs/editor/settings-sync)**, )** |
 | Bill Raymond([u](https://www.youtube.com/c/WilliamRaymondPM/featured), )                                                                                                                                                                                                                                                          |
 | Code 2020([u](https://www.youtube.com/c/Code2020/playlists), [s](https://code2020.dev), )                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                                                                                                   |
-
+|                      Visual Studio Code on Linux [s](https://code.visualstudio.com/docs/setup/linux)                                                                                                                                                                                                                                                                                                             |
+|   |
+|   |
+|   |
+|   |
 ****
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
