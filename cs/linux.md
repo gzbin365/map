@@ -131,7 +131,11 @@
 | 简单、有趣、好玩的linux 命令 [1](https://www.douyin.com/video/7013662253362728204) [2](https://www.douyin.com/video/7013663099731463427)           |
 | Linux学习和在线查询的地方 [v](https://www.douyin.com/video/6996602095361133860)                                                                   |
 | Linux靠一行命令，让我在公司偷师学艺 [v](https://www.douyin.com/video/6976598390675082500)                                                              |
-|                                                                                                                                         |
+| 10分钟学会在Linux里用命令搜索文件和查找文件内容 [跟山地人学前端](https://www.youtube.com/watch?v=NKf8GGd2txM)  |
+| AWK文本处理工具入门教程 [黄浩杰](https://www.youtube.com/playlist?list=PLAnjpYDY-l8Le8Zcj4TPVe96mK107B9iT)  |
+| Awk: Hack the planet['s text]! (Presentation) [Benjamin Porter](https://www.youtube.com/watch?v=43BNFcOdBlY)  |
+|   |
+|   |
 
 ## 嵌入式
 
@@ -155,14 +159,14 @@
 
 | 课程                                                                                                                                                              |      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ****[**Git & GitHub Full Course in 5 Hours**](https://www.youtube.com/watch?v=KMOmw19ZCGs)****                                                                  | **** |
-| ****[**Git Tutorial for Beginners: Learn Git in 1 Hour**](https://www.youtube.com/watch?v=8JJ101D3knE)****                                                      | **** |
-| ****[**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk)****                                                          | **** |
-| ****[**Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth**](https://www.youtube.com/watch?v=DVRQoVRzMIY)****                                      | **** |
-| ****[**Git MERGE vs REBASE**](https://www.youtube.com/watch?v=CRlGDDprdOQ)****                                                                                  | **** |
-| ****[**A Better Git Workflow with Rebase**](https://www.youtube.com/watch?v=f1wnYdLEpgI)****                                                                    | **** |
-| ****[**Up and Running with Visual Studio Code and GitHub**](https://www.youtube.com/watch?v=ghL-KlAhBnc)****                                                    | **** |
-| ****[**Up and Running with GitHub and Visual Studio 2019**](https://www.youtube.com/watch?v=csgO95sbSfA)****                                                    | **** |
+| ****[**Git & GitHub Full Course in 5 Hours**](https://www.youtube.com/watch?v=KMOmw19ZCGs)****                                                                  |   |
+| ****[**Git Tutorial for Beginners: Learn Git in 1 Hour**](https://www.youtube.com/watch?v=8JJ101D3knE)****                                                      |   |
+| ****[**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk)****                                                          |   |
+| ****[**Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth**](https://www.youtube.com/watch?v=DVRQoVRzMIY)****                                      |   |
+| ****[**Git MERGE vs REBASE**](https://www.youtube.com/watch?v=CRlGDDprdOQ)****                                                                                  |   |
+| ****[**A Better Git Workflow with Rebase**](https://www.youtube.com/watch?v=f1wnYdLEpgI)****                                                                    |   |
+| ****[**Up and Running with Visual Studio Code and GitHub**](https://www.youtube.com/watch?v=ghL-KlAhBnc)****                                                    |   |
+| ****[**Up and Running with GitHub and Visual Studio 2019**](https://www.youtube.com/watch?v=csgO95sbSfA)****                                                    |   |
 | **Using Version Control in VS Code(**[**blog**](https://code.visualstudio.com/docs/editor/versioncontrol)**, )**                                                |      |
 | Git Tutorials \| Git for Beginners to Advance([Academic Lesson](https://www.youtube.com/watch?v=Dri7arJyHSc\&list=PLq94LoYzjZToDXVUp4fkhf64Qd1hZ3D5\_))         |      |
 | Git权威指南 [Online learning网络课堂](https://www.youtube.com/playlist?list=PLLPovsDEpByYqZOJlFWcq5foNqFLxYVNE)                                                         |      |
@@ -178,6 +182,15 @@
 | Git & Github 超简单入门教学 10分钟学会使用github！[Erin Zhang](https://www.youtube.com/watch?v=J19teH0me\_4\&t=492s)                                                          |      |
 | 一次听明白Github什么是 \| git如何与github协作 \| github上如何参与开源项目 【设计师的100个前端问题-06】 [学习呀三木](https://www.youtube.com/watch?v=88iPjxeaXpg)                                      |      |
 | Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git [freeCodeCamp](https://www.youtube.com/watch?v=Uszj\_k0DGsg)           |      |
+|  github 使用教程 [互联网开发教程](https://www.youtube.com/playlist?list=PL8LR_PrSuIRh57eeYlY9vhv9dRYmTsErB) |   |
+| Git [William Pitt](https://www.youtube.com/playlist?list=PLkjjc9jUW2M7Q6OqqXvjVIh4Dnqt56HPx)  |   |
+| github教程 [Michael Wang](https://www.youtube.com/playlist?list=PLzkGkhDzu1sC9_AjiSvOUPMq7Q2Mjy1RW)  |   |
+| 玩轉Git三劍客 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGoMenGfAXl91eZ4jwRzqxB)  [boy beach](https://www.youtube.com/playlist?list=PL_HdgLhuV9LWW-x1ZYI4wgWKCuDGWtJBV)  |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
 
 | 软件                                                                                                                      |                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -264,10 +277,12 @@
 | ** dragon\_mc77(**[**u**](https://www.youtube.com/channel/UCz6Pi59nS8Em1uZUpbVgwVQ/videos)**, )**                                                                                             | ** Lofi Girl(**[**u**](https://www.youtube.com/c/LofiGirl/videos)**, )**                                    |
 | **unsplash(**[**s**](https://unsplash.com)**, )**                                                                                                                                             | ** WLOP(**[**u**](https://www.youtube.com/c/WLOP/videos)**, )**                                             |
 
-|                                                                                             |   |
-| ------------------------------------------------------------------------------------------- | - |
-| Fcitx                                                                                       |   |
-| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA) |   |
-|                                                                                             |   |
-
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| Fcitx                                                                                       |
+| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA) |
+|                                                                                             |
+| STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw)  |
+|   |
+|   |
 ****
