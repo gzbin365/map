@@ -50,6 +50,11 @@
 | Embedding Lua in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z3nhfJyRRWGRXHaXgNX0Itk)                                                        |
 | C++ Programming in Linux Tutorial [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXJqwYuIpLtG4mXxRJBacqx)                                          |
 | C++ Course (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=uhFpPlMsLzY)                                                                                    |
+|Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty]([link](https://www.youtube.com/watch?v=xPqnoB2hjjA))  |
+|  |
+|  |
+|  |
+
 
 ### 设计模式
 
