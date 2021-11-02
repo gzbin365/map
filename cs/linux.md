@@ -1,8 +1,10 @@
 # Linux
 
-****[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
+[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
-[**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)****
+[**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
+
+Linux: The Origin Story [Hardcoded]([link](https://www.youtube.com/watch?v=s7u7jBwIocU))
 
 
 
