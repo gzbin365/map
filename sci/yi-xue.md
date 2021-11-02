@@ -5,7 +5,7 @@
 | **医学视频站**[** u**](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists) | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
 | 医路向前巍子 抖音号： [ylxqvzi](https://www.douyin.com/user/MS4wLjABAAAArpWodT3Pj5GRZkmJREQ9oT3EBk5nbGsIu80t-J854EU)  |  隋主任谈失眠抑郁 抖音号： [41251832215](https://www.douyin.com/user/MS4wLjABAAAALZ_StlqRQCXwC9eydAaS1KA9cy3VK7LOQVLWiuvqOV9GwfNSSoMcRIRchaARzOq3) |
 |  皮肤科教授 王群 抖音号： [pifukewangqun](https://www.douyin.com/user/MS4wLjABAAAAu_2lMbpzx8g4f3mVICcNR2TZD4ZmsLnEr79kk0U8t_hRDifSDJuhEg2MhtRqqvqN) |   |
-|   |   |
+| 乳腺外科陶思丰医生 抖音号： [taosifeng](https://www.douyin.com/user/MS4wLjABAAAANkcYXX_eoeMGZDoZZnSzn0YIPFf8Bwt2z22RYbqQWeI)  |   |
 |   |   |
 |   |   |
 
