@@ -201,7 +201,7 @@ Linux: The Origin Story [Hardcoded]([link](https://www.youtube.com/watch?v=s7u7j
 | Git [William Pitt](https://www.youtube.com/playlist?list=PLkjjc9jUW2M7Q6OqqXvjVIh4Dnqt56HPx)  |   |
 | github教程 [Michael Wang](https://www.youtube.com/playlist?list=PLzkGkhDzu1sC9_AjiSvOUPMq7Q2Mjy1RW)  |   |
 | 玩轉Git三劍客 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGoMenGfAXl91eZ4jwRzqxB)  [boy beach](https://www.youtube.com/playlist?list=PL_HdgLhuV9LWW-x1ZYI4wgWKCuDGWtJBV)  |   |
-|   |   |
+| Git Complete Course with Github and Bitbucket 👍🔥 [SkoonCode](https://www.youtube.com/watch?v=eBmG7keE8B4)  |   |
 |   |   |
 |   |   |
 |   |   |
