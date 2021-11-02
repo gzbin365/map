@@ -210,6 +210,8 @@
 | Game Development for Noobs \| Beginner Guide [Flow Studio](https://www.youtube.com/watch?v=7C92ZCnlmQo)                                                         |
 | RenPy Tutorial for Beginners \| Create a Visual Novel Game with Ren'Py [Zeil Learnings](https://www.youtube.com/watch?v=C3Ldd-5PKCw)                            |
 | Make Your Own Visual Novel! \| Ren'Py Tutorial Part 1 [Learning With B and E](https://www.youtube.com/watch?v=vith10gG8L4)                                      |
+|"Game Development in Eight Bits" by Kevin Zurawel [Strange Loop Conference](https://www.youtube.com/watch?v=TPbroUDHG0s) |
+
 
 ### 虚幻引擎 Unreal Engine
 
