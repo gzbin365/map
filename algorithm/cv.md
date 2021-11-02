@@ -149,6 +149,15 @@ description: 机器视觉
 | [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge |
 | Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                         |
 
+### OCR
+
+|   |
+| - |
+| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)  |
+|   |
+|   |
+
+
 ## 视觉 Attention
 
 |                                                                   |   |
