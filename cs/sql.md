@@ -22,7 +22,7 @@
 | 宇哥玩Access数据库 抖音号： [datamap1999](https://www.douyin.com/user/MS4wLjABAAAAin9w9OsIhOrpoHa15hIs0ZMLQYWjCGVwJZznOi39pg0?author\_id=92217300043\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6899788817893477635\&group\_id=6899788817893477635\&log\_pb=%7B%22impr\_id%22%3A%22021633809810658fdbddc0300fff0010a8a62d5000000576f83d8%22%7D) |
 |                                                                                                                                                                                                                                                                                                                                                              |
 | 【千锋软件测试】MySql数据库基础教程（19集） [千锋教育]([link](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4QHDOP6wfVTjV5a7w0d4g9))  |
-|   |
+| You Don't Need MySQL Anymore! You Can Use VSCode Instead [CoderOne]([link](https://www.youtube.com/watch?v=MkSgscvxaU8))  |
 |   |
 |   |
 |   |
