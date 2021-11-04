@@ -11,7 +11,7 @@ description: 用数学充实人生
 | **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                            | **NYCU OCW(**[**u**](https://www.youtube.com/c/NYCUOCW/featured)**, )**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | DayDayUp([u](https://www.youtube.com/c/DayDayUp/featured), [s](https://ddup.io), )              | 可汗学院Khan Academy([u](https://www.youtube.com/c/khanacademy/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Oxford Mathematics([u](https://www.youtube.com/channel/UCLnGGRG\_\_uGSPLBLzyhg8dQ/playlists), ) | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**, **[**s**](https://ocw.mit.edu)**, **[**tw**](https://twitter.com/mitocw)**, **[**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**, **[**fb**](https://www.facebook.com/MITOCW/)**, **[**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**, **[**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**, **[**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, )** |
-|                                                                                                 | 早稻田大学桃子早稻田实验室([u](https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg/videos), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Encyclopedia of Mathematics [s](https://encyclopediaofmath.org)                                 | 早稻田大学桃子早稻田实验室([u](https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg/videos), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## UP主
 
@@ -237,21 +237,23 @@ description: 用数学充实人生
 
 ### 群论 Group Theory
 
-|                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                 |
-| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                       |
-| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                            |
-| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                          |
-| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                  |
-| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                   |
-| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                 |
-| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv) |
-| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                   |
-| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                   |
-| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                             |
-| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
-| Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                    |
+| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                          |
+| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                               |
+| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                             |
+| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                     |
+| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                      |
+| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                    |
+| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv)    |
+| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                      |
+| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                      |
+| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                                |
+| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                     |
+| Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                                 |
+| Group theory   [wiki](https://en.wikipedia.org/wiki/Group\_theory)   [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory) |
+|                                                                                                                                               |
 
 #### 置换群 Permutation Group
 
