@@ -20,7 +20,7 @@ description: 用数学充实人生
 | **Yen-Lung Tsai(**[**u**](https://www.youtube.com/c/iyenlung/playlists)**, **[**复变**](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo)**)**                                    | **The Math Student(**[**u**](https://www.youtube.com/c/ThemathstudentAu/playlists)**, )**                                                                                                                                                                                                                                                                                        |
 | **Zach Star(**[**u**](https://www.youtube.com/c/zachstar/playlists)**, )**                                                                                                                                | **Numberphile(**[**u**](https://www.youtube.com/user/numberphile/featured)**, )**                                                                                                                                                                                                                                                                                                |
 | **mathematicalmonk(**[**u**](https://www.youtube.com/user/mathematicalmonk/playlists)**, )**                                                                                                              | **Auctux(**[**u**](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf\_KSpyA/videos)**, )**                                                                                                                                                                                                                                                                                      |
-| **Coding Math(**[**u**](https://www.youtube.com/user/codingmath/featured)**, **[**Episodes**](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)**, )**                            | \*\*\*\*                                                                                                                                                                                                                                                                                                                                                                         |
+| **Coding Math(**[**u**](https://www.youtube.com/user/codingmath/featured)**, **[**Episodes**](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)**, )**                            | Math Visualized [u](https://www.youtube.com/channel/UCnym\_SvWIt\_VfycYNt105aQ)                                                                                                                                                                                                                                                                                                  |
 | **有一种悲伤叫颓废(**[**B**](https://space.bilibili.com/387821788)**, )**                                                                                                                                         | **Manim Kindergarten(**[**u**](https://www.youtube.com/channel/UCk1nsj8AvzuSVL\_I4JieVNQ/videos)**, )**                                                                                                                                                                                                                                                                          |
 | **Flammable Maths(**[**u**](https://www.youtube.com/c/papaflammy/featured)**, )**                                                                                                                         | **Theorem of Beethoven(**[**u**](https://www.youtube.com/c/TheoremofBeethoven/playlists)**, )**                                                                                                                                                                                                                                                                                  |
 | **陳昭瑋老師(**[**u**](https://www.youtube.com/user/d22538366/playlists)**, )**                                                                                                                                | **PyB TV(**[**u**](https://www.youtube.com/c/PyBTV/playlists)**, )**                                                                                                                                                                                                                                                                                                             |
@@ -237,20 +237,21 @@ description: 用数学充实人生
 
 ### 群论 Group Theory
 
-|                                                                                                                                            |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                 |   |
-| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                       |   |
-| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                            |   |
-| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                          |   |
-| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                  |   |
-| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                   |   |
-| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                 |   |
-| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv) |   |
-| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                   |   |
-| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                   |   |
-| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                             |   |
-| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |   |
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                 |
+| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                       |
+| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                            |
+| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                          |
+| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                  |
+| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                   |
+| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                 |
+| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv) |
+| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                   |
+| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                   |
+| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                             |
+| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
+| Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
 
 #### 置换群 Permutation Group
 
