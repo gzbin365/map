@@ -119,7 +119,7 @@ description: 解决问题是一种快乐
 | 数据结构面试题 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYn-DwaTGWwXQNc12h19-Ho)                                 |
 | Data Structures - Computer Science Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=zg9ih6SVACc)       |
 | Binary Tree Algorithms for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=fAAZixBzIAI) |
-|                                                                                                                           |
+| Data Structures: Hash Tables [HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)                                    |
 |                                                                                                                           |
 
 ## 大O复杂性 Big O Complexity
