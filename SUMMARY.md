@@ -70,3 +70,4 @@
 * [文学](literature.md)
 * [赞助本站](zan-zhu-ben-zhan.md)
 * [other](other.md)
+* [view on Github](https://github.com/gzbin365/map)
