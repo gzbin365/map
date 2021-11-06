@@ -58,7 +58,7 @@
     * [管理学](sci/ren-wen-she-ke/guan-li-xue.md)
     * [心理学](sci/ren-wen-she-ke/xin-li-xue.md)
     * [会计](sci/ren-wen-she-ke/hui-ji.md)
-    * [传统](sci/ren-wen-she-ke/mi-xin.md)
+    * [传统](sci/mi-xin.md)
   * [地理](sci/di-li.md)
   * [艺术](sci/art/README.md)
     * [美术](sci/art/mei-shu.md)
