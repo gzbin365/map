@@ -30,9 +30,9 @@
 |                                                                                                                                             |   |
 |                                                                                                                                             |   |
 
-| **ArtStation(**[**site**](https://www.artstation.com)**, **[**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                     |                                               |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------- |
-| [**wang**](https://www.artstation.com/wangchen)****                                                                          | [**Lou LL**](https://www.artstation.com/arroll)**** | [N I X E U](https://www.artstation.com/nixeu) |
+| **ArtStation(**[**site**](https://www.artstation.com)**, **[**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                         |                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| [**wang**](https://www.artstation.com/wangchen)\*\*\*\*                                                                      | [**Lou LL**](https://www.artstation.com/arroll)\*\*\*\* | [N I X E U](https://www.artstation.com/nixeu) |
 
 ### Sketch
 
@@ -63,11 +63,12 @@
 
 ### blender
 
-|                                                                                                     |   |
-| --------------------------------------------------------------------------------------------------- | - |
-| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)  |   |
-| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)             |   |
-| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ) |   |
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)  |
+| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)             |
+| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ) |
+| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)     |
 
 ## 动画 Animated
 
@@ -82,4 +83,3 @@
 | 天合后期老毛 抖音号： [hqlm999](https://www.douyin.com/user/MS4wLjABAAAAgFU11AaduuCNSEoE8vlgeCyy24wKI1xCeoasDVo7CPU) |   |
 |                                                                                                            |   |
 |                                                                                                            |   |
-
