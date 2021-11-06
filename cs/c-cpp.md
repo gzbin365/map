@@ -4,7 +4,7 @@
 
 **Pezzza's Work(**[**u**](https://www.youtube.com/c/PezzzasWork/playlists)**, **[**git**](https://github.com/johnBuffer)**, **[**ML**](https://www.youtube.com/playlist?list=PLPiMlUuvmixDbWqb4g3UfZHGnUpFBsb-h)**, )**
 
-| ****                                                              | ****                                                                                  |
+| \*\*\*\*                                                          | \*\*\*\*                                                                              |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | **C Programmers(**[**quora**](https://cstdspace.quora.com)**, )** | CodeBeauty([u](https://www.youtube.com/c/CodeBeauty/playlists), )                     |
 | 爱敲代码的干物妹小埋 [B](https://space.bilibili.com/22874975)               | Cᐩᐩ Weekly With Jason Turner([u](https://www.youtube.com/user/lefticus1/playlists), ) |
@@ -16,7 +16,7 @@
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | C++ Programming Tutorial for Beginners (For Absolute Beginners) [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) |
-| ****[**Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) **](https://www.youtube.com/watch?v=i\_Iq4\_Kd7Rc)** freeCodeCamp 5:03:46**              |
+| [**\*\*Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) \*\***](https://www.youtube.com/watch?v=i\_Iq4\_Kd7Rc)** freeCodeCamp 5:03:46**          |
 | **C++ Programming All-in-One Tutorial Series (10 HOURS!)(**[**Caleb Curry**](https://www.youtube.com/watch?v=\_bYFu9mBnr4)**)**                                  |
 | **Forbidden C++(**[**javidx9**](https://www.youtube.com/watch?v=j0\_u26Vpb4w)**)**                                                                               |
 | C++ by [Saurabh Shukla](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF)                                                                |
@@ -25,7 +25,7 @@
 | C++ [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)                                                                       |
 | How C++ Works [The Cherno](https://www.youtube.com/watch?v=SfGuIVzE\_Os)                                                                                         |
 | **POINTERS in C++(**[**The Cherno**](https://www.youtube.com/watch?v=DTxHyVn0ODg)**)**                                                                           |
-| Pointers in C / C++  [freeCodeCamp](https://www.youtube.com/watch?v=zuegQmMdy8M)                                                                                 |
+| Pointers in C / C++ [freeCodeCamp](https://www.youtube.com/watch?v=zuegQmMdy8M)                                                                                  |
 | **Object Oriented Programming in C++(**[**Geek's Lesson**](https://www.youtube.com/watch?v=e6dNkvDk120\&list=PLq94LoYzjZTpCd1c-bwMCo70PFTL7-7WS\&index=1)**)**   |
 | Object Oriented Programming (OOP) in C++ Course [freeCodeCamp](https://www.youtube.com/watch?v=wN0x9eZLix4)                                                      |
 | 计算机程序设计-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyl195Ryp0AfyhS4jwjKjUh))                                                                 |
@@ -50,11 +50,10 @@
 | Embedding Lua in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z3nhfJyRRWGRXHaXgNX0Itk)                                                        |
 | C++ Programming in Linux Tutorial [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXJqwYuIpLtG4mXxRJBacqx)                                          |
 | C++ Course (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=uhFpPlMsLzY)                                                                                    |
-|Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty]([link](https://www.youtube.com/watch?v=xPqnoB2hjjA))  |
-|  |
-|  |
-|  |
-
+| Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty](\[link]\(https:/www.youtube.com/watch)                    |
+|                                                                                                                                                                  |
+|                                                                                                                                                                  |
+|                                                                                                                                                                  |
 
 ### 设计模式
 
@@ -67,10 +66,10 @@
 
 |                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ****[**程序设计入门-C语言-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZkpQeqWMm-DlGWfKfc6GUC)**中国大学MOOC-慕课**                                                 |
-| ****[**C语言程序设计进阶-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SadB8PbmUtKXqAxdkXs9l8j)**中国大学MOOC-慕课**                                                  |
+| \*\*\*\*[**程序设计入门-C语言-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZkpQeqWMm-DlGWfKfc6GUC)**中国大学MOOC-慕课**                                             |
+| \*\*\*\*[**C语言程序设计进阶-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SadB8PbmUtKXqAxdkXs9l8j)**中国大学MOOC-慕课**                                              |
 | 浙江大学—C语言程序设计 [North-Sea Lord](https://www.youtube.com/playlist?list=PLfr1I1bhn8OKszKcc9mPzVcoDhnRPYYu0)                                                                |
-| ****[**C Programming Course for Beginners**](https://www.youtube.com/watch?v=W-mExx0adrQ)** linuxhint**                                                                |
+| [**C Programming Course for Beginners**](https://www.youtube.com/watch?v=W-mExx0adrQ)** linuxhint**                                                                    |
 | Introduction to Programming in C - Satyadev Nandakumar \| IIT Kanpur: NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2k6GwNhpgSHodGT8wfvgwu) |
 | C语言IDE工具使用 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZJoP64bIKfxQpnu\_QS0QdU)                                                                          |
 | Comparing C to machine language [Ben Eater](https://www.youtube.com/watch?v=yOyaJXpAYZQ)                                                                               |
@@ -79,7 +78,6 @@
 
 ## Book
 
-|                                                                                          |      |
-| ---------------------------------------------------------------------------------------- | ---- |
-| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )** | **** |
-
+|                                                                                          |          |
+| ---------------------------------------------------------------------------------------- | -------- |
+| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )** | \*\*\*\* |

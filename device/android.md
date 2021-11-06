@@ -1,7 +1,5 @@
 # Android/IOS
 
-
-
 |                                                                                     |                                                                             |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) |
@@ -11,7 +9,7 @@
 
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Android Development for Beginners - Full Course **[**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)****                             |
+| **Android Development for Beginners - Full Course **[**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                 |
 | Android 项目实战一：AA小助手 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYuZ89aFNgPuRrxb2mwmGpp)                                                   |
 | Android蓝牙开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbYEkrW6-1GoQwykStSRQgS)                                                           |
 | Android 定位技术 LBS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasVjUrJ69MrnIvxNLhphtq)                                                      |
@@ -58,34 +56,34 @@
 
 | SCRCPY                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------- |
-| [git](https://github.com/Genymobile/scrcpy)   Display and control your Android device                       |
+| [git](https://github.com/Genymobile/scrcpy) Display and control your Android device                         |
 | \[SCRCPY] Control Your Android Phone from PC via USB [kilObit](https://www.youtube.com/watch?v=iRw50zdOf3w) |
 
 ### app
 
-|                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 新闻类APP项目设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbdv87AF8nQz7w2pfJNvGwG)                                                                                               |
-| 使用Angularjs开发Web App [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbV9I2KieLn3GeMrLZX8JrF)                                                                                     |
-| MUI项目实训 社交APP的设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHtRB6UCR978t3-OBY6W6m)                                                                                         |
-| 跨平台APP開發框架 - MUI 全套教程-Cross-platform APP development framework-MUI full set of tutorials [china refer](https://www.youtube.com/playlist?list=PLHxM50fGnEoUgwJLziNnaHH\_x4p0EWGG-)          |
-| APP推广及运营实操 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha5csqfmDwLfpGLSvG7yMPC)                                                                                               |
-| 移动打车App [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha6uWyD0nZQZcPCrcxO2f4f)                                                                                                  |
-| 小麦听书 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY-K8-0m-5gcmm3SpEsgi4A)                                                                                                     |
-| 项目制作 简易版QQ [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaQu22fUsawanjdZMpC82gh)                                                                                               |
-| 快速提升UI设计能力 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhauqAbfE9OTwr7heLC6gtjC)                                                                                               |
-| 麦子学院-产品经理-热门产品分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhakna82\_vC12EZVjLQMdXwN)   [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx2q7rXUEIE7Mo-suz2EySU) |
-| 麦子学院-移动前端开发项目 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTySV6uiSGMbHFVcy194UUH6)                                                                                         |
-| 麦子学院-敏捷开发软件工程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwLQBpav1PiuqnhoTUIzToD)                                                                                         |
-| How To Create A Video Chat App With WebRTC [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)                                                                               |
-| Low-Code Tutorial – Build 3 Financial Apps (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=skq7E2xS1Bo)                                                                       |
+|                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 新闻类APP项目设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbdv87AF8nQz7w2pfJNvGwG)                                                                                             |
+| 使用Angularjs开发Web App [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbV9I2KieLn3GeMrLZX8JrF)                                                                                   |
+| MUI项目实训 社交APP的设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHtRB6UCR978t3-OBY6W6m)                                                                                       |
+| 跨平台APP開發框架 - MUI 全套教程-Cross-platform APP development framework-MUI full set of tutorials [china refer](https://www.youtube.com/playlist?list=PLHxM50fGnEoUgwJLziNnaHH\_x4p0EWGG-)        |
+| APP推广及运营实操 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha5csqfmDwLfpGLSvG7yMPC)                                                                                             |
+| 移动打车App [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha6uWyD0nZQZcPCrcxO2f4f)                                                                                                |
+| 小麦听书 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY-K8-0m-5gcmm3SpEsgi4A)                                                                                                   |
+| 项目制作 简易版QQ [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaQu22fUsawanjdZMpC82gh)                                                                                             |
+| 快速提升UI设计能力 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhauqAbfE9OTwr7heLC6gtjC)                                                                                             |
+| 麦子学院-产品经理-热门产品分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhakna82\_vC12EZVjLQMdXwN) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx2q7rXUEIE7Mo-suz2EySU) |
+| 麦子学院-移动前端开发项目 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTySV6uiSGMbHFVcy194UUH6)                                                                                       |
+| 麦子学院-敏捷开发软件工程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwLQBpav1PiuqnhoTUIzToD)                                                                                       |
+| How To Create A Video Chat App With WebRTC [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)                                                                             |
+| Low-Code Tutorial – Build 3 Financial Apps (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=skq7E2xS1Bo)                                                                     |
 
-|                                                                                                                                                                                                                                                                                                    |   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| UIView [微软](https://docs.microsoft.com/en-us/dotnet/api/uikit.uiview?view=xamarin-ios-sdk-12)   [苹果](https://developer.apple.com/documentation/uikit/uiview)   [简书](https://www.jianshu.com/p/3f555b4d7905)   [面试笔记](https://hit-alibaba.github.io/interview/iOS/Cocoa-Touch/UIView-Basic.html)    |   |
-| 趣味验证码 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaVt0RyVOP2mpZuCeE3l4Ax)                                                                                                                                                                                                            |   |
-| UIKit练习 仿网易新闻首页 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbzJlad6fkYWXEcXGZ9swjo)                                                                                                                                                                                                  |   |
-|                                                                                                                                                                                                                                                                                                    |   |
+|                                                                                                                                                                                                                                                                                           |   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| UIView [微软](https://docs.microsoft.com/en-us/dotnet/api/uikit.uiview?view=xamarin-ios-sdk-12) [苹果](https://developer.apple.com/documentation/uikit/uiview) [简书](https://www.jianshu.com/p/3f555b4d7905) [面试笔记](https://hit-alibaba.github.io/interview/iOS/Cocoa-Touch/UIView-Basic.html) |   |
+| 趣味验证码 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaVt0RyVOP2mpZuCeE3l4Ax)                                                                                                                                                                                                   |   |
+| UIKit练习 仿网易新闻首页 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbzJlad6fkYWXEcXGZ9swjo)                                                                                                                                                                                         |   |
+|                                                                                                                                                                                                                                                                                           |   |
 
 |                                                                                                                         |   |
 | ----------------------------------------------------------------------------------------------------------------------- | - |
@@ -99,7 +97,7 @@
 | IOS多点触控与手势识别 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbOMAbLnNxVQuluZbRD6WyH)                                     |
 | ios团团赚项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaM4fQeQZFK2IyfFycl4jq4)                                         |
 | iOS开发必不可少 数据存储 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhajMEOAK6Bera2NBhRSfJbD)                                   |
-| iOS地理位置及定位系统  [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbdv87AF8nQz7w2pfJNvGwG)                                    |
+| iOS地理位置及定位系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbdv87AF8nQz7w2pfJNvGwG)                                     |
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk) |
 |                                                                                                                                    |
 |                                                                                                                                    |
