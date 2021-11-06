@@ -16,13 +16,21 @@
 | 思想史万有引力 抖音号： [August08\_](https://www.douyin.com/user/MS4wLjABAAAAlpQnZ6TtSPrGf26dfMLgFB8XMbcOGE69ZLtGwfZOghQ?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7008832496410447134\&is\_full\_screen=0)                                                                                                                                          |
 | 圆中的猫头鹰 抖音号： [motoincircle](https://www.douyin.com/user/MS4wLjABAAAA9v-ve\_UHoqbKFNoBtQaFzRqRnel0LO5iagq6Azskot8?author\_id=3512160246\&enter\_from=recommend\&enter\_method=comment\&from\_gid=7018164642350468388\&group\_id=7018164642350468388\&log\_pb=%7B%22impr\_id%22%3A%2220211013084019010212198051520E6678%22%7D)                                  |
 | 随心锁玉璞玉真言 抖音号： [tianshanmulang](https://www.douyin.com/user/MS4wLjABAAAA2hUYuYyOWOMnEtjxmOYgBsg3r2pnntM1zEKY7BWA\_yTHq2l\_okPAc8Bc1Xqi3c4B?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7016909449537359135\&is\_full\_screen=0)                                                                                                              |
-|                                                磊哥说真话 抖音号： [leigeshuozhenhua](https://www.douyin.com/user/MS4wLjABAAAAPmUhSkrZ2MpkEYSWmAiR0xP-pxT1ut092AmLTfek8Yz3qJm6w-mq008E4rBBIEbw)                                                                                                                                                                                                                                                                                                              |
+| 磊哥说真话 抖音号： [leigeshuozhenhua](https://www.douyin.com/user/MS4wLjABAAAAPmUhSkrZ2MpkEYSWmAiR0xP-pxT1ut092AmLTfek8Yz3qJm6w-mq008E4rBBIEbw)                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                              |
 
-|                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------- | - |
-| 北藝大研究所「思考者的自白與答問」[Data Cheng](https://www.youtube.com/playlist?list=PL3B27C4D442EAF880)                                          |   |
-| 懷疑論 Skepticism [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_72nxcEQ7dmK\_MC\_dkW16Sy) |   |
-| 苑举正 怀疑论 [肥洲](https://www.youtube.com/watch?v=Ksvp0pr0GO8)                                                                        |   |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| 北藝大研究所「思考者的自白與答問」[Data Cheng](https://www.youtube.com/playlist?list=PL3B27C4D442EAF880)                                          |
+| 懷疑論 Skepticism [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_72nxcEQ7dmK\_MC\_dkW16Sy) |
+| 苑举正 怀疑论 [肥洲](https://www.youtube.com/watch?v=Ksvp0pr0GO8)                                                                        |
+
+### 人生的意义
+
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| 成功只有一种，那便是以自己的方式，度过一生。 [云裂痕宏观](https://www.douyin.com/video/7026335668942998791) |
+|                                                                                  |
+|                                                                                  |
