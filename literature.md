@@ -6,13 +6,21 @@
 | 解说一一 抖音号： [yiyi2049](https://www.douyin.com/user/MS4wLjABAAAAIKt2XwRwP0Xue8UDNHt-qX90W2qw2UKc580ldhwaBCo?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017749949672738059\&is\_full\_screen=0)                                                                                                       | 录书机 抖音号： [lslyj666](https://www.douyin.com/user/MS4wLjABAAAAZDX0VUBeavfOaJSeYIwY22ykenZv72RwVtZ2kvdlVPs4qUmQYQRjL4la9dU39dl8?author\_id=3320121403648718\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7012943838708911374\&group\_id=7012943838708911374\&log\_pb=%7B%22impr\_id%22%3A%22202110090631180101981141422C12C57F%22%7D)          |
 | 神棋书店 抖音号： [gaoxiaolianzi](https://www.douyin.com/user/MS4wLjABAAAAe-Dmb5OPpi10pwseFqbu9G0shWfXLw2OvGovphOlMNWmoRBm2cU8VIPVDlAgVAzz)                                                                                                                                                                                  | 喻言 抖音号： [1964224116](https://www.douyin.com/user/MS4wLjABAAAAXDFGNWQyFSM9ua7WtTpVs5F5F-3LT5QhMCNNMxwGu90?enter\_from=follow\&enter\_method=video\_title\&from\_gid=7016323966855859464\&is\_full\_screen=0)                                                                                                                                                      |
 | 文学小屋 抖音号： [fenxiangmeixue](https://www.douyin.com/user/MS4wLjABAAAAlrNUkT-fr9sRgtSFVYtqmcTvHY3v9MYp8ogloEJy7xjo4w6EO3wwLig1kk0XwYQL)                                                                                                                                                                                 | 小雨说西游 抖音号： [1770139802](https://www.douyin.com/user/MS4wLjABAAAA8p7NuQTJWRwLfc8vGLoqjIFNXEFBFJ0RIB6v-l3Ahr8?enter\_from=follow\&enter\_method=video\_title\&from\_gid=7016677018808913165\&is\_full\_screen=0)                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                      | 糖糖社长 抖音号： [youha123](https://www.douyin.com/user/MS4wLjABAAAAMPHg3iBO705cnsQmJ01k41qb3dHrYKc94D1oqKT4oY0?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017823279272480007\&is\_full\_screen=0)                                                                                                                                                   |
+| 痞解般若 抖音号： [bore521](https://www.douyin.com/user/MS4wLjABAAAANBHFpw1rzmj9I3l-m0S3rFj00lXhUj0ERRm-U\_OB1f2oNdNkWBNQPtBarAvO1fcx)                                                                                                                                                                                       | 糖糖社长 抖音号： [youha123](https://www.douyin.com/user/MS4wLjABAAAAMPHg3iBO705cnsQmJ01k41qb3dHrYKc94D1oqKT4oY0?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017823279272480007\&is\_full\_screen=0)                                                                                                                                                   |
 
 |                                                                     |
 | ------------------------------------------------------------------- |
 | 孩子二三年级，应该读什么书？[v](https://www.douyin.com/video/7007010159130152224) |
-| 中日美致郁三件套 [v](https://www.douyin.com/video/7000257492508855560)      |
 |                                                                     |
+|                                                                     |
+
+### 论语
+
+|                                                               |
+| ------------------------------------------------------------- |
+| 痞解论语 [痞解般若](https://www.douyin.com/video/7027294686641540352) |
+|                                                               |
+|                                                               |
 
 ## 小说
 
@@ -23,7 +31,15 @@
 | 天天有声书 Audiobooks Daily [u](https://www.youtube.com/channel/UCINw5l-B8O--vAuD8mhBnKw/playlists)                                          |                                                                                                                 |
 |                                                                                                                                         |                                                                                                                 |
 |                                                                                                                                         |                                                                                                                 |
-| ## 有声书                                                                                                                                  |                                                                                                                 |
+|                                                                                                                                         |                                                                                                                 |
+
+|                                                                |
+| -------------------------------------------------------------- |
+| 中日美致郁三件套 [v](https://www.douyin.com/video/7000257492508855560) |
+|                                                                |
+|                                                                |
+
+### 有声书
 
 |                                                                                                                |                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
