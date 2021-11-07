@@ -203,24 +203,24 @@ description: 硬件设备
 
 ## CPU
 
-|                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [How a CPU is made](https://www.youtube.com/watch?v=qm67wbB5GmI) DIY with Ben                                                                                        |
-| 💻 - See How a CPU Works [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                               |
-| 💻 - See What's Inside a CPU [In One Lesson](https://www.youtube.com/watch?v=NKYgZH7SBjk)                                                                            |
-| 💻 - See How Computers Add Numbers [In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)                                                                      |
-| [Zoom Into a Microchip](https://www.youtube.com/watch?v=Fxv3JoS1uY8) NISENet                                                                                         |
-| [How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9](https://www.youtube.com/watch?v=vqs\_0W-MSB0) Fireship                                              |
-| Evolution Of CPU Processing Power [New Mind](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)                                               |
-| **What is CPU,GPU and TPU? Understanding these 3 processing units using Artificial Neural Networks. **[**DO YOU KNOW**](https://www.youtube.com/watch?v=6ZDoFomU10A) |
-| Cortex M系列CPU进阶实验 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbmdUC56MnCb1IYd6Fxk6Cf)                                                                  |
-| Cortex M系列CPU初级实验（1） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbIOi0bW9OpY-rKrKz7I8Un)                                                               |
-| Cortex M系列CPU初级实验（2） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbvPdKxk0OPl9Fs6Bz1UWiX)                                                               |
-| Cortex M系列CPU初级实验（3） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZCS0IRJrDlsEddXkZH0o4P)                                                               |
-| MemCache [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqUuQ2sq3fIMdn9mUd9eJv)                                                                           |
-| 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                        |
-| Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                         |
-|                                                                                                                                                                      |
+|                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [How a CPU is made](https://www.youtube.com/watch?v=qm67wbB5GmI) DIY with Ben                                                                                            |
+| 💻 - See How a CPU Works [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                                   |
+| 💻 - See What's Inside a CPU [In One Lesson](https://www.youtube.com/watch?v=NKYgZH7SBjk)                                                                                |
+| 💻 - See How Computers Add Numbers [In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)                                                                          |
+| [Zoom Into a Microchip](https://www.youtube.com/watch?v=Fxv3JoS1uY8) NISENet                                                                                             |
+| [How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9](https://www.youtube.com/watch?v=vqs\_0W-MSB0) Fireship                                                  |
+| Evolution Of CPU Processing Power [New Mind](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)                                                   |
+| \*\*What is CPU,GPU and TPU? Understanding these 3 processing units using Artificial Neural Networks. \*\*[**DO YOU KNOW**](https://www.youtube.com/watch?v=6ZDoFomU10A) |
+| Cortex M系列CPU进阶实验 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbmdUC56MnCb1IYd6Fxk6Cf)                                                                      |
+| Cortex M系列CPU初级实验（1） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbIOi0bW9OpY-rKrKz7I8Un)                                                                   |
+| Cortex M系列CPU初级实验（2） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbvPdKxk0OPl9Fs6Bz1UWiX)                                                                   |
+| Cortex M系列CPU初级实验（3） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZCS0IRJrDlsEddXkZH0o4P)                                                                   |
+| MemCache [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqUuQ2sq3fIMdn9mUd9eJv)                                                                               |
+| 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                            |
+| Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                             |
+|                                                                                                                                                                          |
 
 ## 蓝牙
 
@@ -249,12 +249,12 @@ description: 硬件设备
 |                                                                                                            |
 |                                                                                                            |
 
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch) |
-|                                                                                       |
-|                                                                                       |
-|                                                                                       |
+|                                                                                        |
+| -------------------------------------------------------------------------------------- |
+| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/) |
+|                                                                                        |
+|                                                                                        |
+|                                                                                        |
 
 ## 机器人 Robot
 
@@ -269,7 +269,7 @@ description: 硬件设备
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1)** Yinan Zuo**                                   |
+| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1)** ** Yinan Zuo                                  |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
 | 机器人基础原理 东北大学 房立金 [电子工程世界](http://training.eeworld.com.cn/course/5410) 共55课时 10小时50分9秒                                                                     |
@@ -297,21 +297,22 @@ description: 硬件设备
 
 ## 数码
 
-|                                                                                             |                                                                                                                                                     |                                                                                                                                     |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **数玩工场(**[**u**](https://www.youtube.com/channel/UCIfhLWcAS2PA47uPJpO1deA)**, )**           | **FUN科技(**[**u**](https://www.youtube.com/channel/UCE7UCIEDIbinkMnNOtSyqzg/featured)**, )**                                                         | \*\*\*\*                                                                                                                            |
-| **潮玩客(**[**u**](https://www.youtube.com/c/%E6%BD%AE%E7%8E%A9%E5%AE%A2/featured)**, )**      | **PCWorld(**[**u**](https://www.youtube.com/c/pcworld/featured)**, )**                                                                              | **Linus Tech Tips(**[**u**](https://www.youtube.com/c/LinusTechTips/featured)**, )**                                                |
-| **雷科技(**[**u**](https://www.youtube.com/channel/UCjXvo3eu0YgvAQx7B5pFRdg/featured)**, )**   | **jw zhang(**[**u**](https://www.youtube.com/channel/UCnN07PVlU-mUxmHvNlY5C2w/featured)**, )**                                                      | **Hardware Unboxed(**[**u**](https://www.youtube.com/c/Hardwareunboxednow/playlists)**, )**                                         |
-| **小寧子(**[**u**](https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g)**, )**            | **轻电科技(**[**u**](https://www.youtube.com/channel/UCxb\_lmEefeVV8RTp9OY2AsA/featured)**, )**                                                         | **CNTV TECH NEWS(**[**u**](https://www.youtube.com/c/CNTVTECHNEWS/featured)**, )**                                                  |
-| **Huan(**[**u**](https://www.youtube.com/channel/UCpmx8TiMv9yR1ncyldGyyVA/featured)**, )**  | **探物科技(**[**u**](https://www.youtube.com/channel/UCdrnmpFy-To4PUPWWu-qevw/featured)**, )**                                                          | **Modding Cafe(**[**u**](https://www.youtube.com/c/ModdingCafeTV/featured)**, )**                                                   |
-| **AZPC(**[**u**](https://www.youtube.com/c/AZPCTV/featured)**, )**                          | **JD大手哥(**[**u**](https://www.youtube.com/user/tasyz/videos)**, )**                                                                                 | **Tech of Tomorrow(**[**u**](https://www.youtube.com/c/Techoftomorrow/featured)**, )**                                              |
-| **科技磁场(**[**u**](https://www.youtube.com/channel/UCYJy6uYsUaqJo4kbxy2ng8w/featured)**, )**  | **Greg Salazar(**[**u**](https://www.youtube.com/c/GregSalazar/featured)**, )**                                                                     | **FView Official Channel(**[**u**](https://www.youtube.com/c/FView/featured)**, )**                                                 |
-| **Yi Wang(**[**u**](https://www.youtube.com/c/YiWang/featured)**, )**                       | **硬件茶谈(**[**u**](https://www.youtube.com/channel/UCYbH8CWlZkNgoE8EY0SoE3g/videos)**, **[**装机**](https://www.youtube.com/watch?v=8AJMRBjoFnQ)**, )** | **Joker Productions(**[**u**](https://www.youtube.com/user/jerzybakes420/featured)**, )**                                           |
-| **中正评测(**[**u**](https://www.youtube.com/channel/UCojSYgmO\_EwKHNHPA9lhykA/featured)**, )** | **Super Kr超极氪(**[**u**](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ)**, )**                                                            | **古哥科技頻道EthanKu’s Tech(**[**u**](https://www.youtube.com/channel/UC4ou-UFD7hd2Pu-58pwKVGg/featured)**, )**                          |
-| \*\* 阿雷科技([**u**](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ/featured), )\*\* | **科技瘾力(**[**B**](https://space.bilibili.com/99814696/)**, )**                                                                                       | \*\* 一起看科技([**u**](https://www.youtube.com/channel/UCbK8nJjja5euysRId-Gkfcw/videos), )\*\*                                          |
-| **engadget(**[**s**](https://www.engadget.com)**, )**                                       | **Techquickie(**[**u**](https://www.youtube.com/c/Techquickie/featured)**, )**                                                                      | **极客湾Geekerwan(**[**u**](https://www.youtube.com/c/geekerwan%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%A5%B5%E5%AE%A2%E7%81%A3/featured)**, )** |
-| Dave2D [u](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)                        | **二斤自制(**[**u**](https://www.youtube.com/channel/UCfZfoX8cqde6Bknw8t8\_rRQ/featured)**, )**                                                         | **Samsung US(**[**u**](https://www.youtube.com/c/SamsungUS/featured)**, )**                                                         |
-|                                                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                         |
+|                                                                                             |                                                                                                                                                     |                                                                                                                                      |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **数玩工场(**[**u**](https://www.youtube.com/channel/UCIfhLWcAS2PA47uPJpO1deA)**, )**           | **FUN科技(**[**u**](https://www.youtube.com/channel/UCE7UCIEDIbinkMnNOtSyqzg/featured)**, )**                                                         |                                                                                                                                      |
+| **潮玩客(**[**u**](https://www.youtube.com/c/%E6%BD%AE%E7%8E%A9%E5%AE%A2/featured)**, )**      | **PCWorld(**[**u**](https://www.youtube.com/c/pcworld/featured)**, )**                                                                              | **Linus Tech Tips(**[**u**](https://www.youtube.com/c/LinusTechTips/featured)**, )**                                                 |
+| **雷科技(**[**u**](https://www.youtube.com/channel/UCjXvo3eu0YgvAQx7B5pFRdg/featured)**, )**   | **jw zhang(**[**u**](https://www.youtube.com/channel/UCnN07PVlU-mUxmHvNlY5C2w/featured)**, )**                                                      | **Hardware Unboxed(**[**u**](https://www.youtube.com/c/Hardwareunboxednow/playlists)**, )**                                          |
+| **小寧子(**[**u**](https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g)**, )**            | **轻电科技(**[**u**](https://www.youtube.com/channel/UCxb\_lmEefeVV8RTp9OY2AsA/featured)**, )**                                                         | **CNTV TECH NEWS(**[**u**](https://www.youtube.com/c/CNTVTECHNEWS/featured)**, )**                                                   |
+| **Huan(**[**u**](https://www.youtube.com/channel/UCpmx8TiMv9yR1ncyldGyyVA/featured)**, )**  | **探物科技(**[**u**](https://www.youtube.com/channel/UCdrnmpFy-To4PUPWWu-qevw/featured)**, )**                                                          | **Modding Cafe(**[**u**](https://www.youtube.com/c/ModdingCafeTV/featured)**, )**                                                    |
+| **AZPC(**[**u**](https://www.youtube.com/c/AZPCTV/featured)**, )**                          | **JD大手哥(**[**u**](https://www.youtube.com/user/tasyz/videos)**, )**                                                                                 | **Tech of Tomorrow(**[**u**](https://www.youtube.com/c/Techoftomorrow/featured)**, )**                                               |
+| **科技磁场(**[**u**](https://www.youtube.com/channel/UCYJy6uYsUaqJo4kbxy2ng8w/featured)**, )**  | **Greg Salazar(**[**u**](https://www.youtube.com/c/GregSalazar/featured)**, )**                                                                     | **FView Official Channel(**[**u**](https://www.youtube.com/c/FView/featured)**, )**                                                  |
+| **Yi Wang(**[**u**](https://www.youtube.com/c/YiWang/featured)**, )**                       | **硬件茶谈(**[**u**](https://www.youtube.com/channel/UCYbH8CWlZkNgoE8EY0SoE3g/videos)**, **[**装机**](https://www.youtube.com/watch?v=8AJMRBjoFnQ)**, )** | **Joker Productions(**[**u**](https://www.youtube.com/user/jerzybakes420/featured)**, )**                                            |
+| **中正评测(**[**u**](https://www.youtube.com/channel/UCojSYgmO\_EwKHNHPA9lhykA/featured)**, )** | **Super Kr超极氪(**[**u**](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ)**, )**                                                            | **古哥科技頻道EthanKu’s Tech(**[**u**](https://www.youtube.com/channel/UC4ou-UFD7hd2Pu-58pwKVGg/featured)**, )**                           |
+| 阿雷科技([**u**](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ/featured), )          | **科技瘾力(**[**B**](https://space.bilibili.com/99814696/)**, )**                                                                                       | 一起看科技([**u**](https://www.youtube.com/channel/UCbK8nJjja5euysRId-Gkfcw/videos), )                                                    |
+| **engadget(**[**s**](https://www.engadget.com)**, )**                                       | **Techquickie(**[**u**](https://www.youtube.com/c/Techquickie/featured)**, )**                                                                      | **极客湾Geekerwan(**[**u**](https://www.youtube.com/c/geekerwan%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%A5%B5%E5%AE%A2%E7%81%A3/featured)**, )**  |
+| Dave2D [u](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)                        | **二斤自制(**[**u**](https://www.youtube.com/channel/UCfZfoX8cqde6Bknw8t8\_rRQ/featured)**, )**                                                         | **Samsung US(**[**u**](https://www.youtube.com/c/SamsungUS/featured)**, )**                                                          |
+|                                                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
+|                                                                                             |                                                                                                                                                     | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
