@@ -54,7 +54,6 @@
     * [哲学](sci/ren-wen-she-ke/zhe-xue.md)
     * [法律](sci/ren-wen-she-ke/fa-lv.md)
     * [经济](sci/ren-wen-she-ke/jing-ji.md)
-    * [法律](sci/ren-wen-she-ke/fa-lv-1.md)
     * [管理学](sci/ren-wen-she-ke/guan-li-xue.md)
     * [心理学](sci/ren-wen-she-ke/xin-li-xue.md)
     * [会计](sci/ren-wen-she-ke/hui-ji.md)
