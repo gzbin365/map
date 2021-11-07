@@ -25,7 +25,7 @@
 |                                                                                                                                                           |                                                                                                                                 | **EuroSciPy(**[**u2b**](https://www.youtube.com/c/EuroSciPy/featured)**, )**                                                                                                                                                                                                                                   |
 | [**Al Sweigart**](https://www.youtube.com/user/Albert10110/featured)                                                                                      | **Termux(**[**v**](https://www.youtube.com/watch?v=bNx2dNKeerA)**, **[**Wiki**](https://wiki.termux.com/wiki/Main\_Page)**, )** |                                                                                                                                                                                                                                                                                                                |
 
-**GNotification(**[**intro**](https://developer.gnome.org/GNotification/)**, **[**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)**, **[**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)**) **[**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)** **[**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
+**GNotification(**[**intro**](https://developer.gnome.org/GNotification/)\*\*, [**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html), [**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)) [**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) \*\*[**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
 
 [**What Does It Take To Be An Expert At Python?**](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 
@@ -37,9 +37,9 @@
 
 ## 机构
 
-|                                                                                                 |                                                                                                                                                                                                  |                                                         |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| Enthought([s](https://www.enthought.com), [u](https://www.youtube.com/c/enthought/playlists), ) | **PyData(**[**u**](https://www.youtube.com/user/PyDataTV/featured)**, **[**info**](https://www.youtube.com/watch?v=J8cVPXnafos)**, **[**v**](https://www.youtube.com/watch?v=0faKezpsxbI)**, )** | **Python论坛 **[**s**](https://python-forum.io/index.php) |
+|                                                                                                 |                                                                                                                                                                                                  |                                                             |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| Enthought([s](https://www.enthought.com), [u](https://www.youtube.com/c/enthought/playlists), ) | **PyData(**[**u**](https://www.youtube.com/user/PyDataTV/featured)**, **[**info**](https://www.youtube.com/watch?v=J8cVPXnafos)**, **[**v**](https://www.youtube.com/watch?v=0faKezpsxbI)**, )** | \*\*Python论坛 \*\*[**s**](https://python-forum.io/index.php) |
 
 ### PyCon
 
@@ -61,16 +61,16 @@
 | Tech-Gram Academy [u](https://www.youtube.com/c/TechGramAcademy/playlists)                                                                                                                                                         | PyPros [u](https://www.youtube.com/channel/UCjSOwkYUtTDjDoPczoTv\_Hw/playlists)                 |
 | 麦叔编程 [u](https://www.youtube.com/channel/UCzJD9VW02TKDVXMoyaEfSiQ/videos)                                                                                                                                                          | 轻松学python [u](https://www.youtube.com/channel/UCKAtZscEaqbrlkefWh8dYig/playlists)               |
 | Python导师-蚂蚁 抖音号： [ant\_python](https://www.douyin.com/user/MS4wLjABAAAAOfSHjUIJ-3xGgVPSnl8a6x3vSV-7tP3OLrW9gV4TD-U)                                                                                                                | DigitalSreeni [u](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/playlists)           |
-|                                                                                                                                                                                                                                    |                                                                                                 |
+| python导师-lisa 抖音号： [python.1](https://www.douyin.com/user/MS4wLjABAAAAsHvA1r04fNGWq-8GjTmdbQiOTJe7eyVQZoQBL-HCGT4)                                                                                                                 |                                                                                                 |
 |                                                                                                                                                                                                                                    |                                                                                                 |
 
 ## 网课
 
-|                                                                                                                                                                                                                                                                                                    |                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **流畅的Python(**[**B**](https://www.bilibili.com/video/BV18i4y1u7Cr/?spm\_id\_from=333.788.b\_7265636f5f6c697374.5)**, )**                                                                                                                                                                           | \*\*\*\*[**5小时学会Python 数据分析与展示(2020年版)**](https://www.youtube.com/watch?v=Obbc3pC5\_g0) |
-| **Python ABC(**[**site**](http://pythonabc.org)**, **[**u2b**](https://www.youtube.com/playlist?list=PLhbhqgpAIh2mJr01xkPJeZplfPDUgnbCz)**, **[**B**](https://www.bilibili.com/video/av28777331?zw)**, **[**tmp**](https://www.bilibili.com/video/av28777331?p=5\&spm\_id\_from=pageDriver)**, )** | \*\*\*\*                                                                                |
-| [**Python制作GIF动图**](https://zhuanlan.zhihu.com/p/39454286)                                                                                                                                                                                                                                         | [**动图数据可视化基础教学**](https://zhuanlan.zhihu.com/p/139084960)                               |
+|                                                                                                                                                                                                                                                                                                    |                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **流畅的Python(**[**B**](https://www.bilibili.com/video/BV18i4y1u7Cr/?spm\_id\_from=333.788.b\_7265636f5f6c697374.5)**, )**                                                                                                                                                                           | [**5小时学会Python 数据分析与展示(2020年版)**](https://www.youtube.com/watch?v=Obbc3pC5\_g0) |
+| **Python ABC(**[**site**](http://pythonabc.org)**, **[**u2b**](https://www.youtube.com/playlist?list=PLhbhqgpAIh2mJr01xkPJeZplfPDUgnbCz)**, **[**B**](https://www.bilibili.com/video/av28777331?zw)**, **[**tmp**](https://www.bilibili.com/video/av28777331?p=5\&spm\_id\_from=pageDriver)**, )** |                                                                                 |
+| [**Python制作GIF动图**](https://zhuanlan.zhihu.com/p/39454286)                                                                                                                                                                                                                                         | [**动图数据可视化基础教学**](https://zhuanlan.zhihu.com/p/139084960)                       |
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -109,7 +109,7 @@
 | Best 8 Python's One line Codes \| PYTHON3x \| One Liners \| Explanation \| Code Optimization [Know-How](https://www.youtube.com/watch?v=eK9PVSAPyiI)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Python Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Python Modules and Libraries [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Python Programming Tutorials (Computer Science) [Socratica](\[link]\(https:/www.youtube.com/playlist)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Python Programming Tutorials (Computer Science) [Socratica](\[link]\(https:/www.youtube.com/playlist/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ### 传智/黑马
 
@@ -119,16 +119,16 @@
 |                                 |
 |                                 |
 
-|                                                                                                                              |   |
-| ---------------------------------------------------------------------------------------------------------------------------- | - |
-| [传智播客 python公开课 —— 8天深入理解Python](https://www.youtube.com/playlist?list=PLC664nq\_h8b-S7tNk9fpFHoesnLG2hmah) Zack Micheal     |   |
-| 传智播客人工智能+Python就业班 第1阶段 Python基础 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_TTg8EwiK5j\_KN5qdQv2ZB) |   |
-| 传智播客Python就业班 02阶段 Python核心编程 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b-lNtVNpQ9KF\_kzQp\_KxG6o)    |   |
-| 传智播客Python就业班 03阶段 数据结构与算法 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_q8Hjq\_q8fbst1TO1AKKz-)       |   |
-| 传智播客Python就业班 04阶段 数据库 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b8uvj568AsoVgIE\_Gr1qesp)            |   |
-| 传智播客Python就业班 05阶段 前端 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b9iCURknzJ\_MA9HNfGyVkzU)             |   |
-| 传智播客Python就业班 06阶段 Django [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_zmgOFoZlOycn\_cH2XZOVz)        |   |
-| 传智播客python就业班 07阶段 爬虫 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b81Eh0jERXmtKk\_CWntvUnB)             |   |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [传智播客 python公开课 —— 8天深入理解Python](https://www.youtube.com/playlist?list=PLC664nq\_h8b-S7tNk9fpFHoesnLG2hmah) Zack Micheal     |
+| 传智播客人工智能+Python就业班 第1阶段 Python基础 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_TTg8EwiK5j\_KN5qdQv2ZB) |
+| 传智播客Python就业班 02阶段 Python核心编程 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b-lNtVNpQ9KF\_kzQp\_KxG6o)    |
+| 传智播客Python就业班 03阶段 数据结构与算法 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_q8Hjq\_q8fbst1TO1AKKz-)       |
+| 传智播客Python就业班 04阶段 数据库 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b8uvj568AsoVgIE\_Gr1qesp)            |
+| 传智播客Python就业班 05阶段 前端 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b9iCURknzJ\_MA9HNfGyVkzU)             |
+| 传智播客Python就业班 06阶段 Django [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b\_zmgOFoZlOycn\_cH2XZOVz)        |
+| 传智播客python就业班 07阶段 爬虫 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b81Eh0jERXmtKk\_CWntvUnB)             |
 
 | 【黑马程序员-基础班】[课件](https://drive.google.com/drive/folders/1REKB3YATno0Wc1I6aQxBc5vT2iwDo2qv)                                                                                                                                                                                 | 抖音号： [itheima1024](https://www.douyin.com/user/MS4wLjABAAAAuUDUhW\_QGqJ0ySmeAcfN3fIrn41WdaZjWzc\_w61IBBV26AJ2fWL2JQo0sUgMLlSN?author\_id=1459740169999095\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7008821469266464014\&group\_id=7008821469266464014\&log\_pb=%7B%22impr\_id%22%3A%22202110090722300101510680314F0B25E1%22%7D) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -200,7 +200,7 @@
 |                                                                                                                                                                                                      |                                                                                  |                                                                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Scheduler(**[**doc**](https://schedule.readthedocs.io/en/stable/)**, **[**git**](https://github.com/dbader/schedule)**, **[**b**](https://dev.to/bhupesh/a-simple-scheduler-in-python-49di)**, )** |                                                                                  | **tqdm(**[**git**](https://github.com/tqdm/tqdm)**, )**                                                                                                                                                                                                                                                                                        |
-| \*\*\*\*                                                                                                                                                                                             | **timeit(**[**文档**](https://docs.python.org/zh-cn/3/library/timeit.html)**, )**  | **BeautifulSoup(**[**doc**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)**, **[**s**](https://www.crummy.com/software/BeautifulSoup/)**, **[**pypi**](https://pypi.org/project/beautifulsoup4/)**, **[**文档**](https://beautifulsoup.readthedocs.io/zh\_CN/v4.4.0/)**, **[**v**](https://www.youtube.com/watch?v=XQgXKtPSzUI)**, )** |
+|                                                                                                                                                                                                      | **timeit(**[**文档**](https://docs.python.org/zh-cn/3/library/timeit.html)**, )**  | **BeautifulSoup(**[**doc**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)**, **[**s**](https://www.crummy.com/software/BeautifulSoup/)**, **[**pypi**](https://pypi.org/project/beautifulsoup4/)**, **[**文档**](https://beautifulsoup.readthedocs.io/zh\_CN/v4.4.0/)**, **[**v**](https://www.youtube.com/watch?v=XQgXKtPSzUI)**, )** |
 | **shutil(**[**doc**](https://docs.python.org/3/library/shutil.html)**, **[**文档**](https://docs.python.org/zh-cn/3/library/shutil.html)**, )**                                                        | Twisted([s](https://twistedmatrix.com/trac/), )                                  | **PyMongo(**[**书栈**](https://www.bookstack.cn/books/pymongo-3.11.0-en)**, )**                                                                                                                                                                                                                                                                  |
 | **Guake(**[**doc**](https://guake.readthedocs.io/en/stable/index.html)**, )**                                                                                                                        | Click([s](https://click.palletsprojects.com), )                                  | **notify-py(**[**pypi**](https://pypi.org/project/notify-py/)**, **[**git**](https://github.com/ms7m/notify-py)**, )**                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                      | wagtail([s](https://wagtail.io), )                                               | scrapy([s](https://scrapy.org), )                                                                                                                                                                                                                                                                                                              |
@@ -219,18 +219,18 @@
 | win32api                                                                                                                          |                                                                                                                                                          |
 | Python for Windows (pywin32) Extensions [s](https://pythonrepo.com/repo/mhammond-pywin32-python-programming-on-microsoft-windows) |                                                                                                                                                          |
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| Learn Dynamic Module Imports In 11 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=ddVm53j80vc) |   |
-| 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)     |   |
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| Learn Dynamic Module Imports In 11 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=ddVm53j80vc) |
+| 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)     |
 
-| Matplotlib                                                                                                       |          |
-| ---------------------------------------------------------------------------------------------------------------- | -------- |
-| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                     |          |
-| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                           |          |
-| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                   | \*\*\*\* |
-| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk) |          |
-| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                              |          |
+| Matplotlib                                                                                                       |   |
+| ---------------------------------------------------------------------------------------------------------------- | - |
+| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                     |   |
+| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                           |   |
+| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                   |   |
+| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk) |   |
+| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                              |   |
 
 |                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -249,25 +249,25 @@
 | Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                               |
 
-|                                                                                                                                                                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| sympy([s](https://www.sympy.org/en/index.html), [doc](https://docs.sympy.org/latest/index.html), [git](https://github.com/sympy/sympy), ) [v](https://www.youtube.com/playlist?list=PLsaLbFPkNd56genYTbFN1OLAqfXKosbTz) [v](https://www.youtube.com/results?search\_query=Sympy) |   |
-| SymPy - Tutorial for Beginners (Python) [MCC Py Tutorials](https://www.youtube.com/watch?v=MGLFA7WjK7M)                                                                                                                                                                          |   |
-| SymPy (Symbolic Expressions on Python) in one video \| Python # 5 [艾哈迈德·巴齐（Ahmad Bazzi)](https://www.youtube.com/watch?v=kx2GzBeGPco)                                                                                                                                            |   |
-| SymPy (Symbolic Expressions on Python) \| The Linear Algebra Edition \| Python # 16 [艾哈迈德·巴齐（Ahmad Bazzi)](https://www.youtube.com/watch?v=Y-AtrKWCOQw)                                                                                                                          |   |
-| 基礎sympy教學 [張譽瀚](https://www.youtube.com/watch?v=3jTRuqtTPts\&list=PLb1dELANBqQ4J\_frmBx8\_Z\_g9O4IkYnRc\&index=30\&t=3s) [python教學](https://www.youtube.com/playlist?list=PLb1dELANBqQ4J\_frmBx8\_Z\_g9O4IkYnRc)                                                                 |   |
-| Python sympy Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVAgoRedF-G6VHawk9d4yuz)                                                                                                                                                           |   |
-| <p>Solving Systems Of Equations Using Sympy And Numpy (Python)</p><p><a href="https://www.youtube.com/watch?v=UbuBwHbZTU8">Andrew Dotson</a></p>                                                                                                                                 |   |
-| Sympy [Basics Abdullah](https://www.youtube.com/watch?v=NFJ0ud30mbA)                                                                                                                                                                                                             |   |
+|                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| sympy([s](https://www.sympy.org/en/index.html), [doc](https://docs.sympy.org/latest/index.html), [git](https://github.com/sympy/sympy), ) [v](https://www.youtube.com/playlist?list=PLsaLbFPkNd56genYTbFN1OLAqfXKosbTz) [v](https://www.youtube.com/results?search\_query=Sympy) |
+| SymPy - Tutorial for Beginners (Python) [MCC Py Tutorials](https://www.youtube.com/watch?v=MGLFA7WjK7M)                                                                                                                                                                          |
+| SymPy (Symbolic Expressions on Python) in one video \| Python # 5 [艾哈迈德·巴齐（Ahmad Bazzi)](https://www.youtube.com/watch?v=kx2GzBeGPco)                                                                                                                                            |
+| SymPy (Symbolic Expressions on Python) \| The Linear Algebra Edition \| Python # 16 [艾哈迈德·巴齐（Ahmad Bazzi)](https://www.youtube.com/watch?v=Y-AtrKWCOQw)                                                                                                                          |
+| 基礎sympy教學 [張譽瀚](https://www.youtube.com/watch?v=3jTRuqtTPts\&list=PLb1dELANBqQ4J\_frmBx8\_Z\_g9O4IkYnRc\&index=30\&t=3s) [python教學](https://www.youtube.com/playlist?list=PLb1dELANBqQ4J\_frmBx8\_Z\_g9O4IkYnRc)                                                                 |
+| Python sympy Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVAgoRedF-G6VHawk9d4yuz)                                                                                                                                                           |
+| <p>Solving Systems Of Equations Using Sympy And Numpy (Python)</p><p><a href="https://www.youtube.com/watch?v=UbuBwHbZTU8">Andrew Dotson</a></p>                                                                                                                                 |
+| Sympy [Basics Abdullah](https://www.youtube.com/watch?v=NFJ0ud30mbA)                                                                                                                                                                                                             |
 
 |                                                                                                         |   |
 | ------------------------------------------------------------------------------------------------------- | - |
 | Echarts和highcharts的使用 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaEqkSKylI1r8YLz1HF23mu) |   |
 
-| NumPy                                                                                           |   |
-| ----------------------------------------------------------------------------------------------- | - |
-| TutorialsPoint NumPy 教程 ([书栈](https://www.bookstack.cn/books/ts-numpy-tut-zh), )                |   |
-| Python NumPy Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) |   |
+| NumPy                                                                                           |
+| ----------------------------------------------------------------------------------------------- |
+| TutorialsPoint NumPy 教程 ([书栈](https://www.bookstack.cn/books/ts-numpy-tut-zh), )                |
+| Python NumPy Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) |
 
 | SciPy                                                                                                          |   |
 | -------------------------------------------------------------------------------------------------------------- | - |
@@ -346,9 +346,9 @@
 | **Tkinter(**[**v**](https://www.youtube.com/watch?v=itRLRfuL\_PQ)**, )**                                                                                                   | **collections(**[**b**](https://blog.csdn.net/abc\_12366/article/details/80447228)**, )**    |
 | Qt([u](https://www.youtube.com/c/QtStudios/featured), ) [wiki](https://wiki.qt.io/Qt\_for\_Python)                                                                         | Alan D Moore Codes([u](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured), ) |
 
-| up                                                                                                       |          |
-| -------------------------------------------------------------------------------------------------------- | -------- |
-| **Alan D Moore Codes(**[**u**](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured)**, )** | \*\*\*\* |
+| up                                                                                                       |   |
+| -------------------------------------------------------------------------------------------------------- | - |
+| **Alan D Moore Codes(**[**u**](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured)**, )** |   |
 
 | 视频                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -376,7 +376,7 @@
 |                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                   |
-| \*\*\*\*                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                   |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 
@@ -434,9 +434,9 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | ------------------------------------------------------------------------------------- | - |
 | Microsoft Visual Studio [u](https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w) |   |
 
-|                                                                                            |          |
-| ------------------------------------------------------------------------------------------ | -------- |
-| **VSCode源码分析 (**[**书栈**](https://www.bookstack.cn/books/VSCode-sourcecode-analysis)**, )** | \*\*\*\* |
+|                                                                                            |   |
+| ------------------------------------------------------------------------------------------ | - |
+| **VSCode源码分析 (**[**书栈**](https://www.bookstack.cn/books/VSCode-sourcecode-analysis)**, )** |   |
 
 ## Idea
 
@@ -450,7 +450,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Cython(**[**s**](https://cython.org)**, **[**v**](https://www.youtube.com/watch?v=8DuyATDaIdM)**, **[**git**](https://github.com/python/cpython)**, **[**doc**](https://cython.readthedocs.io/en/latest/src/tutorial/cython\_tutorial.html)**, 文档(**[**s**](https://cython.apachecn.org)**, **[**git**](https://github.com/apachecn/cython-doc-zh)**, ), **[**书栈**](https://www.bookstack.cn/read/cython-doc-zh/README.md)**, )** | **PyPy(**[**s**](https://www.pypy.org)**, **[**书栈**](https://www.bookstack.cn/books/pypy)**, )**                                                                                      |
 | **pybind11(**[**doc**](https://pybind11.readthedocs.io/en/stable/index.html)**, )**                                                                                                                                                                                                                                                                                                                                                 | **eigen(**[**s**](https://eigen.tuxfamily.org)**, **[**doc**](https://eigen.tuxfamily.org/dox/)**, **[**intro**](https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html)**, )** |
-| **eigency(**[**pypi**](https://pypi.org/project/eigency/)**, **[**git**](https://github.com/wouterboomsma/eigency)**, )**                                                                                                                                                                                                                                                                                                           | \*\*\*\*                                                                                                                                                                              |
+| **eigency(**[**pypi**](https://pypi.org/project/eigency/)**, **[**git**](https://github.com/wouterboomsma/eigency)**, )**                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                       |
 
 | Numba                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -463,36 +463,40 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 
 ### CuPy
 
+
+
 | CuPy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **CuPy(**[**s**](https://cupy.dev)**, **[**s2**](https://www.preferred.jp/en/projects/cupy/)**, **[**doc**](https://docs.cupy.dev/en/stable/)**, **[**v**](https://cupy.dev/#videos)**, **[**pypi**](https://pypi.org/project/cupy/)**, **[**git**](https://github.com/cupy/cupy)**, **[**知乎**](https://zhuanlan.zhihu.com/p/80355569)**, **[**Guide**](https://docs.cupy.dev/en/stable/user\_guide/index.html)**, **[**API**](https://docs.cupy.dev/en/stable/reference/index.html)**, **[**examples**](https://github.com/cupy/cupy/tree/master/examples)**, )** |
 | CuPy A NumPy compatible Library for the GPU - [Sean Farley](https://www.youtube.com/watch?v=\_AKDqw6li58)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **CuPy: A NumPy Compatible Library for High Performance Computing with GPU \| **[**SciPy 2019**](https://www.youtube.com/watch?v=GjJRNMTA53s\&t=112s)** \|**                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **CuPy: A Numpy-compatible Library for HPC with GPU \| Masayuki Takagi \| **[**SciPy Japan 2020**](https://www.youtube.com/watch?v=xG1nz3R8H7I)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| \*\*CuPy: A Numpy-compatible Library for HPC with GPU \| Masayuki Takagi \| \*\*[**SciPy Japan 2020**](https://www.youtube.com/watch?v=xG1nz3R8H7I)                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Valentin Haenel: Create CUDA kernels from Python using Numba and CuPy \| [PyData](https://www.youtube.com/watch?v=CQDsT81GyS8) Amsterdam 2019                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | William Horton - CUDA in your Python: Effective Parallel Programming on the GPU - [PyCon 2019](https://www.youtube.com/watch?v=iw8RU4m4Dlo)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-| \*\*\*\*                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **【2021最新版】Python 并发编程实战，用多线程、多进程、多协程加速程序运行(**[**B**](https://www.bilibili.com/video/BV1bK411A7tV?p=3\&spm\_id\_from=pageDriver)**, **[**git**](https://github.com/peiss/ant-learn-python-concurrent)**, **[**aqy**](https://www.iqiyi.com/v\_vj8wqlhe84.html)**, )** |
 
 ### Asyncio
 
-| Asyncio                                                                                                                                                         |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Python Asynchronous Programming - AsyncIO & Async/Await([Tech With Tim](https://www.youtube.com/watch?v=t5Bo1Je9EmE\&list=TLPQMDMwNTIwMjFWurBhFKL2-Q\&index=7)) |   |
-| Asyncio - Asynchronous programming with coroutines([sentdex](https://www.youtube.com/watch?v=BI0asZuqFXM))                                                      |   |
-| Python tricks: Demystifying async, await, and asyncio([Sebastiaan Mathôt](https://www.youtube.com/watch?v=tSLDcRkgTsY))                                         |   |
-| Asyncio: Understanding Async / Await in Python [Coding Tech](https://www.youtube.com/watch?v=bs9tlDFWWdQ)                                                       |   |
-| #4.2 加速爬虫: 异步加载 Asyncio (爬虫 scraping 基础 Python) [莫烦Python](https://www.youtube.com/watch?v=Wa2K7sB7BZE)                                                         |   |
-| Async Await try-catch hell [Fireship](https://www.youtube.com/watch?v=ITogH7lJTyE)                                                                              |   |
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| [PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)          |   |
-| How Fast is Python's Sort? Performance Test.([mCoding](https://www.youtube.com/watch?v=ybh0GttfM8o\&t=299s)) |   |
-| 22 并行计算([网课慕课](https://www.youtube.com/watch?v=9uyK1CJWA3c))                                                 |   |
-| 高并发系统设计40问 [极客时间](https://time.geekbang.org/column/intro/100035801)                                          |   |
+
+| Asyncio                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python Asynchronous Programming - AsyncIO & Async/Await([Tech With Tim](https://www.youtube.com/watch?v=t5Bo1Je9EmE\&list=TLPQMDMwNTIwMjFWurBhFKL2-Q\&index=7)) |
+| Asyncio - Asynchronous programming with coroutines([sentdex](https://www.youtube.com/watch?v=BI0asZuqFXM))                                                      |
+| Python tricks: Demystifying async, await, and asyncio([Sebastiaan Mathôt](https://www.youtube.com/watch?v=tSLDcRkgTsY))                                         |
+| Asyncio: Understanding Async / Await in Python [Coding Tech](https://www.youtube.com/watch?v=bs9tlDFWWdQ)                                                       |
+| #4.2 加速爬虫: 异步加载 Asyncio (爬虫 scraping 基础 Python) [莫烦Python](https://www.youtube.com/watch?v=Wa2K7sB7BZE)                                                         |
+| Async Await try-catch hell [Fireship](https://www.youtube.com/watch?v=ITogH7lJTyE)                                                                              |
+
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| [PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)          |
+| How Fast is Python's Sort? Performance Test.([mCoding](https://www.youtube.com/watch?v=ybh0GttfM8o\&t=299s)) |
+| 22 并行计算([网课慕课](https://www.youtube.com/watch?v=9uyK1CJWA3c))                                                 |
+| 高并发系统设计40问 [极客时间](https://time.geekbang.org/column/intro/100035801)                                          |
 
 {% file src="../.gitbook/assets/[gzbin.gitbook.io].Python高性能编程.pdf" %}
 Python高性能编程
@@ -500,18 +504,20 @@ Python高性能编程
 
 ## app
 
+
+
 |                                                                                                                |                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **kivy(**[**s**](https://kivy.org)**, )**                                                                      | \*\*\*\*                                                                                                                                                                 |
+| **kivy(**[**s**](https://kivy.org)**, )**                                                                      |                                                                                                                                                                          |
 | **Kivy Tutorial(**[**uList**](https://www.youtube.com/playlist?list=PLhTjy8cBISEpobkPwLm71p5YNBzPH9m9V)**, )** | **Kivy Intro(**[**u**](https://www.youtube.com/watch?v=FjwD0SOGQ1k)**, **[**blog**](https://pythonprogramming.net/introduction-kivy-application-python-tutorial/)**, )** |
 
-| \*\*\*\*                                                                                                                         |          |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [**Kivy Course - Create Python Games and Mobile Apps**](https://www.youtube.com/watch?v=l8Imtec4ReQ)** freeCodeCamp**            | \*\*\*\* |
-| Kivy - Mobile and Desktop App Dev w/ Python [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN\_VRQfq8rF) |          |
-| **Python App development(**[**uList**](https://www.youtube.com/playlist?list=PLoCOfLpxN8\_U4t2NBaefPqaOHPE-f1Wbw)**, )**         | \*\*\*\* |
-| Kivy自学笔记 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4ulr5MlaBy58hCRYY6ob84n)                              |          |
-| Kivy Tutorial for Beginners [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIY1mAtczEPDolJg5nKkTHae)     |          |
+| \*\*\*\*                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| [**Kivy Course - Create Python Games and Mobile Apps**](https://www.youtube.com/watch?v=l8Imtec4ReQ)**  **freeCodeCamp           |
+| Kivy - Mobile and Desktop App Dev w/ Python [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN\_VRQfq8rF) |
+| **Python App development(**[**uList**](https://www.youtube.com/playlist?list=PLoCOfLpxN8\_U4t2NBaefPqaOHPE-f1Wbw)**, )**         |
+| Kivy自学笔记 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4ulr5MlaBy58hCRYY6ob84n)                              |
+| Kivy Tutorial for Beginners [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIY1mAtczEPDolJg5nKkTHae)     |
 
 ### Web app
 
@@ -537,22 +543,22 @@ Python高性能编程
 
 ## 爬虫
 
-|                                                                                                                   |   |
-| ----------------------------------------------------------------------------------------------------------------- | - |
-| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk) |   |
-| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                    |   |
-| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)        |   |
-| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)           |   |
-| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)             |   |
-| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                      |   |
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk) |
+| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                    |
+| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)        |
+| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)           |
+| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)             |
+| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                      |
 
 ## Python-Excel
 
-|                                                                                                                                         |          |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Python-Excel([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QkTirfL3vWmaD786pvZp6hT))                                        |          |
-| **Automate Excel With Python - Python Excel Tutorial (OpenPyXL)(**[**Tech With Tim**](https://www.youtube.com/watch?v=7YS6YDQKFh0)**)** | \*\*\*\* |
-| 【python】自动化操作excel（openpyxl）[GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=mYX9AaJF2lw)                                            |          |
+|                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| Python-Excel([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QkTirfL3vWmaD786pvZp6hT))                                        |
+| **Automate Excel With Python - Python Excel Tutorial (OpenPyXL)(**[**Tech With Tim**](https://www.youtube.com/watch?v=7YS6YDQKFh0)**)** |
+| 【python】自动化操作excel（openpyxl）[GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=mYX9AaJF2lw)                                            |
 
 ## Manage Folders and Files
 
@@ -562,17 +568,17 @@ Python高性能编程
 
 ## **Auto Download of Videos & Images**
 
-|                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------- | - |
-| Auto Download of Videos & Images\*\*([**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qn26ex6xNNVxboeJfK686NJ))\*\* |   |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Auto Download of Videos & Images  ([**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qn26ex6xNNVxboeJfK686NJ)) |
 
 ## **其他**
 
 **压缩**
 
-\*\*\*\*[**Python代码实现压缩软件**](https://blog.csdn.net/gdkyxy2013/article/details/103757893)
+[**Python代码实现压缩软件**](https://blog.csdn.net/gdkyxy2013/article/details/103757893)
 
-\*\*\*\*[**python解压压缩包**](https://zhuanlan.zhihu.com/p/194251294)
+[**python解压压缩包**](https://zhuanlan.zhihu.com/p/194251294)
 
 [**Decorators**](https://www.youtube.com/watch?v=FsAPt\_9Bf3U)
 
@@ -580,26 +586,26 @@ Python高性能编程
 | ------------------------------------------------------------------------------ |
 | 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg) |
 
-|                                                                                                                                   |          |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Reuven M. Lerner - **[**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY)** - PyCon 2019**                   | \*\*\*\* |
-| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                      |          |
-| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                |          |
-| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                     |          |
-| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                 |          |
-| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)        |          |
-| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                |          |
-| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)            |          |
-| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc) |          |
-| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                             |          |
-| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                     |          |
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| **Reuven M. Lerner - **[**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY)** - PyCon 2019**                   |
+| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                      |
+| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                |
+| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                     |
+| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                 |
+| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)        |
+| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                |
+| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)            |
+| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc) |
+| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                             |
+| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                     |
 
 ## Book
 
-|                                                                                                                                                |          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Google Python 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-python-style)**, )**                                                     | \*\*\*\* |
-| Learning Python? You Must take a look at this book! Not Just for Scientists.([Python Programmer](https://www.youtube.com/watch?v=eIM9DQMZQeE)) |          |
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Google Python 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-python-style)**, )**                                                     |
+| Learning Python? You Must take a look at this book! Not Just for Scientists.([Python Programmer](https://www.youtube.com/watch?v=eIM9DQMZQeE)) |
 
 {% file src="../.gitbook/assets/[gzbin.gitbook.io]Python3标准库(2017).pdf" %}
 Python 3标准库
