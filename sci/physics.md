@@ -1,34 +1,32 @@
 # 物理
 
-|                                                                                    |                                                                                          |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Free Course(**[**u**](https://www.youtube.com/c/FreeCourseBLGX/playlists)**, )** | **minutephysics(**[**u**](https://www.youtube.com/user/minutephysics/playlists)**, )**   |
-| 周边理论物理研究所([u](https://www.youtube.com/user/PIOutreach/featured), )                 | PBS Space Time([u](https://www.youtube.com/c/pbsspacetime/playlists), )                  |
-| Tibees [u](https://www.youtube.com/user/tibees/playlists)                          | 行走的黑洞 [u](https://www.youtube.com/channel/UCzd11zXXArU7m\_rZ1ZY0NFw/videos)              |
-| Zach Star [u](https://www.youtube.com/c/zachstar/playlists)                        | Andrew Dotson [u](https://www.youtube.com/c/AndrewDotsonvideos/playlists)                |
-| Simon Clark [u](https://www.youtube.com/c/SimonOxfPhys/playlists)                  | Dillon Berger [u](https://www.youtube.com/c/InertialObserver/playlists)                  |
-| Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                       | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists) |
-|   | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY_basYTgFg0lbcf3diRYvXv1aGO)  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|                                                                                    |                                                                                                                                |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Free Course(**[**u**](https://www.youtube.com/c/FreeCourseBLGX/playlists)**, )** | **minutephysics(**[**u**](https://www.youtube.com/user/minutephysics/playlists)**, )**                                         |
+| 周边理论物理研究所([u](https://www.youtube.com/user/PIOutreach/featured), )                 | PBS Space Time([u](https://www.youtube.com/c/pbsspacetime/playlists), )                                                        |
+| Tibees [u](https://www.youtube.com/user/tibees/playlists)                          | 行走的黑洞 [u](https://www.youtube.com/channel/UCzd11zXXArU7m\_rZ1ZY0NFw/videos)                                                    |
+| Zach Star [u](https://www.youtube.com/c/zachstar/playlists)                        | Andrew Dotson [u](https://www.youtube.com/c/AndrewDotsonvideos/playlists)                                                      |
+| Simon Clark [u](https://www.youtube.com/c/SimonOxfPhys/playlists)                  | Dillon Berger [u](https://www.youtube.com/c/InertialObserver/playlists)                                                        |
+| Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                       | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
+|                                                                                    | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
+|                                                                                    | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
+|                                                                                    |                                                                                                                                |
+|                                                                                    |                                                                                                                                |
+|                                                                                    |                                                                                                                                |
+|                                                                                    |                                                                                                                                |
 
 ## 课程
 
 The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/watch?v=gAFAj3pzvAA))
 
-|                                                                                                                  |   |
-| ---------------------------------------------------------------------------------------------------------------- | - |
-| 火箭推进Rocket Propulsion [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8G4TdzgmXkjvs4AZnlTVaH) |   |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| 火箭推进Rocket Propulsion [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8G4TdzgmXkjvs4AZnlTVaH) |
 
-
-
-|                                                                                                    |   |
-| -------------------------------------------------------------------------------------------------- | - |
-| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |   |
-| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |   |
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
+| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |
 
 ## 大学物理
 
@@ -49,46 +47,46 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ### 一般力学与力学基础
 
-|                                                                                                                  |   |
-| ---------------------------------------------------------------------------------------------------------------- | - |
-| 力学中的泛函分析与变分原理(郭旭)(大连理工大学)(43讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGaD5d3B1NlI5w3MKWPblDhu) |   |
-| 工程力学-西南交通大学-沈火明 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DibSxgyz7xoU3HVMIvssCJ)                |   |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| 力学中的泛函分析与变分原理(郭旭)(大连理工大学)(43讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGaD5d3B1NlI5w3MKWPblDhu) |
+| 工程力学-西南交通大学-沈火明 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DibSxgyz7xoU3HVMIvssCJ)                |
 
 ### 力学统计
 
-|                                                                                                                                                |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| September 2020 - Basic Statistical Mechanics [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65en9rkAeG\_KDhh4thVEu5Od) |   |
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| September 2020 - Basic Statistical Mechanics [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65en9rkAeG\_KDhh4thVEu5Od) |
 
 ## 电路
 
-|                                                                                                                |   |
-| -------------------------------------------------------------------------------------------------------------- | - |
-| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                    |   |
-| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)          |   |
-| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar) |   |
-| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                           |   |
-| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                  |   |
-| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                  |   |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                    |
+| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)          |
+| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar) |
+| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                           |
+| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                  |
+| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                  |
 
 ## 微波 Microwave
 
-|                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------- | - |
-| Microwave Theory and Techniques [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dcxLJgO0uzQ0Sad-57w37u) |   |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| Microwave Theory and Techniques [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dcxLJgO0uzQ0Sad-57w37u) |
 
 ## 光
 
-|                                                                                                             |   |
-| ----------------------------------------------------------------------------------------------------------- | - |
-| Making Optical Logic Gates using Interference [Huygens Optics](https://www.youtube.com/watch?v=pS1zAAD1nXI) |   |
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| Making Optical Logic Gates using Interference [Huygens Optics](https://www.youtube.com/watch?v=pS1zAAD1nXI) |
 
 ## 分子光谱学
 
-|                                                                                                                                                                    |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| Jan 2019-Molecular Spectroscopy: A Physical Chemist’s perspective [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eCqECeSQJwmKX6D4zibX84) |   |
-| July 2019-NMR spectroscopy for Chemists and Biologists [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dFgyHsZaiBqVuoMPgdNEf3)            |   |
+|                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Jan 2019-Molecular Spectroscopy: A Physical Chemist’s perspective [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eCqECeSQJwmKX6D4zibX84) |
+| July 2019-NMR spectroscopy for Chemists and Biologists [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dFgyHsZaiBqVuoMPgdNEf3)            |
 
 ## 量子物理 Quantum Physics
 
@@ -108,13 +106,13 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 流体动力学 Fluid Dynamics
 
-|                                                                                                                     |   |
-| ------------------------------------------------------------------------------------------------------------------- | - |
-| Fluid Dynamics [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)            |   |
-| 流体力学机器学习 [爱可可-爱生活](https://www.bilibili.com/video/BV1e5411V7f6/?spm\_id\_from=333.788.recommend\_more\_video.-1)    |   |
-| 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |   |
-|                                                                                                                     |   |
-|                                                                                                                     |   |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| Fluid Dynamics [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)            |
+| 流体力学机器学习 [爱可可-爱生活](https://www.bilibili.com/video/BV1e5411V7f6/?spm\_id\_from=333.788.recommend\_more\_video.-1)    |
+| 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |
+|                                                                                                                     |
+|                                                                                                                     |
 
 ## 核电
 
@@ -130,14 +128,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | C'est pas sorcier [u](https://www.youtube.com/c/Cestpassorcierofficiel/videos)                                            |                                                                                                 |
 |                                                                                                                           |                                                                                                 |
 
-|                                                                                                                                   |   |
-| --------------------------------------------------------------------------------------------------------------------------------- | - |
-| Understanding the Holographic Universe [PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR) |   |
-| 课程-天文探秘 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wc6Rdt44Ke4T-i9REanLZC)                           |   |
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| Understanding the Holographic Universe [PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR) |
+| 课程-天文探秘 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wc6Rdt44Ke4T-i9REanLZC)                           |
 
-| 其他                                                                       |   |
-| ------------------------------------------------------------------------ | - |
-| 火焰究竟是气态还是等离子态 [二次元的中科院物理所](https://www.youtube.com/watch?v=-kYj01K9\_Bc) |   |
+| 其他                                                                       |
+| ------------------------------------------------------------------------ |
+| 火焰究竟是气态还是等离子态 [二次元的中科院物理所](https://www.youtube.com/watch?v=-kYj01K9\_Bc) |
 
 |                                                                         |
 | ----------------------------------------------------------------------- |
