@@ -11,9 +11,6 @@
 |                                                                                    | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
 |                                                                                    | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
 |                                                                                    |                                                                                                                                |
-|                                                                                    |                                                                                                                                |
-|                                                                                    |                                                                                                                                |
-|                                                                                    |                                                                                                                                |
 
 ## 课程
 
