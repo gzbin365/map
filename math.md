@@ -12,6 +12,7 @@ description: 用数学充实人生
 | DayDayUp([u](https://www.youtube.com/c/DayDayUp/featured), [s](https://ddup.io), )              | 可汗学院Khan Academy([u](https://www.youtube.com/c/khanacademy/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Oxford Mathematics([u](https://www.youtube.com/channel/UCLnGGRG\_\_uGSPLBLzyhg8dQ/playlists), ) | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**, **[**s**](https://ocw.mit.edu)**, **[**tw**](https://twitter.com/mitocw)**, **[**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**, **[**fb**](https://www.facebook.com/MITOCW/)**, **[**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**, **[**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**, **[**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, )** |
 | Encyclopedia of Mathematics [s](https://encyclopediaofmath.org)                                 | 早稻田大学桃子早稻田实验室([u](https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg/videos), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                 | Institute for Advanced Study [u](https://www.youtube.com/user/videosfromIAS/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## UP主
 
@@ -31,7 +32,7 @@ description: 用数学充实人生
 | **PengTitus(**[**u**](https://www.youtube.com/user/PengTitus/playlists)**, )**                                                                                                                            | **America America(**[**u**](https://www.youtube.com/user/momolo2000/playlists)**, )**                                                                                                                                                                                                                                                                                            |
 | **Systems Innovation(**[**u**](https://www.youtube.com/c/ComplexityLearningLab/playlists)**, )**                                                                                                          | **xuan-gottfried YANG(**[**u**](https://www.youtube.com/channel/UC-gJF-sb0NKKOZGBnoT2r-Q/playlists)**, )**                                                                                                                                                                                                                                                                       |
 | **考研e族(**[**u**](https://www.youtube.com/channel/UCumvu1nun2Hr\_0y7MzrN2YA/playlists)**, )**                                                                                                              | **patrickJMT(**[**u**](https://www.youtube.com/user/patrickJMT/playlists)**, )**                                                                                                                                                                                                                                                                                                 |
-| **數學老師張旭(**[**u**](https://www.youtube.com/c/%E6%95%B8%E5%AD%B8%E8%80%81%E5%B8%AB%E5%BC%B5%E6%97%AD/playlists)**, )**                                                                                     | \*\* Mathologer([**u**](https://www.youtube.com/c/Mathologer/playlists), )\*\*                                                                                                                                                                                                                                                                                                   |
+| **數學老師張旭(**[**u**](https://www.youtube.com/c/%E6%95%B8%E5%AD%B8%E8%80%81%E5%B8%AB%E5%BC%B5%E6%97%AD/playlists)**, )**                                                                                     | Mathologer([**u**](https://www.youtube.com/c/Mathologer/playlists), )                                                                                                                                                                                                                                                                                                            |
 | **Michael Penn(**[**u**](https://www.youtube.com/c/MichaelPennMath/playlists)**, )**                                                                                                                      | **Aleph 0(**[**u**](https://www.youtube.com/c/Aleph0/playlists)**, )**                                                                                                                                                                                                                                                                                                           |
 | Veritasium [u](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)                                                                                                                                  | Insights into Mathematics([u](https://www.youtube.com/c/njwildberger/featured), )                                                                                                                                                                                                                                                                                                |
 | NancyPi [u](https://www.youtube.com/c/NancyPi/playlists)                                                                                                                                                  | Epic Math Time [u](https://www.youtube.com/c/EpicMathTime/videos)                                                                                                                                                                                                                                                                                                                |
@@ -51,8 +52,8 @@ description: 用数学充实人生
 |                                                           |                                                                                                                                   |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **manim(**[**git**](https://github.com/3b1b/manim)**, )** | **ManimCairo tutorial(**[**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)**)** |
-| \*\*\*\*                                                  | **The Manim Cast(**[**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)**)**          |
-| \*\*\*\*                                                  | **Manim Animations(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)**)**                  |
+|                                                           | **The Manim Cast(**[**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)**)**          |
+|                                                           | **Manim Animations(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)**)**                  |
 
 |                                                                                                                                  |   |
 | -------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -90,23 +91,23 @@ description: 用数学充实人生
 
 ### Pi
 
-|                                                                                                            |   |
-| ---------------------------------------------------------------------------------------------------------- | - |
-| [Pi](https://www.youtube.com/playlist?list=PLDZcGqoKA84HgdyVi0Et-fc51wnSr6zzP)(MindYourDecisions)          |   |
-| [Why pi?](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TcPMeEYf\_VtPM)(3Blue1Brown)          |   |
-| Riemann's paradox: pi = infinity minus infinity [Mathologer](https://www.youtube.com/watch?v=-EtHF5ND3\_s) |   |
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| [Pi](https://www.youtube.com/playlist?list=PLDZcGqoKA84HgdyVi0Et-fc51wnSr6zzP)(MindYourDecisions)          |
+| [Why pi?](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TcPMeEYf\_VtPM)(3Blue1Brown)          |
+| Riemann's paradox: pi = infinity minus infinity [Mathologer](https://www.youtube.com/watch?v=-EtHF5ND3\_s) |
 
 ### Fundamental Rules
 
 ### 逻辑学 Mathematical Logic
 
-|                                                                                                                                                   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 逻辑学概论 - 清华大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Q2aZchRncgYvOlxdZr5feI))                                                    |   |
-| [False Proofs And Fallacies](https://www.youtube.com/playlist?list=PLDZcGqoKA84GGbEWAu7bOpfJgxIx76x-F)(MindYourDecisions)                         |   |
-| [Logic Puzzles And Riddles](https://www.youtube.com/playlist?list=PLDZcGqoKA84GZXo\_6e4v\_gKf7u4UcNgRl)(MindYourDecisions)                        |   |
-| [The Fundamentals of Logic](https://www.youtube.com/playlist?list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ) patrickJMT                                  |   |
-| [Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N) Understanding Machine Learning - Shai Ben-David |   |
+|                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 逻辑学概论 - 清华大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Q2aZchRncgYvOlxdZr5feI))                                                    |
+| [False Proofs And Fallacies](https://www.youtube.com/playlist?list=PLDZcGqoKA84GGbEWAu7bOpfJgxIx76x-F)(MindYourDecisions)                         |
+| [Logic Puzzles And Riddles](https://www.youtube.com/playlist?list=PLDZcGqoKA84GZXo\_6e4v\_gKf7u4UcNgRl)(MindYourDecisions)                        |
+| [The Fundamentals of Logic](https://www.youtube.com/playlist?list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ) patrickJMT                                  |
+| [Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N) Understanding Machine Learning - Shai Ben-David |
 
 ### 范畴轮 Category Theory
 
@@ -116,12 +117,12 @@ description: 用数学充实人生
 
 ### 三角学 Trigonometry
 
-|                                                                                                                                |          |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| **Trigonometry(**[**The Math Sorcerer**](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNmYsWGBTRyB441sa5ZYU3\_)**, )**     | \*\*\*\* |
-| [Inverse Trigonometric Functions](https://www.youtube.com/playlist?list=PLANMHOrJaFxM2UbRPM9YNQ1YT3s4gX4Rp) patrickJMT         |          |
-| Trigonometric Identities [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwtslWdA9tyGB27\_MwZ4cE9)             |          |
-| WildTrig: Intro to Rational Trigonometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PL3C58498718451C47) |          |
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| **Trigonometry(**[**The Math Sorcerer**](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNmYsWGBTRyB441sa5ZYU3\_)**, )**     |
+| [Inverse Trigonometric Functions](https://www.youtube.com/playlist?list=PLANMHOrJaFxM2UbRPM9YNQ1YT3s4gX4Rp) patrickJMT         |
+| Trigonometric Identities [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwtslWdA9tyGB27\_MwZ4cE9)             |
+| WildTrig: Intro to Rational Trigonometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PL3C58498718451C47) |
 
 ### 数论 Number Theory
 
@@ -140,19 +141,19 @@ description: 用数学充实人生
 
 #### 素数 **Primes**
 
-|                                                                                                                                              |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **50 Million Primes In 5 Seconds - Segmented Sieve of Eratosthenes(**[**mCoding**](https://www.youtube.com/watch?v=xwM8PGBYazM\&t=629s)**)** | \*\*\*\* |
-| Finding Primes in Python with the Sieve of Eratosthenes([mCoding](https://www.youtube.com/watch?v=JA\_YrFwE1hc))                             |          |
-| Terry Tao, Ph.D. Small and Large Gaps Between the Primes [UCLA](https://www.youtube.com/watch?v=pp06oGD4m00)                                 |          |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **50 Million Primes In 5 Seconds - Segmented Sieve of Eratosthenes(**[**mCoding**](https://www.youtube.com/watch?v=xwM8PGBYazM\&t=629s)**)** |
+| Finding Primes in Python with the Sieve of Eratosthenes([mCoding](https://www.youtube.com/watch?v=JA\_YrFwE1hc))                             |
+| Terry Tao, Ph.D. Small and Large Gaps Between the Primes [UCLA](https://www.youtube.com/watch?v=pp06oGD4m00)                                 |
 
 ### 集合论 Set Theory
 
-|                                                                                                                                                           |          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **集合論入門(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VOpqgHuANy6S6HBsk6\_Zp0)**)**                                                     | \*\*\*\* |
-| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                      |          |
-| [Introduction to Infinite Sets](https://www.youtube.com/playlist?list=PLPW2keNyw-usa9Hs-UDeagHuuPnD2Xahs) Understanding Machine Learning - Shai Ben-David |          |
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **集合論入門(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VOpqgHuANy6S6HBsk6\_Zp0)**)**                                                     |
+| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                      |
+| [Introduction to Infinite Sets](https://www.youtube.com/playlist?list=PLPW2keNyw-usa9Hs-UDeagHuuPnD2Xahs) Understanding Machine Learning - Shai Ben-David |
 
 ###
 
@@ -162,10 +163,10 @@ description: 用数学充实人生
 
 ## 高等数学
 
-|                                                                                                               |   |
-| ------------------------------------------------------------------------------------------------------------- | - |
-| 高等数学-上海交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowdpCm56cIGSyGLFDb8z0be))                 |   |
-| 高等数学精讲【同济七版】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPdzBjoM4Z1TvbeIPqIgdBN) |   |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| 高等数学-上海交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowdpCm56cIGSyGLFDb8z0be))                 |
+| 高等数学精讲【同济七版】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPdzBjoM4Z1TvbeIPqIgdBN) |
 
 ## 代数 Algebra
 
@@ -204,64 +205,64 @@ description: 用数学充实人生
 |                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | [Linear Algebra 高等代数 丘维声](https://www.youtube.com/playlist?list=PLrzlne6L2KXiOjw17X3IPJ-sg250GMgC2) Dingxuan Zhang          |
-| [**2022扬哥考研高等代数基础\[完结\]**](https://www.youtube.com/playlist?list=PL2egac4HqLwZSSKr4f5DBRLFerSK570y7)** GNU**                |
-| [**北京师范大学《高等代数》课程**](https://www.youtube.com/playlist?list=PLJFjplVLAUkz3rLF3biLuoFikmVAwlV6c)** Yang Shi**                 |
+| [**2022扬哥考研高等代数基础\[完结\]**](https://www.youtube.com/playlist?list=PL2egac4HqLwZSSKr4f5DBRLFerSK570y7)** ** GNU               |
+| [**北京师范大学《高等代数》课程**](https://www.youtube.com/playlist?list=PLJFjplVLAUkz3rLF3biLuoFikmVAwlV6c)**  ** Yang Shi               |
 | 《北京大学高等代数·第四版》视频讲解(共117讲) [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOlzZhVYSDBBEskKW-lSOOW) |
 
 ### 交换代数 Commutative Algebra
 
-|                                                                                                                               |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - |
-| NPTEL MOOC - Intro to Commutative Algebra '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ8sTTfQxYLkKkTcMfeKAddF) |   |
-| Jan 2019-Commutative Algebra [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65ciwgfu86gqt1dWZNoRlBuO) |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| NPTEL MOOC - Intro to Commutative Algebra '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ8sTTfQxYLkKkTcMfeKAddF) |
+| Jan 2019-Commutative Algebra [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65ciwgfu86gqt1dWZNoRlBuO) |
 
 ## 抽象代数/近世代数 Abstract Algebra/Modern Algebra
 
-|                                                                                                                                                                                                          |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [**抽象代数引论**](https://www.youtube.com/playlist?list=PL2BA7C84A3B3FD857)** lisp21**                                                                                                                        | \*\*\*\* |
-| [**【万门大学】抽象代数**](https://www.youtube.com/playlist?list=PL0GyqFMD-UCFbYm9JlnTBNPC0lH3elWFH)** 万门大学**                                                                                                      | \*\*\*\* |
-| [**抽象代数**](https://www.youtube.com/playlist?list=PLcD8YRQ4Ql6WSLdRrA9cejTGxnF0FpHnc)** 万门**                                                                                                              | \*\*\*\* |
-| \*\*\*\*                                                                                                                                                                                                 | \*\*\*\* |
-| [**哈佛大学抽象代数**](https://www.youtube.com/channel/UC0DwxTbFTps2Hm8cGo-JMuQ/videos)** shunyu Yao**                                                                                                           |          |
-| [**南开大学 顾沛 抽象代数**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmiPF1X0KOmDeJL5x7310ii)** Yinan Zuo**                                                                                              |          |
-| **南开大学抽象代数 **[**第一学期**](https://www.youtube.com/playlist?list=PLGDn1qGbQe6t\_sIWd9kb0qxI0QQw3656v)** **[**第二学期**](https://www.youtube.com/playlist?list=PLGDn1qGbQe6uwzDgxgV0ueu2H8Jt8810H)** 南开大学顾沛教授** | \*\*\*\* |
-| [**抽象代數**](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FJIvxS8wH0yoRR2ZA4SczL)\*\* 張志鴻\*\*                                                                                                         |          |
-| 18-23 [Rings and Fields](https://www.youtube.com/playlist?list=PLUM5vdzDQB4Fuwy2Ja1mrUeRNIOG84Dht) 張志鴻                                                                                                   |          |
-| 27 [Ideals and Factor Rings](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ECO4fWVFwDapWfS\_J9E5rR) 張志鴻                                                                                              |          |
-| 29 [Extension Fields](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FToBZq9\_CW-syG8qoOT3HF) 張志鴻                                                                                                     |          |
-| Introduction to Abstract and Linear Algebra - Sourav Mukhopadhyay \| [NPTEL - IIT Kharagput](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT)                                   |          |
-| NPTEL MOOC - Modern Algebra [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ\_0jCDy68XrO2O1vIftFe3E)                                                                                             |          |
-| Abstract Algebra \| Polynomial Rings [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxCyOoEXOhplNu4KCmvbJB2)                                                                            |          |
-| Abstract Algebra \| Finite Fields [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzKwChWo1wO8arV2hsIvrhp)                                                                               |          |
+|                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**抽象代数引论**](https://www.youtube.com/playlist?list=PL2BA7C84A3B3FD857)**  ** lisp21                                                                                                                      |
+| [**【万门大学】抽象代数**](https://www.youtube.com/playlist?list=PL0GyqFMD-UCFbYm9JlnTBNPC0lH3elWFH)**  ** 万门大学                                                                                                    |
+| [**抽象代数**](https://www.youtube.com/playlist?list=PLcD8YRQ4Ql6WSLdRrA9cejTGxnF0FpHnc)**  ** 万门                                                                                                            |
+|                                                                                                                                                                                                          |
+| [**哈佛大学抽象代数**](https://www.youtube.com/channel/UC0DwxTbFTps2Hm8cGo-JMuQ/videos)**  ** shunyu Yao                                                                                                         |
+| [**南开大学 顾沛 抽象代数**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmiPF1X0KOmDeJL5x7310ii)**  ** Yinan Zuo                                                                                            |
+| **南开大学抽象代数 **[**第一学期**](https://www.youtube.com/playlist?list=PLGDn1qGbQe6t\_sIWd9kb0qxI0QQw3656v)** **[**第二学期**](https://www.youtube.com/playlist?list=PLGDn1qGbQe6uwzDgxgV0ueu2H8Jt8810H)** 南开大学顾沛教授** |
+| [**抽象代數**](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FJIvxS8wH0yoRR2ZA4SczL)**  ** 張志鴻                                                                                                           |
+| 18-23 [Rings and Fields](https://www.youtube.com/playlist?list=PLUM5vdzDQB4Fuwy2Ja1mrUeRNIOG84Dht) 張志鴻                                                                                                   |
+| 27 [Ideals and Factor Rings](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ECO4fWVFwDapWfS\_J9E5rR) 張志鴻                                                                                              |
+| 29 [Extension Fields](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FToBZq9\_CW-syG8qoOT3HF) 張志鴻                                                                                                     |
+| Introduction to Abstract and Linear Algebra - Sourav Mukhopadhyay \| [NPTEL - IIT Kharagput](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT)                                   |
+| NPTEL MOOC - Modern Algebra [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ\_0jCDy68XrO2O1vIftFe3E)                                                                                             |
+| Abstract Algebra \| Polynomial Rings [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxCyOoEXOhplNu4KCmvbJB2)                                                                            |
+| Abstract Algebra \| Finite Fields [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzKwChWo1wO8arV2hsIvrhp)                                                                               |
 
 ### 群论 Group Theory
 
-|                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                    |
-| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                          |
-| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                               |
-| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                             |
-| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                     |
-| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                      |
-| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                    |
-| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv)    |
-| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                      |
-| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                      |
-| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                                |
-| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                     |
-| Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                                 |
-| Group theory   [wiki](https://en.wikipedia.org/wiki/Group\_theory)   [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory) |
-|                                                                                                                                               |
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2 [Residually Finite Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GR7fdwIdcDASSZsXcVOpjw) 張志鴻                                 |
+| 3 [Surjunctive Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4ExqiukHSJZqJ2dCIX7NsTM) 張志鴻                                       |
+| [Amenable Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4HwbAKIaWbPzBnD72uoD7n9) 張志鴻                                            |
+| 群表示论（北京大学）[Edward Lee](https://www.youtube.com/playlist?list=PLboZ2C0v9RpQZj6u\_6owWt8Py8ObBlFLY)                                          |
+| Representations of Finite Groups [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwTQXXb7qRDHfYWp67N5Yv3)                  |
+| Introduction to Galois Theory [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M94LuHxxu4OrViX4K45oH73)                   |
+| Symmetry and Group Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65eOFUUrwIEA4ZCSu9M9iyzQ)                 |
+| Theory of groups for physics applications [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dCfHkSBa2BeOreppzcfpgv) |
+| Jan 2019-Galois Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dsCb\_gMYe3R-ZGs53jjw02)                   |
+| 李群和李代数 [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZqK8zqt-JQZ4i0LDtmy04H)                                                   |
+| Assorted Group Theory [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyPTFf3Kn2sjE1eD0YTg5Tk)                             |
+| Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
+| Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
+| Group theory [wiki](https://en.wikipedia.org/wiki/Group\_theory) [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory)  |
+|                                                                                                                                            |
 
 #### 置换群 Permutation Group
 
 魔方 Rubik's Cube
 
-|                                                                                                                                        |   |
-| -------------------------------------------------------------------------------------------------------------------------------------- | - |
-| \*\*\*\*[**Solve The Rubik's Cube**](https://www.youtube.com/playlist?list=PLDZcGqoKA84HVPyHNSpmn-wO\_phhnV4B0)**(MindYourDecisions)** |   |
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [**Solve The Rubik's Cube**](https://www.youtube.com/playlist?list=PLDZcGqoKA84HVPyHNSpmn-wO\_phhnV4B0)**(MindYourDecisions)** |
 
 ## 分析 Analysis
 
@@ -300,87 +301,87 @@ description: 用数学充实人生
 | 微积分 - 北京理工大学-徐厚宝、李翠哲、毛京中等 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DTRjpBGS8kPZLphMqdul7c)                                                                                                                                                                                                   |
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
 
-|                                                                                                                  |          |
-| ---------------------------------------------------------------------------------------------------------------- | -------- |
-| **Manim: Integrals(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmt0Aw9Qz6aVbZAOgP9-QHf)**)** | \*\*\*\* |
+|                                                                                                                  |   |
+| ---------------------------------------------------------------------------------------------------------------- | - |
+| **Manim: Integrals(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmt0Aw9Qz6aVbZAOgP9-QHf)**)** |   |
 
 #### 多变量微积分
 
-|                                                                                                                                       |   |
-| ------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz4R-2yzZDbxRuioaOjGml3)                       |   |
-| Vectors for Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyC3bWVd5EjGEVN9pqq55yF)           |   |
-| Lines and Planes in Three Dimensions [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyUCno-665AM-zTJtNkShqw)         |   |
-| Common Surfaces in Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqybegYmca\_8wpuffgkoeT3x)   |   |
-| Multivariable Calculus \| Surface Integrals [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzzQGucq-NmRjD9yXqs\_9i3) |   |
+|                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz4R-2yzZDbxRuioaOjGml3)                       |
+| Vectors for Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyC3bWVd5EjGEVN9pqq55yF)           |
+| Lines and Planes in Three Dimensions [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyUCno-665AM-zTJtNkShqw)         |
+| Common Surfaces in Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqybegYmca\_8wpuffgkoeT3x)   |
+| Multivariable Calculus \| Surface Integrals [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzzQGucq-NmRjD9yXqs\_9i3) |
 
 ### 实变函数 Real Analysis
 
-|                                                                                                                                       |   |
-| ------------------------------------------------------------------------------------------------------------------------------------- | - |
-| [东北师范大学实变函数](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDn-YdJATxGpU5Vx47XYNDaE) Yinan Zuo                                     |   |
-| [实变函数 ——上海交大](https://www.youtube.com/playlist?list=PLvg2RutqSPrKufYuFeIFvkIv8R9lQnVbn) Mark Song                                     |   |
-| NPTEL MOOC - Introductory Course in Real Analysis '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ9BcO-3Qn9SBDW3aneSzhHB) |   |
-| JAN 2020 - Basic Real Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65cpVtcdj\_5SBEh6VQvC\_BvR)     |   |
-| Real Analysis [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1\_xaQoS)                               |   |
+|                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| [东北师范大学实变函数](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDn-YdJATxGpU5Vx47XYNDaE) Yinan Zuo                                     |
+| [实变函数 ——上海交大](https://www.youtube.com/playlist?list=PLvg2RutqSPrKufYuFeIFvkIv8R9lQnVbn) Mark Song                                     |
+| NPTEL MOOC - Introductory Course in Real Analysis '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ9BcO-3Qn9SBDW3aneSzhHB) |
+| JAN 2020 - Basic Real Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65cpVtcdj\_5SBEh6VQvC\_BvR)     |
+| Real Analysis [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1\_xaQoS)                               |
 
 ### 复变函数
 
-|                                                                                                                             |   |
-| --------------------------------------------------------------------------------------------------------------------------- | - |
-| [2020政大應數複變函數論](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo) Yen-Lung Tsai                   |   |
-| [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                    |   |
-| [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star |   |
+|                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| [2020政大應數複變函數論](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo) Yen-Lung Tsai                   |
+| [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                    |
+| [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star |
 
 ### 泛函分析 Functional Analysis
 
-|                                                                                                                                                                                                             |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Prof R Vittal Rao, Functional Analysis Course [CSAChannel IISc](https://www.youtube.com/playlist?list=PLmx4utxjUQD4xJkiHY4pp720LyeCZyEKW)                                                                   |   |
-| 泛函分析 内蒙古大学 孙炯老师 [Jianbin Liu](https://www.youtube.com/playlist?list=PLRywWEDIJejgykmzLjPcGW8I1YgFg-1yS) [深陷滑模](https://www.bilibili.com/video/BV18441127yN?from=search\&seid=11507093680326327354) 56：36：37 |   |
-| 密度泛函理论 Density functional theory [Junfei Ding](https://www.youtube.com/playlist?list=PLww5rmaggoo-ZDJNWKpKwLJE0cDAxxSm1)                                                                                    |   |
-| 【南开大学】非线性泛函分析（全83讲）[账号已注销](https://www.bilibili.com/video/BV16b411M7zP?from=search\&seid=11507093680326327354)                                                                                              |   |
-| 【北大】泛函分析 [花弦Susann](https://www.bilibili.com/video/BV1SD4y1o7sP?from=search\&seid=3352615143827518700) 37：46：43                                                                                             |   |
-| 泛函分析复习 [白给凡凡](https://www.bilibili.com/video/BV1ji4y1t7GV?from=search\&seid=3352615143827518700) 16：08：55                                                                                                   |   |
-| 泛函分析(硕研教育录制) [乔哥考研官方账号](https://www.bilibili.com/video/BV19g4y1v7WA?from=search\&seid=3352615143827518700) 9：03：52                                                                                          |   |
-| 实变函数与泛函分析概要 [梦寻\_](https://www.bilibili.com/video/BV1Rb4y1X7hq?from=search\&seid=3352615143827518700) 44：11：38                                                                                              |   |
+|                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Prof R Vittal Rao, Functional Analysis Course [CSAChannel IISc](https://www.youtube.com/playlist?list=PLmx4utxjUQD4xJkiHY4pp720LyeCZyEKW)                                                                   |
+| 泛函分析 内蒙古大学 孙炯老师 [Jianbin Liu](https://www.youtube.com/playlist?list=PLRywWEDIJejgykmzLjPcGW8I1YgFg-1yS) [深陷滑模](https://www.bilibili.com/video/BV18441127yN?from=search\&seid=11507093680326327354) 56：36：37 |
+| 密度泛函理论 Density functional theory [Junfei Ding](https://www.youtube.com/playlist?list=PLww5rmaggoo-ZDJNWKpKwLJE0cDAxxSm1)                                                                                    |
+| 【南开大学】非线性泛函分析（全83讲）[账号已注销](https://www.bilibili.com/video/BV16b411M7zP?from=search\&seid=11507093680326327354)                                                                                              |
+| 【北大】泛函分析 [花弦Susann](https://www.bilibili.com/video/BV1SD4y1o7sP?from=search\&seid=3352615143827518700) 37：46：43                                                                                             |
+| 泛函分析复习 [白给凡凡](https://www.bilibili.com/video/BV1ji4y1t7GV?from=search\&seid=3352615143827518700) 16：08：55                                                                                                   |
+| 泛函分析(硕研教育录制) [乔哥考研官方账号](https://www.bilibili.com/video/BV19g4y1v7WA?from=search\&seid=3352615143827518700) 9：03：52                                                                                          |
+| 实变函数与泛函分析概要 [梦寻\_](https://www.bilibili.com/video/BV1Rb4y1X7hq?from=search\&seid=3352615143827518700) 44：11：38                                                                                              |
 
 ### 测度论 Measure Theory
 
-|                                                                                                                                                                     |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 【测度论/Measure Theory】【IMPA】Measure Theory by Claudio Landim [Octonions](https://www.bilibili.com/video/BV1EW411K7dN/?spm\_id\_from=333.788.recommend\_more\_video.3) |   |
-| 音乐与测度论 [3Blue1Brown](https://www.youtube.com/watch?v=cyW5z-M2yzw)                                                                                                   |   |
+|                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【测度论/Measure Theory】【IMPA】Measure Theory by Claudio Landim [Octonions](https://www.bilibili.com/video/BV1EW411K7dN/?spm\_id\_from=333.788.recommend\_more\_video.3) |
+| 音乐与测度论 [3Blue1Brown](https://www.youtube.com/watch?v=cyW5z-M2yzw)                                                                                                   |
 
 ### 变分法
 
-|                                                                                                                                                                             |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 变分法(PengTitus) [Pharaohsxh](https://www.youtube.com/playlist?list=PL090BE404EFE679E9) [Mark Song](https://www.youtube.com/playlist?list=PLvg2RutqSPrLvR7z5B3SdeYUnjWkm2Ygo) |   |
-| 变分法基础 [Wenlong Li](https://www.youtube.com/playlist?list=PLsWSH3tyoIE5eKzrzD-y1sPi2BDU2Kzfe)                                                                                |   |
-| 变分法课程全集 [阿尔伯特oxo爱因斯坦](https://www.bilibili.com/video/BV1Jv41147Q4?from=search\&seid=3721252605974714008) 1：34：44                                                            |   |
+|                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 变分法(PengTitus) [Pharaohsxh](https://www.youtube.com/playlist?list=PL090BE404EFE679E9) [Mark Song](https://www.youtube.com/playlist?list=PLvg2RutqSPrLvR7z5B3SdeYUnjWkm2Ygo) |
+| 变分法基础 [Wenlong Li](https://www.youtube.com/playlist?list=PLsWSH3tyoIE5eKzrzD-y1sPi2BDU2Kzfe)                                                                                |
+| 变分法课程全集 [阿尔伯特oxo爱因斯坦](https://www.bilibili.com/video/BV1Jv41147Q4?from=search\&seid=3721252605974714008) 1：34：44                                                            |
 
 ## 概率 & 统计
 
-|                                                                                                                                                                                                   |          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Statistics and Probability(**[**My CS**](https://www.youtube.com/playlist?list=PLqrmzsjOpq5i5YITE2EylhDpBvFcphSbS)**, )**                                                                       | \*\*\*\* |
-| 概率论与数理统计 - 北京交通大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QaZCnYcwENrLwZc7ODDAx7))                                                                                               |          |
-| 高斯课堂 蜂考《概率论与数理统计》4小时([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKml9WEo4aRWTUSS7VrVAjXOP), [高adminar](https://www.youtube.com/playlist?list=PLXiGKg3oo9C312bKVKfNVbZa8M7glUoK1), ) |          |
-| [Statistics And Probability](https://www.youtube.com/playlist?list=PLDZcGqoKA84Eo56G1kIFE6IYwpxFgxFXB)(MindYourDecisions)                                                                         |          |
-| NPTEL MOOC - Probability and Statistics [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ80bLQbd8fbpHsO1fQAtGWD)                                                                           |          |
-| Probability and Statistics: an introduction [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf\_\_daeklnLse)                                               |          |
-| Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |          |
-| Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |          |
+|                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Statistics and Probability(**[**My CS**](https://www.youtube.com/playlist?list=PLqrmzsjOpq5i5YITE2EylhDpBvFcphSbS)**, )**                                                                       |
+| 概率论与数理统计 - 北京交通大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QaZCnYcwENrLwZc7ODDAx7))                                                                                               |
+| 高斯课堂 蜂考《概率论与数理统计》4小时([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKml9WEo4aRWTUSS7VrVAjXOP), [高adminar](https://www.youtube.com/playlist?list=PLXiGKg3oo9C312bKVKfNVbZa8M7glUoK1), ) |
+| [Statistics And Probability](https://www.youtube.com/playlist?list=PLDZcGqoKA84Eo56G1kIFE6IYwpxFgxFXB)(MindYourDecisions)                                                                         |
+| NPTEL MOOC - Probability and Statistics [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ80bLQbd8fbpHsO1fQAtGWD)                                                                           |
+| Probability and Statistics: an introduction [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf\_\_daeklnLse)                                               |
+| Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |
+| Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |
 
 ### 概率 Probability
 
-|                                                                                                                                 |   |
-| ------------------------------------------------------------------------------------------------------------------------------- | - |
-| [北京大学 何书元 概率论](https://www.youtube.com/playlist?list=PLvg2RutqSPrLfsM9g4wFc2Qd0lCdg7rKQ)(Mark Song)                             |   |
-| Probability Primer [mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)                                 |   |
-| CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U) |   |
-|                                                                                                                                 |   |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| [北京大学 何书元 概率论](https://www.youtube.com/playlist?list=PLvg2RutqSPrLfsM9g4wFc2Qd0lCdg7rKQ)(Mark Song)                             |
+| Probability Primer [mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)                                 |
+| CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U) |
+|                                                                                                                                 |
 
 ### Bayes theorem
 
@@ -403,10 +404,10 @@ description: 用数学充实人生
 
 ### 随机过程 Stochastic processes
 
-|                                                                                                                                                                                                                          |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| NPTEL MOOC - Stochastic processes [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ\_j75k-wbaVs5LxFUFN2Kln) [Stochastic Processes - 1](https://www.youtube.com/playlist?list=PLxLJ6Ktb2UAyc2bBnMsrSbndkVeD0xWV\_) |   |
-| JAN 2020 - Introduction to Stochastic Processes [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dFqcSScAAtAjOMGrG7luhz)                                                                         |   |
+|                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| NPTEL MOOC - Stochastic processes [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ\_j75k-wbaVs5LxFUFN2Kln) [Stochastic Processes - 1](https://www.youtube.com/playlist?list=PLxLJ6Ktb2UAyc2bBnMsrSbndkVeD0xWV\_) |
+| JAN 2020 - Introduction to Stochastic Processes [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dFqcSScAAtAjOMGrG7luhz)                                                                         |
 
 ### 马尔科夫链 Markov Chain
 
@@ -416,14 +417,14 @@ description: 用数学充实人生
 
 ### 有限元分析 Finite Element Analysis
 
-|                                                                                                                                                                              |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Finite Element Analysis 有限元分析【ansys教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLME3alGd2Sdli2QXL2T5g4m)                                      |   |
-| [Cellular Automata & Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H1eQev\_qqbkMA\_72pU5qo3) 張志鴻                                                                 |   |
-| [共旋有限元](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDk3RCt9ASpTetvsFZ7uFdN5) Yinan Zuo                                                                                 |   |
-| September 2020 - Electrical Equipment and Machines: Finite Element Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65evnes6W1TFYThU8-4hfqwc) |   |
-| 自动机Automata - Saurav Mukhopadhyay \| IIT Kharagpur - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1cnL10WUDWnO6O3sZdRDdy)                        |   |
-| Automata Jeff Ullman \| Stanford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ33jY4raAXvUT7Bm\_S\_EGu0)                                                |   |
+|                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Finite Element Analysis 有限元分析【ansys教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLME3alGd2Sdli2QXL2T5g4m)                                      |
+| [Cellular Automata & Groups](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H1eQev\_qqbkMA\_72pU5qo3) 張志鴻                                                                 |
+| [共旋有限元](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDk3RCt9ASpTetvsFZ7uFdN5) Yinan Zuo                                                                                 |
+| September 2020 - Electrical Equipment and Machines: Finite Element Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65evnes6W1TFYThU8-4hfqwc) |
+| 自动机Automata - Saurav Mukhopadhyay \| IIT Kharagpur - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1cnL10WUDWnO6O3sZdRDdy)                        |
+| Automata Jeff Ullman \| Stanford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ33jY4raAXvUT7Bm\_S\_EGu0)                                                |
 
 ### 有限状态机
 
@@ -435,9 +436,9 @@ description: 用数学充实人生
 
 ## 几何 Geometry
 
-|                                                                                                                                                                                                                                                                                          |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Geometry [MindYourDecisions](https://www.youtube.com/playlist?list=PLDZcGqoKA84E2a0L6IS68hswD4iiUN2Cv) [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMXMi3bUMThGdYqos36X\_lA) [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyZZAicSHbpVhJzLPfPMJf6) |   |
+|                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geometry [MindYourDecisions](https://www.youtube.com/playlist?list=PLDZcGqoKA84E2a0L6IS68hswD4iiUN2Cv) [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMXMi3bUMThGdYqos36X\_lA) [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyZZAicSHbpVhJzLPfPMJf6) |
 
 ### 解析几何
 
@@ -445,7 +446,7 @@ description: 用数学充实人生
 
 ### 微分几何 Differential Geometry
 
-|                                                                                                                             | \*\*\*\*                                                                                                           |
+|                                                                                                                             |                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **现代计算机图形学入门(**[**B**](https://www.bilibili.com/video/BV1X7411F744?from=search\&seid=14485457245134407839)**, )**           | **GAMES-Webinar(**[**B**](https://space.bilibili.com/512313464?spm\_id\_from=333.788.b\_765f7570696e666f.2)**, )** |
 | [Dynamics and algebra](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkve4odSHBk\_9BxSbKX2c6c) Yinan Zuo                |                                                                                                                    |
@@ -460,11 +461,11 @@ description: 用数学充实人生
 | ------------------------------------------------------------------------------------------------------------------------ | - |
 | 顾险峰([s](https://www3.cs.stonybrook.edu/\~gu/), [u](https://www.youtube.com/channel/UC8zAgTAurgegKaM7HjNI8nA/featured), ) |   |
 
-|                                                                                                                                     |   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | - |
-| [A Geometric View to Generative Model in Deep Learning by Dr. Xianfeng Gu](https://www.youtube.com/watch?v=cRt8Ek9sAXY)             |   |
-| [最优传输理论-中文-有标题版 (来学习深度学习的几何理解呀)【顾险峰】](https://www.bilibili.com/video/BV18A41157B4/?spm\_id\_from=333.788.recommend\_more\_video.-1) |   |
-| [雷娜-基于最优传输的几何GAN](https://www.bilibili.com/video/BV1zK411g7Zb/?spm\_id\_from=333.788.recommend\_more\_video.1)                      |   |
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| [A Geometric View to Generative Model in Deep Learning by Dr. Xianfeng Gu](https://www.youtube.com/watch?v=cRt8Ek9sAXY)             |
+| [最优传输理论-中文-有标题版 (来学习深度学习的几何理解呀)【顾险峰】](https://www.bilibili.com/video/BV18A41157B4/?spm\_id\_from=333.788.recommend\_more\_video.-1) |
+| [雷娜-基于最优传输的几何GAN](https://www.bilibili.com/video/BV1zK411g7Zb/?spm\_id\_from=333.788.recommend\_more\_video.1)                      |
 
 ### 几何建模 Geometry Modeling
 
@@ -474,9 +475,9 @@ description: 用数学充实人生
 
 ### 圆锥曲线
 
-|                                                                                                                                     |   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | - |
-| Universal Hyperbolic Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85CN9oJ4gYkuSQQhAtpIucuI) |   |
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| Universal Hyperbolic Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85CN9oJ4gYkuSQQhAtpIucuI) |
 
 ## 图论 Graph Theory
 
@@ -484,23 +485,23 @@ description: 用数学充实人生
 | ---------------------------------------------------------------------- | - |
 | Ohio State MSLC([u](https://www.youtube.com/user/OSUMSLC/playlists), ) |   |
 
-|                                                                                                                                                                            |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Graph Theory(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v\_)**)**                                                           | \*\*\*\* |
-| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                                       |          |
-| 集合论与图论（下）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QhcoJV0FocQ6yvi898Asz4))                                                                        |          |
-| [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09\_LlHjoEiY) freeCodeCamp                                              |          |
-| [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT\_5WgwYwGMvgCjYVsIQg) Kiran Kuppa                                                      |          |
-| [圖論](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GybgkU5Bxzs-zlG-08YmPn) 張志鴻                                                                                         |          |
-| [图论](https://www.youtube.com/playlist?list=PLdqlEovDFvztRbOXKaFbJBgXAJkn5ZAsq) lily zhao                                                                                   |          |
-| [图论](https://www.youtube.com/playlist?list=PLV76ut4sbjorQgaMJC97vL0Q-8qREAGv6) Dayin HE                                                                                    |          |
-| [图学习](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDk4FwmmfJQJNGGWnDfVdSJO) Yinan Zuo                                                                                 |          |
-| [Group and Subgroup](https://www.youtube.com/playlist?list=PLUM5vdzDQB4Hw\_qVqiGi4nR1mfZ-Ke6x1) 張志鴻                                                                        |          |
-| [JavaC++算法与数据结构系列视频教程](https://www.youtube.com/playlist?list=PLkuKHvw9NmzQBOAZNHQZuIfAuDXDq1CWp) 刺客一二三                                                                     |          |
-| [算法概述](https://www.youtube.com/playlist?list=PLR6FbFmOLUgnVi1qMAtQDplLc0OFIRX6a) 济公学院                                                                                      |          |
-| [无向图与有向图](https://www.youtube.com/watch?v=TDfsPmcZ24U) [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)\*\* 中国大学MOOC-慕课\*\* |          |
-| [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT\_5WgwYwGMvgCjYVsIQg) Kiran Kuppa                                                      |          |
-| [MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV\_CpT1zKaGG\_Vj5igX)                                |          |
+|                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Graph Theory(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v\_)**)**                                                         |
+| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                                     |
+| 集合论与图论（下）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QhcoJV0FocQ6yvi898Asz4))                                                                      |
+| [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09\_LlHjoEiY) freeCodeCamp                                            |
+| [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT\_5WgwYwGMvgCjYVsIQg) Kiran Kuppa                                                    |
+| [圖論](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GybgkU5Bxzs-zlG-08YmPn) 張志鴻                                                                                       |
+| [图论](https://www.youtube.com/playlist?list=PLdqlEovDFvztRbOXKaFbJBgXAJkn5ZAsq) lily zhao                                                                                 |
+| [图论](https://www.youtube.com/playlist?list=PLV76ut4sbjorQgaMJC97vL0Q-8qREAGv6) Dayin HE                                                                                  |
+| [图学习](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDk4FwmmfJQJNGGWnDfVdSJO) Yinan Zuo                                                                               |
+| [Group and Subgroup](https://www.youtube.com/playlist?list=PLUM5vdzDQB4Hw\_qVqiGi4nR1mfZ-Ke6x1) 張志鴻                                                                      |
+| [JavaC++算法与数据结构系列视频教程](https://www.youtube.com/playlist?list=PLkuKHvw9NmzQBOAZNHQZuIfAuDXDq1CWp) 刺客一二三                                                                   |
+| [算法概述](https://www.youtube.com/playlist?list=PLR6FbFmOLUgnVi1qMAtQDplLc0OFIRX6a) 济公学院                                                                                    |
+| [无向图与有向图](https://www.youtube.com/watch?v=TDfsPmcZ24U) [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)**  ** 中国大学MOOC-慕课 |
+| [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT\_5WgwYwGMvgCjYVsIQg) Kiran Kuppa                                                    |
+| [MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV\_CpT1zKaGG\_Vj5igX)                              |
 
 ## 拓扑学 Topology
 
@@ -518,13 +519,13 @@ description: 用数学充实人生
 
 ### 代数拓扑 algebraic topology
 
-|                                                                                                                                                                                                                                            |          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [**Algebraic Topology lectures**](https://www.youtube.com/playlist?list=PLaf6JkRkbyHO-yVDDaMCoY6E2lh-574z5)** Neil P Strickland**                                                                                                          | \*\*\*\* |
-| [**Algebraic Topology: a beginner's course - N J Wildberger**](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)** UNSW eLearning**                                                                                                | \*\*\*\* |
-| [**Algebraic Topology - Wildberger**](https://www.youtube.com/playlist?list=PLZVYR6Rmji0rM-lZRCegNsdeVSg7-tzgC)** jbtg**                                                                                                                   |          |
-| Jan 2021 - Introduction to Algebraic Topology (Part- [one](https://www.youtube.com/playlist?list=PLOzRYVm0a65cyFd02L5lWUrgID0Fy27EI) [two](https://www.youtube.com/playlist?list=PLOzRYVm0a65dTikVsI27S7V9JlvRzALJX)) IIT Bombay July 2018 |          |
-| Algebraic Topology [Insights into Mathematics](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)                                                                                                                                   |          |
+|                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [**Algebraic Topology lectures**](https://www.youtube.com/playlist?list=PLaf6JkRkbyHO-yVDDaMCoY6E2lh-574z5)**  ** Neil P Strickland                                                                                                        |
+| [**Algebraic Topology: a beginner's course - N J Wildberger**](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)**  ** UNSW eLearning                                                                                              |
+| [**Algebraic Topology - Wildberger**](https://www.youtube.com/playlist?list=PLZVYR6Rmji0rM-lZRCegNsdeVSg7-tzgC)**  ** jbtg                                                                                                                 |
+| Jan 2021 - Introduction to Algebraic Topology (Part- [one](https://www.youtube.com/playlist?list=PLOzRYVm0a65cyFd02L5lWUrgID0Fy27EI) [two](https://www.youtube.com/playlist?list=PLOzRYVm0a65dTikVsI27S7V9JlvRzALJX)) IIT Bombay July 2018 |
+| Algebraic Topology [Insights into Mathematics](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)                                                                                                                                   |
 
 ## 应用数学 Applied Math
 
@@ -534,26 +535,26 @@ description: 用数学充实人生
 
 ## 数值分析 Numerical Analysis
 
-|                                                                                                                                               |          |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [**计算数学**](https://www.youtube.com/playlist?list=PLV76ut4sbjorjlyPjrlhyYppqu9IYI771)** Dayin HE**                                             | \*\*\*\* |
-| NPTEL MOOC - MATLAB Programming for Numerical Computation [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ-gpM8SgCfXVnvQ3d\_gRFnJ)    |          |
-| Numerical Analysis [Easy Learn with Prof S Chakraverty](https://www.youtube.com/playlist?list=PLjZ9ULh2Ff9GnqtMzDPu3bUQgKS4qZYjy)             |          |
-| [Cubic splines (Bezier curves) using linear algebra \| Wild Linear Algebra 24 \| NJ Wildberger](https://www.youtube.com/watch?v=ct\_uGOSPtok) |          |
-| [Cubic splines using calculus \| Wild Linear Algebra 25 \| NJ Wildberger](https://www.youtube.com/watch?v=LFFPbBe7aAs)                        |          |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**计算数学**](https://www.youtube.com/playlist?list=PLV76ut4sbjorjlyPjrlhyYppqu9IYI771)**  ** Dayin HE                                           |
+| NPTEL MOOC - MATLAB Programming for Numerical Computation [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ-gpM8SgCfXVnvQ3d\_gRFnJ)    |
+| Numerical Analysis [Easy Learn with Prof S Chakraverty](https://www.youtube.com/playlist?list=PLjZ9ULh2Ff9GnqtMzDPu3bUQgKS4qZYjy)             |
+| [Cubic splines (Bezier curves) using linear algebra \| Wild Linear Algebra 24 \| NJ Wildberger](https://www.youtube.com/watch?v=ct\_uGOSPtok) |
+| [Cubic splines using calculus \| Wild Linear Algebra 25 \| NJ Wildberger](https://www.youtube.com/watch?v=LFFPbBe7aAs)                        |
 
 ## 最优化 Optimization
 
-|                                                                                                                                                     |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 最优化方法（上海交通大学数学学院研究生课程）([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_S7utz13fEjeq5rzh-tq7lN))                                            |   |
-| [Optimization Problems](https://www.youtube.com/playlist?list=PLF1E94C1948483103) patrickJMT                                                        |   |
-| Optimization [Nilotpal Sinha](https://www.youtube.com/playlist?list=PL7pHMzBbqW08LZkcOX50mi4EaFWtsGShx)                                             |   |
-| Numerical Optimization - Shirish Shevade \| IISc - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P) |   |
-| Spring 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6)                 |   |
-| Fall 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT)                   |   |
-| Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)                   |   |
-|                                                                                                                                                     |   |
+|                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 最优化方法（上海交通大学数学学院研究生课程）([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_S7utz13fEjeq5rzh-tq7lN))                                            |
+| [Optimization Problems](https://www.youtube.com/playlist?list=PLF1E94C1948483103) patrickJMT                                                        |
+| Optimization [Nilotpal Sinha](https://www.youtube.com/playlist?list=PL7pHMzBbqW08LZkcOX50mi4EaFWtsGShx)                                             |
+| Numerical Optimization - Shirish Shevade \| IISc - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P) |
+| Spring 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6)                 |
+| Fall 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT)                   |
+| Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)                   |
+|                                                                                                                                                     |
 
 ## 概率图模型 Probabilistic Graphical Model
 
@@ -566,46 +567,46 @@ description: 用数学充实人生
 |                                                                                                                             |                        |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | **P vs. NP and the Computational Complexity Zoo(**[**u**](https://www.youtube.com/watch?v=YX40hbAHx3s)**, )**               |                        |
-| **What is complexity theory? (P vs. NP explained visually)(**[**u**](https://www.youtube.com/watch?v=u2DLlNQiPB4)**, )**    | \*\*\*\*               |
-| **P vs. NP - The Biggest Unsolved Problem in Computer Science(**[**u**](https://www.youtube.com/watch?v=EHp4FPyajKQ)**, )** | \*\*\*\*               |
+| **What is complexity theory? (P vs. NP explained visually)(**[**u**](https://www.youtube.com/watch?v=u2DLlNQiPB4)**, )**    |                        |
+| **P vs. NP - The Biggest Unsolved Problem in Computer Science(**[**u**](https://www.youtube.com/watch?v=EHp4FPyajKQ)**, )** |                        |
 | **P vs NP(**[**list**](https://www.youtube.com/playlist?list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-)**)**                     | **Undefined Behavior** |
 
 ### 复杂分析 Complex Analysis
 
-|                                                                                                                               |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - |
-| Complex Analysis [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_fDgY78f5lAT5zR6xHAajo)                  |   |
-| Undergrad Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) |   |
-| Graduate Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)  |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Complex Analysis [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_fDgY78f5lAT5zR6xHAajo)                  |
+| Undergrad Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) |
+| Graduate Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)  |
 
 ### Complex Variables and Applications
 
 ## 傅里叶 Fourier
 
-|                                                                                                                                                    |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你(**[**u**](https://www.youtube.com/watch?v=0LuyxzqI3Hk)**, )**                                                     | \*\*\*\* |
-| **形象的介绍：什么是傅里叶变换？**[**3Blue1Brown**](https://www.youtube.com/watch?v=spUNpyF58BY)\*\* [**电子工程世界**](http://training.eeworld.com.cn/course/4743)\*\* | \*\*\*\* |
-| 可什么是傅立叶级数呢？从热流到画圈 \| DE4 [3Blue1Brown](https://www.youtube.com/watch?v=r6sGWTCMz2k)                                                                |          |
-| **Fast Fourier Transform(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX)**)**                          | \*\*\*\* |
-|                                                                                                                                                    |          |
-| [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                              |          |
-| [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                              |          |
-| 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                     |          |
+|                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你(**[**u**](https://www.youtube.com/watch?v=0LuyxzqI3Hk)**, )**                                                   |
+| **形象的介绍：什么是傅里叶变换？**[**3Blue1Brown**](https://www.youtube.com/watch?v=spUNpyF58BY)**  ** [**电子工程世界**](http://training.eeworld.com.cn/course/4743) |
+| 可什么是傅立叶级数呢？从热流到画圈 \| DE4 [3Blue1Brown](https://www.youtube.com/watch?v=r6sGWTCMz2k)                                                              |
+| **Fast Fourier Transform(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX)**)**                        |
+|                                                                                                                                                  |
+| [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                            |
+| [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                            |
+| 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                   |
 
 ## 微分方程 Differential Equations
 
-|                                                                                                                                                                                                                |   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)(3Blue1Brown)                                                                                                |   |
-| [陈永平老师- 微分方程Differential Equation](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvt4yNv-5UoqHMdF8S2kzs2)(NYCU OCW)                                                                                         |   |
-| [微分方程 李榮耀老師](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsfa0foLJIYrmkZO7UQRToi)(NYCU OCW)                                                                                                               |   |
-| [微分方程](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtRLwyBp5wC4YXNMN1C51m4)(NYCU OCW)                                                                                                                     |   |
-| [微分方程式 彭士峰博士](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_VB5We3RZCA5BjL9IsfdQ8E)(America America) [玫瑰色的人](https://www.bilibili.com/video/BV1Tt411w7Se/?spm\_id\_from=333.788.recommend\_more\_video.0) |   |
-| [簡易 微分方程](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_U1PbXiMPJn-o3ChKMLq4PF)(America America)                                                                                                          |   |
-| Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)                                                                                                |   |
-| Systems of Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzeXJa4k5NrsQJElScb258Q)                                                                                     |   |
-|                                                                                                                                                                                                                |   |
+|                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)(3Blue1Brown)                                                                                                |
+| [陈永平老师- 微分方程Differential Equation](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvt4yNv-5UoqHMdF8S2kzs2)(NYCU OCW)                                                                                         |
+| [微分方程 李榮耀老師](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsfa0foLJIYrmkZO7UQRToi)(NYCU OCW)                                                                                                               |
+| [微分方程](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtRLwyBp5wC4YXNMN1C51m4)(NYCU OCW)                                                                                                                     |
+| [微分方程式 彭士峰博士](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_VB5We3RZCA5BjL9IsfdQ8E)(America America) [玫瑰色的人](https://www.bilibili.com/video/BV1Tt411w7Se/?spm\_id\_from=333.788.recommend\_more\_video.0) |
+| [簡易 微分方程](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_U1PbXiMPJn-o3ChKMLq4PF)(America America)                                                                                                          |
+| Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)                                                                                                |
+| Systems of Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzeXJa4k5NrsQJElScb258Q)                                                                                     |
+|                                                                                                                                                                                                                |
 
 ### 常微分方程 Ordinary Differential Equations
 
@@ -705,11 +706,11 @@ description: 用数学充实人生
 
 ## 模糊数学
 
-|                                                                                                                                                   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| NOC Jan 2019: Fuzzy Logic and Neural Networks [IIT Kharagpur July 2018](https://www.youtube.com/playlist?list=PLbRMhDVUMngeASctgzkLEIpgFNZmWwqRl) |   |
-| fuzzy logic [subhro mukherjee](https://www.youtube.com/playlist?list=PLSfd76ix9UN\_ulsbzClTzu3vWJsylyQc5)                                         |   |
-| Fuzzy set Theory [Easy Learn with Prof S Chakraverty](https://www.youtube.com/playlist?list=PLjZ9ULh2Ff9FWvv-DiZHP6RN0kMr\_4aW4)                  |   |
+|                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NOC Jan 2019: Fuzzy Logic and Neural Networks [IIT Kharagpur July 2018](https://www.youtube.com/playlist?list=PLbRMhDVUMngeASctgzkLEIpgFNZmWwqRl) |
+| fuzzy logic [subhro mukherjee](https://www.youtube.com/playlist?list=PLSfd76ix9UN\_ulsbzClTzu3vWJsylyQc5)                                         |
+| Fuzzy set Theory [Easy Learn with Prof S Chakraverty](https://www.youtube.com/playlist?list=PLjZ9ULh2Ff9FWvv-DiZHP6RN0kMr\_4aW4)                  |
 
 ## 小波理论
 
@@ -746,13 +747,13 @@ description: 用数学充实人生
 
 Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
-|                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- |
-| [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)** 中国大学MOOC-慕课** |
-| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**         |
-| **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**     |
-| [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course               |
-| 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)               |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)\*\* 中国大学MOOC-慕课\*\* |
+| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**             |
+| **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**         |
+| [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course                   |
+| 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)                   |
 
 ##
 
@@ -777,9 +778,9 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 #### MD5
 
-|                                                                                                        |   |
-| ------------------------------------------------------------------------------------------------------ | - |
-| MD5 - A completely broken secure hash algorithm [mCoding](https://www.youtube.com/watch?v=HWpaz5XsECc) |   |
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| MD5 - A completely broken secure hash algorithm [mCoding](https://www.youtube.com/watch?v=HWpaz5XsECc) |
 
 #### SHA 256
 
@@ -815,10 +816,10 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## 信号处理
 
-|                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Signal analysis and processing, Prof van Drongelen, University of Chicago**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkGxBwA8fwnEDe6rRuyT4\_N)** Yinan Zuo** |
-| [北京交通大学 信号与系统 陈后金教授](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDklgp33BWdNl5tOgsr9a5uk) **Yinan Zuo**                                                             |
+|                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Signal analysis and processing, Prof van Drongelen, University of Chicago**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkGxBwA8fwnEDe6rRuyT4\_N)\*\* Yinan Zuo\*\* |
+| [北京交通大学 信号与系统 陈后金教授](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDklgp33BWdNl5tOgsr9a5uk) **Yinan Zuo**                                                                 |
 
 ## 金融数学 Mathematical Finance
 
