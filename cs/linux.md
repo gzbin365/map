@@ -157,8 +157,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**                     |
 | **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**   |
 | GitHub Documentation [ch](\[link]\(https:/docs.github.com/cn\)/) [en](\[link]\(https:/docs.github.com/en\)/) |
-|                                                                                                              |
-|                                                                                                              |
+| GitLab [u](https://www.youtube.com/c/GitLab/featured)                                                        |
+| GitHub [u](https://www.youtube.com/c/GitHub/featured)                                                        |
 |                                                                                                              |
 |                                                                                                              |
 |                                                                                                              |
@@ -293,4 +293,4 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw) |
 |                                                                                               |
 |                                                                                               |
-| \*\*\*\*                                                                                      |
+|                                                                                               |
