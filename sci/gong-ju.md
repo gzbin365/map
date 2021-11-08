@@ -4,10 +4,11 @@
 | ------------------------------------------------------------------------- | --------------------------------------- |
 | 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos) | [计时器](https://naozhong.net.cn/jishiqi/) |
 
-|                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------- |
-| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)    |
-| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449) |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)            |
+| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)         |
+| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA) |
 
 | Short link                                                |
 | --------------------------------------------------------- |
@@ -23,12 +24,12 @@
 
 ### 安卓模拟器
 
-| bluestacks                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://www.bluestacks.com/tw/index.html)   [down](https://www.bluestacks.com/download.html) [d](https://www.bluestacks.com/tw/bluestacks-5.html) |
-| 2021年最好用的【Android模拟器】搞机手游必备，性能野兽，超强多开，资源占用少，低配电脑也能搞【[阿雷科技](https://www.youtube.com/watch?v=JYVm\_J8QK1M)】                                             |
+| bluestacks                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.bluestacks.com/tw/index.html) [down](https://www.bluestacks.com/download.html) [d](https://www.bluestacks.com/tw/bluestacks-5.html) |
+| 2021年最好用的【Android模拟器】搞机手游必备，性能野兽，超强多开，资源占用少，低配电脑也能搞【[阿雷科技](https://www.youtube.com/watch?v=JYVm\_J8QK1M)】                                           |
 
-| GameLoop   /   腾讯手游助手                                                                   |   |
+| GameLoop / 腾讯手游助手                                                                       |   |
 | --------------------------------------------------------------------------------------- | - |
 | 最好用的安卓模拟器，手游必备软件，良心推荐！ 2020 \| 零度解说 [零度解说](https://www.youtube.com/watch?v=OL-nt9lrtSw) |   |
 |                                                                                         |   |
@@ -79,4 +80,3 @@
 | 谷歌搜索技巧                                                                                    |   |
 | ----------------------------------------------------------------------------------------- | - |
 | 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |   |
-

@@ -6,7 +6,7 @@
 | 思维改变命运 王魄([u](https://www.youtube.com/channel/UCK5qc9\_Dz4L6Q6smjdXezgA/featured), )                            | 心河摆渡([u](https://www.youtube.com/channel/UCy2aOVSWiF\_ivcb0ilhGaXQ/playlists), )                                                                                                                                                     |
 | 大书舒克(人生硬知识) 抖音号： [sukeBIM](https://www.douyin.com/user/MS4wLjABAAAAKZDSljJvYJPNuZ31CjGEzbPMakxPqaIK3ROyUgTCQqk) | 安心的心灵探索 抖音号： [OHcard](https://www.douyin.com/user/MS4wLjABAAAAUibTv1bF3Fnl4SV4Hsg8fDzYNnDFNOegn89poSnbFD6qdx7EiNWVHUDwVG0gt6cC?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017333033380351232\&is\_full\_screen=0) |
 |                                                                                                                 | 知心者刘老师　抖音号： [zhixin4324](https://www.douyin.com/user/MS4wLjABAAAA3M2Gd\_nueVvcXfTkkC5TT4gAWH0Lf2\_9tskgTdauvnQ)                                                                                                                      |
-|                                                                                                                 |                                                                                                                                                                                                                                      |
+|                                                                                                                 | 不好惹的咨询师陈荫　抖音号： [psychenyin](https://www.douyin.com/user/MS4wLjABAAAAADgbLI8m8v3ppZd\_URkHg4SQRHTHYgKsw5mYEQBvU9vc-bxSSVssQmfgUSkT8ewV)                                                                                               |
 
 ***
 
