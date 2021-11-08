@@ -49,7 +49,6 @@
 | tenor([s](https://tenor.com), ) gif图片                                                                                                                        |
 | Best 7 Useful Websites You Must Know 😲 \| Fun & Knowledge \| Know-How [Know-How](https://www.youtube.com/watch?v=o70qa-XEzlk)                               |
 | How To Use Your PC From Anywhere Using Mobile \| Chrome Remote Desktop \| Remote To Desktop [Know-How](https://www.youtube.com/watch?v=X4PDihvKi0M)          |
-| [Gravatar](https://en.gravatar.com) One avatar for everything, everywhere                                                                                    |
 
 |                                                                                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------- | - |

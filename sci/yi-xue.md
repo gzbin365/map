@@ -1,13 +1,13 @@
 # 医学
 
-|                                                                                       |                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **医学视频站**[** u**](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists) | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
-| 医路向前巍子 抖音号： [ylxqvzi](https://www.douyin.com/user/MS4wLjABAAAArpWodT3Pj5GRZkmJREQ9oT3EBk5nbGsIu80t-J854EU)  |  隋主任谈失眠抑郁 抖音号： [41251832215](https://www.douyin.com/user/MS4wLjABAAAALZ_StlqRQCXwC9eydAaS1KA9cy3VK7LOQVLWiuvqOV9GwfNSSoMcRIRchaARzOq3) |
-|  皮肤科教授 王群 抖音号： [pifukewangqun](https://www.douyin.com/user/MS4wLjABAAAAu_2lMbpzx8g4f3mVICcNR2TZD4ZmsLnEr79kk0U8t_hRDifSDJuhEg2MhtRqqvqN) |   |
-| 乳腺外科陶思丰医生 抖音号： [taosifeng](https://www.douyin.com/user/MS4wLjABAAAANkcYXX_eoeMGZDoZZnSzn0YIPFf8Bwt2z22RYbqQWeI)  |   |
-|   |   |
-|   |   |
+|                                                                                                                                           |                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **医学视频站**[**   **u](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists)                                                   | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
+| 医路向前巍子 抖音号： [ylxqvzi](https://www.douyin.com/user/MS4wLjABAAAArpWodT3Pj5GRZkmJREQ9oT3EBk5nbGsIu80t-J854EU)                                | 隋主任谈失眠抑郁 抖音号： [41251832215](https://www.douyin.com/user/MS4wLjABAAAALZ\_StlqRQCXwC9eydAaS1KA9cy3VK7LOQVLWiuvqOV9GwfNSSoMcRIRchaARzOq3)                                                                         |
+| 皮肤科教授 王群 抖音号： [pifukewangqun](https://www.douyin.com/user/MS4wLjABAAAAu\_2lMbpzx8g4f3mVICcNR2TZD4ZmsLnEr79kk0U8t\_hRDifSDJuhEg2MhtRqqvqN) | 胃肠内镜医生吴齐  抖音号： [Wuqidr168](https://www.douyin.com/user/MS4wLjABAAAAoFQhasuA2k3t01iVAWVUxBSZ3rgwmDU9cTHZLah3bWYXNrbW4gydta6jO\_2pVDLX)                                                                          |
+| 乳腺外科陶思丰医生 抖音号： [taosifeng](https://www.douyin.com/user/MS4wLjABAAAANkcYXX\_eoeMGZDoZZnSzn0YIPFf8Bwt2z22RYbqQWeI)                          | 尤闻道医生（消化内镜） 抖音号： [endoscopy](https://www.douyin.com/user/MS4wLjABAAAAno26x8XhvlQ05ZPXsXOmF7RzGGtB2NN8Jtf\_-8-fD90)                                                                                             |
+|                                                                                                                                           |                                                                                                                                                                                                                |
+|                                                                                                                                           |                                                                                                                                                                                                                |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
@@ -36,7 +36,13 @@
 | 麻豆爱健身 抖音号： [998737550](https://www.douyin.com/user/MS4wLjABAAAA6gfCHC-BYKEX9F1v9FkHz60KIRNY62fbdKw0d1Qrwow?author\_id=69892264935\&enter\_from=recommend\&enter\_method=comment\&from\_gid=7010603847156698383\&group\_id=7010603847156698383\&log\_pb=%7B%22impr\_id%22%3A%2220211012204040010150170100270D1EE4%22%7D) |   |
 |                                                                                                                                                                                                                                                                                                                         |   |
 |                                                                                                                                                                                                                                                                                                                         |   |
-## 食品
-|   |   |
-| - | - |
-| 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)  |   |
+|                                                                                                                                                                                                                                                                                                                         |   |
+|                                                                                                                                                                                                                                                                                                                         |   |
+
+### 食品
+
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P) |
+|                                                                                                                              |
+|                                                                                                                              |
