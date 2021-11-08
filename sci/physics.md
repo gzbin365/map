@@ -27,16 +27,16 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 大学物理
 
-|                                                                                             |   |
-| ------------------------------------------------------------------------------------------- | - |
-| 大学物理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowZYbwU3MgdftmoN8WChq2c)) |   |
-| [高斯课堂 大学物理](https://www.youtube.com/channel/UCNpRMIGE8KxNtGrop1z8vDA/videos)(张俊)            |   |
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| 大学物理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowZYbwU3MgdftmoN8WChq2c)) |
+| [高斯课堂 大学物理](https://www.youtube.com/channel/UCNpRMIGE8KxNtGrop1z8vDA/videos)(张俊)            |
 
 ## Modern Physics
 
-|                                                                                                                        |   |
-| ---------------------------------------------------------------------------------------------------------------------- | - |
-| Modern Physics \|\| Modern Physics Full Lecture Course([Academic Lesson](https://www.youtube.com/watch?v=3lTQqEehEhI)) |   |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| Modern Physics \|\| Modern Physics Full Lecture Course([Academic Lesson](https://www.youtube.com/watch?v=3lTQqEehEhI)) |
 
 ## Mathematical Physics
 
