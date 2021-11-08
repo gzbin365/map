@@ -42,3 +42,11 @@
 | 人为什么要坚持 　[张雪峰](https://www.douyin.com/user/MS4wLjABAAAA3hAMHXMzrTFsKBGuPjShLlgl7itSpb1GxMJ-TeQMVcigF9R467EyWHgTLAdVCyyt) |
 |                                                                                                                          |
 |                                                                                                                          |
+
+### 什么是正义
+
+|                                                                        |
+| ---------------------------------------------------------------------- |
+| 诺奇克：什么是正义  [思想史万有引力](https://www.douyin.com/video/7004841891829239052) |
+|                                                                        |
+|                                                                        |

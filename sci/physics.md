@@ -12,6 +12,12 @@
 |                                                                                    | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
 |                                                                                    |                                                                                                                                |
 
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| 曹则显　中国科学院物理研究所研究员   国科大  抖音号： [ucas1978](https://www.douyin.com/user/MS4wLjABAAAAiZKjwy0CSxtoAF7ZdjBOH\_DuM15HFBSQUQi23hqqUM8) |
+|                                                                                                                                |
+|                                                                                                                                |
+
 ## 课程
 
 The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/watch?v=gAFAj3pzvAA))
