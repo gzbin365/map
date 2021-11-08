@@ -285,12 +285,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | \*\* dragon\_mc77([**u**](https://www.youtube.com/channel/UCz6Pi59nS8Em1uZUpbVgwVQ/videos), )\*\*                                                                                             | \*\* Lofi Girl([**u**](https://www.youtube.com/c/LofiGirl/videos), )\*\*                                   |
 | **unsplash(**[**s**](https://unsplash.com)**, )**                                                                                                                                             | \*\* WLOP([**u**](https://www.youtube.com/c/WLOP/videos), )\*\*                                            |
 
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| Fcitx                                                                                         |
-| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA)   |
-|                                                                                               |
-| STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw) |
-|                                                                                               |
-|                                                                                               |
-|                                                                                               |
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| Fcitx                                                                                              |
+| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA)        |
+|                                                                                                    |
+| STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw)      |
+| faker [git](https://github.com/joke2k/faker) [v](https://www.douyin.com/video/7026732437652655374) |
+|                                                                                                    |
+|                                                                                                    |
