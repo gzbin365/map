@@ -55,9 +55,9 @@ description: 用数学充实人生
 |                                                           | **The Manim Cast(**[**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)**)**          |
 |                                                           | **Manim Animations(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)**)**                  |
 
-|                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------- | - |
-| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso) |   |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso) |
 
 ## 竞赛
 
@@ -263,6 +263,7 @@ description: 用数学充实人生
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | [**Solve The Rubik's Cube**](https://www.youtube.com/playlist?list=PLDZcGqoKA84HVPyHNSpmn-wO\_phhnV4B0)**(MindYourDecisions)** |
+| 大禹治魔方　抖音号： [47788739](https://www.douyin.com/user/MS4wLjABAAAAWvp\_pLhZSXN7kiQSPRWJXIbxpGjvT8VnsmaPuppQd1c)                    |
 
 ## 分析 Analysis
 
@@ -696,14 +697,6 @@ description: 用数学充实人生
 | JAN 2020 - Introduction to System Dynamics Modeling [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fFQDTWYF4hzo6be81blfHo) |   |
 |                                                                                                                                                      |   |
 
-##
-
-|   |   |
-| - | - |
-|   |   |
-
-##
-
 ## 模糊数学
 
 |                                                                                                                                                   |
@@ -714,9 +707,9 @@ description: 用数学充实人生
 
 ## 小波理论
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| 小波理论及应用(冉启文)(哈尔滨工业大学)(67讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGb2ijHwApEQPj4YlKi13qF4) |   |
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| 小波理论及应用(冉启文)(哈尔滨工业大学)(67讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGb2ijHwApEQPj4YlKi13qF4) |
 
 ## 贝塞尔曲线 Bézier Curve **Bezier Curve**
 
@@ -747,13 +740,13 @@ description: 用数学充实人生
 
 Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)\*\* 中国大学MOOC-慕课\*\* |
-| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**             |
-| **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**         |
-| [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course                   |
-| 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)                   |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)** **中国大学MOOC-慕课 |
+| **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**         |
+| **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**     |
+| [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course               |
+| 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)               |
 
 ##
 
@@ -816,10 +809,10 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## 信号处理
 
-|                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Signal analysis and processing, Prof van Drongelen, University of Chicago**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkGxBwA8fwnEDe6rRuyT4\_N)\*\* Yinan Zuo\*\* |
-| [北京交通大学 信号与系统 陈后金教授](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDklgp33BWdNl5tOgsr9a5uk) **Yinan Zuo**                                                                 |
+|                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Signal analysis and processing, Prof van Drongelen, University of Chicago**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkGxBwA8fwnEDe6rRuyT4\_N)**  ** Yinan Zuo |
+| [北京交通大学 信号与系统 陈后金教授](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDklgp33BWdNl5tOgsr9a5uk) **Yinan Zuo**                                                               |
 
 ## 金融数学 Mathematical Finance
 
