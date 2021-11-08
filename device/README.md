@@ -319,3 +319,14 @@ description: 硬件设备
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | Information Technology [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg) |
+
+## 外设
+
+### 键盘
+
+|                                                               |   |
+| ------------------------------------------------------------- | - |
+| ​[A98](https://www.douyin.com/video/7023070738949131551)​​​​​ |   |
+|                                                               |   |
+|                                                               |   |
+
