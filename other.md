@@ -49,6 +49,7 @@
 | tenor([s](https://tenor.com), ) gif图片                                                                                                                        |
 | Best 7 Useful Websites You Must Know 😲 \| Fun & Knowledge \| Know-How [Know-How](https://www.youtube.com/watch?v=o70qa-XEzlk)                               |
 | How To Use Your PC From Anywhere Using Mobile \| Chrome Remote Desktop \| Remote To Desktop [Know-How](https://www.youtube.com/watch?v=X4PDihvKi0M)          |
+| [Gravatar](https://en.gravatar.com) One avatar for everything, everywhere                                                                                    |
 
 |                                                                                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------- | - |
@@ -111,3 +112,4 @@
 | WolframAlpha [v](https://www.douyin.com/video/6991110243765718312?previous\_page=personal\_homepage\&modeFrom=userLike\&cursor=1628253096000\&count=10\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF)                                                            |
 | 看电影背6000词 [v](https://www.douyin.com/video/6952125621543734536)                                                                                                                                                                                                                                         |
 | 为什么你的头会秃成M、C、U型？拿什么拯救你的发际线？ [柴知道](https://www.youtube.com/watch?v=Iz2Y5mtOMQU)                                                                                                                                                                                                                          |
+| 一本提高沟通能力的好书　[俞敏洪](https://www.douyin.com/video/7026668497547644198)                                                                                                                                                                                                                                     |

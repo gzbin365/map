@@ -610,6 +610,7 @@ Python高性能编程
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Google Python 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-python-style)**, )**                                                     |
 | Learning Python? You Must take a look at this book! Not Just for Scientists.([Python Programmer](https://www.youtube.com/watch?v=eIM9DQMZQeE)) |
+| 要读就读经典好书，差的书不光浪费你的Q，更浪费你的时间 [v](https://www.douyin.com/video/7027491495682788622)                                                              |
 
 {% file src="../.gitbook/assets/[gzbin.gitbook.io]Python3标准库(2017).pdf" %}
 Python 3标准库

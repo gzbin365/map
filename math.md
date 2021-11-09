@@ -282,6 +282,7 @@ description: 用数学充实人生
 | Interesting Sums [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzPZMoadNZRRfKkks48-m64)                                                                                                                                                            |
 | Interesting Limits [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyEcWyjC6hPEvHtYsw8X5jp)                                                                                                                                                          |
 | 可视化黎曼zeta函数和解析延拓 [3Blue1Brown](https://www.youtube.com/watch?v=sD0NjbwqlYw)                                                                                                                                                                                          |
+| 偏导数的几何含义　[v](https://www.douyin.com/video/7004453751079636261)                                                                                                                                                                                                       |
 
 ### 微积分 Calculus
 
