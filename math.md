@@ -282,6 +282,7 @@ description: 用数学充实人生
 | Interesting Sums [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzPZMoadNZRRfKkks48-m64)                                                                                                                                                            |
 | Interesting Limits [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyEcWyjC6hPEvHtYsw8X5jp)                                                                                                                                                          |
 | 可视化黎曼zeta函数和解析延拓 [3Blue1Brown](https://www.youtube.com/watch?v=sD0NjbwqlYw)                                                                                                                                                                                          |
+| 偏导数的几何含义　[v](https://www.douyin.com/video/7004453751079636261)                                                                                                                                                                                                       |
 
 ### 微积分 Calculus
 
@@ -333,6 +334,7 @@ description: 用数学充实人生
 | [2020政大應數複變函數論](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo) Yen-Lung Tsai                   |
 | [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                    |
 | [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star |
+| 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                       |
 
 ### 泛函分析 Functional Analysis
 
