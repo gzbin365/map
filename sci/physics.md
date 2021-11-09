@@ -26,6 +26,12 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | ---------------------------------------------------------------------------------------------------------------- |
 | 火箭推进Rocket Propulsion [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8G4TdzgmXkjvs4AZnlTVaH) |
 
+| 费曼物理学讲义                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [wiki](https://zh.wikipedia.org/wiki/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89)                        |
+| 费曼物理学 [steve zhang](https://www.youtube.com/playlist?list=PLAO\_-mukaOeOYXNPxJ-CmBvDt9yLOr7Rz)                               |
+| 如何理解“梯度下降法”？什么是“反向传播”？  [王木头学科学](https://www.youtube.com/watch?v=WPYNpUw6MhE\&list=UUerVFCqfEpTMTtRFwLuC\_xQ\&index=8) 28:12 |
+
 |                                                                                                    |
 | -------------------------------------------------------------------------------------------------- |
 | [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
@@ -129,7 +135,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 臺北天文館([u](https://www.youtube.com/c/%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%B8%E5%BD%B1%E7%89%87%E9%A0%BB%E9%81%93/featured), ) | **香港太空館 Hong Kong Space Museum(**[**u**](https://www.youtube.com/user/hkspacem/featured)**, )** |
 | C'est pas sorcier [u](https://www.youtube.com/c/Cestpassorcierofficiel/videos)                                            |                                                                                                 |
-|                                                                                                                           |                                                                                                 |
+| 宇宙全书  [v](https://www.douyin.com/video/7026966061899697448)                                                               |                                                                                                 |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
