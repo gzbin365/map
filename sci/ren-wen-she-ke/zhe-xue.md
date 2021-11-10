@@ -27,6 +27,8 @@
 | 懷疑論 Skepticism [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_72nxcEQ7dmK\_MC\_dkW16Sy) |
 | 苑举正 怀疑论 [肥洲](https://www.youtube.com/watch?v=Ksvp0pr0GO8)                                                                        |
 
+## 思考
+
 ### 人生的意义
 
 |                                                                                       |
@@ -57,3 +59,14 @@
 | ---------------------------------------------------------------------- |
 | 诺奇克：什么是正义  [思想史万有引力](https://www.douyin.com/video/7004841891829239052) |
 |                                                                        |
+
+### 你该不该躺平
+
+|                                                                |
+| -------------------------------------------------------------- |
+| 你该不该躺平 [俞敏洪](https://www.douyin.com/video/7025634545143794978) |
+|                                                                |
+|                                                                |
+
+
+
