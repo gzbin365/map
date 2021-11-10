@@ -5,24 +5,3 @@
 | 孔大爷 抖音号： [ZFSN1318](https://www.douyin.com/user/MS4wLjABAAAASC82E9e\_7YmKUF7ANqGjmS-7n4IyzQXtUkcQN31SmcFwTaWyzoeIXsi7HOu4AiN0) |   |
 |                                                                                                                                |   |
 |                                                                                                                                |   |
-
-## 面试
-
-|                                                                                                           |   |
-| --------------------------------------------------------------------------------------------------------- | - |
-| 牛客网 抖音号： [606602941](https://www.douyin.com/user/MS4wLjABAAAAQkElu1uG4mU6kGNgxseQJ4Bdst-KnGpiCfXwGObwZRc) |   |
-|                                                                                                           |   |
-|                                                                                                           |   |
-
-## 社保
-
-### 公积金
-
-### 医疗保险　医保
-
-|                                                                |
-| -------------------------------------------------------------- |
-| 百万医疗科普　[林大锤](https://www.douyin.com/video/7027431355269139724) |
-|                                                                |
-|                                                                |
-
