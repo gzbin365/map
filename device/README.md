@@ -103,7 +103,13 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------ | - |
 | [aya neo founder - YouTube](https://www.youtube.com/results?search\_query=aya+neo+founder) |   |
 
-### GPD Win3 max
+### GPD
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| GPD掌机 抖音号： [1972188727](https://www.douyin.com/user/MS4wLjABAAAAjxBGPYLAOzIWGj\_6--YXFtE5HiACfX-3uFTq1PuIYgg) |
+| GPD Win3 max                                                                                                  |
+|                                                                                                               |
 
 ## Steam Deck
 
