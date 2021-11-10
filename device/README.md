@@ -235,6 +235,7 @@ description: 硬件设备
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | Panasonic JZ2000 [羅卡Rocca](https://www.youtube.com/watch?v=FUsPscHye1g) [v](https://www.youtube.com/watch?v=pTpH3g\_yp4Y) |
+| 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                       |
 
 ## VR
 
