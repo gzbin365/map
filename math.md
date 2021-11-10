@@ -386,11 +386,16 @@ description: 用数学充实人生
 | CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U) |
 |                                                                                                                                 |
 
-### Bayes theorem
+### 贝叶斯　Bayes theorem
 
-|                                                                                 |   |
-| ------------------------------------------------------------------------------- | - |
-| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s)) |   |
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s)) |
+| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                 |
+
+$$
+P(A|B) =P(A) \dfrac{P(B|A)}{P(B)}
+$$
 
 ### 数理统计 Mathematical Statistics
 
