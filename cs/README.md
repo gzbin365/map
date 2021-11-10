@@ -332,5 +332,6 @@ description: 计算机科学与技术 keep coding
 | **春节12响(**[**github**](https://github.com/picasso250/spring12)**, )**                                                                                                                                                                                                                                   |
 | 开源灭霸命令 [v](https://www.douyin.com/video/7013333953738296616?count=10\&cursor=1633021396000\&modeFrom=userLike\&pre\_vid=7013275863529557287\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF\&fir\_previous\_page=personal\_homepage) |
 | No Code [git](https://github.com/kelseyhightower/nocode) [v](https://www.douyin.com/video/7027023054983138568)                                                                                                                                                                                          |
+| 人工智能核心代码，估值一个亿 [v](https://www.douyin.com/video/7028141130583739685)                                                                                                                                                                                                                                    |
 
 ###
