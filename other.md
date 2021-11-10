@@ -10,7 +10,7 @@
 
 [**orwtmc**](https://space.bilibili.com/353458898)** **[**青蛙刀圣1993**](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw)** **[**脑洞乌托邦**](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ\_g/featured)** Veritasium(**[**u**](https://www.youtube.com/c/veritasium/featured)**, ) 温义飞的急救财经(**[**u**](https://www.youtube.com/channel/UCfpjlfw7KxaU7gZp038\_t8w/videos)**, )**
 
-**窮奢極欲(**[**u**](https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3\_Jw/featured)**, ) 九边视频(**[**u**](https://www.youtube.com/channel/UC8gAAkJqnraOGnN9zEfigYA/featured)**, ) 人性洞察室(**[**u**](https://www.youtube.com/channel/UCI7uUDMlJJsH9oXrmaEkzpA/videos)\*\*, ) M2档案 [**u**](https://www.youtube.com/channel/UC9HOOTENXN\_Q2AJ7eozWBXA/videos) \*\*五件小事 [u](https://www.youtube.com/channel/UC5TSUHDDGa8mQ1aS\_S6EQnA)
+**窮奢極欲(**[**u**](https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3\_Jw/featured)**, ) 九边视频(**[**u**](https://www.youtube.com/channel/UC8gAAkJqnraOGnN9zEfigYA/featured)**, ) 人性洞察室(**[**u**](https://www.youtube.com/channel/UCI7uUDMlJJsH9oXrmaEkzpA/videos), ) M2档案 [**u**](https://www.youtube.com/channel/UC9HOOTENXN\_Q2AJ7eozWBXA/videos) 五件小事 [u](https://www.youtube.com/channel/UC5TSUHDDGa8mQ1aS\_S6EQnA)
 
 柴知道 [u](https://www.youtube.com/channel/UCQtwvRQWnT5Buh9hpvNNryQ) 三個字SunGuts [u](https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY\_MaKNg)
 

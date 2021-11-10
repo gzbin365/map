@@ -63,20 +63,21 @@
 | Android VM                                                                                                              |   |
 | Android VM - The best Android X86 VM for Gaming Performance! [Linux Leech](https://www.youtube.com/watch?v=bz8FugjsHs8) |   |
 
-|                                                                                                                              |   |
-| ---------------------------------------------------------------------------------------------------------------------------- | - |
-| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH\_N-9sw7IAiQ\&index=3) |   |
-| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                              |   |
-| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                            |   |
-| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                 |   |
-| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                             |   |
-| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                              |   |
-| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive               |   |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH\_N-9sw7IAiQ\&index=3) |
+| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                              |
+| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                            |
+| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                 |
+| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                             |
+| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                              |
+| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive               |
 
 |                                |   |
 | ------------------------------ | - |
 | [城通网盘](https://www.ctfile.com) |   |
 
-| 谷歌搜索技巧                                                                                    |   |
-| ----------------------------------------------------------------------------------------- | - |
-| 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |   |
+| 谷歌搜索技巧                                                                                    |
+| ----------------------------------------------------------------------------------------- |
+| 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |
+| 程序员都用什么软件做笔记 [IT师哥](https://www.douyin.com/video/7027099311112555784)                     |
