@@ -29,14 +29,6 @@
 | 明星营养师修贤 抖音号： [13068718](https://www.douyin.com/user/MS4wLjABAAAAsnq9PTUCmBLXVLLXR2BD-YaANv\_gPaEsuT\_0k1UCWII?author\_id=69892264935\&enter\_from=recommend\&enter\_method=comment\&from\_gid=7010603847156698383\&group\_id=7010603847156698383\&log\_pb=%7B%22impr\_id%22%3A%2220211012204040010150170100270D1EE4%22%7D)                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                                           |
 
-### 脊椎维护
-
-|                                                                       |
-| --------------------------------------------------------------------- |
-| 懒人上半身实用体态矫正包 [扒圈小猪](https://www.douyin.com/video/7028483831397125379) |
-|                                                                       |
-|                                                                       |
-
 ## 健身
 
 |                                                                                                                                                                                                                                                                                                                         |   |
