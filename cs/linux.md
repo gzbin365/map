@@ -139,14 +139,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 
 ## 嵌入式
 
-|                                                                                                   |   |
-| ------------------------------------------------------------------------------------------------- | - |
-| 嵌入式Linux网络编程基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZyi1i\_FBTsLH6kf8fZ9YFd) |   |
-| 嵌入式驱动开发环境搭建初级 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhazL036uR61slr9UhGR0SCl)   |   |
-| 嵌入式C语言高级 语法概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYZWYj5aactvfQXlipc5qg5)   |   |
-| 嵌入式C语言高级 内存空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAZA0qlSrhDXi3ONB2rVj6)   |   |
-| 嵌入式C语言高级 函数空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZFxpKta3ZtBkuvBiGIPU\_3)  |   |
-|                                                                                                   |   |
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| 嵌入式Linux网络编程基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZyi1i\_FBTsLH6kf8fZ9YFd)                                  |
+| 嵌入式驱动开发环境搭建初级 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhazL036uR61slr9UhGR0SCl)                                    |
+| 嵌入式C语言高级 语法概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYZWYj5aactvfQXlipc5qg5)                                    |
+| 嵌入式C语言高级 内存空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAZA0qlSrhDXi3ONB2rVj6)                                    |
+| 嵌入式C语言高级 函数空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZFxpKta3ZtBkuvBiGIPU\_3)                                   |
+| 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5) |
 
 ## **Git & Github**
 
