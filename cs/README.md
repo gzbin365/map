@@ -55,7 +55,7 @@ description: 计算机科学与技术 keep coding
 | **UserBenchmark(**[**u**](https://www.youtube.com/c/UserBenchmarks/featured)**, )** | **Kevin Wallace Training, LLC(**[**u**](https://www.youtube.com/user/kwallaceccie/videos)**, )**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Data Backup(**[**quora**](https://databackup.quora.com)**, )**                    | Entrepreneurship.org([u](https://www.youtube.com/user/Entrepreneurshiporg/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | CS Lesson([s](https://cslesson.org), [fb](https://www.facebook.com/cslesson), )     | comma.ai([s](https://github.com/commaai), [u](https://www.youtube.com/c/georgehotzarchive/featured), [comma](https://www.youtube.com/c/commaai/featured), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| \*\*\*\*[**dev.tube**](https://dev.tube)                                            | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**, **[**s**](https://ocw.mit.edu)**, **[**tw**](https://twitter.com/mitocw)**, **[**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**, **[**fb**](https://www.facebook.com/MITOCW/)**, **[**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**, **[**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**, **[**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, **[**help**](https://ocw.mit.edu/help/get-started-with-ocw/)**, )** |
+| [**dev.tube**](https://dev.tube)                                                    | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**, **[**s**](https://ocw.mit.edu)**, **[**tw**](https://twitter.com/mitocw)**, **[**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**, **[**fb**](https://www.facebook.com/MITOCW/)**, **[**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**, **[**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**, **[**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, **[**help**](https://ocw.mit.edu/help/get-started-with-ocw/)**, )** |
 | ibeifeng([u](https://www.youtube.com/user/ibeifeng/videos), )                       | Компьютерные науки计算机科学([u](https://www.youtube.com/c/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D0%BD%D0%B0%D1%83%D0%BA%D0%B8/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | NDC Conferences([u](https://www.youtube.com/c/NDCConferences/playlists), )          | 尚硅谷IT培训学校([u](https://www.youtube.com/c/%E5%B0%9A%E7%A1%85%E8%B0%B7IT%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists)              | Rackspace Technology([u](https://www.youtube.com/c/rackspace/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -65,10 +65,10 @@ description: 计算机科学与技术 keep coding
 
 |                                                                                                                                                                                                                                                                                 |                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **IBM Cloud(**[**u**](https://www.youtube.com/c/ibmcloud/featured)**, **[**s**](https://www.ibm.com/cloud)**, **[**tw**](https://twitter.com/ibmcloud)**, **[**blog**](https://www.ibm.com/cloud/blog)**, **[**linkedin**](https://www.linkedin.com/showcase/ibm-cloud/)**, )** | \*\*\*\*                                                             |
+| **IBM Cloud(**[**u**](https://www.youtube.com/c/ibmcloud/featured)**, **[**s**](https://www.ibm.com/cloud)**, **[**tw**](https://twitter.com/ibmcloud)**, **[**blog**](https://www.ibm.com/cloud/blog)**, **[**linkedin**](https://www.linkedin.com/showcase/ibm-cloud/)**, )** |                                                                      |
 | [**API与SDK：有什么区别？**](https://www.youtube.com/watch?v=kG-fLp9BTRo)                                                                                                                                                                                                               | [**容器与虚拟机：有什么区别？**](https://www.youtube.com/watch?v=cjXI-yxqGTI)     |
 | [**What is Serverless?**](https://www.youtube.com/watch?v=vxJobGtqKVM)                                                                                                                                                                                                          | [**Git与GitHub：有什么区别？**](https://www.youtube.com/watch?v=wpISo9TNjfU) |
-| \*\*\*\*[**Kubernetes与Docker：这不是一个问题**](https://www.youtube.com/watch?v=2vMEQ5zs1ko)                                                                                                                                                                                            | [**什么是REST API？**](https://www.youtube.com/watch?v=lsMQRaeKNDk)      |
+| [**Kubernetes与Docker：这不是一个问题**](https://www.youtube.com/watch?v=2vMEQ5zs1ko)                                                                                                                                                                                                    | [**什么是REST API？**](https://www.youtube.com/watch?v=lsMQRaeKNDk)      |
 
 |                                                                                    |   |
 | ---------------------------------------------------------------------------------- | - |
@@ -86,12 +86,12 @@ description: 计算机科学与技术 keep coding
 | **Geek's Lesson(**[**u**](https://www.youtube.com/c/GeeksLesson/featured)**, )**                                                                                                                                                | **My CS(**[**u**](https://www.youtube.com/c/MyCS1/featured)**, )**                                                                                                                                                                                                                                                                                                                    |
 | **George Hotz archive(**[**u**](https://www.youtube.com/c/georgehotzarchive/playlists)**, )**                                                                                                                                   | **马士兵说(**[**u**](https://www.youtube.com/channel/UCnM8mAXPF7117UxADAwgECg/videos)**, **[**s**](http://www.mashibing.com)**, )**                                                                                                                                                                                                                                                       |
 | **Metosin(**[**u**](https://www.youtube.com/c/Metosin/featured)**, )**                                                                                                                                                          | **BitTiger官方频道 BitTiger Official Channel(**[**u**](https://www.youtube.com/c/BitTiger/playlists)**, )**                                                                                                                                                                                                                                                                               |
-| 编程嘻嘻　抖音号： [QQqun109993491](https://www.douyin.com/user/MS4wLjABAAAABlW9CCrDw3KZv5jFyS-i4n-1RbNOE5KQ6fn-o6RRnus)                                                                                                                 | **ProgrammingKnowledge(**[**u**](https://www.youtube.com/c/ProgrammingKnowledge/featured)**, **[**codebind**](http://www.codebind.com)**, **[**fb**](https://www.facebook.com/ProgrammingKnowledgeLearning/)**, **[**tw**](https://twitter.com/ProgrammingKnow)**, )**                                                                                                                |
+| 编程嘻嘻　抖音号： [QQqun109993491](https://www.douyin.com/user/MS4wLjABAAAABlW9CCrDw3KZv5jFyS-i4n-1RbNOE5KQ6fn-o6RRnus)                                                                                                                 | **ProgrammingKnowledge**[**u**](https://www.youtube.com/c/ProgrammingKnowledge/featured)**, **[**codebind**](http://www.codebind.com)**, **[**fb**](https://www.facebook.com/ProgrammingKnowledgeLearning/)**, **[**tw**](https://twitter.com/ProgrammingKnow)                                                                                                                        |
 | **考研e族(**[**u**](https://www.youtube.com/channel/UCumvu1nun2Hr\_0y7MzrN2YA/playlists)**, )**                                                                                                                                    | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                                                                                                                                                                                                                                                                                                            |
 | Zack Micheal([u](https://www.youtube.com/channel/UCOWlTLGZXY66HRYfXD6a7cw/playlists), )                                                                                                                                         | Abdullah [u](https://www.youtube.com/channel/UClzV7jGJREjvCTzfGTrdrkQ/playlists)                                                                                                                                                                                                                                                                                                      |
 | **Joma Tech(**[**u**](https://www.youtube.com/c/JomaOppa/playlists)**, )**                                                                                                                                                      | 开发者学堂([u](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb9mZoKtAPgKonRopCKR8f9), )                                                                                                                                                                                                                                                                                                |
 | Pantech eLearning([u](https://www.youtube.com/c/PantecheLearning/playlists), )                                                                                                                                                  | Online learning网络课堂([u](https://www.youtube.com/channel/UCCJA\_0FzsiiI4lBzxn6mC4w/playlists), )                                                                                                                                                                                                                                                                                       |
-| CodePulse([u](https://www.youtube.com/c/CodePulse/playlists), )                                                                                                                                                                 | **代码真香/王爵的技术小黑屋(**[**u**](https://www.youtube.com/c/biezhi/playlists)\*\*, [**知乎**](https://www.zhihu.com/column/biezhi), \*\*[dev.tube](https://dev.tube/@codesofun), **)**                                                                                                                                                                                                          |
+| CodePulse([u](https://www.youtube.com/c/CodePulse/playlists), )                                                                                                                                                                 | **代码真香/王爵的技术小黑屋 **[**u**](https://www.youtube.com/c/biezhi/playlists), [**知乎**](https://www.zhihu.com/column/biezhi), [dev.tube](https://dev.tube/@codesofun),                                                                                                                                                                                                                        |
 | Ryan O'Donnell([u](https://www.youtube.com/c/RyanODonnellTeaching/playlists), )                                                                                                                                                 | PAPAYA 電腦教室([u](https://www.youtube.com/c/papayaclass/playlists), )                                                                                                                                                                                                                                                                                                                   |
 | 秦柯([u](https://www.youtube.com/channel/UCsvHsD\_g8j2IEZDlVzMC3Qw/playlists), )                                                                                                                                                  | Devon Crawford([u](https://www.youtube.com/c/DevonCrawford/playlists), )                                                                                                                                                                                                                                                                                                              |
 | Up and Atom [u](https://www.youtube.com/c/UpandAtom/playlists)                                                                                                                                                                  | TechWorld with Nana([u](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA), )                                                                                                                                                                                                                                                                                                  |
@@ -148,8 +148,8 @@ description: 计算机科学与技术 keep coding
 
 |                                                                                                             |                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**LeetCode**](https://leetcode.com)\*\*\*\*                                                                | **freeCodeCamp(**[**s**](https://www.freecodecamp.org)**, **[**u**](https://www.youtube.com/c/Freecodecamp/featured)**, )(前端 HTML css js)** |
-| \*\*\*\*[**赛码网**](https://www.acmcoder.com/index)                                                           | \*\*\*\*[**掘金**](https://juejin.cn)                                                                                                         |
+| [**LeetCode**](https://leetcode.com)                                                                        | **freeCodeCamp(**[**s**](https://www.freecodecamp.org)**, **[**u**](https://www.youtube.com/c/Freecodecamp/featured)**, )(前端 HTML css js)** |
+| [**赛码网**](https://www.acmcoder.com/index)                                                                   | [**掘金**](https://juejin.cn)                                                                                                                 |
 | LeetCode Solutions([Nick White](https://www.youtube.com/playlist?list=PLU\_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)) | HackerRank Solutions([Nick White](https://www.youtube.com/playlist?list=PLU\_sdQYzUj2nKXYskiYlKQIKknqu4H5ti))                               |
 
 ## 算力
@@ -160,7 +160,7 @@ description: 计算机科学与技术 keep coding
 
 **百度AI Studio(**[**申请**](https://shimo.im/docs/WDr6whkRdYyyrjHy)**, **[**v**](https://www.bilibili.com/video/BV18y4y1y783?t=18)**, )**
 
-\*\*\*\*[**pythonanywhere**](https://www.pythonanywhere.com)
+[**pythonanywhere**](https://www.pythonanywhere.com)
 
 **小米云深度学习服务(Xiaomi Cloud-ML)(**[**文档**](http://docs.api.xiaomi.com/cloud-ml/)**, )**
 
@@ -179,36 +179,36 @@ description: 计算机科学与技术 keep coding
 
 ## 视频
 
-|                                                                                                                                                                                                           |          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Programming Loops vs Recursion - Computerphile(**[**u**](https://www.youtube.com/watch?v=HXNhEYqFo0o)**, )**                                                                                            |          |
-| **What on Earth is Recursion? - Computerphile(**[**u**](https://www.youtube.com/watch?v=Mv9NEXX1VHc)**, )**                                                                                               | \*\*\*\* |
-| **Lambda Calculus - Computerphile(**[**u**](https://www.youtube.com/watch?v=eis11j\_iGMs)**, )**                                                                                                          | \*\*\*\* |
-| **阿里云栖2017-杭州(**[**list**](https://www.youtube.com/playlist?list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI)**, ) Watching IT Conference**                                                                     |          |
-| **Multithreading Code - Computerphile(**[**u**](https://www.youtube.com/watch?v=7ENFeb-J75k)**, )**                                                                                                       | \*\*\*\* |
-| 操作系统-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow8gkxLecHVILafe1iqkDTQ))                                                                                                               |          |
-| 软件工程-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxJ4pWOhcyvXhA2RBoHNQFV))                                                                                                               |          |
-| 计算机原理-国防科技大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxDDdgEggi949YkC-hh\_u1T))                                                                                                           |          |
-| **信息检索-黄如花（武汉大学）(**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFGVH074ipTYNpHbTZzr1M)**, )**                                                                                     | \*\*\*\* |
-| 计算机系统结构-同济大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowBRRHQBtADJxq5uvsWNxRe))                                                                                                            |          |
-| **计算机系统结构-清华大学(**[**网课慕课**](https://www.youtube.com/playlist?list=PLqlw88i7XLoxCewmEP0NwxNhtT28Ox2N2)**)**                                                                                                | \*\*\*\* |
-| 计算机图形学基础-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyQW0QhTcq4bYCjf1Ibd4rH))                                                                                                           |          |
-| [**MIT 6.00SC Introduction to Computer Science and Programming**](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)                                                                               | \*\*\*\* |
-| [**MIT 18.085 Computational Science and Engineering I, Fall 2008**](https://www.youtube.com/playlist?list=PL5135ECC9F2A4A203)\*\* \*\*[**bak**](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) | \*\*\*\* |
-| [**计算机维护维修**](https://www.youtube.com/playlist?list=PLV76ut4sbjor454eUdS0QQQX-xvWqUES-)\*\* Dayin HE\*\*                                                                                                  | \*\*\*\* |
-| [Computer Science/Computer Engineering](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJMouMI0TC6uH4AjqJqKdA0x) Zach Star                                                                              |          |
-| Computer Science [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)                                                                                                  |          |
-| Exploring How Computers Work [Sebastian Lague](https://www.youtube.com/watch?v=QZwneRb-zqA)                                                                                                               |          |
+|                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Loops vs Recursion - Computerphile(**[**u**](https://www.youtube.com/watch?v=HXNhEYqFo0o)**, )**                                                                                    |
+| **What on Earth is Recursion? - Computerphile(**[**u**](https://www.youtube.com/watch?v=Mv9NEXX1VHc)**, )**                                                                                       |
+| **Lambda Calculus - Computerphile(**[**u**](https://www.youtube.com/watch?v=eis11j\_iGMs)**, )**                                                                                                  |
+| **阿里云栖2017-杭州(**[**list**](https://www.youtube.com/playlist?list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI)**, ) Watching IT Conference**                                                             |
+| **Multithreading Code - Computerphile(**[**u**](https://www.youtube.com/watch?v=7ENFeb-J75k)**, )**                                                                                               |
+| 操作系统-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow8gkxLecHVILafe1iqkDTQ))                                                                                                       |
+| 软件工程-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxJ4pWOhcyvXhA2RBoHNQFV))                                                                                                       |
+| 计算机原理-国防科技大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxDDdgEggi949YkC-hh\_u1T))                                                                                                   |
+| **信息检索-黄如花（武汉大学）(**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFGVH074ipTYNpHbTZzr1M)**, )**                                                                             |
+| 计算机系统结构-同济大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowBRRHQBtADJxq5uvsWNxRe))                                                                                                    |
+| **计算机系统结构-清华大学(**[**网课慕课**](https://www.youtube.com/playlist?list=PLqlw88i7XLoxCewmEP0NwxNhtT28Ox2N2)**)**                                                                                        |
+| 计算机图形学基础-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyQW0QhTcq4bYCjf1Ibd4rH))                                                                                                   |
+| [**MIT 6.00SC Introduction to Computer Science and Programming**](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)                                                                       |
+| [**MIT 18.085 Computational Science and Engineering I, Fall 2008**](https://www.youtube.com/playlist?list=PL5135ECC9F2A4A203) [**bak**](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) |
+| [**计算机维护维修**](https://www.youtube.com/playlist?list=PLV76ut4sbjor454eUdS0QQQX-xvWqUES-) Dayin HE                                                                                                  |
+| [Computer Science/Computer Engineering](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJMouMI0TC6uH4AjqJqKdA0x) Zach Star                                                                      |
+| Computer Science [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)                                                                                          |
+| Exploring How Computers Work [Sebastian Lague](https://www.youtube.com/watch?v=QZwneRb-zqA)                                                                                                       |
 
 ## 计算机组成原理
 
-|                                                                                                                                 |   |
-| ------------------------------------------------------------------------------------------------------------------------------- | - |
-| [2020王道计算机组成原理](https://www.youtube.com/playlist?list=PLuolGRW5AOPwzMoXycl\_p8GQcmgMrkVTO) 考研e族                                 |   |
-| 《计算机组成原理》南京大学 袁春风 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMRq7tI6elSFBRGfcsDCKiZ)             |   |
-| 《计算机组成原理》知识点剖析 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMPaPj19fIZt8eglrjBD2Ou)                |   |
-| Computer Hardware and Architecture [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou) |   |
-| 深入浅出计算机组成原理 [极客时间](https://time.geekbang.org/column/intro/100026001)                                                            |   |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| [2020王道计算机组成原理](https://www.youtube.com/playlist?list=PLuolGRW5AOPwzMoXycl\_p8GQcmgMrkVTO) 考研e族                                 |
+| 《计算机组成原理》南京大学 袁春风 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMRq7tI6elSFBRGfcsDCKiZ)             |
+| 《计算机组成原理》知识点剖析 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMPaPj19fIZt8eglrjBD2Ou)                |
+| Computer Hardware and Architecture [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou) |
+| 深入浅出计算机组成原理 [极客时间](https://time.geekbang.org/column/intro/100026001)                                                            |
 
 ## 计算机网络
 
@@ -233,55 +233,55 @@ description: 计算机科学与技术 keep coding
 | 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                           |
 | How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                   |
 
-|                                                                                                                                   |   |
-| --------------------------------------------------------------------------------------------------------------------------------- | - |
-| Traceroute (tracert) Explained - Network Troubleshooting [PowerCert Animated Videos](https://www.youtube.com/watch?v=up3bcBLZS74) |   |
-| IPCONFIG Explained - Flush DNS Cache [PowerCert Animated Videos](https://www.youtube.com/watch?v=ZKhorleA5aA)                     |   |
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| Traceroute (tracert) Explained - Network Troubleshooting [PowerCert Animated Videos](https://www.youtube.com/watch?v=up3bcBLZS74) |
+| IPCONFIG Explained - Flush DNS Cache [PowerCert Animated Videos](https://www.youtube.com/watch?v=ZKhorleA5aA)                     |
 
 ## 操作系统 Operating Systems
 
-|                                                                                                                                                                       |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| [2020王道计算机操作系统](https://www.youtube.com/playlist?list=PLuolGRW5AOPzZl-iRAGrF1AIByOmzW3Ev) 考研e族                                                                        |   |
-| 《强化班-数据结构/操作系统》2020考研计算机 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOG9I08AhtpQNN6MzC74jMl)                                            |   |
-| System Design Course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=MbjObHmDbZo)                                                                       |   |
-| EE380-计算机系统座谈会 [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)                                                             |   |
-| Computer Organization and Design [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvsUhQ3MWPOsColFO5zwnu\_W)                                        |   |
-| Introduction to Operating Systems - Chester Rebeiro \| IIT Madras - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PAch478muxnoeTNz\_QeUJ) |   |
-| Operating Systems - Sorav Bansal \| IIT Delhi - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3RTwDexX\_T0TU7V9hHM\_RO)                    |   |
-| Introduction to Computer Architecture [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ33dr4EWxBZwm6t\_3\_C745S)                                    |   |
-| 计算机控制系统 [Jianbin Liu](https://www.youtube.com/playlist?list=PLRywWEDIJejicdU12a5eSIS54x8YA1B9m)                                                                       |   |
-| Operating Systems [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprdCI72yuKI\_VexnJygy-34e)                                                       |   |
-| Write Your Own 64-bit Operating System Kernel From Scratch [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SeZRitx5MjBKzTtvk0pHMtp)                     |   |
-| System administration complete course from beginner to advanced \| IT administrator full course [Geek's Lesson](https://www.youtube.com/watch?v=1DvTwuByjo0)          |   |
+|                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2020王道计算机操作系统](https://www.youtube.com/playlist?list=PLuolGRW5AOPzZl-iRAGrF1AIByOmzW3Ev) 考研e族                                                                        |
+| 《强化班-数据结构/操作系统》2020考研计算机 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOG9I08AhtpQNN6MzC74jMl)                                            |
+| System Design Course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=MbjObHmDbZo)                                                                       |
+| EE380-计算机系统座谈会 [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)                                                             |
+| Computer Organization and Design [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvsUhQ3MWPOsColFO5zwnu\_W)                                        |
+| Introduction to Operating Systems - Chester Rebeiro \| IIT Madras - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PAch478muxnoeTNz\_QeUJ) |
+| Operating Systems - Sorav Bansal \| IIT Delhi - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3RTwDexX\_T0TU7V9hHM\_RO)                    |
+| Introduction to Computer Architecture [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ33dr4EWxBZwm6t\_3\_C745S)                                    |
+| 计算机控制系统 [Jianbin Liu](https://www.youtube.com/playlist?list=PLRywWEDIJejicdU12a5eSIS54x8YA1B9m)                                                                       |
+| Operating Systems [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprdCI72yuKI\_VexnJygy-34e)                                                       |
+| Write Your Own 64-bit Operating System Kernel From Scratch [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SeZRitx5MjBKzTtvk0pHMtp)                     |
+| System administration complete course from beginner to advanced \| IT administrator full course [Geek's Lesson](https://www.youtube.com/watch?v=1DvTwuByjo0)          |
 
 ## 数据库
 
-|                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| \*\*Database Design Course - Learn how to design and plan a database for beginners \*\*[**freeCodeCamp**](https://www.youtube.com/watch?v=ztHopE5Wnpc) |
-| 数据库系统原理\_浙江大学\_陈岭 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b9zznMOcqVJKJWP-quUcV6b)                                            |
-| [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)                    |
-| Databases - Jennifer Widom \| Standford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0ML-cQSErtoTk2KrUzSZ2c)                     |
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Database Design Course - Learn how to design and plan a database for beginners [**freeCodeCamp**](https://www.youtube.com/watch?v=ztHopE5Wnpc) |
+| 数据库系统原理\_浙江大学\_陈岭 [Zack Micheal](https://www.youtube.com/playlist?list=PLC664nq\_h8b9zznMOcqVJKJWP-quUcV6b)                                    |
+| [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)            |
+| Databases - Jennifer Widom \| Standford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0ML-cQSErtoTk2KrUzSZ2c)             |
 
 ## 编译器
 
-|                                                                                                                                                 |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Computer Science - Principles of Compiler Design [nptelhrd](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA)           |   |
-| Compiler Design - Sanjeev Aggarwal \| IITK \| NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3t5P0uUUgzncPdFXubPW6\_) |   |
-| Compilers - Alex Aiken \| Stanford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3yc\_zf\_f1GOxl5CZo0LVBb)                 |   |
-| 编译原理之美 [极客时间](https://time.geekbang.org/column/intro/100034101)                                                                                 |   |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Computer Science - Principles of Compiler Design [nptelhrd](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA)           |
+| Compiler Design - Sanjeev Aggarwal \| IITK \| NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3t5P0uUUgzncPdFXubPW6\_) |
+| Compilers - Alex Aiken \| Stanford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3yc\_zf\_f1GOxl5CZo0LVBb)                 |
+| 编译原理之美 [极客时间](https://time.geekbang.org/column/intro/100034101)                                                                                 |
 
 ## 函数式编程
 
-|                                                                                                                              |          |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **What is a Monad? - Computerphile(**[**u**](https://www.youtube.com/watch?v=t1e8gqXLbsU)**, )**                             | \*\*\*\* |
-| **Haskell Tutorial(**[**u**](https://www.youtube.com/watch?v=02\_H3LjqMr8)**, )**                                            | \*\*\*\* |
-| **Why Isn't Functional Programming the Norm? – Richard Feldman(**[**u**](https://www.youtube.com/watch?v=QyJZzq0v7Z4)**, )** | \*\*\*\* |
-| Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                             |          |
-| Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                      |          |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| **What is a Monad? - Computerphile(**[**u**](https://www.youtube.com/watch?v=t1e8gqXLbsU)**, )**                             |
+| **Haskell Tutorial(**[**u**](https://www.youtube.com/watch?v=02\_H3LjqMr8)**, )**                                            |
+| **Why Isn't Functional Programming the Norm? – Richard Feldman(**[**u**](https://www.youtube.com/watch?v=QyJZzq0v7Z4)**, )** |
+| Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                             |
+| Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                      |
 
 ## 并行算法
 
@@ -291,9 +291,9 @@ description: 计算机科学与技术 keep coding
 
 ## 一致性和连贯性 Consistency and Coherence
 
-|                                                                                                                        |   |
-| ---------------------------------------------------------------------------------------------------------------------- | - |
-| Consistency and Coherence [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvumMy7ouhZDWkOVZcCRKwM8) |   |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| Consistency and Coherence [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvumMy7ouhZDWkOVZcCRKwM8) |
 
 ## 二进制开发 Binary Exploitation
 
@@ -317,10 +317,20 @@ description: 计算机科学与技术 keep coding
 |                                                                          |
 |                                                                          |
 
+## 项目
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ## 沙雕项目
 
-|                                                                       |                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **春节12响(**[**github**](https://github.com/picasso250/spring12)**, )** | 开源灭霸命令 [v](https://www.douyin.com/video/7013333953738296616?count=10\&cursor=1633021396000\&modeFrom=userLike\&pre\_vid=7013275863529557287\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF\&fir\_previous\_page=personal\_homepage) |
+|                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **春节12响(**[**github**](https://github.com/picasso250/spring12)**, )**                                                                                                                                                                                                                                   |
+| 开源灭霸命令 [v](https://www.douyin.com/video/7013333953738296616?count=10\&cursor=1633021396000\&modeFrom=userLike\&pre\_vid=7013275863529557287\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF\&fir\_previous\_page=personal\_homepage) |
+| No Code [git](https://github.com/kelseyhightower/nocode) [v](https://www.douyin.com/video/7027023054983138568)                                                                                                                                                                                          |
 
 ###
