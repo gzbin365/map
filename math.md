@@ -60,6 +60,10 @@ description: 用数学充实人生
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso) |
 
+## 小学
+
+##
+
 ## 小生初
 
 |                                                                                  |
@@ -67,6 +71,16 @@ description: 用数学充实人生
 | 小升初和刚上初一的孩子，怎样渡过数学难关  [跟小胖学数学](https://www.douyin.com/video/7028392630002273568) |
 |                                                                                  |
 |                                                                                  |
+
+## 初中
+
+|                                                                                                                                       |   |
+| ------------------------------------------------------------------------------------------------------------------------------------- | - |
+| 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) |   |
+|                                                                                                                                       |   |
+|                                                                                                                                       |   |
+
+## 高中
 
 ## 竞赛
 
