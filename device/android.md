@@ -1,9 +1,9 @@
 # Android/IOS
 
-|                                                                                     |                                                                             |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) |
-| **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** |                                                                             |
+|                                                                                     |                                                                                                                 |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                     |
+| **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) |
 
 ## Android
 
