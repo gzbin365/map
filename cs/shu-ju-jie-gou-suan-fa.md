@@ -4,7 +4,7 @@ description: 解决问题是一种快乐
 
 # 数据结构&算法
 
-** topics/algorithm(**[**git**](https://github.com/topics/algorithm)**, )**
+topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 **The Algorithms(**[**git**](https://github.com/TheAlgorithms)**, **[**python**](https://github.com/TheAlgorithms/Python)**, )**
 
@@ -28,21 +28,21 @@ description: 解决问题是一种快乐
 
 **5 Simple Steps for Solving Dynamic Programming Problems(**[**Reducible**](https://www.youtube.com/watch?v=aPQY\_\_2H3tE)**)**
 
-|                                                                                                                                           |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk) |   |
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk) |
 
 ## Recurisive
 
-|                                                                                                                                                                  |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 5 Simple Steps for Solving Any Recursive Problem([Reducible](https://www.youtube.com/watch?v=ngCos392W4w\&list=PLpXOY-RxVRTM\_-Lvss2ezy1lVl6VUrzW2\&index=2))    |   |
-| Towers of Hanoi: A Complete Recursive Visualization([Reducible](https://www.youtube.com/watch?v=rf6uf3jNjbo\&list=PLpXOY-RxVRTM\_-Lvss2ezy1lVl6VUrzW2\&index=3)) |   |
-| Recursion 😵 [Bro Code](https://www.youtube.com/watch?v=u8Xam9EsqXQ)                                                                                             |   |
-| 菲利普·罗伯茨：到底什么是Event Loop呢？ \| 欧洲 JSConf 2014 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                                                   |   |
-| Recursion in Programming - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=IJDJ0kBx2LM)                                                               |   |
-| Recursion Explained - [joke](https://www.youtube.com/watch?v=byYU-Yd4RH4)                                                                                        |   |
-| Recursion for Beginners: A Beginner's Guide to Recursion [North Bay Python](https://www.youtube.com/watch?v=AfBqVVKg4GE)                                         |   |
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5 Simple Steps for Solving Any Recursive Problem([Reducible](https://www.youtube.com/watch?v=ngCos392W4w\&list=PLpXOY-RxVRTM\_-Lvss2ezy1lVl6VUrzW2\&index=2))    |
+| Towers of Hanoi: A Complete Recursive Visualization([Reducible](https://www.youtube.com/watch?v=rf6uf3jNjbo\&list=PLpXOY-RxVRTM\_-Lvss2ezy1lVl6VUrzW2\&index=3)) |
+| Recursion 😵 [Bro Code](https://www.youtube.com/watch?v=u8Xam9EsqXQ)                                                                                             |
+| 菲利普·罗伯茨：到底什么是Event Loop呢？ \| 欧洲 JSConf 2014 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                                                   |
+| Recursion in Programming - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=IJDJ0kBx2LM)                                                               |
+| Recursion Explained - [joke](https://www.youtube.com/watch?v=byYU-Yd4RH4)                                                                                        |
+| Recursion for Beginners: A Beginner's Guide to Recursion [North Bay Python](https://www.youtube.com/watch?v=AfBqVVKg4GE)                                         |
 
 ## Algorithms
 
@@ -51,7 +51,7 @@ description: 解决问题是一种快乐
 | Algorithms Full Course \|\| Design and Analysis of Algorithms([Geek's Lesson](https://www.youtube.com/watch?v=D6Q\_wHrzxDs))                                                                                                                                                                                                                          |
 | 算法设计与分析 - 北京大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Qh\_7Q4cuSc5iWJJsNwcIn8))                                                                                                                                                                                                                                                     |
 | Design and Analysis of Algorithms - Madhavan Mukund \| CMI - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1YxqcmBjCdK9oX1m-JDEx2)                                                                                                                                                                                         |
-| Design and analysis of algorithms [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9DKhN7z2fOpKTJWu-639\_P)   [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ8Ew7KUp65sRL9\_k2\_3xlKE)                                                                                                                                     |
+| Design and analysis of algorithms [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9DKhN7z2fOpKTJWu-639\_P) [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ8Ew7KUp65sRL9\_k2\_3xlKE)                                                                                                                                       |
 | Functional Programming & Haskell - [Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)                                                                                                                                                                                                                                                       |
 | Functional Design Patterns - Scott Wlaschin [NDC Conferences](https://www.youtube.com/watch?v=srQt1NAHYC0)                                                                                                                                                                                                                                            |
 | [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V\_F-5jb5L2iHb) MIT OpenCourseWare([s](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), )                                                                           |
@@ -72,20 +72,20 @@ description: 解决问题是一种快乐
 | Algorithmic Trading Using Python - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=xfzGZB4HhEE)                                                                                                                                                                                                                                            |
 | Algorithms and Data Structures - Full Course for Beginners from Treehouse [freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                                                                                                                                                                                                 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer [freeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)                                                                                                                                                                                                            |
-| Solve Coding Interview Backtracking回溯 Problems - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=A80YzvNwqXA)   [回溯法](https://zh.wikipedia.org/zh-hans/%E5%9B%9E%E6%BA%AF%E6%B3%95)                                                                                                                                                       |
+| Solve Coding Interview Backtracking回溯 Problems - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=A80YzvNwqXA) [回溯法](https://zh.wikipedia.org/zh-hans/%E5%9B%9E%E6%BA%AF%E6%B3%95)                                                                                                                                                         |
 | Data Structures and Algorithms Full Tutorial in 9 Hours \| \[Complete Course] Beginner to Advance [WsCube Tech](https://www.youtube.com/watch?v=hCrO\_cR7kno)                                                                                                                                                                                         |
 | Data Structures and Algorithms in Python - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=pkYVOmU3MgA)                                                                                                                                                                                                                      |
 | 数据结构和算法可视化学习平台 [v](https://www.douyin.com/video/7013277522842471687?count=10\&cursor=1633021396000\&modeFrom=userLike\&pre\_vid=6981768881610312992\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF\&fir\_previous\_page=personal\_homepage) [s](https://visualgo.net/en) visualgo |
 | 你一定要掌握的8大#数据结构 [v](https://www.douyin.com/video/7006239727774944542)                                                                                                                                                                                                                                                                                  |
 | 算法学习知识汇总 [v](https://www.douyin.com/video/6994340509292563720)                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                                                       |
+| 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                                                                                                                                                                                                                                                                                 |
 
 ## 排序算法 Sorting Algorithms
 
-|                                                                                                                  |   |
-| ---------------------------------------------------------------------------------------------------------------- | - |
-| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1) |   |
-| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                     |   |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1) |
+| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                     |
 
 ### 插入排序 Insertion Sort
 
@@ -124,78 +124,37 @@ description: 解决问题是一种快乐
 
 ## 大O复杂性 Big O Complexity
 
-|                                                                                                               |   |
-| ------------------------------------------------------------------------------------------------------------- | - |
-| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5) |   |
-| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                      |   |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5) |
+| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                      |
 
 ## 二进制 Binary
 
-|                                                                                                      |   |
-| ---------------------------------------------------------------------------------------------------- | - |
-| Binary [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcpen2Jvs\_JiuvWvqIAkzea) |   |
-| Binary Numbers [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90) |   |
-| What is Binary Search? [freeCodeCamp](https://www.youtube.com/watch?v=KsoUiNv1SZA)                   |   |
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| Binary [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcpen2Jvs\_JiuvWvqIAkzea) |
+| Binary Numbers [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90) |
+| What is Binary Search? [freeCodeCamp](https://www.youtube.com/watch?v=KsoUiNv1SZA)                   |
 
 ## 逻辑门 Logic Gates
 
-|                                                                                                           |   |
-| --------------------------------------------------------------------------------------------------------- | - |
-| Logic Gates [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfc\_VVJYunO1BN9peCTMQgr) |   |
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| Logic Gates [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfc\_VVJYunO1BN9peCTMQgr) |
 
 ## LeetCode
 
-|                                                                                                                      |   |
-| -------------------------------------------------------------------------------------------------------------------- | - |
-| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn) |   |
-| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |   |
-|                                                                                                                      |   |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn) |
+| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |
+|                                                                                                                      |
 
 ## 其他
 
-|                                                                                                                  |   |
-| ---------------------------------------------------------------------------------------------------------------- | - |
-| 👍 Finally, my review of Grokking Algorithms 📖 [Python Programmer](https://www.youtube.com/watch?v=BBjOIUvQk70) |   |
-|                                                                                                                  |   |
-|                                                                                                                  |   |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| 👍 Finally, my review of Grokking Algorithms 📖 [Python Programmer](https://www.youtube.com/watch?v=BBjOIUvQk70) |
+| 数据结构与算法之美 book [v](https://www.douyin.com/video/7027487956168428840)                                             |
+|                                                                                                                  |
