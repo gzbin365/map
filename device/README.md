@@ -131,11 +131,11 @@ description: 硬件设备
 | Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
 |                                                                                                                            |   |
 
-|   |
-| - |
-|   |
-|   |
-|   |
+| MSI                                                                              |
+| -------------------------------------------------------------------------------- |
+| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c) |
+|                                                                                  |
+|                                                                                  |
 
 ### Drone / UAV
 
@@ -327,7 +327,7 @@ description: 硬件设备
 | 阿雷科技([**u**](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ/featured), )          | **科技瘾力(**[**B**](https://space.bilibili.com/99814696/)**, )**                                                                                       | 一起看科技([**u**](https://www.youtube.com/channel/UCbK8nJjja5euysRId-Gkfcw/videos), )                                                    |
 | **engadget(**[**s**](https://www.engadget.com)**, )**                                       | **Techquickie(**[**u**](https://www.youtube.com/c/Techquickie/featured)**, )**                                                                      | **极客湾Geekerwan(**[**u**](https://www.youtube.com/c/geekerwan%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%A5%B5%E5%AE%A2%E7%81%A3/featured)**, )**  |
 | Dave2D [u](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)                        | **二斤自制(**[**u**](https://www.youtube.com/channel/UCfZfoX8cqde6Bknw8t8\_rRQ/featured)**, )**                                                         | **Samsung US(**[**u**](https://www.youtube.com/c/SamsungUS/featured)**, )**                                                          |
-|                                                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
+| TheRelaxingEnd [u](https://www.youtube.com/c/TheRelaxingEnd/playlists)                      | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
 |                                                                                             |                                                                                                                                                     | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
 
 |                                                                                                                              |
