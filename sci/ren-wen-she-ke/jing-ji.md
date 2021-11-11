@@ -49,7 +49,7 @@
 |                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 说房沁 抖音号： [77706190822](https://www.douyin.com/user/MS4wLjABAAAA8Bdr\_mW9MhX5BnUQjYac3wzXbOvph9Bp\_41jfKmB7o1jIRcvnEHsUeJfHtmwSwcD?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7014315812341255460\&is\_full\_screen=0) |
-|                                                                                                                                                                                                                                         |
+| 华夏基金 抖音号： [chinaamc](https://www.douyin.com/user/MS4wLjABAAAA0uVLKr7Wuc6iofQyCAjKoRwOIM1FXmCaPGcesYZfix24co9x-K77Z-srof3MIuFK)                                                                                                          |
 |                                                                                                                                                                                                                                         |
 
 ###
