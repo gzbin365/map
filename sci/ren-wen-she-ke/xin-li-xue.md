@@ -23,3 +23,9 @@
 | 心理学 [王林林Eileen](https://www.youtube.com/playlist?list=PLP7NGPIX1xLPEMHp31entrpIWDWeQEJXp)                           |
 | 郭生白-孩子发烧母亲怎么办-老人发烧儿女怎么办 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCWohKrEk8nqDY0kpPmBjr)        |
 | 麻省理工学院MIT公开课《如何说话 How to Speak》by Patrick Winston [道法自然](https://www.youtube.com/watch?v=Zw1tzxAt\_CI)              |
+
+|                                                                 |
+| --------------------------------------------------------------- |
+| 保持情绪稳定的方法 [v](https://www.douyin.com/video/7028838405308042533) |
+|                                                                 |
+|                                                                 |
