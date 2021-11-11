@@ -533,6 +533,7 @@ $$
 | [无向图与有向图](https://www.youtube.com/watch?v=TDfsPmcZ24U) [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J)**  ** 中国大学MOOC-慕课 |
 | [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT\_5WgwYwGMvgCjYVsIQg) Kiran Kuppa                                                    |
 | [MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV\_CpT1zKaGG\_Vj5igX)                              |
+| 四色问题　[科学探索号](https://www.douyin.com/video/7021446686111206668)                                                                                                           |
 
 ## 拓扑学 Topology
 
