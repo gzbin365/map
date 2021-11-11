@@ -131,6 +131,12 @@ description: 硬件设备
 | Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
 |                                                                                                                            |   |
 
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ### Drone / UAV
 
 |                                                                                                                    |                                                                                       |
@@ -236,12 +242,13 @@ description: 硬件设备
 | ---------------------------------------------------------------------------------------- |
 | How does Bluetooth Work? [Branch Education](https://www.youtube.com/watch?v=1I1vxu5qIUM) |
 
-## 电视机
+## 电视机  TV
 
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | Panasonic JZ2000 [羅卡Rocca](https://www.youtube.com/watch?v=FUsPscHye1g) [v](https://www.youtube.com/watch?v=pTpH3g\_yp4Y) |
 | 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                       |
+| 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
 
 ## VR
 
