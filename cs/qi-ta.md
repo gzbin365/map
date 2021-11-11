@@ -176,13 +176,14 @@
 
 ## Game Programming
 
-|                                                                                                                 |                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| aarthificial([u](https://www.youtube.com/c/aarthificial/videos), )                                              | Stylized Station([u](https://www.youtube.com/c/StylizedStation/playlists), )                            |
-| Donald Clark([u](https://www.youtube.com/channel/UCN1zdef96RFv2zEgRFK8SbA/videos), )                            | Game Maker's Toolkit([u](https://www.youtube.com/c/MarkBrownGMT/playlists), )                           |
-| The Cherno([u](https://www.youtube.com/c/TheChernoProject/playlists), )                                         | Chris DeLeon of HomeTeam GameDev (Formerly Gamkedo)([u](https://www.youtube.com/c/GamkedoLLC/videos), ) |
-| enigma [u](https://www.youtube.com/channel/UCsCY6v\_tOJXR6U3gJW8eNBw)                                           | Aura Audio [u](https://www.youtube.com/c/EvTime/playlists) gameboy music                                |
-| app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) | Carson Jay Marbles [u](https://www.youtube.com/c/CarsonJay/videos)                                      |
+|                                                                                                                 |                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| aarthificial([u](https://www.youtube.com/c/aarthificial/videos), )                                              | Stylized Station([u](https://www.youtube.com/c/StylizedStation/playlists), )                                             |
+| Donald Clark([u](https://www.youtube.com/channel/UCN1zdef96RFv2zEgRFK8SbA/videos), )                            | Game Maker's Toolkit([u](https://www.youtube.com/c/MarkBrownGMT/playlists), )                                            |
+| The Cherno([u](https://www.youtube.com/c/TheChernoProject/playlists), )                                         | Chris DeLeon of HomeTeam GameDev (Formerly Gamkedo)([u](https://www.youtube.com/c/GamkedoLLC/videos), )                  |
+| enigma [u](https://www.youtube.com/channel/UCsCY6v\_tOJXR6U3gJW8eNBw)                                           | Aura Audio [u](https://www.youtube.com/c/EvTime/playlists) gameboy music                                                 |
+| app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) | Carson Jay Marbles [u](https://www.youtube.com/c/CarsonJay/videos)                                                       |
+|                                                                                                                 | Game Dev Unlocked [u](https://www.youtube.com/c/GameDevUnlocked/videos) [v](https://www.youtube.com/watch?v=Y3Rs1z7it5M) |
 
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
