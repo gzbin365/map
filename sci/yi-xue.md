@@ -61,4 +61,4 @@
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)      |
 | 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW) |
-|                                                                                                                                   |
+| 刘左飞 抖音号： [NCzuofei666](https://www.douyin.com/user/MS4wLjABAAAAcZpV\_XHGPjt\_OVXwdx6mGiD98GKWVFFgcsP\_lV0-eXE)  饮料相关              |
