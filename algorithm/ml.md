@@ -471,6 +471,14 @@ LSTM
 | ------------------------------------------------------------------------------------------------------ |
 | 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002 |
 
+### 最大熵
+
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| Maximum Entropy Methods Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznT3olRuplp5x41wUp\_LZxHL) |
+|                                                                                                                                   |
+|                                                                                                                                   |
+
 ### A/B testing
 
 |                                                                                                                           |
