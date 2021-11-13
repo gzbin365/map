@@ -628,7 +628,7 @@ $$
 | **形象的介绍：什么是傅里叶变换？**[**3Blue1Brown**](https://www.youtube.com/watch?v=spUNpyF58BY)**  ** [**电子工程世界**](http://training.eeworld.com.cn/course/4743) |
 | 可什么是傅立叶级数呢？从热流到画圈 \| DE4 [3Blue1Brown](https://www.youtube.com/watch?v=r6sGWTCMz2k)                                                              |
 | **Fast Fourier Transform(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX)**)**                        |
-|                                                                                                                                                  |
+| 傅立叶变换如何理解？[李永乐老师](https://www.youtube.com/watch?v=0LuyxzqI3Hk)                                                                                   |
 | [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                            |
 | [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                            |
 | 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                   |
@@ -656,6 +656,8 @@ $$
 | Laplace Transform [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8gnapvdLN92hs\_4F75OSuH)                                     |
 | The Laplace Transform [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwcjccbCdv5Ntykn-dqte4k)                                    |
 | What does the Laplace Transform really tell us? A visual explanation (plus applications) [Zach Star](https://www.youtube.com/watch?v=n2y7n6jw5d0) |
+| 「[珂学原理](https://www.youtube.com/watch?v=bB9SrBa6\_3Q)」No. 26「拉普拉斯变换了什么？」                                                                          |
+| 傅立叶变换如何理解？[李永乐老师](https://www.youtube.com/watch?v=0LuyxzqI3Hk)                                                                                    |
 
 #### 其他
 
