@@ -10,12 +10,12 @@
 |                                                                                                                                           | 弓勇波（低碳减脂研究员）　抖音号： [353843262](https://www.douyin.com/user/MS4wLjABAAAAmzcHJGJLr1AB4-1y4JPHdbLXJfkxfUcb4Pj0gqAhPTQ)                                                                                             |
 | 鹤立烟雨 抖音号： [heliyanyu2021](https://www.douyin.com/user/MS4wLjABAAAAlqMWEIOHEw\_E8NtbojZsUS8t4Jr2omQ5cLOsULnAeR1e3BRg0ZkUaxlKAL8IBZZU)      | 运动营养师胖克　抖音号： [28442644381](https://www.douyin.com/user/MS4wLjABAAAAGrs-\_Uomn8m0zf8uTZoH4kjhb9xMPdZihMNBrCj7MR03mAT0siSrAcWxVepr1BhC)                                                                          |
 
-|                                                                                                             |   |
-| ----------------------------------------------------------------------------------------------------------- | - |
-| [诊断学 四川大学华西医学中心](https://www.youtube.com/playlist?list=PLgvxkXbWub7hnMdxF2Tw7bgSjKplBJ0Cu) Free Course      |   |
-| 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv) |   |
-| 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)          |   |
-| [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                            |   |
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| [诊断学 四川大学华西医学中心](https://www.youtube.com/playlist?list=PLgvxkXbWub7hnMdxF2Tw7bgSjKplBJ0Cu) Free Course      |
+| 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv) |
+| 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)          |
+| [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                            |
 
 ## 健康养生
 
@@ -29,6 +29,14 @@
 | 陈鑫医生 抖音号： [Dr.MaZui](https://www.douyin.com/user/MS4wLjABAAAAN8GmJKS78TEJ28iy8UQfFvJXzwnElcNtvrnHoZJAW-w?author\_id=61224840863127\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6905670461485616392\&group\_id=6905670461485616392\&log\_pb=%7B%22impr\_id%22%3A%22021633809407731fdbddc0200ff2f010a9e401c00000052452682%22%7D)                                      |
 | 明星营养师修贤 抖音号： [13068718](https://www.douyin.com/user/MS4wLjABAAAAsnq9PTUCmBLXVLLXR2BD-YaANv\_gPaEsuT\_0k1UCWII?author\_id=69892264935\&enter\_from=recommend\&enter\_method=comment\&from\_gid=7010603847156698383\&group\_id=7010603847156698383\&log\_pb=%7B%22impr\_id%22%3A%2220211012204040010150170100270D1EE4%22%7D)                                                                |
 | 华西唐黎之博士　抖音号： [huaxitanglizhi](https://www.douyin.com/user/MS4wLjABAAAAy6Hctl7QTwdl76jZdDtWaOrV0CkuhT3-eNVCNBSf99c)                                                                                                                                                                                                                                                                        |
+
+### 生酮饮食
+
+|                                                                      |
+| -------------------------------------------------------------------- |
+| 关于生酮饮食的事实 [迪哥精准营养](https://www.douyin.com/video/6999609968659811592) |
+|                                                                      |
+|                                                                      |
 
 ### 脊椎维护
 
