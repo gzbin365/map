@@ -134,6 +134,7 @@
 | rails敏捷开发仿锤子网站 [开发者学堂](https://www.youtube.com/watch?v=Niu46svY5Pk\&list=PLGmd9-PCMLhZqbwva-1ApBJ\_fsUtnMYPE)                     |
 | 企业网站后台制作实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ4zl32C6R5ZSKloO5mTOgf)                                      |
 | 麦子学院-高级工程师手把手带你做企业门户前端 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxXqWqPeBQ2QUIzFuHbXTHK)                       |
+| Hugo 快速构建一个自己的博客 [v](https://www.douyin.com/video/6967236505697864973)                                                            |
 
 ### WordPress
 
