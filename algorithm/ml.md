@@ -545,22 +545,23 @@ LSTM
 
 ## Book
 
-|                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **神经网络与深度学习(**[**s**](http://neuralnetworksanddeeplearning.com)**, **[**翻译**](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh\_cn/content/)**, )**                 |
-| **HyperDL-Tutorial(**[**git**](https://github.com/zeusees/HyperDL-Tutorial)**, **[**书栈**](https://www.bookstack.cn/read/HyperDL-Tutorial/README.md)**, )**                           |
-| 周志华《机器学习》学习笔记 ([书栈](https://www.bookstack.cn/books/Vay-keen-Machine-learning-learning-notes), )                                                                                      |
-| 机器学习实战（Machine Learning in Action） ([书栈](https://www.bookstack.cn/books/MachineLearning), )                                                                                          |
-| Interpretable Machine Learning ([书栈](https://www.bookstack.cn/books/interpretable-ml-book), )                                                                                        |
-| ML Kit 中文文档 ([书栈](https://www.bookstack.cn/books/MLkit-CN), )                                                                                                                        |
-| spark机器学习算法研究和源码分析 ([书栈](https://www.bookstack.cn/books/spark-ml-source-analysis), )                                                                                                 |
-| ml5.js - Machine Learning for Web ([书栈](https://www.bookstack.cn/books/ml5js), )                                                                                                     |
-| 机器学习训练秘籍（Machine Learning Yearning 中文版） ([书栈](https://www.bookstack.cn/books/machine-learning-yearning-cn), )                                                                        |
-| Pipcook v1.0 机器学习工具使用教程 ([书栈](https://www.bookstack.cn/books/pipcook-1.0-zh), )                                                                                                      |
-| \*\*\*\*[**DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)**(**[**jd**](https://item.jd.com/12785031.html)**, )**                              |
-| **Deeplearning Algorithms Tutorial（深度学习算法教程） (**[**书栈**](https://www.bookstack.cn/books/Deeplearning-Algorithms-tutorial)**, **[**git**](https://github.com/KeKe-Li/tutorial)**, )** |
-| **花书 deeplearningbook(**[**s**](https://www.deeplearningbook.org)**, )**                                                                                                             |
-| [神经网络的损失函数为什么是非凸的?](https://www.zhihu.com/question/265516791)（知乎）                                                                                                                    |
+|                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **神经网络与深度学习(**[**s**](http://neuralnetworksanddeeplearning.com)**, **[**翻译**](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh\_cn/content/)**, )**                                                     |
+| **HyperDL-Tutorial(**[**git**](https://github.com/zeusees/HyperDL-Tutorial)**, **[**书栈**](https://www.bookstack.cn/read/HyperDL-Tutorial/README.md)**, )**                                                               |
+| 周志华《机器学习》学习笔记 ([书栈](https://www.bookstack.cn/books/Vay-keen-Machine-learning-learning-notes), )                                                                                                                          |
+| 机器学习实战（Machine Learning in Action） ([书栈](https://www.bookstack.cn/books/MachineLearning), )                                                                                                                              |
+| Interpretable Machine Learning ([书栈](https://www.bookstack.cn/books/interpretable-ml-book), )                                                                                                                            |
+| ML Kit 中文文档 ([书栈](https://www.bookstack.cn/books/MLkit-CN), )                                                                                                                                                            |
+| spark机器学习算法研究和源码分析 ([书栈](https://www.bookstack.cn/books/spark-ml-source-analysis), )                                                                                                                                     |
+| ml5.js - Machine Learning for Web ([书栈](https://www.bookstack.cn/books/ml5js), )                                                                                                                                         |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版） ([书栈](https://www.bookstack.cn/books/machine-learning-yearning-cn), )                                                                                                            |
+| Pipcook v1.0 机器学习工具使用教程 ([书栈](https://www.bookstack.cn/books/pipcook-1.0-zh), )                                                                                                                                          |
+| [**DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)**(**[**jd**](https://item.jd.com/12785031.html)**, **[**2**](https://github.com/shliang0603/Awesome-DeepLearning-500FAQ)**, )** |
+| **Deeplearning Algorithms Tutorial（深度学习算法教程） (**[**书栈**](https://www.bookstack.cn/books/Deeplearning-Algorithms-tutorial)**, **[**git**](https://github.com/KeKe-Li/tutorial)**, )**                                     |
+| **花书 deeplearningbook(**[**s**](https://www.deeplearningbook.org)**, )**                                                                                                                                                 |
+| [神经网络的损失函数为什么是非凸的?](https://www.zhihu.com/question/265516791)（知乎）                                                                                                                                                        |
+| awesome-material [git](https://github.com/Joy-spec/awesome-material)                                                                                                                                                     |
 
 ### MLAPP
 
@@ -586,6 +587,14 @@ LSTM
 | 第十八章 [状态空间模型](https://www.bilibili.com/video/BV1pt4y1q7tV)                                                                                                                                                 |
 | 第十九章 [无向图模型](https://www.bilibili.com/video/BV1Ei4y1j78M)                                                                                                                                                  |
 | 第二十章 [图模型的确切推断](https://www.bilibili.com/video/BV13T4y1w76S)                                                                                                                                               |
+
+### 花书
+
+{% file src="../.gitbook/assets/深度学习.pdf" %}
+
+### 百面机器学习
+
+{% file src="../.gitbook/assets/百面机器学习算法工程师带你去面试.pdf" %}
 
 ### 统计学习方法
 
