@@ -261,6 +261,7 @@ description: 硬件设备
 | Panasonic JZ2000 [羅卡Rocca](https://www.youtube.com/watch?v=FUsPscHye1g) [v](https://www.youtube.com/watch?v=pTpH3g\_yp4Y) |
 | 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                       |
 | 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
+| 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
 
 ## VR
 
