@@ -69,7 +69,7 @@ description: 硬件设备
 | How to make an Nginx Webserver in 7 minutes [Kian Brose](https://www.youtube.com/watch?v=yBV9216R6\_E)                                                                                           |
 | How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                |
 | my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                         |
-|                                                                                                                                                                                                  |
+| Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                      |
 
 ## Orange Pi
 
