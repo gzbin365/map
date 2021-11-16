@@ -24,13 +24,14 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 |                                                                                 | Clément Mihailescu([u](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO\_M-N\_g/videos), )     |
 |                                                                                 | Tim Roughgarden Lectures [u](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists) |
 
-## **Dynamic Programming Problems**
+## 动态规划 **Dynamic Programming Problems**
 
 **5 Simple Steps for Solving Dynamic Programming Problems(**[**Reducible**](https://www.youtube.com/watch?v=aPQY\_\_2H3tE)**)**
 
 |                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk) |
+| Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                  |
 
 ## Recurisive
 
@@ -120,7 +121,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | Data Structures - Computer Science Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=zg9ih6SVACc)       |
 | Binary Tree Algorithms for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=fAAZixBzIAI) |
 | Data Structures: Hash Tables [HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)                                    |
-|                                                                                                                           |
+| Data Structures and Algorithms [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H)       |
 
 ## 大O复杂性 Big O Complexity
 
