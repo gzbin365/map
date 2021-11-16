@@ -51,7 +51,7 @@
 | C++ Programming in Linux Tutorial [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXJqwYuIpLtG4mXxRJBacqx)                                          |
 | C++ Course (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=uhFpPlMsLzY)                                                                                    |
 | Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty](\[link]\(https:/www.youtube.com/watch)                    |
-|                                                                                                                                                                  |
+| C++ Programming Tutorial - Build a 3-Band Compressor Audio Plugin (w/ JUCE Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Mo0Oco3Vimo)                |
 |                                                                                                                                                                  |
 |                                                                                                                                                                  |
 
