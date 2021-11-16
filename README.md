@@ -62,6 +62,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | AWS Certified Developer - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)           |
 | Terraform Course - Automate your AWS cloud infrastructure [freeCodeCamp](https://www.youtube.com/watch?v=SLB\_c\_ayRMo)         |
 | AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s) |
+| Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)           |
 
 |                                                          |                                           |
 | -------------------------------------------------------- | ----------------------------------------- |
