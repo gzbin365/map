@@ -204,6 +204,7 @@
 | Creating a Snake game with Python in under 5 minutes [Engineer Man](https://www.youtube.com/watch?v=rbasThWVb-c)                                                |
 | 🎮 Easy JavaScript Game Development with Kaboom.js (Mario, Zelda, and Space Invaders) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=4OaHB0JbJDI) |
 | Learn JavaScript by Building 7 Games - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=lhNdUVh3qCc)                                                  |
+| Code a Squid Game JavaScript Game Using **Three.js**  [freeCodeCamp](https://www.youtube.com/watch?v=4HSxX-EKJjw)                                               |
 | Make a 2D Game with Phaser3 and TypeScript [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRe\_FSZnoJyzH8yxTE5D-Clp)                        |
 | Become a Python Game Developer in 37 Seconds - Full Course [Zizyo](https://www.youtube.com/watch?v=EBezqslQslc)                                                 |
 | Video game made with pure python/pygame \| Platformer Shooter [enigma](https://www.youtube.com/watch?v=uwWRv9PNqWU)                                             |
