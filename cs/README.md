@@ -319,11 +319,11 @@ description: 计算机科学与技术 keep coding
 
 ## 项目
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A) |
+|                                                                                                            |
+|                                                                                                            |
 
 ## 沙雕项目
 
