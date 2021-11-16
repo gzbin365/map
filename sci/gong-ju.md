@@ -77,6 +77,14 @@
 | ------------------------------ | - |
 | [城通网盘](https://www.ctfile.com) |   |
 
+### Neovim
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| [s](https://neovim.io) hyperextensible Vim-based text editor [git](https://github.com/neovim/neovim)     |
+| Awesome Neovim Setup From Scratch - Full Guide [NeuralNine](https://www.youtube.com/watch?v=JWReY93Vl6g) |
+|                                                                                                          |
+
 | 谷歌搜索技巧                                                                                    |
 | ----------------------------------------------------------------------------------------- |
 | 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |
