@@ -134,7 +134,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | 10分钟学会在Linux里用命令搜索文件和查找文件内容 [跟山地人学前端](https://www.youtube.com/watch?v=NKf8GGd2txM)                                                      |
 | AWK文本处理工具入门教程 [黄浩杰](https://www.youtube.com/playlist?list=PLAnjpYDY-l8Le8Zcj4TPVe96mK107B9iT)                                           |
 | Awk: Hack the planet\['s text]! (Presentation) [Benjamin Porter](https://www.youtube.com/watch?v=43BNFcOdBlY)                           |
-|                                                                                                                                         |
+| The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)   |
 |                                                                                                                                         |
 
 ## 嵌入式
