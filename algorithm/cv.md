@@ -165,16 +165,17 @@ description: 机器视觉
 
 ## Super Resolution
 
-|                                                                                   |   |
-| --------------------------------------------------------------------------------- | - |
-| [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) |   |
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)                    |
+| SwinIR: Image Restoration Using Swin Transformer [52hz](https://www.youtube.com/watch?v=FCg6YL739eI) |
 
 ## ReID
 
-|                                                                                                                 |          |
-| --------------------------------------------------------------------------------------------------------------- | -------- |
-| **基于深度学习和行人重识别(**[**git**](https://github.com/michuanhaohao/ReID\_tutorial\_slides)**, )**                      | \*\*\*\* |
-| **Person\_reID\_baseline\_pytorch(**[**git**](https://github.com/layumi/Person\_reID\_baseline\_pytorch)**, )** | \*\*\*\* |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| **基于深度学习和行人重识别(**[**git**](https://github.com/michuanhaohao/ReID\_tutorial\_slides)**, )**                      |
+| **Person\_reID\_baseline\_pytorch(**[**git**](https://github.com/layumi/Person\_reID\_baseline\_pytorch)**, )** |
 
 ## 实战
 
