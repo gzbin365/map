@@ -725,9 +725,11 @@ $$
 
 ## 控制论 Control Theory
 
-|                                                                                                          |                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 鲁棒控制 [爱趣无穷](https://www.bilibili.com/video/BV1TA411i7QZ/?spm\_id\_from=333.788.recommend\_more\_video.7) | Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists) Control System Lectures |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 鲁棒控制 [爱趣无穷](https://www.bilibili.com/video/BV1TA411i7QZ/?spm\_id\_from=333.788.recommend\_more\_video.7) |
+| Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists) Control System Lectures        |
+| The Map of Control Theory by [Brian Douglas](https://www.redbubble.com/shop/ap/55089837)                 |
 
 ## 动力系统 Dynamical Systems
 
