@@ -338,6 +338,7 @@ description: 用数学充实人生
 | Differential Forms [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzQZtDZO\_9s2HEMRJnaOTX7)                                                                                                                                                                                                  |
 | 微积分 - 北京理工大学-徐厚宝、李翠哲、毛京中等 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DTRjpBGS8kPZLphMqdul7c)                                                                                                                                                                                                   |
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
+| YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                                                                                                                                                                                          |
 
 |                                                                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------- | - |
@@ -655,7 +656,7 @@ $$
 | Systems of Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzeXJa4k5NrsQJElScb258Q)                                                                                     |
 |                                                                                                                                                                                                                |
 
-### 常微分方程 Ordinary Differential Equations
+### 常微分方程 Ordinary Differential Equations, ODE
 
 ### 拉普拉斯变换 Laplace Transform
 
@@ -666,6 +667,7 @@ $$
 | What does the Laplace Transform really tell us? A visual explanation (plus applications) [Zach Star](https://www.youtube.com/watch?v=n2y7n6jw5d0) |
 | 「[珂学原理](https://www.youtube.com/watch?v=bB9SrBa6\_3Q)」No. 26「拉普拉斯变换了什么？」                                                                          |
 | 傅立叶变换如何理解？[李永乐老师](https://www.youtube.com/watch?v=0LuyxzqI3Hk)                                                                                    |
+| YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                              |
 
 #### 其他
 
