@@ -40,7 +40,7 @@ description: 用数学充实人生
 | 数学救火队长马丁 抖音号： [1135122875](\[link]\(https:/www.douyin.com/user/MS4wLjABAAAAkZ9UsVB8fVszpvCgLKOMEKFtK19YQwn3Pc6cWEqaB9Q\)/)                                                                                | 火星课堂 抖音号： [huoxingketang](https://www.douyin.com/user/MS4wLjABAAAA0XuUSiB83bSMYsuwYPKVI6f04i4o2dYGrQe6BcI1axhe7zrsOnCojaEIphFeRnUa?author\_id=1631320916636200\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7010390467632319777\&group\_id=7010390467632319777\&log\_pb=%7B%22impr\_id%22%3A%22021633731634791fdbddc0200ff2f010a9e59a000000096a36036%22%7D) |
 | Dr. Trefor Bazett  [u](https://www.youtube.com/c/DrTreforBazett/playlists)                                                                                                                                | 中国可汗　抖音号： [zhongguokehan](https://www.douyin.com/user/MS4wLjABAAAAYiRE8o3X9gxeZvvAYJZROLujvQXfxoYWJ9485ySA-b0?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7015149907686280478\&is\_full\_screen=0)                                                                                                                                                              |
 | 跟小胖学数学 抖音号： [lilaoshi063](https://www.douyin.com/user/MS4wLjABAAAAH828EJ13HFiuS0xHFa101XQJxlkQH9tOJRDCgxLmBtL5LJ2MgGfLGfvNAPYcePlV)                                                                       | 数学包　抖音号： [gksxth](https://www.douyin.com/user/MS4wLjABAAAAce58kfCBQV7WtgzgEcax7txNBGDRDbr\_6Px6IiXz95-kA4Y4q9bPqCkJ3upSqZLo)                                                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                           | Complexity Explorer [u](https://www.youtube.com/user/ComplexityExplorer/playlists)                                                                                                                                                                                                                                                                                               |
+| Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists)                                                                                                                                 | Complexity Explorer [u](https://www.youtube.com/user/ComplexityExplorer/playlists)                                                                                                                                                                                                                                                                                               |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**, **[**s**](https://www.3blue1brown.com)**, **[**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -639,6 +639,7 @@ $$
 | [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                            |
 | [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                            |
 | 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                   |
+| Laplace and Fourier Transforms [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3jmgpXCQj3GRxM3u9BmO\_v)                        |
 
 ## 微分方程 Differential Equations
 
@@ -724,9 +725,9 @@ $$
 
 ## 控制论 Control Theory
 
-|                                                                                                          |   |
-| -------------------------------------------------------------------------------------------------------- | - |
-| 鲁棒控制 [爱趣无穷](https://www.bilibili.com/video/BV1TA411i7QZ/?spm\_id\_from=333.788.recommend\_more\_video.7) |   |
+|                                                                                                          |                                                                                                   |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 鲁棒控制 [爱趣无穷](https://www.bilibili.com/video/BV1TA411i7QZ/?spm\_id\_from=333.788.recommend\_more\_video.7) | Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists) Control System Lectures |
 
 ## 动力系统 Dynamical Systems
 
