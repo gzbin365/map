@@ -374,3 +374,11 @@ description: 硬件设备
 | 耳机王耳机维修团队 抖音号： [1555281682](https://www.douyin.com/user/MS4wLjABAAAA-3bNbN43Il3D9HoF1ebdcZO6WJRSWhwvvlWMEJOW1UY) |   |
 |                                                                                                                  |   |
 |                                                                                                                  |   |
+
+## 维修
+
+|                                                                                                              |   |
+| ------------------------------------------------------------------------------------------------------------ | - |
+| 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) |   |
+|                                                                                                              |   |
+|                                                                                                              |   |
