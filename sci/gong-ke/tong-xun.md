@@ -4,15 +4,15 @@ description: Telecommunications
 
 # 通讯
 
-|                                                                                                                      |   |
-| -------------------------------------------------------------------------------------------------------------------- | - |
-| 信号与系统【基础串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPrudLmVi3kszKSXWjKZKRI)         |   |
-| 《通信原理》(樊昌信)【冲刺串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLO-YRhM8Pnp6qEnl\_nNsgWs)  |   |
-| 《通信原理》北京邮电大学 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMOVJid5Ljo1i2SFROPZw0u)       |   |
-| 信号与系统【考研真题 - 西军电】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMwmqhxQfoYpnaWUrMSboFe)   |   |
-| 一周学会数电与模电【数模电基础】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPfAKSwLoeDwW8MdmRW0eYI)    |   |
-| 深入淺出玩轉FPGA【FPGA教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLP\_wqxCTjozmtk5WFlShgCa) |   |
-|                                                                                                                      |   |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 信号与系统【基础串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPrudLmVi3kszKSXWjKZKRI)         |
+| 《通信原理》(樊昌信)【冲刺串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLO-YRhM8Pnp6qEnl\_nNsgWs)  |
+| 《通信原理》北京邮电大学 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMOVJid5Ljo1i2SFROPZw0u)       |
+| 信号与系统【考研真题 - 西军电】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMwmqhxQfoYpnaWUrMSboFe)   |
+| 一周学会数电与模电【数模电基础】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPfAKSwLoeDwW8MdmRW0eYI)    |
+| 深入淺出玩轉FPGA【FPGA教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLP\_wqxCTjozmtk5WFlShgCa) |
+| 信号与系统　[彭泽文](https://www.youtube.com/channel/UCPXsS-ovxuhoThbm\_52xhjA/videos)                                        |
 
 ## 信息论 Information Theory
 
