@@ -93,7 +93,7 @@
 
 ## DotNet
 
-| **DotNet**                                                                                                                         |
+| dotNET [u](https://www.youtube.com/c/dotNET)                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **DotNet 资源大全（中文） (**[**书栈**](https://www.bookstack.cn/books/awesome-dotnet-cn)**, )**                                             |
 | Programming with VB.NET for Beginners [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshpremSFQxYM4L0p4Q6hR-4e4J) |
