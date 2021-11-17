@@ -464,6 +464,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained([Tech With Tim](https://www.youtube.com/watch?v=olYdb0DdGtM)) |
 | Threading Tutorial #2 - Implementing Threading in Python 3 (Examples)([Tech With Tim](https://www.youtube.com/watch?v=cdPZ1pJACMI))    |
 | Fun Python [Albert's Code Lab](https://www.youtube.com/playlist?list=PLwY2GJhAPWRev5Z6uWcOB7JlSKh5vp6gU)                               |
+| Learn CPython by Breaking It [Coding Tech](https://www.youtube.com/watch?v=CRuXP2jvJ8U)                                                |
 
 ### CuPy
 
