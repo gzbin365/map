@@ -28,22 +28,22 @@ description: 自然语言处理
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | **ALBERT(**[**git**](https://github.com/google-research/albert)**, **[**paper**](https://arxiv.org/abs/1909.11942)**, **[**tutorial**](https://github.com/google-research/albert/blob/master/albert\_glue\_fine\_tuning\_tutorial.ipynb)**)** |   |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| \*\* BERT高级应用——《通过Performers反思Attention》全文翻译([**weixin**](https://mp.weixin.qq.com/s?\_\_biz=Mzg3MDMxMzY3Ng==\&mid=2247484864\&idx=1\&sn=43905245ce70c1bf7b64b6d7ad2e0b51\&chksm=ce8efe63f9f977759957c10655d69700a11b73031344a095a77d0092078af02b180c5bc842d3\&mpshare=1\&scene=23\&srcid=0320fAf1fvOEabEevAirB3NR\&sharer\_sharetime=1616256141971\&sharer\_shareid=12c293d109c5b01e8b84dacb4069fbbd#rd))\*\* | \*\*\*\* |
+|                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BERT高级应用——《通过Performers反思Attention》全文翻译([**weixin**](https://mp.weixin.qq.com/s?\_\_biz=Mzg3MDMxMzY3Ng==\&mid=2247484864\&idx=1\&sn=43905245ce70c1bf7b64b6d7ad2e0b51\&chksm=ce8efe63f9f977759957c10655d69700a11b73031344a095a77d0092078af02b180c5bc842d3\&mpshare=1\&scene=23\&srcid=0320fAf1fvOEabEevAirB3NR\&sharer\_sharetime=1616256141971\&sharer\_shareid=12c293d109c5b01e8b84dacb4069fbbd#rd)) |
 
-| Transformer                                                                                                                                                        |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |   |
-| Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                      |   |
-| Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                  |   |
-| Generative Python Transformer p.4 - Tokenizing [sentdex](https://www.youtube.com/watch?v=4WHt1VLon\_U)                                                             |   |
-| Generative Python Transformer p.5 - Training and some testing of GPT-2 model [sentdex](https://www.youtube.com/watch?v=2486auSLTUI)                                |   |
-| Generative Python Transformer p.6 - Testing larger model [sentdex](https://www.youtube.com/watch?v=vG-z-Y\_Sfrw)                                                   |   |
-| Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |   |
-| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |   |
-| ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |   |
-| Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |   |
+| Transformer                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |
+| Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                      |
+| Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                  |
+| Generative Python Transformer p.4 - Tokenizing [sentdex](https://www.youtube.com/watch?v=4WHt1VLon\_U)                                                             |
+| Generative Python Transformer p.5 - Training and some testing of GPT-2 model [sentdex](https://www.youtube.com/watch?v=2486auSLTUI)                                |
+| Generative Python Transformer p.6 - Testing larger model [sentdex](https://www.youtube.com/watch?v=vG-z-Y\_Sfrw)                                                   |
+| Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |
+| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
+| ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
+| Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 
 ## **比赛**
 
@@ -78,6 +78,7 @@ description: 自然语言处理
 | NLP实战高手课 [极客时间](https://time.geekbang.org/course/intro/100046401)                                                                                                                                                                             |
 | NLTK with Python 3 for Natural Language Processing [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)                                                                                                        |
 | Natural Language Processing (NLP) Tutorial with Python & NLTK [freeCodeCamp](https://www.youtube.com/watch?v=X2vAabgKiuM)                                                                                                                     |
+| Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
 
 #### Data Application Lab
 
