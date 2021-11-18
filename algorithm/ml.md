@@ -473,6 +473,14 @@ LSTM
 | ------------------------------------------------------------------------------------------------------ |
 | 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002 |
 
+### 因子分解机Factorization Machine, FM
+
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| 直观讲解因子分解机Factorization Machine [技术喵](https://www.youtube.com/watch?v=v4ftI-52y-c) |
+|                                                                                   |
+|                                                                                   |
+
 ### 最大熵
 
 |                                                                                                                                   |
