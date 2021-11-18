@@ -10,17 +10,17 @@ description: 自然语言处理
 
 ## 平台
 
-|                                                                        |                                                                                  |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| \*\*\*\*[**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | \*\*\*\*[**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区** |
-| \*\*\*\*[**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | \*\*\*\*[**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
-| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP)         |                                                                                  |
+|                                                                |                                                                          |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区** |
+| [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
+| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) |                                                                          |
 
 ## 数据集
 
-|                                                                                    |   |
-| ---------------------------------------------------------------------------------- | - |
-| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/)\*\*\*\* |   |
+|                                                                            |   |
+| -------------------------------------------------------------------------- | - |
+| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) |   |
 
 ## **算法**
 
@@ -82,14 +82,14 @@ description: 自然语言处理
 
 #### Data Application Lab
 
-| Data Application Lab([u](https://www.youtube.com/watch?v=tctmuqzbt8E), )                                                |   |
-| ----------------------------------------------------------------------------------------------------------------------- | - |
-| [4/28 Live 直播\| 歌词宝藏，用机器学习和自然语言处理发觉惊人秘密](https://www.youtube.com/watch?v=ghxnTBLDICA)                                   |   |
-| [NLP: FLAG 工程师来说说自然语言处理里的Attention模型（第443期）](https://www.youtube.com/watch?v=5anudyPR4zA)                               |   |
-| [NLP(Nature Language Processing)快速入门：自然语言处理是什么，你知道吗？（第571期）](https://www.youtube.com/watch?v=r3o\_HB85m\_c)             |   |
-| [数据科学家读书会Book 12 – 《Natural Language Processing with Python》NLP自然语言处理 第一讲](https://www.youtube.com/watch?v=3jq5lLszdrQ) |   |
-| [数据科学读书会 Book 12 - NLP 自然语言处理 第七讲](https://www.youtube.com/watch?v=tctmuqzbt8E)                                         |   |
-|                                                                                                                         |   |
+| Data Application Lab([u](https://www.youtube.com/watch?v=tctmuqzbt8E), )                                                |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| [4/28 Live 直播\| 歌词宝藏，用机器学习和自然语言处理发觉惊人秘密](https://www.youtube.com/watch?v=ghxnTBLDICA)                                   |
+| [NLP: FLAG 工程师来说说自然语言处理里的Attention模型（第443期）](https://www.youtube.com/watch?v=5anudyPR4zA)                               |
+| [NLP(Nature Language Processing)快速入门：自然语言处理是什么，你知道吗？（第571期）](https://www.youtube.com/watch?v=r3o\_HB85m\_c)             |
+| [数据科学家读书会Book 12 – 《Natural Language Processing with Python》NLP自然语言处理 第一讲](https://www.youtube.com/watch?v=3jq5lLszdrQ) |
+| [数据科学读书会 Book 12 - NLP 自然语言处理 第七讲](https://www.youtube.com/watch?v=tctmuqzbt8E)                                         |
+|                                                                                                                         |
 
 ### 对话系统
 
@@ -97,7 +97,7 @@ description: 自然语言处理
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | [Build A Smart AI Chat Bot Using Python & Machine Learning](https://www.youtube.com/watch?v=9KZwRBg4-P0)                                         | [list](https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv) |
 | [Build Your Own Chatbot Using Python](https://www.youtube.com/watch?v=FFT4p6me2g0)                                                               | [list](https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv) |
-| **Facebook Messenger Chatbot Tutorial using Python(**[**list**](https://www.youtube.com/playlist?list=PLzYhaL0-zg4V\_4EMv\_BYHHENjYdJhbEQm)**)** | \*\*\*\*                                                                         |
+| **Facebook Messenger Chatbot Tutorial using Python(**[**list**](https://www.youtube.com/playlist?list=PLzYhaL0-zg4V\_4EMv\_BYHHENjYdJhbEQm)**)** |                                                                                  |
 | [Google’s Chatbot: Almost Perfect](https://www.youtube.com/watch?v=3Wppf\_CNvD0) 🤖6：08                                                          |                                                                                  |
 | Watson Assistant Chatbot Crash Course([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmiACV9v\_sdBwRLnEdKUlZ1s))             |                                                                                  |
 | 「嵌入式人工智能」- 中文聊天机器人开发 [电子工程世界](http://training.eeworld.com.cn/course/5611) 共15课时 3小时1分6秒                                                          |                                                                                  |
@@ -105,18 +105,18 @@ description: 自然语言处理
 | Design and Build a Chat App with Socket.io [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbyGwhSlxg16mQGpGnauCwq)             |                                                                                  |
 | Code a Discord Chat Bot That Talks Like Your Favorite Character [freeCodeCamp](https://www.youtube.com/watch?v=UjDpW\_SOrlw)                     |                                                                                  |
 
-| **DialoGPT**                                                                                                                                                                                                                                                                                                          | \*\*\*\*                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **DialoGPT(**[**s**](https://huggingface.co/transformers/model\_doc/dialogpt.html)**, **[**info**](https://www.microsoft.com/en-us/research/project/large-scale-pretraining-for-response-generation/)**, **[**git**](https://github.com/microsoft/DialoGPT)**, **[**paper**](https://arxiv.org/abs/1911.00536)**, )** | \*\*\*\*                                                           |
-| **P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=CumHy6v7un0)\*\*\*\* |
-| **P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=lheXIYXanuU)         |
-| <p>Getting Started with Conversational AI with NVIDIA's Jarvis Platform</p><p><a href="https://www.youtube.com/watch?v=Wq5toPoJ-08">Machine Learning with Phil</a></p>                                                                                                                                                |                                                                    |
+| **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **DialoGPT(**[**s**](https://huggingface.co/transformers/model\_doc/dialogpt.html)**, **[**info**](https://www.microsoft.com/en-us/research/project/large-scale-pretraining-for-response-generation/)**, **[**git**](https://github.com/microsoft/DialoGPT)**, **[**paper**](https://arxiv.org/abs/1911.00536)**, )** |                                                            |
+| **P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=CumHy6v7un0) |
+| **P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=lheXIYXanuU) |
+| <p>Getting Started with Conversational AI with NVIDIA's Jarvis Platform</p><p><a href="https://www.youtube.com/watch?v=Wq5toPoJ-08">Machine Learning with Phil</a></p>                                                                                                                                                |                                                            |
 
 ### 情感分析 Sentiment Analysis
 
-|                                                                                                                               |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - |
-| Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD)) |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD)) |
 
 ### Attention
 
@@ -151,8 +151,8 @@ description: 自然语言处理
 
 ## Book
 
-|                                                                                                                                |          |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| \*\*\*\*[\*\*PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版） \*\*](https://www.bookstack.cn/books/nlp-pytorch-zh) | \*\*\*\* |
-| **兜哥带你NLP入门（自然语言处理入门）(**[**书栈**](https://www.bookstack.cn/books/duoergun0729-nlp)**, )**                                       | \*\*\*\* |
-| **Neural Networks from Scratch(**[**sentdex**](https://nnfs.io)**, )**                                                         | \*\*\*\* |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| [PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版）](https://www.bookstack.cn/books/nlp-pytorch-zh) |
+| **兜哥带你NLP入门（自然语言处理入门）(**[**书栈**](https://www.bookstack.cn/books/duoergun0729-nlp)**, )**                      |
+| **Neural Networks from Scratch(**[**sentdex**](https://nnfs.io)**, )**                                        |
