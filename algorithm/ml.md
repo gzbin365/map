@@ -475,11 +475,14 @@ LSTM
 
 ### 因子分解机Factorization Machine, FM
 
-|                                                                                   |
-| --------------------------------------------------------------------------------- |
-| 直观讲解因子分解机Factorization Machine [技术喵](https://www.youtube.com/watch?v=v4ftI-52y-c) |
-|                                                                                   |
-|                                                                                   |
+|                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 直观讲解因子分解机Factorization Machine [技术喵](https://www.youtube.com/watch?v=v4ftI-52y-c)                                                                                                      |
+| Steffen Rendle. Factorization machines [pdf](https://analyticsconsultores.com.mx/wp-content/uploads/2019/03/Factorization-Machines-Steffen-Rendle-Osaka-University-2010.pdf) 2010 IEEE |
+| DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [arxiv](https://arxiv.org/pdf/1703.04247.pdf) 2017                                                             |
+| xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [arxiv](https://arxiv.org/pdf/1803.05170.pdf) 2018                                               |
+|                                                                                                                                                                                        |
+|                                                                                                                                                                                        |
 
 ### 最大熵
 
