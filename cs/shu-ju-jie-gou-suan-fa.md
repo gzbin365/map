@@ -24,14 +24,17 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 |                                                                                 | Clément Mihailescu([u](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO\_M-N\_g/videos), )     |
 |                                                                                 | Tim Roughgarden Lectures [u](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists) |
 
-## 动态规划 **Dynamic Programming Problems**
+## 动态规划 **Dynamic Programming Problems, DP**
+
+动态规划：把一个**复杂**的问题变成相对简单的一些**子问题**，再利用保存解决这些子问题得到的结果减少运算复杂度．
 
 **5 Simple Steps for Solving Dynamic Programming Problems(**[**Reducible**](https://www.youtube.com/watch?v=aPQY\_\_2H3tE)**)**
 
-|                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk) |
-| Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                  |
+|                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk)                                             |
+| Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                                                              |
+| 动态规划（Dynamic Programming）[概念篇](https://www.youtube.com/watch?v=LH7uDn0-zYo)　[实战篇](https://www.youtube.com/watch?v=0gt7lvqw57A)　[进阶篇](https://www.youtube.com/watch?v=rFvCTFraQKM)　技术喵 |
 
 ## Recurisive
 
