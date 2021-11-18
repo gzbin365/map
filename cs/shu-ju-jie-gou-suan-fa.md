@@ -153,7 +153,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | -------------------------------------------------------------------------------------------------------------------- |
 | LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn) |
 | LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |
-|                                                                                                                      |
+| Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                  |
 
 ## 其他
 
