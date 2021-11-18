@@ -35,6 +35,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk)                                                       |
 | Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                                                                        |
 | 动态规划（Dynamic Programming）[概念篇](https://www.youtube.com/watch?v=LH7uDn0-zYo)　[实战篇](https://www.youtube.com/watch?v=0gt7lvqw57A)　[进阶篇](https://www.youtube.com/watch?v=rFvCTFraQKM)：动态规划与强化学习　技术喵 |
+| 残酷刷题群算法小讲座：动态规划的套路 by wisdompeak [Huifeng Guan](https://www.youtube.com/watch?v=FLbqgyJ-70I)                                                                                                    |
 
 ## Recurisive
 
