@@ -8,13 +8,13 @@ description: 强化学习
 
 [**深度强化学习训练智能体：超级玛丽**](https://cloud.tencent.com/developer/article/1786661)
 
-\*\*\*\*[**DQN in Pytorch Stream 3 of N | Atari Breakout + Logging and Monitoring**](https://www.youtube.com/watch?v=PBWcN3M8Dbs)
+[**DQN in Pytorch Stream 3 of N | Atari Breakout + Logging and Monitoring**](https://www.youtube.com/watch?v=PBWcN3M8Dbs)
 
 [**Python Flappy Bird AI Tutorial (with NEAT) - Creating the Bird**](https://www.youtube.com/watch?v=MMxFDaIOHsE)
 
-\*\*\*\*[**How to Solve a Basic Reinforcement Learning Example | RL Hello World**](https://www.youtube.com/watch?v=psDlXfbe6ok)
+[**How to Solve a Basic Reinforcement Learning Example | RL Hello World**](https://www.youtube.com/watch?v=psDlXfbe6ok)
 
-\*\*\*\*[**An introduction to Reinforcement Learning**](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+[**An introduction to Reinforcement Learning**](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 
 ## 平台
 
@@ -68,13 +68,14 @@ description: 强化学习
 | Python AI Learns to Play the Chrome Dinosaur Game \| Made with Pygame and NEAT [enigma](https://www.youtube.com/watch?v=TmwZNfGn--k) [git](https://github.com/000Nobody/Chrome-Dinosaur-AI)                                                                                                                                                                                                 |
 | Python AI Learns To Play Flappy Bird! \| Python NEAT and Pygame [enigma](https://www.youtube.com/watch?v=2JNseMtysgo) [git](https://github.com/000Nobody)                                                                                                                                                                                                                                   |
 
-|                                                                                                                                                        |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| RL — Proximal Policy Optimization (PPO) Explained [medium](https://jonathan-hui.medium.com/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12) |   |
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| RL — Proximal Policy Optimization (PPO) Explained [medium](https://jonathan-hui.medium.com/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12) |
 
-|                                                                                                                                                                                                                                                                                                                                                                                   |          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **DQN\_HollowKnight(**[**git**](https://github.com/ailec0623/DQN\_HollowKnight)**, **[**v**](https://www.bilibili.com/video/BV1UU4y1a7UB)**, )**                                                                                                                                                                                                                                  | \*\*\*\* |
-| 快手斗地主 DouZero([arxiv](https://arxiv.org/abs/2106.06135), [git](https://github.com/kwai/DouZero), [s](https://douzero.org), [reddit](https://www.reddit.com/r/MachineLearning/comments/o3lo2y/r\_douzero\_mastering\_doudizhu\_with\_selfplay\_deep/), [paperswithcode](https://paperswithcode.com/paper/douzero-mastering-doudizhu-with-self-play), [dczha](https://dczha.com), ) |          |
-| Coding Adventure: Chess AI [Sebastian Lague](https://www.youtube.com/watch?v=U4ogK0MIzqk)                                                                                                                                                                                                                                                                                         |          |
-| How To Hack The Google Chrome Dinosaur Game \[PYTHON] \| Only 10 Lines Of Coding \| Pyautogui \| Numpy [Know-How](https://www.youtube.com/watch?v=QAAd9KyvclY)                                                                                                                                                                                                                    |          |
+|                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **DQN\_HollowKnight(**[**git**](https://github.com/ailec0623/DQN\_HollowKnight)**, **[**v**](https://www.bilibili.com/video/BV1UU4y1a7UB)**, )**                                                                                                                                                                                                                                  |
+| 快手斗地主 DouZero([arxiv](https://arxiv.org/abs/2106.06135), [git](https://github.com/kwai/DouZero), [s](https://douzero.org), [reddit](https://www.reddit.com/r/MachineLearning/comments/o3lo2y/r\_douzero\_mastering\_doudizhu\_with\_selfplay\_deep/), [paperswithcode](https://paperswithcode.com/paper/douzero-mastering-doudizhu-with-self-play), [dczha](https://dczha.com), ) |
+| Coding Adventure: Chess AI [Sebastian Lague](https://www.youtube.com/watch?v=U4ogK0MIzqk)                                                                                                                                                                                                                                                                                         |
+| How To Hack The Google Chrome Dinosaur Game \[PYTHON] \| Only 10 Lines Of Coding \| Pyautogui \| Numpy [Know-How](https://www.youtube.com/watch?v=QAAd9KyvclY)                                                                                                                                                                                                                    |
+| Deep Reinforcement Learning in Python Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=GJJc1t0rtSU)                                                                                                                                                                                                                                                                        |
