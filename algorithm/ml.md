@@ -190,11 +190,11 @@ description: 机器学习
 
 ### JAX
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| JAX [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq) |
-|                                                                                                 |
-|                                                                                                 |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| JAX [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq)                |
+| Intro to JAX: Accelerating Machine Learning research [TensorFlow](https://www.youtube.com/watch?v=WdTeDXsOSj4) |
+|                                                                                                                |
 
 
 
