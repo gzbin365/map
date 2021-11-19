@@ -223,6 +223,7 @@ description: 用数学充实人生
 | Vertex Operator Algebras [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyx2FFUywi\_mz91Jtih52yX)                                                                                                                                    |
 | Linear Algebra for Computer Scientists [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc)                                                                                                                   |
 | Wild Linear Algebra [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85BhzJ-oWNug1YtUjfWp1qAp)                                                                                                                             |
+| Algebra for Beginners \| Basics of Algebra [Geek's Lesson](https://www.youtube.com/watch?v=PVoTRu3p6ug)                                                                                                                                               |
 
 ### 矩阵论 矩阵分析
 
