@@ -347,6 +347,7 @@ $$
 | 微积分 - 北京理工大学-徐厚宝、李翠哲、毛京中等 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DTRjpBGS8kPZLphMqdul7c)                                                                                                                                                                                                   |
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
 | YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                                                                                                                                                                                          |
+| PreCalculus Full Course For Beginners　[Geek's Lesson](https://www.youtube.com/watch?v=9IOTI9ViExg)                                                                                                                                                                                                            |
 
 |                                                                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------- | - |
