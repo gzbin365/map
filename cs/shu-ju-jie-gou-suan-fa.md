@@ -38,6 +38,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 残酷刷题群算法小讲座：动态规划的套路 by wisdompeak [Huifeng Guan](https://www.youtube.com/watch?v=FLbqgyJ-70I)                                                                                                                                                       |
 | Dynamic Programming [DONG ZHOU](https://www.youtube.com/playlist?list=PLfXpkcvvCpfY8aivMlT8A4tsiwxNtFVpn)                                                                                                                                          |
 | 輕鬆搞懂演算法:動態規劃(Dynamic Programming) [奮game王紫楓](https://www.youtube.com/watch?v=M2kYdAA-FHY)                                                                                                                                                          |
+| 动态规划 [1](https://www.youtube.com/watch?v=1BAsAgdx7Ac) [2](https://www.youtube.com/watch?v=Jakbj4vaIbE) 黄浩杰                                                                                                                                         |
 
 ## Recurisive
 
