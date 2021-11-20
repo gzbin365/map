@@ -318,18 +318,10 @@ description: 用数学充实人生
 | 欧拉公式                                       |
 | ------------------------------------------ |
 | 欧拉公式是怎么来的？欧拉的灵感从何而来？探索欧拉公式的由来 妈咪说MommyTalk |
-|                                            |
-|                                            |
+| $$e^{ix} = cos(x)+i*sin(x)$$​              |
+| $$e^{i\pi}+1 =0$$​                         |
 
-$$
-e^{ix} = cos(x)+i*sin(x)
-$$
 
-$$
-e^{i\pi}+1 =0
-$$
-
-### ​
 
 |                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -353,6 +345,7 @@ $$
 |                                                                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------- | - |
 | **Manim: Integrals(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmt0Aw9Qz6aVbZAOgP9-QHf)**)** |   |
+|                                                                                                                  |   |
 
 #### 多变量微积分
 
@@ -608,10 +601,18 @@ $$
 | [Optimization Problems](https://www.youtube.com/playlist?list=PLF1E94C1948483103) patrickJMT                                                        |
 | Optimization [Nilotpal Sinha](https://www.youtube.com/playlist?list=PL7pHMzBbqW08LZkcOX50mi4EaFWtsGShx)                                             |
 | Numerical Optimization - Shirish Shevade \| IISc - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P) |
-| Spring 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6)                 |
-| Fall 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT)                   |
-| Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)                   |
 |                                                                                                                                                     |
+|                                                                                                                                                     |
+
+### 凸优化 Convex Optimization
+
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| Spring 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6) |
+| Fall 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT)   |
+| Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)   |
+| Convex Optimization 39个小时学会凸优化-中科大-凌青老师 [PatriTech](https://www.youtube.com/playlist?list=PLex0qwR2dnJh\_7351A8HmasW1G-\_\_le\_S)   |
+|                                                                                                                                     |
 
 ## 概率图模型 Probabilistic Graphical Model
 

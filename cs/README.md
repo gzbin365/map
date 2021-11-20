@@ -201,6 +201,7 @@ description: 计算机科学与技术 keep coding
 | [Computer Science/Computer Engineering](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJMouMI0TC6uH4AjqJqKdA0x) Zach Star                                                                      |
 | Computer Science [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)                                                                                          |
 | Exploring How Computers Work [Sebastian Lague](https://www.youtube.com/watch?v=QZwneRb-zqA)                                                                                                       |
+| Introduction to Programming and Computer Science [freeCodeCamp](https://www.youtube.com/watch?v=zOjov-2OZ0E)                                                                                      |
 
 ## 计算机组成原理
 

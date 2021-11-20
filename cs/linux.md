@@ -247,28 +247,13 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Linux教程 命令指令 运维 服务器 项目上线 CentOS 从入门到精通 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9\_iDguCUOhLFGamKI) |
 | Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)          |
 | 【尚硅谷云计算】Linux集群教程 运维工程师培训 by 沈超&汪洋 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFRy8gq2phTxuxb4qj6Y34t)      |
-|                                                                                                                               |
-|                                                                                                                               |
+| DevOps Engineering Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=j5Zsa\_eOXeY)                          |
+| DevOps Concepts explained [TechWorld with Nana](https://www.youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG)     |
 | OpenTelemetry Course - Understand Software Performance [freeCodeCamp](https://www.youtube.com/watch?v=r8UvWSX3KA8)            |
 | What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)    |
+| 开源的devops工具 [1](https://www.douyin.com/video/7011104559481294110) [2](https://www.douyin.com/video/7011105506379058440)       |
 |                                                                                                                               |
 |                                                                                                                               |
-|                                                                                                                               |
-
-|                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 了解 DevOps [redhat](https://www.redhat.com/zh/topics/devops)                                                                                                                                                                                                                           |
-| 开源的devops工具 [1](https://www.douyin.com/video/7011104559481294110) [2](https://www.douyin.com/video/7011105506379058440)                                                                                                                                                               |
-| DevOps Concepts explained [TechWorld with Nana](https://www.youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG)                                                                                                                                                             |
-| DevOps Engineering Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=j5Zsa\_eOXeY)                                                                                                                                                                                  |
-| How To Become a DevOps Engineer In Six Months or Less [1](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d) [2](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) medium |
-|                                                                                                                                                                                                                                                                                       |
-
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac) |
-| Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)               |
-|                                                                                                          |
 
 ## Wine
 
