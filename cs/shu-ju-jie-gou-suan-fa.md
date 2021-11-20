@@ -30,12 +30,14 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 **5 Simple Steps for Solving Dynamic Programming Problems(**[**Reducible**](https://www.youtube.com/watch?v=aPQY\_\_2H3tE)**)**
 
-|                                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk)                                                       |
-| Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                                                                        |
-| 动态规划（Dynamic Programming）[概念篇](https://www.youtube.com/watch?v=LH7uDn0-zYo)　[实战篇](https://www.youtube.com/watch?v=0gt7lvqw57A)　[进阶篇](https://www.youtube.com/watch?v=rFvCTFraQKM)：动态规划与强化学习　技术喵 |
-| 残酷刷题群算法小讲座：动态规划的套路 by wisdompeak [Huifeng Guan](https://www.youtube.com/watch?v=FLbqgyJ-70I)                                                                                                    |
+|                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk)                                                                                                          |
+| Dynamic Programming Tutorial Series [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)                                                                                                                           |
+| 动态规划（Dynamic Programming）[概念](https://www.youtube.com/watch?v=LH7uDn0-zYo)　[实战](https://www.youtube.com/watch?v=0gt7lvqw57A)　[进阶](https://www.youtube.com/watch?v=rFvCTFraQKM)：动态规划与强化学习 [git](https://github.com/tech-meow/weight\_and\_diet) 技术喵 |
+| 残酷刷题群算法小讲座：动态规划的套路 by wisdompeak [Huifeng Guan](https://www.youtube.com/watch?v=FLbqgyJ-70I)                                                                                                                                                       |
+| Dynamic Programming [DONG ZHOU](https://www.youtube.com/playlist?list=PLfXpkcvvCpfY8aivMlT8A4tsiwxNtFVpn)                                                                                                                                          |
+| 輕鬆搞懂演算法:動態規劃(Dynamic Programming) [奮game王紫楓](https://www.youtube.com/watch?v=M2kYdAA-FHY)                                                                                                                                                          |
 
 ## Recurisive
 
@@ -84,6 +86,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 你一定要掌握的8大#数据结构 [v](https://www.douyin.com/video/7006239727774944542)                                                                                                                                                                                                                                                                                  |
 | 算法学习知识汇总 [v](https://www.douyin.com/video/6994340509292563720)                                                                                                                                                                                                                                                                                        |
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                                                                                                                                                                                                                                                                                 |
+| 90分鐘搞懂常用演算法 奮game[王紫楓](https://www.youtube.com/playlist?list=PLhxdaTcUMi3kWdmtdRFm5XsOx8aJihSkT)                                                                                                                                                                                                                                                      |
 
 ## 排序算法 Sorting Algorithms
 
