@@ -44,6 +44,7 @@ description: 自然语言处理
 | BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
+| KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                   |
 
 ## **比赛**
 
