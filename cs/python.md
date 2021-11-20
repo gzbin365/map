@@ -169,6 +169,7 @@
 | Object-oriented programming in Python([Sebastiaan Mathôt](https://www.youtube.com/playlist?list=PLR-r0edywujedM6cbbrvWec18K6Rdk9W1))                                   |
 | Object Oriented Programming Python \| Python OOP \| ([Academic Lesson](https://www.youtube.com/watch?v=2dhNVH6yBog\&list=PLq94LoYzjZTqkcr7e89bJlWYZaN3dMyL2\&index=1)) |
 | Python 面向对象编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYljhzZXCKjbQl-lmr8YFen)                                                                        |
+| Object Oriented Programming with Python [freeCodeCamp](https://www.youtube.com/watch?v=Ej\_02ICOIgs)                                                                   |
 |                                                                                                                                                                        |
 
 ## Python 教程
