@@ -40,23 +40,24 @@
 | 财经冰冰  抖音号： [caijingbingbing](https://www.douyin.com/user/MS4wLjABAAAAWYNYSwsp\_7zCDrev89IeIIwpOXib2fATs2vlGojzXzvxfqox3-63acTp3gGIpxTd)                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 王德培 抖音号： [depeiketang](https://www.douyin.com/user/MS4wLjABAAAAaB\_m2uTMMcz0ALDjTX8f963-GEdXBTzjVLPIbal4C6VL5XseNUx7nJshlIjxN6hf)                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-|                                                                                                |
-| ---------------------------------------------------------------------------------------------- |
-| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))  |
-| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm)) |
-| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg)) |
-| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy)) |
-| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl)) |
-| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))  |
-| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))  |
-| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)             |
-| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)  |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))                 |
+| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm))                |
+| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg))                |
+| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy))                |
+| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl))                |
+| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))                 |
+| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                 |
+| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                            |
+| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                 |
+| 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458) |
 
 |                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 说房沁 抖音号： [77706190822](https://www.douyin.com/user/MS4wLjABAAAA8Bdr\_mW9MhX5BnUQjYac3wzXbOvph9Bp\_41jfKmB7o1jIRcvnEHsUeJfHtmwSwcD?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7014315812341255460\&is\_full\_screen=0) |
 | 华夏基金 抖音号： [chinaamc](https://www.douyin.com/user/MS4wLjABAAAA0uVLKr7Wuc6iofQyCAjKoRwOIM1FXmCaPGcesYZfix24co9x-K77Z-srof3MIuFK)                                                                                                          |
-|                                                                                                                                                                                                                                         |
+| 白毛校长 抖音号： [xingli1992](https://www.douyin.com/user/MS4wLjABAAAAK3bmhgD6\_-RLoPhRlkZC1J-hTP2S-dpD9QWKVhIJtJ8llm5r\_hAzcv-yQzTuDGq5)                                                                                                      |
 
 ###
 

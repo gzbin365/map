@@ -126,15 +126,16 @@
 
 ## Web
 
-|                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| Core Fundamentals of Web Development [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfaO1IX02\_1L5MW2s9RyIgQ7)   |
-| Web Development Examples From Scratch [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfacxB\_8rbuixIJWKujLYM\_Q) |
-| 免费搭建个人网站 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4v7t77iXNQfVe0mPzZyZctY)                               |
-| rails敏捷开发仿锤子网站 [开发者学堂](https://www.youtube.com/watch?v=Niu46svY5Pk\&list=PLGmd9-PCMLhZqbwva-1ApBJ\_fsUtnMYPE)                     |
-| 企业网站后台制作实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ4zl32C6R5ZSKloO5mTOgf)                                      |
-| 麦子学院-高级工程师手把手带你做企业门户前端 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxXqWqPeBQ2QUIzFuHbXTHK)                       |
-| Hugo 快速构建一个自己的博客 [v](https://www.douyin.com/video/6967236505697864973)                                                            |
+|                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| Core Fundamentals of Web Development [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfaO1IX02\_1L5MW2s9RyIgQ7)      |
+| Web Development Examples From Scratch [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfacxB\_8rbuixIJWKujLYM\_Q)    |
+| 免费搭建个人网站 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4v7t77iXNQfVe0mPzZyZctY)                                  |
+| rails敏捷开发仿锤子网站 [开发者学堂](https://www.youtube.com/watch?v=Niu46svY5Pk\&list=PLGmd9-PCMLhZqbwva-1ApBJ\_fsUtnMYPE)                        |
+| 企业网站后台制作实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ4zl32C6R5ZSKloO5mTOgf)                                         |
+| 麦子学院-高级工程师手把手带你做企业门户前端 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxXqWqPeBQ2QUIzFuHbXTHK)                          |
+| Hugo 快速构建一个自己的博客 [v](https://www.douyin.com/video/6967236505697864973)                                                               |
+| 写代码的产品兔 抖音号： [coding\_pm](https://www.douyin.com/user/MS4wLjABAAAArp0OlOKSaQMO2rtSZJkU94bGTYwn-QfLU2zFLe4k\_eTuFcfzF2HtFw231RJNcrRn) |
 
 ### WordPress
 
