@@ -268,7 +268,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | -------------------------------------------------------------------------------------------------------- |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac) |
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)               |
-| Infrastructure as Code - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=EtEb40LE5zQ)        |
+|                                                                                                          |
 
 ## Wine
 
