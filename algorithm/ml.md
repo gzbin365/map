@@ -582,6 +582,7 @@ LSTM
 | **花书 deeplearningbook(**[**s**](https://www.deeplearningbook.org)**, )**                                                                                                                                                 |
 | [神经网络的损失函数为什么是非凸的?](https://www.zhihu.com/question/265516791)（知乎）                                                                                                                                                        |
 | awesome-material [git](https://github.com/Joy-spec/awesome-material)                                                                                                                                                     |
+| foochane/books [git](https://github.com/foochane/books)                                                                                                                                                                  |
 
 ### MLAPP
 
@@ -611,6 +612,12 @@ LSTM
 ### 花书
 
 {% file src="../.gitbook/assets/深度学习.pdf" %}
+
+### 百面深度学习
+
+
+
+{% file src="../.gitbook/assets/百面深度学习：算法工程师带你去面试_.pdf" %}
 
 ### 百面机器学习
 
