@@ -10,4 +10,4 @@
 | Recommendation Engines Using ALS in PySpark (MovieLens Dataset) [jamenlong1](https://www.youtube.com/watch?v=FgGjc5oabrA)   |
 | How Recommender Systems Work (Netflix/Amazon) [Art of the Problem](https://www.youtube.com/watch?v=n3RKsY2H-NE)             |
 | 【推荐系统 python】推荐系统极其重要的Embedding技术 [蚂蚁学Python](https://www.youtube.com/watch?v=FMN1e8Izyac)                                  |
-|                                                                                                                             |
+| Deep Learning for Recommendation基于深度学习的推荐系统 [Data Application Lab](https://www.youtube.com/watch?v=uGbZ\_E6Rc0Y)            |
