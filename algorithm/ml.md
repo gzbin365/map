@@ -479,6 +479,7 @@ LSTM
 | 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002 |
 | 蒙特卡洛树搜索基础（Monte Carlo Tree Search)　[技术喵](https://www.youtube.com/watch?v=XhVq0uF82gY)                  |
 | 【讀論文】蒙地卡羅 詳細過程 \| Monte Carlo Tree Search\| 遊戲樹 [K66](https://www.youtube.com/watch?v=m9tPmRT4xNw)     |
+| 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)                                 |
 
 ### 因子分解机Factorization Machine, FM
 
