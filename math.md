@@ -522,12 +522,14 @@ $$
 
 ### 微分几何 Differential Geometry
 
-|                                                                                                                             |                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **现代计算机图形学入门(**[**B**](https://www.bilibili.com/video/BV1X7411F744?from=search\&seid=14485457245134407839)**, )**           | **GAMES-Webinar(**[**B**](https://space.bilibili.com/512313464?spm\_id\_from=333.788.b\_765f7570696e666f.2)**, )** |
-| [Dynamics and algebra](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkve4odSHBk\_9BxSbKX2c6c) Yinan Zuo                |                                                                                                                    |
-| 微分几何(贺群)(同济大学)(96讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZjLC4FlubdFCPaOO-ywWql)                       |                                                                                                                    |
-| Differential Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) |                                                                                                                    |
+|                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| **现代计算机图形学入门(**[**B**](https://www.bilibili.com/video/BV1X7411F744?from=search\&seid=14485457245134407839)**, )**           |
+| **GAMES-Webinar(**[**B**](https://space.bilibili.com/512313464?spm\_id\_from=333.788.b\_765f7570696e666f.2)**, )**          |
+| [Dynamics and algebra](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkve4odSHBk\_9BxSbKX2c6c) Yinan Zuo                |
+| 微分几何(贺群)(同济大学)(96讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZjLC4FlubdFCPaOO-ywWql)                       |
+| Differential Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) |
+| 香蕉皮能展成平面吗？微分几何之高斯绝妙定理　[李永乐老师](https://www.youtube.com/watch?v=mh\_gjwSXTVg)                                                 |
 
 ### 分形几何 Fractal Geometry
 

@@ -72,6 +72,7 @@
 | 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                             |
 | 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                              |
 | \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive               |
+| 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                      |
 
 |                                |   |
 | ------------------------------ | - |

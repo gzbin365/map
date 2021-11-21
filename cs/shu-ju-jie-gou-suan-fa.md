@@ -39,6 +39,12 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | Dynamic Programming [DONG ZHOU](https://www.youtube.com/playlist?list=PLfXpkcvvCpfY8aivMlT8A4tsiwxNtFVpn)                                                                                                                                          |
 | 輕鬆搞懂演算法:動態規劃(Dynamic Programming) [奮game王紫楓](https://www.youtube.com/watch?v=M2kYdAA-FHY)                                                                                                                                                          |
 | 动态规划 [1](https://www.youtube.com/watch?v=1BAsAgdx7Ac) [2](https://www.youtube.com/watch?v=Jakbj4vaIbE) 黄浩杰                                                                                                                                         |
+| [简单入门动态规划](https://www.youtube.com/watch?v=EwvFMh6QwTs) 九章算法官方频道                                                                                                                                                                                   |
+| 【动态规划专题班】[动态规划入门](https://www.youtube.com/watch?v=j4eab7N3Hfs) Introduction to Dynamic Programming 九章算法官方频道                                                                                                                                        |
+| 动态规划[四步解题法](https://www.youtube.com/watch?v=dHeBncN-dZo)—搞定绝大多数类型动态规划题 九章算法官方频道                                                                                                                                                                    |
+| 【动态规划】一次搞定三种[背包问题](https://www.youtube.com/watch?v=AFspvwnCcK4) 九章算法官方频道                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |
 
 ## Recurisive
 

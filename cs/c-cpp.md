@@ -52,7 +52,7 @@
 | C++ Course (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=uhFpPlMsLzY)                                                                                    |
 | Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty](\[link]\(https:/www.youtube.com/watch)                    |
 | C++ Programming Tutorial - Build a 3-Band Compressor Audio Plugin (w/ JUCE Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Mo0Oco3Vimo)                |
-|                                                                                                                                                                  |
+| C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours) [CodeBeauty](https://www.youtube.com/watch?v=kiUGf\_Z08RQ)                       |
 |                                                                                                                                                                  |
 
 ### 设计模式
