@@ -272,6 +272,7 @@ description: 机器学习
 | 机器学习40讲 [极客时间](https://time.geekbang.org/column/intro/100008701)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Machine Learning with Python \|\| Machine Learning for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=KnxWoL9wk4c)                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Machine Learning Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=NWONeJKn6kc)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 人工智能：模型与算法 [中国大学MOOC-慕课](https://www.icourse163.org/course/ZJU-1003377027?from=searchPage)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -474,12 +475,14 @@ LSTM
 
 ### 蒙特卡洛 Monte Carlo
 
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002 |
-| 蒙特卡洛树搜索基础（Monte Carlo Tree Search)　[技术喵](https://www.youtube.com/watch?v=XhVq0uF82gY)                  |
-| 【讀論文】蒙地卡羅 詳細過程 \| Monte Carlo Tree Search\| 遊戲樹 [K66](https://www.youtube.com/watch?v=m9tPmRT4xNw)     |
-| 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)                                 |
+| 蒙特卡洛树搜索 Monte Carlo Tree Search (MCTS)                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002                                         |
+| 蒙特卡洛树搜索基础（Monte Carlo Tree Search)　[技术喵](https://www.youtube.com/watch?v=XhVq0uF82gY)                                                          |
+| 【讀論文】蒙地卡羅 詳細過程 \| Monte Carlo Tree Search\| 遊戲樹 [K66](https://www.youtube.com/watch?v=m9tPmRT4xNw)                                             |
+| 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)   [s](https://www.icourse163.org/course/ZJU-1003377027?from=searchPage) |
+| Monte Carlo Tree Search [1](https://www.youtube.com/watch?v=onBYsen2\_eA) [2](https://www.youtube.com/watch?v=4rVXxSD2DIM) Udacity             |
+| Monte Carlo Tree Search (MCTS) Tutorial [Fullstack Academy](https://www.youtube.com/watch?v=Fbs4lnGLS8M)                                       |
 
 ### 因子分解机Factorization Machine, FM
 
