@@ -127,6 +127,14 @@ description: 用数学充实人生
 | [Why pi?](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TcPMeEYf\_VtPM)(3Blue1Brown)          |
 | Riemann's paradox: pi = infinity minus infinity [Mathologer](https://www.youtube.com/watch?v=-EtHF5ND3\_s) |
 
+费波纳切数列
+
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| 费波纳切数列的通项 [国科大](https://www.douyin.com/video/7027023587630517511) [2](https://www.douyin.com/video/7027396374383578380) |
+|                                                                                                                         |
+|                                                                                                                         |
+
 ### Fundamental Rules
 
 ### 逻辑学 Mathematical Logic
