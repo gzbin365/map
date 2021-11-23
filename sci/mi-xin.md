@@ -42,10 +42,18 @@
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
-| 赵玉平老师讲国学 抖音号： [bowengx007](https://www.douyin.com/user/MS4wLjABAAAAztyOnz9xB4U7jjPQVzpnI-XiO2f-E01sbKcNuwXuYtI)                  |
-| 赵玉平老师人生课 抖音号： [BWZYP](https://www.douyin.com/user/MS4wLjABAAAAzRUf4rd23WlFAx7m2FFg5pjGPCSFXjoqNmHBBvaABwM)                       |
-| 赵玉平老师精讲　抖音号： [Bowenguanfang](https://www.douyin.com/user/MS4wLjABAAAAq8kDBmFwuekmjX5PdroWGGx17tptVeE6K7W-2wt4LVs)                |
+|                                                                                                                                  |
+|                                                                                                                                  |
+|                                                                                                                                  |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
 |                                                                                                                                  |
 |                                                                                                                                  |
+
+| 赵玉平老师                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------- |
+| 赵玉平老师讲国学 抖音号： [bowengx007](https://www.douyin.com/user/MS4wLjABAAAAztyOnz9xB4U7jjPQVzpnI-XiO2f-E01sbKcNuwXuYtI)   |
+| 赵玉平老师人生课 抖音号： [BWZYP](https://www.douyin.com/user/MS4wLjABAAAAzRUf4rd23WlFAx7m2FFg5pjGPCSFXjoqNmHBBvaABwM)        |
+| 赵玉平老师精讲　抖音号： [Bowenguanfang](https://www.douyin.com/user/MS4wLjABAAAAq8kDBmFwuekmjX5PdroWGGx17tptVeE6K7W-2wt4LVs) |
+| 精神和气概　[赵玉平老师讲国学](https://www.douyin.com/video/7032968815478623502)                                                |
+|                                                                                                                   |
