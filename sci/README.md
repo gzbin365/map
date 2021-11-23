@@ -45,6 +45,12 @@
 | **GNU(**[**u**](https://www.youtube.com/channel/UCrnHNeGtmkvoCVzjMgp36Tg/playlists)**, )** | **考研e族(**[**u**](https://www.youtube.com/channel/UCumvu1nun2Hr\_0y7MzrN2YA/playlists)**, )** |
 |                                                                                            | 中国好视频 [u](https://www.youtube.com/channel/UCCn95TJ-ghiNsJmwLoaE1gw/playlists)                |
 
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| 考研励志语录（[五](https://www.douyin.com/video/7026009374837443875)） 一战成硕 定为研一 2020研究生 |
+|                                                                                 |
+|                                                                                 |
+
 ## 留学
 
 |                                                                |   |
