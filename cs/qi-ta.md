@@ -390,6 +390,14 @@
 | PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10) |
 | Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                      |
 
+### 镜像
+
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| HelloWindows [s](https://hellowindows.cn) [v](https://www.douyin.com/video/7024725392409890051) |
+|                                                                                                 |
+|                                                                                                 |
+
 ### Windows 10
 
 |                                                                                                                                                    |
