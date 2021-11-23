@@ -4,18 +4,20 @@
 
 **GPU 计算能力(**[**nvidia**](https://developer.nvidia.com/zh-cn/cuda-gpus)**, )**
 
-|                                                                                                                               |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - |
-| Fundamentals of GPU Architecture [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4) |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Fundamentals of GPU Architecture [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4) |
+
+显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
 
 ## **CUDA**
 
-|                                                                                                                     |   |
-| ------------------------------------------------------------------------------------------------------------------- | - |
-| CUDA Explained - Why Deep Learning uses GPUs** **[**deeplizard**](https://www.youtube.com/watch?v=6stDhEA0wFQ)****  |   |
-| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)     |   |
-| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo) |   |
-| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |   |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| CUDA Explained - Why Deep Learning uses GPUs [**deeplizard**](https://www.youtube.com/watch?v=6stDhEA0wFQ)          |
+| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)     |
+| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo) |
+| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |
 
 ## 虚拟化vGPU
 
