@@ -4,11 +4,12 @@
 | ------------------------------------------------------------------------- | --------------------------------------- |
 | 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos) | [计时器](https://naozhong.net.cn/jishiqi/) |
 
-|                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)            |
-| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)         |
-| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA) |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)                   |
+| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                |
+| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA)        |
+| My favorite LaTeX packages for writing beautiful math documents　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=331YxgOJUGw) |
 
 | Short link                                                |
 | --------------------------------------------------------- |
