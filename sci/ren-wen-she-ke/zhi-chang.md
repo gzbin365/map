@@ -1,10 +1,10 @@
 # 职场
 
-|                                                                                                                                |                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| 孔大爷 抖音号： [ZFSN1318](https://www.douyin.com/user/MS4wLjABAAAASC82E9e\_7YmKUF7ANqGjmS-7n4IyzQXtUkcQN31SmcFwTaWyzoeIXsi7HOu4AiN0) | 刘老师职场讲座 抖音号： [699238555](https://www.douyin.com/user/MS4wLjABAAAAb5uuyQv5IlGoxAox1Or1tbV0BJMIifmnT6nQzUTKGG4) |
-|                                                                                                                                |                                                                                                               |
-|                                                                                                                                |                                                                                                               |
+|                                                                                                                                |                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 孔大爷 抖音号： [ZFSN1318](https://www.douyin.com/user/MS4wLjABAAAASC82E9e\_7YmKUF7ANqGjmS-7n4IyzQXtUkcQN31SmcFwTaWyzoeIXsi7HOu4AiN0) | 刘老师职场讲座 抖音号： [699238555](https://www.douyin.com/user/MS4wLjABAAAAb5uuyQv5IlGoxAox1Or1tbV0BJMIifmnT6nQzUTKGG4)                            |
+|                                                                                                                                | 时代华语好书推荐馆　抖音号： [shidaihuayuh](https://www.douyin.com/user/MS4wLjABAAAAKpT3YuIMySQhwIbhwKj13rkgjd1pPsbqiKL2z91ZChCxEWDXffYis6rqd7yRnu\_E) |
+|                                                                                                                                |                                                                                                                                          |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -23,7 +23,7 @@
 | ----------------------------------------------------------------------------------------- |
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                     |
 | 算法面试 [九章算法官方频道](https://www.youtube.com/playlist?list=PLNuQtXS21vLVSe4jef1V7H9F05RSmc10F) |
-|                                                                                           |
+| 面试时问到薪酬问题，怎么回答才是最好的？[时代华语好书推荐馆](https://www.douyin.com/video/7022940287827856671)         |
 
 ## 社保
 
