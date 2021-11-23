@@ -248,6 +248,14 @@ description: 硬件设备
 | Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                             |
 |                                                                                                                                                                          |
 
+## DPU
+
+|                                                                                       |
+| ------------------------------------------------------------------------------------- |
+| 继CPU、GPU之后，DPU也要成为主力芯片了吗 [差评君](https://www.douyin.com/video/7032934789917297956) 处理数据 |
+|                                                                                       |
+|                                                                                       |
+
 ## 蓝牙
 
 |                                                                                          |
