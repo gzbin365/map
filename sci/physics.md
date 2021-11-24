@@ -8,7 +8,7 @@
 | Zach Star [u](https://www.youtube.com/c/zachstar/playlists)                        | Andrew Dotson [u](https://www.youtube.com/c/AndrewDotsonvideos/playlists)                                                      |
 | Simon Clark [u](https://www.youtube.com/c/SimonOxfPhys/playlists)                  | Dillon Berger [u](https://www.youtube.com/c/InertialObserver/playlists)                                                        |
 | Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                       | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
-|                                                                                    | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
+| Veritasium [u](https://www.youtube.com/c/veritasium/playlists)                     | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
 |                                                                                    | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
 |                                                                                    |                                                                                                                                |
 

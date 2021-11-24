@@ -14,7 +14,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | 孩子二三年级，应该读什么书？[v](https://www.douyin.com/video/7007010159130152224)                                                              |
 | 蓝幽若 抖音号： [lanyouruo](https://www.douyin.com/user/MS4wLjABAAAA3MQz2twgK1vT2OxMXyG18-hoR31KtiY\_7PMqH\_v1j5Hp0Qi6B5zNGFXMlFgtfRz2) |
-|                                                                                                                                  |
+| 终有弱水替沧海, 再无相思寄巫山 [v](https://www.douyin.com/video/7006658183548718350)                                                           |
 
 ### 论语
 
