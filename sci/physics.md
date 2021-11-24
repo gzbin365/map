@@ -131,11 +131,11 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 天文
 
-|                                                                                                                           |                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 臺北天文館([u](https://www.youtube.com/c/%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%B8%E5%BD%B1%E7%89%87%E9%A0%BB%E9%81%93/featured), ) | **香港太空館 Hong Kong Space Museum(**[**u**](https://www.youtube.com/user/hkspacem/featured)**, )** |
-| C'est pas sorcier [u](https://www.youtube.com/c/Cestpassorcierofficiel/videos)                                            |                                                                                                 |
-| 宇宙全书  [v](https://www.douyin.com/video/7026966061899697448)                                                               |                                                                                                 |
+|                                                                                                                           |                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 臺北天文館([u](https://www.youtube.com/c/%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%B8%E5%BD%B1%E7%89%87%E9%A0%BB%E9%81%93/featured), ) | **香港太空館 Hong Kong Space Museum(**[**u**](https://www.youtube.com/user/hkspacem/featured)**, )**                                |
+| C'est pas sorcier [u](https://www.youtube.com/c/Cestpassorcierofficiel/videos)                                            | Linvo說宇宙 [u](https://www.youtube.com/c/Linvo/playlists)                                                                        |
+| 宇宙全书  [v](https://www.douyin.com/video/7026966061899697448)                                                               | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
