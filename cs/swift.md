@@ -4,6 +4,8 @@
 
 **Swift Programming Tutorial for Beginners (Full Tutorial) **[**CodeWithChris**](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 
+Swift Tutorial - Full Course for Beginners** **[freeCodeCamp](https://www.youtube.com/watch?v=comQ1-x2a1Q)
+
 |                                                                                               |   |
 | --------------------------------------------------------------------------------------------- | - |
 | swift编程项目实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZmluGsmTN0S4TalARR-sWq) |   |
