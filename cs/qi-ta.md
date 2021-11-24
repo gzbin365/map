@@ -105,6 +105,7 @@
 | ASP.NET Core Crash Course - C# App in One Hour [freeCodeCamp](https://www.youtube.com/watch?v=BfEjDD8mWYg)                         |
 | 8 await async mistakes that you SHOULD avoid in .NET [Nick Chapsas](https://www.youtube.com/watch?v=lQu-eBIIh-w)                   |
 | .NET Microservices – Full Course [Les Jackson](https://www.youtube.com/watch?v=DgVjEo3OGBI)                                        |
+| Learn ASP.NET Core MVC (.NET 6) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hZ1DASYd9rk)                          |
 
 ## HTTP
 
