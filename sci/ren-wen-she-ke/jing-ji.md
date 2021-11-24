@@ -52,6 +52,7 @@
 | 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                            |
 | 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                 |
 | 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458) |
+| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                        |
 
 |                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
