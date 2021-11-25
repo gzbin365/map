@@ -34,6 +34,7 @@
 | 明星营养师修贤 抖音号： [13068718](https://www.douyin.com/user/MS4wLjABAAAAsnq9PTUCmBLXVLLXR2BD-YaANv\_gPaEsuT\_0k1UCWII?author\_id=69892264935\&enter\_from=recommend\&enter\_method=comment\&from\_gid=7010603847156698383\&group\_id=7010603847156698383\&log\_pb=%7B%22impr\_id%22%3A%2220211012204040010150170100270D1EE4%22%7D)                                                                |
 | 华西唐黎之博士　抖音号： [huaxitanglizhi](https://www.douyin.com/user/MS4wLjABAAAAy6Hctl7QTwdl76jZdDtWaOrV0CkuhT3-eNVCNBSf99c)                                                                                                                                                                                                                                                                        |
 | 柳老师的日常健康 抖音号： [ljs52020](https://www.douyin.com/user/MS4wLjABAAAA1z6NzkcCc08On-aS5VY-kmeCWuoVsdC-AQn-fSHrtPHBMTOLfyYLLxWlqdDiYnoq)                                                                                                                                                                                                                                                        |
+| 内分泌唐黎之博士　抖音号： [huaxitanglizhi](https://www.douyin.com/user/MS4wLjABAAAAy6Hctl7QTwdl76jZdDtWaOrV0CkuhT3-eNVCNBSf99c)                                                                                                                                                                                                                                                                       |
 
 ### 生酮饮食
 
