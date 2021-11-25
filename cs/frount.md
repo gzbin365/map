@@ -20,11 +20,11 @@
 | [**I Challenged The CSS King To A CSS Battle**](https://www.youtube.com/watch?v=-QgJgZCJvo4) |                                                                                                                                                                                                                                                                                                                                                                   |
 | **Coding Addict(**[**u**](https://www.youtube.com/c/CodingAddict/playlists)**, )**           |                                                                                                                                                                                                                                                                                                                                                                   |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| 网站，值得前端工程师收藏 [v](https://www.douyin.com/video/7002896729465048331) |
-|                                                                    |
-|                                                                    |
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| 网站，值得前端工程师收藏 [v](https://www.douyin.com/video/7002896729465048331)                |
+| App/小程序开发怎么选择跨端技术开发框架 [写代码的产品兔](https://www.douyin.com/video/7032020021471628574) |
+|                                                                                   |
 
 ## web 开发
 
