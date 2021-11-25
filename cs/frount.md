@@ -57,6 +57,7 @@
 | 在线电影网站搭建 零基础搭建在线影视网站([一](https://www.youtube.com/watch?v=Hg64-noVnTE))([二](https://www.youtube.com/watch?v=7RF013Zz81A))([三](https://www.youtube.com/watch?v=PeM7-MB6J00)) Duke                  |
 | Gatsby Static Site Generator Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=RaTpreA0v7Q)                                                                                                |
 | Make A Python Website As Fast As Possible! [Tech With Tim](https://www.youtube.com/watch?v=kng-mJJby8g)                                                                                          |
+| JavaScript Tutorial - PuzzleCam Game　[freeCodeCamp](https://www.youtube.com/watch?v=HS6KHYIYdXc)                                                                                                 |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
