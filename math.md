@@ -447,6 +447,7 @@ description: 用数学充实人生
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s)) |
+| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I) |
 | 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                 |
 
 $$
