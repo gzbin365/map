@@ -353,7 +353,7 @@ description: 机器学习
 | <p>Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)</p><p><a href="https://www.youtube.com/watch?v=LHBE6Q9XlzI">freeCodeCamp</a></p>  |
 | Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) [freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)                        |
 | Data Analysis Tutorial for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=ggJr2lX6aFw)                                                                             |
-|                                                                                                                                                                               |
+| Data Analysis with Python for Excel Users - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=WcDaZ67TVRo)                                                           |
 
 ## 算法
 
