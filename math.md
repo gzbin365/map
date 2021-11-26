@@ -41,7 +41,7 @@ description: 用数学充实人生
 | Dr. Trefor Bazett  [u](https://www.youtube.com/c/DrTreforBazett/playlists)                                                                                                                                | 中国可汗　抖音号： [zhongguokehan](https://www.douyin.com/user/MS4wLjABAAAAYiRE8o3X9gxeZvvAYJZROLujvQXfxoYWJ9485ySA-b0?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7015149907686280478\&is\_full\_screen=0)                                                                                                                                                              |
 | 跟小胖学数学 抖音号： [lilaoshi063](https://www.douyin.com/user/MS4wLjABAAAAH828EJ13HFiuS0xHFa101XQJxlkQH9tOJRDCgxLmBtL5LJ2MgGfLGfvNAPYcePlV)                                                                       | 数学包　抖音号： [gksxth](https://www.douyin.com/user/MS4wLjABAAAAce58kfCBQV7WtgzgEcax7txNBGDRDbr\_6Px6IiXz95-kA4Y4q9bPqCkJ3upSqZLo)                                                                                                                                                                                                                                                     |
 | Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists)                                                                                                                                 | Complexity Explorer [u](https://www.youtube.com/user/ComplexityExplorer/playlists)                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                           | 小卒數理學堂 [u](https://www.youtube.com/channel/UC-I9at8StRyFScwTnE\_OiCg)                                                                                                                                                                                                                                                                                                            |
+| 心一学长　[ｕ](https://www.youtube.com/watch?v=tXHiLNNws6I)                                                                                                                                                     | 小卒數理學堂 [u](https://www.youtube.com/channel/UC-I9at8StRyFScwTnE\_OiCg)                                                                                                                                                                                                                                                                                                            |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**, **[**s**](https://www.3blue1brown.com)**, **[**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -444,11 +444,12 @@ description: 用数学充实人生
 
 ### 贝叶斯　Bayes theorem
 
-|                                                                                 |
-| ------------------------------------------------------------------------------- |
-| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s)) |
-| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I) |
-| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                 |
+|                                                                                              |
+| -------------------------------------------------------------------------------------------- |
+| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s))              |
+| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I)              |
+| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                              |
+| 贝叶斯理论：Data Science必备技能  [Data Application Lab](https://www.youtube.com/watch?v=MvMkAI\_-38A) |
 
 $$
 P(A|B) =P(A) \dfrac{P(B|A)}{P(B)}

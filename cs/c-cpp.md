@@ -75,6 +75,7 @@
 | Comparing C to machine language [Ben Eater](https://www.youtube.com/watch?v=yOyaJXpAYZQ)                                                                               |
 | C Programming in Linux Tutorial [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)                                                  |
 | C Programming Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)                                                                       |
+| Using C instead of Bash [Tsoding Daily](https://www.youtube.com/watch?v=assDDVG0PEo)                                                                                   |
 
 ## Book
 

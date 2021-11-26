@@ -31,6 +31,7 @@
 | Android HAL编程实战 实现自己的HAL [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZfZuI1M9yW\_YO4Y8oISzGX)                                             |
 | Android Studio [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb0dqDdKPHP6dc385uW\_mGc)                                                       |
 | What's new in Android Studio Arctic Fox [Android Developers](https://www.youtube.com/watch?v=-8tSZr7iMcw)                                               |
+| Android Studio setup STILL tricky on M1 Pro? [Alexander Ziskind](https://www.youtube.com/watch?v=dCbr2iFbh8o)                                           |
 | Android 社会化分享 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8cd3fc6ia6ssMvmGV7LrK)                                                         |
 | Android仿美图秀秀实战 （上） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqnDl53xels8qsc3QPpfY8)                                                    |
 | Android仿美图秀秀实战 （下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYMQbtnyBqw6XfAQt7NvnfC)                                                    |
