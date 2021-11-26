@@ -95,7 +95,7 @@ description: 机器学习
 | William　[ｕ](https://www.youtube.com/channel/UCzFQao3\_FS52z\_vW6Xu2BRg/playlists)                                                                                                                                                                                                                                                                           | 李政軒　[ｕ](https://www.youtube.com/c/%E6%9D%8E%E6%94%BF%E8%BB%92chli/playlists)                                                                                                                                                                                                                                                                                                                                                                        |
 | 人工智能之趋势 [u](https://www.youtube.com/c/AIPursuit/playlists)                                                                                                                                                                                                                                                                                                  | Luis Serrano [u](https://www.youtube.com/c/LuisSerrano/playlists)                                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                                             | Art of the Problem [u](https://www.youtube.com/c/ArtOfTheProblem/playlists)                                                                                                                                                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                             | Artificial Intelligence - All in One [u](https://www.youtube.com/c/ArtificialIntelligenceAllinOne)                                                                                                                                                                                                                                                                                                                                                  |
 
 |                                                               |
 | ------------------------------------------------------------- |
@@ -427,10 +427,11 @@ description: 机器学习
 
 ### 回归
 
-|                                                                                                |   |
-| ---------------------------------------------------------------------------------------------- | - |
-| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)   |   |
-| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK) |   |
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)   |
+| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK) |
+| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                          |
 
 ### 时间序列
 
@@ -484,6 +485,18 @@ LSTM
 | 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)   [s](https://www.icourse163.org/course/ZJU-1003377027?from=searchPage) |
 | Monte Carlo Tree Search [1](https://www.youtube.com/watch?v=onBYsen2\_eA) [2](https://www.youtube.com/watch?v=4rVXxSD2DIM) Udacity             |
 | Monte Carlo Tree Search (MCTS) Tutorial [Fullstack Academy](https://www.youtube.com/watch?v=Fbs4lnGLS8M)                                       |
+| 蒙特卡洛 Monte Carlo [Shusen Wang](https://www.youtube.com/watch?v=XRGquU0ZJok)                                                                    |
+|                                                                                                                                                |
+
+### 马尔可夫 马尔科夫 Markov
+
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OR 10-2 馬可夫性質與馬可夫鏈(李維OR) [小卒數理學堂](https://www.youtube.com/watch?v=db44omkBcjk)                                                                                   |
+| 徐亦达机器学习课程 Markov Chain Monte Carlo ([part 1](https://www.youtube.com/watch?v=s8w8AsFK77c))  ([part 2](https://www.youtube.com/watch?v=Bc4YWHp4c84))徐亦达           |
+| Intro to Reinforcement Learning 强化学习纲要 第二课 马尔科夫决策过程 [上](https://www.youtube.com/watch?v=6yE9XiIB3hQ) [下](https://www.youtube.com/watch?v=MIZbocCu7Sk) Bolei Zhou |
+| 15讲01 隐马尔科夫模型的基本概念　[MM li](https://www.youtube.com/watch?v=-BnxVUI\_kDw)                                                                                         |
+| 隐马尔科夫模型　[Ouyang Ruofei](https://www.youtube.com/watch?v=C\_6JhFCW8II)                                                                                            |
 
 ### 因子分解机Factorization Machine, FM
 
@@ -503,6 +516,22 @@ LSTM
 | Maximum Entropy Methods Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznT3olRuplp5x41wUp\_LZxHL) |
 |                                                                                                                                   |
 |                                                                                                                                   |
+
+### 集成学习
+
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| 集成学习 [Ouyang Ruofei](https://www.youtube.com/watch?v=ztYEZb2y6QI)          |
+| GradientBoost [Ouyang Ruofei](https://www.youtube.com/watch?v=ODB3WEDzFlo) |
+|                                                                            |
+
+### 机器学习自动化调参
+
+|                                                                        |
+| ---------------------------------------------------------------------- |
+| 机器学习自动化调参 [Ouyang Ruofei](https://www.youtube.com/watch?v=xcW0qYNyaQQ) |
+|                                                                        |
+|                                                                        |
 
 ### A/B testing
 

@@ -47,6 +47,8 @@
 | Chillstep音乐，用于编程/网络/编码 [Music Lab](https://www.youtube.com/watch?v=M5QY2\_8704o)                                           |
 | 专注和创造力的冷静音乐。深浓缩混合 [Music Lab](https://www.youtube.com/watch?v=tlUcmD0zPI4)                                                 |
 | 黑暗编程音乐—空间能量—未来车库组合 [Music Lab](https://www.youtube.com/watch?v=jQbgkcd2x7w)                                                |
+| Programming / Coding / Hacking music [JimTV](https://www.youtube.com/playlist?list=PLUja9J5M1XReqoBal5IKog\_PWz2Q\_hZ7Y)   |
+| Hacker // Programming // Coding Music [Fil Far](https://www.youtube.com/playlist?list=PLEM4vOSCprStzppPemEYAF6ZEUrQYj5N5)  |
 | 【深度解析】V怪客-電影沒拍出來的經典 \| 漫畫深度解析 \| [超粒方](https://www.youtube.com/watch?v=XtessN-HeSc)                                        |
 | 渗透攻击 micro8 [gitbook](https://micro8.gitbook.io/micro8/) [github](https://github.com/Micropoor/Micro8)                     |
 |                                                                                                                            |
