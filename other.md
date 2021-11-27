@@ -115,3 +115,5 @@
 | 看电影背6000词 [v](https://www.douyin.com/video/6952125621543734536)                                                                                                                                                                                                                                         |
 | 为什么你的头会秃成M、C、U型？拿什么拯救你的发际线？ [柴知道](https://www.youtube.com/watch?v=Iz2Y5mtOMQU)                                                                                                                                                                                                                          |
 | 一本提高沟通能力的好书　[俞敏洪](https://www.douyin.com/video/7026668497547644198)                                                                                                                                                                                                                                     |
+
+&#x20;自动续费套路深，看看你被坑过吗？[直男财经](https://www.douyin.com/video/7034955890868407565)

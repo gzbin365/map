@@ -1,16 +1,16 @@
 # 物理
 
-|                                                                                    |                                                                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Free Course(**[**u**](https://www.youtube.com/c/FreeCourseBLGX/playlists)**, )** | **minutephysics(**[**u**](https://www.youtube.com/user/minutephysics/playlists)**, )**                                         |
-| 周边理论物理研究所([u](https://www.youtube.com/user/PIOutreach/featured), )                 | PBS Space Time([u](https://www.youtube.com/c/pbsspacetime/playlists), )                                                        |
-| Tibees [u](https://www.youtube.com/user/tibees/playlists)                          | 行走的黑洞 [u](https://www.youtube.com/channel/UCzd11zXXArU7m\_rZ1ZY0NFw/videos)                                                    |
-| Zach Star [u](https://www.youtube.com/c/zachstar/playlists)                        | Andrew Dotson [u](https://www.youtube.com/c/AndrewDotsonvideos/playlists)                                                      |
-| Simon Clark [u](https://www.youtube.com/c/SimonOxfPhys/playlists)                  | Dillon Berger [u](https://www.youtube.com/c/InertialObserver/playlists)                                                        |
-| Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                       | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
-| Veritasium [u](https://www.youtube.com/c/veritasium/playlists)                     | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
-|                                                                                    | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
-|                                                                                    |                                                                                                                                |
+|                                                                                                             |                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Free Course(**[**u**](https://www.youtube.com/c/FreeCourseBLGX/playlists)**, )**                          | **minutephysics(**[**u**](https://www.youtube.com/user/minutephysics/playlists)**, )**                                         |
+| 周边理论物理研究所([u](https://www.youtube.com/user/PIOutreach/featured), )                                          | PBS Space Time([u](https://www.youtube.com/c/pbsspacetime/playlists), )                                                        |
+| Tibees [u](https://www.youtube.com/user/tibees/playlists)                                                   | 行走的黑洞 [u](https://www.youtube.com/channel/UCzd11zXXArU7m\_rZ1ZY0NFw/videos)                                                    |
+| Zach Star [u](https://www.youtube.com/c/zachstar/playlists)                                                 | Andrew Dotson [u](https://www.youtube.com/c/AndrewDotsonvideos/playlists)                                                      |
+| Simon Clark [u](https://www.youtube.com/c/SimonOxfPhys/playlists)                                           | Dillon Berger [u](https://www.youtube.com/c/InertialObserver/playlists)                                                        |
+| Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                                                | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
+| Veritasium [u](https://www.youtube.com/c/veritasium/playlists)                                              | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
+| 李论科学 抖音号： [103391611](https://www.douyin.com/user/MS4wLjABAAAA178XQjV85eh8zMbSBCfrKnN\_UVDdBxDsTeegMQeRLJM) | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
+|                                                                                                             |                                                                                                                                |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -59,6 +59,7 @@
 | 说房沁 抖音号： [77706190822](https://www.douyin.com/user/MS4wLjABAAAA8Bdr\_mW9MhX5BnUQjYac3wzXbOvph9Bp\_41jfKmB7o1jIRcvnEHsUeJfHtmwSwcD?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7014315812341255460\&is\_full\_screen=0) |
 | 华夏基金 抖音号： [chinaamc](https://www.douyin.com/user/MS4wLjABAAAA0uVLKr7Wuc6iofQyCAjKoRwOIM1FXmCaPGcesYZfix24co9x-K77Z-srof3MIuFK)                                                                                                          |
 | 白毛校长 抖音号： [xingli1992](https://www.douyin.com/user/MS4wLjABAAAAK3bmhgD6\_-RLoPhRlkZC1J-hTP2S-dpD9QWKVhIJtJ8llm5r\_hAzcv-yQzTuDGq5)                                                                                                      |
+| 富妈聊楼市 抖音号： [fumalls](https://www.douyin.com/user/MS4wLjABAAAA4tSJaqSHNXZXuda9519EWOiij8aCDHSz0\_lAhn-rDywSa662pfy9A8a1xY6fWmKK)                                                                                                         |
 
 ###
 

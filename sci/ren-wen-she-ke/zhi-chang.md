@@ -24,6 +24,7 @@
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                     |
 | 算法面试 [九章算法官方频道](https://www.youtube.com/playlist?list=PLNuQtXS21vLVSe4jef1V7H9F05RSmc10F) |
 | 面试时问到薪酬问题，怎么回答才是最好的？[时代华语好书推荐馆](https://www.douyin.com/video/7022940287827856671)         |
+| 面试通过率提升80%的3个套路 [Super产品林木](https://www.douyin.com/video/7029246265141546251)             |
 
 ## 社保
 
