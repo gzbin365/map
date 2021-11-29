@@ -25,6 +25,7 @@
 | 算法面试 [九章算法官方频道](https://www.youtube.com/playlist?list=PLNuQtXS21vLVSe4jef1V7H9F05RSmc10F) |
 | 面试时问到薪酬问题，怎么回答才是最好的？[时代华语好书推荐馆](https://www.douyin.com/video/7022940287827856671)         |
 | 面试通过率提升80%的3个套路 [Super产品林木](https://www.douyin.com/video/7029246265141546251)             |
+| 你有什么问题想问我 [Super产品林木](https://www.douyin.com/video/7035181504938511646)                   |
 
 ## 社保
 

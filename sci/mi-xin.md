@@ -56,4 +56,4 @@
 | 赵玉平老师人生课 抖音号： [BWZYP](https://www.douyin.com/user/MS4wLjABAAAAzRUf4rd23WlFAx7m2FFg5pjGPCSFXjoqNmHBBvaABwM)        |
 | 赵玉平老师精讲　抖音号： [Bowenguanfang](https://www.douyin.com/user/MS4wLjABAAAAq8kDBmFwuekmjX5PdroWGGx17tptVeE6K7W-2wt4LVs) |
 | 精神和气概　[赵玉平老师讲国学](https://www.douyin.com/video/7032968815478623502)                                                |
-|                                                                                                                   |
+| 以缺为正，有缺点的人和事才是正常的，没有缺点必有妖 [赵玉平老师讲国学](https://www.douyin.com/video/7035556865710820639)                            |
