@@ -8,7 +8,7 @@ description: 硬件设备
 
 |                                                                        |                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                        | **QuecPython(**[**s**](https://python.quectel.com/home)**, **[**B**](https://space.bilibili.com/491326023/channel/detail?cid=150963)**, **[**文档**](https://python.quectel.com/wiki/#/zh-cn/)**, **[**git**](https://github.com/quecpython/wiki)**, 抖音号：Josh.Sun)** |
+|                                                                        | **QuecPython(**[**s**](https://python.quectel.com/home)**,** [**B**](https://space.bilibili.com/491326023/channel/detail?cid=150963)**,** [**文档**](https://python.quectel.com/wiki/#/zh-cn/)**,** [**git**](https://github.com/quecpython/wiki)**, 抖音号：Josh.Sun)** |
 | **AddOhms(**[**u**](https://www.youtube.com/c/AddOhms/featured)**, )** | **Lenovo(**[**u**](https://www.youtube.com/c/Lenovo/featured)**, )**                                                                                                                                                                                               |
 
 **树莓派下中文字直接转语音播报(**[**B**](https://www.bilibili.com/video/BV1XE411s7ju/)**, )**
@@ -19,7 +19,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Arduino Engineering Kit Videos(**[**u**](https://www.youtube.com/channel/UCaPRtmtzWXQkbo9D-OxMN1w/videos)**, )**                                                         | **Carlos Roberto(**[**u**](https://www.youtube.com/user/zenetio/videos)**, )**         |
 | **Paul's Hardware(**[**u**](https://www.youtube.com/c/paulshardware/featured)**, )**                                                                                       |                                                                                        |
-| **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**, **[**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** |                                                                                        |
+| **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**,** [**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** |                                                                                        |
 | **Simply Better(**[**u**](https://www.youtube.com/c/SimplyBetter\_SB/playlists)**, )**                                                                                     |                                                                                        |
 | **RoboShala(**[**u**](https://www.youtube.com/c/RoboShala/featured)**, )**                                                                                                 |                                                                                        |
 | **Kotai Electronics Pvt. Ltd.(**[**u**](https://www.youtube.com/c/MyElectronicsLab/featured)**, )**                                                                        |                                                                                        |
@@ -75,7 +75,7 @@ description: 硬件设备
 
 |                                                                                            |   |
 | ------------------------------------------------------------------------------------------ | - |
-| **OrangePi(**[**s**](http://www.orangepi.org)**, **[**中文**](http://www.orangepi.cn)**, )** |   |
+| **OrangePi(**[**s**](http://www.orangepi.org)**,** [**中文**](http://www.orangepi.cn)**, )** |   |
 
 ## 单片机
 
@@ -162,23 +162,23 @@ description: 硬件设备
 
 ## **直升机**
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| 世界上最小的直升机 ？** **[**v**](https://www.douyin.com/video/7028898711543532830)**** |
-|                                                                               |
-|                                                                               |
+|                                                                                |
+| ------------------------------------------------------------------------------ |
+| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)**** |
+|                                                                                |
+|                                                                                |
 
 ## **3D Pringing**
 
 | 机构                                                                                                                                  |                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **南极熊3D打印网(**[**s**](http://nanjixiong.com)**, **[**u**](https://www.youtube.com/channel/UC8-tPZV2LPE\_JwOtPfToojg/featured)**, )** | **Ultimake(**[**s**](http://www.ultimaker.cn)**, )** |
+| **南极熊3D打印网(**[**s**](http://nanjixiong.com)**,** [**u**](https://www.youtube.com/channel/UC8-tPZV2LPE\_JwOtPfToojg/featured)**, )** | **Ultimake(**[**s**](http://www.ultimaker.cn)**, )** |
 | **myminifactory(**[**s**](https://www.myminifactory.com)**, )模型共享**                                                                 |                                                      |
 |                                                                                                                                     |                                                      |
 
 | 3D打印机                                                                                                     |   |
 | --------------------------------------------------------------------------------------------------------- | - |
-| **CeramBot(**[**s**](https://www.cerambot.com)**, **[**fb**](https://www.facebook.com/CERAMBOT/)**, )陶瓷** |   |
+| **CeramBot(**[**s**](https://www.cerambot.com)**,** [**fb**](https://www.facebook.com/CERAMBOT/)**, )陶瓷** |   |
 | 3D Print Guy [u](https://www.youtube.com/channel/UCCjskdXEYX9GAxEjlMl81Ig)                                |   |
 
 | UP                                                                             |                                                                                |
@@ -273,11 +273,11 @@ description: 硬件设备
 
 ## 显示器
 
-|                                                                              |
-| ---------------------------------------------------------------------------- |
-| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556) |
-|                                                                              |
-|                                                                              |
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)     |
+| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders |
+|                                                                                  |
 
 ## VR
 
@@ -315,7 +315,7 @@ description: 硬件设备
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1)** ** Yinan Zuo                                  |
+| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
 | 机器人基础原理 东北大学 房立金 [电子工程世界](http://training.eeworld.com.cn/course/5410) 共55课时 10小时50分9秒                                                                     |
@@ -352,7 +352,7 @@ description: 硬件设备
 | **Huan(**[**u**](https://www.youtube.com/channel/UCpmx8TiMv9yR1ncyldGyyVA/featured)**, )**                                         | **探物科技(**[**u**](https://www.youtube.com/channel/UCdrnmpFy-To4PUPWWu-qevw/featured)**, )**                                                          | **Modding Cafe(**[**u**](https://www.youtube.com/c/ModdingCafeTV/featured)**, )**                                                    |
 | **AZPC(**[**u**](https://www.youtube.com/c/AZPCTV/featured)**, )**                                                                 | **JD大手哥(**[**u**](https://www.youtube.com/user/tasyz/videos)**, )**                                                                                 | **Tech of Tomorrow(**[**u**](https://www.youtube.com/c/Techoftomorrow/featured)**, )**                                               |
 | **科技磁场(**[**u**](https://www.youtube.com/channel/UCYJy6uYsUaqJo4kbxy2ng8w/featured)**, )**                                         | **Greg Salazar(**[**u**](https://www.youtube.com/c/GregSalazar/featured)**, )**                                                                     | **FView Official Channel(**[**u**](https://www.youtube.com/c/FView/featured)**, )**                                                  |
-| **Yi Wang(**[**u**](https://www.youtube.com/c/YiWang/featured)**, )**                                                              | **硬件茶谈(**[**u**](https://www.youtube.com/channel/UCYbH8CWlZkNgoE8EY0SoE3g/videos)**, **[**装机**](https://www.youtube.com/watch?v=8AJMRBjoFnQ)**, )** | **Joker Productions(**[**u**](https://www.youtube.com/user/jerzybakes420/featured)**, )**                                            |
+| **Yi Wang(**[**u**](https://www.youtube.com/c/YiWang/featured)**, )**                                                              | **硬件茶谈(**[**u**](https://www.youtube.com/channel/UCYbH8CWlZkNgoE8EY0SoE3g/videos)**,** [**装机**](https://www.youtube.com/watch?v=8AJMRBjoFnQ)**, )** | **Joker Productions(**[**u**](https://www.youtube.com/user/jerzybakes420/featured)**, )**                                            |
 | **中正评测(**[**u**](https://www.youtube.com/channel/UCojSYgmO\_EwKHNHPA9lhykA/featured)**, )**                                        | **Super Kr超极氪(**[**u**](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ)**, )**                                                            | **古哥科技頻道EthanKu’s Tech(**[**u**](https://www.youtube.com/channel/UC4ou-UFD7hd2Pu-58pwKVGg/featured)**, )**                           |
 | 阿雷科技([**u**](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ/featured), )                                                 | **科技瘾力(**[**B**](https://space.bilibili.com/99814696/)**, )**                                                                                       | 一起看科技([**u**](https://www.youtube.com/channel/UCbK8nJjja5euysRId-Gkfcw/videos), )                                                    |
 | **engadget(**[**s**](https://www.engadget.com)**, )**                                                                              | **Techquickie(**[**u**](https://www.youtube.com/c/Techquickie/featured)**, )**                                                                      | **极客湾Geekerwan(**[**u**](https://www.youtube.com/c/geekerwan%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%A5%B5%E5%AE%A2%E7%81%A3/featured)**, )**  |
