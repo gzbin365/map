@@ -24,6 +24,7 @@
 | 闲白话·闲哥　抖音号： [3D94](https://www.douyin.com/user/MS4wLjABAAAAyl-u3KHFUMIy7IG-MbKDxIf6lzy7kbQIoSHbrXSAc1g)                                                                                                                                                                                                                                                      |
 | 愚人　抖音号： [yuren1108](https://www.douyin.com/user/MS4wLjABAAAAfT5DrjqE6N-ykgKjalMds0o-ZTzpWYJIqxzIuJmU4Ms)                                                                                                                                                                                                                                                     |
 | 无聊的世杰 抖音号： [51522zzwlwlbben](https://www.douyin.com/user/MS4wLjABAAAAAG-oexuMGbRmtOSt4f7Y5fHWRnf\_W051LXBmn6ni33E)                                                                                                                                                                                                                                           |
+| 林欣浩　抖音号： [77784647154](https://www.douyin.com/user/MS4wLjABAAAAEoqdv9k1VmC6SUUiJP3WQC9TyMD5rJcN-UP6GndRWek0GZEIQaD0G2NBIng9b2KL)                                                                                                                                                                                                                             |
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +40,7 @@
 | 什么是公平？如何分配利益才能大家都满意？李永乐老师讲切蛋糕问题 [李永乐老师](https://www.youtube.com/watch?v=I8d13Jxzafk)                                                                                                                        |
 | 我到底是谁　[思想史万有引力](https://www.douyin.com/video/7031843071092477188)                                                                                                                                           |
 | <p>人在临终前最后悔的五件事 <a href="https://www.douyin.com/video/6919026319313341703">洪千辰</a></p><ol><li>没有勇气过自己真正想要的生活</li><li>真不应该那么拼命地工作</li><li>希望我有足够的勇气表达自己的感受</li><li>应该常和朋友们保持联系</li><li>真应该让自己活得更快乐</li></ol> |
-|                                                                                                                                                                                                             |
+| 最自由的4个字，就是“我不在乎” [林欣浩](https://www.douyin.com/video/7025915204437413134)                                                                                                                                    |
 
 ### 人生的意义
 
