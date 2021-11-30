@@ -2,7 +2,7 @@
 
 |                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Zig(**[**s**](https://ziglang.org)**, **[**书栈**](https://www.bookstack.cn/books/ziglang-0.7-en)**, **[**doc**](https://ziglang.org/documentation/master/)**, )** |
+| **Zig(**[**s**](https://ziglang.org)**,** [**书栈**](https://www.bookstack.cn/books/ziglang-0.7-en)**,** [**doc**](https://ziglang.org/documentation/master/)**, )** |
 | [Documentation - 搜索结果 - 书栈网](https://www.bookstack.cn/search/result?page=1\&tab=book\&wd=Documentation)                                                            |
 | 游戏大师课 [u](https://www.youtube.com/channel/UCPpDrebzulufI3G1TTeNu-g/playlists)                                                                                      |
 
@@ -217,6 +217,9 @@
 | RenPy Tutorial for Beginners \| Create a Visual Novel Game with Ren'Py [Zeil Learnings](https://www.youtube.com/watch?v=C3Ldd-5PKCw)                            |
 | Make Your Own Visual Novel! \| Ren'Py Tutorial Part 1 [Learning With B and E](https://www.youtube.com/watch?v=vith10gG8L4)                                      |
 | "Game Development in Eight Bits" by Kevin Zurawel [Strange Loop Conference](https://www.youtube.com/watch?v=TPbroUDHG0s)                                        |
+| uPokémon Coding Tutorial - CS50's Intro to Game Development [freeCodeCamp](https://www.youtube.com/watch?v=gx\_qorHxBpI)                                        |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
 
