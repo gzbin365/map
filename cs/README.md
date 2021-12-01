@@ -294,6 +294,7 @@ description: 计算机科学与技术 keep coding
 | **Why Isn't Functional Programming the Norm? – Richard Feldman(**[**u**](https://www.youtube.com/watch?v=QyJZzq0v7Z4)**, )** |
 | Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                             |
 | Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                      |
+| Rust Programming Course for Beginners - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=MsocPEZBd-M)                 |
 
 ## 并行算法
 

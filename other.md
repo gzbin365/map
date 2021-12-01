@@ -6,11 +6,11 @@
 
 **袁腾飞官方频道 Tengfei Official(**[**u**](https://www.youtube.com/c/tengfeiofficial/featured)**, ) 5分鐘DIY(**[**u**](https://www.youtube.com/c/5%E5%88%86%E9%90%98DIY/featured)**, ) 键客行(**[**u**](https://www.youtube.com/channel/UChjYHZ3yGQucOFw14BNnTqw/featured)**, )**
 
-**幻海航行--science fiction(**[**u**](https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag/featured)**, ) 科幻梦工场 **[**u**](https://www.youtube.com/channel/UCTY7QED-uxqgUtU0COknFdg)** outlooker外行員(**[**u**](https://www.youtube.com/c/outlooker%E5%A4%96%E8%A1%8C%E5%93%A1/featured)**, )**
+**幻海航行--science fiction(**[**u**](https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag/featured)**, ) 科幻梦工场** [**u**](https://www.youtube.com/channel/UCTY7QED-uxqgUtU0COknFdg) **outlooker外行員(**[**u**](https://www.youtube.com/c/outlooker%E5%A4%96%E8%A1%8C%E5%93%A1/featured)**, )**
 
-[**orwtmc**](https://space.bilibili.com/353458898)** **[**青蛙刀圣1993**](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw)** **[**脑洞乌托邦**](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ\_g/featured)** Veritasium(**[**u**](https://www.youtube.com/c/veritasium/featured)**, ) 温义飞的急救财经(**[**u**](https://www.youtube.com/channel/UCfpjlfw7KxaU7gZp038\_t8w/videos)**, )**
+[**orwtmc**](https://space.bilibili.com/353458898) **** [**青蛙刀圣1993**](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw) **** [**脑洞乌托邦**](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ\_g/featured) **Veritasium(**[**u**](https://www.youtube.com/c/veritasium/featured)**, ) 温义飞的急救财经(**[**u**](https://www.youtube.com/channel/UCfpjlfw7KxaU7gZp038\_t8w/videos)**, )**
 
-**窮奢極欲(**[**u**](https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3\_Jw/featured)**, ) 九边视频 **[**u**](https://www.youtube.com/channel/UC1W338lwo1dmkLeiYzTmSnA)** 人性洞察室(**[**u**](https://www.youtube.com/channel/UCI7uUDMlJJsH9oXrmaEkzpA/videos), ) M2档案 [**u**](https://www.youtube.com/channel/UC9HOOTENXN\_Q2AJ7eozWBXA/videos) 五件小事 [u](https://www.youtube.com/channel/UC5TSUHDDGa8mQ1aS\_S6EQnA)
+**窮奢極欲(**[**u**](https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3\_Jw/featured)**, ) 九边视频** [**u**](https://www.youtube.com/channel/UC1W338lwo1dmkLeiYzTmSnA) **人性洞察室(**[**u**](https://www.youtube.com/channel/UCI7uUDMlJJsH9oXrmaEkzpA/videos), ) M2档案 [**u**](https://www.youtube.com/channel/UC9HOOTENXN\_Q2AJ7eozWBXA/videos) 五件小事 [u](https://www.youtube.com/channel/UC5TSUHDDGa8mQ1aS\_S6EQnA)
 
 柴知道 [u](https://www.youtube.com/channel/UCQtwvRQWnT5Buh9hpvNNryQ) 三個字SunGuts [u](https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY\_MaKNg)
 
@@ -43,7 +43,7 @@
 | [**心晴网**](http://www.ixinqing.com)**心理学电子书籍**                                                                                                                |
 | [**Slant**](https://www.slant.co)**什么是最好的**                                                                                                                  |
 | [**万物皆可对比**](https://versus.com/cn)                                                                                                                          |
-| **智搜Giiso(**[**s**](https://www.giiso.com)**, **[**wb**](https://weibo.com/giiso)**, **[**简书**](https://www.jianshu.com/p/55dd6d4ed98a)**, ) 写作机器人，关键词生成文案** |
+| **智搜Giiso(**[**s**](https://www.giiso.com)**,** [**wb**](https://weibo.com/giiso)**,** [**简书**](https://www.jianshu.com/p/55dd6d4ed98a)**, ) 写作机器人，关键词生成文案** |
 | **牛片网(**[**s**](https://www.6pian.cn)**, ) 免费配音字幕**                                                                                                          |
 | **VJshi(**[**s**](https://www.vjshi.com)**, ) 可商用无版权视频素材**                                                                                                   |
 | tenor([s](https://tenor.com), ) gif图片                                                                                                                        |
@@ -55,14 +55,14 @@
 
 |                                                                                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------- | - |
-| **kickstarter(**[**s**](https://www.kickstarter.com)**, **[**wiki**](https://zh.wikipedia.org/wiki/Kickstarter)**, )产品募资** |   |
+| **kickstarter(**[**s**](https://www.kickstarter.com)**,** [**wiki**](https://zh.wikipedia.org/wiki/Kickstarter)**, )产品募资** |   |
 
 ### BT站
 
 |                                                                                                                                                                                                                |                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **btsow(**[**s**](https://btsow.digital)**, **[**s**](https://btsow.com)**, )**                                                                                                                                | [**磁力狗**](http://clg5.info)**(**[**bak**](http://ciligou.top)**)** |
-| **TorrentGalaxy(**[**s**](https://torrentgalaxy.to)**, **[**tw**](https://twitter.com/tgxsocial)**, **[**fb**](https://www.facebook.com/tgxsocial1)**, **[**ins**](https://www.instagram.com/tgxsocial)**, )** | **BitComet(比特彗星)(**[**s**](https://www.bitcomet.com/cn)**, )**     |
+| **btsow(**[**s**](https://btsow.digital)**,** [**s**](https://btsow.com)**, )**                                                                                                                                | [**磁力狗**](http://clg5.info)**(**[**bak**](http://ciligou.top)**)** |
+| **TorrentGalaxy(**[**s**](https://torrentgalaxy.to)**,** [**tw**](https://twitter.com/tgxsocial)**,** [**fb**](https://www.facebook.com/tgxsocial1)**,** [**ins**](https://www.instagram.com/tgxsocial)**, )** | **BitComet(比特彗星)(**[**s**](https://www.bitcomet.com/cn)**, )**     |
 | [**2021年十大热门BT(BitTorrent)种子网站榜单**](http://www.usbmi.com/5991.html)                                                                                                                                            |                                                                    |
 
 | OBS                                                                                                                                            |
@@ -115,5 +115,6 @@
 | 看电影背6000词 [v](https://www.douyin.com/video/6952125621543734536)                                                                                                                                                                                                                                         |
 | 为什么你的头会秃成M、C、U型？拿什么拯救你的发际线？ [柴知道](https://www.youtube.com/watch?v=Iz2Y5mtOMQU)                                                                                                                                                                                                                          |
 | 一本提高沟通能力的好书　[俞敏洪](https://www.douyin.com/video/7026668497547644198)                                                                                                                                                                                                                                     |
+| 低级快乐如何夺走你的专注力&思考力 亲测4个方法,打造大神级深度思考力&超强专注力 [心河摆渡](https://www.youtube.com/watch?v=jaxFtxrhkag)                                                                                                                                                                                                           |
 
 &#x20;自动续费套路深，看看你被坑过吗？[直男财经](https://www.douyin.com/video/7034955890868407565)
