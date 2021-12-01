@@ -4,7 +4,7 @@ description: 机器学习
 
 # ML
 
-[https://www.youtube.com/watch?v=9lifSPf1Y5o](https://www.youtube.com/watch?v=9lifSPf1Y5o)[https://www.youtube.com/watch?v=9lifSPf1Y5o](https://www.youtube.com/watch?v=9lifSPf1Y5o)[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
+[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
 
 [**AI之禅**](https://cloud.tencent.com/developer/user/3417275) [**机器之心**](https://cloud.tencent.com/developer/column/2713) [**ATYUN订阅号**](https://cloud.tencent.com/developer/column/2066) [**AI科技大本营的专栏**](https://cloud.tencent.com/developer/column/1360) [**BestSDK**](https://cloud.tencent.com/developer/column/2053) [**云+直播**](https://cloud.tencent.com/developer/column/2257)
 
@@ -499,6 +499,10 @@ LSTM
 | 隐马尔科夫模型　[Ouyang Ruofei](https://www.youtube.com/watch?v=C\_6JhFCW8II)                                                                                            |
 | 程序数学之随机过程 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB)                                                                  |
 | A friendly introduction to Bayes Theorem and Hidden Markov Models [Serrano.Academy](https://www.youtube.com/watch?v=kqSzLo9fenk)                                 |
+| 馬可夫不等式 [CUSTCourses](https://www.youtube.com/watch?v=OqF87yRw0B4)                                                                                                |
+|                                                                                                                                                                  |
+|                                                                                                                                                                  |
+|                                                                                                                                                                  |
 
 ### 因子分解机Factorization Machine, FM
 
