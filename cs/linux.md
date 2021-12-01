@@ -4,7 +4,7 @@ description: 从编程中找到快乐
 
 # Linux
 
-[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
+NeovimNeovim[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
 [**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
 
@@ -274,6 +274,24 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac) |
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)               |
 | Infrastructure as Code - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=EtEb40LE5zQ)        |
+
+## Vim
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+### Neovim
+
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://neovim.io) hyperextensible Vim-based text editor [git](https://github.com/neovim/neovim)                               |
+| Awesome Neovim Setup From Scratch - Full Guide [NeuralNine](https://www.youtube.com/watch?v=JWReY93Vl6g)                           |
+| Neovim - Your First 15 Minutes [Jake Wiesler](https://www.youtube.com/watch?v=zn\_BT56UoKs)                                        |
+| Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA) |
+|                                                                                                                                    |
 
 ## Wine
 
