@@ -277,11 +277,11 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 
 ## Vim
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| quick.nvim \| A fast, modern and reliable Neovim configuration [Albin Groen](https://www.youtube.com/watch?v=OhbgZbORFd4) |
+|                                                                                                                           |
+|                                                                                                                           |
 
 ### Neovim
 
@@ -291,7 +291,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Awesome Neovim Setup From Scratch - Full Guide [NeuralNine](https://www.youtube.com/watch?v=JWReY93Vl6g)                           |
 | Neovim - Your First 15 Minutes [Jake Wiesler](https://www.youtube.com/watch?v=zn\_BT56UoKs)                                        |
 | Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA) |
-|                                                                                                                                    |
+| my linux config more like neovim config :) [momfor](https://www.youtube.com/watch?v=\_GldsqYpYz0)                                  |
 
 ## Wine
 

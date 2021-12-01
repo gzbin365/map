@@ -59,7 +59,7 @@
 | Build your first multithreaded application - Introduction to multithreading in modern C++ [CodeBeauty](\[link]\(https:/www.youtube.com/watch)                    |
 | C++ Programming Tutorial - Build a 3-Band Compressor Audio Plugin (w/ JUCE Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Mo0Oco3Vimo)                |
 | C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours) [CodeBeauty](https://www.youtube.com/watch?v=kiUGf\_Z08RQ)                       |
-|                                                                                                                                                                  |
+| Branchless Programming: Why "If" is Sloowww... and what we can do about it! [Creel](https://www.youtube.com/watch?v=bVJ-mWWL7cE)                                 |
 
 ### 设计模式
 
