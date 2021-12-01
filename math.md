@@ -391,6 +391,7 @@ description: 用数学充实人生
 | [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                    |
 | [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star |
 | 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                       |
+| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
 
 ### 泛函分析 Functional Analysis
