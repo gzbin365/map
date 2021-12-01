@@ -61,6 +61,12 @@
 | 白毛校长 抖音号： [xingli1992](https://www.douyin.com/user/MS4wLjABAAAAK3bmhgD6\_-RLoPhRlkZC1J-hTP2S-dpD9QWKVhIJtJ8llm5r\_hAzcv-yQzTuDGq5)                                                                                                      |
 | 富妈聊楼市 抖音号： [fumalls](https://www.douyin.com/user/MS4wLjABAAAA4tSJaqSHNXZXuda9519EWOiij8aCDHSz0\_lAhn-rDywSa662pfy9A8a1xY6fWmKK)                                                                                                         |
 
+|                                                       |
+| ----------------------------------------------------- |
+| [创业](https://www.youtube.com/watch?v=fuQd3MAKFfk)　俞敏洪 |
+|                                                       |
+|                                                       |
+
 ###
 
 ### FineBI
