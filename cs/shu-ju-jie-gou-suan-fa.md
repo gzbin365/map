@@ -6,9 +6,9 @@ description: 解决问题是一种快乐
 
 topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
-**The Algorithms(**[**git**](https://github.com/TheAlgorithms)**, **[**python**](https://github.com/TheAlgorithms/Python)**, )**
+**The Algorithms(**[**git**](https://github.com/TheAlgorithms)**,** [**python**](https://github.com/TheAlgorithms/Python)**, )**
 
-**拉不拉东(**[**算法小抄**](https://labuladong.gitbook.io/algo/)**, **[**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**, **[**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong, **[**B**](https://space.bilibili.com/14089380)**, )**
+**拉不拉东(**[**算法小抄**](https://labuladong.gitbook.io/algo/)**,** [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**,** [**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong,** [**B**](https://space.bilibili.com/14089380)**, )**
 
 ## 平台
 
@@ -94,6 +94,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 算法学习知识汇总 [v](https://www.douyin.com/video/6994340509292563720)                                                                                                                                                                                                                                                                                        |
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                                                                                                                                                                                                                                                                                 |
 | 90分鐘搞懂常用演算法 奮game[王紫楓](https://www.youtube.com/playlist?list=PLhxdaTcUMi3kWdmtdRFm5XsOx8aJihSkT)                                                                                                                                                                                                                                                      |
+| 数据结构与算法javascript描述（栈、队列、链表、集合、字典、树、图）[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmgTh\_FSRzSIChwOsv7qr7v)                                                                                                                                                                                                                          |
 
 ## 排序算法 Sorting Algorithms
 

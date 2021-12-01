@@ -120,6 +120,7 @@
 | Code a Dictionary with React and Material UI - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=ToXna81iij0)                                                      |
 | 🔴 REAL TIME CHAT APP USING REACT AND SOCKET.IO IN HINDI                                                                                                                 |
 | Chat Application Tutorial With Socket.IO & React [Coding Expert](https://www.youtube.com/watch?v=8wAy\_xv8b9o)                                                           |
+| Build and Deploy a Fully Responsive Modern UI/UX Website in React JS [JavaScript Mastery](https://www.youtube.com/watch?v=LMagNcngvcU)                                   |
 
 ### Next.js
 

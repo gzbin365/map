@@ -5,6 +5,7 @@
 | **Zig(**[**s**](https://ziglang.org)**,** [**书栈**](https://www.bookstack.cn/books/ziglang-0.7-en)**,** [**doc**](https://ziglang.org/documentation/master/)**, )** |
 | [Documentation - 搜索结果 - 书栈网](https://www.bookstack.cn/search/result?page=1\&tab=book\&wd=Documentation)                                                            |
 | 游戏大师课 [u](https://www.youtube.com/channel/UCPpDrebzulufI3G1TTeNu-g/playlists)                                                                                      |
+| CNET Highlights [u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/videos)                                                                              |
 
 ## MongoDB
 

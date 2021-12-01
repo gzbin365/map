@@ -60,18 +60,20 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 
 ## 亚马逊
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| AWS Tutorials [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaiCYWnEMdQvldmXrdUOmv)                      |
-| Get started with AWS Lambda [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)        |
-| AWS Basics for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ulprqHHWlng)                              |
-| Deploy 12 apps to AWS, Azure, & Google Cloud [freeCodeCamp](https://www.youtube.com/watch?v=-ANCcFQBk6I)                        |
-| AWS Certified Cloud Practitioner Training 2020 - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)        |
-| AWS Certified Developer - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)           |
-| Terraform Course - Automate your AWS cloud infrastructure [freeCodeCamp](https://www.youtube.com/watch?v=SLB\_c\_ayRMo)         |
-| AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s) |
-| Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)           |
-| Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)                                                           |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| AWS Tutorials [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaiCYWnEMdQvldmXrdUOmv)                                   |
+| Get started with AWS Lambda [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)                     |
+| AWS Basics for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ulprqHHWlng)                                           |
+| Deploy 12 apps to AWS, Azure, & Google Cloud [freeCodeCamp](https://www.youtube.com/watch?v=-ANCcFQBk6I)                                     |
+| AWS Certified Cloud Practitioner Training 2020 - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)                     |
+| AWS Certified Developer - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)                        |
+| Terraform Course - Automate your AWS cloud infrastructure [freeCodeCamp](https://www.youtube.com/watch?v=SLB\_c\_ayRMo)                      |
+| AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)              |
+| Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)                        |
+| AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc) |
+| Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)                                                                        |
+|                                                                                                                                              |
 
 |                                                          |                                           |
 | -------------------------------------------------------- | ----------------------------------------- |
