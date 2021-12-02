@@ -44,6 +44,7 @@ description: 用数学充实人生
 | 心一学长　[ｕ](https://www.youtube.com/watch?v=tXHiLNNws6I)                                                                                                                                                     | 小卒數理學堂 [u](https://www.youtube.com/channel/UC-I9at8StRyFScwTnE\_OiCg)                                                                                                                                                                                                                                                                                                                                                                                   |
 | Illinois Dept. of Math [u](https://www.youtube.com/watch?v=1TGtjh01loY)                                                                                                                                   | Center for Dynamical Biomarkers [u](https://www.youtube.com/channel/UCS3sW5pzxY0FTXK13plwnyA/playlists)                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                           | 工程师和小土豆 [u](https://www.youtube.com/watch?v=EOjjbjrlRyU)                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                           | Two Angles [u](https://www.youtube.com/channel/UCVjIqPiO9atxJ-tWCIf6ywA/videos)                                                                                                                                                                                                                                                                                                                                                                         |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -528,11 +529,11 @@ $$
 
 ### 平面几何
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| 几何瑰宝：平面几何500名题暨1000条定理 [bdy](https://pan.baidu.com/s/13AMrmyFqZBcKXMVaoFQ4dw#list/path=%2F) |
-|                                                                                             |
-|                                                                                             |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 几何瑰宝：平面几何500名题暨1000条定理 [bdy](https://pan.baidu.com/s/13AMrmyFqZBcKXMVaoFQ4dw#list/path=%2F)                                                  |
+| 双曲几何 Why Hyperbolic Geometry? \| A Case Study in Linear Fractional Transformations [Two Angles](https://www.youtube.com/watch?v=udF8WHOZJYE) |
+|                                                                                                                                              |
 
 ### 立体几何
 

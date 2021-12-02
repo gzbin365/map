@@ -95,6 +95,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                                                                                                                                                                                                                                                                                 |
 | 90分鐘搞懂常用演算法 奮game[王紫楓](https://www.youtube.com/playlist?list=PLhxdaTcUMi3kWdmtdRFm5XsOx8aJihSkT)                                                                                                                                                                                                                                                      |
 | 数据结构与算法javascript描述（栈、队列、链表、集合、字典、树、图）[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmgTh\_FSRzSIChwOsv7qr7v)                                                                                                                                                                                                                          |
+| 数据结构与算法 [从0开始数](https://www.youtube.com/playlist?list=PLkl2qqmYigA60rBjPyms\_7kjMvVy3gSAK)                                                                                                                                                                                                                                                            |
 
 ## 排序算法 Sorting Algorithms
 
