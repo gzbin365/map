@@ -224,6 +224,7 @@ description: 机器学习
 | 机器学习（Machine Learning）吴恩达（Andrew Ng）[la fe](https://www.youtube.com/playlist?list=PLOXON7BTL9IW7Ggbc09jLqGmzkwPI4-3V)                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | EE104: Introduction to Machine Learning [**stanfordonline**](https://www.youtube.com/playlist?list=PLoROMvodv4rN\_Uy7\_wmS051\_q1d6akXmK)                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Stanford CS330: Deep Multi-Task and Meta Learning [**stanfordonline**](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Meta Learning [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2)                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019 [**stanfordonline**](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)                                                                                                                                                                                                                                                                                                                                                                    |
 | Machine Learning for Computational Fluid Dynamics [Steve Brunton](https://www.youtube.com/watch?v=IXMSOSEj14Q)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | CS230: Deep Learning \| Autumn 2018 [**stanfordonline**](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G\_YQhOb)                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -541,11 +542,11 @@ LSTM
 
 ### 机器学习自动化调参
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| 机器学习自动化调参 [Ouyang Ruofei](https://www.youtube.com/watch?v=xcW0qYNyaQQ) |
-|                                                                        |
-|                                                                        |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| 机器学习自动化调参 [Ouyang Ruofei](https://www.youtube.com/watch?v=xcW0qYNyaQQ)                                                        |
+| 神经网络结构搜索 Neural Architecture Search [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns3\_5ONDa-EnTZgIO41\_hXf) |
+|                                                                                                                               |
 
 ### A/B testing
 

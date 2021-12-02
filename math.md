@@ -879,6 +879,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 信息安全概论（密码学）[电子工程世界](http://training.eeworld.com.cn/course/4080) 共48课时 1天10小时44分43秒                                                             |
 | Cryptography [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUyoyOQ\_2dCvr5GPi5w\_T7)                                    |
 | 实用密码学 [极客时间](https://time.geekbang.org/column/intro/369)                                                                                       |
+| 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                  |
 
 ### 哈希
 
@@ -946,11 +947,16 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## Famous Unsolved Problems
 
-|                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)               |
-| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf) |
-| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                       |
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)                                                      |
+| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf)                                        |
+| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                              |
+| <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p> |
+| 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                              |
+| 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                         |
+| 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                  |
+| 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                     |
 
 ## 数学家/名人
 
