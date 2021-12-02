@@ -42,7 +42,8 @@ description: 用数学充实人生
 | 跟小胖学数学 抖音号： [lilaoshi063](https://www.douyin.com/user/MS4wLjABAAAAH828EJ13HFiuS0xHFa101XQJxlkQH9tOJRDCgxLmBtL5LJ2MgGfLGfvNAPYcePlV)                                                                       | 数学包　抖音号： [gksxth](https://www.douyin.com/user/MS4wLjABAAAAce58kfCBQV7WtgzgEcax7txNBGDRDbr\_6Px6IiXz95-kA4Y4q9bPqCkJ3upSqZLo)                                                                                                                                                                                                                                                                                                                            |
 | Brian Douglas [u](https://www.youtube.com/user/ControlLectures/playlists)                                                                                                                                 | Complexity Explorer [u](https://www.youtube.com/user/ComplexityExplorer/playlists)                                                                                                                                                                                                                                                                                                                                                                      |
 | 心一学长　[ｕ](https://www.youtube.com/watch?v=tXHiLNNws6I)                                                                                                                                                     | 小卒數理學堂 [u](https://www.youtube.com/channel/UC-I9at8StRyFScwTnE\_OiCg)                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                           | Center for Dynamical Biomarkers [u](https://www.youtube.com/channel/UCS3sW5pzxY0FTXK13plwnyA/playlists)                                                                                                                                                                                                                                                                                                                                                 |
+| Illinois Dept. of Math [u](https://www.youtube.com/watch?v=1TGtjh01loY)                                                                                                                                   | Center for Dynamical Biomarkers [u](https://www.youtube.com/channel/UCS3sW5pzxY0FTXK13plwnyA/playlists)                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                           | 工程师和小土豆 [u](https://www.youtube.com/watch?v=EOjjbjrlRyU)                                                                                                                                                                                                                                                                                                                                                                                                |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -77,17 +78,17 @@ description: 用数学充实人生
 
 ## 初中
 
-|                                                                                                                                       |                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto) |
-|                                                                                                                                       |                                                                                                           |
-|                                                                                                                                       |                                                                                                           |
+|                                                                                                                                       |                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
+|                                                                                                                                       | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
+|                                                                                                                                       |                                                                                                                |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
 | 有关初等数学及竞赛的电子书 [s](http://ct.vpan123.com/d/13683671.html)                                                            |
 | 数学竞赛资料吧 [百度贴吧](https://tieba.baidu.com/f?kw=%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%84%E6%96%99\&ie=utf-8\&pn=0) |
-|                                                                                                                     |
+| 胡不归问题　老袁的思维[课堂](https://www.douyin.com/video/6983139785678277928)                                                   |
 
 ## 高中
 
@@ -184,6 +185,7 @@ description: 用数学充实人生
 | Primitive Roots Modulo n [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqx1bbzG\_-BYd0P6Gbe\_\_lHr)                                        |
 | Chinese Remainder Theorem [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyg3TEfDGsWoMQgWMUMjYhl)                                          |
 | The Dilogarithm [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwcLlI-HXw15sPytjIJbDwY)                                                    |
+| 如何心算某天是星期几？蔡勒公式与康威末日算法 [妈咪说MommyTalk](https://www.youtube.com/watch?v=4-5F1onYzHc)                                                                          |
 
 #### 素数 **Primes**
 
@@ -329,13 +331,14 @@ description: 用数学充实人生
 | Interesting Sums [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzPZMoadNZRRfKkks48-m64)                                                                                                                                                            |
 | Interesting Limits [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyEcWyjC6hPEvHtYsw8X5jp)                                                                                                                                                          |
 | 可视化黎曼zeta函数和解析延拓 [3Blue1Brown](https://www.youtube.com/watch?v=sD0NjbwqlYw)                                                                                                                                                                                          |
-| 偏导数的几何含义　[v](https://www.douyin.com/video/7004453751079636261)                                                                                                                                                                                                       |
+| 偏导数的几何含义　[数学救火队长马丁](https://www.douyin.com/video/7004453751079636261)                                                                                                                                                                                                |
 
-|                    欧拉公式                    |
-| :----------------------------------------: |
-| 欧拉公式是怎么来的？欧拉的灵感从何而来？探索欧拉公式的由来 妈咪说MommyTalk |
-|        $$e^{ix} = cos(x)+i*sin(x)$$​       |
-|             $$e^{i\pi}+1 =0$$​             |
+|                                                      欧拉公式                                                     |
+| :-----------------------------------------------------------------------------------------------------------: |
+|                                   欧拉公式是怎么来的？欧拉的灵感从何而来？探索欧拉公式的由来 妈咪说MommyTalk                                  |
+| The Most Beautiful Equation in Math Carnegie [Mellon University](https://www.youtube.com/watch?v=IUTGFQpKaPU) |
+|                                         $$e^{ix} = cos(x)+i*sin(x)$$​                                         |
+|                                               $$e^{i\pi}+1 =0$$​                                              |
 
 
 
@@ -444,6 +447,16 @@ description: 用数学充实人生
 | CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U) |
 |                                                                                                                                 |
 
+### 大数定律和中心极限定理
+
+大数定律: 样本越多，估计越准．
+
+中心极限定理（描述样本均值的分布）：当样本量越大，样本均值服从正态分布
+
+　　１．中心极限定理对总体分布不做要求
+
+　　２．经验：一般来说样本量达到30的时候，我们就可以说样本均值趋向于正态分布
+
 ### 贝叶斯　Bayes theorem
 
 |                                                                                                                     |
@@ -485,7 +498,9 @@ $$
 | --------------------------------------------------------------------------------------------------- | - |
 | [Markov Chain](https://www.youtube.com/playlist?list=PLANMHOrJaFxPMQCMYcYqwOCYlreFswAKP) patrickJMT |   |
 
-### 有限元分析 Finite Element Analysis
+### 有限元分析 Finite Element
+
+### &#x20;Analysis
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -937,14 +952,16 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## 数学家/名人
 
-| 韦东奕                                                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “数学天才”韦东奕 [人性洞察室](https://www.youtube.com/watch?v=bEcqTWZIIL4)                                                                                                                                                                                |
-| 大家感受一下！韦东奕上习题科的样子。[莎莎剧场](https://www.youtube.com/watch?v=XlUDvm2id80)                                                                                                                                                                         |
-| “北大天才”韦东奕：13年前采访视频曝光，个性十足。[莎莎剧场](https://www.youtube.com/watch?v=eh0T4kuw9Io)                                                                                                                                                                 |
-| <p>拒绝百万奖金的天才数学家 <a href="https://www.douyin.com/video/7015149907686280478">上</a> <a href="https://www.douyin.com/video/7015151440926706957">下</a> 庞家来猜想 俄罗斯传奇数学家</p><p>俄罗斯传奇数学家　格里戈里.佩雷尔曼 Grisha Perelman</p><p>庞家来猜想(实际更广的Thurston几何化猜想)</p> |
-|                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                               |
+| 韦东奕                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| “数学天才”韦东奕 [人性洞察室](https://www.youtube.com/watch?v=bEcqTWZIIL4)                                                                                                                                                                                                                                                                                                                                                  |
+| 大家感受一下！韦东奕上习题科的样子。[莎莎剧场](https://www.youtube.com/watch?v=XlUDvm2id80)                                                                                                                                                                                                                                                                                                                                           |
+| “北大天才”韦东奕：13年前采访视频曝光，个性十足。[莎莎剧场](https://www.youtube.com/watch?v=eh0T4kuw9Io)                                                                                                                                                                                                                                                                                                                                   |
+| <p>拒绝百万奖金的天才数学家 <a href="https://www.douyin.com/video/7015149907686280478">上</a> <a href="https://www.douyin.com/video/7015151440926706957">下</a> 庞家来猜想 俄罗斯传奇数学家</p><p>俄罗斯传奇数学家　格里戈里.佩雷尔曼 Grisha Perelman</p><p>庞家来猜想(实际更广的Thurston几何化猜想)</p><p>拒绝菲尔兹奖，放弃百万美元奖金，只想回乡下当宅男 <a href="https://www.douyin.com/video/6970926855490653476">dy</a> <a href="https://www.youtube.com/watch?v=PGH9JC6br-0">u</a> 天才简史</p> |
+|                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 天才简史 [u](https://www.youtube.com/channel/UCWUpR9fQRRRdk0HgjqE27tg/videos)                                                                                                                                                                                                                                                                                                                                       |
+| 哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？[妈咪说MommyTalk](https://www.youtube.com/watch?v=FVZaOTi6ZbE)                                                                                                                                                                                                                                                                                                                       |
+| 大神哥德尔：知道他名字的人，已经不简单了！【[天才简史](https://www.youtube.com/watch?v=a1sA5G9uBo8\&list=PLSm-qSrgYJ0WSY1M\_wnIH3m5tCsiXAWU\_)】                                                                                                                                                                                                                                                                                           |
 
 ## 其他
 
