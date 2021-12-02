@@ -10,49 +10,50 @@ description: 机器视觉
 
 ## 综合
 
-|                                                                                       |          |
-| ------------------------------------------------------------------------------------- | -------- |
-| \*\*\*\*[**Paper\_Reading\_List**](https://github.com/ArcherFMY/Paper\_Reading\_List) | \*\*\*\* |
+|                                                                               |   |
+| ----------------------------------------------------------------------------- | - |
+| [**Paper\_Reading\_List**](https://github.com/ArcherFMY/Paper\_Reading\_List) |   |
 
 |                                                                              |                                                                                                                        |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| \*\*\*\*[**极市平台**](https://bbs.cvmart.net)                                   | \*\*\*\*                                                                                                               |
+| [**极市平台**](https://bbs.cvmart.net)                                           |                                                                                                                        |
 | **Supervisely(**[**u**](https://www.youtube.com/c/Supervisely/videos)**, )** | **ComputerVisionFoundation Videos(**[**u**](https://www.youtube.com/channel/UC0n76gicaarsN\_Y9YShWwhw/featured)**, )** |
 | ROBOTFIST [u](https://www.youtube.com/channel/UCwKTfvBGEKSXEdRlk2cS4Lg)      |                                                                                                                        |
 
 ## UP主
 
-|                                                                                                       |                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                |
-| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
-|                                                                                                       | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                       |
+|                                                                                                       |                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                    |
+| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**     |
+|                                                                                                       | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                           |
+|                                                                                                       | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) |
 
-\*\*[**faceai**](https://github.com/vipstone/faceai) \*\*一款入门级的人脸、视频、文字检测以及识别的项目
+[**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
 ## 课程
 
-|                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                   |
-| CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)                                                                                                                    |
-| Convolutional Neural Networks for Visual Recognition - Fei Fei Li \| Stanford University [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig)                             |
-| Full Stack Computer Vision Tutorial with Tensorflow, Python\*\*([**Nicholas Renotte**](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr))\*\*                                           |
-| 曲线高级用法【[裹小脚的大叔](https://www.bilibili.com/video/BV1NJ411C7rs/?spm\_id\_from=333.788.recommend\_more\_video.-1)】08:10                                                                                             |
-| **遥感数字图像处理-朱文泉（北京师范大学）**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbU-5g3y4Bd4Eboqsbp1Whv)\*\*\*\*                                                                                     |
-| \*\*Computer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD) \*\* |
-| Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                                   |
-| 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                             |
-| 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                            |
-| Advanced Computer Vision with Python - Full Course [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU\_NvOY) 6：40：40                                                                                     |
-| Images [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf8Ui5124JnEGKGA7QG87ru)                                                                                                             |
-| RGB Colour Mixer Application [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf-epdo0malavLMhL-CCrST)                                                                                       |
-| Introduction to Computer Vision \| [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK\_kB\_RUkuxQBlCm)                                                                                        |
-| Why do computers use RGB for colors, and not RBY? [Fireship](https://www.youtube.com/watch?v=B1t4Fjlomi8)                                                                                                       |
-| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                           |
-| Introductory python tutorials for image processing [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)                                                                     |
-| Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf)                                                                                  |
-|                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                         |
+| CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)                                                                                                          |
+| Convolutional Neural Networks for Visual Recognition - Fei Fei Li \| Stanford University [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig)                   |
+| Full Stack Computer Vision Tutorial with Tensorflow, Python　([**Nicholas Renotte**](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr))                                        |
+| 曲线高级用法【[裹小脚的大叔](https://www.bilibili.com/video/BV1NJ411C7rs/?spm\_id\_from=333.788.recommend\_more\_video.-1)】08:10                                                                                   |
+| **遥感数字图像处理-朱文泉（北京师范大学）**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbU-5g3y4Bd4Eboqsbp1Whv)                                                                                   |
+| Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD) |
+| Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                         |
+| 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                   |
+| 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                  |
+| Advanced Computer Vision with Python - Full Course [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU\_NvOY) 6：40：40                                                                           |
+| Images [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf8Ui5124JnEGKGA7QG87ru)                                                                                                   |
+| RGB Colour Mixer Application [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf-epdo0malavLMhL-CCrST)                                                                             |
+| Introduction to Computer Vision \| [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK\_kB\_RUkuxQBlCm)                                                                              |
+| Why do computers use RGB for colors, and not RBY? [Fireship](https://www.youtube.com/watch?v=B1t4Fjlomi8)                                                                                             |
+| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                 |
+| Introductory python tutorials for image processing [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)                                                           |
+| Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf)                                                                        |
+|                                                                                                                                                                                                       |
 
 | pillow                                                             |                                                 |   |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - | - |
@@ -75,7 +76,7 @@ description: 机器视觉
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) ProgrammingKnowledge                                                     |
-| [**OpenCV 3 Hour Course**](https://www.youtube.com/watch?v=dqScBVWKOR8)** linuxhint**                                                                                                     |
+| [**OpenCV 3 Hour Course**](https://www.youtube.com/watch?v=dqScBVWKOR8) **linuxhint**                                                                                                     |
 | Image Processing - OpenCV and Matlab - Training \| Projects - [Pantech E Learning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdVbL\_xMvQP6SP4Mg0xyyvM)                             |
 | OpenCV基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9uc-vOHNUvJXy6g4h3H4u2X)                                                                                                |
 | OpenCV with Python for Image and Video Analysis [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)                                                       |
@@ -107,7 +108,7 @@ description: 机器视觉
 
 |                                                                                                                                                                                              |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Detectron2(**[**git**](https://github.com/facebookresearch/detectron2)**, **[**Model Zoo and Baselines**](https://github.com/facebookresearch/detectron2/blob/master/MODEL\_ZOO.md)**, )** | \*\*\*\* |
+| **Detectron2(**[**git**](https://github.com/facebookresearch/detectron2)**,** [**Model Zoo and Baselines**](https://github.com/facebookresearch/detectron2/blob/master/MODEL\_ZOO.md)**, )** | \*\*\*\* |
 | **MaskRcnn-benchmark(**[**git**](https://github.com/facebookresearch/maskrcnn-benchmark/)**, )**                                                                                             | \*\*\*\* |
 
 ### 分割
