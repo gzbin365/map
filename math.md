@@ -425,6 +425,7 @@ description: 用数学充实人生
 | 变分法(PengTitus) [Pharaohsxh](https://www.youtube.com/playlist?list=PL090BE404EFE679E9) [Mark Song](https://www.youtube.com/playlist?list=PLvg2RutqSPrLvR7z5B3SdeYUnjWkm2Ygo) |
 | 变分法基础 [Wenlong Li](https://www.youtube.com/playlist?list=PLsWSH3tyoIE5eKzrzD-y1sPi2BDU2Kzfe)                                                                                |
 | 变分法课程全集 [阿尔伯特oxo爱因斯坦](https://www.bilibili.com/video/BV1Jv41147Q4?from=search\&seid=3721252605974714008) 1：34：44                                                            |
+| Variational Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoN\_6X932U\_-ZlHKdInFrUV)                                                                     |
 
 ## 概率 & 统计
 
