@@ -185,9 +185,10 @@ description: 计算机科学与技术 keep coding
 | 阿里云RDS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbTViwIQUj0Abs6948HZeIS)              | 阿里云安全 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZlGLZcxLCx0gpTA11SGqIz)             |
 | 阿里云专家带你玩转DevOps [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyG9wbLyrn5qYBOfvY\_891O) | 阿里云云上常见架构设计及优化 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwQNUlHxyeAxQX1GUr2UO9O) |
 
-| 腾讯云                                                                                            |   |
-| ---------------------------------------------------------------------------------------------- | - |
-| 腾讯云云端运维课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwRx-KGtbVtqFhBvM-wMTzE) |   |
+| 腾讯云                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 腾讯云云端运维课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwRx-KGtbVtqFhBvM-wMTzE)                       |
+| Amazing Free VPS (4CPU 24GB Ram) Oracle Quick Setup Tutorial [IdeaSpot](https://www.youtube.com/watch?v=g7sP33QtuxM) |
 
 ## 视频
 

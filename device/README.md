@@ -45,9 +45,9 @@ description: 硬件设备
 | Arduino FreeRTOS Tutorials [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbpujtnhn5LRPvYYj\_WqbiZ)                       |
 | Arduino Engineering Kit Videos [u2b](https://www.youtube.com/playlist?list=PLAnYjDlRTdcURwtFsIkWyNgTzKhxY7DBo)                                     |
 | Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc) |
-|                                                                                                                                                    |
-|                                                                                                                                                    |
-|                                                                                                                                                    |
+| Top 10 Arduino Projects 2020 \| Awesome Idea for winning Science Project [TecH BoyS ToyS](https://www.youtube.com/watch?v=gXF0VDY7DHI)             |
+| 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
+| Top 5 most fantastic Pcs that Iron Man should have 🔥                                                                                              |
 |                                                                                                                                                    |
 
 ## **Raspberry Pi**
@@ -70,6 +70,9 @@ description: 硬件设备
 | How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                |
 | my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                         |
 | Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                      |
+| 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                          |
+| Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                   |
+|                                                                                                                                                                                                  |
 
 ## Orange Pi
 
@@ -301,6 +304,14 @@ description: 硬件设备
 | 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５ |
 | 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)      |
 
+## 手工
+
+|                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
+| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
+|                                                                                                                                      |
+
 ## 机器人 Robot
 
 |                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                              |
@@ -326,6 +337,14 @@ description: 硬件设备
 | Sony toio可编程机器人 [v](https://www.douyin.com/video/7001428357162224909)                                                                                     |
 | Can we simulate a real robot? [sentdex](https://www.youtube.com/watch?v=phTnbmXM06g) Bittle                                                               |
 |                                                                                                                                                           |
+
+### 机械臂 Robot Arm
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ### ROS
 
