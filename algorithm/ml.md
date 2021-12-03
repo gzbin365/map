@@ -491,6 +491,7 @@ LSTM
 | Monte Carlo Tree Search (MCTS) Tutorial [Fullstack Academy](https://www.youtube.com/watch?v=Fbs4lnGLS8M)                                       |
 | 蒙特卡洛 Monte Carlo [Shusen Wang](https://www.youtube.com/watch?v=XRGquU0ZJok)                                                                    |
 | Monte Carlo Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYq2SLTHO2ptmx-cChbE5GBm)                                          |
+| 数学\_蒙地卡罗法和Buffon needle简介 [PengTitus](https://www.youtube.com/watch?v=symRPdGSPNM)                                                             |
 
 ### 马尔可夫 马尔科夫 Markov
 
@@ -508,7 +509,7 @@ LSTM
 | Finite Math: Introduction to Markov Chains [Brandon Foltz](https://www.youtube.com/watch?v=tYaW-1kzTZI)                                                                                                                                                    |
 | 馬可夫鏈基礎1 [Chen Kiwii](https://www.youtube.com/watch?v=8qMMd6hqLhA) 馬可夫鏈進階1 [Chen Kiwii](https://www.youtube.com/watch?v=-PYvmSFy8rY)                                                                                                                        |
 | Hidden Markov Model [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoc9LN241WKqLPuggfSBBpt)                                                                                                                                                        |
-|                                                                                                                                                                                                                                                            |
+| 程序数学之随机过程 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB)                                                                                                                                                            |
 |                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                            |
