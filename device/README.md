@@ -25,7 +25,7 @@ description: 硬件设备
 | **Kotai Electronics Pvt. Ltd.(**[**u**](https://www.youtube.com/c/MyElectronicsLab/featured)**, )**                                                                        |                                                                                        |
 | **JayzTwoCents(**[**u**](https://www.youtube.com/c/Jayztwocents/featured)**, )**                                                                                           | **修客(**[**u**](https://www.youtube.com/channel/UCZoE5OhPeozu88vfPDcy3NQ/videos)**, )** |
 | **THE ELECTRONIC GUY(**[**u**](https://www.youtube.com/c/THEELECTRONICGUY/featured)**, )**                                                                                 | **NDA Hack(**[**u**](https://www.youtube.com/c/NDAHack/featured)**, )**                |
-| **DIY with Ben(**[**u**](https://www.youtube.com/c/DIYProjectsideas/playlists)**, )**                                                                                      |                                                                                        |
+| **DIY with Ben(**[**u**](https://www.youtube.com/c/DIYProjectsideas/playlists)**, )**                                                                                      | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                      |
 
 ## 计算机硬件
 
@@ -219,6 +219,7 @@ description: 硬件设备
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Create PCBs for Rapid Prototyping [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRVK1RpHIjyjuTxn5srz6XM) |
+| maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                                                      |
 
 ## Xilinx
 
