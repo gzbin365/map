@@ -78,6 +78,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | **DistroTube(**[**u**](https://www.youtube.com/c/DistroTube/playlists)**, )**                                                                 | **tutoriaLinux(**[**s**](https://tutorialinux.com)**,** [**u**](https://www.youtube.com/c/tutoriaLinux/playlists)**,** [**tw**](https://twitter.com/tutorialinux)**,** [**fb**](https://www.facebook.com/tutorialinux)**, )** |
 | **linuxhint(**[**u**](https://www.youtube.com/c/linuxhint/featured)**, )**                                                                    | **Average Linux User(**[**u**](https://www.youtube.com/c/AverageLinuxUser/featured)**, )**                                                                                                                                    |
 | Byte of Linux [u](https://www.youtube.com/channel/UClv29BapYRCyv5jaDQdKhZA)                                                                   | EF - Linux Made Simple [u](https://www.youtube.com/channel/UCX\_WM2O-X96URC5n66G-hvw)                                                                                                                                         |
+|                                                                                                                                               | FreeCoder [u](https://www.youtube.com/channel/UC8OGDmnyMgYOPgpnFJYUiGg/videos)                                                                                                                                                |
 
 | 输入法                                                                                         |   |
 | ------------------------------------------------------------------------------------------- | - |
@@ -102,7 +103,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Linux Tutorial for Beginners: Introduction to Linux Operating System [Guru99](https://www.youtube.com/watch?v=V1y-mbWM3B8)                               |
 | Linux经验技巧系列 [心灵手不巧](https://www.youtube.com/playlist?list=PLwYr3g44GVvF-WxXeEC7vDcA2-MNgSVX6)                                                            |
 | Linux Leonard [Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHsjt3sagYb30SWEsUG6NGvE)                                                          |
-|                                                                                                                                                          |
+| 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                        |
 |                                                                                                                                                          |
 |                                                                                                                                                          |
 |                                                                                                                                                          |

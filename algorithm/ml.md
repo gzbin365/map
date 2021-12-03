@@ -549,6 +549,16 @@ LSTM
 | 神经网络结构搜索 Neural Architecture Search [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns3\_5ONDa-EnTZgIO41\_hXf) |
 |                                                                                                                               |
 
+
+
+### 机器学习可解释性
+
+|                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| CVPR'20 Interpretable Machine Learning Tutorial [Bolei Zhou](https://www.youtube.com/playlist?list=PLySQw\_vQ73PzrWcY5W8HRNfr0aJQkyahl) |
+|                                                                                                                                         |
+|                                                                                                                                         |
+
 ### A/B testing
 
 |                                                                                                                           |

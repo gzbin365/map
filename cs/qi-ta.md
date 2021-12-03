@@ -56,6 +56,9 @@
 | C#面向对象编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZua233HcOd75clOKUdzcQL)                                        |
 | Create a C# Application from Start to Finish - Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=wfWxdh-\_k\_4)      |
 | Programming for Beginners - How to Code Tutorial with Python and C# [freeCodeCamp](https://www.youtube.com/watch?v=\_\_izua1kKeI) |
+| 【C#】3小时初级教程 ｜Csharp ｜ C# 编程 ｜ C# 入门 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=T9BeejD3i0g)                              |
+|                                                                                                                                   |
+|                                                                                                                                   |
 
 ## php
 
