@@ -31,6 +31,7 @@
   * [GANs](algorithm/gans.md)
   * [自动驾驶](algorithm/zi-dong-jia-shi.md)
   * [推荐](algorithm/tui-jian.md)
+  * [搜索](algorithm/sou-suo.md)
   * [量化](algorithm/liang-hua.md)
   * [区块链](algorithm/crypto-and-blockchain.md)
 * [Device](device/README.md)
