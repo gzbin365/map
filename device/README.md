@@ -38,6 +38,7 @@ description: 硬件设备
 |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Arduino(**[**u**](https://www.youtube.com/c/Arduino/featured)**, )**                                                                             |
+| Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA)                                                                  |
 | ESP32 + Arduino [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU)                                       |
 | Arduino Course for Beginners - Open-Source Electronics Platform [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX\_fLU)                       |
 | Arduino Project to Product [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1\_j\_8)                                  |
@@ -47,8 +48,8 @@ description: 硬件设备
 | Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc) |
 | Top 10 Arduino Projects 2020 \| Awesome Idea for winning Science Project [TecH BoyS ToyS](https://www.youtube.com/watch?v=gXF0VDY7DHI)             |
 | 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
-| Top 5 most fantastic Pcs that Iron Man should have 🔥                                                                                              |
-|                                                                                                                                                    |
+| Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
+| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc) |
 
 ## **Raspberry Pi**
 

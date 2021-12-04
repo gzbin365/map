@@ -84,6 +84,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | Microwave Theory and Techniques [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dcxLJgO0uzQ0Sad-57w37u) |
+| 西安电子科技大学 微波原理 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CAwZ0aCngyw1fopVLzyGAc6)                           |
 
 ## 光
 
@@ -122,7 +123,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Fluid Dynamics [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)            |
 | 流体力学机器学习 [爱可可-爱生活](https://www.bilibili.com/video/BV1e5411V7f6/?spm\_id\_from=333.788.recommend\_more\_video.-1)    |
 | 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |
-|                                                                                                                     |
+| 边界层理论 天津大学 董明 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDXLZFs1PTypISLHZK\_IpSF)             |
 |                                                                                                                     |
 
 ## 核电

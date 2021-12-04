@@ -340,6 +340,7 @@
 | pixeldev [u](https://www.youtube.com/channel/UCPL6vblDDW2pcE5a-P0LesQ/playlists) [Pyautogui](https://www.youtube.com/playlist?list=PLsaLbFPkNd547w3MQz5Z3Fx8O7qkNSdwr) |
 | 用pyautogui做个解压神器(python 编程)--make a game bot by pyautogui [T\&W 电脑帮](https://www.youtube.com/watch?v=2Pm1O0J5Sz8)                                                      |
 | Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016 [SF Python](https://www.youtube.com/watch?v=dZLyfbSQPXI)                                            |
+| Python Automation Tutorial – How to Automate Tasks for Beginners \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx\_U)                           |
 
 [All Top 40 Python Libraries EXPLAINED in 20 minutes](https://www.youtube.com/watch?v=-29x\_deQQus)
 
