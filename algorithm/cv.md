@@ -6,7 +6,7 @@ description: 机器视觉
 
 ![](../.gitbook/assets/Lenna.jpg)
 
-[lenn](http://www.lenna.org)
+[lenna](http://www.lenna.org)
 
 ## 综合
 
