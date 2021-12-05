@@ -328,6 +328,8 @@ description: 计算机科学与技术 keep coding
 21天学通 C++（第8版）\_带目录.pdf
 {% endfile %}
 
+程序员的数学三本书 [git](https://github.com/leeJustice/programmer\_math)
+
 ## 计算机竞赛
 
 |                                                                          |
