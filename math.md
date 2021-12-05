@@ -473,8 +473,23 @@ description: 用数学充实人生
 | 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                      |
 
 $$
-P(A|B) =P(A) \dfrac{P(B|A)}{P(B)}
+P(A|B)=P(A) \dfrac{P(B|A)}{P(B)}
 $$
+
+$$
+P(A|B)=\dfrac{P(B|A)P(A)}{P(B)}
+$$
+
+| 贝叶斯推断 Bayesian inference                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| $$P(\theta|D)=\dfrac{P(D|\theta)P(\theta)}{P(D)}$$                                                                                    |
+| $$D$$:观测数据                                                                                                                            |
+| $$\theta$$:模型参数                                                                                                                       |
+| $$P(\theta)$$:先验prior                                                                                                                 |
+| $$P(D|\theta)$$:似然likelihood                                                                                                          |
+| $$P(\theta|D)$$:后验posterior                                                                                                           |
+| 3.5 马尔可夫链蒙特卡洛方法｜随机过程｜程序员数学 [Jomy King](https://www.youtube.com/watch?v=nv5HHfsv7h8\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=5) |
+| 给定观测数据和先验信息，求后验分布. 也就是用似然去修正先验的猜测                                                                                                     |
 
 ### 数理统计 Mathematical Statistics
 

@@ -230,6 +230,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Learn Docker [Refactored](https://www.youtube.com/playlist?list=PLWi3Ex6e1xitlPVqrYB0r8e1EhfVPfiJG)                                                       |
 | Docker Tutorial for Beginners \[FULL COURSE in 3 Hours] [TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)                                |
 | Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers [freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo) |
+| Top 8 Docker Best Practices for using Docker in Production [TechWorld with Nana](https://www.youtube.com/watch?v=8vXoMqWgbQQ)                             |
+| you need to learn Docker RIGHT NOW!! // Docker Containers 101 [NetworkChuck](https://www.youtube.com/watch?v=eGz9DS-aIeY)                                 |
 
 ## K8S
 
@@ -237,6 +239,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Kubernetes Tutorial for Beginners \[FULL COURSE in 4 Hours] [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)    |
 | Docker vs Kubernetes vs Docker Swarm \| Comparison in 5 mins [TechWorld with Nana](https://www.youtube.com/watch?v=9\_s3h\_GVzZc) |
+| you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                              |
 
 ## GNOME
 
