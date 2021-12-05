@@ -42,7 +42,7 @@
 | 《Go编程基础》15集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoa6Fz6dtfTV0jFQwjQBdx)    |
 | 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I) |
 | 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)         |
-|                                                                                                           |
+| 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)   |
 
 ## C\#
 
