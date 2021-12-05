@@ -6,7 +6,7 @@ description: 机器视觉
 
 ![](../.gitbook/assets/Lenna.jpg)
 
-[lenna](http://www.lenna.org)([full](http://www.lenna.org/full/l\_hires.jpg))
+[lenn](http://www.lenna.org)
 
 ## 综合
 
@@ -65,11 +65,11 @@ description: 机器视觉
 | --------------------------------------------------------------------------------------- | --------------------------------------------- |
 | **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )** | [doc](https://docs.opencv.org/2.4/index.html) |
 
-\*\*\*\*[**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
+[**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
 
-[**OpenCV Course - Full Tutorial with Python**](https://www.youtube.com/watch?v=oXlwWbU8l2o)\*\*\*\*
+[**OpenCV Course - Full Tutorial with Python**](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
-[**LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021)**](https://www.youtube.com/watch?v=2FYm3GOonhk)\*\*\*\*
+[**LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021)**](https://www.youtube.com/watch?v=2FYm3GOonhk)
 
 **OpenCV实现视频拼接（**[**书童**](https://xugaoxiang.com/2021/03/16/opencv-video-concat/)**）**
 
@@ -83,7 +83,7 @@ description: 机器视觉
 | Computer Vision - OpenCV [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKwdZqul\_KTpNsw1U2ViKmbD)                                                                       |
 | Android Development with OpenCV [doc](https://docs.opencv.org/2.4/doc/tutorials/introduction/android\_binary\_package/dev\_with\_OCV\_on\_Android.html)                                   |
 | <p>教程 Python 和 OpenCV 图像处理基础（2 小时！） <a href="https://www.youtube.com/watch?v=u2NrR-rgz34">Kong Ruksiam</a></p><p>สอน Python &#x26; OpenCV Image Processing เบื้องต้น (2 ชั่วโมงเต็ม!)</p> |
-|                                                                                                                                                                                           |
+| 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM)                                                                                                  |
 |                                                                                                                                                                                           |
 
 ## 跟踪视频
@@ -100,16 +100,16 @@ description: 机器视觉
 
 [How to detect DeepFakes with MesoNet | 20 MIN. PYTHON TUTORIAL](https://www.youtube.com/watch?v=kYeLBZMTLjk)
 
-|                                                                                                                                                                |   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |   |
+|                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
 
 ## Detection and Segmentation
 
-|                                                                                                                                                                                              |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Detectron2(**[**git**](https://github.com/facebookresearch/detectron2)**,** [**Model Zoo and Baselines**](https://github.com/facebookresearch/detectron2/blob/master/MODEL\_ZOO.md)**, )** | \*\*\*\* |
-| **MaskRcnn-benchmark(**[**git**](https://github.com/facebookresearch/maskrcnn-benchmark/)**, )**                                                                                             | \*\*\*\* |
+|                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Detectron2(**[**git**](https://github.com/facebookresearch/detectron2)**,** [**Model Zoo and Baselines**](https://github.com/facebookresearch/detectron2/blob/master/MODEL\_ZOO.md)**, )** |
+| **MaskRcnn-benchmark(**[**git**](https://github.com/facebookresearch/maskrcnn-benchmark/)**, )**                                                                                             |
 
 ### 分割
 

@@ -25,12 +25,12 @@
 
 |                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Java Full Course ☕ (𝙁𝙧𝙚𝙚) **[**Bro Code**](https://www.youtube.com/watch?v=xk4\_1vDrzzo)                                                                                                |
+| **Java Full Course ☕ (𝙁𝙧𝙚𝙚)** [**Bro Code**](https://www.youtube.com/watch?v=xk4\_1vDrzzo)                                                                                                |
 | Java GUI ☕ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=Kmgo00avvEw)                                                                                                                 |
 | Java snake game 🐍 [Bro Code](https://www.youtube.com/watch?v=bI6e6qjJ8JQ)                                                                                                                    |
 | JavaFX GUI ☕ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=9XJicRt\_FaI)                                                                                                              |
 | **Java Tutorial for Beginners to Expert \[Full Course - 2020]\(**[**Geek's Lesson**](https://www.youtube.com/watch?v=S0V20PHPR4M\&list=PLq94LoYzjZTpCd1c-bwMCo70PFTL7-7WS\&index=2)**)**      |
-| [**JAVA讲座**](https://www.youtube.com/playlist?list=PLV76ut4sbjorcWfDeCMnrp4sqaL8eyRR6)** Dayin HE**                                                                                           |
+| [**JAVA讲座**](https://www.youtube.com/playlist?list=PLV76ut4sbjorcWfDeCMnrp4sqaL8eyRR6) **Dayin HE**                                                                                           |
 | [面向对象程序设计-Java语言-翁恺（浙江大学）](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sbza8UL6Q\_g3AAXCcAQ17c3)中国大学MOOC-慕课                                                                              |
 | [零基础学Java语言-翁恺（浙江大学）](https://www.youtube.com/playlist?list=PLBPbUxsZM4SYG7Gcvp9PwgR9GqXfG5zL6)中国大学MOOC-慕课                                                                                    |
 | [Java语言程序设计入门（浙江大学 翁恺）](https://www.youtube.com/playlist?list=PLC664nq\_h8b-ubcLyrvICJ2VI8uFEunVX)中国大学MOOC-慕课                                                                                 |
@@ -47,6 +47,7 @@
 | \[传智播客]\[java就业班全套共85天课程] [BT](https://btsow.digital/magnet/detail/hash/316E6B850B2724B3BC0066580AD0FFB166706EA6)                                                                             |
 | Java Project Tutorial - How To Design Login And Dashboard Form In Java Netbeans [1BestCsharp blog](https://www.youtube.com/watch?v=eSM\_YkWeS7k)                                              |
 | Asynchronous JavaScript Course (Async/Await, Promises, Callbacks) [freeCodeCamp](https://www.youtube.com/watch?v=ZYb\_ZU8LNxs)                                                                |
+| Intro to Java Programming - Course for Absolute Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GoXwIVyNvX0)                                                                         |
 | Developing Scalable Apps with Java [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmxGlyA8491d3tQ2u8epZr3)                                                                        |
 | Java Programming Tutorial in Linux [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHV3l86khuur2SuutpDzUxBl)                                                                      |
 | <p>学习Java 8 - 初学者全套教程 <a href="https://www.youtube.com/watch?v=grEKMHGYyns">freeCodeCamp</a></p><p>Learn Java 8 - Full Tutorial for Beginners</p>                                             |

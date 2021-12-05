@@ -1,9 +1,9 @@
 # 安全
 
-|                                                                       |                                                                                                                                        |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| HackerSploit([u](https://www.youtube.com/c/HackerSploit/playlists), ) | The PC Security Channel [u](https://www.youtube.com/c/thepcsecuritychannel/playlists)                                                  |
-|                                                                       | 杰哥说安全 抖音号： [jiegeshuoanquan](https://www.douyin.com/user/MS4wLjABAAAA7Ttkvbtj39tpCoqQpHHnAPHLTgtumCAPK44vtHQYRpmMSdO2TjbAUCs8gEbYYwPS) |
+|                                                                                   |                                                                                                                                        |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| HackerSploit([u](https://www.youtube.com/c/HackerSploit/playlists), )             | The PC Security Channel [u](https://www.youtube.com/c/thepcsecuritychannel/playlists)                                                  |
+| 白帽小小老师呀 [u](https://www.youtube.com/channel/UCqpqqy8k41\_nOXnJ0b-\_5Uw/playlists) | 杰哥说安全 抖音号： [jiegeshuoanquan](https://www.douyin.com/user/MS4wLjABAAAA7Ttkvbtj39tpCoqQpHHnAPHLTgtumCAPK44vtHQYRpmMSdO2TjbAUCs8gEbYYwPS) |
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
