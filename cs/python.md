@@ -607,6 +607,7 @@ Python高性能编程
 | Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc) |
 | 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                             |
 | PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                     |
+| Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                  |
 
 ## Book
 
