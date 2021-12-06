@@ -153,6 +153,8 @@
 | 7 Ways to Deploy a Node.js App [Fireship](https://www.youtube.com/watch?v=uEVmD6n8Il0)                                                              |
 | Web Scraping with Puppeteer & Node.js: Chrome Automation [LearnWebCode](https://www.youtube.com/watch?v=lgyszZhAZOI)                                |
 | Learn Node.js - Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXQA)                                             |
+| Node.js Full Course for Beginners \| Complete All-in-One Tutorial \| 7 Hours [Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8)               |
+| Node.js Tutorials [Dave Gray](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx\_X46avTM1aYw)                                            |
 
 |   |   |
 | - | - |
