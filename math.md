@@ -443,6 +443,7 @@ description: 用数学充实人生
 | Probability and Statistics: an introduction [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf\_\_daeklnLse)                                               |
 | Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |
 | Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |
+| 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                  |
 
 ### 概率 Probability
 
