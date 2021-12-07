@@ -32,3 +32,9 @@ description: Telecommunications
 | 陳伯寧老師 - 消息理論 Information Theory [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsWS54o6gNWeDGXeI7c3eUd)                                      |
 | 信息论 [Thomas Li](https://www.youtube.com/playlist?list=PLbOOyazJ30gKx1LL7vKVs1hbk9lTJxCJU)                                                                 |
 | Huffman Codes: An Information Theory Perspective [Reducible](https://www.youtube.com/watch?v=B3y0RsVCyrw)                                                 |
+
+| 摩斯电码                                                                               |
+| ---------------------------------------------------------------------------------- |
+| 如果听到这个声音一定要注意！教你看懂摩斯电码　[妈咪说MommyTalk](https://www.youtube.com/watch?v=TZxwZiUPsgg) |
+|                                                                                    |
+|                                                                                    |
