@@ -485,17 +485,20 @@ LSTM
 
 ### 蒙特卡洛 Monte Carlo
 
-| 蒙特卡洛树搜索 Monte Carlo Tree Search (MCTS)                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002                                         |
-| 蒙特卡洛树搜索基础（Monte Carlo Tree Search)　[技术喵](https://www.youtube.com/watch?v=XhVq0uF82gY)                                                          |
-| 【讀論文】蒙地卡羅 詳細過程 \| Monte Carlo Tree Search\| 遊戲樹 [K66](https://www.youtube.com/watch?v=m9tPmRT4xNw)                                             |
-| 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)   [s](https://www.icourse163.org/course/ZJU-1003377027?from=searchPage) |
-| Monte Carlo Tree Search [1](https://www.youtube.com/watch?v=onBYsen2\_eA) [2](https://www.youtube.com/watch?v=4rVXxSD2DIM) Udacity             |
-| Monte Carlo Tree Search (MCTS) Tutorial [Fullstack Academy](https://www.youtube.com/watch?v=Fbs4lnGLS8M)                                       |
-| 蒙特卡洛 Monte Carlo [Shusen Wang](https://www.youtube.com/watch?v=XRGquU0ZJok)                                                                    |
-| Monte Carlo Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYq2SLTHO2ptmx-cChbE5GBm)                                          |
-| 数学\_蒙地卡罗法和Buffon needle简介 [PengTitus](https://www.youtube.com/watch?v=symRPdGSPNM)                                                             |
+| 蒙特卡洛树搜索 Monte Carlo Tree Search (MCTS)                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6. Monte Carlo Simulation [MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU) MIT 6.0002                                                                                                                     |
+| 蒙特卡洛树搜索基础（Monte Carlo Tree Search)　[技术喵](https://www.youtube.com/watch?v=XhVq0uF82gY)                                                                                                                                      |
+| 【讀論文】蒙地卡羅 詳細過程 \| Monte Carlo Tree Search\| 遊戲樹 [K66](https://www.youtube.com/watch?v=m9tPmRT4xNw)                                                                                                                         |
+| 2 3 蒙特卡洛树搜索 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=niIaKaWIRX0)   [s](https://www.icourse163.org/course/ZJU-1003377027?from=searchPage)                                                                             |
+| Monte Carlo Tree Search [1](https://www.youtube.com/watch?v=onBYsen2\_eA) [2](https://www.youtube.com/watch?v=4rVXxSD2DIM) Udacity                                                                                         |
+| Monte Carlo Tree Search (MCTS) Tutorial [Fullstack Academy](https://www.youtube.com/watch?v=Fbs4lnGLS8M)                                                                                                                   |
+| 蒙特卡洛 Monte Carlo [Shusen Wang](https://www.youtube.com/watch?v=XRGquU0ZJok)                                                                                                                                                |
+| Monte Carlo Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYq2SLTHO2ptmx-cChbE5GBm)                                                                                                                      |
+| 数学\_蒙地卡罗法和Buffon needle简介 [PengTitus](https://www.youtube.com/watch?v=symRPdGSPNM)                                                                                                                                         |
+| <p>【数之道 21】随机抽样、蒙特卡洛模拟与逆转换方法 <a href="https://www.youtube.com/watch?v=Jt1BNnlTlQY&#x26;list=UUQ8_Gsyg4UYz15So6zzvBtw&#x26;index=2">FunInCode</a></p><p>将简单的均匀分布抽样转化为复杂分布抽样的方法: </p><p>逆转换方法 Inverse Transform Sampling</p> |
+| <p>【数之道 22】巧妙使用"接受-拒绝"方法，玩转复杂分布抽样 <a href="https://www.youtube.com/watch?v=Jt1BNnlTlQY&#x26;list=UUQ8_Gsyg4UYz15So6zzvBtw">FunInCode</a></p><p>接受拒绝抽样 Acceptance Rejection Sampling</p>                                    |
+|                                                                                                                                                                                                                            |
 
 ### 马尔可夫 马尔科夫 Markov
 
@@ -514,9 +517,17 @@ LSTM
 | 馬可夫鏈基礎1 [Chen Kiwii](https://www.youtube.com/watch?v=8qMMd6hqLhA) 馬可夫鏈進階1 [Chen Kiwii](https://www.youtube.com/watch?v=-PYvmSFy8rY)                                                                                                                        |
 | Hidden Markov Model [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoc9LN241WKqLPuggfSBBpt)                                                                                                                                                        |
 | 程序数学之随机过程 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB) [csdn](https://edu.csdn.net/course/detail/26699)                                                                                                           |
+| 【数之道 20】5分钟理解'马尔可夫链'的遍历性与唯一稳态 Markov Chain's Ergodicity and Stationary Distribution [FunInCode](https://www.youtube.com/watch?v=NF-Sz2djol4)                                                                                                               |
 |                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                            |
+
+### MCMC, Markov Chain Monte Carlo
+
+|                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>[硬核公式推导系列] 蒙特卡洛模拟与MCMC <a href="https://www.youtube.com/watch?v=_exgpsE6hPQ">技术喵</a>　<a href="https://github.com/tech-meow/MCMC/blob/main/MCMC.ipynb">git</a></p><p>Box-Muller算法？</p><p>接受拒绝抽样 Acceptance Rejection Sampling</p><p>metropolis Hastings</p><p>Gibbs Sampling</p> |
+| 为什么要使用MCMC方法？[zh](https://www.zhihu.com/question/60437632)                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                    |
 
 ### 因子分解机Factorization Machine, FM
 
@@ -580,6 +591,14 @@ LSTM
 |                                                                                                                                |
 |                                                                                                                                |
 | S18 Lecture 14: Connectionist Temporal Classification (CTC) [u](https://www.youtube.com/watch?v=c86gfVGcvh4)                   |
+
+### 蚁群算法
+
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+|  【数之道 04】解决最优路径问题的妙招-蚁群ACO算法 [FunInCode](https://www.youtube.com/watch?v=IP4Fe\_flXeU\&list=UUQ8\_Gsyg4UYz15So6zzvBtw\&index=24) |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ## 数据可视化
 

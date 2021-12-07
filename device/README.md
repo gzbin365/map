@@ -121,6 +121,14 @@ description: 硬件设备
 | -------------------------------------------------------------------------- | - |
 | 最新掌上型主機 Steam Deck [Sky game](https://www.youtube.com/watch?v=O40Amrc6Yho) |   |
 
+## 主机
+
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| New Machine for the Sentdex Fleet: The Puget [sentdex](https://www.youtube.com/watch?v=sUbTomWUvZk) |
+|                                                                                                     |
+|                                                                                                     |
+
 ## ITX主机
 
 |                                                                                                       |
