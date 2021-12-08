@@ -224,7 +224,7 @@
 | Make Your Own Visual Novel! \| Ren'Py Tutorial Part 1 [Learning With B and E](https://www.youtube.com/watch?v=vith10gG8L4)                                      |
 | "Game Development in Eight Bits" by Kevin Zurawel [Strange Loop Conference](https://www.youtube.com/watch?v=TPbroUDHG0s)                                        |
 | uPokémon Coding Tutorial - CS50's Intro to Game Development [freeCodeCamp](https://www.youtube.com/watch?v=gx\_qorHxBpI)                                        |
-|                                                                                                                                                                 |
+| game 贪吃蛇 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK6brBOhoaa1zh7QZbyMj88P)                                                                    |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
@@ -471,3 +471,5 @@
 | Fundamental of IT - Complete Course \|\| IT course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=awLnur5Yt9o)                   |
 | zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                      |
 | IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                  |
+| The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                        |
+|                                                                                                                                                 |

@@ -348,6 +348,12 @@ description: 硬件设备
 | Can we simulate a real robot? [sentdex](https://www.youtube.com/watch?v=phTnbmXM06g) Bittle                                                               |
 |                                                                                                                                                           |
 
+| 机器人三原则                                                                                      |
+| ------------------------------------------------------------------------------------------- |
+| 【神作】三十分鐘講完駭客任務/黑客帝國 \| 老高與小茉 [Mr & Mrs Gao](https://www.youtube.com/watch?v=D2cbC0-qnFc)    |
+| 我，机器人                                                                                       |
+| 【駭客任務1-3】一口氣深度解説黑客帝国 \| 挖掘你忘記的無數細節!　[青蛙刀圣1993](https://www.youtube.com/watch?v=waYYWauqZbA) |
+
 ### 机械臂 Robot Arm
 
 |   |

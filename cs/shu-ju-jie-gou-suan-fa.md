@@ -43,7 +43,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 【动态规划专题班】[动态规划入门](https://www.youtube.com/watch?v=j4eab7N3Hfs) Introduction to Dynamic Programming 九章算法官方频道                                                                                                                                        |
 | 动态规划[四步解题法](https://www.youtube.com/watch?v=dHeBncN-dZo)—搞定绝大多数类型动态规划题 九章算法官方频道                                                                                                                                                                    |
 | 【动态规划】一次搞定三种[背包问题](https://www.youtube.com/watch?v=AFspvwnCcK4) 九章算法官方频道                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                    |
+| 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 |                                                                                                                                                                                                                                                    |
 
 ## Recurisive
@@ -169,6 +169,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn) |
 | LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |
 | Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                  |
+| 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)                                                  |
 
 ## 其他
 

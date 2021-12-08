@@ -176,7 +176,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | [**Git & GitHub Full Course in 5 Hours**](https://www.youtube.com/watch?v=KMOmw19ZCGs)                                                                                            |
 | [**Git Tutorial for Beginners: Learn Git in 1 Hour**](https://www.youtube.com/watch?v=8JJ101D3knE)                                                                                |
 | [**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk)                                                                                    |
-| [**Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth**](https://www.youtube.com/watch?v=DVRQoVRzMIY)                                                                |
+| [**Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth**](https://www.youtube.com/watch?v=DVRQoVRzMIY) **** Tech With Tim                                             |
 | [**Git MERGE vs REBASE**](https://www.youtube.com/watch?v=CRlGDDprdOQ)                                                                                                            |
 | [**A Better Git Workflow with Rebase**](https://www.youtube.com/watch?v=f1wnYdLEpgI)                                                                                              |
 | [**Up and Running with Visual Studio Code and GitHub**](https://www.youtube.com/watch?v=ghL-KlAhBnc)                                                                              |

@@ -115,6 +115,8 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Jan 2019-Quantum Mechanics I [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65el7XWKqjwo3h-pDLJSWmwb)                                           |
 | July 2019-Path Integral and functional methods in quantum field theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fbPpAMNVi8h7iusFHo8ZSJ) |
 | 毛式幽默　量子力学　[不嘚瑟都掉毛](https://www.douyin.com/video/6939883988194430215)                                                                                                    |
+| 【宇宙雜談】什麼是“時間晶體”？谷歌量子計算機成功製造時間晶體！Time Crystals \| [Linvo說宇宙](https://www.youtube.com/watch?v=7MasiQl5V0M)                                                                |
+|                                                                                                                                                                         |
 
 ## 流体动力学 Fluid Dynamics
 

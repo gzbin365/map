@@ -73,7 +73,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)                        |
 | AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc) |
 | Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)                                                                        |
-|                                                                                                                                              |
+| AWS Events [u](https://www.youtube.com/watch?v=9NEQbFLtDmg)                                                                                  |
 
 |                                                          |                                           |
 | -------------------------------------------------------- | ----------------------------------------- |

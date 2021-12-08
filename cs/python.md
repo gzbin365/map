@@ -450,6 +450,13 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 |                                                   |                                                                                      |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | AceJump [git](https://github.com/acejump/AceJump) | JetBrains/intellij-community [git](https://github.com/JetBrains/intellij-community/) |
+|                                                   |                                                                                      |
+
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| DataSpell: A Brand New IDE for Data Scientists Using Python and R [JetBrainsTV](https://www.youtube.com/watch?v=iaKX-W3Rj9M) |
+|                                                                                                                              |
+|                                                                                                                              |
 
 ## 高性能计算
 
