@@ -9,7 +9,7 @@
 
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Android Development for Beginners - Full Course **[**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                 |
+| **Android Development for Beginners - Full Course** [**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                 |
 | Android 项目实战一：AA小助手 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYuZ89aFNgPuRrxb2mwmGpp)                                                   |
 | Android蓝牙开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbYEkrW6-1GoQwykStSRQgS)                                                           |
 | Android 定位技术 LBS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasVjUrJ69MrnIvxNLhphtq)                                                      |
@@ -45,6 +45,9 @@
 | Android Programming Course - Kotlin, Jetpack Compose UI, Graph Data Structures & Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=5kb-zpQGYGk) |
 | 安卓逆向 [易锦教育](https://www.youtube.com/playlist?list=PL4rdaY6hLY6-qPjzr4XvNFH2dElSRt5zZ)                                                                   |
 | What are 12 Factor Apps and Why Should You Care?　[Benjamin Porter](https://www.youtube.com/watch?v=REbM4BDeua0)                                         |
+| Building Apps from a Business Perspective - App Product Management Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=poLzjLt2yqU)          |
+|                                                                                                                                                         |
+|                                                                                                                                                         |
 
 ### 电脑控制手机
 
