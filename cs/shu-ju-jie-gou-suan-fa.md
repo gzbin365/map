@@ -98,6 +98,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 数据结构与算法javascript描述（栈、队列、链表、集合、字典、树、图）[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmgTh\_FSRzSIChwOsv7qr7v)                                                                                                                                                                                                                          |
 | 数据结构与算法 [从0开始数](https://www.youtube.com/playlist?list=PLkl2qqmYigA60rBjPyms\_7kjMvVy3gSAK)                                                                                                                                                                                                                                                            |
 | 王道计算机-数据结构 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivvCYIB3wRZigJC8E9oc8w\_B)                                                                                                                                                                                                                                                           |
+| Data Structures For Python Developers (w/ Flask) - Course [freeCodeCamp](https://www.youtube.com/watch?v=74NW-84BqbA)                                                                                                                                                                                                                                 |
 
 ## 排序算法 Sorting Algorithms
 

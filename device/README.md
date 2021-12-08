@@ -73,6 +73,7 @@ description: 硬件设备
 | Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                      |
 | 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                          |
 | Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                   |
+| Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                       |
 |                                                                                                                                                                                                  |
 
 ## Orange Pi

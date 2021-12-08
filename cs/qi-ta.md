@@ -472,4 +472,5 @@
 | zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                      |
 | IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                  |
 | The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                        |
+| Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                         |
 |                                                                                                                                                 |
