@@ -368,6 +368,8 @@ description: 机器学习
 
 ## 算法
 
+奥卡姆剃刀原理 [严伯钧](https://www.douyin.com/video/7035859509524303111)
+
 **LightGBM(**[**site**](https://lightgbm.readthedocs.io/en/latest/)**,** [**paper**](https://papers.nips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)**,** [**github**](https://github.com/microsoft/LightGBM)**,** [**wiki**](https://en.wikipedia.org/wiki/LightGBM)**,** [**pypi**](https://pypi.org/project/lightgbm/)**)**
 
 **Dijkstra's Algorithm(**[**v**](https://www.youtube.com/watch?v=GazC3A4OQTE)**, )**
