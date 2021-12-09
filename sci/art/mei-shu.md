@@ -1,11 +1,11 @@
 # 美术
 
-| 画栈 抖音号： [drawa.net](https://www.douyin.com/user/MS4wLjABAAAALLU32JdWF\_O5MNNgnxkAgei7kfvHnNNmKy4gLijzVUE?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=6945037935280524557\&is\_full\_screen=0)  |                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| mona里洒 抖音号： [5952141](https://www.douyin.com/user/MS4wLjABAAAAOecR3oyujbtzhEWSHBXAFIwH62dygY24sPVppJX5K84?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017284627266161932\&is\_full\_screen=0) | DesignSense([u](https://www.youtube.com/c/DesignSense/playlists), ) |
-| 杨藩 大学美术老师 趣讲艺术 抖音号： [72055942](https://www.douyin.com/user/MS4wLjABAAAA-pC-EKwHkb9mO1Tck2kqFbkxBi5frRlLXpM7EVencJw)                                                                                             |                                                                     |
-|                                                                                                                                                                                                                 |                                                                     |
-|                                                                                                                                                                                                                 |                                                                     |
+| 画栈 抖音号： [drawa.net](https://www.douyin.com/user/MS4wLjABAAAALLU32JdWF\_O5MNNgnxkAgei7kfvHnNNmKy4gLijzVUE?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=6945037935280524557\&is\_full\_screen=0)  |                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| mona里洒 抖音号： [5952141](https://www.douyin.com/user/MS4wLjABAAAAOecR3oyujbtzhEWSHBXAFIwH62dygY24sPVppJX5K84?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017284627266161932\&is\_full\_screen=0) | DesignSense([u](https://www.youtube.com/c/DesignSense/playlists), )                                          |
+| 杨藩 大学美术老师 趣讲艺术 抖音号： [72055942](https://www.douyin.com/user/MS4wLjABAAAA-pC-EKwHkb9mO1Tck2kqFbkxBi5frRlLXpM7EVencJw)                                                                                             |                                                                                                              |
+|                                                                                                                                                                                                                 | 47设计研究所　抖音号： [PSUi520](https://www.douyin.com/user/MS4wLjABAAAAlOOV6vr1bSKq8QaNZ5\_JsCbBFKOsHAvc3McjHsLw7Rs) |
+|                                                                                                                                                                                                                 |                                                                                                              |
 
 ## 设计
 
@@ -30,7 +30,7 @@
 |                                                                                                                                             |
 |                                                                                                                                             |
 
-| **ArtStation(**[**site**](https://www.artstation.com)**, **[**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
+| **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | [**wang**](https://www.artstation.com/wangchen)                                                                              | [**Lou LL**](https://www.artstation.com/arroll) | [N I X E U](https://www.artstation.com/nixeu) |
 
