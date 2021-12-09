@@ -118,29 +118,29 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 
 **shell电子书(**[**脚本之家**](https://www.jb51.net/books/list977\_1.html)**)**
 
-|                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
-| Linux 命令大全 [**runoob**](https://www.runoob.com/linux/linux-command-manual.html)                                                         |
-| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )**                                                |
-| [Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo)3:23:08 |
-| [**Bash Scripting Full Course 3 Hours**](https://www.youtube.com/watch?v=e7BufAVwDiM) **linuxhint**                                     |
-| Linux SHELL编程与实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhadvQbsFfw8UZ7Ks1YcRBMC)                                      |
-| Learning Awk Is Essential For Linux Users [DistroTube](https://www.youtube.com/watch?v=9YOZmI-zWok)                                     |
-| Write Your Own Bash Scripts for Automation \[Tutorial] [Null Byte](https://www.youtube.com/watch?v=PPQ8m8xQAs8)                         |
-| BASH Shell Scripting Tutorial in Linux [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt)            |
-| Linux Command-Line Interface Tutorials (CLI) [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY)      |
-| Linux/Mac Terminal Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)                  |
-| Linux命令太多记不住怎么办 [v](https://www.douyin.com/video/7009969097681177892)                                                                   |
-| 新手小白掌握这20条Linux常用命令就够了 [v](https://www.douyin.com/video/7009928564761971981)                                                            |
-| Linux基础，基础命令教程 [v](https://www.douyin.com/video/6999196232140754214?pre\_vid=7005925603278949670\&previous\_page=video\_detail)         |
-| 简单、有趣、好玩的linux 命令 [1](https://www.douyin.com/video/7013662253362728204) [2](https://www.douyin.com/video/7013663099731463427)           |
-| Linux学习和在线查询的地方 [v](https://www.douyin.com/video/6996602095361133860)                                                                   |
-| Linux靠一行命令，让我在公司偷师学艺 [v](https://www.douyin.com/video/6976598390675082500)                                                              |
-| 10分钟学会在Linux里用命令搜索文件和查找文件内容 [跟山地人学前端](https://www.youtube.com/watch?v=NKf8GGd2txM)                                                      |
-| AWK文本处理工具入门教程 [黄浩杰](https://www.youtube.com/playlist?list=PLAnjpYDY-l8Le8Zcj4TPVe96mK107B9iT)                                           |
-| Awk: Hack the planet\['s text]! (Presentation) [Benjamin Porter](https://www.youtube.com/watch?v=43BNFcOdBlY)                           |
-| The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)   |
-|                                                                                                                                         |
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Linux 命令大全 [**runoob**](https://www.runoob.com/linux/linux-command-manual.html)                                                                                   |
+| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )**                                                                          |
+| [Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo)3:23:08                           |
+| [**Bash Scripting Full Course 3 Hours**](https://www.youtube.com/watch?v=e7BufAVwDiM) **linuxhint**                                                               |
+| Linux SHELL编程与实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhadvQbsFfw8UZ7Ks1YcRBMC)                                                                |
+| Learning Awk Is Essential For Linux Users [DistroTube](https://www.youtube.com/watch?v=9YOZmI-zWok)                                                               |
+| Write Your Own Bash Scripts for Automation \[Tutorial] [Null Byte](https://www.youtube.com/watch?v=PPQ8m8xQAs8)                                                   |
+| BASH Shell Scripting Tutorial in Linux [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt)                                      |
+| Linux Command-Line Interface Tutorials (CLI) [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY)                                |
+| Linux/Mac Terminal Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c)                                            |
+| Linux命令太多记不住怎么办 [v](https://www.douyin.com/video/7009969097681177892)                                                                                             |
+| 新手小白掌握这20条Linux常用命令就够了 [v](https://www.douyin.com/video/7009928564761971981)                                                                                      |
+| Linux基础，基础命令教程 [v](https://www.douyin.com/video/6999196232140754214?pre\_vid=7005925603278949670\&previous\_page=video\_detail)                                   |
+| 简单、有趣、好玩的linux 命令 [1](https://www.douyin.com/video/7013662253362728204) [2](https://www.douyin.com/video/7013663099731463427)                                     |
+| Linux学习和在线查询的地方 [v](https://www.douyin.com/video/6996602095361133860)                                                                                             |
+| Linux靠一行命令，让我在公司偷师学艺 [v](https://www.douyin.com/video/6976598390675082500)                                                                                        |
+| 10分钟学会在Linux里用命令搜索文件和查找文件内容 [跟山地人学前端](https://www.youtube.com/watch?v=NKf8GGd2txM)                                                                                |
+| AWK文本处理工具入门教程 [黄浩杰](https://www.youtube.com/playlist?list=PLAnjpYDY-l8Le8Zcj4TPVe96mK107B9iT)                                                                     |
+| Awk: Hack the planet\['s text]! (Presentation) [Benjamin Porter](https://www.youtube.com/watch?v=43BNFcOdBlY)                                                     |
+| The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)                             |
+| 30 BASIC COMMANDS IN LINUX / UNIX \|\| LINUX COMMANDS \|\| UNIX COMMANDS \|\| [OPEN SOURCE Sundeep Saradhi Kanthety](https://www.youtube.com/watch?v=rFwdniyo0CM) |
 
 ## 嵌入式
 
