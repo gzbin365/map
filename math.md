@@ -1000,6 +1000,12 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？[妈咪说MommyTalk](https://www.youtube.com/watch?v=FVZaOTi6ZbE)                                                                                                                                                                                                                                                                                                                       |
 | 大神哥德尔：知道他名字的人，已经不简单了！【[天才简史](https://www.youtube.com/watch?v=a1sA5G9uBo8\&list=PLSm-qSrgYJ0WSY1M\_wnIH3m5tCsiXAWU\_)】                                                                                                                                                                                                                                                                                           |
 
+| 拉马努金                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>印度数学神童——拉马努金，一个从未来穿越回来的数学家　<a href="https://www.youtube.com/watch?v=FPwLewUNmtk">妈咪说MommyTalk</a></p><p>知无崖者　The man who knew infinity 拉马努金传&#x26;电影</p> |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
+
 ## 其他
 
 |                                                                                                                                 |
