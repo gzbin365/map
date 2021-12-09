@@ -12,6 +12,7 @@
   * [Swift](cs/swift.md)
   * [数据结构&算法](cs/shu-ju-jie-gou-suan-fa.md)
   * [云计算](cs/yun-ji-suan.md)
+  * [量子计算](cs/Quantum.md)
   * [前端](cs/frount.md)
   * [小程序](cs/xiao-cheng-xu.md)
   * [音视频](cs/yin-shi-pin.md)
