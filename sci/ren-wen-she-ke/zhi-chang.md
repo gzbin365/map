@@ -3,7 +3,7 @@
 |                                                                                                                                |                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 孔大爷 抖音号： [ZFSN1318](https://www.douyin.com/user/MS4wLjABAAAASC82E9e\_7YmKUF7ANqGjmS-7n4IyzQXtUkcQN31SmcFwTaWyzoeIXsi7HOu4AiN0) | 刘老师职场讲座 抖音号： [699238555](https://www.douyin.com/user/MS4wLjABAAAAb5uuyQv5IlGoxAox1Or1tbV0BJMIifmnT6nQzUTKGG4)                               |
-|                                                                                                                                | 时代华语好书推荐馆　抖音号： [shidaihuayuh](https://www.douyin.com/user/MS4wLjABAAAAKpT3YuIMySQhwIbhwKj13rkgjd1pPsbqiKL2z91ZChCxEWDXffYis6rqd7yRnu\_E)    |
+| 无聊的高大东　抖音号： [1605016367](https://www.douyin.com/user/MS4wLjABAAAAMkj9Q9d4W541tCq5p2bBQc-tzvyos58zXK40rIIhYkw)                  | 时代华语好书推荐馆　抖音号： [shidaihuayuh](https://www.douyin.com/user/MS4wLjABAAAAKpT3YuIMySQhwIbhwKj13rkgjd1pPsbqiKL2z91ZChCxEWDXffYis6rqd7yRnu\_E)    |
 |                                                                                                                                | CuiCui崔璀摩力文化　抖音号： [momselfcuicui](https://www.douyin.com/user/MS4wLjABAAAAHu4SbvaUZQ1GN2WgySRB6G4nmvUvWxD2fNLzvDKOkOAmqxZkQ5fJtx0ZhANSST7V) |
 
 |                                                                      |
