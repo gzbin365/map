@@ -44,6 +44,8 @@
 | 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I) |
 | 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)         |
 | 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)   |
+| Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                         |
+| Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                              |
 
 ## C\#
 
