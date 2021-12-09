@@ -137,6 +137,7 @@ description: 自然语言处理
 | Trying GitHub Copilot: Will it take our jobs? [Better Dev](https://www.youtube.com/watch?v=PNa6JECMS8A)                                                      |
 | Please Don't Use GitHub Copilot [Engineer Man](https://www.youtube.com/watch?v=b9u3ZAGQmT0)                                                                  |
 | Can GitHub Copilot center a div? [We Deserve Less](https://www.youtube.com/watch?v=5Gh\_QpLHjOo)                                                             |
+| Github Copilot: Good or Bad? [sentdex](https://www.youtube.com/watch?v=PDNt07UePvk)                                                                          |
 | Introducing GPT-J -- An Open Source Version Of GPT-3 (NLP News) [Vennify AI](https://www.youtube.com/watch?v=6w5sgWo68E0)                                    |
 | Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI [sentdex](https://www.youtube.com/watch?v=\_z86t7LerrQ)                                |
 
