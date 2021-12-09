@@ -74,7 +74,7 @@ description: 硬件设备
 | 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                          |
 | Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                   |
 | Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                       |
-|                                                                                                                                                                                                  |
+| How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                     |
 
 ## Orange Pi
 
