@@ -23,4 +23,33 @@ Murtaza's Workshop - Robotics and AI([**u2b**](https://www.youtube.com/c/Murtaza
 | Algorithm Visualizer [git](https://github.com/algorithm-visualizer/algorithm-visualizer) [v](https://www.douyin.com/video/7028515553157385479) |
 |                                                                                                                                                |
 
-黏菌优化算法（Slime mould algorithm，SMA）[s](https://www.google.com/search?q=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&oq=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&aqs=chrome..69i57.805j0j7\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) 黏菌算法
+## 黏菌优化算法（Slime mould algorithm，SMA）[s](https://www.google.com/search?q=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&oq=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&aqs=chrome..69i57.805j0j7\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) 黏菌算法
+
+
+
+## 蚁群算法 (Ant Algorithm)
+
+第五章-社会应用类模型-5.2 蚁群算法 (Ant Algorithm) [社会物理学论坛](https://www.bilibili.com/video/BV1p7411C73i?from=search\&seid=14492803338787349298\&spm\_id\_from=333.337.0.0)
+
+蚁群算法的讲解　[一只安慕嘻](https://www.bilibili.com/video/BV11K411H7LH)
+
+蚁群算法入门　[数学建模爱好者](https://www.bilibili.com/video/BV1ZA411v7pC)
+
+蚁群算法求解TSP问题讲解　[月下盟](https://www.bilibili.com/video/BV1MA411c7yd)
+
+【算法】蚁群算法&广度优先求解迷宫最短路径 [卍卍子非鱼卍卍](https://www.bilibili.com/video/BV1gJ411G7Xi?from=search\&seid=14492803338787349298\&spm\_id\_from=333.337.0.0) [git](https://github.com/zifeiyu0531/aco-bfs-for-Maze-GUI)
+
+Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344135/video)
+
+## 遗传算法
+
+【算法】遗传算法解决旅行商（TSP）问题　[卍卍子非鱼卍卍](https://www.bilibili.com/video/BV17Z4y1w7qF)
+
+遗传算法超细致+透彻理解　[我家公子Q](https://www.bilibili.com/video/BV1zp4y1U7Ti)
+
+【10分钟算法】遗传算法-带例子和动画/Genetic Algorithm　[笔记鲨](https://www.bilibili.com/video/BV1yt4y1a7RY)
+
+【数之道14】六分钟时间，带你走近遗传算法　[FunInCode](https://www.bilibili.com/video/BV19U4y1G7dU)
+
+
+
