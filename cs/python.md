@@ -506,12 +506,14 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | #4.2 加速爬虫: 异步加载 Asyncio (爬虫 scraping 基础 Python) [莫烦Python](https://www.youtube.com/watch?v=Wa2K7sB7BZE)                                                         |
 | Async Await try-catch hell [Fireship](https://www.youtube.com/watch?v=ITogH7lJTyE)                                                                              |
 
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| [PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)          |
-| How Fast is Python's Sort? Performance Test.([mCoding](https://www.youtube.com/watch?v=ybh0GttfM8o\&t=299s)) |
-| 22 并行计算([网课慕课](https://www.youtube.com/watch?v=9uyK1CJWA3c))                                                 |
-| 高并发系统设计40问 [极客时间](https://time.geekbang.org/column/intro/100035801)                                          |
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)                                                  |
+| How Fast is Python's Sort? Performance Test.([mCoding](https://www.youtube.com/watch?v=ybh0GttfM8o\&t=299s))                                         |
+| 22 并行计算([网课慕课](https://www.youtube.com/watch?v=9uyK1CJWA3c))                                                                                         |
+| 高并发系统设计40问 [极客时间](https://time.geekbang.org/column/intro/100035801)                                                                                  |
+| Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module [Corey Schafer](https://www.youtube.com/watch?v=fKl2JW\_qrso) |
+| Python Threading Tutorial: Run Code Concurrently Using the Threading Module [Corey Schafer](https://www.youtube.com/watch?v=IEEhzQoKtQU)             |
 
 {% file src="../.gitbook/assets/[gzbin.gitbook.io].Python高性能编程.pdf" %}
 Python高性能编程
