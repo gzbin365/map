@@ -22,3 +22,5 @@ Murtaza's Workshop - Robotics and AI([**u2b**](https://www.youtube.com/c/Murtaza
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Algorithm Visualizer [git](https://github.com/algorithm-visualizer/algorithm-visualizer) [v](https://www.douyin.com/video/7028515553157385479) |
 |                                                                                                                                                |
+
+黏菌优化算法（Slime mould algorithm，SMA）[s](https://www.google.com/search?q=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&oq=%E9%BB%8F%E8%8F%8C%E7%AE%97%E6%B3%95\&aqs=chrome..69i57.805j0j7\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) 黏菌算法
