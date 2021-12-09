@@ -28,7 +28,6 @@ description: 机器视觉
 | **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**     |
 |                                                                                                       | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                           |
 |                                                                                                       | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) |
-|                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                             |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
@@ -127,7 +126,6 @@ description: 机器视觉
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U)) |
 | I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                             |
-| 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                      |
 
 ### Visual Recognition
 
