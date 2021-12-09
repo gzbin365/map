@@ -41,6 +41,10 @@ Murtaza's Workshop - Robotics and AI([**u2b**](https://www.youtube.com/c/Murtaza
 
 Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344135/video)
 
+人工智能导论实验演示 - 14. 蚁群算法求解最短路径问题　[跨象乘云](https://www.bilibili.com/video/BV1Yh411q72F)
+
+【数之道 04】解决最优路径问题的妙招-蚁群ACO算法　[FunInCode](https://www.bilibili.com/video/BV1vp4y1p78R)
+
 ## 遗传算法
 
 【算法】遗传算法解决旅行商（TSP）问题　[卍卍子非鱼卍卍](https://www.bilibili.com/video/BV17Z4y1w7qF)
