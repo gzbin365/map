@@ -455,7 +455,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | DataSpell: A Brand New IDE for Data Scientists Using Python and R [JetBrainsTV](https://www.youtube.com/watch?v=iaKX-W3Rj9M) |
-|                                                                                                                              |
+| 微软vscode强劲对手JetBrains Fleet　[后盾人](https://www.douyin.com/video/7036281172262915336)                                          |
 |                                                                                                                              |
 
 ## 高性能计算

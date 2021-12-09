@@ -12,7 +12,7 @@
 | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                   | Florin Pop [u](https://www.youtube.com/c/FlorinPop/playlists)                                 |
 | 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) |                                                                                               |
 
-| **前端**                                                                                       | \*\*\*\*                                                                                                                                                                                                                                                                                                                                                          |
+| **前端**                                                                                       |                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **前端开发规范手册(**[**书栈**](https://www.bookstack.cn/books/Aaaaaashu-Guide)**, )**                 | 前端羊村长 抖音号： [webyangcunzhang](https://www.douyin.com/user/MS4wLjABAAAAVeJm5Oa2UlX76qQ0-HvcF49SC0h7eA9SjNtp\_ZVwqhTBAEh09cDvcH3hdcvRzJye?author\_id=3482891519263176\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7002185357970197793\&group\_id=7002185357970197793\&log\_pb=%7B%22impr\_id%22%3A%22202110091511330101310550370405CAD4%22%7D) |
 | **前端开发者手册(**[**书栈**](https://www.bookstack.cn/books/front-end-handbook)**, )**               |                                                                                                                                                                                                                                                                                                                                                                   |
@@ -201,6 +201,7 @@
 | Responsive Dropdown Sidebar Menu using HTML CSS and JavaScript \| Side Navigation Bar [CodingLab](https://www.youtube.com/watch?v=ES8vJcUqE7s)     |
 | 【html】1小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=CLUPkcLQm64)                                                                    |
 | Feature Toggles - Why and How to Add to Your Software [freeCodeCamp](https://www.youtube.com/watch?v=-yHZ9uLVSp4)                                  |
+| Canvas图形、动画、游戏开发从入门到精通全系列课程　[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlmrUsdfVrTRt0lI1yQ9DEb)                                  |
 
 ### CSS
 
