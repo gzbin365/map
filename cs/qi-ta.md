@@ -287,15 +287,15 @@
 
 ## 自动化测试
 
-|                                                                                                       |   |
-| ----------------------------------------------------------------------------------------------------- | - |
-| UFT自动化测试详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasTjw593FwThi3LhsKToPD)          |   |
-| UFT高级测试开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYijnj-ZymGB\_ilfrYjuOY4)          |   |
-| 性能测试脚本开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbS8p3I\_0LxlfyEzOpPpcx-)           |   |
-| 性能测试核心技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-4VOvk3LtpYhdYXuOVSEZ)            |   |
-| LR场景设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXreapksSPNd4mOSa3YSo)              |   |
-| LR指标分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha4s8dUtPuBY\_JIu7fw3SQo)             |   |
-| Error detection [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFWff2QjXCWuSfJDWcvE0Vm) |   |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| UFT自动化测试详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasTjw593FwThi3LhsKToPD)          |
+| UFT高级测试开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYijnj-ZymGB\_ilfrYjuOY4)          |
+| 性能测试脚本开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbS8p3I\_0LxlfyEzOpPpcx-)           |
+| 性能测试核心技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-4VOvk3LtpYhdYXuOVSEZ)            |
+| LR场景设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXreapksSPNd4mOSa3YSo)              |
+| LR指标分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha4s8dUtPuBY\_JIu7fw3SQo)             |
+| Error detection [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFWff2QjXCWuSfJDWcvE0Vm) |
 
 ## 微信公众号
 
@@ -473,4 +473,5 @@
 | IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                  |
 | The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                        |
 | Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                         |
+| Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                               |
 |                                                                                                                                                 |
