@@ -509,6 +509,7 @@ LSTM
 | 数学\_蒙地卡罗法和Buffon needle简介 [PengTitus](https://www.youtube.com/watch?v=symRPdGSPNM)                                                                                                                                         |
 | <p>【数之道 21】随机抽样、蒙特卡洛模拟与逆转换方法 <a href="https://www.youtube.com/watch?v=Jt1BNnlTlQY&#x26;list=UUQ8_Gsyg4UYz15So6zzvBtw&#x26;index=2">FunInCode</a></p><p>将简单的均匀分布抽样转化为复杂分布抽样的方法: </p><p>逆转换方法 Inverse Transform Sampling</p> |
 | <p>【数之道 22】巧妙使用"接受-拒绝"方法，玩转复杂分布抽样 <a href="https://www.youtube.com/watch?v=Jt1BNnlTlQY&#x26;list=UUQ8_Gsyg4UYz15So6zzvBtw">FunInCode</a></p><p>接受拒绝抽样 Acceptance Rejection Sampling</p>                                    |
+| Monte Carlo simulation for Conditional VaR (Excel) [NEDL](https://www.youtube.com/watch?v=Oiglkuurb9c)                                                                                                                     |
 |                                                                                                                                                                                                                            |
 
 ### 马尔可夫 马尔科夫 Markov
