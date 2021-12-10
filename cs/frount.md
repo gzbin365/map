@@ -77,12 +77,13 @@
 | ------------------------------- | ----------------------------------- |
 | Vuejs([s](https://vuejs.org), ) | Reactjs([s](https://reactjs.org), ) |
 
-|                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ |
-| Vue js详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha-LwiC9WjsMhppOeZEpzJp)                         |
-| Learn Vue.js - Full Course for Beginners - 2019 [freeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc)        |
-| <p>Vue.js：纪录片 <a href="https://www.youtube.com/watch?v=OrxmtDw4pVI">Honeypot</a></p><p>Vue.js: The Documentary</p> |
-| Vue.js Course for Beginners \[2021 Tutorial] [freeCodeCamp](https://www.youtube.com/watch?v=FXpIoQ\_rT\_c)         |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vue js详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha-LwiC9WjsMhppOeZEpzJp)                                                                   |
+| Learn Vue.js - Full Course for Beginners - 2019 [freeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc)                                                  |
+| <p>Vue.js：纪录片 <a href="https://www.youtube.com/watch?v=OrxmtDw4pVI">Honeypot</a></p><p>Vue.js: The Documentary</p>                                           |
+| Vue.js Course for Beginners \[2021 Tutorial] [freeCodeCamp](https://www.youtube.com/watch?v=FXpIoQ\_rT\_c)                                                   |
+| Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows　[freeCodeCamp](https://www.youtube.com/watch?v=la-0ulfn0\_M) |
 
 ## React
 

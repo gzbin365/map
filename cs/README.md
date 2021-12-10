@@ -309,6 +309,14 @@ description: 计算机科学与技术 keep coding
 | Why Isn't Functional Programming the Norm? – Richard Feldman　[Metosin](https://www.youtube.com/watch?v=QyJZzq0v7Z4)           |
 |                                                                                                                               |
 
+## 编程范式
+
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| Programming Paradigms - [Computerphile](https://www.youtube.com/watch?v=sqV3pL5x8PI) |
+|                                                                                      |
+|                                                                                      |
+
 ## 并行算法
 
 |                                                                                                                                                         |
