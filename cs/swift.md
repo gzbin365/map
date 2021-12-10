@@ -6,6 +6,7 @@
 
 Swift Tutorial - Full Course for Beginners **** [freeCodeCamp](https://www.youtube.com/watch?v=comQ1-x2a1Q)
 
-|                                                                                               |   |
-| --------------------------------------------------------------------------------------------- | - |
-| swift编程项目实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZmluGsmTN0S4TalARR-sWq) |   |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| swift编程项目实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZmluGsmTN0S4TalARR-sWq)                              |
+| Create a weather app from scratch with this SwiftUI Crash Course [DesignCode](https://www.youtube.com/watch?v=X2W9MPjrIbk) |
