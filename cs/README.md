@@ -294,14 +294,20 @@ description: 计算机科学与技术 keep coding
 
 ## 函数式编程
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| **What is a Monad? - Computerphile(**[**u**](https://www.youtube.com/watch?v=t1e8gqXLbsU)**, )**                             |
-| **Haskell Tutorial(**[**u**](https://www.youtube.com/watch?v=02\_H3LjqMr8)**, )**                                            |
-| **Why Isn't Functional Programming the Norm? – Richard Feldman(**[**u**](https://www.youtube.com/watch?v=QyJZzq0v7Z4)**, )** |
-| Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                             |
-| Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                      |
-| Rust Programming Course for Beginners - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=MsocPEZBd-M)                 |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| **What is a Monad? - Computerphile(**[**u**](https://www.youtube.com/watch?v=t1e8gqXLbsU)**, )**                              |
+| **Haskell Tutorial(**[**u**](https://www.youtube.com/watch?v=02\_H3LjqMr8)**, )**                                             |
+| **Why Isn't Functional Programming the Norm? – Richard Feldman(**[**u**](https://www.youtube.com/watch?v=QyJZzq0v7Z4)**, )**  |
+| Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                              |
+| Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                       |
+| Rust Programming Course for Beginners - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=MsocPEZBd-M)                  |
+| Functional Programming in 40 Minutes • Russ Olsen • GOTO 2018　[GOTO Conferences](https://www.youtube.com/watch?v=0if71HOyVjY) |
+| Lambda Calculus - [Computerphile](https://www.youtube.com/watch?v=eis11j\_iGMs)                                               |
+| Functional Programming & Haskell - [Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)                               |
+| What is a Monad? - [Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)                                               |
+| Why Isn't Functional Programming the Norm? – Richard Feldman　[Metosin](https://www.youtube.com/watch?v=QyJZzq0v7Z4)           |
+|                                                                                                                               |
 
 ## 并行算法
 
