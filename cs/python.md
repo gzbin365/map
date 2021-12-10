@@ -297,20 +297,22 @@
 | **requests(**[**doc**](https://docs.python-requests.org/en/master/)**,** [**书童**](https://xugaoxiang.com/2020/11/28/python-module-requests/)**,** [**pypi**](https://pypi.org/project/requests/)**,** [**Guide**](https://realpython.com/python-requests/)**,** [**w3s**](https://www.w3schools.com/python/module\_requests.asp)**, )** |   |
 | requests\_html爬虫模块 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4sf1bq3PAm6onDczjY7QFvB)                                                                                                                                                                                                                           |   |
 
-| django([s](https://www.djangoproject.com), [git](https://github.com/django/django), )                                                                                                  | django-cms([s](https://www.django-cms.org/en/), ) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 麦子学院-django基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaWVGnmOgttOGX2u\_hluH8O) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwnn8ivqqjf1nQa\_VTqIl9V) |                                                   |
-| 麦子学院-django进阶 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYVKTTPw62kegfuQqVG3KR9) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxDXbI1WDmjz-\_KbfPIQqmP)  |                                                   |
-| django项目实战之购物系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYLHmx9yY7sVCfxC\_Q0vVPb)                                                                                     |                                                   |
-| django缓存优化 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYFBriAzSNFFQuTesw-abA3)                                                                                           |                                                   |
-| django项目部署 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaocrnv-1hbo7Emp6Vmz2i0)                                                                                           |                                                   |
-| 麦子学院-项目实战-Django个人博客系统 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx-Vs8ljg7QVjBPY1SXRB3p)                                                                            |                                                   |
-| Python Backend Web Development Course (with Django) [freeCodeCamp](https://www.youtube.com/watch?v=jBzwzrDvZ18)                                                                        |                                                   |
-| Python Django Web Framework - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4)                                                                    |                                                   |
-| Python Django and Google APIs - Project Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_vCT42vDfgw)                                                                          |                                                   |
-| E-commerce Website With Django and Vue Tutorial (Django Rest Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Yg5zkd9nm6w)                                                    |                                                   |
-| Django For Everybody - Full Python University Course [freeCodeCamp](https://www.youtube.com/watch?v=o0XbHvKxw7Y)                                                                       |                                                   |
-| Django Tutorial - Create a Digital Resume with a Python Backend [freeCodeCamp](https://www.youtube.com/watch?v=0oSsLbh\_Kv4)                                                           |                                                   |
+| django([s](https://www.djangoproject.com), [git](https://github.com/django/django), )   django-cms([s](https://www.django-cms.org/en/), )                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 麦子学院-django基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaWVGnmOgttOGX2u\_hluH8O) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwnn8ivqqjf1nQa\_VTqIl9V) |
+| 麦子学院-django进阶 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYVKTTPw62kegfuQqVG3KR9) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxDXbI1WDmjz-\_KbfPIQqmP)  |
+| django项目实战之购物系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYLHmx9yY7sVCfxC\_Q0vVPb)                                                                                     |
+| django缓存优化 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYFBriAzSNFFQuTesw-abA3)                                                                                           |
+| django项目部署 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaocrnv-1hbo7Emp6Vmz2i0)                                                                                           |
+| 麦子学院-项目实战-Django个人博客系统 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx-Vs8ljg7QVjBPY1SXRB3p)                                                                            |
+| Python Backend Web Development Course (with Django) [freeCodeCamp](https://www.youtube.com/watch?v=jBzwzrDvZ18)                                                                        |
+| Python Django Web Framework - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4)                                                                    |
+| Python Django and Google APIs - Project Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_vCT42vDfgw)                                                                          |
+| E-commerce Website With Django and Vue Tutorial (Django Rest Framework) [freeCodeCamp](https://www.youtube.com/watch?v=Yg5zkd9nm6w)                                                    |
+| Django For Everybody - Full Python University Course [freeCodeCamp](https://www.youtube.com/watch?v=o0XbHvKxw7Y)                                                                       |
+| Django Tutorial - Create a Digital Resume with a Python Backend [freeCodeCamp](https://www.youtube.com/watch?v=0oSsLbh\_Kv4)                                                           |
+| \[[程序员小飞](https://www.youtube.com/watch?v=onDgK-bTvjM)]2021年Django Web基础课程90分钟完整版                                                                                                      |
+|                                                                                                                                                                                        |
 
 | Fabric                                                                                     |   |
 | ------------------------------------------------------------------------------------------ | - |
