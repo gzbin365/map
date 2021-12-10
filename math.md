@@ -780,13 +780,13 @@ $$
 
 ## 数学建模
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| **路径规划与轨迹跟踪系列算法学习(**[**B**](https://space.bilibili.com/477041559/video)**, )**                             |
-| 数学建模初步 [Changkun Ou](https://www.youtube.com/playlist?list=PLwUqqMt5en7c7iZIseCVAS5BX6RPkS-qR)             |
-| Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L) |
-| 数学建模-谭忠（厦门大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZZd1pfsQd0OtXRjFjJorbo)      |
-| 清风：数学建模视频全套（持续更新）[红烧马化腾](https://www.youtube.com/playlist?list=PLvce\_oy4ggsHzrmgBz8vwQqRmezDOzo1N)        |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **路径规划与轨迹跟踪系列算法学习(**[**B**](https://space.bilibili.com/477041559/video)**, )**                                                                                  |
+| 数学建模初步 [Changkun Ou](https://www.youtube.com/playlist?list=PLwUqqMt5en7c7iZIseCVAS5BX6RPkS-qR)                                                                  |
+| Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L)                                                      |
+| 数学建模-谭忠（厦门大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZZd1pfsQd0OtXRjFjJorbo)                                                           |
+| 清风：数学建模视频全套【已完结！】[红烧马化腾](https://www.youtube.com/playlist?list=PLvce\_oy4ggsHzrmgBz8vwQqRmezDOzo1N) [bdy](https://pan.baidu.com/s/1FqUnJjeHsbcFESPJuDy64Q) 1y2r |
 
 ## 运筹学
 
