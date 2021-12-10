@@ -2,9 +2,9 @@
 
 **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )**
 
-**Swift Programming Tutorial for Beginners (Full Tutorial) **[**CodeWithChris**](https://www.youtube.com/watch?v=Ulp1Kimblg0)
+**Swift Programming Tutorial for Beginners (Full Tutorial)** [**CodeWithChris**](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 
-Swift Tutorial - Full Course for Beginners** **[freeCodeCamp](https://www.youtube.com/watch?v=comQ1-x2a1Q)
+Swift Tutorial - Full Course for Beginners **** [freeCodeCamp](https://www.youtube.com/watch?v=comQ1-x2a1Q)
 
 |                                                                                               |   |
 | --------------------------------------------------------------------------------------------- | - |

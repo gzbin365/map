@@ -8,7 +8,7 @@ description: 语音
 
 [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)
 
-[**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840)** **[**NEUTRINO**](https://n3utrino.work)
+[**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) **** [**NEUTRINO**](https://n3utrino.work)
 
 \*\*\*\*[**linux下python文字转语音库pyttsx3用法**](https://www.bilibili.com/video/av67394684/)
 

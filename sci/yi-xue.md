@@ -53,6 +53,10 @@
 |                                                                       |
 |                                                                       |
 
+人体使用手册：《脊柱健康书》 [明师在你心中](https://www.youtube.com/watch?v=UDk-9xj-glU) [bdy](https://pan.baidu.com/s/1SZIa\_eeFFQ05W0XO8vm4wA)
+
+{% file src="../.gitbook/assets/《脊柱健康书》（8步治背痛）.pdf" %}
+
 ## 健身
 
 |                                                                                                                                                                                                                                                                                                                         |   |
