@@ -131,11 +131,13 @@ description: 机器视觉
 
 ### 目标检测 Object Detection
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U)) |
-| I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                             |
-| 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                      |
+|                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U))       |
+| I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                                   |
+| 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                            |
+| What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)              |
+| Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0) |
 
 ### Visual Recognition
 

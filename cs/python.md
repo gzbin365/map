@@ -1,6 +1,6 @@
 # Python
 
-## 常用
+## codebasics [u](https://www.youtube.com/c/codebasics/playlists)常用
 
 |                                                                                                                                                           |                                                                                                                                 |                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@
 | 麦叔编程 [u](https://www.youtube.com/channel/UCzJD9VW02TKDVXMoyaEfSiQ/videos)                                                                                                                                                          | 轻松学python [u](https://www.youtube.com/channel/UCKAtZscEaqbrlkefWh8dYig/playlists)                                                     |
 | Python导师-蚂蚁 抖音号： [ant\_python](https://www.douyin.com/user/MS4wLjABAAAAOfSHjUIJ-3xGgVPSnl8a6x3vSV-7tP3OLrW9gV4TD-U)                                                                                                                | DigitalSreeni [u](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/playlists)                                                 |
 | python导师-lisa 抖音号： [python.1](https://www.douyin.com/user/MS4wLjABAAAAsHvA1r04fNGWq-8GjTmdbQiOTJe7eyVQZoQBL-HCGT4)                                                                                                                 | Python私教-有霸夫 抖音号： [youbafu](https://www.douyin.com/user/MS4wLjABAAAAeGtTBYfEYZ5CqqhvsF2nANCZ1aAuHBDYmrIqyvCr8ppQIOXVykK4Buk1Fm7Z0wE-) |
-| 程序员白白 抖音号： [80920602680](https://www.douyin.com/user/MS4wLjABAAAAyJ2erAuLGNUb5SKbNwpMrylafhL-NhvbsGSMR0-0f1qWuSxVICq6i1bvf-ljHZ2r)                                                                                                 |                                                                                                                                       |
+| 程序员白白 抖音号： [80920602680](https://www.douyin.com/user/MS4wLjABAAAAyJ2erAuLGNUb5SKbNwpMrylafhL-NhvbsGSMR0-0f1qWuSxVICq6i1bvf-ljHZ2r)                                                                                                 | codebasics [u](https://www.youtube.com/c/codebasics/playlists)                                                                        |
 
 ## 网课
 
@@ -605,20 +605,22 @@ Python高性能编程
 | ------------------------------------------------------------------------------ |
 | 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg) |
 
-|                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| **Reuven M. Lerner -** [**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY) **- PyCon 2019**                   |
-| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                      |
-| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                |
-| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                     |
-| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                 |
-| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)        |
-| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                |
-| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)            |
-| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc) |
-| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                             |
-| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                     |
-| Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                  |
+|                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Reuven M. Lerner -** [**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY) **- PyCon 2019**                       |
+| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                          |
+| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                    |
+| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                         |
+| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                     |
+| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)            |
+| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                    |
+| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)                |
+| Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5) |
+| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)     |
+| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                                 |
+| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                         |
+| Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                      |
+| Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                      |
 
 ## Book
 
