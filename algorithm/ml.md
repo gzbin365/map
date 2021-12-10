@@ -678,6 +678,7 @@ LSTM
 | [神经网络的损失函数为什么是非凸的?](https://www.zhihu.com/question/265516791)（知乎）                                                                                                                                                        |
 | awesome-material [git](https://github.com/Joy-spec/awesome-material)                                                                                                                                                     |
 | foochane/books [git](https://github.com/foochane/books)                                                                                                                                                                  |
+| lovingers/ML\_Books [git](https://github.com/lovingers/ML\_Books) 差评                                                                                                                                                     |
 
 ### MLAPP
 
