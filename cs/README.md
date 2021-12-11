@@ -61,6 +61,14 @@ description: 计算机科学与技术 keep coding
 | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists)              | Rackspace Technology([u](https://www.youtube.com/c/rackspace/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                     | 异步社区　抖音号： [628596691](https://www.douyin.com/user/MS4wLjABAAAAAaIE6CYwegV0LfrWMNN\_Uawfgw7ieBBwfG6Oxr9FM8I)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
+### Nvidia
+
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/) |
+| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
+|                                                                                                       |
+
 ### IBM
 
 |                                                                                                                                                                                                                                                                                 |                                                                      |
