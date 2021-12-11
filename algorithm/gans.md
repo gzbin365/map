@@ -17,3 +17,9 @@ description: Generative Adversarial Network (GAN)
 | AnimeGAN.js [s](https://animegan.js.org) [git](https://github.com/TonyLianLong/AnimeGAN.js)                                                                                |
 |                                                                                                                                                                            |
 
+| GauGAN                                                                      |
+| --------------------------------------------------------------------------- |
+| Semantic Image Synthesis with SPADE [git](https://github.com/nvlabs/spade/) |
+| SmartSketch [git](https://github.com/noyoshi/smart-sketch)                  |
+|                                                                             |
+
