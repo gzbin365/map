@@ -476,15 +476,14 @@ description: 用数学充实人生
 
 ### 贝叶斯　Bayes theorem
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s))                                              |
-| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I)                                              |
-| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                                                              |
-| 贝叶斯理论：Data Science必备技能  [Data Application Lab](https://www.youtube.com/watch?v=MvMkAI\_-38A)                                 |
-| 概率论 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YIya32NULSlxRd16klwYIL)             |
-| 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                               |
-| book: 贝叶斯思维：统计建模的PYTHON学习法　[git](https://github.com/NemoHoHaloAi/Think-Bayes) [git](https://github.com/jywan/my\_ThinkBayes) |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s))                                     |
+| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I)                                     |
+| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                                                     |
+| 贝叶斯理论：Data Science必备技能  [Data Application Lab](https://www.youtube.com/watch?v=MvMkAI\_-38A)                        |
+| 概率论 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YIya32NULSlxRd16klwYIL)    |
+| 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                      |
 
 $$
 P(A|B)=P(A) \dfrac{P(B|A)}{P(B)}

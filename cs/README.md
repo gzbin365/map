@@ -358,7 +358,7 @@ description: 计算机科学与技术 keep coding
 |                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------- |
 | Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A) |
-| Dujltqzv/Some-Many-Books [git](https://github.com/Dujltqzv/Some-Many-Books) 差评                             |
+|                                                                                                            |
 |                                                                                                            |
 
 ## 沙雕项目

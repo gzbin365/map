@@ -290,6 +290,7 @@ description: 机器学习
 | 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 人人可做的机器学习 [跨象乘云](https://www.youtube.com/playlist?list=PL9FmM4XAZdqAS8hct-lmeNWDxNrEAbOqn)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 人工智能专业课程实验演示 [跨象乘云](https://www.youtube.com/playlist?list=PL9FmM4XAZdqDEZigM1GWfgETdYILpmiJA)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 机器学习 生信宝典 [wx](https://mp.weixin.qq.com/mp/appmsgalbum?\_\_biz=MzI5MTcwNjA4NQ==\&action=getalbum\&album\_id=1688898593245462537\&scene=173\&from\_msgid=2247515824\&from\_itemidx=2\&count=3\&nolastread=1#wechat\_redirect)                                                                                                                                                                                                                                                                                                                        |
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -422,6 +423,7 @@ description: 机器学习
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Random Forests [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk) |
 | 算法：随机森林与集成算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZuhR-QwjHYzNHhnAWNWKsu)                         |
+| 一套完整的基于随机森林的机器学习流程（特征选择、交叉验证、模型评估））[生信宝典](https://mp.weixin.qq.com/s/SNXp5\_6zWKarbbcG5GXIfA)                          |
 
 #### MLP
 
