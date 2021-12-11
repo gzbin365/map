@@ -202,7 +202,7 @@ description: 机器学习
 | -------------------------------------------------------------------------------------------------------------- |
 | JAX [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq)                |
 | Intro to JAX: Accelerating Machine Learning research [TensorFlow](https://www.youtube.com/watch?v=WdTeDXsOSj4) |
-|                                                                                                                |
+| JAX Course [Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEFy7Yrw8Q8VgG0vpWbd\_LLu)       |
 
 
 

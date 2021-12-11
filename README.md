@@ -58,6 +58,12 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 |                                                           |   |   |
 |                                                           |   |   |
 
+| Google Code Jam                                                 |
+| --------------------------------------------------------------- |
+| Code Jam [s](https://codingcompetitions.withgoogle.com/codejam) |
+| Neal Wu [u](https://www.youtube.com/watch?v=8ukwV6rCvPg)        |
+|                                                                 |
+
 ## 亚马逊
 
 |                                                                                                                                              |
@@ -93,7 +99,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 |                                                                |                                                                                             | [**z-lib**](https://z-lib.org)                                                           | [**Library Genesis / libgen**](https://libgen.is)**(**[**bak**](https://libgen.rs)**)**                                                                                   |
 | [**书单网**](https://www.shudan.vip)                              | [**精品下载**](http://www.j9p.com)**(**[**pdf**](http://www.j9p.com/class/r\_16\_1.html)**, )** | [**书栈网**](https://www.bookstack.cn)                                                      | [**脚本之家**](https://www.jb51.net)**(**[**book**](https://www.jb51.net/books/)**,** [**软件下载**](https://www.jb51.net/softs/)**)**                                            |
 | [**ebook**](http://clg5.info/search?word=ebook-pdf)            | [**小白盘**](https://www.xiaobaipan.com)                                                       | [**多读**](http://www.duodu.cc)                                                            | [**微米电子书分享**](https://www.dzsfx.com)                                                                                                                                      |
-| [ePUBw](https://epubw.xyz.cutestat.com)                        |                                                                                             |                                                                                          |                                                                                                                                                                           |
+| [ePUBw](https://epubw.xyz.cutestat.com)                        | [极客图书](https://jikbook.com) 差评                                                              | [寻书帮](http://www.chendianrong.com) 差评                                                    |                                                                                                                                                                           |
 
 ## 关注
 
