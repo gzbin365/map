@@ -476,14 +476,15 @@ description: 用数学充实人生
 
 ### 贝叶斯　Bayes theorem
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s))                                     |
-| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I)                                     |
-| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                                                     |
-| 贝叶斯理论：Data Science必备技能  [Data Application Lab](https://www.youtube.com/watch?v=MvMkAI\_-38A)                        |
-| 概率论 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YIya32NULSlxRd16klwYIL)    |
-| 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                      |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| Bayes theorem([3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM\&t=1s))                                              |
+| 贝叶斯公式秒杀法——强烈建议看完，彻底掌握秒杀法精髓！　[心一学长](https://www.youtube.com/watch?v=tXHiLNNws6I)                                              |
+| 神奇的逆概率 [火星课堂](https://www.douyin.com/video/7020627808858787103)                                                              |
+| 贝叶斯理论：Data Science必备技能  [Data Application Lab](https://www.youtube.com/watch?v=MvMkAI\_-38A)                                 |
+| 概率论 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YIya32NULSlxRd16klwYIL)             |
+| 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                               |
+| book: 贝叶斯思维：统计建模的PYTHON学习法　[git](https://github.com/NemoHoHaloAi/Think-Bayes) [git](https://github.com/jywan/my\_ThinkBayes) |
 
 $$
 P(A|B)=P(A) \dfrac{P(B|A)}{P(B)}
@@ -531,6 +532,18 @@ $$
 |                                                                                                     |   |
 | --------------------------------------------------------------------------------------------------- | - |
 | [Markov Chain](https://www.youtube.com/playlist?list=PLANMHOrJaFxPMQCMYcYqwOCYlreFswAKP) patrickJMT |   |
+
+### 随机游走 Random Walk
+
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| 随机游走 (Random Walk) [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_bYPgQZgkNy5caDgeDt8Q-X) |
+| 金融数学基础 资产价格随机游走 [金刚钻club](https://www.youtube.com/watch?v=p\_uqieLfdoc\&t=4s)                                                   |
+| 进化经济学：随机游走和预测的关系 [泽熙长信](https://www.youtube.com/watch?v=\_HSjCyFKIhU)                                                           |
+| Random Walks Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQrm1zjRtEzh1Z5OtkN90lu)           |
+| 统计学(Statistics) [Learn It Fast 学快点](https://www.youtube.com/playlist?list=PL56quC9zo3uaVTjisFqSZzuwt0moL6Yrb)                   |
+| 醉汉回到家的概率是多少？用随机游走阐述科学家精神 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2xOcz4j1yjQ)                                            |
+|                                                                                                                                 |
 
 ### 有限元分析 Finite Element
 
@@ -823,10 +836,11 @@ $$
 
 ## 混沌理论 Chaos Theory
 
-|                                                                                    |   |
-| ---------------------------------------------------------------------------------- | - |
-| [混沌](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H3FkW5nyOsYQl8CEqvhhnQ) 張志鴻 |   |
-| [碎形](https://www.youtube.com/playlist?list=PLUM5vdzDQB4E3onr-KAf0QdCsgE8uYEdk) 張志鴻 |   |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| [混沌](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H3FkW5nyOsYQl8CEqvhhnQ) 張志鴻                                    |
+| [碎形](https://www.youtube.com/playlist?list=PLUM5vdzDQB4E3onr-KAf0QdCsgE8uYEdk) 張志鴻                                    |
+| Chaos 混沌 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YkHIgBDJZ3UkZA8GrF6N2M) |
 
 ## 控制论 Control Theory
 
