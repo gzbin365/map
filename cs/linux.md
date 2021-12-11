@@ -4,7 +4,7 @@ description: 从编程中找到快乐
 
 # Linux
 
-NeovimNeovim[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
+[**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
 [**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
 
@@ -167,7 +167,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | git 提交规范                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Open Source Guides [s](https://opensource.guide)  [license](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)                                                                                                                                                                                                                                                            |
 | Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                                                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| github-actions [s](https://github.com/features/actions) bot                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
