@@ -737,3 +737,6 @@ LSTM
 | 2020 Machine Learning Roadmap (still valid for 2021) [Daniel Bourke](https://www.youtube.com/watch?v=pHiMN\_gy9mk)                       |
 | Why AI is Harder Than We Think (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=uwfVxckuq50) |
 | Discovering ketosis: how to effectively lose weight [git](https://github.com/arielf/weight-loss)                                         |
+| imhuay/studies 学习笔记 [git](https://github.com/imhuay/studies)                                                                             |
+| 25th-engineer/DaChuangFiles [git](https://github.com/25th-engineer/DaChuangFiles)                                                        |
+|                                                                                                                                          |
