@@ -424,6 +424,8 @@
 | Install Linux GUI apps on Windows 10 [Chris Titus Tech](https://www.youtube.com/watch?v=KcIdAunRSSc)                                               |
 | PowerShell [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6kusr3cg6eYqCAiU6ezVj5)                                               |
 | Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
+| PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
+| PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
 
 ### Windows 11
 

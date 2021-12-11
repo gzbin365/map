@@ -315,6 +315,7 @@ description: 计算机科学与技术 keep coding
 | Clean Code [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                              |
 | Rust: Zero Cost Abstractions [Coding Tech](https://www.youtube.com/watch?v=JCGjjk5ccV0)                                       |
 | Rust Programming Course for Beginners - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=MsocPEZBd-M)                  |
+| Rust 2021 Edition Explained [Let's Get Rusty](https://www.youtube.com/watch?v=uIeIBlB0JFw)                                    |
 | Functional Programming in 40 Minutes • Russ Olsen • GOTO 2018　[GOTO Conferences](https://www.youtube.com/watch?v=0if71HOyVjY) |
 | Lambda Calculus - [Computerphile](https://www.youtube.com/watch?v=eis11j\_iGMs)                                               |
 | Functional Programming & Haskell - [Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)                               |
