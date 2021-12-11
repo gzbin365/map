@@ -87,6 +87,14 @@
 | 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |
 | 程序员都用什么软件做笔记 [IT师哥](https://www.douyin.com/video/7027099311112555784)                     |
 
+## 电脑远程控制
+
+|                                                    |
+| -------------------------------------------------- |
+| ToDesk s [d](https://www.todesk.com/download.html) |
+|                                                    |
+|                                                    |
+
 ## utools
 
 |                                                                              |
