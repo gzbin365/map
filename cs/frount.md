@@ -256,6 +256,7 @@
 | TypeScript Design Patterns [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSk1pnrKewLklYfCdu9Qjhy)                            |
 | Let's Learn Typescript for Javascript Developers from Scratch [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7RGTEsMFIGLbzTa4iUA9rGA) |
 | Learn TypeScript - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)                                           |
+| AILHC/EasyGameFrameworkOpen [git](https://github.com/AILHC/EasyGameFrameworkOpen) 基于Typescript的渐进式通用游戏前端开发框架                                       |
 
 ### jQuery
 
