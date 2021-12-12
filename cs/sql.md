@@ -39,6 +39,14 @@
 | Mongodb最佳实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZjgqnj6wEB0fVusQJASh2c)                                          |
 | MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm [freeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4) |
 
+实时动态数据库　live dynamic database (LDD)
+
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| Real-time database [wiki](https://en.wikipedia.org/wiki/Real-time\_database) [v](https://www.youtube.com/watch?v=6laeV\_9xGKo) 3:22 |
+|                                                                                                                                     |
+|                                                                                                                                     |
+
 | 其他                                                               |   |
 | ---------------------------------------------------------------- | - |
 | 数据中台实战课 [极客时间](https://time.geekbang.org/column/intro/100049101) |   |

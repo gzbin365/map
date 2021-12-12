@@ -106,6 +106,13 @@ description: 自然语言处理
 | 聊天机器人视频课程 七月在线 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQmNDFM8pksedM117ziot2XK)                                                 |                                                                                  |
 | Design and Build a Chat App with Socket.io [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbyGwhSlxg16mQGpGnauCwq)             |                                                                                  |
 | Code a Discord Chat Bot That Talks Like Your Favorite Character [freeCodeCamp](https://www.youtube.com/watch?v=UjDpW\_SOrlw)                     |                                                                                  |
+|                                                                                                                                                  |                                                                                  |
+
+|                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>I Made a Bot that Knows EVERYTHING! <a href="https://www.youtube.com/watch?v=6laeV_9xGKo">Jabrils</a></p><p>Sam Says Sweet Sounds <a href="http://www.samsayssweetsounds.com">s</a></p> |
+|                                                                                                                                                                                            |
+|                                                                                                                                                                                            |
 
 | **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
