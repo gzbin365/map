@@ -26,6 +26,7 @@
 | Kali Linux道德黑客渗透测试入门教程 [风笙网络安全](https://www.youtube.com/playlist?list=PL5iF3ZSYBiDczDjFFPf87MKVyQXdbKYgj)                                              |
 | Kali Linux - Complete Training Program from Scratch [Free Education For All](https://www.youtube.com/playlist?list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) |
 | Kali Linux教程系列1 [Kooper Gustave](https://www.youtube.com/playlist?list=PLPND9W6OSqEUnsg-MGJ5886jqdnkZ5dSI)                                             |
+| Kali Linux 2021.1 安装 阿拓新                                                                                                                               |
 | Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                 |
 | this device is HACKING my network!! (I'm letting it happen) [NetworkChuck](https://www.youtube.com/watch?v=2rVzRoF7vQw)                                |
 | you need to learn HACKING RIGHT NOW!! // CEH (ethical hacking) [NetworkChuck](https://www.youtube.com/watch?v=yFC8pb2TPdc)                             |
