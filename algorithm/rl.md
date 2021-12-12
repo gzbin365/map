@@ -21,6 +21,7 @@ description: 强化学习
 |                                                                        |                                                                                        |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **腾讯开悟(**[**s**](https://aiarena.tencent.com/aiarena/zh/index/)**, )** | **Reinforcement Learning(**[**quora**](https://reinforcementlearning.quora.com)**, )** |
+|                                                                        | [TutsNode.com](https://tutsnode.com/?s=Reinforcement+Learning)                         |
 
 ## UP
 
@@ -94,3 +95,5 @@ description: 强化学习
 | StarCraft 2: Google DeepMind AlphaStar (A.I.) vs Pro Gamer! [LowkoTV](https://www.youtube.com/watch?v=FWbVseLiopw)                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                                                                   |
+
+{% file src="../.gitbook/assets/Bilgin E. Mastering Reinforcement Learning with Python 2021.pdf" %}
