@@ -56,6 +56,14 @@ description: 用数学充实人生
 
 ## 工具
 
+### NetLogo
+
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| Fundamentals of NetLog [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109) |
+|                                                                                                                        |
+|                                                                                                                        |
+
 ### Desmos
 
 |                                                                                                                                                                                                           |
