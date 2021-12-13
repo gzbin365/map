@@ -126,6 +126,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 流体力学机器学习 [爱可可-爱生活](https://www.bilibili.com/video/BV1e5411V7f6/?spm\_id\_from=333.788.recommend\_more\_video.-1)    |
 | 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |
 | 边界层理论 天津大学 董明 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDXLZFs1PTypISLHZK\_IpSF)             |
+| 2.5流物理学家朗道的一生 什么是玻色-爱因斯坦凝聚？[妈咪说MommyTalk](https://www.youtube.com/watch?v=0gZXhrQjjqc\&t=14s)                       |
 |                                                                                                                     |
 
 ## 核电
@@ -147,10 +148,12 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Understanding the Holographic Universe [PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR) |
 | 课程-天文探秘 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wc6Rdt44Ke4T-i9REanLZC)                           |
 
-| 其他                                                                                |
-| --------------------------------------------------------------------------------- |
-| 火焰究竟是气态还是等离子态 [二次元的中科院物理所](https://www.youtube.com/watch?v=-kYj01K9\_Bc)          |
-| 这个世界是由什么构成的？五行论与元素论有什么区别？[李永乐老师讲原子说](https://www.youtube.com/watch?v=QeCZt92BZCY) |
+| 其他                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 火焰究竟是气态还是等离子态 [二次元的中科院物理所](https://www.youtube.com/watch?v=-kYj01K9\_Bc) B [B](https://search.bilibili.com/all?keyword=%E7%81%AB%E7%84%B0%E7%A9%B6%E7%AB%9F%E6%98%AF%E6%B0%94%E6%80%81%E8%BF%98%E6%98%AF%E7%AD%89%E7%A6%BB%E5%AD%90%E6%80%81\&from\_source=webtop\_search\&spm\_id\_from=333.999) 气体 激发态的气体 离子态  |
+| 物质有哪些形态                                                                                                                                                                                                                                                                                                          |
+| 这个世界是由什么构成的？五行论与元素论有什么区别？[李永乐老师讲原子说](https://www.youtube.com/watch?v=QeCZt92BZCY)                                                                                                                                                                                                                                |
+| 速度是否可以叠加？[zh](https://www.zhihu.com/question/488630194)                                                                                                                                                                                                                                                          |
 
 |                                                                         |
 | ----------------------------------------------------------------------- |
