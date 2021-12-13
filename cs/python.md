@@ -507,6 +507,9 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | Asyncio: Understanding Async / Await in Python [Coding Tech](https://www.youtube.com/watch?v=bs9tlDFWWdQ)                                                       |
 | #4.2 加速爬虫: 异步加载 Asyncio (爬虫 scraping 基础 Python) [莫烦Python](https://www.youtube.com/watch?v=Wa2K7sB7BZE)                                                         |
 | Async Await try-catch hell [Fireship](https://www.youtube.com/watch?v=ITogH7lJTyE)                                                                              |
+| 为什么要使用 async/await ？[技术小哥](http://www.frontendjs.com/article/60b4a3c1e95ae603076e44b6)                                                                          |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 |                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
