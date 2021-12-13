@@ -327,6 +327,7 @@
 | 自动化                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ClarityCoders [u](https://www.youtube.com/c/ClarityCoders/playlists)                                                                                                   |
+| Learn Code By Gaming [u](https://www.youtube.com/c/LearnCodeByGaming)                                                                                                  |
 | 自动化测试 selenium [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaDvcIvNPtbcAGnrU1Bx0JJ)                                                                       |
 | python自动化运维+web监控系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHu1uI4g6Bb44gGpq2aXvJ)                                                                  |
 | Selenium自动化测试实战 [极客时间](https://time.geekbang.org/course/intro/100055601)                                                                                               |
@@ -343,6 +344,8 @@
 | 用pyautogui做个解压神器(python 编程)--make a game bot by pyautogui [T\&W 电脑帮](https://www.youtube.com/watch?v=2Pm1O0J5Sz8)                                                      |
 | Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016 [SF Python](https://www.youtube.com/watch?v=dZLyfbSQPXI)                                            |
 | Python Automation Tutorial – How to Automate Tasks for Beginners \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx\_U)                           |
+| Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                   |
+|                                                                                                                                                                        |
 
 [All Top 40 Python Libraries EXPLAINED in 20 minutes](https://www.youtube.com/watch?v=-29x\_deQQus)
 

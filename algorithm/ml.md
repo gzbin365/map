@@ -4,6 +4,8 @@ description: 机器学习
 
 # ML
 
+
+
 [**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
 
 [**AI之禅**](https://cloud.tencent.com/developer/user/3417275) [**机器之心**](https://cloud.tencent.com/developer/column/2713) [**ATYUN订阅号**](https://cloud.tencent.com/developer/column/2066) [**AI科技大本营的专栏**](https://cloud.tencent.com/developer/column/1360) [**BestSDK**](https://cloud.tencent.com/developer/column/2053) [**云+直播**](https://cloud.tencent.com/developer/column/2257)
@@ -213,7 +215,7 @@ description: 机器学习
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**高级人工智能**](https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD\&from\_source=nav\_search\_new)                                                                                                                                                                                                                                                                                                                                                                                                         |
-| <p>邹博　机器学习　<a href="https://www.youtube.com/channel/UCPKMixIGCjwgTQxoODj3aFQ/videos">曹峰</a>　BiteOfPython　<a href="https://www.youtube.com/playlist?list=PL6W3lurecOfyq3PucJuBNo5IWdH0FaTdo">Xuhui Lin</a>　<a href="https://www.youtube.com/playlist?list=PL4R4917X9BkGQyjPFOQMGe_Hn6VlVcSQp">升级版第七期</a>　<a href="https://btsow.rest/magnet/detail/hash/D0663433E1D7833F57FEDF665132B87099DAF8ED">bt</a></p><p><a href="https://www.youtube.com/playlist?list=PL4R4917X9BkFGRf6xrtJT7fyxSImk4Wd4">机器学习课程(全）</a></p>                                  |
+| <p>邹博　机器学习　<a href="https://www.youtube.com/channel/UCPKMixIGCjwgTQxoODj3aFQ/videos">曹峰</a>　BiteOfPython　<a href="https://www.youtube.com/playlist?list=PL6W3lurecOfyq3PucJuBNo5IWdH0FaTdo">Xuhui Lin</a>　<a href="https://www.youtube.com/playlist?list=PL4R4917X9BkGQyjPFOQMGe_Hn6VlVcSQp">升级版第七期</a>　bt:机器学习理论研究</p><p><a href="https://www.youtube.com/playlist?list=PL4R4917X9BkFGRf6xrtJT7fyxSImk4Wd4">机器学习课程(全）</a></p>                                                                                                                      |
 | Kaggle实战课程　小象　[BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkHESJa21Y13F37ZUYq4gv2G)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 七月在线 邹博机器学期算法基础2015年　[Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJsh5f12tOhXwOSoGxZRiygC)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 大数据的统计基础(完)　掘金　[BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkHZaQHTGoGnXvGg9LUoTZSz)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -331,6 +333,11 @@ description: 机器学习
 | \[Coursera] Neural Networks for Machine Learning — Geoffrey Hinton [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk\_SNhz9)                                                 |
 | Deep Learning With PyTorch - Full Course [Python Engineer](https://www.youtube.com/watch?v=c36lUUr864M)                                                                                                       |
 | Deep Learning Crash Course for Beginners　[freeCodeCamp](https://www.youtube.com/watch?v=VyWAvY2CF9c)                                                                                                          |
+| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                      |
+|                                                                                                                                                                                                               |
+|                                                                                                                                                                                                               |
+|                                                                                                                                                                                                               |
+|                                                                                                                                                                                                               |
 
 #### 动手学深度学习
 
@@ -473,14 +480,14 @@ description: 机器学习
 
 ### 神经网络 Neural Networks
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| Neural Networks [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) |
-| Gradient Boost [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)                                     |
-| Batch Normalization - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=DtEq44FTPM4)                            |
-| Optimizers - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=mdKjMPmcWjY)                                     |
-| Liquid Neural Networks [MITCBMM](https://www.youtube.com/watch?v=IlliqYiRhMU)                                           |
-|                                                                                                                         |
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Neural Networks [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)                  |
+| Gradient Boost [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)                                                      |
+| Batch Normalization - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=DtEq44FTPM4)                                             |
+| Optimizers - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=mdKjMPmcWjY)                                                      |
+| Liquid Neural Networks [MITCBMM](https://www.youtube.com/watch?v=IlliqYiRhMU)                                                            |
+| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z) |
 
 ### RNN Recurrent Neural Networks
 

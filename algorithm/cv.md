@@ -85,6 +85,10 @@ description: 机器视觉
 | Android Development with OpenCV [doc](https://docs.opencv.org/2.4/doc/tutorials/introduction/android\_binary\_package/dev\_with\_OCV\_on\_Android.html)                                   |
 | <p>教程 Python 和 OpenCV 图像处理基础（2 小时！） <a href="https://www.youtube.com/watch?v=u2NrR-rgz34">Kong Ruksiam</a></p><p>สอน Python &#x26; OpenCV Image Processing เบื้องต้น (2 ชั่วโมงเต็ม!)</p> |
 | 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM)                                                                                                  |
+| OpenCV 3.4 with Python 3 Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa\_\_vnifNA744Cz-q)                                                                  |
+| Images Comparison with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)                                                             |
+| Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                                      |
+| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                  |
 |                                                                                                                                                                                           |
 
 

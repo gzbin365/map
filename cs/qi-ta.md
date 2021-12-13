@@ -227,7 +227,7 @@
 | "Game Development in Eight Bits" by Kevin Zurawel [Strange Loop Conference](https://www.youtube.com/watch?v=TPbroUDHG0s)                                        |
 | uPokémon Coding Tutorial - CS50's Intro to Game Development [freeCodeCamp](https://www.youtube.com/watch?v=gx\_qorHxBpI)                                        |
 | game 贪吃蛇 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK6brBOhoaa1zh7QZbyMj88P)                                                                    |
-|                                                                                                                                                                 |
+| Game development python Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTm3U7r6QOOAgffhcDXdLS8t)                                           |
 
 ### 虚幻引擎 Unreal Engine
 
