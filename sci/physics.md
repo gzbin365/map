@@ -70,14 +70,17 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 电路
 
-|                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------- |
-| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                    |
-| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)          |
-| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar) |
-| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                           |
-| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                  |
-| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                  |
+|                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                                                           |
+| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)                                                 |
+| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar)                                        |
+| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                                                                  |
+| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                                                         |
+| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                                                         |
+| In Search for the BEST Wireless Power Coil! (Experiment) My Coils can act like Capacitors? [GreatScott!](https://www.youtube.com/watch?v=S3mLHpzzcTU) |
+| Free Energy BS! \|\| Magnet PC Fan, Bedini Motor [GreatScott!](https://www.youtube.com/watch?v=g4tO0kBOzqk)                                           |
+| Free Energy Devices Build and Science [ElectroBOOM](https://www.youtube.com/watch?v=15V0gUXUPko)                                                      |
 
 ## 微波 Microwave
 
