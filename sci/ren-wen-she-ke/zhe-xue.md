@@ -50,6 +50,7 @@
 | 最自由的4个字，就是“我不在乎” [林欣浩](https://www.douyin.com/video/7025915204437413134)                                                                                                                                    |
 | 当下中国人如何选择未来？｜[王德峰](https://www.youtube.com/watch?v=ZXNNWBcq1g8)                                                                                                                                             |
 | 人生是孤独的存在 [俞敏洪](https://www.douyin.com/video/7038613488536800546)                                                                                                                                            |
+| 真正的懒惰：用战术上的勤奋掩盖战略上的懒惰．                                                                                                                                                                                      |
 
 ### 人生的意义
 
