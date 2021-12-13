@@ -49,7 +49,8 @@ description: 硬件设备
 | Top 10 Arduino Projects 2020 \| Awesome Idea for winning Science Project [TecH BoyS ToyS](https://www.youtube.com/watch?v=gXF0VDY7DHI)             |
 | 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
 | Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
-| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc) |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
 
 ## **Raspberry Pi**
 
