@@ -452,11 +452,13 @@
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | 橙苏博客 [u](https://www.youtube.com/channel/UCz26PQMphBrMag2kWQV\_GGw/playlists) | ZZR老师 [u](https://www.youtube.com/channel/UCL7pTT5FSevbCNON8nRQqgA/videos) |
 
-|                                                                                                                                                                     |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 紫猫学院 [s](https://zimaoxy.com) [B](https://space.bilibili.com/1513859?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)　[论坛](https://zimaoxy.com/b/) |   |
-| 宝典　[电脑版](https://zimaoxy.com/q/post/Basic-Parameter/)　[手机版](https://zimaoxy.com/m/)                                                                                 |   |
-| 紫猫学院第二期按键精灵基础教程 [Slientlif3](https://www.bilibili.com/video/BV1v4411W7LP?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)                          |   |
+|                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 紫猫学院 [s](https://zimaoxy.com) [B](https://space.bilibili.com/1513859?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)　[论坛](https://zimaoxy.com/b/) |
+| 宝典　[电脑版](https://zimaoxy.com/q/post/Basic-Parameter/)　[手机版](https://zimaoxy.com/m/)                                                                                 |
+| 紫猫学院第二期按键精灵基础教程 [Slientlif3](https://www.bilibili.com/video/BV1v4411W7LP?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)                          |
+| 按键精灵编程有技术含量吗 [zh](https://www.zhihu.com/question/19896140)                                                                                                          |
+|                                                                                                                                                                     |
 
 ## 杂
 
@@ -478,4 +480,5 @@
 | The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                        |
 | Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                         |
 | Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                               |
+| 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                            |
 |                                                                                                                                                 |

@@ -24,6 +24,15 @@
 | 為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Q\_PfYlAtvHc) |
 | 这就是最棒的效率软件！如果不是，我倒想试试你的 \| Notion使用技巧分享 [老石谈芯](https://www.youtube.com/watch?v=NHTMs1z88uA)        |
 
+### 其他导航
+
+|                               |                                 |   |
+| ----------------------------- | ------------------------------- | - |
+| [某柠檬](https://www.moulem.com) | [A5创业网](https://www.admin5.com) |   |
+|                               |                                 |   |
+|                               |                                 |   |
+|                               |                                 |   |
+
 ### 安卓模拟器
 
 | bluestacks                                                                                                                                          |

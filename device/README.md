@@ -305,7 +305,7 @@ description: 硬件设备
 |                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------- |
 | 群晖 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
-|                                                                                                            |
+| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U) |
 |                                                                                                            |
 |                                                                                                            |
 
