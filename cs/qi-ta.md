@@ -1,12 +1,5 @@
 # 其他
 
-|                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Zig(**[**s**](https://ziglang.org)**,** [**书栈**](https://www.bookstack.cn/books/ziglang-0.7-en)**,** [**doc**](https://ziglang.org/documentation/master/)**, )** |
-| [Documentation - 搜索结果 - 书栈网](https://www.bookstack.cn/search/result?page=1\&tab=book\&wd=Documentation)                                                            |
-| 游戏大师课 [u](https://www.youtube.com/channel/UCPpDrebzulufI3G1TTeNu-g/playlists)                                                                                      |
-| CNET Highlights [u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/videos)                                                                              |
-
 ## MongoDB
 
 | **MongoDB**                                                                                             |
@@ -135,17 +128,6 @@
 
 ## Web
 
-|                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| Core Fundamentals of Web Development [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfaO1IX02\_1L5MW2s9RyIgQ7)      |
-| Web Development Examples From Scratch [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfacxB\_8rbuixIJWKujLYM\_Q)    |
-| 免费搭建个人网站 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4v7t77iXNQfVe0mPzZyZctY)                                  |
-| rails敏捷开发仿锤子网站 [开发者学堂](https://www.youtube.com/watch?v=Niu46svY5Pk\&list=PLGmd9-PCMLhZqbwva-1ApBJ\_fsUtnMYPE)                        |
-| 企业网站后台制作实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ4zl32C6R5ZSKloO5mTOgf)                                         |
-| 麦子学院-高级工程师手把手带你做企业门户前端 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxXqWqPeBQ2QUIzFuHbXTHK)                          |
-| Hugo 快速构建一个自己的博客 [v](https://www.douyin.com/video/6967236505697864973)                                                               |
-| 写代码的产品兔 抖音号： [coding\_pm](https://www.douyin.com/user/MS4wLjABAAAArp0OlOKSaQMO2rtSZJkU94bGTYwn-QfLU2zFLe4k\_eTuFcfzF2HtFw231RJNcrRn) |
-
 ### WordPress
 
 |                                                                                                                              |
@@ -171,21 +153,21 @@
 | --------------------------------------------------------- | ------------------------------------------------------ |
 | Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) |
 
-|                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Should I learn Unity or Unreal Engine?](https://www.youtube.com/watch?v=OH2sYJw52BQ) Stylized Station                                               |
-| **Unity Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB)**)**                            |
-| Unity DOTS vs Handbuilt: Sample Project([Nick Caston](https://www.youtube.com/channel/UCWm66r5LauAXin-Asjgo8YQ))                                     |
-| Unity4.0公开课([Cosmo Wang](https://www.youtube.com/playlist?list=PLFhPE3hKAfx\_rvnvkI6BTAyS6XoiGu3\_R))                                                |
-| Unity3D ARPG游戏实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb\_rnmsB2tsEqpQXlNF\_MuH)                                                 |
-| Unity3D人工智能编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLharIrB60P9n8OhdTN8jXBel)                                                      |
-| Unity Game tutorial \| Build Among Us [Outscal](https://www.youtube.com/playlist?list=PLVOvwIVo57tnuQOVCdve5pz0P4SQT1Oqc)                            |
-| Learn Unity Engine and C# by creating a real top down RPG \[FULL COURSE]\[C# Unity Tutorial] [Epitome](https://www.youtube.com/watch?v=b8YUfee\_pzc) |
-| Learn Unity - Beginner's Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=gB1F9G0JXOo)                                       |
-| Python for Unity 3D 2020 [Indie-Pixel](https://www.youtube.com/watch?v=3UOlN8FcNbE)                                                                  |
-| Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                       |
-| 【Unity】3小时制作一个游戏 ｜ Unity 游戏开发初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=nPW6tKeapsM)                                                  |
-|                                                                                                                                                      |
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Should I learn Unity or Unreal Engine?](https://www.youtube.com/watch?v=OH2sYJw52BQ) Stylized Station                                                 |
+| **Unity Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB)**)**                              |
+| Unity DOTS vs Handbuilt: Sample Project([Nick Caston](https://www.youtube.com/channel/UCWm66r5LauAXin-Asjgo8YQ))                                       |
+| Unity4.0公开课([Cosmo Wang](https://www.youtube.com/playlist?list=PLFhPE3hKAfx\_rvnvkI6BTAyS6XoiGu3\_R))                                                  |
+| Unity3D ARPG游戏实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb\_rnmsB2tsEqpQXlNF\_MuH)                                                   |
+| Unity3D人工智能编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLharIrB60P9n8OhdTN8jXBel)                                                        |
+| Unity Game tutorial \| Build Among Us [Outscal](https://www.youtube.com/playlist?list=PLVOvwIVo57tnuQOVCdve5pz0P4SQT1Oqc)                              |
+| Learn Unity Engine and C# by creating a real top down RPG \[FULL COURSE]\[C# Unity Tutorial] [Epitome](https://www.youtube.com/watch?v=b8YUfee\_pzc)   |
+| Learn Unity - Beginner's Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=gB1F9G0JXOo)                                         |
+| Python for Unity 3D 2020 [Indie-Pixel](https://www.youtube.com/watch?v=3UOlN8FcNbE)                                                                    |
+| Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                         |
+| 【Unity】3小时制作一个游戏 ｜ Unity 游戏开发初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=nPW6tKeapsM)                                                    |
+| How to Make Oculus Quest 2 Games // Introduction to Unity VR Development [Justin P Barnett - VR Game Dev](https://www.youtube.com/watch?v=wnn-dzHz-tA) |
 
 ## Game Programming
 

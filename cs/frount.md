@@ -59,6 +59,7 @@
 | Gatsby Static Site Generator Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=RaTpreA0v7Q)                                                                                                |
 | Make A Python Website As Fast As Possible! [Tech With Tim](https://www.youtube.com/watch?v=kng-mJJby8g)                                                                                          |
 | JavaScript Tutorial - PuzzleCam Game　[freeCodeCamp](https://www.youtube.com/watch?v=HS6KHYIYdXc)                                                                                                 |
+| Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod [freeCodeCamp](https://www.youtube.com/watch?v=OUzaUJ3gEug)                                                    |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
