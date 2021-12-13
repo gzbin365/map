@@ -69,6 +69,20 @@ description: 计算机科学与技术 keep coding
 | The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
 |                                                                                                       |
 
+### Oracle
+
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
+
+|                                                     |
+| --------------------------------------------------- |
+| Your Questions Answered - Oracle Free Tier IdeaSpot |
+|                                                     |
+|                                                     |
+
 ### IBM
 
 |                                                                                                                                                                                                                                                                                 |                                                                      |
