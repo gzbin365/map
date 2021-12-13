@@ -4,7 +4,7 @@ description: 机器视觉
 
 # CV
 
-![](../.gitbook/assets/Lenna.jpg)
+![lenna](../.gitbook/assets/Lenna.jpg)
 
 [lenna](http://www.lenna.org)
 
@@ -87,13 +87,11 @@ description: 机器视觉
 | 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM)                                                                                                  |
 |                                                                                                                                                                                           |
 
-## 跟踪视频
 
-[**【小白CV教程】YOLOv5+Deepsort实现车辆行人的检测、追踪和计数**](https://blog.csdn.net/weixin\_44936889/article/details/112002152)
 
-[**xiaojunzaizai/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)
 
-[**Sharpiless/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+
+
 
 ## 图像合成 Image Synthesis
 
@@ -138,6 +136,17 @@ description: 机器视觉
 | 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                            |
 | What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)              |
 | Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0) |
+
+### 视频跟踪
+
+|                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Object Tracking with Opencv and Python [Pysource](https://www.youtube.com/watch?v=O3b8lVF93jU) [code](https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/) |
+| [**【小白CV教程】YOLOv5+Deepsort实现车辆行人的检测、追踪和计数**](https://blog.csdn.net/weixin\_44936889/article/details/112002152)                                                                 |
+| [**xiaojunzaizai/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                         |
+| [**Sharpiless/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                            |
+|                                                                                                                                                                                |
+|                                                                                                                                                                                |
 
 ### Visual Recognition
 
