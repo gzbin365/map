@@ -10,15 +10,16 @@ description: 语音
 
 [**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) **** [**NEUTRINO**](https://n3utrino.work)
 
-\*\*\*\*[**linux下python文字转语音库pyttsx3用法**](https://www.bilibili.com/video/av67394684/)
+[**linux下python文字转语音库pyttsx3用法**](https://www.bilibili.com/video/av67394684/)
 
-Python文字语音播报\*\*([**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/))\*\*
+Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/)
 
 |                                                                                                                                                                                                                                                                                             |                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | Valerio Velardo - The Sound of AI([u](https://www.youtube.com/c/ValerioVelardoTheSoundofAI/featured), [medium](https://medium.com/the-sound-of-ai), [linkedin](https://www.linkedin.com/in/valeriovelardo), [fb](https://www.facebook.com/TheSoundOfAI), [s](https://valeriovelardo.com), ) | Valerio Velardo |
 | Deep Learning (for Audio) with Python([ulist](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf), )                                                                                                                                                                  |                 |
 | speech recognition [pixeldev](https://www.youtube.com/playlist?list=PLsaLbFPkNd55uUF-MpQ7RtldorYYR\_CeT)                                                                                                                                                                                    |                 |
+| [讯飞听见](https://www.iflyrec.com)                                                                                                                                                                                                                                                             |                 |
 
 ***
 
@@ -26,13 +27,13 @@ Python文字语音播报\*\*([**书童**](https://xugaoxiang.com/2021/04/08/pyth
 
 ### **NVIDIA JARVIS**
 
-|                                                                                                                                           |          |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **NVIDIA JARVIS(**[**s**](https://developer.nvidia.com/nvidia-jarvis?ncid=partn-38053#cid=dl20\_partn\_en-us)**, )**                      | \*\*\*\* |
-| **NVIDIA Jarvis Conversational AI on Python - Dr. Ahmad Bazzi(**[**v**](https://www.youtube.com/watch?v=sbYolIax190)**, )**               | \*\*\*\* |
-| **Conversational AI w/ Jarvis - checking out the API(**[**sentdex**](https://www.youtube.com/watch?v=fQzjgaKSrkc)**, )**                  | \*\*\*\* |
-| **1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1(**[**sentdex**](https://www.youtube.com/watch?v=ubvgReZVf5g)**, )** | \*\*\*\* |
-| **2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2(**[**sentdex**](https://www.youtube.com/watch?v=BDl6fzhp2Ao)**, )** | \*\*\*\* |
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **NVIDIA JARVIS(**[**s**](https://developer.nvidia.com/nvidia-jarvis?ncid=partn-38053#cid=dl20\_partn\_en-us)**, )**                      |
+| **NVIDIA Jarvis Conversational AI on Python - Dr. Ahmad Bazzi(**[**v**](https://www.youtube.com/watch?v=sbYolIax190)**, )**               |
+| **Conversational AI w/ Jarvis - checking out the API(**[**sentdex**](https://www.youtube.com/watch?v=fQzjgaKSrkc)**, )**                  |
+| **1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1(**[**sentdex**](https://www.youtube.com/watch?v=ubvgReZVf5g)**, )** |
+| **2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2(**[**sentdex**](https://www.youtube.com/watch?v=BDl6fzhp2Ao)**, )** |
 
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
