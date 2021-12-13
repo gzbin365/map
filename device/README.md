@@ -405,11 +405,12 @@ description: 硬件设备
 
 ### 键盘
 
-|                                                                |                                                            |
-| -------------------------------------------------------------- | ---------------------------------------------------------- |
-| ​[A98](https://www.douyin.com/video/7023070738949131551)​​​​​  |                                                            |
-| rileyandrichy [tictoc](https://www.tiktok.com/@rileyandrichy?) | 高速键盘　[v](https://www.douyin.com/video/7029176155458653455) |
-|                                                                |                                                            |
+|                                                                 |                                                                    |
+| --------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ​[A98](https://www.douyin.com/video/7023070738949131551)​​​​​   |                                                                    |
+| rileyandrichy [tictoc](https://www.tiktok.com/@rileyandrichy?)  | 高速键盘　[v](https://www.douyin.com/video/7029176155458653455)         |
+| 客制化键盘 [彦祖搞搞机](https://www.douyin.com/video/7032273287132581134) | OG80机械键盘 [彦祖搞搞机](https://www.douyin.com/video/7034496681781644548) |
+|                                                                 | HHKB 011000                                                        |
 
 
 
