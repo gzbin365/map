@@ -123,6 +123,7 @@
 | 🔴 REAL TIME CHAT APP USING REACT AND SOCKET.IO IN HINDI                                                                                                                 |
 | Chat Application Tutorial With Socket.IO & React [Coding Expert](https://www.youtube.com/watch?v=8wAy\_xv8b9o)                                                           |
 | Build and Deploy a Fully Responsive Modern UI/UX Website in React JS [JavaScript Mastery](https://www.youtube.com/watch?v=LMagNcngvcU)                                   |
+| Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss)                      |
 
 ### Next.js
 
@@ -247,6 +248,9 @@
 | JavaScript Crash Course For Beginners [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)                                                                                          |
 | 【前端速成】JavaScript JS 快速入門｜Tiktok工程師帶你入門前端｜[布魯斯前端](https://www.youtube.com/watch?v=1pYtVwIAvhY)                                                                                                |
 | 【javascript】3小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=yZwlW5INhgk)                                                                                                        |
+| Build and Deploy THE PERFECT Portfolio Website \| Create a Portfolio from Scratch [JavaScript Mastery](https://www.youtube.com/watch?v=OPaLnMw2i\_0)                                         |
+| Build a Portfolio Website & Deploy [Traversy Media](https://www.youtube.com/watch?v=r\_hYR53r61M)                                                                                            |
+| Designing & Building a Personal Portfolio from SCRATCH! [DesignCourse](https://www.youtube.com/watch?v=9iUJJHEIpls)                                                                          |
 
 ### TypeScript
 
