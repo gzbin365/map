@@ -58,7 +58,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | Recursion Explained - [joke](https://www.youtube.com/watch?v=byYU-Yd4RH4)                                                                                        |
 | Recursion for Beginners: A Beginner's Guide to Recursion [North Bay Python](https://www.youtube.com/watch?v=AfBqVVKg4GE)                                         |
 
-## Algorithms
+## Algorithms & **DataStructure**
 
 |                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,6 +101,10 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 数据结构与算法 [从0开始数](https://www.youtube.com/playlist?list=PLkl2qqmYigA60rBjPyms\_7kjMvVy3gSAK)                                                                                                                                                                                                                                                            |
 | 王道计算机-数据结构 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivvCYIB3wRZigJC8E9oc8w\_B)                                                                                                                                                                                                                                                           |
 | Data Structures For Python Developers (w/ Flask) - Course [freeCodeCamp](https://www.youtube.com/watch?v=74NW-84BqbA)                                                                                                                                                                                                                                 |
+| 2-24 数据结构和算法 黑马Python 37期就业班\Python就业班 [小文](https://www.youtube.com/playlist?list=PLHl06E33t4OqO6IavP0IShQNCM2-xfP5E)                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                       |
 
 ## 排序算法 Sorting Algorithms
 
