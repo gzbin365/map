@@ -737,6 +737,9 @@ LSTM
 | 求推荐一部以李航的《统计学习方法》为教材的教学视频？[知乎](https://www.zhihu.com/question/265766496)                                                                                    |
 | 深度之眼《统计学习方法》第二版啃书指导视频 [深度之眼官方账号](https://www.bilibili.com/video/BV1i4411G7Xv?from=search\&seid=4417010761814823303) 08:55:48                                |
 | 大数据机器学习（袁春）[电子工程世界](https://training.eeworld.com.cn/course/5684) 共113课时 15小时39分33秒 [MM li](https://www.youtube.com/channel/UCHO1eGgRHOXKaImbq6cUGAQ/videos) |
+| 《统计学习方法》第二版的代码实现 [git](https://github.com/fengdu78/lihang-code)                                                                                             |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
 
 ## 其他
 
