@@ -201,6 +201,7 @@
 | Become a Python Game Developer in 37 Seconds - Full Course [Zizyo](https://www.youtube.com/watch?v=EBezqslQslc)                                                 |
 | Video game made with pure python/pygame \| Platformer Shooter [enigma](https://www.youtube.com/watch?v=uwWRv9PNqWU)                                             |
 | 2D Ray Casting Made With Pure Python and Pygame [enigma](https://www.youtube.com/watch?v=58l0SURwYpc) [git](https://github.com/000Nobody/2D-Ray-Tracing)        |
+| Creating a platformer in Pygame with a camera, collisions, animation states and particle effects [Clear Code](https://www.youtube.com/watch?v=YWN8GcmJ-jA)      |
 | Making A Python Game In 48 Hours! [Barji](https://www.youtube.com/watch?v=lVmdmivVK5w)                                                                          |
 | How I make bots using python (educational) [Kian Brose](https://www.youtube.com/watch?v=wCho\_BdpdyY)                                                           |
 | Game Development for Noobs \| Beginner Guide [Flow Studio](https://www.youtube.com/watch?v=7C92ZCnlmQo)                                                         |
@@ -217,6 +218,7 @@
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Learn Unreal Engine (with C++) - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=LsNW4FPHuZE) |
 | Now Games Can Look Like Pixar Movies - Unreal Engine 5 [ColdFusion](https://www.youtube.com/watch?v=47I2N\_l47mw)      |
+| Unreal Engine & C++ Tutorial - 1st Person Shooter Game [freeCodeCamp](https://www.youtube.com/watch?v=4HoJIgyclZ4)     |
 
 ## 3D Graphics Engine
 

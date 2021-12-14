@@ -97,6 +97,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | linux驱动策略及框架 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZYd2BDNKIrNb3qERvifmoQ)                                                           |
 | linux进程概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8CjTSCoTYCGzk-yoU8bRy)                                                              |
 | 趣谈Linux操作系统 [极客时间](https://time.geekbang.org/column/intro/100024701)                                                                                     |
+| 操作系统 [阿拓新](https://www.youtube.com/playlist?list=PLz6KQYkh-TgsOh\_bTFR9jDmwGAgSb-H0P)                                                                    |
 | <p>The Complete Linux Course: Beginner to Power User <a href="https://www.youtube.com/watch?v=wBp0Rb-ZJak">freeCodeCamp</a></p><p>完整的Linux课程：初级到高级用户</p> |
 | Linux System Administration Full Course [Geek's Lesson](https://www.youtube.com/watch?v=wsh64rjnRas)                                                     |
 | Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                   |
