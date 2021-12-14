@@ -212,6 +212,7 @@
 | game 贪吃蛇 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK6brBOhoaa1zh7QZbyMj88P)                                                                    |
 | Game development python Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTm3U7r6QOOAgffhcDXdLS8t)                                           |
 | Making a PS2 Game LIVE #2 - Drawing Triangles (C Game Development on PS2SDK) [Tom Marks Talks Code](https://www.youtube.com/watch?v=Oy-ROMER2nc)                |
+| How I Learned To Make Games \| One Year of Indie Gamedev [David R. B.](https://www.youtube.com/watch?v=naES42NxbyY)                                             |
 
 ### 虚幻引擎 Unreal Engine
 
@@ -466,4 +467,4 @@
 | Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                         |
 | Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                               |
 | 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                            |
-|                                                                                                                                                 |
+| Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                     |
