@@ -210,12 +210,13 @@ description: 机器视觉
 | ClarityCoders [u](https://www.youtube.com/c/ClarityCoders/playlists) | Learn Code By Gaming [u](https://www.youtube.com/c/LearnCodeByGaming) |
 | Know-How [u](https://www.youtube.com/watch?v=QAAd9KyvclY)            |                                                                       |
 
-|                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                     |
-| Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot) |
-| Make a bot that plays chrome dino game in python \| OpenCV Tutorial \| Beginners [Amrit Aryal](https://www.youtube.com/watch?v=mIojvoMRerU)                                 |
-| Dominating an Online Multiplayer Game using Python and OpenCV. [ClarityCoders](https://www.youtube.com/watch?v=X2bRXcCvmKY)                                                 |
-| TensorFlow CS:GO custom object detection aim bot [Python Lessons](https://www.youtube.com/watch?v=nJ3p96TevMw)                                                              |
-| Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                                              |
-| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc)                          |
+|                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                                                          |
+| Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot)                                      |
+| Make a bot that plays chrome dino game in python \| OpenCV Tutorial \| Beginners [Amrit Aryal](https://www.youtube.com/watch?v=mIojvoMRerU)                                                                      |
+| Dominating an Online Multiplayer Game using Python and OpenCV. [ClarityCoders](https://www.youtube.com/watch?v=X2bRXcCvmKY)                                                                                      |
+| TensorFlow CS:GO custom object detection aim bot [Python Lessons](https://www.youtube.com/watch?v=nJ3p96TevMw)                                                                                                   |
+| Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                                                                                   |
+| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc)                                                               |
+| 图片缩放.py [git](https://github.com/scchy/My\_Learn/blob/b7ebb96ebbc145707f8a56d3997b54675d5053f1/DataWhale%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%85%A5%E9%97%A8/%E5%9B%BE%E7%89%87%E7%BC%A9%E6%94%BE.py) |
