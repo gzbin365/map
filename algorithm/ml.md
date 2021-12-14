@@ -690,6 +690,7 @@ LSTM
 | awesome-material [git](https://github.com/Joy-spec/awesome-material)                                                                                                                                                     |
 | foochane/books [git](https://github.com/foochane/books)                                                                                                                                                                  |
 | lovingers/ML\_Books [git](https://github.com/lovingers/ML\_Books) 差评                                                                                                                                                     |
+| 深度学习入门-基于Python的理论与实现 deep-learning-from-scratch [git](https://github.com/MemorialCheng/deep-learning-from-scratch/tree/master/deeplearning-from-scratch)                                                                |
 
 ### MLAPP
 
