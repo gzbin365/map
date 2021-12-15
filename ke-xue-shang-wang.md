@@ -18,9 +18,9 @@
 
 ## 插件
 
-|                                                                                                                                                                         |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| SetupVPN([s](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp), [v](https://www.youtube.com/watch?v=9y1NXrB0hpo), ) |   |
+|                                                                                                                                                                         |                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| SetupVPN([s](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp), [v](https://www.youtube.com/watch?v=9y1NXrB0hpo), ) | Hoxx [s](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh/related) |
 
 ## 其他
 
