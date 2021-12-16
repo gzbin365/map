@@ -10,7 +10,7 @@
 | Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                                                | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
 | Veritasium [u](https://www.youtube.com/c/veritasium/playlists)                                              | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
 | 李论科学 抖音号： [103391611](https://www.douyin.com/user/MS4wLjABAAAA178XQjV85eh8zMbSBCfrKnN\_UVDdBxDsTeegMQeRLJM) | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
-|                                                                                                             | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                                               |
+| Astrogeekz [u](https://www.youtube.com/c/AstrogeekzCo/playlists)                                            | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                                               |
 |                                                                                                             | Physics Videos by Eugene Khutoryansky [u](https://www.youtube.com/watch?v=k6QhhocnZ-M)                                         |
 
 |                                                                                                                                |
@@ -37,6 +37,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | -------------------------------------------------------------------------------------------------- |
 | [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
 | [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |
+
+| States of matter 物质的状态                                                           |
+| -------------------------------------------------------------------------------- |
+| 固态，液态，气态，等离子态，波色-爱因斯坦凝聚，等等                                                       |
+| 物质除了固态液态气态还存在其他的状态吗 [BLOC-不落课-双语云课](https://www.bilibili.com/video/BV1uS4y1d7HP) |
+| 18 States of Matter [Astrogeekz](https://www.youtube.com/watch?v=5EteI1it2rc)    |
+| 第222期：物质五种形态 [严伯钧](https://www.bilibili.com/video/BV18J411a7kK)                  |
+| 超乎三态存在的等离子态 [小林家的垃圾王R](https://www.bilibili.com/video/BV1BW411e7AT)              |
 
 ## 大学物理
 
