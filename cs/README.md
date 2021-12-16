@@ -244,6 +244,8 @@ description: 计算机科学与技术 keep coding
 
 ## 计算机组成原理
 
+Computer Components？Computer Architecture？
+
 |                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [2020王道计算机组成原理](https://www.youtube.com/playlist?list=PLuolGRW5AOPwzMoXycl\_p8GQcmgMrkVTO) 考研e族                                 |
@@ -252,6 +254,7 @@ description: 计算机科学与技术 keep coding
 | Computer Hardware and Architecture [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou) |
 | 深入浅出计算机组成原理 [极客时间](https://time.geekbang.org/column/intro/100026001)                                                            |
 | 王道计算机-组成原理 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivtsUL\_W7Mdbc3cjk-E\_kdQx)                                    |
+| Computer Components For Dummies [Tech With Tim](https://www.youtube.com/watch?v=cZs6kh0WFRY)                                    |
 
 ## 计算机网络
 
