@@ -6,6 +6,8 @@ description: 图神经网络
 
 [**DGL**](https://docs.dgl.ai)
 
+利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)
+
 ## 课程
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

@@ -22,13 +22,13 @@ description: 机器视觉
 
 ## UP主
 
-|                                                                                                       |                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                    |
-| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**     |
-|                                                                                                       | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                           |
-|                                                                                                       | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) |
-|                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                             |
+|                                                                                                       |                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                                                                     |
+| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**                                                      |
+|                                                                                                       | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                            |
+|                                                                                                       | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
+|                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                              |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
@@ -59,6 +59,14 @@ description: 机器视觉
 | pillow                                                             |                                                 |   |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - | - |
 | [doc](https://pillow.readthedocs.io/en/latest/handbook/index.html) | [git](https://github.com/python-pillow/Pillow/) |   |   |
+
+### mediapipe
+
+|                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                             |
+| 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                  |
+| 培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
 
 ### OpenCV
 
@@ -166,6 +174,8 @@ description: 机器视觉
 | Hand Tracking 30 FPS using CPU \| OpenCV Python (2021) \| Computer Vision [Murtaza's Workshop](https://www.youtube.com/watch?v=NZde8Xt78Iw\&t=35s)                    |
 | Create a Rock Paper Scissors AI \| Keras and OpenCV \| Tutorial \| Python [Sourav Johar](https://www.youtube.com/watch?v=0uSA3xyXlwM)                                 |
 | Mouse Control using OpenCV and a Webcam [CodingExperiments](https://www.youtube.com/watch?v=\_WipkZU2pzQ) [git](https://github.com/paolobarbolini/OpenCvMouseControl) |
+| facebookresearch/InterHand2.6M [git](https://github.com/facebookresearch/InterHand2.6M)                                                                               |
+|                                                                                                                                                                       |
 
 ### Face Detect
 
