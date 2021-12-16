@@ -72,6 +72,6 @@
     * [音乐](sci/art/music.md)
   * [工具](sci/gong-ju.md)
 * [科学上网](ke-xue-shang-wang.md)
-* [赞助本站](zan-zhu-ben-zhan.md)
+* [赞助本站](sponsor.md)
 * [other](other.md)
 * [View on Github](https://github.com/gzbin365/map)
