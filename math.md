@@ -215,6 +215,8 @@ description: 用数学充实人生
 | **50 Million Primes In 5 Seconds - Segmented Sieve of Eratosthenes(**[**mCoding**](https://www.youtube.com/watch?v=xwM8PGBYazM\&t=629s)**)** |
 | Finding Primes in Python with the Sieve of Eratosthenes([mCoding](https://www.youtube.com/watch?v=JA\_YrFwE1hc))                             |
 | Terry Tao, Ph.D. Small and Large Gaps Between the Primes [UCLA](https://www.youtube.com/watch?v=pp06oGD4m00)                                 |
+| 关于素数那点事儿 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmi1WWaa3p73X7TalChgRyIf)                                            |
+|                                                                                                                                              |
 
 ### 集合论 Set Theory
 
@@ -809,6 +811,14 @@ $$
 | Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L)                                                      |
 | 数学建模-谭忠（厦门大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZZd1pfsQd0OtXRjFjJorbo)                                                           |
 | 清风：数学建模视频全套【已完结！】[红烧马化腾](https://www.youtube.com/playlist?list=PLvce\_oy4ggsHzrmgBz8vwQqRmezDOzo1N) [bdy](https://pan.baidu.com/s/1FqUnJjeHsbcFESPJuDy64Q) 1y2r |
+
+### 生命游戏
+
+|                                                                                 |   |   |
+| ------------------------------------------------------------------------------- | - | - |
+| Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo) |   |   |
+|                                                                                 |   |   |
+|                                                                                 |   |   |
 
 ## 运筹学
 
