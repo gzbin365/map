@@ -21,6 +21,14 @@
 |                                                                                                           |                                                                                                                                   |
 |                                                                                                           |                                                                                                                                   |
 
+lengyue1024/[BAT\_interviews](https://github.com/lengyue1024/BAT\_interviews)
+
+hadyang/[interview](https://github.com/hadyang/interview)
+
+doocs/[coding-interview](https://github.com/doocs/coding-interview)
+
+Wasabi1234/[Java-Concurrency-Progamming-Tutorial](https://github.com/Wasabi1234/Java-Concurrency-Progamming-Tutorial)
+
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 算法永远是必考题 [黑马架构师铁拐李](https://www.douyin.com/video/7018867238329421086)                                                                                   |
