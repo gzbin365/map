@@ -143,6 +143,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)                             |
 | 30 BASIC COMMANDS IN LINUX / UNIX \|\| LINUX COMMANDS \|\| UNIX COMMANDS \|\| [OPEN SOURCE Sundeep Saradhi Kanthety](https://www.youtube.com/watch?v=rFwdniyo0CM) |
 
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| Unofficial Windows Binaries for Python Extension Packages [s](https://www.lfd.uci.edu/\~gohlke/pythonlibs/) |
+| 无网环境下利用pip安装Python离线安装包 [s](https://www.codeleading.com/article/763890893/)                                 |
+|                                                                                                             |
+
 ## 嵌入式
 
 |                                                                                                                                    |
