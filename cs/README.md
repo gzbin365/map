@@ -69,6 +69,14 @@ description: 计算机科学与技术 keep coding
 | The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
 |                                                                                                       |
 
+### Facebook
+
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| Facebook Research [git](https://github.com/facebookresearch) Meta Research |
+|                                                                            |
+|                                                                            |
+
 ### Oracle
 
 |   |   |

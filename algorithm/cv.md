@@ -120,7 +120,7 @@ description: 机器视觉
 |                                                                                                           |
 | --------------------------------------------------------------------------------------------------------- |
 | Depix [git](https://github.com/beurtschipper/Depix) [v](https://www.douyin.com/video/7035174419454528781) |
-|                                                                                                           |
+| 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg)        |
 |                                                                                                           |
 
 ## Detection and Segmentation
@@ -148,6 +148,7 @@ description: 机器视觉
 | 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                            |
 | What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)              |
 | Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0) |
+| facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                          |
 
 ### 视频跟踪
 

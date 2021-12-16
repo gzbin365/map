@@ -93,6 +93,14 @@ description: 自然语言处理
 | [数据科学读书会 Book 12 - NLP 自然语言处理 第七讲](https://www.youtube.com/watch?v=tctmuqzbt8E)                                         |
 |                                                                                                                         |
 
+### 文本分类
+
+|                                                                               |
+| ----------------------------------------------------------------------------- |
+| facebookresearch/fastText [git](https://github.com/facebookresearch/fastText) |
+|                                                                               |
+|                                                                               |
+
 ### 对话系统
 
 |                                                                                                                                                  |                                                                                  |
