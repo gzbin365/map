@@ -635,6 +635,7 @@ $$
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Universal Hyperbolic Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85CN9oJ4gYkuSQQhAtpIucuI) |
+| 椭圆，抛物线，双曲线为啥都是圆锥曲线？为什么长期能观测到的行星都是椭圆运行的？[李永乐老师](https://www.youtube.com/watch?v=dmhgsLhLTM4)带你了解原因                                   |
 
 ## 图论 Graph Theory
 
