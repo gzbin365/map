@@ -167,14 +167,14 @@ description: 机器学习
 
 ### PyTorch
 
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PyTorch [u](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw) [s](https://pytorch.org) [doc](https://pytorch.org/docs/stable/index.html)      |
-| Neural Network Programming - Deep Learning with PyTorch   [**deeplizard**](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xrfNyHZsM6ufI0iZENK9xgG) |
-| Pytorch基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9vjVNZjgPlIzFtqthSp1a-A)                                                           |
-| PyTorchZeroToAll (in English) [Sung Kim](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o\_2m)                                   |
-| PyTorch [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKz9pFarHCeNd-t\_CflCEYXe)                                                    |
-| PyTorch for Deep Learning - Full Course / Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY\&t=6s)                                  |
+|                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PyTorch [u](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw) [s](https://pytorch.org) [doc](https://pytorch.org/docs/stable/index.html) [tw](https://twitter.com/pytorch) [fb](https://www.facebook.com/pytorch/) [medium](https://medium.com/pytorch) |
+| Neural Network Programming - Deep Learning with PyTorch   [**deeplizard**](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xrfNyHZsM6ufI0iZENK9xgG)                                                                                                           |
+| Pytorch基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9vjVNZjgPlIzFtqthSp1a-A)                                                                                                                                                                     |
+| PyTorchZeroToAll (in English) [Sung Kim](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o\_2m)                                                                                                                                             |
+| PyTorch [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKz9pFarHCeNd-t\_CflCEYXe)                                                                                                                                                              |
+| PyTorch for Deep Learning - Full Course / Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY\&t=6s)                                                                                                                                            |
 
 ### Keras
 
@@ -583,6 +583,14 @@ LSTM
 | 集成学习 [Ouyang Ruofei](https://www.youtube.com/watch?v=ztYEZb2y6QI)          |
 | GradientBoost [Ouyang Ruofei](https://www.youtube.com/watch?v=ODB3WEDzFlo) |
 |                                                                            |
+
+### 多任务学习 Multi-task learning
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| Community Talks on Day 2 \| PyTorch Developer Day 2021 [PyTorch](https://www.youtube.com/watch?v=7yQ4FgtYvj8) |
+|                                                                                                               |
+|                                                                                                               |
 
 ### 机器学习自动化调参
 

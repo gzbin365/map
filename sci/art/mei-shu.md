@@ -27,7 +27,7 @@
 | 设计色彩基础 色彩理论基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYJG0HA7DG0KtRkN5xc1Vgh)                                             |
 | 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                     |
 | 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                 |
-|                                                                                                                                             |
+| Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                  |
 |                                                                                                                                             |
 
 | **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
