@@ -218,6 +218,7 @@ description: 硬件设备
 | [详解FPGA：人工智能时代的驱动引擎](https://item.jd.com/13294860.html) 我用了两年，写了一本没有代码的芯片书 [老石谈芯](https://www.youtube.com/watch?v=eGL3N4xhEF8)                      |
 | FPGA [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjYlnuV7wgWqRAaJdFI3d3Jh)                                                               |
 | FPGA Projects [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXyCSv5nNzyN8kbsa6abvU2)                                                 |
+| Introduction to FPGA [Digi-Key](https://www.youtube.com/watch?v=pK6XN7sFosI)                                                                        |
 
 ## STM 32
 
