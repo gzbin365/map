@@ -1062,6 +1062,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | [【万门大学】五分钟数学漫谈](https://www.youtube.com/playlist?list=PL0GyqFMD-UCEHjnq0cwgI2XFBf7bEcI8K)                                       |
 | 数学家研究了几百年的问题：[悬链线](https://www.youtube.com/watch?v=l6CUgVc-fZg)                                                                 |
 | 密铺问题 什么形状的地板可以铺满整个房间？数学家研究了100年 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2GmJw6hf1ms)                                     |
+| <p>如何摆放橘子最节省空间？400年时间数学家终于解决了<a href="https://www.youtube.com/watch?v=POArm5fZbR8">开普勒猜想</a> 妈咪说MommyTalk</p><p>蜂窝猜想?</p>       |
 | 515本数学书　[book](https://onedrive.live.com/?id=EC227156E4CAD4AB%21117\&cid=EC227156E4CAD4AB)                                      |
 | <p>11年前，选择出家的北大才子柳智宇，后来怎么样了？真的还俗了吗？【人物】</p><p><a href="https://www.youtube.com/watch?v=K4l9xbVfKvY">Your Studio有耳工作室</a></p>    |
 | Mathematics named after Leonhard Euler [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz10-nb0KnjTBDGq0N7do-d) |
