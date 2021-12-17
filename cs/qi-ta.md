@@ -179,6 +179,7 @@
 | enigma [u](https://www.youtube.com/channel/UCsCY6v\_tOJXR6U3gJW8eNBw)                                           | Aura Audio [u](https://www.youtube.com/c/EvTime/playlists) gameboy music                                                 |
 | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) | Carson Jay Marbles [u](https://www.youtube.com/c/CarsonJay/videos)                                                       |
 | Freya Holmér [u](https://www.youtube.com/c/Acegikmo/playlists)                                                  | Game Dev Unlocked [u](https://www.youtube.com/c/GameDevUnlocked/videos) [v](https://www.youtube.com/watch?v=Y3Rs1z7it5M) |
+|                                                                                                                 | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -213,6 +214,7 @@
 | Game development python Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTm3U7r6QOOAgffhcDXdLS8t)                                           |
 | Making a PS2 Game LIVE #2 - Drawing Triangles (C Game Development on PS2SDK) [Tom Marks Talks Code](https://www.youtube.com/watch?v=Oy-ROMER2nc)                |
 | How I Learned To Make Games \| One Year of Indie Gamedev [David R. B.](https://www.youtube.com/watch?v=naES42NxbyY)                                             |
+| The Math Behind Font Rasterization \| How it Works [GamesWithGabe](https://www.youtube.com/watch?v=LaYPoMPRSlk)                                                 |
 
 ### 虚幻引擎 Unreal Engine
 

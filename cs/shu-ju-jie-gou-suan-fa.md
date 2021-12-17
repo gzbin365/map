@@ -148,6 +148,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | Binary Tree Algorithms for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=fAAZixBzIAI) |
 | Data Structures: Hash Tables [HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)                                    |
 | Data Structures and Algorithms [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H)       |
+| Linked Lists for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Hj\_rA0dhr2I)          |
 
 ## 大O复杂性 Big O Complexity
 
