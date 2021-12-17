@@ -60,15 +60,17 @@ description: 机器视觉
 | ------------------------------------------------------------------ | ----------------------------------------------- | - | - |
 | [doc](https://pillow.readthedocs.io/en/latest/handbook/index.html) | [git](https://github.com/python-pillow/Pillow/) |   |   |
 
-### mediapipe
+### Mediapipe
 
-|                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                             |
-| 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                  |
-| 培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
-| AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                 |
-| Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                     |
+|                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mediapipe [s](https://mediapipe.dev) [s](https://google.github.io/mediapipe/) [git](https://github.com/google/mediapipe)                                                        |
+| 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                              |
+| 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                   |
+| 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
+| AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                  |
+| Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                      |
+| MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                       |
 
 ### OpenCV
 
