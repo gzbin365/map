@@ -169,6 +169,7 @@ description: 机器学习
 
 |                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PyTorch [u](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw) [s](https://pytorch.org) [doc](https://pytorch.org/docs/stable/index.html)      |
 | Neural Network Programming - Deep Learning with PyTorch   [**deeplizard**](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xrfNyHZsM6ufI0iZENK9xgG) |
 | Pytorch基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9vjVNZjgPlIzFtqthSp1a-A)                                                           |
 | PyTorchZeroToAll (in English) [Sung Kim](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o\_2m)                                   |
