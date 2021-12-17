@@ -568,16 +568,17 @@ Python高性能编程
 
 ## 爬虫
 
-|                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ |
-| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)  |
-| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                     |
-| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)         |
-| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)            |
-| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)              |
-| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                       |
-| Python 网络爬虫：从入门到实践　[git](https://github.com/Santostang/PythonScraping)                                             |
-| Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0) |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)    |
+| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                       |
+| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)           |
+| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)              |
+| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)                |
+| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                         |
+| Python 网络爬虫：从入门到实践　[git](https://github.com/Santostang/PythonScraping)                                               |
+| Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)   |
+| 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
 
 ## Python-Excel
 
