@@ -579,6 +579,7 @@ Python高性能编程
 | Python 网络爬虫：从入门到实践　[git](https://github.com/Santostang/PythonScraping)                                               |
 | Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)   |
 | 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
+| 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
 
 ## Python-Excel
 
