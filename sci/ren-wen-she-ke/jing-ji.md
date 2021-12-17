@@ -53,6 +53,7 @@
 | 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                 |
 | 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                            |
 | 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                 |
+| 麦肯锡忽悠客户(商业分析)课程(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGC\_8obJ-Xz5SANRTvw7EG7)  |
 | 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458) |
 | Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                        |
 
