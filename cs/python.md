@@ -632,6 +632,7 @@ Python高性能编程
 | PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                         |
 | Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                      |
 | Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                      |
+| jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                 |
 
 ## Book
 
