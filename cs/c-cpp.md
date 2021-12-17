@@ -65,10 +65,13 @@
 
 ### 设计模式
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| C++ 设计模式 李建忠 [Jay Li](https://www.youtube.com/playlist?list=PLE0JTxLz7jTR2e8nAyV9vPIqH5NNxlI3N) |
-| 设计模式 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb16ZxeSy00qUsBazXgJyfM)          |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| C++ 设计模式 李建忠 [Jay Li](https://www.youtube.com/playlist?list=PLE0JTxLz7jTR2e8nAyV9vPIqH5NNxlI3N)                |
+| 设计模式 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb16ZxeSy00qUsBazXgJyfM)                         |
+| zhao1-1/[DesignPattern](https://github.com/zhao1-1/DesignPattern)                                              |
+| wangzheng0822/[codedesign](https://github.com/wangzheng0822/codedesign)                                        |
+| [王争](https://github.com/wangzheng0822) 前 Google 工程师  [设计模式之美](https://time.geekbang.org/column/article/169631) |
 
 ### C
 
