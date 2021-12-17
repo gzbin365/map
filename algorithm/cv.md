@@ -67,6 +67,7 @@ description: 机器视觉
 | 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                             |
 | 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                  |
 | 培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
+| AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                 |
 
 ### OpenCV
 
