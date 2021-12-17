@@ -39,3 +39,4 @@
 | 【硬核翻墙/科学上网】系列视频 [电丸科技AK](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)                      |
 | How to Make Your Own VPN (And Why You Would Want to) [Wolfgang's Channel](https://www.youtube.com/watch?v=gxpX\_mubz2A) |
 | 翻墙后干什么 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=ePbvZaiPx7g) [s](https://10beasts.net/recommend/)             |
+| 合法翻墙利器 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=yJp3lX3cn0w)                                                  |
