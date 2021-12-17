@@ -12,6 +12,7 @@
 | 李论科学 抖音号： [103391611](https://www.douyin.com/user/MS4wLjABAAAA178XQjV85eh8zMbSBCfrKnN\_UVDdBxDsTeegMQeRLJM) | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
 | Astrogeekz [u](https://www.youtube.com/c/AstrogeekzCo/playlists)                                            | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                                               |
 |                                                                                                             | Physics Videos by Eugene Khutoryansky [u](https://www.youtube.com/watch?v=k6QhhocnZ-M)                                         |
+|                                                                                                             | Animated Science u                                                                                                             |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
