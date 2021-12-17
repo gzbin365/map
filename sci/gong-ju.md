@@ -86,6 +86,7 @@
 | 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                      |
 | 免费创建自己的私人网盘！在家就可以搞定！安全又实用 \| 零[度解说](https://www.youtube.com/watch?v=156s1hphwHg)                                             |
 | 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)            |
+| 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                            |
 
 |                                |   |
 | ------------------------------ | - |
