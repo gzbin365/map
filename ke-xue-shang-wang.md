@@ -35,9 +35,15 @@
 | shadowsocks [git](https://github.com/shadowsocks)                                                                                                                                                            |      |
 | 快连 [s](https://d132o2ux0nuv2m.cloudfront.net)                                                                                                                                                                |      |
 
+| 澳门手机卡/澳门sim卡                                                                   |
+| ------------------------------------------------------------------------------ |
+| 合法翻墙利器 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=yJp3lX3cn0w)         |
+| 这张手机卡SIM卡无限流量，无需翻墙轻松上YouTube [向北](https://www.youtube.com/watch?v=UxK-XgxLRm8) |
+|                                                                                |
+
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
 | 【硬核翻墙/科学上网】系列视频 [电丸科技AK](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)                      |
 | How to Make Your Own VPN (And Why You Would Want to) [Wolfgang's Channel](https://www.youtube.com/watch?v=gxpX\_mubz2A) |
 | 翻墙后干什么 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=ePbvZaiPx7g) [s](https://10beasts.net/recommend/)             |
-| 合法翻墙利器 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=yJp3lX3cn0w)                                                  |
+|                                                                                                                         |
