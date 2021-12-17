@@ -33,6 +33,7 @@
 | **谷歌访问助手(**[**site**](https://www.ggfwzs.com)**,** [**插件**](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/fjbknnledpckpbjcglogolokonffggpc?hl=zh-CN)**)** | 没用过  |
 | 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), )                                                                                                | 没用过  |
 | shadowsocks [git](https://github.com/shadowsocks)                                                                                                                                                            |      |
+| 快连 [s](https://d132o2ux0nuv2m.cloudfront.net)                                                                                                                                                                |      |
 
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
