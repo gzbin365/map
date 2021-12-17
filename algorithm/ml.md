@@ -652,6 +652,7 @@ LSTM
 | [Tutorial: Real Time Data Visualization - d3, crossfilter, websockets in Python by Example](https://www.youtube.com/watch?v=VI3TnZugspc) |
 | Other Level’s [u](https://www.youtube.com/c/OtherLevel%E2%80%99s/playlists)                                                              |
 | DataV Vue　[git](https://github.com/pengxiaotian/datav-vue) [v](https://www.douyin.com/video/7028081903022394660)                         |
+| CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)                            |
 
 |                                                                                              |                                               |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------- |

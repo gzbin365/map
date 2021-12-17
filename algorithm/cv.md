@@ -32,6 +32,8 @@ description: 机器视觉
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
+CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
+
 ## 课程
 
 |                                                                                                                                                                                                       |
