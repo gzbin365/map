@@ -123,6 +123,14 @@ description: 机器视觉
 | 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg)        |
 |                                                                                                           |
 
+## 以图搜图
+
+|                                                                     |
+| ------------------------------------------------------------------- |
+| facebookresearch/[faiss](https://github.com/facebookresearch/faiss) |
+|                                                                     |
+|                                                                     |
+
 ## Detection and Segmentation
 
 |                                                                                                                                                                                              |
