@@ -240,6 +240,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers [freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo) |
 | Top 8 Docker Best Practices for using Docker in Production [TechWorld with Nana](https://www.youtube.com/watch?v=8vXoMqWgbQQ)                             |
 | you need to learn Docker RIGHT NOW!! // Docker Containers 101 [NetworkChuck](https://www.youtube.com/watch?v=eGz9DS-aIeY)                                 |
+| 系统学习Docker 践行DevOps理念 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkSTTzJU6ljaaaou-\_Iq9N\_)                                                 |
 
 ## K8S
 

@@ -102,6 +102,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | 王道计算机-数据结构 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivvCYIB3wRZigJC8E9oc8w\_B)                                                                                                                                                                                                                                                           |
 | Data Structures For Python Developers (w/ Flask) - Course [freeCodeCamp](https://www.youtube.com/watch?v=74NW-84BqbA)                                                                                                                                                                                                                                 |
 | 2-24 数据结构和算法 黑马Python 37期就业班\Python就业班 [小文](https://www.youtube.com/playlist?list=PLHl06E33t4OqO6IavP0IShQNCM2-xfP5E)                                                                                                                                                                                                                                 |
+| 数据结构和算法入门 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSGFkKRDyuMfwcL-hwXOc4q\_)                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                       |
@@ -179,6 +180,8 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |
 | Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                  |
 | 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)                                                  |
+| LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)         |
+| LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)         |
 
 ## 其他
 
