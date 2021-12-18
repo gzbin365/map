@@ -252,11 +252,30 @@
 
 ## 外挂
 
-|                                                                                    |
-| ---------------------------------------------------------------------------------- |
-| AI计算代替玩家操作，游戏黑产已远超你我认知 [小宇-游戏砖家](https://www.douyin.com/video/7029227809763642631) |
-|                                                                                    |
-|                                                                                    |
+【罗翔】玩游戏开挂犯罪吗？制作外挂软件的要怎么判？ [罗翔说刑法](https://www.youtube.com/watch?v=Ar46H0NIIY4)
+
+|                                                                       |   |
+| --------------------------------------------------------------------- | - |
+| Guided Hacking [u](https://www.youtube.com/c/GuidedHacking/playlists) |   |
+|                                                                       |   |
+|                                                                       |   |
+
+|                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI计算代替玩家操作，游戏黑产已远超你我认知 [小宇-游戏砖家](https://www.douyin.com/video/7029227809763642631)                                                                                                    |
+| 神操作，利用Python来制作游戏辅助 [Python编程学习交流](https://www.youtube.com/watch?v=3qzlpiV\_C8E)                                                                                                      |
+| C++ How To Hack Any Game Tutorial [Guided Hacking](https://www.youtube.com/playlist?list=PL2C03D3BB7FAF2EA0)                                                                          |
+| 如何写外挂/外挂原理/内存挂/展示一个内存挂的样本 [michael zhang](https://www.youtube.com/watch?v=tKgmQ\_QSh8c)                                                                                               |
+| 透视外挂制作——FPS外部方框D3D9绘制教程第二集 [自学之路](https://www.youtube.com/watch?v=DLldF6wdPz4)                                                                                                        |
+| 多款AI游戏外挂原理，深度解析，战斗力爆表！ [Jack Cui](https://www.youtube.com/watch?v=D3ZCsMHyN3A)                                                                                                        |
+| 易语言编程入门教程-用中文来编写程序，真的太太太太太好学了！！！ [蜡笔小鑫](https://www.youtube.com/playlist?list=PLmbqTzy-9tyDP\_6Vfe758EomXQicR0qvN)                                                                    |
+| 易语言游戏辅助软件制作-问鼎游戏之巅,外挂开发走起！ [蜡笔小鑫](https://www.youtube.com/playlist?list=PLmbqTzy-9tyCwYh4O00Isq0Xy2BILoA9R)                                                                           |
+| 修改器系列 [派大星](https://www.youtube.com/playlist?list=PL8TEddGT5w\_jv01DHuJ8h6GH9clArlA9z)   英雄联盟 修改器系列 [派大星](https://www.youtube.com/playlist?list=PL8TEddGT5w\_j80QNqkFwl3stUTxlHol\_h) |
+| 從零開始學習C++編程語言 [自學課堂](https://www.youtube.com/playlist?list=PL5eFspCU9xDdFQfaTRGng05ALJHDzaIfN)                                                                                        |
+| RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)                                                                                             |
+| Android手游逆向教程(45集) [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQmjLvsEamXeNPi3hGZF4egi)                                                                                  |
+|                                                                                                                                                                                       |
+|                                                                                                                                                                                       |
 
 ## tmp
 
@@ -446,7 +465,7 @@
 | 宝典　[电脑版](https://zimaoxy.com/q/post/Basic-Parameter/)　[手机版](https://zimaoxy.com/m/)                                                                                 |
 | 紫猫学院第二期按键精灵基础教程 [Slientlif3](https://www.bilibili.com/video/BV1v4411W7LP?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)                          |
 | 按键精灵编程有技术含量吗 [zh](https://www.zhihu.com/question/19896140)                                                                                                          |
-|                                                                                                                                                                     |
+| RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)RPA脚本课程 脚本哥RPA脚本课程 脚本哥                                                     |
 
 ## 杂
 
