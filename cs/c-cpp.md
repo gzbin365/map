@@ -87,6 +87,7 @@
 | C Programming in Linux Tutorial [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)                                                  |
 | C Programming Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)                                                                       |
 | Using C instead of Bash [Tsoding Daily](https://www.youtube.com/watch?v=assDDVG0PEo)                                                                                   |
+| C Full Course 🕹️ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)                                                                                   |
 
 ## Book
 
