@@ -61,6 +61,10 @@
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | FlyCat [u](https://www.youtube.com/channel/UCnXU0MjnApXHZkf3uGYbLSA/playlists) | ROBOTFIST [u](https://www.youtube.com/channel/UCwKTfvBGEKSXEdRlk2cS4Lg/videos) |
 
+3D计算机图形学
+
+3D Computer Graphics A Mathematical Introduction with OpenGL [pdf](https://www.math.ucsd.edu/\~sbuss/CourseWeb/Math155A\_2019Winter/SecondEdDraft.pdf)
+
 ### blender
 
 |                                                                                                     |

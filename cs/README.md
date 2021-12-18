@@ -173,7 +173,7 @@ description: 计算机科学与技术 keep coding
 | Patrick B [u](https://www.youtube.com/channel/UCDgsU8VPdALTvIiCMwKWtLA/playlists)           | Code With Swastik [u](https://www.youtube.com/c/CodeWithSwastik/playlists)                                              |
 | DigitalSreeni [u](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)                 | John Hammond [u](https://www.youtube.com/c/JohnHammond010/playlists)                                                    |
 | Yi Li [u](https://www.youtube.com/c/YiLi1989/playlists)                                     | ProgrammingFever [u](https://www.youtube.com/c/ProgrammingFever/playlists)                                              |
-| Socratica [u](\[link]\(https:/www.youtube.com/c/Socratica/playlists\)/)                     |                                                                                                                         |
+| Socratica [u](\[link]\(https:/www.youtube.com/c/Socratica/playlists\)/)                     | hustcc [git](https://github.com/hustcc) [git](https://github.com/hustcc/JS-Sorting-Algorithm)                           |
 | CoderOne [u](\[link]\(https:/www.youtube.com/c/CoderOne/playlists\)/)                       |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
@@ -249,6 +249,8 @@ description: 计算机科学与技术 keep coding
 | Computer Science [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)                                                                                          |
 | Exploring How Computers Work [Sebastian Lague](https://www.youtube.com/watch?v=QZwneRb-zqA)                                                                                                       |
 | Introduction to Programming and Computer Science [freeCodeCamp](https://www.youtube.com/watch?v=zOjov-2OZ0E)                                                                                      |
+
+PKUanonym/[REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
 
 ## 计算机组成原理
 
