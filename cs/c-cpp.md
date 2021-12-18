@@ -61,6 +61,8 @@
 | C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours) [CodeBeauty](https://www.youtube.com/watch?v=kiUGf\_Z08RQ)                       |
 | 无分支编程 Branchless Programming [Creel](https://www.youtube.com/watch?v=bVJ-mWWL7cE)                                                                                |
 | Lambda expressions in modern C++ (in depth step by step tutorial) [CodeBeauty](https://www.youtube.com/watch?v=MH8mLFqj-n8)                                      |
+| 郁金香VC++外挂教程初级 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQljpqQmVQ1iRLAsF9PkvKN2)                                                                  |
+| 浴血凤凰-dnf内存 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQnnlb92GAv9VG1zyZbQcgar)                                                                     |
 |                                                                                                                                                                  |
 
 ### 设计模式
