@@ -130,6 +130,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 毛式幽默　量子力学　[不嘚瑟都掉毛](https://www.douyin.com/video/6939883988194430215)                                                                                                    |
 | 【宇宙雜談】什麼是“時間晶體”？谷歌量子計算機成功製造時間晶體！Time Crystals \| [Linvo說宇宙](https://www.youtube.com/watch?v=7MasiQl5V0M)                                                                |
 |                                                                                                                                                                         |
+|                                                                                                                                                                         |
 
 ## 流体动力学 Fluid Dynamics
 
@@ -160,6 +161,8 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Understanding the Holographic Universe [PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR) |
 | 课程-天文探秘 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wc6Rdt44Ke4T-i9REanLZC)                           |
+| 【宇宙雜談】首次發現曲速泡？！“超光速”航行有望？\| [Linvo說宇宙](https://www.youtube.com/watch?v=mc5W17u9roI)                                               |
+|                                                                                                                                   |
 
 | 其他                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
