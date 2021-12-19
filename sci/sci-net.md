@@ -2,7 +2,7 @@
 
 使用VPN在中国属于灰色地带，有很多用途（贸易需求，学术需求）需要使用VPN，没有安全的VPN，重要的是你使用VPN做了什么，要有家国情怀，要遵守公民应该遵守的责任和义务，控制自己的言论，别碰政治，别碰宗教。[5:46](https://www.youtube.com/watch?v=OQQVzg1jPJc) [12:30](https://www.youtube.com/watch?v=44e\_rnvU1Pg)
 
-《网络数据安全管理条例（征求意见稿）》[s](http://www.cac.gov.cn/2021-11/14/c\_1638501991577898.htm) [解读](https://www.youtube.com/watch?v=Y4IhpsdXeR4)
+[《网络数据安全管理条例（征求意见稿）》](http://www.cac.gov.cn/2021-11/14/c\_1638501991577898.htm)   [解读](https://www.youtube.com/watch?v=Y4IhpsdXeR4)
 
 ## 机场
 
