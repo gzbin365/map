@@ -223,6 +223,7 @@
 | Learn Unreal Engine (with C++) - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=LsNW4FPHuZE) |
 | Now Games Can Look Like Pixar Movies - Unreal Engine 5 [ColdFusion](https://www.youtube.com/watch?v=47I2N\_l47mw)      |
 | Unreal Engine & C++ Tutorial - 1st Person Shooter Game [freeCodeCamp](https://www.youtube.com/watch?v=4HoJIgyclZ4)     |
+| Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)                                                              |
 
 ## 3D Graphics Engine
 
