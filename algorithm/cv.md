@@ -64,6 +64,10 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 
 ### Mediapipe
 
+pip install mediapipe
+
+import mediapipe as mp
+
 |                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Mediapipe [s](https://mediapipe.dev) [s](https://google.github.io/mediapipe/) [git](https://github.com/google/mediapipe) [u](https://www.youtube.com/c/MediaPipe) [doc](https://google.github.io/mediapipe/) |
@@ -73,8 +77,14 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                                               |
 | Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                                                   |
 | MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                                                    |
+| 【python】OpenCV + MediaPipe 手部追踪 ｜  [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA)   [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)          |
+|                                                                                                                                                                                                              |
 
 ### OpenCV
+
+pip install opencv-python
+
+import cv2
 
 |                                                                                         |                                               |
 | --------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -98,7 +108,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Computer Vision - OpenCV [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKwdZqul\_KTpNsw1U2ViKmbD)                                                                       |
 | Android Development with OpenCV [doc](https://docs.opencv.org/2.4/doc/tutorials/introduction/android\_binary\_package/dev\_with\_OCV\_on\_Android.html)                                   |
 | <p>教程 Python 和 OpenCV 图像处理基础（2 小时！） <a href="https://www.youtube.com/watch?v=u2NrR-rgz34">Kong Ruksiam</a></p><p>สอน Python &#x26; OpenCV Image Processing เบื้องต้น (2 ชั่วโมงเต็ม!)</p> |
-| 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM)                                                                                                  |
+| 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM) [git](https://github.com/hibyby/GrandmaCan\_python\_opencv)                                      |
 | OpenCV 3.4 with Python 3 Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa\_\_vnifNA744Cz-q)                                                                  |
 | Images Comparison with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)                                                             |
 | Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                                      |
