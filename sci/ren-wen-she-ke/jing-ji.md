@@ -70,7 +70,7 @@
 | 创业融资方法论 todo                                          |
 |                                                       |
 
-###
+特許金融分析師（CFA，Chartered Financial Analyst）
 
 ### FineBI
 
