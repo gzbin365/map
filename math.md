@@ -4,7 +4,7 @@ description: 用数学充实人生
 
 # math
 
-## zlotus/[notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) 线性代数笔记平台
+## 平台
 
 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,6 +13,7 @@ description: 用数学充实人生
 | Oxford Mathematics([u](https://www.youtube.com/channel/UCLnGGRG\_\_uGSPLBLzyhg8dQ/playlists), ) | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**,** [**s**](https://ocw.mit.edu)**,** [**tw**](https://twitter.com/mitocw)**,** [**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**,** [**fb**](https://www.facebook.com/MITOCW/)**,** [**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**,** [**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**,** [**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, )** |
 | Encyclopedia of Mathematics [s](https://encyclopediaofmath.org)                                 | 早稻田大学桃子早稻田实验室([u](https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg/videos), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                | Institute for Advanced Study [u](https://www.youtube.com/user/videosfromIAS/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                 | [美国克雷数学研究所](https://www.claymath.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## UP主
 
@@ -423,6 +424,14 @@ description: 用数学充实人生
 | 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                       |
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
+
+| 黎曼猜想                                                                                   |
+| -------------------------------------------------------------------------------------- |
+| 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应” |
+| 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序 |
+| 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下   |
+| 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？  |
+|                                                                                        |
 
 ### 泛函分析 Functional Analysis
 
@@ -1020,16 +1029,17 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## Famous Unsolved Problems
 
-|                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)                                                      |
-| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf)                                        |
-| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                              |
-| <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p> |
-| 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                              |
-| 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                         |
-| 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                  |
-| 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)                                                                                                                                                                                                                                                |
+| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf)                                                                                                                                                                                                                                  |
+| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                                                                                                                                                                                                                        |
+| <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p>                                                                                                                                                                                           |
+| 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                                                                                                                                                                                                                        |
+| 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                                                                                                                                                                                                                   |
+| 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                                                                                                                                                                                                            |
+| 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                                                                                                                                                                                                               |
+| <p><a href="https://www.claymath.org/millennium-problems">七大数学难题</a> Millennium Problems <a href="https://www.claymath.org">美国克雷数学研究所</a> 2000 <a href="https://www.youtube.com/watch?v=vO8q_MymDhw&#x26;t=11s">v</a></p><p>杨-米尔斯存在性和质量缺口</p><p>黎曼假设/黎曼猜想？</p><p>NP完全问题</p><p>纳卫尔-斯托可方程的存在性与光滑性</p><p>霍奇猜想</p><p>庞加莱猜想</p><p>Birch 和 Swinnerton-Dyer 猜想</p> |
 
 ## 数学家/名人
 
