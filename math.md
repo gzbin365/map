@@ -84,6 +84,7 @@ description: 用数学充实人生
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso) |
+| Math Animations [Elliot Waite](https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY)                         |
 
 ## 小学
 
