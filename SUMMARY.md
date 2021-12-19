@@ -71,7 +71,7 @@
     * [舞蹈](sci/art/wu-dao.md)
     * [音乐](sci/art/music.md)
   * [工具](sci/gong-ju.md)
-* [科学上网](sci-net.md)
+  * [科学上网](sci/sci-net.md)
 * [other](other.md)
 * [赞助本站](sponsor.md)
 * [View on Github](https://github.com/gzbin365/map)
