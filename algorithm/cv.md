@@ -114,7 +114,7 @@ import cv2
 | Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                                      |
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                  |
 | OpenCV视觉处理核心课程 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvq1qm3aBteI1Rnf4-dgCMh)                                                                                       |
-|                                                                                                                                                                                           |
+| 影像處理 [數老的肺炎教室](https://www.youtube.com/playlist?list=PLdZnxtXi9LXJBPB6\_q15P5lYF2iNKun4G)                                                                                                 |
 
 
 
