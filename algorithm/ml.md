@@ -766,12 +766,13 @@ LSTM
 
 ## 其他
 
-|                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 人工智能时代 李开复 [Acsic People](https://www.youtube.com/watch?v=aGzWrwjGRn8)                                                                   |
-| 2020 Machine Learning Roadmap (still valid for 2021) [Daniel Bourke](https://www.youtube.com/watch?v=pHiMN\_gy9mk)                       |
-| Why AI is Harder Than We Think (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=uwfVxckuq50) |
-| Discovering ketosis: how to effectively lose weight [git](https://github.com/arielf/weight-loss)                                         |
-| imhuay/studies 学习笔记 [git](https://github.com/imhuay/studies)                                                                             |
-| 25th-engineer/DaChuangFiles [git](https://github.com/25th-engineer/DaChuangFiles)                                                        |
-|                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 人工智能时代 李开复 [Acsic People](https://www.youtube.com/watch?v=aGzWrwjGRn8)                                                                                                                                                                                                                                                             |
+| 2020 Machine Learning Roadmap (still valid for 2021) [Daniel Bourke](https://www.youtube.com/watch?v=pHiMN\_gy9mk)                                                                                                                                                                                                                 |
+| Why AI is Harder Than We Think (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=uwfVxckuq50)                                                                                                                                                                                           |
+| Discovering ketosis: how to effectively lose weight [git](https://github.com/arielf/weight-loss)                                                                                                                                                                                                                                   |
+| imhuay/studies 学习笔记 [git](https://github.com/imhuay/studies)                                                                                                                                                                                                                                                                       |
+| 25th-engineer/DaChuangFiles [git](https://github.com/25th-engineer/DaChuangFiles)                                                                                                                                                                                                                                                  |
+| MLEveryday/[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 机器学习100天 [en](https://github.com/Avik-Jain/100-Days-Of-ML-Code) [topic](https://github.com/topics/100-days-of-ml-code) [git](https://github.com/Vishal-V/100-Days-of-ML-Code) [git](https://github.com/llSourcell/100\_Days\_of\_ML\_Code) git |
+|                                                                                                                                                                                                                                                                                                                                    |
