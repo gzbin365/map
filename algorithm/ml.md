@@ -4,15 +4,9 @@ description: 机器学习
 
 # ML
 
-
-
 [**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
 
 [**AI之禅**](https://cloud.tencent.com/developer/user/3417275) [**机器之心**](https://cloud.tencent.com/developer/column/2713) [**ATYUN订阅号**](https://cloud.tencent.com/developer/column/2066) [**AI科技大本营的专栏**](https://cloud.tencent.com/developer/column/1360) [**BestSDK**](https://cloud.tencent.com/developer/column/2053) [**云+直播**](https://cloud.tencent.com/developer/column/2257)
-
-***
-
-***
 
 ## 平台
 
@@ -175,6 +169,7 @@ description: 机器学习
 | PyTorchZeroToAll (in English) [Sung Kim](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o\_2m)                                                                                                                                             |
 | PyTorch [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKz9pFarHCeNd-t\_CflCEYXe)                                                                                                                                                              |
 | PyTorch for Deep Learning - Full Course / Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY\&t=6s)                                                                                                                                            |
+| Deep Learning and Neural Networks with Python and Pytorch [sentdex](https://www.youtube.com/watch?v=BzcBsTou0C0)                                                                                                                                                |
 
 ### Keras
 
