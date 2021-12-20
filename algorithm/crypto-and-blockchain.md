@@ -42,4 +42,5 @@ description: Blockchain & Cryptocurrency
 | 元宇宙是什么？别听概念，看本质   [科学声音](https://www.youtube.com/watch?v=145dWxNpwLU\&list=TLPQMTAxMTIwMjFd4Jc4OICwuQ) |
 | 將會徹底改變世界的元宇宙 \| [老高與小茉](https://www.youtube.com/watch?v=hm5K-PBz0rg\&list=TLPQMTAxMTIwMjFd4Jc4OICwuQ)  |
 | 元宇宙：終極躺平，等待收割！元宇宙經濟割了誰的韭菜？｜[政經孫老師](https://www.youtube.com/watch?v=NPmy0CuojGs)                        |
+| 为什么人人都能聊元宇宙？因为它“什么都不是” [科技袁人](https://www.youtube.com/watch?v=svxZWwXfjnQ)                             |
 
