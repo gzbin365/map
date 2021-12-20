@@ -6,7 +6,7 @@
 | Cyberspatial([u](https://www.youtube.com/c/Cyberspatial/playlists), )                 | Zac Guo [u](https://www.youtube.com/c/ZacGuo/playlists)                                                                                                                                                            |
 | 红帽子教育 [u](https://www.youtube.com/channel/UC\_fKsJod28qALaZaO\_nFOtw/playlists)       | 逆向工程师Reverse [B](https://space.bilibili.com/14195062/)                                                                                                                                                             |
 | Motasem Hamdan [u](https://www.youtube.com/c/MotasemHamdaninfosec/playlists)          | 黑客张无忌 抖音号： [62446339085](https://www.douyin.com/user/MS4wLjABAAAAveFYwpIQrBdgdCFEa6GrPH65eqskXByzvH8hWgguVlY?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7004418049310739742\&is\_full\_screen=0) |
-|                                                                                       |                                                                                                                                                                                                                    |
+| Hak5 [u](https://www.youtube.com/watch?v=lBxZL98uvdk)                                 |                                                                                                                                                                                                                    |
 |                                                                                       |                                                                                                                                                                                                                    |
 
 |                                                                                                                                                        |
@@ -60,4 +60,10 @@
 | FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw) tw |   |
 |                                                                   |   |
 |                                                                   |   |
+
+| Log4J / Log4Shell                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| How Hackers Exploit Log4J to Get a Reverse Shell (Ghidra Log4Shell Demo) \| HakByte [Hak5](https://www.youtube.com/watch?v=lBxZL98uvdk) |
+|                                                                                                                                         |
+|                                                                                                                                         |
 
