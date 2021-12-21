@@ -170,6 +170,7 @@ description: 机器学习
 | PyTorch [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKz9pFarHCeNd-t\_CflCEYXe)                                                                                                                                                              |
 | PyTorch for Deep Learning - Full Course / Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY\&t=6s)                                                                                                                                            |
 | Deep Learning and Neural Networks with Python and Pytorch [sentdex](https://www.youtube.com/watch?v=BzcBsTou0C0)                                                                                                                                                |
+| TorchScript and PyTorch JIT \| Deep Dive [PyTorch](https://www.youtube.com/watch?v=2awmrMRf0dA)                                                                                                                                                                 |
 
 ### Keras
 
