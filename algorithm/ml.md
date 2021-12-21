@@ -335,6 +335,7 @@ description: 机器学习
 | \[Coursera] Neural Networks for Machine Learning — Geoffrey Hinton [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk\_SNhz9)                                                 |
 | Deep Learning With PyTorch - Full Course [Python Engineer](https://www.youtube.com/watch?v=c36lUUr864M)                                                                                                       |
 | Deep Learning Crash Course for Beginners　[freeCodeCamp](https://www.youtube.com/watch?v=VyWAvY2CF9c)                                                                                                          |
+| Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard [freeCodeCamp](https://www.youtube.com/watch?v=0oyCUWLL\_fU)                                                                  |
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                      |
 |                                                                                                                                                                                                               |
 |                                                                                                                                                                                                               |
