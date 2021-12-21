@@ -4,7 +4,9 @@ description: 用数学充实人生
 
 # math
 
-## 平台
+
+
+平台
 
 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -756,11 +758,15 @@ $$
 
 ### 复杂分析 Complex Analysis
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Complex Analysis [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_fDgY78f5lAT5zR6xHAajo)                  |
-| Undergrad Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) |
-| Graduate Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)  |
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Complex Analysis [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_fDgY78f5lAT5zR6xHAajo)                                   |
+| Undergrad Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)                  |
+| Graduate Complexity Theory at CMU [Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)                   |
+| Introduction To Complexity [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznRyDQlitfUTzXEXwLNNE-mI)                     |
+| Complexity Explorer Course Introduction Videos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznSkrY0MRQJwTFMM9GrJBeYU) |
+| Computation in Complex Systems [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQJ6u4FUcpyzi0it5EpR3dh)                 |
+|                                                                                                                                                |
 
 ### Complex Variables and Applications
 
@@ -867,14 +873,18 @@ $$
 | 《博弈论诡计全集》告诉你什么是人类最安全的社会模式 [米娅要好好读书](https://www.youtube.com/watch?v=0BSJHwWllEo)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | July 2019 - Game Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fY-Vh8Caiv3wAYmDd7SnrN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [帆船博弈](https://www.douyin.com/video/7031160604190706957)　                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Game Theory Tutorial: Static Games [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ1CK2QsjYiZgH923z05-tT)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 混沌理论 Chaos Theory
 
-|                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- |
-| [混沌](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H3FkW5nyOsYQl8CEqvhhnQ) 張志鴻                                    |
-| [碎形](https://www.youtube.com/playlist?list=PLUM5vdzDQB4E3onr-KAf0QdCsgE8uYEdk) 張志鴻                                    |
-| Chaos 混沌 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YkHIgBDJZ3UkZA8GrF6N2M) |
+|                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| [混沌](https://www.youtube.com/playlist?list=PLUM5vdzDQB4H3FkW5nyOsYQl8CEqvhhnQ) 張志鴻                                          |
+| [碎形](https://www.youtube.com/playlist?list=PLUM5vdzDQB4E3onr-KAf0QdCsgE8uYEdk) 張志鴻                                          |
+| Chaos 混沌 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YkHIgBDJZ3UkZA8GrF6N2M)       |
+| Nonlinear Dynamics [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz)          |
+| Dynamical Systems And Chaos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT) |
+|                                                                                                                             |
 
 ## 控制论 Control Theory
 
@@ -890,15 +900,16 @@ $$
 | ------------------------------------------------------------------------------------------------ | - |
 | **Systems Innovation(**[**u**](https://www.youtube.com/c/ComplexityLearningLab/playlists)**, )** |   |
 
-|                                                                                                                                                      |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| [动态系统概述](https://www.youtube.com/playlist?list=PLUM5vdzDQB4EvR9X0NoWJYSpdtrjA3gaC) 张志鸿                                                               |   |
-| [动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FEaLCO2XDEd61y\_p67yMgN) 张志鸿                                                                |   |
-| [线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GBr49rkGCaYb8eijNczA2y) 张志鸿                                                                 |   |
-| [非线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4G\_78pqr7VSfPakOZI05x5E) 张志鸿                                                               |   |
-| [符号动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GFDVR6-MDbfTN4yUXCdRWD) 张志鸿                                                               |   |
-| JAN 2020 - Introduction to System Dynamics Modeling [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fFQDTWYF4hzo6be81blfHo) |   |
-|                                                                                                                                                      |   |
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [动态系统概述](https://www.youtube.com/playlist?list=PLUM5vdzDQB4EvR9X0NoWJYSpdtrjA3gaC) 张志鸿                                                               |
+| [动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FEaLCO2XDEd61y\_p67yMgN) 张志鸿                                                                |
+| [线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GBr49rkGCaYb8eijNczA2y) 张志鸿                                                                 |
+| [非线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4G\_78pqr7VSfPakOZI05x5E) 张志鸿                                                               |
+| [符号动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GFDVR6-MDbfTN4yUXCdRWD) 张志鸿                                                               |
+| JAN 2020 - Introduction to System Dynamics Modeling [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fFQDTWYF4hzo6be81blfHo) |
+| Nonlinear Dynamics [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz)                                   |
+| Dynamical Systems And Chaos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)                          |
 
 ## 模糊数学
 
