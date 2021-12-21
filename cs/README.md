@@ -398,11 +398,12 @@ Computer Components？Computer Architecture？
 
 ## 项目
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A) |
-| Dujltqzv/Some-Many-Books [git](https://github.com/Dujltqzv/Some-Many-Books) 差评                             |
-|                                                                                                            |
+|                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A)                                                 |
+| Dujltqzv/Some-Many-Books [git](https://github.com/Dujltqzv/Some-Many-Books) 差评                                                                             |
+| guang19/[framework-learning](https://github.com/guang19/framework-learning) 计算机学习资料 [GitBook](https://qsjzwithguang19forever.gitee.io/framework-learning/) |
+|                                                                                                                                                            |
 
 ## 沙雕项目
 
