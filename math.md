@@ -432,6 +432,8 @@ description: 用数学充实人生
 | 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序 |
 | 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下   |
 | 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？  |
+| 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？            |
+| 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？     |
 |                                                                                        |
 
 ### 泛函分析 Functional Analysis
