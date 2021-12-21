@@ -293,7 +293,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------- |
 | 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)     |
 | 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders |
-|                                                                                  |
+| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)  |
 
 ## 虚拟现实 VR
 
@@ -380,6 +380,8 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------ | - |
 | 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          |   |
 | Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |   |
+
+2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
 ## 数码
 
