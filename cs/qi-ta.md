@@ -54,6 +54,8 @@
 | Programming for Beginners - How to Code Tutorial with Python and C# [freeCodeCamp](https://www.youtube.com/watch?v=\_\_izua1kKeI)                                             |
 | 【C#】3小时初级教程 ｜Csharp ｜ C# 编程 ｜ C# 入门 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=T9BeejD3i0g)                                                                          |
 | C# Project - Automatic Letter Generator \| Letter Generator in C# \| C# Window Forms \| C# Tutorial [Elangovan Tech Notes (ETS)](https://www.youtube.com/watch?v=UmPXaS5ldvw) |
+| How to write "smarter" enums in C# [Nick Chapsas](https://www.youtube.com/watch?v=CEZ6cF8eoeg)                                                                                |
+|                                                                                                                                                                               |
 |                                                                                                                                                                               |
 
 ## php
@@ -474,19 +476,20 @@
 | ------------------------------------------------------- | - |
 | kilObit [u](https://www.youtube.com/c/kil0bit/featured) |   |
 
-|                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3 years of Computer Science in 8 minutes [Devon Crawford](https://www.youtube.com/watch?v=ReVeUvwTGdU)                                          |
-| 二维码 How Barcodes Work [In One Lesson](https://www.youtube.com/watch?v=e6aR1k-ympo)                                                              |
-| 💻 - See How 🅻🅲🅳 Pixels Work [In One Lesson](https://www.youtube.com/watch?v=0B79dGR19Tg)                                                    |
-| 盲文 ⠃⠗⠇ - Learn Braille [In One Lesson](https://www.youtube.com/watch?v=sqQ3gdE7ks0)                                                             |
-| Structure and Interpretation of a Computer Revolution [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcfcnpf79R9f80bqjMvsOpeg) |
-| UML Diagrams Full Course (Unified Modeling Language) [freeCodeCamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)                                |
-| Fundamental of IT - Complete Course \|\| IT course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=awLnur5Yt9o)                   |
-| zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                      |
-| IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                  |
-| The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                        |
-| Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                         |
-| Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                               |
-| 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                            |
-| Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                     |
+|                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 years of Computer Science in 8 minutes [Devon Crawford](https://www.youtube.com/watch?v=ReVeUvwTGdU)                                                                                                        |
+| 二维码 How Barcodes Work [In One Lesson](https://www.youtube.com/watch?v=e6aR1k-ympo)                                                                                                                            |
+| 💻 - See How 🅻🅲🅳 Pixels Work [In One Lesson](https://www.youtube.com/watch?v=0B79dGR19Tg)                                                                                                                  |
+| 盲文 ⠃⠗⠇ - Learn Braille [In One Lesson](https://www.youtube.com/watch?v=sqQ3gdE7ks0)                                                                                                                           |
+| Structure and Interpretation of a Computer Revolution [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcfcnpf79R9f80bqjMvsOpeg)                                                               |
+| UML Diagrams Full Course (Unified Modeling Language) [freeCodeCamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)                                                                                              |
+| Fundamental of IT - Complete Course \|\| IT course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=awLnur5Yt9o)                                                                                 |
+| zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                                                                                    |
+| IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                                                                                |
+| The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                                                                                      |
+| Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                                                                                       |
+| Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                                                                                             |
+| 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                                                                                          |
+| Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                                                                                   |
+| 程序员变量命名神器 [v](https://www.douyin.com/video/7039691907366259982) [s](http://rcode.rbtree.cn) Codelf [s](https://unbug.github.io/codelf/) [b](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/85219501) |
