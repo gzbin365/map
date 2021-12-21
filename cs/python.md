@@ -348,6 +348,18 @@
 | Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                   |
 |                                                                                                                                                                        |
 
+{% tabs %}
+{% tab title="pyautogui" %}
+详解Python中pyautogui库的最全使用方法 [s](https://www.jb51.net/article/183926.htm)
+{% endtab %}
+
+{% tab title="AutoPy" %}
+AutoPy [doc](https://www.autopy.org/documentation/api-reference/index.html) [pypi](https://pypi.org/project/autopy/) [git](https://github.com/mgregson/autopy) [s](https://www.autopy.org)&#x20;
+
+Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/article/details/107358905)
+{% endtab %}
+{% endtabs %}
+
 [All Top 40 Python Libraries EXPLAINED in 20 minutes](https://www.youtube.com/watch?v=-29x\_deQQus)
 
 ## **GUI**
