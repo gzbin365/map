@@ -496,3 +496,5 @@
 | Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                                                                                   |
 | 程序员变量命名神器 [v](https://www.douyin.com/video/7039691907366259982) [s](http://rcode.rbtree.cn) Codelf [s](https://unbug.github.io/codelf/) [b](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/85219501) |
 | Internet History, Technology, and Security - Full Course from Dr. Chuck [freeCodeCamp](https://www.youtube.com/watch?v=47NRaBVxgVM)                                                                           |
+| Coding Graphics in TempleOS is Too Easy [Tsoding Daily](https://www.youtube.com/watch?v=d3eFHyryopQ)                                                                                                          |
+|                                                                                                                                                                                                               |
