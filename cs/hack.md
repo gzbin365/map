@@ -34,6 +34,7 @@
 | Cheat Engine for Idiots [Kian Brose](https://www.youtube.com/watch?v=4KJNM0FiE14)                                                                      |
 | Hiring a Hacker to Hack My Facebook [The Cyber Mentor](https://www.youtube.com/watch?v=c2Zl5uPDDV0)                                                    |
 | Hackatons: DeepHack [DeepPavlov](https://www.youtube.com/c/DeepPavlov/playlists)                                                                       |
+| Linux for Hackers (and everyone) // FREE Course for Beginners [NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) |
 
 |                                                                                |   |
 | ------------------------------------------------------------------------------ | - |
