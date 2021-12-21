@@ -55,7 +55,7 @@
 | 【C#】3小时初级教程 ｜Csharp ｜ C# 编程 ｜ C# 入门 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=T9BeejD3i0g)                                                                          |
 | C# Project - Automatic Letter Generator \| Letter Generator in C# \| C# Window Forms \| C# Tutorial [Elangovan Tech Notes (ETS)](https://www.youtube.com/watch?v=UmPXaS5ldvw) |
 | How to write "smarter" enums in C# [Nick Chapsas](https://www.youtube.com/watch?v=CEZ6cF8eoeg)                                                                                |
-|                                                                                                                                                                               |
+| Full C# Project: Supermarket Management System \| ASP.NET Core Blazor, EF Core, SQL Server, Identity Frank [Liu](https://www.youtube.com/watch?v=DWrH7br4DsM)                 |
 |                                                                                                                                                                               |
 
 ## php
