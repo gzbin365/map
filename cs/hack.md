@@ -62,9 +62,9 @@
 |                                                                   |   |
 |                                                                   |   |
 
-| Log4J / Log4Shell                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
-| How Hackers Exploit Log4J to Get a Reverse Shell (Ghidra Log4Shell Demo) \| HakByte [Hak5](https://www.youtube.com/watch?v=lBxZL98uvdk) |
-|                                                                                                                                         |
-|                                                                                                                                         |
+| Log4J / Log4Shell                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| How Hackers Exploit Log4J to Get a Reverse Shell (Ghidra Log4Shell Demo) \| HakByte [Hak5](https://www.youtube.com/watch?v=lBxZL98uvdk)         |
+| The Log4j Vulnerability Explained : Detection and Exploitation \| TryHackMe Log4j [Motasem Hamdan](https://www.youtube.com/watch?v=Zf2dZkaeiKE) |
+|                                                                                                                                                 |
 
