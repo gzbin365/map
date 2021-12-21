@@ -81,10 +81,11 @@ description: 用数学充实人生
 |                                                           | **The Manim Cast(**[**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)**)**          |
 |                                                           | **Manim Animations(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)**)**                  |
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso) |
-| Math Animations [Elliot Waite](https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY)                         |
+|                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso)                                                                                                                                                                                       |
+| <p>Math Animations <a href="https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY">Elliot Waite</a></p><p>Pycairo <a href="https://github.com/pygobject/pycairo">git</a> <a href="https://pycairo.readthedocs.io/en/latest/examples.html">doc</a> <a href="https://cairographics.org">Cairo</a></p> |
+|                                                                                                                                                                                                                                                                                                                        |
 
 ## 小学
 
