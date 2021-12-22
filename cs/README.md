@@ -73,11 +73,11 @@ description: 计算机科学与技术 keep coding
 
 ### Facebook
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| Facebook Research [git](https://github.com/facebookresearch) Meta Research |
-|                                                                            |
-|                                                                            |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| Facebook Research / Meta Research [git](https://github.com/facebookresearch) [s](https://research.facebook.com) |
+|                                                                                                                 |
+|                                                                                                                 |
 
 ### Oracle
 
