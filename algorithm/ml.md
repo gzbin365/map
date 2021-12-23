@@ -382,6 +382,7 @@ description: 机器学习
 | Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) [freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)                        |
 | Data Analysis Tutorial for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=ggJr2lX6aFw)                                                                             |
 | Data Analysis with Python for Excel Users - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=WcDaZ67TVRo)                                                           |
+| Build 12 Data Science Apps with Python and Streamlit - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=JwSS70SZdyM)                                                |
 
 ## 算法
 
