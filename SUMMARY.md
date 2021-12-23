@@ -35,6 +35,7 @@
   * [搜索](algorithm/sou-suo.md)
   * [量化](algorithm/liang-hua.md)
   * [区块链](algorithm/crypto-and-blockchain.md)
+  * [其他](algorithm/qi-ta.md)
 * [Device](device/README.md)
   * [GPU](device/gpu.md)
   * [Android/IOS](device/android.md)
