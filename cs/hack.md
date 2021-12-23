@@ -30,6 +30,7 @@
 | Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                 |
 | this device is HACKING my network!! (I'm letting it happen) [NetworkChuck](https://www.youtube.com/watch?v=2rVzRoF7vQw)                                |
 | you need to learn HACKING RIGHT NOW!! // CEH (ethical hacking) [NetworkChuck](https://www.youtube.com/watch?v=yFC8pb2TPdc)                             |
+| learn to HACK (the best way) // ft. John Hammond [NetworkChuck](https://www.youtube.com/watch?v=wIn3L24lksI)                                           |
 | Google HACKING (use google search to HACK!) [NetworkChuck](https://www.youtube.com/watch?v=hrVa\_dhD-iA)                                               |
 | Cheat Engine for Idiots [Kian Brose](https://www.youtube.com/watch?v=4KJNM0FiE14)                                                                      |
 | Hiring a Hacker to Hack My Facebook [The Cyber Mentor](https://www.youtube.com/watch?v=c2Zl5uPDDV0)                                                    |
