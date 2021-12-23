@@ -39,6 +39,7 @@
 | 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)   |
 | Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                         |
 | Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                              |
+| go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                       |
 
 ## C\#
 
