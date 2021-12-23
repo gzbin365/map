@@ -75,6 +75,10 @@ description: 用数学充实人生
 | Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                         |
 | Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
 
+### MATLAB
+
+The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://www.youtube.com/watch?v=T\_ekAD7U-wU)
+
 ### Manim
 
 |                                                           |                                                                                                                                   |

@@ -219,6 +219,11 @@
 | How I Learned To Make Games \| One Year of Indie Gamedev [David R. B.](https://www.youtube.com/watch?v=naES42NxbyY)                                             |
 | The Math Behind Font Rasterization \| How it Works [GamesWithGabe](https://www.youtube.com/watch?v=LaYPoMPRSlk)                                                 |
 | Unity vs Unreal Engine: I Spent One Month with Each as a Beginner [AsuraDev](https://www.youtube.com/watch?v=L7NosWkFBv4)                                       |
+| Learn Python by Building Five Games - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc)                                                   |
+| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                      |
+| Python Online Multiplayer Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=McoDjOCb2Zo)                                                 |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
 
