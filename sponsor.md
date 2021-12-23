@@ -4,7 +4,7 @@
 
 本站在GitHub开源，欢迎Star:
 
-[https://github.com/gzbin365/map](https://github.com/gzbin365/map)
+{% embed url="https://github.com/gzbin365/map" %}
 
 如果本网站对你有用， 可以请作者喝一杯咖啡
 
