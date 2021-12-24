@@ -317,6 +317,7 @@ description: 硬件设备
 | 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                   |
 | 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５ |
 | 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)      |
+| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)         |
 
 ## 手工
 

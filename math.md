@@ -4,9 +4,7 @@ description: 用数学充实人生
 
 # math
 
-
-
-平台
+## 平台
 
 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -922,6 +920,7 @@ $$
 | NOC Jan 2019: Fuzzy Logic and Neural Networks [IIT Kharagpur July 2018](https://www.youtube.com/playlist?list=PLbRMhDVUMngeASctgzkLEIpgFNZmWwqRl) |
 | fuzzy logic [subhro mukherjee](https://www.youtube.com/playlist?list=PLSfd76ix9UN\_ulsbzClTzu3vWJsylyQc5)                                         |
 | Fuzzy set Theory [Easy Learn with Prof S Chakraverty](https://www.youtube.com/playlist?list=PLjZ9ULh2Ff9FWvv-DiZHP6RN0kMr\_4aW4)                  |
+| 模糊理論 - Fuzzy Theory [PhD Lab Papers](https://www.youtube.com/watch?v=SETlbi-jHIQ)                                                                 |
 
 ## 小波理论
 
