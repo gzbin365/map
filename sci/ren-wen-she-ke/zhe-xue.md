@@ -51,6 +51,7 @@
 | 当下中国人如何选择未来？｜[王德峰](https://www.youtube.com/watch?v=ZXNNWBcq1g8)                                                                                                                                             |
 | 人生是孤独的存在 [俞敏洪](https://www.douyin.com/video/7038613488536800546)                                                                                                                                            |
 | 真正的懒惰：用战术上的勤奋掩盖战略上的懒惰．                                                                                                                                                                                      |
+| 越能体现人性尊严的快乐，越是一种最高级的快乐 [厚大法考（厚大宣传部offical）](https://www.youtube.com/watch?v=UBbQjYiD4X0\&t=181s)                                                                                                            |
 
 ### 人生的意义
 

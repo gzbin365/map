@@ -13,11 +13,11 @@
 
 ### C++
 
-|                                                                           |                                                                       |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Meeting Cpp [u](https://www.youtube.com/channel/UCJpMLydEYA08vusDkq3FmjQ) | CppCon [u](https://www.youtube.com/channel/UCMlGfpWw-RUdWX\_JbLCukXg) |
-|                                                                           |                                                                       |
-|                                                                           |                                                                       |
+|                                                                                     |                                                                       |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Meeting Cpp [u](https://www.youtube.com/channel/UCJpMLydEYA08vusDkq3FmjQ)           | CppCon [u](https://www.youtube.com/channel/UCMlGfpWw-RUdWX\_JbLCukXg) |
+| Angus Chang [u](https://www.youtube.com/channel/UC8qt16ugONSNcQKt2vgZLVQ/playlists) |                                                                       |
+|                                                                                     |                                                                       |
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
