@@ -128,8 +128,6 @@
 |                                 |
 |                                 |
 
-{% embed url="https://gzbin.gitbook.io/itcast" %}
-
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [传智播客 python公开课 —— 8天深入理解Python](https://www.youtube.com/playlist?list=PLC664nq\_h8b-S7tNk9fpFHoesnLG2hmah) Zack Micheal     |
