@@ -1,6 +1,7 @@
 # Table of contents
 
 * [算法地图](README.md)
+* [math](math.md)
 * [CS](cs/README.md)
   * [Linux](cs/linux.md)
   * [Python](cs/python.md)
@@ -20,7 +21,6 @@
   * [Hack](cs/hack.md)
   * [面试](cs/mian-shi.md)
   * [其他](cs/qi-ta.md)
-* [math](math.md)
 * [Algorithm](algorithm/README.md)
   * [ML](algorithm/ml.md)
   * [NLP](algorithm/nlp.md)
