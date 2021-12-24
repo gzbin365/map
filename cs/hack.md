@@ -56,7 +56,7 @@
 | Hacker // Programming // Coding Music [Fil Far](https://www.youtube.com/playlist?list=PLEM4vOSCprStzppPemEYAF6ZEUrQYj5N5)  |
 | 【深度解析】V怪客-電影沒拍出來的經典 \| 漫畫深度解析 \| [超粒方](https://www.youtube.com/watch?v=XtessN-HeSc)                                        |
 | 渗透攻击 micro8 [gitbook](https://micro8.gitbook.io/micro8/) [github](https://github.com/Micropoor/Micro8)                     |
-|                                                                                                                            |
+| 黑客攻防入門 [Angus Chang](https://www.youtube.com/playlist?list=PLzKtnppOmiXDSZZA8YOjcCxkKTcDXCuej)                             |
 
 | 黑客组织                                                              |   |
 | ----------------------------------------------------------------- | - |
