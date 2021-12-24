@@ -34,6 +34,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | [**wang**](https://www.artstation.com/wangchen)                                                                              | [**Lou LL**](https://www.artstation.com/arroll) | [N I X E U](https://www.artstation.com/nixeu) |
 
+Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/watch?v=wn2rlEp5Iag)
+
 ### Sketch
 
 |                                                                                            |
