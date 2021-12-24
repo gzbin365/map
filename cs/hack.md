@@ -59,15 +59,17 @@
 | 渗透攻击 micro8 [gitbook](https://micro8.gitbook.io/micro8/) [github](https://github.com/Micropoor/Micro8)                     |
 | 黑客攻防入門 [Angus Chang](https://www.youtube.com/playlist?list=PLzKtnppOmiXDSZZA8YOjcCxkKTcDXCuej)                             |
 
-| 黑客组织                                                              |   |
-| ----------------------------------------------------------------- | - |
-| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw) tw |   |
-|                                                                   |   |
-|                                                                   |   |
+| 黑客组织                                                                      |   |
+| ------------------------------------------------------------------------- | - |
+| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw\&t=454s) tw |   |
+|                                                                           |   |
+|                                                                           |   |
 
 | Log4J / Log4Shell                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | How Hackers Exploit Log4J to Get a Reverse Shell (Ghidra Log4Shell Demo) \| HakByte [Hak5](https://www.youtube.com/watch?v=lBxZL98uvdk)         |
 | The Log4j Vulnerability Explained : Detection and Exploitation \| TryHackMe Log4j [Motasem Hamdan](https://www.youtube.com/watch?v=Zf2dZkaeiKE) |
 | Log4J Vulnerability (Log4Shell) Explained - for Java developers [Java Brains](https://www.youtube.com/watch?v=uyq8yxWO1ls)                      |
+| Log4J & JNDI Exploit: Why So Bad? - [Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)                                                |
+|                                                                                                                                                 |
 
