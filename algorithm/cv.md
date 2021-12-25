@@ -116,6 +116,10 @@ import cv2
 | OpenCV Course - Full Tutorial with Python [freeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o)                                                                                     |
 | OpenCV视觉处理核心课程 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvq1qm3aBteI1Rnf4-dgCMh)                                                                                       |
 | 影像處理 [數老的肺炎教室](https://www.youtube.com/playlist?list=PLdZnxtXi9LXJBPB6\_q15P5lYF2iNKun4G)                                                                                                 |
+| Hand Distance Measurement with Normal Webcam + Game \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=NGQgRH2\_kq8)                                 |
+|                                                                                                                                                                                           |
+|                                                                                                                                                                                           |
+|                                                                                                                                                                                           |
 
 
 
