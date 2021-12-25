@@ -218,6 +218,7 @@
 | Making a PS2 Game LIVE #2 - Drawing Triangles (C Game Development on PS2SDK) [Tom Marks Talks Code](https://www.youtube.com/watch?v=Oy-ROMER2nc)                |
 | How I Learned To Make Games \| One Year of Indie Gamedev [David R. B.](https://www.youtube.com/watch?v=naES42NxbyY)                                             |
 | The Math Behind Font Rasterization \| How it Works [GamesWithGabe](https://www.youtube.com/watch?v=LaYPoMPRSlk)                                                 |
+| How to Code Minecraft [GamesWithGabe](https://www.youtube.com/playlist?list=PLtrSb4XxIVbodGYZZVzC1PAZfwckrXp\_X)                                                |
 | Unity vs Unreal Engine: I Spent One Month with Each as a Beginner [AsuraDev](https://www.youtube.com/watch?v=L7NosWkFBv4)                                       |
 | Learn Python by Building Five Games - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc)                                                   |
 | Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                      |

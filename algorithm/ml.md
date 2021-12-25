@@ -4,7 +4,7 @@ description: 机器学习
 
 # ML
 
-[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
+Image Classification with Convolutional Neural Networks | [Part 4 of 6](https://www.youtube.com/watch?v=d9QHNkD\_Pos)     [bk](https://www.youtube.com/watch?v=TN9fMYQxw4E)[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
 
 [**AI之禅**](https://cloud.tencent.com/developer/user/3417275) [**机器之心**](https://cloud.tencent.com/developer/column/2713) [**ATYUN订阅号**](https://cloud.tencent.com/developer/column/2066) [**AI科技大本营的专栏**](https://cloud.tencent.com/developer/column/1360) [**BestSDK**](https://cloud.tencent.com/developer/column/2053) [**云+直播**](https://cloud.tencent.com/developer/column/2257)
 
@@ -173,6 +173,15 @@ description: 机器学习
 | Deep Learning and Neural Networks with Python and Pytorch [sentdex](https://www.youtube.com/watch?v=BzcBsTou0C0)                                                                                                                                                |
 | TorchScript and PyTorch JIT \| Deep Dive [PyTorch](https://www.youtube.com/watch?v=2awmrMRf0dA)                                                                                                                                                                 |
 
+| Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PyTorch Basics and Gradient Descent \| [Part 1 of 6](https://www.youtube.com/watch?v=5ioMqzMRFgM)                                                                            |
+|                                                                                                                                                                              |
+|                                                                                                                                                                              |
+| Image Classification with Convolutional Neural Networks \| [Part 4 of 6](https://www.youtube.com/watch?v=d9QHNkD\_Pos)     [bk](https://www.youtube.com/watch?v=TN9fMYQxw4E) |
+| Data Augmentation, Regularization, and ResNets \| [5 of 6](https://www.youtube.com/watch?v=JN7-ZBFYSCU)                                                                      |
+| Image Generation using GANs \| [Part 6 of 6](https://www.youtube.com/watch?v=QpR4QEv5Urk)                                                                                    |
+
 ### Keras
 
 |                                                                                                                                                                                                                                                                                                                                                    |
@@ -339,7 +348,7 @@ description: 机器学习
 | Deep Learning Crash Course for Beginners　[freeCodeCamp](https://www.youtube.com/watch?v=VyWAvY2CF9c)                                                                                                          |
 | Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard [freeCodeCamp](https://www.youtube.com/watch?v=0oyCUWLL\_fU)                                                                  |
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                      |
-|                                                                                                                                                                                                               |
+| CS294-158 Deep Unsupervised Learning [Dhanabhon Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhaXckkffWVmxbYtYs7ntx-y)                                                                 |
 |                                                                                                                                                                                                               |
 |                                                                                                                                                                                                               |
 |                                                                                                                                                                                                               |
