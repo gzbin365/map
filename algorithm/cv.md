@@ -208,13 +208,14 @@ import cv2
 | facebookresearch/InterHand2.6M [git](https://github.com/facebookresearch/InterHand2.6M)                                                                               |
 |                                                                                                                                                                       |
 
-### Face Detect
+### 人脸识别 Face Detect
 
-|                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                     |
-| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge |
-| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                         |
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                      |
+| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge  |
+| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                          |
+| 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM) [git](https://www.youtube.com/watch?v=xSBqnS1kLGA) |
 
 ### OCR
 
