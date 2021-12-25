@@ -744,6 +744,14 @@ $$
 | Convex Optimization 39个小时学会凸优化-中科大-凌青老师 [PatriTech](https://www.youtube.com/playlist?list=PLex0qwR2dnJh\_7351A8HmasW1G-\_\_le\_S)   |
 |                                                                                                                                     |
 
+### 拉格朗日乘数法
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ## 概率图模型 Probabilistic Graphical Model
 
 **2014 Spring Carnegie Mellon Univ 10708 Probabilistic Graphical Model(**[**list**](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6\_ZWGg/videos)**, )**
