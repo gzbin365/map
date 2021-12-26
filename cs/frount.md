@@ -64,6 +64,7 @@
 | How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [freeCodeCamp](https://www.youtube.com/watch?v=NQP89ish9t8)                                                              |
 | Web Applications for Everybody Course - Dr. Chuck Teaches HTML, PHP, SQL, CSS, JavaScript, and more! [freeCodeCamp](https://www.youtube.com/watch?v=xr6uZDRTna0)                                 |
 | Ultimate Freelancing Guide for Web Developers (Make money through freelance programming!) [freeCodeCamp](https://www.youtube.com/watch?v=4TIvB8zDFio)                                            |
+| How to Find Freelance Jobs [freeCodeCamp](https://www.youtube.com/watch?v=Z63TxAJotgQ)                                                                                                           |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
