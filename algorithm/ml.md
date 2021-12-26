@@ -586,6 +586,36 @@ LSTM
 | 为什么要使用MCMC方法？[zh](https://www.zhihu.com/question/60437632)                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                    |
 
+<details>
+
+<summary>维特比算法 The Viterbi Algorithm</summary>
+
+基于维特比算法的文本分词 (Greedy Academy)  [贪心学院 Greedy AI](https://www.youtube.com/watch?v=uVgdf7dC6vQ)
+
+任务024：分词 维特比算法 [William](https://www.youtube.com/watch?v=WPsOZft57hg) [砖家王二狗](https://www.youtube.com/watch?v=k-kVJYHAg8c)
+
+Viterbi Algorithm [Keith Chugg](https://www.youtube.com/watch?v=6JVqutwtzmo)
+
+汉语自然语言处理-维特比算法与NER-命名实体识别-viterbi algorithm-HMM-CRF-概率图模型-动态规划 [Shurui Zhang](https://www.youtube.com/watch?v=RKDIpPyeTTk) [B](https://space.bilibili.com/255296093/video)
+
+Decoding Convolutional Codes: The Viterbi Algorithm Explained [Iain Explains Signals, Systems, and Digital Comms](https://www.youtube.com/watch?v=IJE94FhyygM)
+
+The Viterbi Algorithm : Natural Language Processing [ritvikmath](https://www.youtube.com/watch?v=IqXdjdOgXPM)
+
+(ML 14.11) Viterbi algorithm (part 1) [mathematicalmonk](https://www.youtube.com/watch?v=RwwfUICZLsA)
+
+人工智慧 -- 機率統計法 (HMM 隱碼可夫模型與 viterbi 算法）[陳鍾誠](https://www.youtube.com/watch?v=\_IbuLQON18g)
+
+STAT115 Chapter 14.6 Viterbi Algorithm [Xiaole Shirley Liu](https://www.youtube.com/watch?v=9CGijzXDxiw)
+
+Digital Communications: Viterbi Algorithm [UConn HKN](https://www.youtube.com/watch?v=dKIf6mQUfnY)
+
+Hidden Markov Models 11: the Viterbi algorithm [djp3](https://www.youtube.com/watch?v=s9dU3sFeE40)
+
+
+
+</details>
+
 ### 因子分解机Factorization Machine, FM
 
 |                                                                                                                                                                                        |
