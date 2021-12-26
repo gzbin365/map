@@ -145,6 +145,18 @@ description: 机器学习
 
 ## 框架
 
+<details>
+
+<summary>Long Liangqu</summary>
+
+深度学习与PyTorch教程 [Long Liangqu](https://www.youtube.com/playlist?list=PLDzdzeKX7DWep2KyJwJ-BmYciXTARvZO6) [网易云课堂](https://study.163.com/course/introduction.htm?courseId=1208894818&\_trace\_c\_p\_k2\_=54f72717ccb34b6cbe28c12f72ce7d59)
+
+深度学习与TensorFlow 2入门实战 [Long Liangqu](https://www.youtube.com/playlist?list=PLh7DRwYmUgh7swOvZUZ52LMeGDmjFH0nv) [网易云课堂](https://study.163.com/course/introduction/1209092816.htm?inLoc=lmxq\_sjlm\_480000004203006\_480000004203015)
+
+magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8EPyTorch%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B
+
+</details>
+
 ### Tensorflow
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

@@ -305,6 +305,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Neovim - Your First 15 Minutes [Jake Wiesler](https://www.youtube.com/watch?v=zn\_BT56UoKs)                                        |
 | Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA) |
 | my linux config more like neovim config :) [momfor](https://www.youtube.com/watch?v=\_GldsqYpYz0)                                  |
+| Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                     |
+|                                                                                                                                    |
 
 ## Wine
 

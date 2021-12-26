@@ -39,6 +39,7 @@
 | 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), )                                                                                                | 没用过  |
 | shadowsocks [git](https://github.com/shadowsocks)                                                                                                                                                            |      |
 | 快连 [s](https://d132o2ux0nuv2m.cloudfront.net)                                                                                                                                                                |      |
+| <p><a href="https://surfshark.deals">https://surfshark.deals</a>  surfshark</p><p><a href="https://surfshark.deals/HEXAGON">https://surfshark.deals/HEXAGON</a></p>                                          |      |
 
 | 澳门手机卡/澳门sim卡                                                                   |
 | ------------------------------------------------------------------------------ |
