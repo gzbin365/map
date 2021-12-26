@@ -62,6 +62,7 @@
 | JavaScript Tutorial - PuzzleCam Game　[freeCodeCamp](https://www.youtube.com/watch?v=HS6KHYIYdXc)                                                                                                 |
 | Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod [freeCodeCamp](https://www.youtube.com/watch?v=OUzaUJ3gEug)                                                    |
 | How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [freeCodeCamp](https://www.youtube.com/watch?v=NQP89ish9t8)                                                              |
+| Web Applications for Everybody Course - Dr. Chuck Teaches HTML, PHP, SQL, CSS, JavaScript, and more! [freeCodeCamp](https://www.youtube.com/watch?v=xr6uZDRTna0)                                 |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |

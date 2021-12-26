@@ -101,6 +101,10 @@ description: 自然语言处理
 |                                                                               |
 |                                                                               |
 
+### Natural Language Understanding
+
+Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](https://www.youtube.com/watch?v=5UTOC8eSvP8\&list=PLtrSb4XxIVbr-9nNlAenDsaB8xscDTeA6\&index=12)
+
 ### 对话系统
 
 |                                                                                                                                                                                                                                             |                                                                                  |
