@@ -176,11 +176,13 @@ description: 机器学习
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | PyTorch Basics and Gradient Descent \| [Part 1 of 6](https://www.youtube.com/watch?v=5ioMqzMRFgM)                                                                            |
-|                                                                                                                                                                              |
-|                                                                                                                                                                              |
+| PyTorch Images and Logistic Regress \| [2 of 6](https://www.youtube.com/watch?v=qmzgJvVP9XA)                                                                                 |
+| Training Deep Neural Networks on GPUs \| [Part 3 of 6](https://www.youtube.com/watch?v=9suSsTVhYuw)                                                                          |
 | Image Classification with Convolutional Neural Networks \| [Part 4 of 6](https://www.youtube.com/watch?v=d9QHNkD\_Pos)     [bk](https://www.youtube.com/watch?v=TN9fMYQxw4E) |
 | Data Augmentation, Regularization, and ResNets \| [5 of 6](https://www.youtube.com/watch?v=JN7-ZBFYSCU)                                                                      |
 | Image Generation using GANs \| [Part 6 of 6](https://www.youtube.com/watch?v=QpR4QEv5Urk)                                                                                    |
+| PyTorch: Zero to GANs Dhanabhon [Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhY2UoT5l3Lw\_bu3qywo5GPI)                                              |
+| Deep Learning with PyTorch: Zero to GANs [Jovian](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)                                                  |
 
 ### Keras
 

@@ -297,6 +297,15 @@
 | Pandas 官方教程 ([书栈](https://www.bookstack.cn/books/pandas-official-tut-zh), )        |   |
 | pandas 0.25.3 documentation ([书栈](https://www.bookstack.cn/books/pandas-0.25.3), ) |   |
 
+| sklearn                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)        [https://github.com/scikit-learn](https://github.com/scikit-learn)                                     |
+| 从版本0.9（在2011年9月发布）起，scikit-learn导入路径从scikits.learn 改为 sklearn                                                                                                                      |
+|                                                                                                                                                                                    |
+| scikit-learn：Python中的机器学习[https://www.bookstack.cn/read/scipy-lecture-notes\_cn/90c085936b816f10.md](https://www.bookstack.cn/read/scipy-lecture-notes\_cn/90c085936b816f10.md) 书栈 |
+|                                                                                                                                                                                    |
+|                                                                                                                                                                                    |
+
 | seaborn                                                               |   |
 | --------------------------------------------------------------------- | - |
 | seaborn 0.9 中文文档 ([书栈](https://www.bookstack.cn/books/seaborn-0.9), ) |   |
