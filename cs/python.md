@@ -1,5 +1,7 @@
 # Python
 
+
+
 [https://www.python.org/](https://www.python.org)
 
 [https://github.com/python/cpython](https://github.com/python/cpython)
@@ -203,13 +205,14 @@
 
 ### 数字和数学模块
 
-|                                                                                                    |   |
-| -------------------------------------------------------------------------------------------------- | - |
-| 数字和数学模块 [doc](https://docs.python.org/zh-cn/3/library/numeric.html)                                |   |
-| math --- 数学函数 [doc](https://docs.python.org/zh-cn/3/library/math.html)                             |   |
-| cmath --- 关于复数的数学函数 [doc](https://docs.python.org/zh-cn/3/library/cmath.html#module-cmath)         |   |
-| random --- 生成伪随机数 [doc](https://docs.python.org/zh-cn/3/library/random.html)                       |   |
-| PyMath [Flammable Maths](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmdS12rCSWlMUV4XTBhJ0SKr) |   |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| 数字和数学模块 [doc](https://docs.python.org/zh-cn/3/library/numeric.html)                                                        |
+| math --- 数学函数 [doc](https://docs.python.org/zh-cn/3/library/math.html)                                                     |
+| cmath --- 关于复数的数学函数 [doc](https://docs.python.org/zh-cn/3/library/cmath.html#module-cmath)                                 |
+| random --- 生成伪随机数 [doc](https://docs.python.org/zh-cn/3/library/random.html)                                               |
+| PyMath [Flammable Maths](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmdS12rCSWlMUV4XTBhJ0SKr)                         |
+| [https://github.com/gzbin365/learn/blob/main/math/math.ipynb](https://github.com/gzbin365/learn/blob/main/math/math.ipynb) |
 
 ## 模块
 
