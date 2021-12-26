@@ -1,5 +1,9 @@
 # Python
 
+[https://www.python.org/](https://www.python.org)
+
+[https://github.com/python/cpython](https://github.com/python/cpython)
+
 ## 常用
 
 |                                                                                                                                                           |                                                                                                                                 |                                                                                                                                                                                                                                                                                                                |
