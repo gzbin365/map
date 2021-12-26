@@ -6,7 +6,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 
 |                                                                                                                                                                    |                                                                                                                                               |                                                                                                                            |                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [**Google**](https://www.google.com)                                                                                                                               | [**百度**](https://www.baidu.com)                                                                                                               | [**Doge**](https://www.dogedoge.com)                                                                                       | [**Bing**](https://cn.bing.com)                                                              |
+| [**Google**](https://www.google.com)                                                                                                                               | [**百度**](https://www.baidu.com)                                                                                                               |                                                                                                                            | [**Bing**](https://cn.bing.com)                                                              |
 | [**知乎**](https://www.zhihu.com)                                                                                                                                    | [**油管**](https://www.youtube.com/feed/library)                                                                                                | [**微博**](https://weibo.com)                                                                                                | [**sota**](https://paperswithcode.com/sota)                                                  |
 | [**medium**](https://medium.com)                                                                                                                                   | [**谷歌学术**](https://scholar.google.com)                                                                                                        | [**哔哩哔哩**](https://www.bilibili.com)                                                                                       | [**wikipedia**](https://www.wikipedia.org)                                                   |
 | [**网页微信**](https://wx2.qq.com)                                                                                                                                     | [**reddit**](https://www.reddit.com)                                                                                                          | [**简书**](https://www.jianshu.com)                                                                                          | [**twitter**](https://twitter.com)                                                           |
@@ -30,6 +30,26 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | [**regex**](https://regex101.com)                | [**Markdown Tables**](https://www.tablesgenerator.com/markdown\_tables)                                              | [**typora**](https://typora.io)                                                                                                                                      |                                                                                                                                                                                                   |
 | [**字符识别**](http://119.3.137.32:20808/text)       | [**FreeDownloadManager**](https://www.freedownloadmanager.org/download-fdm-for-linux.htm)                            | [**VirtualBox**](https://wiki.archlinux.org/index.php/VirtualBox\_\(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87\)#%E5%9C%A8\_Arch\_%E9%87%8C%E5%AE%89%E8%A3%85\_VirtualBox) | [**Github**](https://github.com)([**u**](https://www.youtube.com/c/GitHub/featured), [pages](https://pages.github.com) [s](https://docs.github.com/en/pages/getting-started-with-github-pages), ) |
 | [**阿里云**](https://www.aliyun.com)                | [**天池**](https://tianchi.aliyun.com)                                                                                 | 语雀 [s](https://www.yuque.com)                                                                                                                                        | [**木头分享**](https://mutou.run)                                                                                                                                                                     |
+
+{% content-ref url="cs/python.md" %}
+[python.md](cs/python.md)
+{% endcontent-ref %}
+
+{% content-ref url="algorithm/ml.md" %}
+[ml.md](algorithm/ml.md)
+{% endcontent-ref %}
+
+{% content-ref url="cs/linux.md" %}
+[linux.md](cs/linux.md)
+{% endcontent-ref %}
+
+{% content-ref url="algorithm/nlp.md" %}
+[nlp.md](algorithm/nlp.md)
+{% endcontent-ref %}
+
+{% content-ref url="algorithm/cv.md" %}
+[cv.md](algorithm/cv.md)
+{% endcontent-ref %}
 
 ## 谷歌
 

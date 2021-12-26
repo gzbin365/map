@@ -85,29 +85,29 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Google拼音 [v](https://www.youtube.com/watch?v=A-tqejCn5XU) 推荐!!                              |   |
 | 搜狗拼音 v [help](https://pinyin.sogou.com/linux/help.php) [d](https://pinyin.sogou.com/linux/) |   |
 
-|                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Linux Benchmarking and Speed Testing**](https://www.youtube.com/playlist?list=PLFxfbw6hcvOc6y48K6K-1-Tv8chR-MPIU)                                     |
-| Linux Applications \| Spotlights and Guides([TechHut](https://www.youtube.com/playlist?list=PLFxfbw6hcvOcU1m5URx7fhSGiVX9Ti-Ie))                         |
-| [**Linux System Programming 6 Hours Course**](https://www.youtube.com/watch?v=6OSeJFo6GOc) **linuxhint**                                                 |
-| [**50 Things to Do After installing Ubuntu 20.04**](https://www.youtube.com/watch?v=MNX7HgcWqHc) **Average Linux User**                                  |
-| Linux基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-M9XPjYAC9B5IacekZjxh)                                                                |
-| Linux操作系统基础（最新版） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaFgB4G-968qJDQcaVZB4pE)                                                       |
-| Linux网络编程项目实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhakL1d2210pkYBoIVBXJeGz)                                                          |
-| linux驱动策略及框架 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZYd2BDNKIrNb3qERvifmoQ)                                                           |
-| linux进程概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8CjTSCoTYCGzk-yoU8bRy)                                                              |
-| 趣谈Linux操作系统 [极客时间](https://time.geekbang.org/column/intro/100024701)                                                                                     |
-| 操作系统 [阿拓新](https://www.youtube.com/playlist?list=PLz6KQYkh-TgsOh\_bTFR9jDmwGAgSb-H0P)                                                                    |
-| <p>The Complete Linux Course: Beginner to Power User <a href="https://www.youtube.com/watch?v=wBp0Rb-ZJak">freeCodeCamp</a></p><p>完整的Linux课程：初级到高级用户</p> |
-| Linux System Administration Full Course [Geek's Lesson](https://www.youtube.com/watch?v=wsh64rjnRas)                                                     |
-| Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                   |
-| Linux Tutorial for Beginners: Introduction to Linux Operating System [Guru99](https://www.youtube.com/watch?v=V1y-mbWM3B8)                               |
-| Linux经验技巧系列 [心灵手不巧](https://www.youtube.com/playlist?list=PLwYr3g44GVvF-WxXeEC7vDcA2-MNgSVX6)                                                            |
-| Linux Leonard [Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHsjt3sagYb30SWEsUG6NGvE)                                                          |
-| 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                        |
-|                                                                                                                                                          |
-|                                                                                                                                                          |
-|                                                                                                                                                          |
+|                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Linux Benchmarking and Speed Testing**](https://www.youtube.com/playlist?list=PLFxfbw6hcvOc6y48K6K-1-Tv8chR-MPIU)                                                                                                                   |
+| Linux Applications \| Spotlights and Guides([TechHut](https://www.youtube.com/playlist?list=PLFxfbw6hcvOcU1m5URx7fhSGiVX9Ti-Ie))                                                                                                       |
+| [**Linux System Programming 6 Hours Course**](https://www.youtube.com/watch?v=6OSeJFo6GOc) **linuxhint**                                                                                                                               |
+| [**50 Things to Do After installing Ubuntu 20.04**](https://www.youtube.com/watch?v=MNX7HgcWqHc) **Average Linux User**                                                                                                                |
+| Linux基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-M9XPjYAC9B5IacekZjxh)                                                                                                                                              |
+| Linux操作系统基础（最新版） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaFgB4G-968qJDQcaVZB4pE)                                                                                                                                     |
+| Linux网络编程项目实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhakL1d2210pkYBoIVBXJeGz)                                                                                                                                        |
+| linux驱动策略及框架 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZYd2BDNKIrNb3qERvifmoQ)                                                                                                                                         |
+| linux进程概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8CjTSCoTYCGzk-yoU8bRy)                                                                                                                                            |
+| 趣谈Linux操作系统 [极客时间](https://time.geekbang.org/column/intro/100024701)                                                                                                                                                                   |
+| 操作系统 [阿拓新](https://www.youtube.com/playlist?list=PLz6KQYkh-TgsOh\_bTFR9jDmwGAgSb-H0P)                                                                                                                                                  |
+| <p>The Complete Linux Course: Beginner to Power User <a href="https://www.youtube.com/watch?v=wBp0Rb-ZJak">freeCodeCamp</a>   <a href="https://www.youtube.com/watch?v=wBp0Rb-ZJak">Joseph Delgadillo</a></p><p>完整的Linux课程：初级到高级用户</p> |
+| Linux System Administration Full Course [Geek's Lesson](https://www.youtube.com/watch?v=wsh64rjnRas)                                                                                                                                   |
+| Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                                                                                                 |
+| Linux Tutorial for Beginners: Introduction to Linux Operating System [Guru99](https://www.youtube.com/watch?v=V1y-mbWM3B8)                                                                                                             |
+| Linux经验技巧系列 [心灵手不巧](https://www.youtube.com/playlist?list=PLwYr3g44GVvF-WxXeEC7vDcA2-MNgSVX6)                                                                                                                                          |
+| Linux Leonard [Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHsjt3sagYb30SWEsUG6NGvE)                                                                                                                                        |
+| 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                                                                                                      |
+|                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                        |
 
 |                                                                              |
 | ---------------------------------------------------------------------------- |
