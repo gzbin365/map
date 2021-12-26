@@ -756,6 +756,8 @@ LSTM
 
 ### 花书
 
+MingchaoZhu/[DeepLearning](https://github.com/MingchaoZhu/DeepLearning) 数学推导、原理剖析与源码级别代码实现
+
 {% file src="../.gitbook/assets/深度学习.pdf" %}
 
 ### 百面深度学习
