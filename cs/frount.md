@@ -63,6 +63,7 @@
 | Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod [freeCodeCamp](https://www.youtube.com/watch?v=OUzaUJ3gEug)                                                    |
 | How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [freeCodeCamp](https://www.youtube.com/watch?v=NQP89ish9t8)                                                              |
 | Web Applications for Everybody Course - Dr. Chuck Teaches HTML, PHP, SQL, CSS, JavaScript, and more! [freeCodeCamp](https://www.youtube.com/watch?v=xr6uZDRTna0)                                 |
+| Ultimate Freelancing Guide for Web Developers (Make money through freelance programming!) [freeCodeCamp](https://www.youtube.com/watch?v=4TIvB8zDFio)                                            |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
@@ -128,6 +129,7 @@
 | Chat Application Tutorial With Socket.IO & React [Coding Expert](https://www.youtube.com/watch?v=8wAy\_xv8b9o)                                                           |
 | Build and Deploy a Fully Responsive Modern UI/UX Website in React JS [JavaScript Mastery](https://www.youtube.com/watch?v=LMagNcngvcU)                                   |
 | Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss)                      |
+| Learn React Native Gestures and Animations - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=wEVjaXK4sYQ)                                                        |
 
 ### Next.js
 
