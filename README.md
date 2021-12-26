@@ -73,6 +73,27 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | Medium Google Coding Interview With Ben Awad [Clément Mihailescu](https://www.youtube.com/watch?v=4tYoVx0QoN0\&t=48s)         |
 | Python Django and Google APIs - Project Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_vCT42vDfgw)                 |
 | Google Code Archive [s](https://code.google.com/archive/)                                                                     |
+| you need to learn Google Cloud RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=YJwhQowT84A)                        |
+
+<details>
+
+<summary>Google Colab</summary>
+
+Is Google CoLab Pro Worth it in 2021? [Jeff Heaton](https://www.youtube.com/watch?v=WIvKOABJWp0)
+
+Is Google CoLab Pro worth it? [Jeff Heaton](https://www.youtube.com/watch?v=N2NEyr9Bf48)
+
+在google colab上进行yolov5模型训练，免费使用GPU资源 [迷途小书童的Note](https://www.youtube.com/watch?v=e6MbVG8GO6s) [s](https://xugaoxiang.com/2020/11/01/google-colab-yolov5/)
+
+MeDA Essential [MeDA](https://www.youtube.com/playlist?list=PLTp0eSi9MdkM8Ru9EOY8z\_6jOyrv0V6Jz)
+
+Python Wei [學程式就那點事](https://www.youtube.com/playlist?list=PLFLohUAPaW1M2kpKmDXqET\_PTLKT4LE6\_)
+
+Google Colab [cyu dev](https://www.youtube.com/playlist?list=PLBW\_S6R65Cee-SKjppEQsogeYIBEP8Ov-)
+
+Training NVIDIA StyleGAN2 ADA under Colab Free and Colab Pro Tricks [Jeff Heaton](https://www.youtube.com/watch?v=L3JLzoe-dJU)
+
+</details>
 
 |                                                           |   |   |
 | --------------------------------------------------------- | - | - |

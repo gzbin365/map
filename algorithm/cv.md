@@ -262,3 +262,11 @@ import cv2
 | Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                                                                                   |
 | Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc)                                                               |
 | 图片缩放.py [git](https://github.com/scchy/My\_Learn/blob/b7ebb96ebbc145707f8a56d3997b54675d5053f1/DataWhale%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%85%A5%E9%97%A8/%E5%9B%BE%E7%89%87%E7%BC%A9%E6%94%BE.py) |
+
+<details>
+
+<summary>其他</summary>
+
+GYee/[CV\_interviews\_Q-A](https://github.com/GYee/CV\_interviews\_Q-A) CV算法岗知识点及面试问答汇总
+
+</details>

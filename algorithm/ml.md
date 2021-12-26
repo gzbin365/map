@@ -351,7 +351,7 @@ description: 机器学习
 | Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard [freeCodeCamp](https://www.youtube.com/watch?v=0oyCUWLL\_fU)                                                                  |
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                      |
 | CS294-158 Deep Unsupervised Learning [Dhanabhon Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhaXckkffWVmxbYtYs7ntx-y)                                                                 |
-|                                                                                                                                                                                                               |
+| How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                                                                                         |
 |                                                                                                                                                                                                               |
 |                                                                                                                                                                                                               |
 
@@ -396,6 +396,7 @@ description: 机器学习
 | Data Analysis with Python for Excel Users - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=WcDaZ67TVRo)                                                           |
 | Build 12 Data Science Apps with Python and Streamlit - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=JwSS70SZdyM)                                                |
 | Data Analysis with Python Course - Numpy, Pandas, Data Visualization [freeCodeCamp](https://www.youtube.com/watch?v=GPVsHOlRBBI)                                              |
+| Intro to Data Science - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=N6BghzuFLIg)                                                                |
 
 ## 算法
 

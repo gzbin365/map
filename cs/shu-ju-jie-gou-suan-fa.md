@@ -192,4 +192,5 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 | ---------------------------------------------------------------------------------------------------------------- |
 | 👍 Finally, my review of Grokking Algorithms 📖 [Python Programmer](https://www.youtube.com/watch?v=BBjOIUvQk70) |
 | 数据结构与算法之美 book [v](https://www.douyin.com/video/7027487956168428840)                                             |
+| nonstriater/[Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) 算法学习笔记                           |
 |                                                                                                                  |
