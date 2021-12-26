@@ -71,5 +71,5 @@
 | The Log4j Vulnerability Explained : Detection and Exploitation \| TryHackMe Log4j [Motasem Hamdan](https://www.youtube.com/watch?v=Zf2dZkaeiKE) |
 | Log4J Vulnerability (Log4Shell) Explained - for Java developers [Java Brains](https://www.youtube.com/watch?v=uyq8yxWO1ls)                      |
 | Log4J & JNDI Exploit: Why So Bad? - [Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)                                                |
-|                                                                                                                                                 |
+| Log4j2高危漏洞复现与分析 [Java面试题解惑.老杨](https://www.douyin.com/video/7040491608642473250)                                                                |
 
