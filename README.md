@@ -35,7 +35,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | ------------------------------------ | ---------------------------------- | ---------------------------------- |
 | [python.md](cs/python.md "mention")  | [ml.md](algorithm/ml.md "mention") | [linux.md](cs/linux.md "mention")  |
 | [nlp.md](algorithm/nlp.md "mention") | [cv.md](algorithm/cv.md "mention") | [rl.md](algorithm/rl.md "mention") |
-|                                      |                                    |                                    |
+| [math.md](math.md "mention")         |                                    |                                    |
 
 ## 谷歌
 
