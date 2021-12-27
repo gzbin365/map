@@ -8,7 +8,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 **The Algorithms(**[**git**](https://github.com/TheAlgorithms)**,** [**python**](https://github.com/TheAlgorithms/Python)**, )**
 
-**拉不拉东(**[**算法小抄**](https://labuladong.gitbook.io/algo/)**,** [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**,** [**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong,** [**B**](https://space.bilibili.com/14089380)**, )**
+labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo/)**,** [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**,** [**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong,** [**B**](https://space.bilibili.com/14089380)**,** [书栈](https://www.bookstack.cn/books/fucking-algorithm)
 
 ## 平台
 
