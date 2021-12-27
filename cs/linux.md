@@ -146,7 +146,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- |
 | Unofficial Windows Binaries for Python Extension Packages [s](https://www.lfd.uci.edu/\~gohlke/pythonlibs/) |
-| 无网环境下利用pip安装Python离线安装包 [s](https://www.codeleading.com/article/763890893/)                                 |
+| 无网环境下利用pip安装Python离线安装包 [s](https://www.codeleading.com/article/763890893/) whl                             |
 |                                                                                                             |
 
 ## 嵌入式

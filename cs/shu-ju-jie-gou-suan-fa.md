@@ -4,6 +4,10 @@ description: 解决问题是一种快乐
 
 # 数据结构&算法
 
+算法 [书栈](https://www.bookstack.cn/explore?tab=latest\&cid=188\&lang=)
+
+各种算法的Python实现方案（Python and Algorithm）[书栈](https://www.bookstack.cn/books/Python-and-Algorithm)
+
 topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 **The Algorithms(**[**git**](https://github.com/TheAlgorithms)**,** [**python**](https://github.com/TheAlgorithms/Python)**, )**
@@ -112,11 +116,11 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 
 ## 排序算法 Sorting Algorithms
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1) |
-| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                     |
-| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc)                         |
+|                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                   |
+| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                       |
+| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm) |
 
 ### 插入排序 Insertion Sort
 
