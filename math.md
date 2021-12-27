@@ -4,7 +4,7 @@ description: 用数学充实人生
 
 # math
 
-## 1平台
+## 平台
 
 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -575,9 +575,7 @@ $$
 | 醉汉回到家的概率是多少？用随机游走阐述科学家精神 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2xOcz4j1yjQ)                                            |
 |                                                                                                                                 |
 
-### 有限元分析 Finite Element
-
-### &#x20;Analysis
+### 有限元分析 Finite Element Analysis
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -587,6 +585,8 @@ $$
 | September 2020 - Electrical Equipment and Machines: Finite Element Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65evnes6W1TFYThU8-4hfqwc) |
 | 自动机Automata - Saurav Mukhopadhyay \| IIT Kharagpur - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1cnL10WUDWnO6O3sZdRDdy)                        |
 | Automata Jeff Ullman \| Stanford [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ33jY4raAXvUT7Bm\_S\_EGu0)                                                |
+| 有限元探索 [SimLab仿真实验室](https://www.youtube.com/playlist?list=PL1eXwruZ9mqoIO7rA8CLHeCGWszpZ1wX4)                                                                                |
+|                                                                                                                                                                              |
 
 ### 有限状态机
 
