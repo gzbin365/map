@@ -586,6 +586,8 @@ LSTM
 | 为什么要使用MCMC方法？[zh](https://www.zhihu.com/question/60437632)                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                    |
 
+### 维特比算法 The Viterbi Algorithm
+
 <details>
 
 <summary>维特比算法 The Viterbi Algorithm</summary>
@@ -613,6 +615,26 @@ Digital Communications: Viterbi Algorithm [UConn HKN](https://www.youtube.com/wa
 Hidden Markov Models 11: the Viterbi algorithm [djp3](https://www.youtube.com/watch?v=s9dU3sFeE40)
 
 
+
+</details>
+
+### 条件随机场 Conditional Random Fields
+
+<details>
+
+<summary>条件随机场 Conditional Random Fields</summary>
+
+第8课 条件随机场与应用 七月在线 [4399 gala](https://www.youtube.com/watch?v=WXo8k7uhnEk)
+
+16讲02 条件随机场的定义与形式 [MM li](https://www.youtube.com/watch?v=Uoo5KnxtqH8)
+
+任务260： CRF介绍 [砖家王二狗](https://www.youtube.com/watch?v=y8xbhbrPAsw)
+
+任务390： 利用CRF模型做命名实体识别 01 [砖家王二狗](https://www.youtube.com/watch?v=xkHN\_mqWl30)
+
+Conditional Random Fields - Stanford University (By Daphne Koller) [Machine Learning TV](https://www.youtube.com/watch?v=rc3YDj5GiVM)
+
+Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiPAxFxM)
 
 </details>
 
