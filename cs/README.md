@@ -64,6 +64,38 @@ description: 计算机科学与技术 keep coding
 | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists)              | Rackspace Technology([u](https://www.youtube.com/c/rackspace/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | InfoQ [u](https://www.youtube.com/nctv/playlists)                                   | 异步社区　抖音号： [628596691](https://www.douyin.com/user/MS4wLjABAAAAAaIE6CYwegV0LfrWMNN\_Uawfgw7ieBBwfG6Oxr9FM8I)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
+### 亚马逊
+
+<details>
+
+<summary>亚马逊</summary>
+
+AWS Tutorials [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaiCYWnEMdQvldmXrdUOmv)
+
+Get started with AWS Lambda [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)
+
+AWS Basics for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ulprqHHWlng)
+
+Deploy 12 apps to AWS, Azure, & Google Cloud [freeCodeCamp](https://www.youtube.com/watch?v=-ANCcFQBk6I)
+
+AWS Certified Cloud Practitioner Training 2020 - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+AWS Certified Developer - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+
+Terraform Course - Automate your AWS cloud infrastructure [freeCodeCamp](https://www.youtube.com/watch?v=SLB\_c\_ayRMo)
+
+AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+
+Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)
+
+AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc)
+
+Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)
+
+AWS Events [u](https://www.youtube.com/watch?v=9NEQbFLtDmg)
+
+</details>
+
 ### Nvidia
 
 |                                                                                                       |
