@@ -37,62 +37,6 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | [nlp.md](algorithm/nlp.md "mention") | [cv.md](algorithm/cv.md "mention") | [rl.md](algorithm/rl.md "mention") |
 | [math.md](math.md "mention")         |                                    |                                    |
 
-## 谷歌
-
-| Colab                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**AI Hub**](https://aihub.cloud.google.com)                                                                                                                                                                                                                                                                                  | [**Colab**](https://colab.research.google.com)**(**[**notebook**](https://aihub.cloud.google.com/s?category=notebook)**,** [**list**](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC\_F0oEroL)**,** [**blog**](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)**,** [**QA**](https://research.google.com/colaboratory/faq.html#resource-limits)**,** [**教程**](https://www.cnblogs.com/zgqcn/)**)** |
-| **Colab Pro(**[**buy**](https://colab.research.google.com/signup)**, )**                                                                                                                                                                                                                                                      | [**充分利用**](https://colab.research.google.com/notebooks/pro.ipynb#scrollTo=Sa-IrJS1aRVJ)                                                                                                                                                                                                                                                                                                                                                                        |
-| [**自动重连**](https://blog.csdn.net/DeepFaceLabs/article/details/103889916?dist\_request\_id=1330144.35453.16182301254996507\&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-5.control)　[**自动补全**](https://blog.csdn.net/low5252/article/details/108965971) | [**VS code连接Google Colab**](https://blog.csdn.net/hxydip/article/details/109675192)                                                                                                                                                                                                                                                                                                                                                                            |
-
-|                                                                                                                                                                                                                         |                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Google Drive(**[**s**](https://drive.google.com/drive/my-drive)**,** [**API**](https://developers.google.com/drive)**, )**                                                                                            | **PyDrive(**[**doc**](https://pythonhosted.org/PyDrive/index.html)**, )**                                    |
-| **Google Research(**[**s**](https://research.google)**,** [**git**](https://github.com/google-research)**, )**                                                                                                          | **Google Developers(**[**u**](https://www.youtube.com/googlecode/featured)**, )**                            |
-| **Google Cloud Tech(**[**u**](https://www.youtube.com/user/googlecloudplatform)**,** [**s**](https://cloud.google.com)**,** [**tw**](https://twitter.com/GCPCloud)**,** [**gcp**](https://cloud.google.com/gcp/)**, )** | **Google Developers for Chinese language**[ **u**](https://www.youtube.com/c/GoogleDevelopersChina/featured) |
-| google [git](https://github.com/google)                                                                                                                                                                                 | Google Chrome Developers [u](https://www.youtube.com/watch?v=dhrX\_biPH8c)                                   |
-
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Google Cloud Digital Leader Certification Course - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=UGRDM86MBIQ) |
-| Google Sheets [freeCodeCamp](https://www.youtube.com/watch?v=N2opj8XzYBY)                                                     |
-| Medium Google Coding Interview With Ben Awad [Clément Mihailescu](https://www.youtube.com/watch?v=4tYoVx0QoN0\&t=48s)         |
-| Python Django and Google APIs - Project Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_vCT42vDfgw)                 |
-| Google Code Archive [s](https://code.google.com/archive/)                                                                     |
-| you need to learn Google Cloud RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=YJwhQowT84A)                        |
-
-<details>
-
-<summary>Google Colab</summary>
-
-Is Google CoLab Pro Worth it in 2021? [Jeff Heaton](https://www.youtube.com/watch?v=WIvKOABJWp0)
-
-Is Google CoLab Pro worth it? [Jeff Heaton](https://www.youtube.com/watch?v=N2NEyr9Bf48)
-
-在google colab上进行yolov5模型训练，免费使用GPU资源 [迷途小书童的Note](https://www.youtube.com/watch?v=e6MbVG8GO6s) [s](https://xugaoxiang.com/2020/11/01/google-colab-yolov5/)
-
-MeDA Essential [MeDA](https://www.youtube.com/playlist?list=PLTp0eSi9MdkM8Ru9EOY8z\_6jOyrv0V6Jz)
-
-Python Wei [學程式就那點事](https://www.youtube.com/playlist?list=PLFLohUAPaW1M2kpKmDXqET\_PTLKT4LE6\_)
-
-Google Colab [cyu dev](https://www.youtube.com/playlist?list=PLBW\_S6R65Cee-SKjppEQsogeYIBEP8Ov-)
-
-Training NVIDIA StyleGAN2 ADA under Colab Free and Colab Pro Tricks [Jeff Heaton](https://www.youtube.com/watch?v=L3JLzoe-dJU)
-
-</details>
-
-|                                                           |   |   |
-| --------------------------------------------------------- | - | - |
-| chrome插件 [v](https://www.youtube.com/watch?v=qWOSqz-cD2Q) |   |   |
-|                                                           |   |   |
-|                                                           |   |   |
-
-| Google Code Jam                                                 |
-| --------------------------------------------------------------- |
-| Code Jam [s](https://codingcompetitions.withgoogle.com/codejam) |
-| Neal Wu [u](https://www.youtube.com/watch?v=8ukwV6rCvPg)        |
-|                                                                 |
-
 |                                                          |                                           |
 | -------------------------------------------------------- | ----------------------------------------- |
 | 哈尔滨工业大学阿里巴巴技术联盟([git](https://github.com/HIT-Alibaba), ) | 苹果开发者（[s](https://developer.apple.com), ） |
