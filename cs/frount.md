@@ -332,6 +332,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
 | 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY) |
+| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)   |
 
 ## 其他
 

@@ -94,6 +94,8 @@ Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)
 
 AWS Events [u](https://www.youtube.com/watch?v=9NEQbFLtDmg)
 
+AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=g2JOHLHh4rI)
+
 </details>
 
 ### Nvidia

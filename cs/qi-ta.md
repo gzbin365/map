@@ -182,7 +182,7 @@
 | enigma [u](https://www.youtube.com/channel/UCsCY6v\_tOJXR6U3gJW8eNBw)                                           | Aura Audio [u](https://www.youtube.com/c/EvTime/playlists) gameboy music                                                 |
 | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) | Carson Jay Marbles [u](https://www.youtube.com/c/CarsonJay/videos)                                                       |
 | Freya Holmér [u](https://www.youtube.com/c/Acegikmo/playlists)                                                  | Game Dev Unlocked [u](https://www.youtube.com/c/GameDevUnlocked/videos) [v](https://www.youtube.com/watch?v=Y3Rs1z7it5M) |
-|                                                                                                                 | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
+| Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
