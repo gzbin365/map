@@ -179,6 +179,7 @@ import cv2
 | What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)              |
 | Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0) |
 | facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                          |
+| YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                       |
 
 ### 视频跟踪
 
