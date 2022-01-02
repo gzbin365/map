@@ -479,6 +479,18 @@
 | 按键精灵编程有技术含量吗 [zh](https://www.zhihu.com/question/19896140)                                                                                                          |
 | RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)RPA脚本课程 脚本哥RPA脚本课程 脚本哥                                                     |
 
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| xdotool [git](https://github.com/jordansissel/xdotool) [doc](https://github.com/jordansissel/xdotool/blob/master/xdotool.pod) |
+|                                                                                                                               |
+|                                                                                                                               |
+
+|                                                           |
+| --------------------------------------------------------- |
+| AutoHotkey [reddit](https://www.reddit.com/r/AutoHotkey/) |
+|                                                           |
+|                                                           |
+
 ## 杂
 
 |                                                         |   |
