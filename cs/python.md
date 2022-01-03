@@ -338,6 +338,7 @@
 | Django For Everybody - Full Python University Course [freeCodeCamp](https://www.youtube.com/watch?v=o0XbHvKxw7Y)                                                                       |
 | Django Tutorial - Create a Digital Resume with a Python Backend [freeCodeCamp](https://www.youtube.com/watch?v=0oSsLbh\_Kv4)                                                           |
 | \[[程序员小飞](https://www.youtube.com/watch?v=onDgK-bTvjM)]2021年Django Web基础课程90分钟完整版                                                                                                      |
+| Dinesh Joshi - Designing fast and scalable Python MicroServices with Django [PyCon SK](https://www.youtube.com/watch?v=JSEoK0pMVbc)                                                    |
 |                                                                                                                                                                                        |
 
 | Fabric                                                                                     |   |
