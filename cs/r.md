@@ -7,3 +7,4 @@
 | High Throughput Sequencing [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp)                                    |
 | Learn R Programming with Johns Hopkins University [Coursera](https://www.youtube.com/playlist?list=PLVext98k2evi8mDNRo4MwIgVgSmwM3cS8)                                |
 | R Programming Tutorial - Learn the Basics of Statistical Computing [freeCodeCamp](https://www.youtube.com/watch?v=\_V8eKsto3Ug)                                       |
+| R语言统计分析与机器学习 [Adam Sun](https://www.youtube.com/playlist?list=PL5jFwqTxh71ZEeZtjYbFAGIn9J-3eUwyJ)                                                                     |
