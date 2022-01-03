@@ -22,12 +22,19 @@ description: 图神经网络
 | 度量和改进图信息在图神经网络中的使用 侯逸帆 [陈海顺](https://www.youtube.com/watch?v=9aEaYT0qHMM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| Social Networks [u](https://www.youtube.com/channel/UCkaHdRliLnyH8F0nxLxTSrA/playlists)                    |
+| Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L) |
+
 | NetworkX                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | NetworkX [s](https://networkx.org)                                                                                                                                                                                               |
 | Introduction to NetworkX in Python [Professor Foote](https://www.youtube.com/watch?v=flwcAf1\_1RU) [git](https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/blob/summer2020/extra\_topics/network\_analysis.ipynb) |
 | Social Network Analysis - From Graph Theory to Applications - Dima Goldenberg - PyCon Israel 2019 [PyCon Israel](https://www.youtube.com/watch?v=px7ff2\_Jeqw)   [git](https://github.com/dimgold/pycon\_social\_networkx)       |
 | Network Analysis with Python [pvierth](https://www.youtube.com/watch?v=oA7QhYOhW\_0)                                                                                                                                             |
+| How To Create Python Network Graphs \|\| NetworkX Overview \|\| Graph Plotting \|\| Matplotlib \|\| Advanced [NetMinion Solutions](https://www.youtube.com/watch?v=7NWeLuG8tVo)                                                  |
+| Johannes Wachs - Analyzing Networks In Python [PyCon SK](https://www.youtube.com/watch?v=yMSCWLma46s)                                                                                                                            |
 
 ## books
 

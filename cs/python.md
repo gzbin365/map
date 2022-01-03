@@ -52,7 +52,7 @@
 |                                                                                 |                                                                  |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **PyCon Taiwan(**[**u**](https://www.youtube.com/c/PyConTaiwan/featured)**, )** | PyCon 2019([u](https://www.youtube.com/c/pycon2019/playlists), ) |
-|                                                                                 | PyCon Canada [u](https://www.youtube.com/c/PyConCA/playlists)    |
+| [PyCon SK](https://www.youtube.com/channel/UC8Tzn82aG4zdvtqlrfsLgSA)            | PyCon Canada [u](https://www.youtube.com/c/PyConCA/playlists)    |
 
 ## UP主
 
@@ -247,13 +247,13 @@
 | Learn Dynamic Module Imports In 11 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=ddVm53j80vc) |
 | 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)     |
 
-| Matplotlib                                                                                                       |   |
-| ---------------------------------------------------------------------------------------------------------------- | - |
-| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                     |   |
-| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                           |   |
-| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                   |   |
-| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk) |   |
-| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                              |   |
+| Matplotlib                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                     |
+| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                           |
+| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                   |
+| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk) |
+| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                              |
 
 |                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -619,6 +619,10 @@ Python高性能编程
 | Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)   |
 | 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
 | 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
+
+## 网络编程
+
+Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS) [freeCodeCamp](https://www.youtube.com/watch?v=FGdiSJakIS4)
 
 ## Python-Excel
 
