@@ -26,6 +26,8 @@ description: 图神经网络
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | NetworkX [s](https://networkx.org)                                                                                                                                                                                               |
 | Introduction to NetworkX in Python [Professor Foote](https://www.youtube.com/watch?v=flwcAf1\_1RU) [git](https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/blob/summer2020/extra\_topics/network\_analysis.ipynb) |
+| Social Network Analysis - From Graph Theory to Applications - Dima Goldenberg - PyCon Israel 2019 [PyCon Israel](https://www.youtube.com/watch?v=px7ff2\_Jeqw)   [git](https://github.com/dimgold/pycon\_social\_networkx)       |
+| Network Analysis with Python [pvierth](https://www.youtube.com/watch?v=oA7QhYOhW\_0)                                                                                                                                             |
 
 ## books
 
