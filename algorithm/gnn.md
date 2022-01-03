@@ -35,6 +35,7 @@ description: 图神经网络
 | Network Analysis with Python [pvierth](https://www.youtube.com/watch?v=oA7QhYOhW\_0)                                                                                                                                             |
 | How To Create Python Network Graphs \|\| NetworkX Overview \|\| Graph Plotting \|\| Matplotlib \|\| Advanced [NetMinion Solutions](https://www.youtube.com/watch?v=7NWeLuG8tVo)                                                  |
 | Johannes Wachs - Analyzing Networks In Python [PyCon SK](https://www.youtube.com/watch?v=yMSCWLma46s)                                                                                                                            |
+| Networkx Tutorials [HowTo](https://www.youtube.com/playlist?list=PLbu9W4c-C0iC-f1ByMHSa07OSgEQQ-rAk)                                                                                                                             |
 
 ## books
 
