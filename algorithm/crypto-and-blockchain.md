@@ -34,6 +34,7 @@ description: Blockchain & Cryptocurrency
 | Cryptography and Bitcoin [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6Xbrs\_1ltXPSYi5qWL9pBm)                                                       |
 | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)                          |
 | <p>Etherscan API with Python 3 Tutorial <a href="https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlfLAIZcyq_UZNdKTJVZUMA">Pysource</a></p><p>Etherscan是以太坊网络的区块链浏览器。</p> |
+| Blockchain For Beginners [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx)                                                        |
 
 ## 元宇宙
 

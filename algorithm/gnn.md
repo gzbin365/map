@@ -36,6 +36,17 @@ description: 图神经网络
 | How To Create Python Network Graphs \|\| NetworkX Overview \|\| Graph Plotting \|\| Matplotlib \|\| Advanced [NetMinion Solutions](https://www.youtube.com/watch?v=7NWeLuG8tVo)                                                  |
 | Johannes Wachs - Analyzing Networks In Python [PyCon SK](https://www.youtube.com/watch?v=yMSCWLma46s)                                                                                                                            |
 | Networkx Tutorials [HowTo](https://www.youtube.com/playlist?list=PLbu9W4c-C0iC-f1ByMHSa07OSgEQQ-rAk)                                                                                                                             |
+| Rob Chew, Peter Baumgartner \| Connected: A Social Network Analysis Tutorial with NetworkX [PyData](https://www.youtube.com/watch?v=7fsreJMy\_pI)                                                                                |
+| K Jarrod Millman - Complex network analysis with NetworkX\| [PyData](https://www.youtube.com/watch?v=ezL7j4nSXpQ) Global 2020                                                                                                    |
+
+| Gephi                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Using Gephi to visualise and understand communities [Melvin L](https://www.youtube.com/watch?v=dSx5\_PjaWVE)                                 |
+| GEPHI - Network visualization tutorial \[HD] [Martin Grandjean](https://www.youtube.com/watch?v=FLiv3xnEepw)                                 |
+| A Walkthrough Analysis of Tor Networks in Gephi [jengolbeck](https://www.youtube.com/watch?v=JfMTWr8\_pw4)                                   |
+| Gephi Tutorials [jengolbeck](https://www.youtube.com/playlist?list=PLk\_jmmkw5S2BqnYBqF2VNPcszY93-ze49)                                      |
+| Combine and Analyze Co-Hashtag Networks (Instagram, Twitter, etc.) with Gephi [Bernhard Rieder](https://www.youtube.com/watch?v=ngqWjgZudeE) |
+|                                                                                                                                              |
 
 ## books
 
