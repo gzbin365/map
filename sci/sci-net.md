@@ -1,25 +1,29 @@
 # 科学上网
 
-使用VPN在中国属于灰色地带，有很多用途（贸易需求，学术需求）需要使用VPN，没有安全的VPN，重要的是你使用VPN做了什么，要有家国情怀，要遵守公民应该遵守的责任和义务，控制自己的言论，别碰政治，别碰宗教，网络不是法外之地。[5:46](https://www.youtube.com/watch?v=OQQVzg1jPJc) [12:30](https://www.youtube.com/watch?v=44e\_rnvU1Pg)
+使用VPN在中国属于灰色地带，有很多用途（贸易需求，学术需求，工作，学习，娱乐）需要使用VPN，没有安全的VPN，重要的是你使用VPN做了什么，要有家国情怀，要遵守公民应该遵守的责任和义务，控制自己的言论，别碰政治，别碰宗教，网络不是法外之地。[5:46](https://www.youtube.com/watch?v=OQQVzg1jPJc) [12:30](https://www.youtube.com/watch?v=44e\_rnvU1Pg)
 
 [《网络数据安全管理条例（征求意见稿）》](http://www.cac.gov.cn/2021-11/14/c\_1638501991577898.htm)   [解读](https://www.youtube.com/watch?v=Y4IhpsdXeR4)
 
 ## 机场
 
-| 机场                                                                                                       | 使用情况      | 性能                         |
-| -------------------------------------------------------------------------------------------------------- | --------- | -------------------------- |
-| [**外贸服务站**](https://waimaowork.me/auth/register?code=ZYXb)                                               | 2016-2021 | 299/年, 每月500G, 延迟100-300ms |
-| [**bywave**](https://bywave.art/aff.php?aff=2614)                                                        | 2019-     | 280/年, 每月120G, 延迟30-50ms   |
-| **baacloud(**[**site**](https://www.baacloud.com)**,** [**git**](https://github.com/baacloud/url)**, )** | 没用过       |                            |
-| [**jikess**](http://www.jikess.in)                                                                       | 没用过       |                            |
-| [VilaVPN](https://vilavpn.com)                                                                           |           |                            |
+| 机场                                                                                                       | 使用情况      | 性能                       |
+| -------------------------------------------------------------------------------------------------------- | --------- | ------------------------ |
+| [**外贸服务站**](https://waimaowork.me/auth/register?code=ZYXb)                                               | 2016-2021 | 299/年, 500G/月, 100-300ms |
+| [**bywave**](https://bywave.art/aff.php?aff=2614)                                                        | 2019-2022 | 280/年, 120G/月, 30-50ms   |
+| Go加速 [s](https://gogoo.cyou/auth/register?code=rMAF) [git](https://x-go.gitbook.io/untitled/)            | 2022-     | 88/年, 200G/月, 10-150ms   |
+| [牛牛很牛](https://niuniuhenniu.net/auth/register?code=12861)                                                |           |                          |
+| 速蛙云 [s](https://cloud.faster.buzz)                                                                       |           |                          |
+| **baacloud(**[**site**](https://www.baacloud.com)**,** [**git**](https://github.com/baacloud/url)**, )** |           |                          |
+| [**jikess**](http://www.jikess.in)                                                                       |           |                          |
+| [VilaVPN](https://vilavpn.com)                                                                           |           |                          |
+| 可乐云 可樂雲[Kelecloud](https://xn--fjqzfu8n.xyz/#/login)                                                     |           |                          |
 
 ## 工具
 
 |                                                                                                                                                                                                                                                                                       | 备注                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | **Qv2ray(**[**site**](https://qv2ray.net)**,** [**v**](https://www.youtube.com/watch?v=fyLFgycALj0)**,** [**书童**](https://xugaoxiang.com/2020/10/17/qv2ray/)**,** [**d**](https://github.com/Qv2ray/Qv2ray/releases/)**,** [**d**](https://github.com/v2fly/v2ray-core/releases)**)** | 上网工具, 需要提前在机场购买服务 |
-| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI) 5:25                                                                                                                                |                   |
+| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI) 5:25 [s](https://gogoo.club/user/tutorial?os=linux\&client=clash)                                                                   |                   |
 
 ## 插件
 

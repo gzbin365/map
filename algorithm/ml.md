@@ -370,7 +370,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                      |
 | CS294-158 Deep Unsupervised Learning [Dhanabhon Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhaXckkffWVmxbYtYs7ntx-y)                                                                 |
 | How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                                                                                         |
-|                                                                                                                                                                                                               |
+| 人工智能与机器学习 [做大饼馅儿的韭菜](https://www.zhihu.com/column/tkRobinPan)                                                                                                                                                 |
 |                                                                                                                                                                                                               |
 
 #### 动手学深度学习
@@ -416,6 +416,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Data Analysis with Python Course - Numpy, Pandas, Data Visualization [freeCodeCamp](https://www.youtube.com/watch?v=GPVsHOlRBBI)                                              |
 | Intro to Data Science - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=N6BghzuFLIg)                                                                |
 | Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                                          |
+| Keynote Jake VanderPlas [PyData](https://www.youtube.com/watch?v=DifMYH3iuFw)                                                                                                 |
 
 ## 算法
 
@@ -442,6 +443,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | 機器學習：使用Python ([书栈](https://www.bookstack.cn/books/machine-learning-python), )                                                                                      |
 | scikit-learn (sklearn) 0.21.3 官方文档中文版 ([书栈](https://www.bookstack.cn/books/sklearn-0.21.3), )                                                                       |
 | Scikit-Learn Python Tutorial \| Machine Learning with Scikit-learn [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq) |
+| Jake VanderPlas: Machine Learning with Scikit Learn [PyData](https://www.youtube.com/watch?v=HC0J\_SPm9co)                                                          |
 
 ### 分类
 
