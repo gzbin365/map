@@ -28,3 +28,15 @@ description: Generative Adversarial Network (GAN)
 | [100font.com](https://www.100font.com)   [字体天下](https://www.fonts.net.cn)   [方正字库官网](https://www.foundertype.com) |
 |                                                                                                                   |
 |                                                                                                                   |
+
+### Fake
+
+topics/[fake-videos](https://github.com/topics/fake-videos)
+
+datamllab/[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)
+
+albertoxamin/[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot) [colab](https://colab.research.google.com/github/albertoxamin/telegram-deep-fakes-bot/blob/master/deep\_fake\_telegram.ipynb)
+
+First Order Motion Model for Image Animation [s](https://aliaksandrsiarohin.github.io/first-order-model-website/) [git](https://github.com/AliaksandrSiarohin/first-order-model) [paper](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)
+
+oradzhabov/[FakeFace](https://github.com/oradzhabov/FakeFace)
