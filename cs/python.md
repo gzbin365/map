@@ -53,6 +53,7 @@
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **PyCon Taiwan(**[**u**](https://www.youtube.com/c/PyConTaiwan/featured)**, )** | PyCon 2019([u](https://www.youtube.com/c/pycon2019/playlists), ) |
 | [PyCon SK](https://www.youtube.com/channel/UC8Tzn82aG4zdvtqlrfsLgSA)            | PyCon Canada [u](https://www.youtube.com/c/PyConCA/playlists)    |
+|                                                                                 | [PyCon AU](https://www.youtube.com/c/PyConAU/playlists)          |
 
 ## UP主
 
