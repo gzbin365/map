@@ -137,9 +137,12 @@ AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://
 | [**What is Serverless?**](https://www.youtube.com/watch?v=vxJobGtqKVM)                                                                                                                                                                                                          | [**Git与GitHub：有什么区别？**](https://www.youtube.com/watch?v=wpISo9TNjfU) |
 | [**Kubernetes与Docker：这不是一个问题**](https://www.youtube.com/watch?v=2vMEQ5zs1ko)                                                                                                                                                                                                    | [**什么是REST API？**](https://www.youtube.com/watch?v=lsMQRaeKNDk)      |
 
-|                                                                                    |   |
-| ---------------------------------------------------------------------------------- | - |
-| Microsoft Developer([u](https://www.youtube.com/c/MicrosoftDeveloper/playlists), ) |   |
+|                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Microsoft Developer([u](https://www.youtube.com/c/MicrosoftDeveloper/playlists), )                                                                 |
+| Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
+| Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=LLKza5oULAA)        |
+|                                                                                                                                                    |
 
 ## UP主
 
