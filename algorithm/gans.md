@@ -10,6 +10,7 @@ description: Generative Adversarial Network (GAN)
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                          |
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                           |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd) |
+| Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,3 +41,9 @@ albertoxamin/[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-
 First Order Motion Model for Image Animation [s](https://aliaksandrsiarohin.github.io/first-order-model-website/) [git](https://github.com/AliaksandrSiarohin/first-order-model) [paper](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)
 
 oradzhabov/[FakeFace](https://github.com/oradzhabov/FakeFace)
+
+## 其他
+
+【亦】警惕AI诈骗！我用AI复制了一个朋友，效果可太刑了 [亦LYi](https://www.youtube.com/watch?v=iUtcgaWOPM4)
+
+AI杀疯了！2021年高能的AI算法，超乎想象！[Jack-Cui](https://www.bilibili.com/video/BV1RF411B7hT)

@@ -63,6 +63,7 @@
 | Lambda expressions in modern C++ (in depth step by step tutorial) [CodeBeauty](https://www.youtube.com/watch?v=MH8mLFqj-n8)                                      |
 | 郁金香VC++外挂教程初级 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQljpqQmVQ1iRLAsF9PkvKN2)                                                                  |
 | 浴血凤凰-dnf内存 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQnnlb92GAv9VG1zyZbQcgar)                                                                     |
+| C++ Tutorial From Basic to Advance [Extern Code](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                                                    |
 |                                                                                                                                                                  |
 
 ### 设计模式

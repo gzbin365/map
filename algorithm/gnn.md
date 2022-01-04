@@ -48,7 +48,7 @@ description: 图神经网络
 | A Walkthrough Analysis of Tor Networks in Gephi [jengolbeck](https://www.youtube.com/watch?v=JfMTWr8\_pw4)                                   |
 | Gephi Tutorials [jengolbeck](https://www.youtube.com/playlist?list=PLk\_jmmkw5S2BqnYBqF2VNPcszY93-ze49)                                      |
 | Combine and Analyze Co-Hashtag Networks (Instagram, Twitter, etc.) with Gephi [Bernhard Rieder](https://www.youtube.com/watch?v=ngqWjgZudeE) |
-|                                                                                                                                              |
+| Week 3: Gephi - An Introduction Tour [Data Analytics and Learning MOOC](https://www.youtube.com/watch?v=L0C\_D68E1Q0)                        |
 
 ## books
 

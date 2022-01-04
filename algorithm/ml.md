@@ -417,6 +417,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Intro to Data Science - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=N6BghzuFLIg)                                                                |
 | Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                                          |
 | Keynote Jake VanderPlas [PyData](https://www.youtube.com/watch?v=DifMYH3iuFw)                                                                                                 |
+| Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)                                             |
 
 ## 算法
 

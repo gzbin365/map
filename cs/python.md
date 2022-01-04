@@ -627,6 +627,8 @@ Python高性能编程
 
 Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS) [freeCodeCamp](https://www.youtube.com/watch?v=FGdiSJakIS4)
 
+Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch?v=3QiPPX-KeSc)
+
 ## Python-Excel
 
 |                                                                                                                                         |
@@ -646,6 +648,10 @@ Network Programming with Python Course (build a port scanner, mailing client, ch
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
 | Auto Download of Videos & Images  ([**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qn26ex6xNNVxboeJfK686NJ)) |
+
+## Jupyter
+
+Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)
 
 ## **其他**
 
