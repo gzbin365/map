@@ -415,6 +415,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Build 12 Data Science Apps with Python and Streamlit - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=JwSS70SZdyM)                                                |
 | Data Analysis with Python Course - Numpy, Pandas, Data Visualization [freeCodeCamp](https://www.youtube.com/watch?v=GPVsHOlRBBI)                                              |
 | Intro to Data Science - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=N6BghzuFLIg)                                                                |
+| Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                                          |
 
 ## 算法
 
