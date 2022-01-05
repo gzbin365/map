@@ -44,6 +44,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Full Stack Computer Vision Tutorial with Tensorflow, Python　([**Nicholas Renotte**](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr))                                        |
 | 曲线高级用法【[裹小脚的大叔](https://www.bilibili.com/video/BV1NJ411C7rs/?spm\_id\_from=333.788.recommend\_more\_video.-1)】08:10                                                                                   |
 | **遥感数字图像处理-朱文泉（北京师范大学）**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbU-5g3y4Bd4Eboqsbp1Whv)                                                                                   |
+| Image Analysis in Python with SciPy and scikit-image \| [SciPy 2018 Tutorial](https://www.youtube.com/watch?v=arXiv-TM7DY) \| Stefan van der Walt                                                     |
 | Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD) |
 | Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                         |
 | 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                   |
