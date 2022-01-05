@@ -67,6 +67,7 @@
 | Web Applications for Everybody Course - Dr. Chuck Teaches HTML, PHP, SQL, CSS, JavaScript, and more! [freeCodeCamp](https://www.youtube.com/watch?v=xr6uZDRTna0)                                 |
 | Ultimate Freelancing Guide for Web Developers (Make money through freelance programming!) [freeCodeCamp](https://www.youtube.com/watch?v=4TIvB8zDFio)                                            |
 | How to Find Freelance Jobs [freeCodeCamp](https://www.youtube.com/watch?v=Z63TxAJotgQ)                                                                                                           |
+| Create a Video Membership Web App from Scratch with Python, NoSQL, & FastAPI [CodingEntrepreneurs](https://www.youtube.com/watch?v=KQ-u4RcFLBY)                                                  |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
@@ -306,10 +307,12 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | RequireJS 入门指南 [oschina](https://www.oschina.net/translate/getting-started-with-the-requirejs-library?print) |
 | RequireJS 小白入门 [china refer](https://www.youtube.com/playlist?list=PLHxM50fGnEoWqWoh-et\_apVlW7fCSr8sR)      |
 
-| Figma                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------ |
-| Create a Design System with Figma - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=RYDiDpW2VkM)  |
-| Figma Course - Web Design Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=D56hs0Twfco) |
+| Figma                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------- |
+| Create a Design System with Figma - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=RYDiDpW2VkM)     |
+| Figma Course - Web Design Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=D56hs0Twfco)    |
+| Figma Tutorial for UI Design - Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=jwCmIBJ8Jtc) |
+|                                                                                                                 |
 
 ### Auto.js
 
