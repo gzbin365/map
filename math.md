@@ -118,6 +118,7 @@ The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://ww
 | 数学竞赛资料吧 [百度贴吧](https://tieba.baidu.com/f?kw=%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%84%E6%96%99\&ie=utf-8\&pn=0) |
 | 胡不归问题　老袁的思维[课堂](https://www.douyin.com/video/6983139785678277928)                                                   |
 | Why is 0! = 1? [Eddie Woo](https://www.youtube.com/watch?v=X32dce7\_D48)                                            |
+|                                                                                                                     |
 
 ## 高中
 
