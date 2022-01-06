@@ -71,6 +71,7 @@
     * [摄影](sci/art/she-ying.md)
     * [舞蹈](sci/art/wu-dao.md)
     * [音乐](sci/art/music.md)
+    * [体育](sci/art/ti-yu.md)
   * [工具](sci/gong-ju.md)
   * [科学上网](sci/sci-net.md)
 * [other](other.md)
