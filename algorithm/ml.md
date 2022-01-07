@@ -189,6 +189,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch for Deep Learning - Full Course / Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY\&t=6s)                                                                                                                                            |
 | Deep Learning and Neural Networks with Python and Pytorch [sentdex](https://www.youtube.com/watch?v=BzcBsTou0C0)                                                                                                                                                |
 | TorchScript and PyTorch JIT \| Deep Dive [PyTorch](https://www.youtube.com/watch?v=2awmrMRf0dA)                                                                                                                                                                 |
+| PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course [freeCodeCamp](https://www.youtube.com/watch?v=M3ZWfamWrBM)                                                                                                                        |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -328,6 +329,14 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Machine Learning for beginners [Learning AI](https://www.youtube.com/playlist?list=PLni77VF8rQqaSULEaZai4VvwrIQQZ4uIW)                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Artificial Intelligence Lessons [Dr. Daniel Soper](https://www.youtube.com/playlist?list=PL1LIXLIF50uWNLUnQRb3xLlsErSLLXryE)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| 中国人工智能学会 [s](https://www.caai.cn) CAAI [w](https://weibo.com/caai1981)                                                |
+| 系列交叉论坛 [IT大咖说](https://www.itdks.com/ActivityC/search?keyWord=%E7%B3%BB%E5%88%97%E4%BA%A4%E5%8F%89%E8%AE%BA%E5%9D%9B) |
+| 系列交叉论坛 第37期 徐宗本 AI的10个重大数理基础问题                                                                                        |
+| 演讲实录丨徐宗本院士：如何突破机器学习的先验假设？[csdn](https://blog.csdn.net/cf2SudS8x8F0v/article/details/119430157)                        |
+| AI与数学：融通共进的时代—徐宗本 [csdn](https://blog.csdn.net/Hanx09/article/details/106723091)                                      |
 
 |                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
