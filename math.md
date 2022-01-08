@@ -63,7 +63,7 @@ description: 用数学充实人生
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Fundamentals of NetLog [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109) |
-|                                                                                                                        |
+| 深度碎片 [u](https://www.youtube.com/channel/UC\_vuJRonJBlgFFIA5i008sg/playlists)                                          |
 |                                                                                                                        |
 
 ### Desmos
@@ -644,6 +644,7 @@ $$
 | [A Geometric View to Generative Model in Deep Learning by Dr. Xianfeng Gu](https://www.youtube.com/watch?v=cRt8Ek9sAXY)             |
 | [最优传输理论-中文-有标题版 (来学习深度学习的几何理解呀)【顾险峰】](https://www.bilibili.com/video/BV18A41157B4/?spm\_id\_from=333.788.recommend\_more\_video.-1) |
 | [雷娜-基于最优传输的几何GAN](https://www.bilibili.com/video/BV1zK411g7Zb/?spm\_id\_from=333.788.recommend\_more\_video.1)                      |
+| 凸几何与最优传输 [范帝楷](https://zhuanlan.zhihu.com/p/279471748)                                                                              |
 
 ### 几何建模 Geometry Modeling
 
@@ -730,8 +731,10 @@ $$
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 最优化方法（上海交通大学数学学院研究生课程）([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_S7utz13fEjeq5rzh-tq7lN))                                            |
 | [Optimization Problems](https://www.youtube.com/playlist?list=PLF1E94C1948483103) patrickJMT                                                        |
+|                                                                                                                                                     |
 | Optimization [Nilotpal Sinha](https://www.youtube.com/playlist?list=PL7pHMzBbqW08LZkcOX50mi4EaFWtsGShx)                                             |
 | Numerical Optimization - Shirish Shevade \| IISc - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P) |
+| 最优化 [知乎话题](https://www.zhihu.com/topic/19616819/hot)                                                                                                |
 |                                                                                                                                                     |
 |                                                                                                                                                     |
 
@@ -744,6 +747,11 @@ $$
 | Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)   |
 | Convex Optimization 39个小时学会凸优化-中科大-凌青老师 [PatriTech](https://www.youtube.com/playlist?list=PLex0qwR2dnJh\_7351A8HmasW1G-\_\_le\_S)   |
 |                                                                                                                                     |
+| 关于神经网络损失函数非凸的一般性证明 [崔晏菲](https://zhuanlan.zhihu.com/p/429939210)                                                                    |
+| 凸几何与最优传输 [范帝楷](https://zhuanlan.zhihu.com/p/279471748)                                                                              |
+| 如何判断函数凸或非凸？[亦哀](https://zhuanlan.zhihu.com/p/132436818)                                                                             |
+| 怎么判断一个优化问题是凸优化还是非凸优化？ [zh](https://www.zhihu.com/question/334515180/answer/748981244)                                               |
+| 凸优化 [知乎话题](https://www.zhihu.com/topic/19602355/hot)                                                                                |
 
 ### 拉格朗日乘数法
 
@@ -872,7 +880,7 @@ Lagrange Multipliers | Geometric Meaning & Full Example [Dr. Trefor Bazett](http
 | 运筹学-天津大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoz6A6rsOLSVBeUTxdFuKR9B))                    |
 | 考试点2014年考研《运筹学》整体复习规划([Cosmo Wang](https://www.youtube.com/playlist?list=PLDSqPelZRf2AoA3f7f53KOV4dsc2u1pD5)) |
 | 高斯课堂 运筹学 考前速成([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKmmfqVDwqZm\_Sqd6s-v0SHDd))           |
-|                                                                                                               |
+| 运筹学 [知乎话题](https://www.zhihu.com/topic/19634329/hot)                                                          |
 |                                                                                                               |
 
 ## 博弈论 Game Theory

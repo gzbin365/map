@@ -45,6 +45,8 @@ Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344
 
 【数之道 04】解决最优路径问题的妙招-蚁群ACO算法　[FunInCode](https://www.bilibili.com/video/BV1vp4y1p78R)
 
+深度碎片 [u](https://www.youtube.com/channel/UC\_vuJRonJBlgFFIA5i008sg/featured)
+
 ## 遗传算法
 
 【算法】遗传算法解决旅行商（TSP）问题　[卍卍子非鱼卍卍](https://www.bilibili.com/video/BV17Z4y1w7qF)

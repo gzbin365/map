@@ -394,6 +394,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | CS294-158 Deep Unsupervised Learning [Dhanabhon Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhaXckkffWVmxbYtYs7ntx-y)                                                                 |
 | How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                                                                                         |
 | 人工智能与机器学习 [做大饼馅儿的韭菜](https://www.zhihu.com/column/tkRobinPan)                                                                                                                                                 |
+| Intuitive Deep Learning [深度碎片](https://www.youtube.com/playlist?list=PLx08F1efFq\_XrzMzlgzQ0DAyDOn\_iYdjO)                                                                                                    |
 |                                                                                                                                                                                                               |
 
 #### 动手学深度学习
