@@ -23,7 +23,7 @@ description: 机器学习
 | SF Python [u](https://www.youtube.com/c/SFPython/videos)                                                                                                                                                     | **Zfort Group(**[**u**](https://www.youtube.com/channel/UCcttND4z9K7WVYRtp\_389gQ/featured)**, )**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | KDD2018 video [u](https://www.youtube.com/channel/UCSBrGGR7JOiSyzl60OGdKYQ/videos)                                                                                                                           | Компьютерные науки计算机科学([u](https://www.youtube.com/c/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D0%BD%D0%B0%D1%83%D0%BA%D0%B8/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Serrano.Academy [u](https://www.youtube.com/c/LuisSerrano/playlists)                                                                                                                                         | 臺大科學教育發展中心CASE [u](https://www.youtube.com/user/NTUCASE/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                              | 中国人工智能学会 [s](https://www.caai.cn) CAAI [wb](https://weibo.com/caai1981)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 机器学习 [知乎话题](https://www.zhihu.com/topic/19559450/hot)                                                                                                                                                        | 中国人工智能学会 [s](https://www.caai.cn) CAAI [wb](https://weibo.com/caai1981)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 | Quora                                                                                        |                                                                                            |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -747,6 +747,12 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                  |
 |                                                                  |
 
+### 损失函数
+
+机器学习常用损失函数小结 [王桂波](https://zhuanlan.zhihu.com/p/77686118)
+
+机器学习如何选择回归损失函数的？ [csdn](https://blog.csdn.net/sjyttkl/article/details/103614407)
+
 ### A/B testing
 
 |                                                                                                                           |
@@ -896,6 +902,10 @@ MingchaoZhu/[DeepLearning](https://github.com/MingchaoZhu/DeepLearning) 数学�
 | 《统计学习方法》第二版的代码实现 [git](https://github.com/fengdu78/lihang-code)                                                                                             |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
+
+### PRML
+
+PRML/P[RMLT](https://github.com/PRML/PRMLT) [s](http://prml.github.io) Matlab code of machine learning algorithms in book PRML [zh](https://www.zhihu.com/question/36768514/answer/83577695)
 
 ## 其他
 
