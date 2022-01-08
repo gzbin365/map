@@ -549,6 +549,7 @@ $$
 | Statistics Fundamentals [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                                                                    |
 | SPSS for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ZpwZS3XnEZA)                                                                                                       |
 | 南开大学 试验设计 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDWlL7KlsQ2AwavFXpQvSdq)                                                                                                 |
+| 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                              |
 
 ### 随机过程 Stochastic processes
 

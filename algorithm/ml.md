@@ -753,6 +753,8 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 
 机器学习如何选择回归损失函数的？ [csdn](https://blog.csdn.net/sjyttkl/article/details/103614407)
 
+神经网络的损失函数为什么是非凸的? [zh](https://www.zhihu.com/question/265516791)
+
 ### A/B testing
 
 |                                                                                                                           |
