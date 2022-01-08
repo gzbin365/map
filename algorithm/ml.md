@@ -101,7 +101,7 @@ description: 机器学习
 | 贪心学院 Greedy AI [u](https://www.youtube.com/channel/UC9op\_kpmKZCf14aO-l-fj9Q/playlists)                                                                                                                                                                                                                                                                     | Min Yuan [u](https://www.youtube.com/channel/UC2CR\_4eDzHR74U0qn7z2hww/playlists)                                                                                                                                                                                                                                                                                                                                                                   |
 | hashtag/[machinelearningforbeginners](https://www.youtube.com/hashtag/machinelearningforbeginners)                                                                                                                                                                                                                                                          | 深度之眼官方账号 [u](https://www.youtube.com/channel/UC8h94FWBLrwDCIqDylDIIyw/playlists)                                                                                                                                                                                                                                                                                                                                                                    |
 | Learning AI [u](https://www.youtube.com/channel/UC3BRH2v1TRcGuXUrxRrtsuA)                                                                                                                                                                                                                                                                                   | 財團法人人工智慧科技基金會 [u](https://www.youtube.com/channel/UCMQ4IsHxtccFENDvRsdS1oA/videos)                                                                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                             | 做大饼馅儿的韭菜 [zh](https://www.zhihu.com/people/forever-26-88)                                                                                                                                                                                                                                                                                                                                                                                           |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                                                                                                                                                                          | 做大饼馅儿的韭菜 [zh](https://www.zhihu.com/people/forever-26-88)                                                                                                                                                                                                                                                                                                                                                                                           |
 
 |                                                               |
 | ------------------------------------------------------------- |
@@ -356,6 +356,12 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Machine Learning Foundations (機器學習基石) 机器学习基石 [Hsuan-Tien Lin](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) [电子工程世界](http://training.eeworld.com.cn/course/4459) |
 | Machine Learning Techniques (機器學習技法) 机器学习技法 [Hsuan-Tien Lin](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) [电子工程世界](http://training.eeworld.com.cn/course/4458)  |
 
+| 千锋教育                                                                             |                                                                                  |   |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | - |
+| [KNN](https://www.youtube.com/playlist?list=PLwDQt7s1o9J5oe0tEsWyitavyhdNudEMl)  | [逻辑回归](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7obq1guQqmfsqo376xObje) |   |
+| [线性回归](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4XPGJoOpmuU1t8fntbC-Tc) | [SVM](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)  |   |
+|                                                                                  |                                                                                  |   |
+
 ***
 
 ### DL
@@ -482,12 +488,15 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 |                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Linear Regression and Linear Models [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) |
+| 【千锋大数据】机器学习之线性回归教程（6集）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4XPGJoOpmuU1t8fntbC-Tc)                                      |
 
 #### 逻辑回归 Logistic Regression
 
 |                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | Logistic Regression [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) |
+| 【千锋大数据】机器学习之逻辑回归教程（6集）[千锋教育](https://www.youtube.com/watch?v=t0iSvOgFnC4\&list=PLwDQt7s1o9J7obq1guQqmfsqo376xObje)          |
+|                                                                                                                             |
 
 #### 随机森林 Random Forests
 
@@ -526,6 +535,10 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                   |
 | 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2) |
 
+### KNN
+
+【千锋大数据】3天快速入门机器学习（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J5oe0tEsWyitavyhdNudEMl)
+
 ### 时间序列
 
 |                                                                                                                                                                      |
@@ -545,6 +558,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | Support Vector Machines [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc) |
 | 算法：线性支持向量机 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQGoKJJRWCbd73eKJq4tbv)                                    |
+| 【千锋大数据】机器学习之SVM教程（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)                          |
 
 ### 神经网络 Neural Networks
 

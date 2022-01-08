@@ -1,5 +1,7 @@
 # SQL
 
+****
+
 **自学SQL网(**[**s**](http://xuesql.cn)**,** [**v**](https://www.bilibili.com/video/BV12V411a7wZ/)**, )** [**NoSQL数据存储**](https://www.fullstackpython.com/no-sql-datastore.html)
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -58,6 +60,7 @@
 | 大数据存哥 抖音号： [bigdata\_cun](https://www.douyin.com/user/MS4wLjABAAAAE6J6zqyDX-yNq09ag6uhTFUJUpRzPCCIaz95w4tqy7eXDpZrmWYqYmOVPipgXuW0?author\_id=2735238559043117\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6916748072622017805\&group\_id=6916748072622017805\&log\_pb=%7B%22impr\_id%22%3A%22202110090706560101330302043E0A99A0%22%7D) |
 | 大数据老王 抖音号： [code\_club](https://www.douyin.com/user/MS4wLjABAAAAml759D7raW33xNxTBdRr36zCloEZi2RcBNj606oXC8R8H1c-jXh05MIHZURGlgA0?author\_id=1248679939287949\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7003319844758129933\&group\_id=7003319844758129933\&log\_pb=%7B%22impr\_id%22%3A%2220211009073915010151199071470C8149%22%7D)   |
 | 卡弗卡大数据　抖音号： [aikfk](https://www.douyin.com/user/MS4wLjABAAAAoPDEFZ9mvQhgucluoypWsSAW-cNVFx3xja2Gz1vEjnk)                                                                                                                                                                                                                                                      |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                                                                                                                                                                            |
 
 |                                                                                                     |
 | --------------------------------------------------------------------------------------------------- |

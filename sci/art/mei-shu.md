@@ -5,7 +5,7 @@
 | mona里洒 抖音号： [5952141](https://www.douyin.com/user/MS4wLjABAAAAOecR3oyujbtzhEWSHBXAFIwH62dygY24sPVppJX5K84?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017284627266161932\&is\_full\_screen=0) | DesignSense([u](https://www.youtube.com/c/DesignSense/playlists), )                                                                |
 | 杨藩 大学美术老师 趣讲艺术 抖音号： [72055942](https://www.douyin.com/user/MS4wLjABAAAA-pC-EKwHkb9mO1Tck2kqFbkxBi5frRlLXpM7EVencJw)                                                                                             |                                                                                                                                    |
 | pixiv [s](https://www.pixiv.net) 插画交流网站                                                                                                                                                                         | 47设计研究所　抖音号： [PSUi520](https://www.douyin.com/user/MS4wLjABAAAAlOOV6vr1bSKq8QaNZ5\_JsCbBFKOsHAvc3McjHsLw7Rs)                       |
-|                                                                                                                                                                                                                 | 刘冠老师 抖音号： [60640459190](https://www.douyin.com/user/MS4wLjABAAAAW-XIzmOJbtzmY0nJx8Ypd7l2Se7hwf4Qtn\_4GEvPw-BWagVtODGfRXvf7-3GQaz0) |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                              | 刘冠老师 抖音号： [60640459190](https://www.douyin.com/user/MS4wLjABAAAAW-XIzmOJbtzmY0nJx8Ypd7l2Se7hwf4Qtn\_4GEvPw-BWagVtODGfRXvf7-3GQaz0) |
 
 ## 设计
 

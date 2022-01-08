@@ -221,6 +221,8 @@
 
 HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.youtube.com/watch?v=PlxWf493en4)
 
+千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
+
 ### CSS
 
 |                                                                                                                                                                                            |
@@ -331,12 +333,15 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 ## UI
 
+千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
+
 ### Figma
 
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
 | 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY) |
 | Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)   |
+|                                                                                                        |
 
 ## 其他
 

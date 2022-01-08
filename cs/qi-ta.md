@@ -40,6 +40,7 @@
 | Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                         |
 | Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                              |
 | go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                       |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                        |
 
 ## C\#
 
@@ -84,6 +85,7 @@
 | PHP Programming Language Tutorial - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=OK\_JCtrrv-c)                                                                              |
 | PHP For Absolute Beginners \| 6.5 Hour Course [Traversy Media](https://www.youtube.com/watch?v=2eebptXfEvw)                                                                               |
 | Laravel PHP Framework Tutorial - Full Course for Beginners (2019) [freeCodeCamp](https://www.youtube.com/watch?v=ImtZ5yENzgE)                                                             |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                        |
 
 ## lua
 
@@ -152,9 +154,10 @@
 
 ## Unity
 
-|                                                           |                                                        |
-| --------------------------------------------------------- | ------------------------------------------------------ |
-| Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) |
+|                                                           |                                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------------ |
+| Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic)             |
+|                                                           | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw) |
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -317,6 +320,7 @@
 | LR场景设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXreapksSPNd4mOSa3YSo)              |
 | LR指标分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha4s8dUtPuBY\_JIu7fw3SQo)             |
 | Error detection [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFWff2QjXCWuSfJDWcvE0Vm) |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                    |
 
 ## 微信公众号
 
