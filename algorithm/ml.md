@@ -202,6 +202,12 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch: Zero to GANs Dhanabhon [Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhY2UoT5l3Lw\_bu3qywo5GPI)                                              |
 | Deep Learning with PyTorch: Zero to GANs [Jovian](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)                                                  |
 
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
+
 ### Keras
 
 |                                                                                                                                                                                                                                                                                                                                                    |

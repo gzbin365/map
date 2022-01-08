@@ -236,6 +236,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | CSS Flexbox Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=tXIhdp5R7sc)                                                                                                       |
 | Bootstrap CSS Framework - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE)                                                                            |
 | CSS Crash Course Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=r1xBCi5SOjw)                                                                                                      |
+| 網頁前端工程入門：基礎 CSS 教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=Jr7lwHnTK68)                                                                                                              |
 
 ## JavaScript
 
