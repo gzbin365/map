@@ -496,7 +496,8 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | --------------------------------------------------------------------------------------------------------------------------- |
 | Logistic Regression [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) |
 | 【千锋大数据】机器学习之逻辑回归教程（6集）[千锋教育](https://www.youtube.com/watch?v=t0iSvOgFnC4\&list=PLwDQt7s1o9J7obq1guQqmfsqo376xObje)          |
-|                                                                                                                             |
+| 線性機率模型 (LPM) 與邏輯斯迴歸 (Logistic Regression) [張翔老師](https://www.youtube.com/watch?v=KDGdIrLvALk)                               |
+| 【Stata小课堂】第24讲：有序多分类Logistic回归(Ordinal Logistic Regression) [Mingyu Zhang](https://www.youtube.com/watch?v=u3jl8wJCOfM)     |
 
 #### 随机森林 Random Forests
 
@@ -528,12 +529,15 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 ### 回归
 
-|                                                                                                         |
-| ------------------------------------------------------------------------------------------------------- |
-| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)            |
-| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)          |
-| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                   |
-| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2) |
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)               |
+| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)             |
+| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                      |
+| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)    |
+| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                   |
+| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                       |
+| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_) |
 
 ### KNN
 

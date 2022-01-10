@@ -46,3 +46,10 @@ description: Blockchain & Cryptocurrency
 | 为什么人人都能聊元宇宙？因为它“什么都不是” [科技袁人](https://www.youtube.com/watch?v=svxZWwXfjnQ)                             |
 | SYNC 2021-元宇宙分论坛 [PingWest](https://www.youtube.com/watch?v=ILv0IxWcEjU)                               |
 
+## WEB 3.0
+
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WEB3.0是什么，该如何布局？丨哪些WEB3.0的币值得我们关注和投资 [奔跑的格格](https://www.youtube.com/watch?v=Hsajpp-fg-E)                                                                 |
+| Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto [JavaScript Mastery](https://www.youtube.com/watch?v=Wn\_Kb3MR\_cU) |
+|                                                                                                                                                           |
