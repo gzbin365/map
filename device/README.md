@@ -262,7 +262,7 @@ description: 硬件设备
 | MemCache [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqUuQ2sq3fIMdn9mUd9eJv)                                                                               |
 | 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                            |
 | Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                             |
-|                                                                                                                                                                          |
+| 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                                 |
 
 ## DPU
 

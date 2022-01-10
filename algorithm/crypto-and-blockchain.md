@@ -51,5 +51,6 @@ description: Blockchain & Cryptocurrency
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | WEB3.0是什么，该如何布局？丨哪些WEB3.0的币值得我们关注和投资 [奔跑的格格](https://www.youtube.com/watch?v=Hsajpp-fg-E)                                                                 |
+| WEB3.0是什么? TOP5 web3.0板块区块链背后加密货币 虚拟货币 ？丨哪些WEB3.0的虚拟货币潛力巨大 [大方BigFang](https://www.youtube.com/watch?v=OnsdncqgSYw)                                       |
 | Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto [JavaScript Mastery](https://www.youtube.com/watch?v=Wn\_Kb3MR\_cU) |
 |                                                                                                                                                           |
