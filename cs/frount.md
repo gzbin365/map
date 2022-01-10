@@ -73,6 +73,10 @@
 | ----------------------------------------------------------------------------------------------------------- | - |
 | Mobile Web Development [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm5NhhVow5zCtZ\_eScc1f-b) |   |
 
+{% content-ref url="../algorithm/crypto-and-blockchain.md" %}
+[crypto-and-blockchain.md](../algorithm/crypto-and-blockchain.md)
+{% endcontent-ref %}
+
 ## Ajax
 
 |                                                                                                   |   |
