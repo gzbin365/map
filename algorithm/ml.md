@@ -627,8 +627,8 @@ LSTM
 | Hidden Markov Model [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoc9LN241WKqLPuggfSBBpt)                                                                                                                                                        |
 | 程序数学之随机过程 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB) [csdn](https://edu.csdn.net/course/detail/26699)                                                                                                           |
 | 【数之道 20】5分钟理解'马尔可夫链'的遍历性与唯一稳态 Markov Chain's Ergodicity and Stationary Distribution [FunInCode](https://www.youtube.com/watch?v=NF-Sz2djol4)                                                                                                               |
-|                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                            |
+| Lecture 7: Markov Decision Processes - Value Iteration \| Stanford CS221: AI (Autumn 2019) [stanfordonline](https://www.youtube.com/watch?v=9g32v7bK3Co)                                                                                                   |
+| Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem [deeplizard](https://www.youtube.com/watch?v=my207WNoeyA)                                                                                                                  |
 
 ### MCMC, Markov Chain Monte Carlo
 
