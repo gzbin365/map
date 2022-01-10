@@ -181,14 +181,14 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 
 ## LeetCode
 
-|                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------- |
-| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn) |
-| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                |
-| Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                  |
-| 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)                                                  |
-| LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)         |
-| LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)         |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn)            |
+| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                           |
+| Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                             |
+| 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)   NeetCode [u](https://www.youtube.com/watch?v=SVvr3ZjtjI8) |
+| LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)                    |
+| LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)                    |
 
 ## 其他
 
