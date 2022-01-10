@@ -63,6 +63,17 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 
+| Guix                                                                                         |
+| -------------------------------------------------------------------------------------------- |
+| Linux 头脑风暴第十二期，GNU GuixLinux 探秘 [Houge Langley](https://www.youtube.com/watch?v=lXpoPZYdqsk) |
+| Guix：最先进的操作系统? [jdon](https://www.jdon.com/57125)                                            |
+| Guix中文社区 – Guix China Community [s](https://mirrors.guix.org.cn)                             |
+| 如何评价GNU Guix? [zh](https://www.zhihu.com/question/323432297)                                 |
+| My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)           |
+|                                                                                              |
+|                                                                                              |
+|                                                                                              |
+
 ## UP主
 
 |                                                                                                                                               |                                                                                                                                                                                                                               |

@@ -176,6 +176,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | 机器学习从零到一　[一](https://www.youtube.com/watch?v=OXNC\_sefxi4)　[二](https://www.youtube.com/watch?v=ifj5bAzrzMw)　[三](https://www.youtube.com/watch?v=UzJc283xy34)　[四](https://www.youtube.com/watch?v=KXo8ZOa-dYg)　TensorFlow                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | TensorFlow Lite 视频系列教程　[TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwFS5vSa9oV48AOdzfJwxXH)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 深度学习应用开发-TensorFlow实践 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_SAFlrfeb9HBxqI8bnABI6o)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| TensorFlow 2.0 [李政轩](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTFoBXyINxMIVFQre5cKnIa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ### PyTorch
 
@@ -493,12 +494,15 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 #### 逻辑回归 Logistic Regression
 
-|                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| Logistic Regression [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) |
-| 【千锋大数据】机器学习之逻辑回归教程（6集）[千锋教育](https://www.youtube.com/watch?v=t0iSvOgFnC4\&list=PLwDQt7s1o9J7obq1guQqmfsqo376xObje)          |
-| 線性機率模型 (LPM) 與邏輯斯迴歸 (Logistic Regression) [張翔老師](https://www.youtube.com/watch?v=KDGdIrLvALk)                               |
-| 【Stata小课堂】第24讲：有序多分类Logistic回归(Ordinal Logistic Regression) [Mingyu Zhang](https://www.youtube.com/watch?v=u3jl8wJCOfM)     |
+|                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| Logistic Regression [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)          |
+| 【千锋大数据】机器学习之逻辑回归教程（6集）[千锋教育](https://www.youtube.com/watch?v=t0iSvOgFnC4\&list=PLwDQt7s1o9J7obq1guQqmfsqo376xObje)                   |
+| 線性機率模型 (LPM) 與邏輯斯迴歸 (Logistic Regression) [張翔老師](https://www.youtube.com/watch?v=KDGdIrLvALk)                                        |
+| 【Stata小课堂】第24讲：有序多分类Logistic回归(Ordinal Logistic Regression) [Mingyu Zhang](https://www.youtube.com/watch?v=u3jl8wJCOfM)              |
+| Big Data Analysis - Regression [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrSKrvSc6QnqJUadSxDi465Y)                       |
+| Tutorial 35- Logistic Regression Indepth Intuition- Part 1\| Data Science [Krish Naik](https://www.youtube.com/watch?v=L\_xBe7MbPwk) |
+| 08逻辑回归算法 课时46逻辑回归算法原理推导 [互联网开发教程](https://www.youtube.com/watch?v=DBgPZcH0TzU) tyd                                                   |
 
 #### 随机森林 Random Forests
 
