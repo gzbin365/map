@@ -602,6 +602,7 @@ Python高性能编程
 | Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                    |
 | Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI) |
 | Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)             |
+| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                             |
 
 ## Video Image Editing
 
@@ -623,6 +624,7 @@ Python高性能编程
 | Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)   |
 | 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
 | 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
+| 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)     |
 
 ## 网络编程
 

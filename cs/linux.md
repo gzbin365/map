@@ -63,16 +63,16 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 
-| Guix                                                                                         |
-| -------------------------------------------------------------------------------------------- |
-| Linux 头脑风暴第十二期，GNU GuixLinux 探秘 [Houge Langley](https://www.youtube.com/watch?v=lXpoPZYdqsk) |
-| Guix：最先进的操作系统? [jdon](https://www.jdon.com/57125)                                            |
-| Guix中文社区 – Guix China Community [s](https://mirrors.guix.org.cn)                             |
-| 如何评价GNU Guix? [zh](https://www.zhihu.com/question/323432297)                                 |
-| My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)           |
-|                                                                                              |
-|                                                                                              |
-|                                                                                              |
+| Guix                                                                                            |
+| ----------------------------------------------------------------------------------------------- |
+| Linux 头脑风暴第十二期，GNU GuixLinux 探秘 [Houge Langley](https://www.youtube.com/watch?v=lXpoPZYdqsk)    |
+| Guix：最先进的操作系统? [jdon](https://www.jdon.com/57125)                                               |
+| Guix中文社区 – Guix China Community [s](https://mirrors.guix.org.cn)                                |
+| 如何评价GNU Guix? [zh](https://www.zhihu.com/question/323432297)                                    |
+| My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)              |
+| [System Crafters](https://www.youtube.com/watch?v=CEnMzQ9JPtw) Live! - Why Geeks Don't Use Guix |
+|                                                                                                 |
+|                                                                                                 |
 
 ## UP主
 
@@ -89,7 +89,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | **DistroTube(**[**u**](https://www.youtube.com/c/DistroTube/playlists)**, )**                                                                 | **tutoriaLinux(**[**s**](https://tutorialinux.com)**,** [**u**](https://www.youtube.com/c/tutoriaLinux/playlists)**,** [**tw**](https://twitter.com/tutorialinux)**,** [**fb**](https://www.facebook.com/tutorialinux)**, )** |
 | **linuxhint(**[**u**](https://www.youtube.com/c/linuxhint/featured)**, )**                                                                    | **Average Linux User(**[**u**](https://www.youtube.com/c/AverageLinuxUser/featured)**, )**                                                                                                                                    |
 | Byte of Linux [u](https://www.youtube.com/channel/UClv29BapYRCyv5jaDQdKhZA)                                                                   | EF - Linux Made Simple [u](https://www.youtube.com/channel/UCX\_WM2O-X96URC5n66G-hvw)                                                                                                                                         |
-|                                                                                                                                               | FreeCoder [u](https://www.youtube.com/channel/UC8OGDmnyMgYOPgpnFJYUiGg/videos)                                                                                                                                                |
+| Houge Langley [u](https://www.youtube.com/channel/UC7h0cmpGuMcq2g1LXzykEIw/videos)                                                            | FreeCoder [u](https://www.youtube.com/channel/UC8OGDmnyMgYOPgpnFJYUiGg/videos)                                                                                                                                                |
+|                                                                                                                                               |                                                                                                                                                                                                                               |
 
 | 输入法                                                                                         |   |
 | ------------------------------------------------------------------------------------------- | - |
@@ -304,7 +305,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | quick.nvim \| A fast, modern and reliable Neovim configuration [Albin Groen](https://www.youtube.com/watch?v=OhbgZbORFd4) |
-|                                                                                                                           |
+| Vim And Emacs Are The Most Important Skills You Should Learn [DistroTube](https://www.youtube.com/watch?v=F8ZOnz0x9UM)    |
 |                                                                                                                           |
 
 ### Neovim

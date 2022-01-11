@@ -4,7 +4,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 前端盼哥 抖音号： [pange0806](https://www.douyin.com/user/MS4wLjABAAAARIRIDGeGSbUrb5D7jJTKhJIVqUDtDI23U7Q-pr-zmkKHBya0VLe5w3Bvp7TrPNjU?author\_id=1873171857810548\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6936524886537981191\&group\_id=6936524886537981191\&log\_pb=%7B%22impr\_id%22%3A%22021633796381322fdbddc0300fff0010a80d3190000034c0a251b%22%7D) | 程序员鱼皮 抖音号： [coder\_yupi](https://www.douyin.com/user/MS4wLjABAAAAkGPUlxhANi-quQ-g2HAFIHVArZmHUNeyutqfY\_bKvS0?author\_id=110276496494\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6937310186025553182\&group\_id=6937310186025553182\&log\_pb=%7B%22impr\_id%22%3A%22021633796376210fdbd400a040000000a70080f0000004b8ed5de%22%7D) | 前端架构-刘江虹 抖音号： [ljhtianhong](https://www.douyin.com/user/MS4wLjABAAAAzKlgerDF3oCDc\_ghalJNhWn9mOAK5LjjM8bXt3ziQgs?author\_id=71310405661\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6898312913895968000\&group\_id=6898312913895968000\&log\_pb=%7B%22impr\_id%22%3A%22021633809857612fdbddc0200fff0030a931aa10000048e3ef56f%22%7D) |
 |                                                                                                                                                                                                                                                                                                                                                                              | Alex 宅幹嘛 [u](https://www.youtube.com/c/AlexOtakuWhat/playlists)                                                                                                                                                                                                                                                                                         | 前端开发 抖音号： [79652966](https://www.douyin.com/user/MS4wLjABAAAAzaxVT4YakT8f8zjqUfOIYkYJgtl8CTpyQLtYDmMLfmY?author\_id=69361722864\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=6906879049033977100\&group\_id=6906879049033977100\&log\_pb=%7B%22impr\_id%22%3A%22021633808849730fdbddc0300fff0010a84e8d60000001930e85c%22%7D)         |
-|                                                                                                                                                                                                                                                                                                                                                                              | Lama Dev [u](https://www.youtube.com/c/LamaDev/playlists)                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                           |
+| Jomy King [u](https://www.youtube.com/c/JomyKing/playlists)                                                                                                                                                                                                                                                                                                                  | Lama Dev [u](https://www.youtube.com/c/LamaDev/playlists)                                                                                                                                                                                                                                                                                               | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B/playlists)                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                         | Class Central [u](https://www.youtube.com/c/ClassCentral/videos)                                                                                                                                                                                                                                                                                          |
 
 |                                                                                              |                                                                                               |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -68,6 +69,13 @@
 | Ultimate Freelancing Guide for Web Developers (Make money through freelance programming!) [freeCodeCamp](https://www.youtube.com/watch?v=4TIvB8zDFio)                                            |
 | How to Find Freelance Jobs [freeCodeCamp](https://www.youtube.com/watch?v=Z63TxAJotgQ)                                                                                                           |
 | Create a Video Membership Web App from Scratch with Python, NoSQL, & FastAPI [CodingEntrepreneurs](https://www.youtube.com/watch?v=KQ-u4RcFLBY)                                                  |
+| Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fireship](https://www.youtube.com/watch?v=Q7AOvWpIVHU)                                                                 |
+
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
 
 |                                                                                                             |   |
 | ----------------------------------------------------------------------------------------------------------- | - |
@@ -220,6 +228,7 @@
 | 【html】1小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=CLUPkcLQm64)                                                                    |
 | Feature Toggles - Why and How to Add to Your Software [freeCodeCamp](https://www.youtube.com/watch?v=-yHZ9uLVSp4)                                  |
 | Canvas图形、动画、游戏开发从入门到精通全系列课程　[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlmrUsdfVrTRt0lI1yQ9DEb)                                  |
+| HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                      |
 
 ### html
 
@@ -275,6 +284,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Build and Deploy THE PERFECT Portfolio Website \| Create a Portfolio from Scratch [JavaScript Mastery](https://www.youtube.com/watch?v=OPaLnMw2i\_0)                                         |
 | Build a Portfolio Website & Deploy [Traversy Media](https://www.youtube.com/watch?v=r\_hYR53r61M)                                                                                            |
 | Designing & Building a Personal Portfolio from SCRATCH! [DesignCourse](https://www.youtube.com/watch?v=9iUJJHEIpls)                                                                          |
+| Let’s learn JavaScript fundamentals! #1 \[Free JS Bootcamp] [Class Central](https://www.youtube.com/watch?v=mdXonjilZew)                                                                     |
 
 ### TypeScript
 
@@ -329,6 +339,10 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 |                                                                                                     |
 |                                                                                                     |
 
+### Three.js
+
+Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fireship](https://www.youtube.com/watch?v=Q7AOvWpIVHU)
+
 ## 用户体验 UX User Experience
 
 |                                                                                                         |   |
@@ -338,6 +352,8 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 ## UI
 
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
+
+MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1chMISeTC0)
 
 ### Figma
 

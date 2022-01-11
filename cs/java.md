@@ -54,6 +54,14 @@
 | <p>学习Java 8 - 初学者全套教程 <a href="https://www.youtube.com/watch?v=grEKMHGYyns">freeCodeCamp</a></p><p>Learn Java 8 - Full Tutorial for Beginners</p>                                             |
 | Java Native Interface (28-Hour Course) [freeCodeCamp](https://www.youtube.com/watch?v=pyXnX2SEaFc)                                                                                            |
 
+### NginX
+
+【尚硅谷】Nginx全套教程 2019最新版 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFqjd8stdqdXgTnDDpr0baO)
+
+Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1qoq-tISRs9tKCLwCyMu)
+
+### Apache
+
 ### 设计模式
 
 |                                                                                        |   |
