@@ -114,6 +114,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| React Course - Beginner's Tutorial for React JavaScript Library \[2022] [freeCodeCamp](https://www.youtube.com/watch?v=bMknfKXIFA8)                                      |
 | React [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfYnzzS-tUQbvl6OtZhNmSZ3)                                                                          |
 | ReactJS从入门到实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaIGUur0mtlTuZocJXB5aCM)                                                                          |
 | React实战开发特训班 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyvECwwf\_TCbCSSRO0y0qrC)                                                                       |
