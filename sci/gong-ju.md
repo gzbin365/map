@@ -120,8 +120,8 @@
 
 ## 其他
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| 联想工程师工具箱 [d](https://www.123pan.com/s/kP6A-XHBO3) [v](https://www.youtube.com/watch?v=gCDlPejwCQk) |
-|                                                                                                    |
-|                                                                                                    |
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 联想工程师工具箱 [d](https://www.123pan.com/s/kP6A-XHBO3) [v](https://www.youtube.com/watch?v=gCDlPejwCQk)                       |
+| LANDrop [v](https://www.youtube.com/watch?v=UZJWHEil36Y) [s](https://landrop.app) [git](https://github.com/LANDrop) 文件传输 |
+|                                                                                                                          |

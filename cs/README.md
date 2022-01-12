@@ -305,6 +305,7 @@ Computer Components？Computer Architecture？
 | 深入浅出计算机组成原理 [极客时间](https://time.geekbang.org/column/intro/100026001)                                                            |
 | 王道计算机-组成原理 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivtsUL\_W7Mdbc3cjk-E\_kdQx)                                    |
 | Computer Components For Dummies [Tech With Tim](https://www.youtube.com/watch?v=cZs6kh0WFRY)                                    |
+| 计算机组成原理 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoMc7BNWCqLzDlBbDaKc2bm)                                    |
 
 ## 计算机网络
 
@@ -329,6 +330,8 @@ Computer Components？Computer Architecture？
 | Computer Networking Complete Course - Beginner to Advanced [Geek's Lesson](https://www.youtube.com/watch?v=QKfk7YFILws)                                 |
 | 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                           |
 | How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                   |
+|                                                                                                                                                         |
+|                                                                                                                                                         |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |

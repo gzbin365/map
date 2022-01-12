@@ -656,7 +656,11 @@ Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch
 
 ## Jupyter
 
+topics/[jupyter-notebook](https://github.com/topics/jupyter-notebook)
+
 Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)
+
+
 
 ## **其他**
 
@@ -668,9 +672,10 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 
 [**Decorators**](https://www.youtube.com/watch?v=FsAPt\_9Bf3U)
 
-|                                                                                |
-| ------------------------------------------------------------------------------ |
-| 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg) |
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg)    |
+| Python 函数装饰器 [runoob](https://www.runoob.com/w3cnote/python-func-decorators.html) |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -691,6 +696,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                      |
 | jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                 |
 | [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)  |
+| 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
 
 ## Book
 

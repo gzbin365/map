@@ -117,7 +117,7 @@
 |                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How is Flutter different for app development [Google Developers](https://www.youtube.com/watch?v=l-YO9CmaSUM)                                       |
-|                                                                                                                                                     |
+| Flutter & Firebase Course - Build a Full Stack Instagram Clone [freeCodeCamp](https://www.youtube.com/watch?v=mEPm9w5QlJM)                          |
 | Implementing complex UI with Flutter - Marcin Szałek \| [Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8)                               |
 | Responsive Admin Panel or Dashboard - Flutter UI - Speed Code [The Flutter Way](https://www.youtube.com/watch?v=\_uOgXpEHNbc)                       |
 | Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart [Academind](https://www.youtube.com/watch?v=GLSG\_Wh\_YWc) |
