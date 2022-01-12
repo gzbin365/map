@@ -222,11 +222,11 @@ import cv2
 
 ### OCR
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR) |
-|                                                                 |
-|                                                                 |
+|                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                               |
+| MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch) |
+|                                                                                                                                                               |
 
 ## 视觉 Attention
 
