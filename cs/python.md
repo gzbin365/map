@@ -131,6 +131,7 @@
 | Python As Fast as Possible - Learn Python in \~75 Minutes [Tech With Tim](https://www.youtube.com/watch?v=VchuKL44s6E)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Python for Everybody - Chuck博士的全程课程 [freeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Python Basics with Sam [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ### 传智/黑马
 
@@ -625,6 +626,7 @@ Python高性能编程
 | 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
 | 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
 | 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)     |
+| Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)  |
 
 ## 网络编程
 
@@ -688,6 +690,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                      |
 | Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                      |
 | jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                 |
+| [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)  |
 
 ## Book
 

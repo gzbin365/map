@@ -363,6 +363,7 @@
 | <p><a href="https://www.ozabc.com/gongju/499925.html">VMware Workstation Pro 16永久激活码激活秘钥</a></p><p>ZF3R0-FHED2-M80TY-8QYGC-NPKYF</p><p>YF390-0HF8P-M81RQ-2DXQE-M2UT6</p><p>ZF71R-DMX85-08DQY-8YMNC-PPHV8</p> |
 | [hyper-v设置详解，教你用WIN原生虚拟机免费打造软路由，全家出国旅行](https://www.youtube.com/watch?v=9Hc-5EOtaJs)                                                                                                                         |
 | How To Install Linux (Ubuntu) On Windows Virtually \| No Dual OS \| No Software \| Virtual Machine. [Know-How](https://www.youtube.com/watch?v=WgZ276a0B44)                                                  |
+| Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
 
 ## 架构
 

@@ -4,6 +4,8 @@ description: 从编程中找到快乐
 
 # Linux
 
+<mark style="color:orange;">**L**</mark>inux <mark style="color:orange;">**I**</mark>s <mark style="color:orange;">**N**</mark>ot <mark style="color:orange;">**U**</mark>NI<mark style="color:orange;">**X**</mark>
+
 [**The mind behind Linux | Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
 [**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
@@ -59,7 +61,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | archlinuxstudio [s](https://archlinuxstudio.github.io) [git](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)                                        |
 | Arch Linux 安装使用教程 [git](https://github.com/ArchLinuxStudio/ArchLinuxTutorial)                                                                               |
 | 蚌埠居士蚌埠住 [B](https://space.bilibili.com/1993346831)                                                                                                          |
-|                                                                                                                                                             |
+| Build a Developer's Linux Workstation - Complete Guide [DroneBot Workshop](https://www.youtube.com/watch?v=zpGZ3rZQ90I)                                     |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 
