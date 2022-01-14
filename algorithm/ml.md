@@ -24,6 +24,7 @@ description: 机器学习
 | KDD2018 video [u](https://www.youtube.com/channel/UCSBrGGR7JOiSyzl60OGdKYQ/videos)                                                                                                                           | Компьютерные науки计算机科学([u](https://www.youtube.com/c/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D0%BD%D0%B0%D1%83%D0%BA%D0%B8/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Serrano.Academy [u](https://www.youtube.com/c/LuisSerrano/playlists)                                                                                                                                         | 臺大科學教育發展中心CASE [u](https://www.youtube.com/user/NTUCASE/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 机器学习 [知乎话题](https://www.zhihu.com/topic/19559450/hot)                                                                                                                                                        | 中国人工智能学会 [s](https://www.caai.cn) CAAI [wb](https://weibo.com/caai1981)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [engineerknow](https://www.engineerknow.com) mechanical coder [u](https://www.youtube.com/channel/UC\_\_7TWjURc7KnChqoQrAYoQ/playlists)                                                                      | 台灣機器學習有限公司 [u](https://www.youtube.com/c/wuchaiyen/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 | Quora                                                                                        |                                                                                            |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -452,6 +453,10 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Keynote Jake VanderPlas [PyData](https://www.youtube.com/watch?v=DifMYH3iuFw)                                                                                                 |
 | Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)                                             |
 
+#### 数据清理
+
+The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+
 ## 算法
 
 奥卡姆剃刀原理 [严伯钧](https://www.douyin.com/video/7035859509524303111)
@@ -564,11 +569,12 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 ### 支持向量机 SVM
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| Support Vector Machines [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc) |
-| 算法：线性支持向量机 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQGoKJJRWCbd73eKJq4tbv)                                    |
-| 【千锋大数据】机器学习之SVM教程（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)                          |
+|                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Support Vector Machines [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc)                                        |
+| 算法：线性支持向量机 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQGoKJJRWCbd73eKJq4tbv)                                                                           |
+| 【千锋大数据】机器学习之SVM教程（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)                                                                 |
+| Understanding SVM ,its Type ,Applications and How to use with Python [engineerknow](https://www.engineerknow.com/2021/12/understanding-svm-its-type-applications.html) |
 
 ### 神经网络 Neural Networks
 

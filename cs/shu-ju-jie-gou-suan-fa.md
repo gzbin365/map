@@ -113,6 +113,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | Data Structures and Algorithms in JavaScript - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=t2CEgPsws3U)                                                                                                                                                                                                                  |
 | Python Sorting Algorithm Visualizer Tutorial [Tech With Tim](https://www.youtube.com/watch?v=twRidO-\_vqQ)                                                                                                                                                                                                                                            |
 | Algorithms Course - Graph Theory Tutorial from a Google Engineer [freeCodeCamp](https://www.youtube.com/watch?v=09\_LlHjoEiY)                                                                                                                                                                                                                         |
+| 10 Common Coding Interview Problems - Solved! [freeCodeCamp](https://www.youtube.com/watch?v=Peq4GCPNC5c)                                                                                                                                                                                                                                             |
 
 ## 排序算法 Sorting Algorithms
 

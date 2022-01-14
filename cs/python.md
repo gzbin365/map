@@ -343,6 +343,7 @@
 | Django Tutorial - Create a Digital Resume with a Python Backend [freeCodeCamp](https://www.youtube.com/watch?v=0oSsLbh\_Kv4)                                                           |
 | \[[程序员小飞](https://www.youtube.com/watch?v=onDgK-bTvjM)]2021年Django Web基础课程90分钟完整版                                                                                                      |
 | Dinesh Joshi - Designing fast and scalable Python MicroServices with Django [PyCon SK](https://www.youtube.com/watch?v=JSEoK0pMVbc)                                                    |
+| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                                                          |
 |                                                                                                                                                                                        |
 
 | Fabric                                                                                     |   |
@@ -362,7 +363,7 @@
 | 自动化测试 selenium [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaDvcIvNPtbcAGnrU1Bx0JJ)                                                                       |
 | python自动化运维+web监控系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHu1uI4g6Bb44gGpq2aXvJ)                                                                  |
 | Selenium自动化测试实战 [极客时间](https://time.geekbang.org/course/intro/100055601)                                                                                               |
-| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)\`                                                                         |
+| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                                                                           |
 | Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=j7VZsCCnptM)                  |
 | How To Hack The Google Chrome Dinosaur Game \[PYTHON] \| Only 10 Lines Of Coding \| Pyautogui \| Numpy [Know-How](https://www.youtube.com/watch?v=QAAd9KyvclY)         |
 | How to make advanced image recognition bots using python [Kian Brose](https://www.youtube.com/watch?v=YRAIUA-Oc1Y)                                                     |
