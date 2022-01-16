@@ -47,6 +47,8 @@ description: 自然语言处理
 | KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                   |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
 
+LDA 文档聚类 plsa lsa
+
 ## **比赛**
 
 |                                                                       |   |
@@ -161,6 +163,10 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Github Copilot: Good or Bad? [sentdex](https://www.youtube.com/watch?v=PDNt07UePvk)                                                                          |
 | Introducing GPT-J -- An Open Source Version Of GPT-3 (NLP News) [Vennify AI](https://www.youtube.com/watch?v=6w5sgWo68E0)                                    |
 | Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI [sentdex](https://www.youtube.com/watch?v=\_z86t7LerrQ)                                |
+
+### Causal Inference
+
+Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond [2109.00725v1](https://arxiv.org/pdf/2109.00725v1.pdf)
 
 ### 文本生成
 

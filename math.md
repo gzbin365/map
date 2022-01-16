@@ -776,7 +776,7 @@ Lagrange Multipliers | Geometric Meaning & Full Example [Dr. Trefor Bazett](http
 
 **2014 Spring Carnegie Mellon Univ 10708 Probabilistic Graphical Model(**[**list**](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6\_ZWGg/videos)**, )**
 
-###
+Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial Intelligence](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
 
 ## Complexity Theory
 
