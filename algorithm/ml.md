@@ -475,7 +475,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 ### 极客学院机器学习训练营
 
-[**机器学习环境配置手册**](https://shimo.im/docs/8dy8tHjGJdJ9prp8/read)    ****    [**github**](https://github.com/rwbfd/geek-training-camp)
+[机器学习环境配置手册](https://shimo.im/docs/8dy8tHjGJdJ9prp8/read)   [github](https://github.com/rwbfd/geek-training-camp)   [0期课程大纲](https://shimo.im/docs/ypv9CWcRPV6xyCHC)
 
 ### scikit-learn (sklearn)
 
