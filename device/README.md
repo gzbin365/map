@@ -384,6 +384,14 @@ description: 硬件设备
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 吉姆.凯勒 Jim Keller                                                                                                                            |
+| 特斯拉最闲的人-吉姆.凯勒Jim Keller，设计芯片这是，他是怎么做到的 去哪哪翻盘呢？[基地](https://www.youtube.com/watch?v=UX21Jj2aDu0)                                             |
+| Jim Keller: Moore's Law, Microprocessors, and First Principles \| [Lex Fridman](https://www.youtube.com/watch?v=Nb2tebYAaOA) Podcast #70    |
+| Jim Keller: The Future of Computing, AI, Life, and Consciousness \| [Lex Fridman](https://www.youtube.com/watch?v=G4hL5Om4IJ4) Podcast #162 |
+| 不要太在意人口数量，挖掘人口深度 [九边](https://www.douyin.com/video/7056037049886838047)                                                                     |
+
 ## 数码
 
 |                                                                                                                                    |                                                                                                                                                     |                                                                                                                                      |
