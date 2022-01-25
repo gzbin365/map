@@ -40,6 +40,7 @@
 | 内分泌唐黎之博士　抖音号： [huaxitanglizhi](https://www.douyin.com/user/MS4wLjABAAAAy6Hctl7QTwdl76jZdDtWaOrV0CkuhT3-eNVCNBSf99c)                                                                                                                                                                                                                                                                       |
 | 阿鸿1946 抖音号： [267531788](https://www.douyin.com/user/MS4wLjABAAAAy2aYycH7pOVYN6oHTgWqwAoHaVyjMpXGAesOOx5wQLs)                                                                                                                                                                                                                                                                              |
 | 常备药品 [git](https://github.com/imhuay/studies/blob/master/wiki/%E5%B8%B8%E5%A4%87%E8%8D%AF%E5%93%81.md) 褪黑素 乳蓟提取物                                                                                                                                                                                                                                                                          |
+| 诺亚营养 抖音号： [88362471947](https://www.douyin.com/user/MS4wLjABAAAA4hKc2yyaDQ68smGJ1BgiajheY1judUQPQ0oftQlEE1Sb8F2swRg8TC2-FIHOOz14)                                                                                                                                                                                                                                                         |
 
 ### 生酮饮食
 
