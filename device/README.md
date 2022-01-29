@@ -442,6 +442,8 @@ usb电容麦克风 王者对决Blue yeti X对Rode NT-usb [六成-60PCTV](https:/
 
 podcast器材設備   [NiceChord (好和弦)](https://www.youtube.com/watch?v=QGHUu\_nbmMI)
 
+手机自带的录音就可以 或者用 [WO Mic](https://wolicheng.com/womic/)
+
 ## 维修
 
 |                                                                                                              |   |
