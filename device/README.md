@@ -440,6 +440,8 @@ description: 硬件设备
 
 usb电容麦克风 王者对决Blue yeti X对Rode NT-usb [六成-60PCTV](https://www.youtube.com/watch?v=NqhtppxLDMU)
 
+podcast器材設備   [NiceChord (好和弦)](https://www.youtube.com/watch?v=QGHUu\_nbmMI)
+
 ## 维修
 
 |                                                                                                              |   |
