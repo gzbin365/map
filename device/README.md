@@ -436,6 +436,10 @@ description: 硬件设备
 |                                                                                                                  |   |
 |                                                                                                                  |   |
 
+### 麦克风
+
+usb电容麦克风 王者对决Blue yeti X对Rode NT-usb [六成-60PCTV](https://www.youtube.com/watch?v=NqhtppxLDMU)
+
 ## 维修
 
 |                                                                                                              |   |
