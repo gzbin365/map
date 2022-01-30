@@ -444,6 +444,8 @@ podcast器材設備   [NiceChord (好和弦)](https://www.youtube.com/watch?v=QG
 
 手机自带的录音就可以 或者用 [WO Mic](https://wolicheng.com/womic/)
 
+rode podmic 880   RODE Wireless GO II 3000   舒尔SM58
+
 ## 维修
 
 |                                                                                                              |   |
