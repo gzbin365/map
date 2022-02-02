@@ -446,6 +446,8 @@ podcast器材設備   [NiceChord (好和弦)](https://www.youtube.com/watch?v=QG
 
 rode podmic 880   RODE Wireless GO II 3000   舒尔SM58
 
+铁三角[AT9912](https://www.youtube.com/watch?v=w4AQUUeRyaI) 398   boya [by-m1](https://www.youtube.com/watch?v=w4AQUUeRyaI) 194   boya by-m100 135   boya by-m1 领夹
+
 ## 维修
 
 |                                                                                                              |   |
