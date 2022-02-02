@@ -692,6 +692,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)                |
 | Pygame in 90 Minutes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)                                     |
 | Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5) |
+| Zelda in Python [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)                                                             |
 | Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)     |
 | 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                                 |
 | PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                         |
