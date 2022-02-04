@@ -701,6 +701,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                 |
 | [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)  |
 | 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
+| Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                  |
 
 ## Book
 
