@@ -223,6 +223,60 @@ AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://
 |                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 
+<details>
+
+<summary><a href="https://www.youtube.com/c/TechWithTim/playlists">Tech With Tim</a></summary>
+
+Flask Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un\_NFS5EOgX)
+
+JavaScript for Beginners [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd)
+
+Threading Explained [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx)
+
+Python Multithreading Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mL\_4mo5LbOIdPV8jQ-n4ib)
+
+Python Selenium Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
+
+Django & React - Full Stack Web App Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
+
+Python Checkers AI Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-myY28wdQuJDBi8pCt-GIj6)
+
+OpenCV Python Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn)
+
+Learn C++ With Me [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3)
+
+React for Beginners [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT)
+
+Flask Blog Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nK0Pyubp7yIG0RdXp6zklu)
+
+Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)
+
+Pygame Car Racing Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)
+
+Discord.py Rewrite Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kdivglL5Dt-gY7bmdNQUJu)
+
+Python Online Game Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kR7Rh-7JCVDN8lm3Utumvq)
+
+Python Django Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9)
+
+Python Neural Network Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lak7tiFDec5\_ZMItiIIfmj)
+
+PyQt5 Python 3 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
+
+Python ChatBot Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q)
+
+Kivy Tutorials Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)
+
+AI Plays Flappy Bird - NEAT Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta\_YNX3\_vLS2)
+
+Python Machine Learning Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr)
+
+Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)
+
+Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kE3aF6Y0wNBNih7hWRAU2o)
+
+</details>
+
 ## 刷题
 
 |                                                                                                             |                                                                                                                                             |
