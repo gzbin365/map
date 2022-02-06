@@ -493,14 +493,15 @@ Computer Components？Computer Architecture？
 
 ## 项目
 
-|                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A)                                                 |
-| Dujltqzv/Some-Many-Books [git](https://github.com/Dujltqzv/Some-Many-Books) 差评                                                                             |
-| guang19/[framework-learning](https://github.com/guang19/framework-learning) 计算机学习资料 [GitBook](https://qsjzwithguang19forever.gitee.io/framework-learning/) |
-| riba 2534/[MyLearnNotes](https://github.com/riba2534/MyLearnNotes) [学习笔记](https://notes.riba2534.cn)                                                       |
-| lllhhh/[BooksKeeper](https://github.com/lllhhh/BooksKeeper) 对各类图书资源的收集。大量计算机、AI方面书籍。                                                                       |
-| lTbgykio/[Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books)                                                                                  |
+|                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coding Adventure: Ant and Slime Simulations [Sebastian Lague](https://www.youtube.com/watch?v=X-iSQQgOd1A)                                                                              |
+| Dujltqzv/Some-Many-Books [git](https://github.com/Dujltqzv/Some-Many-Books) 差评                                                                                                          |
+| guang19/[framework-learning](https://github.com/guang19/framework-learning) 计算机学习资料 [GitBook](https://qsjzwithguang19forever.gitee.io/framework-learning/)                              |
+| riba 2534/[MyLearnNotes](https://github.com/riba2534/MyLearnNotes) [学习笔记](https://notes.riba2534.cn)                                                                                    |
+| lllhhh/[BooksKeeper](https://github.com/lllhhh/BooksKeeper) 对各类图书资源的收集。大量计算机、AI方面书籍。                                                                                                    |
+| lTbgykio/[Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books)                                                                                                               |
+| danistefanovic/[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)   [v](https://www.douyin.com/video/7059730400473550088)   Build your own (insert technology here) |
 
 ## 沙雕项目
 
