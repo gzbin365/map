@@ -28,7 +28,7 @@
 | 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                     |
 | 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                 |
 | Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                  |
-|                                                                                                                                             |
+| MasterGo [s](https://mastergo.com)                                                                                                          |
 
 | **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
