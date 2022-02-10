@@ -39,3 +39,11 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How to Convert Speech To Text In Python \| Speech Recognition Library \| 10 Lines Of Code [Know-How](https://www.youtube.com/watch?v=ifey3EnhB-g)       |
 | How To Convert Text To Speech In Python \| pyttsx3 Library \| Basics Of Artificial Intelligence [Know-How](https://www.youtube.com/watch?v=6Za0ztPMr8g) |
+
+## Voice Assistant
+
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx) |
+| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant     |
+|                                                                                                                  |
