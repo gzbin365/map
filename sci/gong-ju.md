@@ -105,11 +105,12 @@
 
 ## 电脑远程控制
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| ToDesk s [d](https://www.todesk.com/download.html) [git](https://github.com/ji4ozhu/ToDesk) tag?                 |
-| TeamViewer 破解版 [git](https://github.com/itgoyo/TeamViewer-5min)                                                  |
-| [#remote-desktop](https://github.com/topics/remote-desktop)  [#teamviewer](https://github.com/topics/teamviewer) |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ToDesk s [d](https://www.todesk.com/download.html) [git](https://github.com/ji4ozhu/ToDesk) tag?                                                             |
+| TeamViewer 破解版 [git](https://github.com/itgoyo/TeamViewer-5min)                                                                                              |
+| [#remote-desktop](https://github.com/topics/remote-desktop)  [#teamviewer](https://github.com/topics/teamviewer)                                             |
+| 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
 
 ## utools
 
