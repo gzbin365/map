@@ -233,11 +233,11 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 
 ## **Docker**
 
-|                                                                                |                                                              |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [**Docker**](https://docs.docker.com/engine/install/ubuntu/)                   | [**nvidia-docker**](https://github.com/NVIDIA/nvidia-docker) |
-| [**Dock Hub**](https://hub.docker.com)                                         |                                                              |
-| Docker Swarm 深入浅出 ([书栈](https://www.bookstack.cn/books/docker-swarm-guides), ) |                                                              |
+|                                                                                |   |
+| ------------------------------------------------------------------------------ | - |
+| [**Docker**](https://docs.docker.com/engine/install/ubuntu/)                   |   |
+| [**Dock Hub**](https://hub.docker.com)                                         |   |
+| Docker Swarm 深入浅出 ([书栈](https://www.bookstack.cn/books/docker-swarm-guides), ) |   |
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -255,6 +255,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Top 8 Docker Best Practices for using Docker in Production [TechWorld with Nana](https://www.youtube.com/watch?v=8vXoMqWgbQQ)                             |
 | you need to learn Docker RIGHT NOW!! // Docker Containers 101 [NetworkChuck](https://www.youtube.com/watch?v=eGz9DS-aIeY)                                 |
 | 系统学习Docker 践行DevOps理念 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkSTTzJU6ljaaaou-\_Iq9N\_)                                                 |
+
+|                                                                      |
+| -------------------------------------------------------------------- |
+| [**nvidia-docker**](https://github.com/NVIDIA/nvidia-docker)         |
+| ubuntu docker-nvidia 安装 [zh](https://zhuanlan.zhihu.com/p/345972434) |
+|                                                                      |
 
 ## K8S
 
