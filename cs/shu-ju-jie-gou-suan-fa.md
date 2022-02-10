@@ -155,6 +155,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 数据结构面试题 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYn-DwaTGWwXQNc12h19-Ho)                                 |
 | Data Structures - Computer Science Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=zg9ih6SVACc)       |
 | Binary Tree Algorithms for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=fAAZixBzIAI) |
+| Binary Search Tree in Python [NeuralNine](https://www.youtube.com/watch?v=DlWxqU3LLpY)                                    |
 | Data Structures: Hash Tables [HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)                                    |
 | Data Structures and Algorithms [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H)       |
 | Linked Lists for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Hj\_rA0dhr2I)          |
