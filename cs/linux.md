@@ -276,6 +276,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | **gnome-look(**[**s**](https://www.gnome-look.org/browse/cat/)**, )**                                                | **GNOME Shell Extensions(**[**s**](https://extensions.gnome.org)**, )** |
 | Give Your GNOME Desktop The Wow Factor Nord Color Pallete [Linux Scoop](https://www.youtube.com/watch?v=Z9NeWoDN7wc) |                                                                         |
+| GNOME Customization [Arc Technologies](https://www.youtube.com/watch?v=gx1hEQSOAyg)                                  |                                                                         |
 
 ## 运维
 
