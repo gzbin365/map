@@ -343,6 +343,7 @@ Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?l
 | Computer Science [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)                                                                                          |
 | Exploring How Computers Work [Sebastian Lague](https://www.youtube.com/watch?v=QZwneRb-zqA)                                                                                                       |
 | Introduction to Programming and Computer Science - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=zOjov-2OZ0E)                                                                        |
+| CS547 - Human-Computer Interaction Seminar Series [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD)                                                      |
 |                                                                                                                                                                                                   |
 
 PKUanonym/[REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
