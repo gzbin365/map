@@ -84,6 +84,10 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ) |
 | 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)     |
 
+### Revit
+
+Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course] [freeCodeCamp](https://www.youtube.com/watch?v=hEAg47jdYMs)
+
 ## 动画 Animated
 
 |   |   |
