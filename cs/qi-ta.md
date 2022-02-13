@@ -228,7 +228,7 @@
 | Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                      |
 | Python Online Multiplayer Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=McoDjOCb2Zo)                                                 |
 | Code a 2D Game Engine using Java [freeCodeCamp](https://www.youtube.com/watch?v=025QFeZfeyM)                                                                    |
-|                                                                                                                                                                 |
+| Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 
 ### 虚幻引擎 Unreal Engine
 
