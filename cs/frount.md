@@ -254,6 +254,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Bootstrap CSS Framework - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE)                                                                            |
 | CSS Crash Course Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=r1xBCi5SOjw)                                                                                                      |
 | 網頁前端工程入門：基礎 CSS 教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=Jr7lwHnTK68)                                                                                                              |
+| Create a Design System with CSS - Web Development Course [freeCodeCamp](https://www.youtube.com/watch?v=lRaL-8qZ0mM)                                                                       |
 
 ## JavaScript
 
@@ -262,7 +263,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | **JavaScript Learning Space(**[**quora**](https://jslearninglibrary.quora.com)**, )**                                                                                                        |
 | **JavaScript Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3\_ZA8h3AO2rXar-q2V)**)**                                                              |
 | Learn JavaScript by Building 7 Games - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=lhNdUVh3qCc)                                                                               |
-| Build 15 JavaScript Projects - Vanilla JavaScript Course [**freeCodeCamp**](https://www.youtube.com/watch?v=3PHXvlpOkf4)\*\*\*\*                                                             |
+| Build 15 JavaScript Projects - Vanilla JavaScript Course [**freeCodeCamp**](https://www.youtube.com/watch?v=3PHXvlpOkf4)                                                                     |
 | JavaScript Array Methods Practice [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZGZXFb\_1tcRKwtCavR7AfT)                                                                 |
 | JavaScript Programming - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)                                                                                             |
 | Learn JavaScript - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)                                                                                     |
@@ -287,6 +288,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Build a Portfolio Website & Deploy [Traversy Media](https://www.youtube.com/watch?v=r\_hYR53r61M)                                                                                            |
 | Designing & Building a Personal Portfolio from SCRATCH! [DesignCourse](https://www.youtube.com/watch?v=9iUJJHEIpls)                                                                          |
 | Let’s learn JavaScript fundamentals! #1 \[Free JS Bootcamp] [Class Central](https://www.youtube.com/watch?v=mdXonjilZew)                                                                     |
+| 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                                                                                     |
 
 ### TypeScript
 

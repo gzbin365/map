@@ -447,7 +447,7 @@ Computer Components？Computer Architecture？
 | Functional Programming & Haskell - [Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)                               |
 | What is a Monad? - [Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)                                               |
 | Why Isn't Functional Programming the Norm? – Richard Feldman　[Metosin](https://www.youtube.com/watch?v=QyJZzq0v7Z4)           |
-|                                                                                                                               |
+| 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                      |
 
 ## 编程范式
 
