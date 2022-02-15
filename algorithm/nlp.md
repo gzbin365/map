@@ -84,6 +84,7 @@ LDA 文档聚类 plsa lsa
 | NLTK with Python 3 for Natural Language Processing [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)                                                                                                        |
 | Natural Language Processing (NLP) Tutorial with Python & NLTK [freeCodeCamp](https://www.youtube.com/watch?v=X2vAabgKiuM)                                                                                                                     |
 | Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
+| NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
 
 #### Data Application Lab
 
