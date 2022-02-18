@@ -59,6 +59,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                 |
 | imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                           |
 | 百度 api                                                                                                                                 |
+| Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux            |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
