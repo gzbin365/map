@@ -176,6 +176,8 @@
 | 【Unity】3小时制作一个游戏 ｜ Unity 游戏开发初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=nPW6tKeapsM)                                                    |
 | How to Make Oculus Quest 2 Games // Introduction to Unity VR Development [Justin P Barnett - VR Game Dev](https://www.youtube.com/watch?v=wnn-dzHz-tA) |
 | Unity 十分钟快速入门 [奇乐编程学院](https://www.youtube.com/watch?v=5azG7\_Yzq9o)                                                                                   |
+| Make Pong With Python! [Tech With Tim](https://www.youtube.com/watch?v=vVGTZlnnX3U)                                                                    |
+|                                                                                                                                                        |
 
 ## Game Programming
 
