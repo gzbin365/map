@@ -67,16 +67,18 @@
 | **TorrentGalaxy(**[**s**](https://torrentgalaxy.to)**,** [**tw**](https://twitter.com/tgxsocial)**,** [**fb**](https://www.facebook.com/tgxsocial1)**,** [**ins**](https://www.instagram.com/tgxsocial)**, )** | **BitComet(比特彗星)(**[**s**](https://www.bitcomet.com/cn)**, )**     |
 | [**2021年十大热门BT(BitTorrent)种子网站榜单**](http://www.usbmi.com/5991.html)                                                                                                                                            |                                                                    |
 
-| OBS                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 「OBS大师教程」教你如何提高OBS直播录制视频质量 超详细 [LoiseTech](https://www.youtube.com/watch?v=cWt9Bcaw8FY)                                                        |
-| 最全面易懂OBS电脑录屏教程001 [八餐饭](https://www.youtube.com/watch?v=wGn2cAyU9Qw\&t=147s)                                                                   |
-| obs录屏设置对比测试——看看如何才能录制到高质量的桌面视频\|OBS screen record test——how to setup to get HD video. [CHANNEL-G](https://www.youtube.com/watch?v=G8eTp4ji6Go) |
-| 在中国如何通过OBS推流到Twitch Youtube Facebook【2020年8月9日】最新 [WenteCatTV](https://www.youtube.com/watch?v=51NltC5nzdA)                                    |
-| 使用 OBS 錄製線上教學 + 打造個性化直播平台！還沒上車的趕快喔 ～ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=GFJQLY3ldGs)                                                |
-| 使用 OBS 直播 GoogleMeet 視訊會議之音訊及視訊整合教學 [Jung-Yu Yu](https://www.youtube.com/watch?v=OZpsjbMPT5k)                                                  |
-| [b站教程](https://member.bilibili.com/platform/home?spm\_id\_from=444.41.b\_696e7465726e6174696f6e616c486561646572.14)                            |
-| MP4 Video as a Virtual Webcam - Tutorial [Kian Brose](https://www.youtube.com/watch?v=hKLH\_V4qE\_0)                                           |
+| OBS                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 「OBS大师教程」教你如何提高OBS直播录制视频质量 超详细 [LoiseTech](https://www.youtube.com/watch?v=cWt9Bcaw8FY)                                                                              |
+| 最全面易懂OBS电脑录屏教程001 [八餐饭](https://www.youtube.com/watch?v=wGn2cAyU9Qw\&t=147s)                                                                                         |
+| obs录屏设置对比测试——看看如何才能录制到高质量的桌面视频\|OBS screen record test——how to setup to get HD video. [CHANNEL-G](https://www.youtube.com/watch?v=G8eTp4ji6Go)                       |
+| 在中国如何通过OBS推流到Twitch Youtube Facebook【2020年8月9日】最新 [WenteCatTV](https://www.youtube.com/watch?v=51NltC5nzdA)                                                          |
+| 使用 OBS 錄製線上教學 + 打造個性化直播平台！還沒上車的趕快喔 ～ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=GFJQLY3ldGs)                                                                      |
+| 使用 OBS 直播 GoogleMeet 視訊會議之音訊及視訊整合教學 [Jung-Yu Yu](https://www.youtube.com/watch?v=OZpsjbMPT5k)                                                                        |
+| [b站教程](https://member.bilibili.com/platform/home?spm\_id\_from=444.41.b\_696e7465726e6174696f6e616c486561646572.14)                                                  |
+| MP4 Video as a Virtual Webcam - Tutorial [Kian Brose](https://www.youtube.com/watch?v=hKLH\_V4qE\_0)                                                                 |
+| 🔴 How to use OBS for Screen Recording or Streaming - Beginner Tutorial [Kevin Stratvert](https://www.youtube.com/watch?v=ySENWFIkL7c)                               |
+| <p>How to Set Up a YouTube Studio at home (Camera, Audio, Lighting &#x26; more!)</p><p><a href="https://www.youtube.com/watch?v=w10VrtEJ8ts">Kevin Stratvert</a></p> |
 
 ## 学习方法
 
