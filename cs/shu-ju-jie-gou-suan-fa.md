@@ -162,10 +162,11 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 
 ## 大O复杂性 Big O Complexity
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5) |
-| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                      |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5)   |
+| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                        |
+| Big O Notation & Time Complexity Analysis Tutorial [Tech With Tim](https://www.youtube.com/watch?v=6aDHWSNKlVw) |
 
 ## 二进制 Binary
 
