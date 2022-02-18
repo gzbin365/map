@@ -16,12 +16,15 @@ Python实现语音合成 **** [zminoooooo](https://www.bilibili.com/video/BV1gu4
 
 Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/)
 
-|                                                                                                                                                                                                                                                                                             |                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Valerio Velardo - The Sound of AI([u](https://www.youtube.com/c/ValerioVelardoTheSoundofAI/featured), [medium](https://medium.com/the-sound-of-ai), [linkedin](https://www.linkedin.com/in/valeriovelardo), [fb](https://www.facebook.com/TheSoundOfAI), [s](https://valeriovelardo.com), ) | Valerio Velardo |
-| Deep Learning (for Audio) with Python([ulist](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf), )                                                                                                                                                                  |                 |
-| speech recognition [pixeldev](https://www.youtube.com/playlist?list=PLsaLbFPkNd55uUF-MpQ7RtldorYYR\_CeT)                                                                                                                                                                                    |                 |
-| [讯飞听见](https://www.iflyrec.com)                                                                                                                                                                                                                                                             |                 |
+|                                                                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Valerio Velardo - The Sound of AI([u](https://www.youtube.com/c/ValerioVelardoTheSoundofAI/featured), [medium](https://medium.com/the-sound-of-ai), [linkedin](https://www.linkedin.com/in/valeriovelardo), [fb](https://www.facebook.com/TheSoundOfAI), [s](https://valeriovelardo.com), )                    |
+| Deep Learning (for Audio) with Python([ulist](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf), )                                                                                                                                                                                     |
+| speech recognition [pixeldev](https://www.youtube.com/playlist?list=PLsaLbFPkNd55uUF-MpQ7RtldorYYR\_CeT)                                                                                                                                                                                                       |
+| [讯飞听见](https://www.iflyrec.com)                                                                                                                                                                                                                                                                                |
+| Audacity [s](https://www.audacityteam.org) [v](https://www.youtube.com/watch?v=P30suV1UdSY) [doc](https://manual.audacityteam.org/#) shop 音频处理软件 [v](https://www.youtube.com/playlist?list=PLlKpQrBME6xKm9iJlVHWbJd\_xAvtAQy6W) [v](https://www.youtube.com/playlist?list=PLMoVDOzX4VcQGOySLj7TO3ab0g1eIzJYq)  |
+| aeneas s [git](https://github.com/readbeyond/aeneas) [doc](https://www.readbeyond.it/aeneas/) 用于自动同步音频和文本（也称为强制对齐）的工具                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                |
 
 ***
 
@@ -41,6 +44,27 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How to Convert Speech To Text In Python \| Speech Recognition Library \| 10 Lines Of Code [Know-How](https://www.youtube.com/watch?v=ifey3EnhB-g)       |
 | How To Convert Text To Speech In Python \| pyttsx3 Library \| Basics Of Artificial Intelligence [Know-How](https://www.youtube.com/watch?v=6Za0ztPMr8g) |
+
+## 语音合成 SpeechSynthesis
+
+## **TTS  Text to Speech**
+
+|                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| VoiceMaker [s](https://voicemaker.in) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                 |
+| NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                   |
+| narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming |
+| play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                     |
+| IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                         |
+| chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                 |
+| imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                           |
+| 百度 api                                                                                                                                 |
+
+|                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ekho [s](https://www.eguidedog.net/ekho.php) [git](https://github.com/hgneng/ekho) 支持linux [为Ekho添加新的声音](http://eguidedog.net/doc/doc\_make\_new\_voice\_cn.php)  [linuxInstall](https://www.eguidedog.net/doc/doc\_install\_ekho.php) [2](https://blog.csdn.net/cceking/article/details/51760732)  [编译安装](https://blog.csdn.net/AMDS123/article/details/73825409) |
+| TTS技术简单介绍和Ekho（余音）TTS的安装与编程 [csdn](https://blog.csdn.net/zouxy09/article/details/7909154)                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Voice Assistant
 
