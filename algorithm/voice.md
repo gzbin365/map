@@ -49,17 +49,20 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 
 ## **TTS  Text to Speech**
 
-|                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| VoiceMaker [s](https://voicemaker.in) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                 |
-| NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                   |
-| narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming |
-| play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                     |
-| IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                         |
-| chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                 |
-| imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                           |
-| 百度 api                                                                                                                                 |
-| Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux            |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| VoiceMaker [s](https://voicemaker.in) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                          |
+| NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                                            |
+| narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming                          |
+| play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                                              |
+| IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                                                  |
+| chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                                          |
+| imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                                                    |
+| 百度 api                                                                                                                                                          |
+| Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux                                     |
+| ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                              |
+| espeak [s](http://espeak.sourceforge.net/index.html)                                                                                                            |
+| ubuntu完美安装espeak支持中文和粤语 [csdn](https://blog.csdn.net/qq\_24406903/article/details/89811732)   caixxiong/[espeak-data](https://github.com/caixxiong/espeak-data) |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
