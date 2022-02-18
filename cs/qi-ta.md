@@ -474,7 +474,7 @@
 | ---------------------------------------------------------------------------------------------------- |
 | Windows10 + Linux 双系统安装教程, Manjaro保姆级教程 【单硬盘】 \| [零度解说](https://www.youtube.com/watch?v=jemh7iCyVoE) |
 
-## 按键精灵
+## 按键精灵 Robotic Process Automation(RPA)
 
 |                                                                               |                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -499,6 +499,22 @@
 | AutoHotkey [reddit](https://www.reddit.com/r/AutoHotkey/) |
 |                                                           |
 |                                                           |
+
+<details>
+
+<summary>RPA 大數軟體有限公司</summary>
+
+\[[RPA](https://www.youtube.com/watch?v=WMbqkaVYs9w)]如何用PyAutoGUI 建立Python 版的按鍵精靈?
+
+\[[RPA](https://www.youtube.com/watch?v=ZewgaiudaaI)] 如何使用 PyAutoGUI 突破 reCAPTCHA 順利下載櫃買中心券商買賣證券日報表?
+
+\[[RPA](https://www.youtube.com/watch?v=Z8i5kKabFj8)] 如何使用 img2pdf 將圖檔合併成 pdf 檔 ?
+
+\[[RPA](https://www.youtube.com/watch?v=U7vaLBuDeSI)] 如何使用 Line Notify 取得第一手通知?
+
+\[[RPA](https://www.youtube.com/watch?v=pI3FDACJFAs)] 如何透過 Line 發送最新一集的漫畫?
+
+</details>
 
 ## 杂
 
