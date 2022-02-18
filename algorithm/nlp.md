@@ -191,3 +191,11 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | [PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版）](https://www.bookstack.cn/books/nlp-pytorch-zh) |
 | **兜哥带你NLP入门（自然语言处理入门）(**[**书栈**](https://www.bookstack.cn/books/duoergun0729-nlp)**, )**                      |
 | **Neural Networks from Scratch(**[**sentdex**](https://nnfs.io)**, )**                                        |
+
+## 其他
+
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)     |
+| The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                             |
+| brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料 |
