@@ -743,13 +743,14 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                               |
 |                                                                                                               |
 
-### 机器学习自动化调参
+### AutoML 机器学习自动化调参
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | 机器学习自动化调参 [Ouyang Ruofei](https://www.youtube.com/watch?v=xcW0qYNyaQQ)                                                        |
 | 神经网络结构搜索 Neural Architecture Search [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns3\_5ONDa-EnTZgIO41\_hXf) |
 | 神经网络（十二） 自动神经网络（AutoML）与网络架构搜索（NAS） [技术喵](https://www.youtube.com/watch?v=SY3wQd9O2-Q)                                        |
+| Hyperparameter Tuning in Python with GridSearchCV [NeuralNine](https://www.youtube.com/watch?v=eZ98q7iOUAA)                   |
 
 
 
