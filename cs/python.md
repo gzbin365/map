@@ -630,6 +630,8 @@ Python高性能编程
 | 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
 | 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)     |
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)  |
+| sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                     |
+|                                                                                                                      |
 
 ## 网络编程
 
