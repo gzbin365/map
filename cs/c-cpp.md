@@ -21,6 +21,7 @@
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C++ Programming Course - Beginner to Advanced [freeCodeCamp](https://www.youtube.com/watch?v=8jLOx1hD3\_o)                                                       |
 | C++ Programming Tutorial for Beginners (For Absolute Beginners) [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) |
 | [**Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework)** ](https://www.youtube.com/watch?v=i\_Iq4\_Kd7Rc)**freeCodeCamp 5:03:46**                   |
 | **C++ Programming All-in-One Tutorial Series (10 HOURS!)(**[**Caleb Curry**](https://www.youtube.com/watch?v=\_bYFu9mBnr4)**)**                                  |
