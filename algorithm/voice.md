@@ -28,7 +28,13 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 
 ***
 
-## **Speech to Text**
+## **Speech to Text /** Speech Recognition
+
+|                                                                                                                                                                            |                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4) | PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)**** |
+|                                                                                                                                                                            |                                                                                 |
+|                                                                                                                                                                            |                                                                                 |
 
 ### **NVIDIA JARVIS**
 
