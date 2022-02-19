@@ -200,4 +200,5 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 👍 Finally, my review of Grokking Algorithms 📖 [Python Programmer](https://www.youtube.com/watch?v=BBjOIUvQk70) |
 | 数据结构与算法之美 book [v](https://www.douyin.com/video/7027487956168428840)                                             |
 | nonstriater/[Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) 算法学习笔记                           |
+| lydrainbowcat/[tedukuri](https://github.com/lydrainbowcat/tedukuri)   《算法竞赛进阶指南》资源社区                             |
 |                                                                                                                  |
