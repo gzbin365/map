@@ -105,7 +105,7 @@ LDA 文档聚类 plsa lsa
 |                                                                               |
 |                                                                               |
 
-### Natural Language Understanding
+### 自然语言理解 Natural Language Understanding
 
 Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](https://www.youtube.com/watch?v=5UTOC8eSvP8\&list=PLtrSb4XxIVbr-9nNlAenDsaB8xscDTeA6\&index=12)
 
