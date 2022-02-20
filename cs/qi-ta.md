@@ -490,6 +490,8 @@
 | 按键精灵编程有技术含量吗 [zh](https://www.zhihu.com/question/19896140)                                                                                                          |
 | RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)RPA脚本课程 脚本哥RPA脚本课程 脚本哥                                                     |
 | \[python]游戏脚本开发玩爆其他脚本语言 [r\_ yifei](https://www.youtube.com/playlist?list=PLgSLKrxik0MZEZ8arxA\_73LBwYEtHVEVr)                                                      |
+| 用Python制作游戏脚本、黑客工具 [Python学习者](https://www.youtube.com/watch?v=sLDuC5VZv8w)                                                                                         |
+| Python永远的神，实战开发游戏内存辅助！ [Python编程学习交流](https://www.youtube.com/watch?v=sA976R4tMds)                                                                                  |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
