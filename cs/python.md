@@ -704,6 +704,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)  |
 | 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
 | Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                  |
+| 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                          |
 
 ## Book
 
