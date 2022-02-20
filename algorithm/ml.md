@@ -590,6 +590,8 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Optimizers - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=mdKjMPmcWjY)                                                      |
 | Liquid Neural Networks [MITCBMM](https://www.youtube.com/watch?v=IlliqYiRhMU)                                                            |
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z) |
+| How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                    |
+| 深度神经网络的工作原理 [Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)                                                                |
 
 ### RNN Recurrent Neural Networks
 

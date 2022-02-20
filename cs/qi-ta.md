@@ -19,12 +19,13 @@
 
 ## Golang
 
-| **Golang**                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------- |
-| **Golang 修养之路 (**[**书栈**](https://www.bookstack.cn/books/aceld-golang)**, )**                                     |
-| Learn Go Programming - Golang Tutorial for Beginners([freeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU)) |
-| Golang [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_Sf83gH\_taWPKlRipjGiWLfO)                    |
-| Go Beginner Project Tutorial - Learn Golang [Tech With Tim](https://www.youtube.com/watch?v=LHhsNa\_Kgns)         |
+| **Golang**                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------ |
+| **Golang 修养之路 (**[**书栈**](https://www.bookstack.cn/books/aceld-golang)**, )**                                      |
+| Learn Go Programming - Golang Tutorial for Beginners([freeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU))  |
+| Golang [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_Sf83gH\_taWPKlRipjGiWLfO)                     |
+| Go Beginner Project Tutorial - Learn Golang [Tech With Tim](https://www.youtube.com/watch?v=LHhsNa\_Kgns)          |
+| Golang Tutorial for Beginners \| Full Go Course [TechWorld with Nana](https://www.youtube.com/watch?v=yyUHQIec83I) |
 
 ## Go
 
