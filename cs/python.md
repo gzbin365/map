@@ -599,6 +599,7 @@ Python高性能编程
 | Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                 |
 | RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)           |
 | Python REST API Tutorial - Building a Flask REST API [Tech With Tim](https://www.youtube.com/watch?v=GMppyAPbLYk)                   |
+| REST API Crash Course - Introduction + Full Python API Tutorial [Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)          |
 | Flask Course - Python Web Application Development [freeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)                       |
 | 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                         |
 | Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                   |
