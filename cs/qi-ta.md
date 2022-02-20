@@ -489,6 +489,7 @@
 | 紫猫学院第二期按键精灵基础教程 [Slientlif3](https://www.bilibili.com/video/BV1v4411W7LP?from=search\&seid=7553589220515421545\&spm\_id\_from=333.337.0.0)                          |
 | 按键精灵编程有技术含量吗 [zh](https://www.zhihu.com/question/19896140)                                                                                                          |
 | RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)RPA脚本课程 脚本哥RPA脚本课程 脚本哥                                                     |
+| \[python]游戏脚本开发玩爆其他脚本语言 [r\_ yifei](https://www.youtube.com/playlist?list=PLgSLKrxik0MZEZ8arxA\_73LBwYEtHVEVr)                                                      |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
