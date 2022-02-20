@@ -595,6 +595,7 @@ Python高性能编程
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)               |
+| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                       |
 | 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                               |
 | Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                 |
 | RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)           |
