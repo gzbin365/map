@@ -111,7 +111,7 @@ AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | Facebook Research / Meta Research [git](https://github.com/facebookresearch) [s](https://research.facebook.com) |
-|                                                                                                                 |
+| Meta Developers [u](https://www.youtube.com/c/FacebookDevelopers/featured)                                      |
 |                                                                                                                 |
 
 ### Oracle
