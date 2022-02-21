@@ -18,9 +18,9 @@ description: 自然语言处理
 
 ## 数据集
 
-|                                                                            |   |
-| -------------------------------------------------------------------------- | - |
-| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) |   |
+|                                                                            |                               |
+| -------------------------------------------------------------------------- | ----------------------------- |
+| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) | 句子汇 [s](http://www.juzih.com) |
 
 ## **算法**
 
