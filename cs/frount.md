@@ -357,7 +357,7 @@ Build fast, responsive sites with [Bootstrap](https://getbootstrap.com)
 | ------------------------------------------------------------------------------------------------------- | - |
 | 麦子学院-学习UX第一季-轻松入门 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoSfamdorZTUfJRk4CW\_kQ) |   |
 
-## UI
+## UI   User Interface
 
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 

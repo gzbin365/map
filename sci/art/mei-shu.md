@@ -23,7 +23,7 @@
 | 设计工具使用教程 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9slzC1GuYKEyYBGG48hVr4L)                                               |
 | Graphic Design Series [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9sdOjMZNcCkIdTXzJpf7GTu)                                  |
 | AWORKZON品牌作品案例 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9t2w\_Yf6wO-3QC8aUTv7J5d)                                        |
-| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)                                                        |
+| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface                                        |
 | 设计色彩基础 色彩理论基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYJG0HA7DG0KtRkN5xc1Vgh)                                             |
 | 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                     |
 | 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                 |
