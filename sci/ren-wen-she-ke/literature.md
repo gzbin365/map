@@ -63,15 +63,16 @@
 | Go With Foreign Language [u](https://www.youtube.com/channel/UC6\_yO5\_oQfwelde0uEKiSZg)                       | 郭德纲Guodegang Official [u](https://www.youtube.com/channel/UC7WcLS3wECJDUW0M0I33pvQ/videos)                                                                                                                                                                                                    |
 | [喜马讲书](https://www.youtube.com/channel/UCe5yaxUrR87kAwiGOphSAig/playlists)                                     | 维尼读书 [u](https://www.youtube.com/channel/UC4QYUbIvTg0lntnGhqAn8-w/playlists)                                                                                                                                                                                                                  |
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| 逆天邪神有声小说-----广播剧 [豚豚](https://www.youtube.com/playlist?list=PL-ZVML-sr0EUORjnaElxeiTwCUHd1wOj9)            |
-| 《红楼梦》的空间艺术 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wMZ-89Cy6fxfliOEru1tCk) |
-| 逆天邪神 [樂文光影](https://www.youtube.com/playlist?list=PLgHhq8n1\_ZKLZnPl8rRYdekjU1Lr77Vvf)                     |
-| 武煉巔峯 [买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLr05iRO0-XJffkC5CKSKWc6)                     |
-| 武神主宰（同名動畫原著）[买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLp26E-puTaK3JQUcNUVeU4U)              |
-| 簡·愛 [Go With Foreign Language](https://www.youtube.com/watch?v=adESrVgFKIU\&t=0s)                          |
-| 最后一个捞偏传人 [笔趣阁](https://www.biqugeabc.com/book/625272.html)                                                 |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| 逆天邪神有声小说-----广播剧 [豚豚](https://www.youtube.com/playlist?list=PL-ZVML-sr0EUORjnaElxeiTwCUHd1wOj9)                            |
+| 《红楼梦》的空间艺术 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wMZ-89Cy6fxfliOEru1tCk)                 |
+| 逆天邪神 [樂文光影](https://www.youtube.com/playlist?list=PLgHhq8n1\_ZKLZnPl8rRYdekjU1Lr77Vvf)                                     |
+| 武煉巔峯 [买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLr05iRO0-XJffkC5CKSKWc6)                                     |
+| 武神主宰（同名動畫原著）[买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLp26E-puTaK3JQUcNUVeU4U)                              |
+| 簡·愛 [Go With Foreign Language](https://www.youtube.com/watch?v=adESrVgFKIU\&t=0s)                                          |
+| 最后一个捞偏传人 [笔趣阁](https://www.biqugeabc.com/book/625272.html)                                                                 |
+| 阿西莫夫科幻小说系列 Isaac Asimov [幻海航行--science fiction](https://www.youtube.com/playlist?list=PLkz\_-SLZY0iDSK-jBKylS-gbVnr4fku2L) |
 
 |                                                                                  |
 | -------------------------------------------------------------------------------- |
