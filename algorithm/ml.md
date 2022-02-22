@@ -783,11 +783,12 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 
 ### A/B testing
 
-|                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| 5 concepts of A/B testing you should know as a Data Scientist [CodeEmporium](https://www.youtube.com/watch?v=0cyRCcCNVbs) |
-| AB Testing概览 [课代表立正](https://www.youtube.com/watch?v=vx15aj-ah1c)                                                         |
-| A/B Testing：轻松Pass二轮面试！AB 测试具体步骤及参数详解，附具体案例演示及结论分析 [Data Application Lab](https://www.youtube.com/watch?v=YJeWrniW48k)    |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| 5 concepts of A/B testing you should know as a Data Scientist [CodeEmporium](https://www.youtube.com/watch?v=0cyRCcCNVbs)    |
+| AB Testing概览 [课代表立正](https://www.youtube.com/watch?v=vx15aj-ah1c)                                                            |
+| A/B Testing：轻松Pass二轮面试！AB 测试具体步骤及参数详解，附具体案例演示及结论分析 [Data Application Lab](https://www.youtube.com/watch?v=YJeWrniW48k)       |
+| A/B Testing面试干货： 一个你以为你会但总挡住你拿offer的必学知识点 - A/B测试（第427期） [Data Application Lab](https://www.youtube.com/watch?v=RoRT7O-6HE4) |
 
 ### CTC
 
