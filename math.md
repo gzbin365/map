@@ -1126,6 +1126,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | **Learn Mathematics from START to FINISH(**[**The Math Sorcerer**](https://www.youtube.com/watch?v=pTnEG\_WGd2Q)**)**           |
 | [数学地图](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)(DoS - Domain of Science)                                                    |
 | 神奇的零知识证明！既能保守秘密，又让别人信你！([李永乐老师](https://www.youtube.com/watch?v=FuKEpOhiVPg\&t=1s))                                             |
+| Computer Scientist Explains One Concept in 5 Levels of Difficulty \| [WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)       |
 | [Intuitive maths](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmwxSL\_xZKNq6MSEjAMKcmT) Yinan Zuo                         |
 | [【万门大学】五分钟数学漫谈](https://www.youtube.com/playlist?list=PL0GyqFMD-UCEHjnq0cwgI2XFBf7bEcI8K)                                       |
 | 数学家研究了几百年的问题：[悬链线](https://www.youtube.com/watch?v=l6CUgVc-fZg)   [v](https://www.youtube.com/watch?v=1sr6NlbDVig)              |
