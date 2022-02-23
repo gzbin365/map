@@ -114,11 +114,11 @@
 
 ## utools
 
-|                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [s](https://u.tools) [v](https://www.douyin.com/video/7035994224096972070) [doc](https://u.tools/docs/guide/about-uTools.html#%E4%B8%80%E5%88%87%E7%9A%86%E6%8F%92%E4%BB%B6) [B](https://space.bilibili.com/395978728) [猿料](https://yuanliao.info) [插件开发](https://u.tools/docs/developer/welcome.html) |
-| mohuishou/[utools](https://github.com/mohuishou/utools) utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [s](https://u.tools) [v](https://www.douyin.com/video/7035994224096972070) [doc](https://u.tools/docs/guide/about-uTools.html#%E4%B8%80%E5%88%87%E7%9A%86%E6%8F%92%E4%BB%B6) [B](https://space.bilibili.com/395978728) [猿料](https://yuanliao.info) [插件开发](https://u.tools/docs/developer/welcome.html)   [uTools 用户协议](https://u.tools/agreement.html) |
+| mohuishou/[utools](https://github.com/mohuishou/utools) utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                        |
 
 ## 其他
 
