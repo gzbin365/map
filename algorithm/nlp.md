@@ -118,6 +118,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Build A Smart AI Chat Bot Using Python & Machine Learning [Computer Science](https://www.youtube.com/watch?v=9KZwRBg4-P0)   [list](https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv)                                     |
 | Build A Simple Chat Bot GUI Using Python [Computer Science](https://www.youtube.com/watch?v=j56RiHtqHYs)                                                                                                                                         |
 | Facebook Messenger Chatbot Tutorial using Python [git](https://github.com/sachitad/Image-Resize-Bot-Tutorial) [1](https://www.youtube.com/watch?v=chrMMPNr65s) [2-5](https://www.youtube.com/playlist?list=PLzYhaL0-zg4V\_4EMv\_BYHHENjYdJhbEQm) |
+| Build your own chatbot using Python \| Python Tutorial for Beginners in 2022 \| [Great Learning](https://www.youtube.com/watch?v=c\_gXrw1RoKo)   using NLTK                                                                                      |
 | How to create a Messenger Bot [Meta Developers](https://www.youtube.com/watch?v=4NG2WqLYV-A)                                                                                                                                                     |
 | Chatfuel vs ManyChat - What's the difference between these 2 bot building platforms? [CodelessBot](https://www.youtube.com/watch?v=\_q\_7JdBa2vo)                                                                                                |
 | Creating a Facebook Messenger chatbot using Dialogflow [wiredmartian](https://www.youtube.com/watch?v=4FZAtfP96iE)                                                                                                                               |
@@ -157,12 +158,21 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                |
 |                                                                                                |
 
-| 微信机器人                                                                                        |
-| -------------------------------------------------------------------------------------------- |
-| wux-weapp/[wxbot](https://github.com/wux-weapp/wxbot)                                        |
-| youfou/[wxpy](https://github.com/youfou/wxpy)                                                |
-| 微信群机器人是怎么实现的？[zh](https://www.zhihu.com/question/46891356)                                   |
-| 4行Python代码制作微信聊天机器人，简直和真人聊天模式太像了！[Python编程学习交流](https://www.youtube.com/watch?v=rerRTqc0PQ0) |
+| 微信机器人                                                                                               |
+| --------------------------------------------------------------------------------------------------- |
+| wux-weapp/[wxbot](https://github.com/wux-weapp/wxbot)                                               |
+| youfou/[wxpy](https://github.com/youfou/wxpy)                                                       |
+| 微信群机器人是怎么实现的？[zh](https://www.zhihu.com/question/46891356)                                          |
+| 4行Python代码制作微信聊天机器人，简直和真人聊天模式太像了！[Python编程学习交流](https://www.youtube.com/watch?v=rerRTqc0PQ0)        |
+| Python开发教程：Python微信自动回复之接收微信好友发送的信息 [楚阳](https://www.youtube.com/watch?v=0bpJIKZ\_LXI) using itchat |
+
+| Facebook Messenger Bot                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Messenger 平台 [s](https://developers.facebook.com/docs/messenger-platform)                                                                                                                   |
+| ManyChat [u](https://www.youtube.com/c/ManyChat/playlists) [s](https://manychat.com)                                                                                                        |
+| CodelessBot [u](https://www.youtube.com/c/CodelessBot/playlists) [s](https://www.codelessbot.com)                                                                                           |
+| How to create a Messenger Bot [Meta Developers](https://www.youtube.com/watch?v=4NG2WqLYV-A) [s](https://developers.facebook.com/docs/messenger-platform/getting-started/sample-experience) |
+|                                                                                                                                                                                             |
 
 | **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
