@@ -592,23 +592,25 @@ Python高性能编程
 
 ### Web app
 
-|                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)               |
-| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                       |
-| 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                               |
-| Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                 |
-| RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)           |
-| Python REST API Tutorial - Building a Flask REST API [Tech With Tim](https://www.youtube.com/watch?v=GMppyAPbLYk)                   |
-| REST API Crash Course - Introduction + Full Python API Tutorial [Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)          |
-| Flask Course - Python Web Application Development [freeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)                       |
-| 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                         |
-| Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                   |
-| python Tornado [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb8BGGU7JgaTAZBGHOGAmDa)                                    |
-| Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                    |
-| Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI) |
-| Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)             |
-| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                             |
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)                                     |
+| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                             |
+| 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                                                     |
+| Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                                       |
+| RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)                                 |
+| Python REST API Tutorial - Building a Flask REST API [Tech With Tim](https://www.youtube.com/watch?v=GMppyAPbLYk)                                         |
+| REST API Crash Course - Introduction + Full Python API Tutorial [Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)                                |
+| NestJs Course for Beginners - Create a REST API [freeCodeCamp](https://www.youtube.com/watch?v=GHTA143\_b-s)                                              |
+| Flask Course - Python Web Application Development [freeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)                                             |
+| 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                                               |
+| Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                                         |
+| python Tornado [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb8BGGU7JgaTAZBGHOGAmDa)                                                          |
+| Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                                          |
+| Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI)                       |
+| Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)                                   |
+| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                   |
+| I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE) |
 
 ## Video Image Editing
 

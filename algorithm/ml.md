@@ -781,7 +781,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 
 神经网络的损失函数为什么是非凸的? [zh](https://www.zhihu.com/question/265516791)
 
-### A/B testing
+### AB测试 A/B testing
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -789,6 +789,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | AB Testing概览 [课代表立正](https://www.youtube.com/watch?v=vx15aj-ah1c)                                                            |
 | A/B Testing：轻松Pass二轮面试！AB 测试具体步骤及参数详解，附具体案例演示及结论分析 [Data Application Lab](https://www.youtube.com/watch?v=YJeWrniW48k)       |
 | A/B Testing面试干货： 一个你以为你会但总挡住你拿offer的必学知识点 - A/B测试（第427期） [Data Application Lab](https://www.youtube.com/watch?v=RoRT7O-6HE4) |
+| 商业分析师AB测试设计实战技巧，大厂Business Analyst为你实例解析AB Testing（第520期）[Data Application Lab](https://www.youtube.com/watch?v=ikj3ATga48U) |
 
 ### CTC
 
