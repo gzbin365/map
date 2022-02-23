@@ -159,6 +159,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | Data Structures: Hash Tables [HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)                                    |
 | Data Structures and Algorithms [CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H)       |
 | Linked Lists for Technical Interviews - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Hj\_rA0dhr2I)          |
+| Heaps & Priority Queues in Python [NeuralNine](https://www.youtube.com/watch?v=wGSQ486Y4sc)                               |
 
 ## 大O复杂性 Big O Complexity
 
