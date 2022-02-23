@@ -42,6 +42,7 @@
 | Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                              |
 | go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                       |
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                        |
+| Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8) |
 
 ## C\#
 

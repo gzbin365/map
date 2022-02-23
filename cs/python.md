@@ -415,7 +415,8 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                   |
 | Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                     |
 | 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)             |
-|                                                                                                                                         |
+| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                        |
+| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                 |
 |                                                                                                                                         |
 
 | book                                                                               |   |
