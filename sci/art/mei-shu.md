@@ -77,12 +77,13 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### blender
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)  |
-| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)             |
-| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ) |
-| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)     |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)                                            |
+| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)                                                       |
+| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ)                                           |
+| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)                                               |
+| Learn Blender 3.0 in 20 minutes \| Blender 3D Basics in 2022 for Absolute Beginners [DGreenhorn](https://www.youtube.com/watch?v=Rqhtw7dg6Wk) |
 
 ### Revit
 

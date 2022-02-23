@@ -352,6 +352,7 @@ description: 硬件设备
 | Stanford CS223A Intro to Robotics [homemediaplayer2](https://www.youtube.com/playlist?list=PL0F3F6708FB0900E1)                                            |
 | Sony toio可编程机器人 [v](https://www.douyin.com/video/7001428357162224909)                                                                                     |
 | Can we simulate a real robot? [sentdex](https://www.youtube.com/watch?v=phTnbmXM06g) Bittle                                                               |
+| Dobot MG400 Robotic Arm: my first impressions, demos and hardware overview. [UptimeFab](https://www.youtube.com/watch?v=6nGexb\_i0aM)                     |
 |                                                                                                                                                           |
 
 | 机器人三原则                                                                                      |

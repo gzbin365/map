@@ -99,6 +99,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Google拼音 [v](https://www.youtube.com/watch?v=A-tqejCn5XU) 推荐!!                              |   |
 | 搜狗拼音 v [help](https://pinyin.sogou.com/linux/help.php) [d](https://pinyin.sogou.com/linux/) |   |
 
+## 课
+
 |                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [**Linux Benchmarking and Speed Testing**](https://www.youtube.com/playlist?list=PLFxfbw6hcvOc6y48K6K-1-Tv8chR-MPIU)                                                                                                                 |
@@ -119,7 +121,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux经验技巧系列 [心灵手不巧](https://www.youtube.com/playlist?list=PLwYr3g44GVvF-WxXeEC7vDcA2-MNgSVX6)                                                                                                                                        |
 | Linux Leonard [Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHsjt3sagYb30SWEsUG6NGvE)                                                                                                                                      |
 | 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                                                                                                    |
-|                                                                                                                                                                                                                                      |
+| Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                                                                                                      |
 |                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                      |
 

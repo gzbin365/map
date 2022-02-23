@@ -260,6 +260,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Advanced JavaScript Crash Course 2022 [Codevolution](https://www.youtube.com/watch?v=R9I85RhI7Cg)                                                                                            |
 | **JavaScript Learning Space(**[**quora**](https://jslearninglibrary.quora.com)**, )**                                                                                                        |
 | **JavaScript Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3\_ZA8h3AO2rXar-q2V)**)**                                                              |
 | Learn JavaScript by Building 7 Games - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=lhNdUVh3qCc)                                                                               |

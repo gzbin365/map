@@ -386,6 +386,7 @@ Computer Components？Computer Architecture？
 | Computer Networking Complete Course - Beginner to Advanced [Geek's Lesson](https://www.youtube.com/watch?v=QKfk7YFILws)                                 |
 | 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                           |
 | How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                   |
+| Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                         |
 |                                                                                                                                                         |
 |                                                                                                                                                         |
 

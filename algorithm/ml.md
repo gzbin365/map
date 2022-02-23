@@ -489,6 +489,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | scikit-learn (sklearn) 0.21.3 官方文档中文版 ([书栈](https://www.bookstack.cn/books/sklearn-0.21.3), )                                                                       |
 | Scikit-Learn Python Tutorial \| Machine Learning with Scikit-learn [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq) |
 | Jake VanderPlas: Machine Learning with Scikit Learn [PyData](https://www.youtube.com/watch?v=HC0J\_SPm9co)                                                          |
+| Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc) [Keith Galli](https://www.youtube.com/watch?v=M9Itm95JzL0)      |
 
 ### 分类
 
@@ -765,6 +766,14 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | CVPR'20 Interpretable Machine Learning Tutorial [Bolei Zhou](https://www.youtube.com/playlist?list=PLySQw\_vQ73PzrWcY5W8HRNfr0aJQkyahl) |
 |                                                                                                                                         |
 |                                                                                                                                         |
+
+### 小样本学习 Few-Shot Learning
+
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| Meta Learning [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2) |
+|                                                                                                       |
+|                                                                                                       |
 
 ### 注意力
 

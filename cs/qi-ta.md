@@ -114,6 +114,7 @@
 | .NET Microservices – Full Course [Les Jackson](https://www.youtube.com/watch?v=DgVjEo3OGBI)                                        |
 | Learn ASP.NET Core MVC (.NET 6) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hZ1DASYd9rk)                          |
 | Razor Pages for ASP.NET Core - Full Course (.NET 6) [freeCodeCamp](https://www.youtube.com/watch?v=eru2emiqow0)                    |
+| .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                        |
 
 ## HTTP
 
@@ -179,7 +180,7 @@
 | How to Make Oculus Quest 2 Games // Introduction to Unity VR Development [Justin P Barnett - VR Game Dev](https://www.youtube.com/watch?v=wnn-dzHz-tA) |
 | Unity 十分钟快速入门 [奇乐编程学院](https://www.youtube.com/watch?v=5azG7\_Yzq9o)                                                                                   |
 | Make Pong With Python! [Tech With Tim](https://www.youtube.com/watch?v=vVGTZlnnX3U)                                                                    |
-|                                                                                                                                                        |
+| How I learned Unity without following tutorials [Game Maker's Toolkit](https://www.youtube.com/watch?v=vFjXKOXdgGo)                                    |
 
 ## Game Programming
 
