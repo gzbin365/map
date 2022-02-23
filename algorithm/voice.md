@@ -69,6 +69,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                              |
 | espeak [s](http://espeak.sourceforge.net/index.html)                                                                                                            |
 | ubuntu完美安装espeak支持中文和粤语 [csdn](https://blog.csdn.net/qq\_24406903/article/details/89811732)   caixxiong/[espeak-data](https://github.com/caixxiong/espeak-data) |
+| clipchamp [s](https://clipchamp.com/en/) [v](https://www.youtube.com/watch?v=TQDbtP5SB00) 语音需要从视频中提取                                                            |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
