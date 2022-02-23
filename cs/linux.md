@@ -269,6 +269,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | Kubernetes Tutorial for Beginners \[FULL COURSE in 4 Hours] [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)    |
 | Docker vs Kubernetes vs Docker Swarm \| Comparison in 5 mins [TechWorld with Nana](https://www.youtube.com/watch?v=9\_s3h\_GVzZc) |
 | you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                              |
+| How to Provision an AWS EKS Kubernetes Cluster with Terraform [Spacelift](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform) |
 
 ## GNOME
 
@@ -301,13 +302,13 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch)
 | DevOps Engineering Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=j5Zsa\_eOXeY)                                                                                                                                                                                  |
 | DevOps Prerequisites Course - Getting started with DevOps [freeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY)                                                                                                                                                                 |
 | How To Become a DevOps Engineer In Six Months or Less [1](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d) [2](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) medium |
-|                                                                                                                                                                                                                                                                                       |
-
+|Who is DevOps? Is it Worth it to Become a DevOps Engineer? [Spacelift](https://spacelift.io/blog/who-is-devops-engineer) |                                                                                                                                                                                                                                         
 |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac) |
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)               |
 | Infrastructure as Code - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=EtEb40LE5zQ)        |
+| What Is Infrastructure as Code? Examples, Best Practices & Tools [Spacelift](https://spacelift.io/blog/infrastructure-as-code) |
 
 ## Vim
 
