@@ -772,7 +772,9 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
 | Meta Learning [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2) |
-|                                                                                                       |
+| Meta Learning [Siraj Raval](https://www.youtube.com/watch?v=2z0ofe2lpz4)                              |
+| Meta-Learning and One-Shot Learning [macheads101](https://www.youtube.com/watch?v=KUWywwvQv8E)        |
+| Model Agnostic Meta Learning [Siavash Khodadadeh](https://www.youtube.com/watch?v=wT45v8sIMDM)        |
 |                                                                                                       |
 
 ### 注意力
@@ -875,7 +877,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | **神经网络与深度学习(**[**s**](http://neuralnetworksanddeeplearning.com)**,** [**翻译**](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh\_cn/content/)**, )**                                                     |
 | **HyperDL-Tutorial(**[**git**](https://github.com/zeusees/HyperDL-Tutorial)**,** [**书栈**](https://www.bookstack.cn/read/HyperDL-Tutorial/README.md)**, )**                                                               |
 | 周志华《机器学习》学习笔记 [书栈](https://www.bookstack.cn/books/Vay-keen-Machine-learning-learning-notes) [git](https://github.com/han1057578619/MachineLearning\_Zhouzhihua\_ProblemSets)                                             |
-| 南瓜书                                                                                                                                                                                                                      |
+| 南瓜书 datawhalechina/[pumpkin-book](https://github.com/datawhalechina/pumpkin-book) [s](https://datawhalechina.github.io/pumpkin-book)                                                                                     |
 | 机器学习实战（Machine Learning in Action） ([书栈](https://www.bookstack.cn/books/MachineLearning), )                                                                                                                              |
 | Interpretable Machine Learning ([书栈](https://www.bookstack.cn/books/interpretable-ml-book), )                                                                                                                            |
 | ML Kit 中文文档 ([书栈](https://www.bookstack.cn/books/MLkit-CN), )                                                                                                                                                            |
