@@ -115,6 +115,7 @@
 | Learn ASP.NET Core MVC (.NET 6) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hZ1DASYd9rk)                          |
 | Razor Pages for ASP.NET Core - Full Course (.NET 6) [freeCodeCamp](https://www.youtube.com/watch?v=eru2emiqow0)                    |
 | .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                        |
+| .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
 
 ## HTTP
 

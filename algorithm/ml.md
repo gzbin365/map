@@ -250,6 +250,8 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 ## **课程**
 
+Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Science [codebasics](https://www.youtube.com/watch?v=xucm6\_BQPJU)
+
 ### ML
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
