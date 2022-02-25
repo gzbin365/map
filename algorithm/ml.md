@@ -776,6 +776,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | Meta-Learning and One-Shot Learning [macheads101](https://www.youtube.com/watch?v=KUWywwvQv8E)        |
 | Model Agnostic Meta Learning [Siavash Khodadadeh](https://www.youtube.com/watch?v=wT45v8sIMDM)        |
 |                                                                                                       |
+|                                                                                                       |
 
 ### 注意力
 
@@ -965,4 +966,5 @@ ESL
 | MLEveryday/[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 机器学习100天 [en](https://github.com/Avik-Jain/100-Days-Of-ML-Code) [topic](https://github.com/topics/100-days-of-ml-code) [git](https://github.com/Vishal-V/100-Days-of-ML-Code) [git](https://github.com/llSourcell/100\_Days\_of\_ML\_Code) git |
 | How to Do Freelance AI Programming [Siraj Raval](https://www.youtube.com/watch?v=x6GYD5WPda4)                                                                                                                                                                                                                                      |
 | Qinbf/[deeplearning\_paper](https://github.com/Qinbf/deeplearning\_paper)                                                                                                                                                                                                                                                          |
+| Variational Autoencoders - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=fcvYpzHmhvA)                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                    |
