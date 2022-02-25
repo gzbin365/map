@@ -561,6 +561,8 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 【千锋大数据】3天快速入门机器学习（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J5oe0tEsWyitavyhdNudEMl)
 
+How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=UqYde-LULfs)
+
 ### 时间序列
 
 |                                                                                                                                                                      |
