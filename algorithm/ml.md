@@ -983,3 +983,49 @@ ESL
 | Qinbf/[deeplearning\_paper](https://github.com/Qinbf/deeplearning\_paper)                                                                                                                                                                                                                                                          |
 | Variational Autoencoders - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=fcvYpzHmhvA)                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                    |
+
+<details>
+
+<summary>Yoshua Bengio</summary>
+
+From Deep Learning of Disentangled Representations to Higher-level Cognition [Microsoft Research](https://www.youtube.com/watch?v=Yr1mOzC93xs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Geoffrey Hinton</summary>
+
+A Fireside Chat with Turing Award Winner Geoffrey Hinton, Pioneer of Deep Learning (Google I/O'19) [TensorFlow](https://www.youtube.com/watch?v=UTfQwTuri8Y)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
