@@ -143,21 +143,22 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | SnatchBot [s](https://zh.snatchbot.me)                                                                                                                                                     |
 |                                                                                                                                                                                            |
 
-| QQ机器人                                                                                          |
-| ---------------------------------------------------------------------------------------------- |
-| QQ 机器人 \| [QQ机器人文档](https://bot.q.qq.com/wiki)                                                 |
-| tencent-connect/[botpy](https://github.com/tencent-connect/botpy)   QQ频道机器人PythonSDK           |
-| tencent-connect/[bot-docs](https://github.com/tencent-connect/bot-docs)   QQ频道机器人文档            |
-| 酷Q管理机器人，智能聊天机器人，智能好帮手\~ [船长Debug](https://www.youtube.com/watch?v=SCtQP6rJvdw)                 |
-| 轻松上手！Python编程实现【QQ 聊天机器人】nonebot+酷Q+Docker [蓝色科技](https://www.youtube.com/watch?v=Tpb-ZuOQyLo) |
-| NoneBot [s](https://docs.nonebot.dev) [v2](https://v2.nonebot.dev)                             |
-| nonebot/[nonebot](https://github.com/nonebot/nonebot) 基于 OneBot 标准的 Python 异步 QQ 机器人框架         |
-| nonebot/[nonebot2](https://github.com/nonebot/nonebot2) 跨平台 Python 异步机器人框架                     |
-| 5分钟实战QQ机器人教程(保姆级) [代码狂魔](https://zhuanlan.zhihu.com/p/348381026)                               |
-| 2021可用的QQ机器人框架【整合】[ShintoKosei](https://www.bilibili.com/read/cv12039408)                      |
-| mamoe/[mirai](https://github.com/mamoe/mirai) 高效率 QQ 机器人支持库 [s](https://mirai.mamoe.net)       |
-|                                                                                                |
-|                                                                                                |
+| QQ机器人                                                                                             |
+| ------------------------------------------------------------------------------------------------- |
+| QQ 机器人 \| [QQ机器人文档](https://bot.q.qq.com/wiki)                                                    |
+| tencent-connect/[botpy](https://github.com/tencent-connect/botpy)   QQ频道机器人PythonSDK              |
+| tencent-connect/[bot-docs](https://github.com/tencent-connect/bot-docs)   QQ频道机器人文档               |
+| tencent-connect/[bot-node-sdk](https://github.com/tencent-connect/bot-node-sdk)   QQ频道机器人 NODESDK |
+| 酷Q管理机器人，智能聊天机器人，智能好帮手\~ [船长Debug](https://www.youtube.com/watch?v=SCtQP6rJvdw)                    |
+| 轻松上手！Python编程实现【QQ 聊天机器人】nonebot+酷Q+Docker [蓝色科技](https://www.youtube.com/watch?v=Tpb-ZuOQyLo)    |
+| NoneBot [s](https://docs.nonebot.dev) [v2](https://v2.nonebot.dev)                                |
+| nonebot/[nonebot](https://github.com/nonebot/nonebot) 基于 OneBot 标准的 Python 异步 QQ 机器人框架            |
+| nonebot/[nonebot2](https://github.com/nonebot/nonebot2) 跨平台 Python 异步机器人框架                        |
+| 5分钟实战QQ机器人教程(保姆级) [代码狂魔](https://zhuanlan.zhihu.com/p/348381026)                                  |
+| 2021可用的QQ机器人框架【整合】[ShintoKosei](https://www.bilibili.com/read/cv12039408)                         |
+| mamoe/[mirai](https://github.com/mamoe/mirai) 高效率 QQ 机器人支持库 [s](https://mirai.mamoe.net)          |
+|                                                                                                   |
+|                                                                                                   |
 
 | 微信机器人                                                                                               |
 | --------------------------------------------------------------------------------------------------- |
