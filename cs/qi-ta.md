@@ -467,6 +467,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore) |
 | Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                           |
+| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                  |
 
 ### Edge
 
