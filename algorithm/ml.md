@@ -479,6 +479,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | **XGBoost 中文文档(**[**书栈**](https://www.bookstack.cn/books/xgboost-doc-zh)**, )**                                 |
 | XGBoost [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ) |
 | 算法：Xgboost提升算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)                |
+| XGBoost与LightGBM 数据科学家常用工具大PK——性能与结构 [Data Application Lab](https://www.youtube.com/watch?v=dOwKbwQ97tI)        |
 
 ### 极客学院机器学习训练营
 
@@ -576,7 +577,7 @@ How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=U
 | 数据科学读书会 Book 15 - 时间序列分析 单变量时间序列[v](https://www.youtube.com/watch?v=S0jViiUxdHM)                                                                                     |
 | Structured Learning 4: Sequence Labeling [Hung-yi Lee](https://www.youtube.com/watch?v=o9FPSqobMys)                                                                  |
 | Time Series Prediction [Siraj Raval](https://www.youtube.com/watch?v=d4Sn6ny\_5LI)                                                                                   |
-|                                                                                                                                                                      |
+| <p>Time Series Analysis：Data Scientist是如何做时间序列分析的？（第566期）</p><p><a href="https://www.youtube.com/watch?v=Muvto_9aetI">Data Application Lab</a></p>                   |
 |                                                                                                                                                                      |
 
 ### 支持向量机 SVM
@@ -819,6 +820,14 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                                                |
 |                                                                                                                                |
 | S18 Lecture 14: Connectionist Temporal Classification (CTC) [u](https://www.youtube.com/watch?v=c86gfVGcvh4)                   |
+
+### 因果推断 Causal inference
+
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>什么是因果推断Causal inference？为什么数据科学家要知道这个？（第612期）</p><p><a href="https://www.youtube.com/watch?v=j1H8zzFzWg4">Data Application Lab</a></p> |
+| 数据科学读书会 Book 17 – 因果推断 因果效应(Causal Effect) [Data Application Lab](https://www.youtube.com/watch?v=UFfk0TQuCqs)                            |
+|                                                                                                                                           |
 
 ### 蚁群算法
 
