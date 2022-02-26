@@ -637,7 +637,7 @@ Python高性能编程
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)  |
 | sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                     |
 | csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                   |
-|                                                                                                                      |
+| RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader    |
 
 ## 网络编程
 
