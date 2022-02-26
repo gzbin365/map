@@ -838,6 +838,28 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                                                  |
 |                                                                                                                                  |
 
+### VAE Variational Autoencoder
+
+|                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 [Lect 6.2]</p><p><a href="https://www.youtube.com/watch?v=uaaqyVS9-rM">Data Science Courses</a></p> |
+| Variational Autoencoders [Arxiv Insights](https://www.youtube.com/watch?v=9zKuYvjFFS8)                                                                                       |
+| Variational Autoencoders - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=fcvYpzHmhvA)                                                                            |
+| Autoencoder Explained [Siraj Raval](https://www.youtube.com/watch?v=H1AllrJ-\_30)                                                                                            |
+| 178 - An introduction to variational autoencoders (VAE) [DigitalSreeni](https://www.youtube.com/watch?v=YV9D3TWY5Zo)                                                         |
+| 179 - Variational autoencoders using keras on MNIST data [DigitalSreeni](https://www.youtube.com/watch?v=8wrLjnQ7EWQ)                                                        |
+|                                                                                                                                                                              |
+|                                                                                                                                                                              |
+|                                                                                                                                                                              |
+
+### Variational Inference
+
+|                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Variational Inference: Foundations and Modern Methods (NIPS 2016 tutorial)</p><p><a href="https://www.youtube.com/watch?v=ogdv_6dbvVQ">Steven Van Vaerenbergh</a></p> |
+|                                                                                                                                                                          |
+|                                                                                                                                                                          |
+
 ## 数据可视化
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
