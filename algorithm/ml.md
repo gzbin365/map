@@ -827,6 +827,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>什么是因果推断Causal inference？为什么数据科学家要知道这个？（第612期）</p><p><a href="https://www.youtube.com/watch?v=j1H8zzFzWg4">Data Application Lab</a></p> |
 | 数据科学读书会 Book 17 – 因果推断 因果效应(Causal Effect) [Data Application Lab](https://www.youtube.com/watch?v=UFfk0TQuCqs)                            |
+| 数据科学读书会 Book 17 - 因果推断-因果推断的公式和模型 [Data Application Lab](https://www.youtube.com/watch?v=MpjETI5RlFY)                                     |
 |                                                                                                                                           |
 
 ### 蚁群算法
