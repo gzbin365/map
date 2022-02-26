@@ -184,6 +184,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | **P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=lheXIYXanuU) |
 | <p>Getting Started with Conversational AI with NVIDIA's Jarvis Platform</p><p><a href="https://www.youtube.com/watch?v=Wq5toPoJ-08">Machine Learning with Phil</a></p>                                                                                                                                                |                                                            |
 
+### 多轮对话 Multi-turn Dialogue
+
+|                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scholarly articles for multi-turn dialogue [Google Scholar](https://scholar.google.com.tw/scholar?q=multi-turn+dialogue\&hl=en\&as\_sdt=0\&as\_vis=1\&oi=scholart)                                                        |
+| youtube search\_query=[多轮对话](https://www.youtube.com/results?search\_query=%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D)   search\_query=[multi-turn+dialogue](https://www.youtube.com/results?search\_query=multi-turn+dialogue) |
+|                                                                                                                                                                                                                           |
+
 ### 情感分析 Sentiment Analysis
 
 |                                                                                                                               |
