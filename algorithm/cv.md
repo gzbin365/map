@@ -151,6 +151,22 @@ import cv2
 |                                                                                                                                                                  |
 |                                                                                                                                                                  |
 
+#### **人脸图像复原** Blind Face Restoration
+
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| csxmli2016/[DFDNet](https://github.com/csxmli2016/DFDNet)                                                      |
+| CVPR2021论文能修复马赛克？香港理工大学新研究，修复模糊图像！[新智元](https://cloud.tencent.com/developer/article/1842528)                   |
+| GAN Prior Embedded Network for Blind Face Restoration in the Wild [zh](https://zhuanlan.zhihu.com/p/372348930) |
+
+## 超分辨率
+
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180) |
+|                                                                                                                                    |
+|                                                                                                                                    |
+
 ## 以图搜图
 
 |                                                                     |
