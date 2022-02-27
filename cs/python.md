@@ -583,7 +583,7 @@ Python高性能编程
 | **kivy(**[**s**](https://kivy.org)**, )**                                                                      |                                                                                                                                                                          |
 | **Kivy Tutorial(**[**uList**](https://www.youtube.com/playlist?list=PLhTjy8cBISEpobkPwLm71p5YNBzPH9m9V)**, )** | **Kivy Intro(**[**u**](https://www.youtube.com/watch?v=FjwD0SOGQ1k)**,** [**blog**](https://pythonprogramming.net/introduction-kivy-application-python-tutorial/)**, )** |
 
-| \*\*\*\*                                                                                                                         |
+|                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | [**Kivy Course - Create Python Games and Mobile Apps**](https://www.youtube.com/watch?v=l8Imtec4ReQ)  ****  freeCodeCamp         |
 | Kivy - Mobile and Desktop App Dev w/ Python [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN\_VRQfq8rF) |
@@ -638,6 +638,7 @@ Python高性能编程
 | sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                     |
 | csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                   |
 | RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader    |
+| awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                               |
 
 ## 网络编程
 
