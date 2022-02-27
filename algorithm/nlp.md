@@ -115,6 +115,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [#pythonchatbot](https://www.youtube.com/hashtag/pythonchatbot)   [#chatbot](https://www.youtube.com/hashtag/chatbot) github /topics/[chatbot](https://github.com/topics/chatbot)  /topics/[bot](https://github.com/topics/bot) /topics/[telegram-bot](https://github.com/topics/telegram-bot) |
+| youtube search\_query=如[何打造你自己的聊天机器人](https://www.youtube.com/results?search\_query=%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)                                                                                     |
 | Build Your Own Chatbot Using Python [Computer Science](https://www.youtube.com/watch?v=FFT4p6me2g0) using NLTK                                                                                                                                                                                 |
 | Build A Smart AI Chat Bot Using Python & Machine Learning [Computer Science](https://www.youtube.com/watch?v=9KZwRBg4-P0)   [list](https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv)                                                                                   |
 | Build A Simple Chat Bot GUI Using Python [Computer Science](https://www.youtube.com/watch?v=j56RiHtqHYs)                                                                                                                                                                                       |
@@ -176,6 +177,18 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | CodelessBot [u](https://www.youtube.com/c/CodelessBot/playlists) [s](https://www.codelessbot.com)                                                                                           |
 | How to create a Messenger Bot [Meta Developers](https://www.youtube.com/watch?v=4NG2WqLYV-A) [s](https://developers.facebook.com/docs/messenger-platform/getting-started/sample-experience) |
 |                                                                                                                                                                                             |
+
+| LINE Bot                                                                              |
+| ------------------------------------------------------------------------------------- |
+| 從 LINE Bot 認識聊天機器人原理～#[補根知識](https://www.youtube.com/watch?v=eoEEvye1DGI)​ 014        |
+| 【Live講堂】Line Bot聊天機器人極速開發 [GjunChannel](https://www.youtube.com/watch?v=lY74e2\_Z3Vw) |
+|                                                                                       |
+
+| Discord Bot                                                                                         |
+| --------------------------------------------------------------------------------------------------- |
+| 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)           |
+| Discord Bot全教學 [狗勾ニオわんわん](https://www.youtube.com/playlist?list=PLOEbl4-1QPZZzG9UHV07oDzcjlSLqsNvR) |
+|                                                                                                     |
 
 | **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |

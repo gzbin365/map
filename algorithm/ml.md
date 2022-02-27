@@ -252,6 +252,8 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Science [codebasics](https://www.youtube.com/watch?v=xucm6\_BQPJU)
 
+机器学习算法地图 [SIGAI](https://zhuanlan.zhihu.com/p/39020459)
+
 ### ML
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
