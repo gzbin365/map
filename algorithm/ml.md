@@ -668,6 +668,7 @@ LSTM
 | <p>[硬核公式推导系列] 蒙特卡洛模拟与MCMC <a href="https://www.youtube.com/watch?v=_exgpsE6hPQ">技术喵</a>　<a href="https://github.com/tech-meow/MCMC/blob/main/MCMC.ipynb">git</a></p><p>Box-Muller算法？</p><p>接受拒绝抽样 Acceptance Rejection Sampling</p><p>metropolis Hastings</p><p>Gibbs Sampling</p> |
 | 为什么要使用MCMC方法？[zh](https://www.zhihu.com/question/60437632)                                                                                                                                                                                                                         |
 | 一文读懂贝叶斯推理问题：MCMC方法和变分推断 [zh](https://zhuanlan.zhihu.com/p/75617364)                                                                                                                                                                                                                |
+| 17讲02 近似推断法：MCMC和变分推断 [MM li](https://www.youtube.com/watch?v=He2KrUuX\_Ag)                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                    |
 
 ### 维特比算法 The Viterbi Algorithm
@@ -855,7 +856,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                                                                                              |
 |                                                                                                                                                                              |
 
-### Variational Inference
+### 变分推断 Variational Inference
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
