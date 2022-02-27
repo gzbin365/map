@@ -661,10 +661,13 @@ LSTM
 
 ### MCMC, Markov Chain Monte Carlo
 
+基于采样的马尔可夫链蒙特卡罗(Markov Chain Monte Carlo，简称MCMC)方法
+
 |                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>[硬核公式推导系列] 蒙特卡洛模拟与MCMC <a href="https://www.youtube.com/watch?v=_exgpsE6hPQ">技术喵</a>　<a href="https://github.com/tech-meow/MCMC/blob/main/MCMC.ipynb">git</a></p><p>Box-Muller算法？</p><p>接受拒绝抽样 Acceptance Rejection Sampling</p><p>metropolis Hastings</p><p>Gibbs Sampling</p> |
 | 为什么要使用MCMC方法？[zh](https://www.zhihu.com/question/60437632)                                                                                                                                                                                                                         |
+| 一文读懂贝叶斯推理问题：MCMC方法和变分推断 [zh](https://zhuanlan.zhihu.com/p/75617364)                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                    |
 
 ### 维特比算法 The Viterbi Algorithm
