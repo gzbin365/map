@@ -198,6 +198,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD)) |
 
+### 关键词提取  摘要
+
+|                                                                                       |
+| ------------------------------------------------------------------------------------- |
+| letiantian/[TextRank4ZH](https://github.com/letiantian/TextRank4ZH)  从中文文本中自动提取关键词和摘要 |
+|                                                                                       |
+|                                                                                       |
+
 ### Attention
 
 |                                                                                         |   |
