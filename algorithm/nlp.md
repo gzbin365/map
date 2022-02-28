@@ -273,5 +273,5 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                             |
 | brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料 |
 | chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                   |
-|                                                                                                       |
+| blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                  |
 |                                                                                                       |
