@@ -66,6 +66,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                                                  |
 | chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                                          |
 | imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                                                    |
+| Kukarella [v](https://www.youtube.com/watch?v=a6bVPAz2L3s) [s](https://kukarella.com)                                                                           |
 | 百度 api    paddlepaddle/[PaddleSpeech](https://gitee.com/paddlepaddle/PaddleSpeech)                                                                              |
 | Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux                                     |
 | ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                              |
