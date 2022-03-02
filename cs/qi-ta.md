@@ -217,6 +217,7 @@
 | Video game made with pure python/pygame \| Platformer Shooter [enigma](https://www.youtube.com/watch?v=uwWRv9PNqWU)                                             |
 | 2D Ray Casting Made With Pure Python and Pygame [enigma](https://www.youtube.com/watch?v=58l0SURwYpc) [git](https://github.com/000Nobody/2D-Ray-Tracing)        |
 | Creating a platformer in Pygame with a camera, collisions, animation states and particle effects [Clear Code](https://www.youtube.com/watch?v=YWN8GcmJ-jA)      |
+| Making a Python/Pygame Game in 48 Hours! [DaFluffyPotato](https://www.youtube.com/watch?v=lAq7wj4TvtU)                                                          |
 | Making A Python Game In 48 Hours! [Barji](https://www.youtube.com/watch?v=lVmdmivVK5w)                                                                          |
 | How I make bots using python (educational) [Kian Brose](https://www.youtube.com/watch?v=wCho\_BdpdyY)                                                           |
 | Game Development for Noobs \| Beginner Guide [Flow Studio](https://www.youtube.com/watch?v=7C92ZCnlmQo)                                                         |
