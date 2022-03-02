@@ -292,7 +292,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 |                                                                                                                               |
 | OpenTelemetry Course - Understand Software Performance [freeCodeCamp](https://www.youtube.com/watch?v=r8UvWSX3KA8)            |
 | What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)    |
-|                                                                                                                               |
+| DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS [freeCodeCamp](https://www.youtube.com/watch?v=PGyhBwLyK2U)  |
 |                                                                                                                               |
 |                                                                                                                               |
 

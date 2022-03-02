@@ -416,6 +416,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                                                                                         |
 | 人工智能与机器学习 [做大饼馅儿的韭菜](https://www.zhihu.com/column/tkRobinPan)                                                                                                                                                 |
 | Intuitive Deep Learning [深度碎片](https://www.youtube.com/playlist?list=PLx08F1efFq\_XrzMzlgzQ0DAyDOn\_iYdjO)                                                                                                    |
+| Deep Learning: CS 182 Spring 2021 [RAIL](https://www.youtube.com/playlist?list=PL\_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)                                                                                           |
+| NIPS 2016 Deep Learning for Action and Interaction Workshop [RAIL](https://www.youtube.com/playlist?list=PL\_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY)                                                                 |
 |                                                                                                                                                                                                               |
 
 #### 动手学深度学习
