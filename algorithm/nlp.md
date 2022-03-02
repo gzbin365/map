@@ -19,9 +19,10 @@ description: 自然语言处理
 
 ## 数据集
 
-|                                                                            |                               |
-| -------------------------------------------------------------------------- | ----------------------------- |
-| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) | 句子汇 [s](http://www.juzih.com) |
+|                                                                            |                                  |
+| -------------------------------------------------------------------------- | -------------------------------- |
+| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) | 句子汇 [s](http://www.juzih.com)    |
+|                                                                            | 二七美文阅读网 [s](http://www.nl27.com) |
 
 ## **算法**
 

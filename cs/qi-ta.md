@@ -553,4 +553,5 @@
 | 程序员变量命名神器 [v](https://www.douyin.com/video/7039691907366259982) [s](http://rcode.rbtree.cn) Codelf [s](https://unbug.github.io/codelf/) [b](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/85219501) |
 | Internet History, Technology, and Security - Full Course from Dr. Chuck [freeCodeCamp](https://www.youtube.com/watch?v=47NRaBVxgVM)                                                                           |
 | Coding Graphics in TempleOS is Too Easy [Tsoding Daily](https://www.youtube.com/watch?v=d3eFHyryopQ)                                                                                                          |
+| 大飞哥软件自修室 [廉飞](https://www.youtube.com/playlist?list=PLZQLVcDnH2VzPYje9ggsF8SDPigug102J) [B](https://space.bilibili.com/286436365)                                                                             |
 |                                                                                                                                                                                                               |

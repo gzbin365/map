@@ -781,7 +781,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                                                         |
 |                                                                                                                                         |
 
-### 小样本学习 Few-Shot Learning
+### 少样本学习 Few-Shot Learning
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
@@ -790,6 +790,7 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | Meta-Learning and One-Shot Learning [macheads101](https://www.youtube.com/watch?v=KUWywwvQv8E)                         |
 | Model Agnostic Meta Learning [Siavash Khodadadeh](https://www.youtube.com/watch?v=wT45v8sIMDM)                         |
 | Learning to learn: An Introduction to Meta Learning [Machine Learning TV](https://www.youtube.com/watch?v=ByeRnmHJ-uk) |
+| Meta learning by Hugo [yet Shell](https://www.youtube.com/watch?v=lz0ekIVfoFs)                                         |
 |                                                                                                                        |
 
 ### 注意力

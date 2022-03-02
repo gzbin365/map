@@ -713,7 +713,8 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
 | Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                  |
 | 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                          |
-| Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器                                           |
+| Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                    |
+| Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                     |
 
 ## Book
 
