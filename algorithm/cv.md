@@ -240,6 +240,7 @@ import cv2
 | [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge  |
 | Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                          |
 | 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM) [git](https://www.youtube.com/watch?v=xSBqnS1kLGA) |
+| Simple Face Detection in Python [NeuralNine](https://www.youtube.com/watch?v=5cg\_yggtkso)                                                  |
 
 ### OCR
 
