@@ -64,7 +64,8 @@ description: 用数学充实人生
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Fundamentals of NetLog [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109) |
 | 深度碎片 [u](https://www.youtube.com/channel/UC\_vuJRonJBlgFFIA5i008sg/playlists)                                          |
-|                                                                                                                        |
+| NetLogo多主体建模入门 [集智学园](https://campus.swarma.org/course/1095)                                                           |
+| 计算社会科学 [集智学园](https://campus.swarma.org/course/3711)                                                                   |
 
 ### Desmos
 
