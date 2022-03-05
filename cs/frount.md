@@ -147,6 +147,7 @@
 | Build and Deploy a Fully Responsive Modern UI/UX Website in React JS [JavaScript Mastery](https://www.youtube.com/watch?v=LMagNcngvcU)                                   |
 | Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss)                      |
 | Learn React Native Gestures and Animations - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=wEVjaXK4sYQ)                                                        |
+| 2020版React入门到大神【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7u0lzzlFQYx5sJ7GvZkA4i)                                                                     |
 
 ### Next.js
 

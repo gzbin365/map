@@ -257,6 +257,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Top 8 Docker Best Practices for using Docker in Production [TechWorld with Nana](https://www.youtube.com/watch?v=8vXoMqWgbQQ)                             |
 | you need to learn Docker RIGHT NOW!! // Docker Containers 101 [NetworkChuck](https://www.youtube.com/watch?v=eGz9DS-aIeY)                                 |
 | 系统学习Docker 践行DevOps理念 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkSTTzJU6ljaaaou-\_Iq9N\_)                                                 |
+| 容器与虚拟机：有什么区别？ [IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)                                                                               |
+| 容器化解释 [IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s) Containerization Explained                                                            |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -268,6 +270,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kubernetes与Docker：这不是一个问题 [IBM Technology](https://www.youtube.com/watch?v=2vMEQ5zs1ko)                                                                         |
 | Kubernetes Tutorial for Beginners \[FULL COURSE in 4 Hours] [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)                                  |
 | Docker vs Kubernetes vs Docker Swarm \| Comparison in 5 mins [TechWorld with Nana](https://www.youtube.com/watch?v=9\_s3h\_GVzZc)                               |
 | you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                                                            |
@@ -330,7 +333,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA) |
 | my linux config more like neovim config :) [momfor](https://www.youtube.com/watch?v=\_GldsqYpYz0)                                  |
 | Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                     |
-|                                                                                                                                    |
+| Vim Snippets Are Next Level [NeuralNine](https://www.youtube.com/watch?v=qspwCdlrfNs)                                              |
 
 ## Wine
 

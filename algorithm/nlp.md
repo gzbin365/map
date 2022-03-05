@@ -111,6 +111,18 @@ LDA 文档聚类 plsa lsa
 
 Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](https://www.youtube.com/watch?v=5UTOC8eSvP8\&list=PLtrSb4XxIVbr-9nNlAenDsaB8xscDTeA6\&index=12)
 
+### 分词
+
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U) |
+| Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                             |
+|                                                                                             |
+
+### POS 词性标注
+
+### NER命名实体识别
+
 ### 对话系统
 
 |                                                                                                                                                                                                                                                                                                |
