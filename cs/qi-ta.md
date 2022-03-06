@@ -537,6 +537,7 @@
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 编代码 中文网 [s](http://biandaima.cn) 江湖程序员 抖音号： [python\_tutor](https://www.douyin.com/user/MS4wLjABAAAAqADAL5wghire-dF7hWwu3WWTDsnqppO-a8hdebWXhjY\_lZmn\_FAjTNZsuYj8aGDu)                                       |
 | 3 years of Computer Science in 8 minutes [Devon Crawford](https://www.youtube.com/watch?v=ReVeUvwTGdU)                                                                                                        |
 | 二维码 How Barcodes Work [In One Lesson](https://www.youtube.com/watch?v=e6aR1k-ympo)                                                                                                                            |
 | 💻 - See How 🅻🅲🅳 Pixels Work [In One Lesson](https://www.youtube.com/watch?v=0B79dGR19Tg)                                                                                                                  |
