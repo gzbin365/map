@@ -7,47 +7,48 @@
 
 ## Android
 
-|                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Android Development for Beginners - Full Course** [**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                 |
-| Android 项目实战一：AA小助手 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYuZ89aFNgPuRrxb2mwmGpp)                                                   |
-| Android蓝牙开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbYEkrW6-1GoQwykStSRQgS)                                                           |
-| Android 定位技术 LBS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasVjUrJ69MrnIvxNLhphtq)                                                      |
-| Android教程之设计招式之美 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhar5NUoOVAFLmK4M1G5MP2z)                                                      |
-| android架构之接口设计之美 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhboTq51PktFmV0qI-QHYH6k)                                                      |
-| Android数据存储基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAxFagEYn33GlqiRrn3txb)                                                         |
-| Android 基础UI控件 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbliFuZ7FVUYhs0E3uo8h4v)                                                        |
-| Android 高级Ui [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhav5INf3hUajT9ElPDubnIX)                                                          |
-| Android 高级Ui之fragment [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaI5JnAhNDL9eQUQyQcL77J)                                                 |
-| android架构之认识进程与IPC架构 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYqsA1kuiXlXcNQFoS7HEz2)                                                  |
-| Android A段架构师应该具备什么 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZv\_IPv9mRHhec-VfyXrJET)                                                  |
-| android架构之EIT介绍 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYPDMb5Tir2Kg-axOCt58qa)                                                       |
-| Android面向对象技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhajhq9jOgffp2zMFNzADRHB)                                                         |
-| Android数据存储实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbLSS3ukjwfhqZuo9\_QNCAs)                                                        |
-| Android网络编程实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYgXfDU8bsH\_Wnk3lf4Npga)                                                        |
-| Android自定义控件 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYcr5-q16S7uZxnjOuAdlnD)                                                          |
-| Android层次分析 –从顶层到底层 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha\_uVHijUl6jbYgqDn4ignT)                                                  |
-| Android Camera & Recoder [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb4mLK5J52tyYNELLqZEQ5l)                                              |
-| Android HAL编程实战 实现自己的HAL [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZfZuI1M9yW\_YO4Y8oISzGX)                                             |
-| Android Studio [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb0dqDdKPHP6dc385uW\_mGc)                                                       |
-| What's new in Android Studio Arctic Fox [Android Developers](https://www.youtube.com/watch?v=-8tSZr7iMcw)                                               |
-| Android Studio setup STILL tricky on M1 Pro? [Alexander Ziskind](https://www.youtube.com/watch?v=dCbr2iFbh8o)                                           |
-| Android 社会化分享 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8cd3fc6ia6ssMvmGV7LrK)                                                         |
-| Android仿美图秀秀实战 （上） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqnDl53xels8qsc3QPpfY8)                                                    |
-| Android仿美图秀秀实战 （下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYMQbtnyBqw6XfAQt7NvnfC)                                                    |
-| Android第三方框架使用 Volley和xUtils的使用 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYQboqtB\_H-rqj0vo26HUuD)                                      |
-| android架构之观摩Session模式与Proxy Stub模式的搭配 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0yba1j3Qf0xvozb6t\_q\_g)                               |
-| Android多线程和异步任务 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbwlBhy6Dm3ngt8W53YG-D-)                                                       |
-| android架构之设计模式介绍 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQXeEtQOC8FajXURjy3Jqf)                                                      |
-| 选修课 NDK初探 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhahZx9Kvwrh6jDLW4ixGAsX)                                                             |
-| Developing Android Apps [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq\_aSy706S)                                            |
-| Responsive Images [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlMK4ycui-adGBe2erTgMkY)                                                   |
-| Android Programming Course - Kotlin, Jetpack Compose UI, Graph Data Structures & Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=5kb-zpQGYGk) |
-| 安卓逆向 [易锦教育](https://www.youtube.com/playlist?list=PL4rdaY6hLY6-qPjzr4XvNFH2dElSRt5zZ)                                                                   |
-| What are 12 Factor Apps and Why Should You Care?　[Benjamin Porter](https://www.youtube.com/watch?v=REbM4BDeua0)                                         |
-| Building Apps from a Business Perspective - App Product Management Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=poLzjLt2yqU)          |
-|                                                                                                                                                         |
-|                                                                                                                                                         |
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Android Development for Beginners - Full Course** [**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                           |
+| Android 项目实战一：AA小助手 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYuZ89aFNgPuRrxb2mwmGpp)                                                             |
+| Android蓝牙开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbYEkrW6-1GoQwykStSRQgS)                                                                     |
+| Android 定位技术 LBS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasVjUrJ69MrnIvxNLhphtq)                                                                |
+| Android教程之设计招式之美 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhar5NUoOVAFLmK4M1G5MP2z)                                                                |
+| android架构之接口设计之美 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhboTq51PktFmV0qI-QHYH6k)                                                                |
+| Android数据存储基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAxFagEYn33GlqiRrn3txb)                                                                   |
+| Android 基础UI控件 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbliFuZ7FVUYhs0E3uo8h4v)                                                                  |
+| Android 高级Ui [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhav5INf3hUajT9ElPDubnIX)                                                                    |
+| Android 高级Ui之fragment [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaI5JnAhNDL9eQUQyQcL77J)                                                           |
+| android架构之认识进程与IPC架构 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYqsA1kuiXlXcNQFoS7HEz2)                                                            |
+| Android A段架构师应该具备什么 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZv\_IPv9mRHhec-VfyXrJET)                                                            |
+| android架构之EIT介绍 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYPDMb5Tir2Kg-axOCt58qa)                                                                 |
+| Android面向对象技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhajhq9jOgffp2zMFNzADRHB)                                                                   |
+| Android数据存储实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbLSS3ukjwfhqZuo9\_QNCAs)                                                                  |
+| Android网络编程实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYgXfDU8bsH\_Wnk3lf4Npga)                                                                  |
+| Android自定义控件 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYcr5-q16S7uZxnjOuAdlnD)                                                                    |
+| Android层次分析 –从顶层到底层 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha\_uVHijUl6jbYgqDn4ignT)                                                            |
+| Android Camera & Recoder [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb4mLK5J52tyYNELLqZEQ5l)                                                        |
+| Android HAL编程实战 实现自己的HAL [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZfZuI1M9yW\_YO4Y8oISzGX)                                                       |
+| Android Studio [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb0dqDdKPHP6dc385uW\_mGc)                                                                 |
+| What's new in Android Studio Arctic Fox [Android Developers](https://www.youtube.com/watch?v=-8tSZr7iMcw)                                                         |
+| Android Studio setup STILL tricky on M1 Pro? [Alexander Ziskind](https://www.youtube.com/watch?v=dCbr2iFbh8o)                                                     |
+| Android 社会化分享 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhY8cd3fc6ia6ssMvmGV7LrK)                                                                   |
+| Android仿美图秀秀实战 （上） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqnDl53xels8qsc3QPpfY8)                                                              |
+| Android仿美图秀秀实战 （下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYMQbtnyBqw6XfAQt7NvnfC)                                                              |
+| Android第三方框架使用 Volley和xUtils的使用 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYQboqtB\_H-rqj0vo26HUuD)                                                |
+| android架构之观摩Session模式与Proxy Stub模式的搭配 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0yba1j3Qf0xvozb6t\_q\_g)                                         |
+| Android多线程和异步任务 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbwlBhy6Dm3ngt8W53YG-D-)                                                                 |
+| android架构之设计模式介绍 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQXeEtQOC8FajXURjy3Jqf)                                                                |
+| 选修课 NDK初探 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhahZx9Kvwrh6jDLW4ixGAsX)                                                                       |
+| Developing Android Apps [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq\_aSy706S)                                                      |
+| Responsive Images [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlMK4ycui-adGBe2erTgMkY)                                                             |
+| Android Programming Course - Kotlin, Jetpack Compose UI, Graph Data Structures & Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=5kb-zpQGYGk)           |
+| Kotlin & Android 12 Tutorial \| Learn How to Build an Android App 📱 9+ h FREE Development Masterclass [tutorialsEU](https://www.youtube.com/watch?v=HwoxgUPabMk) |
+| 安卓逆向 [易锦教育](https://www.youtube.com/playlist?list=PL4rdaY6hLY6-qPjzr4XvNFH2dElSRt5zZ)                                                                             |
+| What are 12 Factor Apps and Why Should You Care?　[Benjamin Porter](https://www.youtube.com/watch?v=REbM4BDeua0)                                                   |
+| Building Apps from a Business Perspective - App Product Management Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=poLzjLt2yqU)                    |
+|                                                                                                                                                                   |
+|                                                                                                                                                                   |
 
 ### 电脑控制手机
 

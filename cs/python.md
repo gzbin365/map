@@ -408,18 +408,24 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | -------------------------------------------------------------------------------------------------------- | - |
 | **Alan D Moore Codes(**[**u**](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured)**, )** |   |
 
-| 视频                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI)（Alan D Moore Codes 38：11） |
-| PyQt6 Course For Beginners \[Python GUI Framework PyQt ]\([Parwiz Forogh](https://www.youtube.com/watch?v=ot94H3-d5d8))3:09:19          |
-| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))         |
-| 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                              |
-| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                   |
-| Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                     |
-| 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)             |
-| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                        |
-| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                 |
-|                                                                                                                                         |
+| 视频                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI)（Alan D Moore Codes 38：11）                     |
+| PyQt6 Course For Beginners \[Python GUI Framework PyQt ]\([Parwiz Forogh](https://www.youtube.com/watch?v=ot94H3-d5d8))3:09:19                              |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                             |
+| 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                                                  |
+| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                       |
+| Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                                         |
+| 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)                                 |
+| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                            |
+| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                     |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                              |
+| PyQt5 Tutorial - Setup and a Basic GUI Application [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)                |
+| Python GUI - Eel [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1AnieCi1FfNibjYWkLWIPi92Yu)   ChrisKnott/[Eel](https://github.com/ChrisKnott/Eel) |
+| Python GUI - Tkinter [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anie\_vHuCOt3hCXN6HIl8Ph8u)                                                  |
+| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                  |
+| GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                        |
+| GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                           |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
@@ -703,6 +709,8 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                    |
 | Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)                |
 | Pygame in 90 Minutes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)                                     |
+| Pygame Tutorial - Creating Space Invaders [Tech With Tim](https://www.youtube.com/watch?v=Q-\_\_8Xw9KTM)                              |
+| Pygame Car Racing Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)                  |
 | Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5) |
 | Zelda in Python [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)                                                             |
 | Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)     |
