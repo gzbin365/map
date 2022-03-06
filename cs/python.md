@@ -291,10 +291,11 @@
 | ------------------------------------------------------------------------------------------------------- | - |
 | Echarts和highcharts的使用 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaEqkSKylI1r8YLz1HF23mu) |   |
 
-| NumPy                                                                                           |
-| ----------------------------------------------------------------------------------------------- |
-| TutorialsPoint NumPy 教程 ([书栈](https://www.bookstack.cn/books/ts-numpy-tut-zh), )                |
-| Python NumPy Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) |
+| NumPy                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TutorialsPoint NumPy 教程 ([书栈](https://www.bookstack.cn/books/ts-numpy-tut-zh), )                                                                   |
+| Python NumPy Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)                                                    |
+| Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping) [Keith Galli](https://www.youtube.com/watch?v=GB9ByFAIAH4) |
 
 | SciPy                                                                                                          |   |
 | -------------------------------------------------------------------------------------------------------------- | - |
