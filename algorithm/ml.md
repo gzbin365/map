@@ -1016,7 +1016,7 @@ ESL
 | How to Do Freelance AI Programming [Siraj Raval](https://www.youtube.com/watch?v=x6GYD5WPda4)                                                                                                                                                                                                                                      |
 | Qinbf/[deeplearning\_paper](https://github.com/Qinbf/deeplearning\_paper)                                                                                                                                                                                                                                                          |
 | Variational Autoencoders - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=fcvYpzHmhvA)                                                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                                                                    |
+| guillaume-chevalier/[Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)                                                                                                                                                                                                      |
 
 <details>
 
