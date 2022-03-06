@@ -77,13 +77,24 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### blender
 
-|                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)                                            |
-| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)                                                       |
-| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ)                                           |
-| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)                                               |
-| Learn Blender 3.0 in 20 minutes \| Blender 3D Basics in 2022 for Absolute Beginners [DGreenhorn](https://www.youtube.com/watch?v=Rqhtw7dg6Wk) |
+|                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [s](https://www.blender.org) [tutorials](https://www.blender.org/support/tutorials/) [u](https://www.youtube.com/c/BlenderFoundation/playlists)  |
+| Blender 3.0 Reference Manual [doc](https://docs.blender.org/manual/en/3.0/)                                                                      |
+| Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                    |
+| Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                    |
+| Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                           |
+| Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                       |
+| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)                                               |
+| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)                                                          |
+| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ)                                              |
+| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)                                                  |
+| Learn Blender 3.0 in 20 minutes \| Blender 3D Basics in 2022 for Absolute Beginners [DGreenhorn](https://www.youtube.com/watch?v=Rqhtw7dg6Wk)    |
+| Blender教學 [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anid1MZyxRsY67HSCBQvUowxb) 捏脸                                                |
+| Blender2.9中文基础入门教程 [Cai kishi](https://www.youtube.com/playlist?list=PLbUkXFqEoGec\_S1Zwh8Io3ZyzQbukhGw0)                                        |
+| Blender教程 [Henry\_环宇](https://www.youtube.com/playlist?list=PLw4hWepHFqhRg1VXYoZk1b6iGew2J5tsb)                                                  |
+| Blender 2.8-3.0 零基础入门系统教学 [Leon Lee](https://www.youtube.com/playlist?list=PLhzI\_V\_pEpEvDpsgOdBl-jxPnf4y3wH06)                                 |
+| Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                   |
 
 ### Revit
 
@@ -94,6 +105,12 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |   |   |
 | - | - |
 |   |   |
+
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 12 Principles of Animation (Official Full Series) [AlanBeckerTutorials](https://www.youtube.com/watch?v=uDqjIdI4bF4) |
+|                                                                                                                      |
+|                                                                                                                      |
 
 ## 后期
 
