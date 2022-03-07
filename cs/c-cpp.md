@@ -65,6 +65,8 @@
 | 郁金香VC++外挂教程初级 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQljpqQmVQ1iRLAsF9PkvKN2)                                                                  |
 | 浴血凤凰-dnf内存 [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQnnlb92GAv9VG1zyZbQcgar)                                                                     |
 | C++ Tutorial From Basic to Advance [Extern Code](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                                                    |
+| A Case-study in Rewriting a Legacy GUI Library for Real-time Audio Software in Modern C++ [CppCon](https://www.youtube.com/watch?v=90I0hH5-r5A)                  |
+| Multi Threading Model in Paradox Games: Past, Present and Future - Mathieu Ropert - CppCon 2021 [CppCon](https://www.youtube.com/watch?v=e\_2z7uWouuk)           |
 |                                                                                                                                                                  |
 
 ### 设计模式

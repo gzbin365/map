@@ -427,6 +427,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                  |
 | GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                        |
 | GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                           |
+| Prox Softwares [Proxlight](https://www.youtube.com/playlist?list=PLi3fckH40FL5zHR-80J\_\_tgmCe0-Jx\_nm)                                                     |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
