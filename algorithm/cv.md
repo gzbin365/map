@@ -184,12 +184,15 @@ import cv2
 
 ### 分割
 
-|                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| 图像分割算法实战(深度学习) 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210995809)                               |
-| 面向医学领域的深度学习项目实战 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210953801)                              |
-| 73 - Image Segmentation using U-Net - Part1 (What is U-net?) [DigitalSreeni](https://www.youtube.com/watch?v=azM57JuQpQI) |
-|                                                                                                                           |
+|                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 图像分割算法实战(深度学习) 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210995809)                                                                                                                          |
+| 面向医学领域的深度学习项目实战 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210953801)                                                                                                                         |
+| 73 - Image Segmentation using U-Net - Part1 (What is U-net?) [DigitalSreeni](https://www.youtube.com/watch?v=azM57JuQpQI)                                                                                            |
+| Image Matting [sota](https://paperswithcode.com/task/image-matting)                                                                                                                                                  |
+| Jiake Xie 谢家柯 [s](https://kelisiya.github.io) [git](https://github.com/kelisiya) [TIMI-Net](https://github.com/kelisiya/TIMI-Net) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN\&user=pD8wUxgAAAAJ) |
+| picup [s](https://www.picup.ai)                                                                                                                                                                                      |
+|                                                                                                                                                                                                                      |
 
 ### 目标检测 Object Detection
 

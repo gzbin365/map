@@ -118,6 +118,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U) |
 | Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                             |
 |                                                                                             |
+|                                                                                             |
 
 ### POS 词性标注
 
@@ -221,6 +222,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | youtube search\_query=[多轮对话](https://www.youtube.com/results?search\_query=%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D)   search\_query=[multi-turn+dialogue](https://www.youtube.com/results?search\_query=multi-turn+dialogue) |
 |                                                                                                                                                                                                                           |
 
+### 意图识别
+
+|                                                                |
+| -------------------------------------------------------------- |
+| 基于fastText的意图识别框架 [恒小发](https://zhuanlan.zhihu.com/p/53297108) |
+|                                                                |
+|                                                                |
+
 ### 情感分析 Sentiment Analysis
 
 |                                                                                                                               |
@@ -290,4 +299,10 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料 |
 | chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                   |
 | blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                  |
+| murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools) 中文文本分析工具包         |
+| NLP-大厂笔试题 [IT-cute](https://zhuanlan.zhihu.com/p/463715582)                                           |
+| 自然语言处理 [知乎话题](https://www.zhihu.com/topic/19560026/hot)                                               |
+| 自然语言理解 [知乎话题](https://www.zhihu.com/topic/20646853/hot)                                               |
+| 对话系统 [知乎话题](https://www.zhihu.com/topic/20141243/hot)                                                 |
+| 如何来做用户意图识别 [火贪三刀](https://blog.csdn.net/shijing\_0214/article/details/71250327)                       |
 |                                                                                                       |
