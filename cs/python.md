@@ -301,12 +301,13 @@
 | -------------------------------------------------------------------------------------------------------------- | - |
 | SciPy Lecture Notes 中文版（Python科学计算生态的介绍的中文翻译） ([书栈](https://www.bookstack.cn/books/scipy-lecture-notes\_cn), ) |   |
 
-| Pandas                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pandas 官方教程 ([书栈](https://www.bookstack.cn/books/pandas-official-tut-zh), )                                                                       |
-| pandas 0.25.3 documentation ([书栈](https://www.bookstack.cn/books/pandas-0.25.3), )                                                                |
-| Pandas for Data Analysis \| SciPy 2017 Tutorial \| Daniel Chen [Enthought](https://www.youtube.com/watch?v=oGzU688xCUs)                           |
-| Solving real-world data analysis problems with Python Pandas! (Lego dataset analysis) [Keith Galli](https://www.youtube.com/watch?v=BzQDi4D0B\_M) |
+| Pandas                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pandas 官方教程 ([书栈](https://www.bookstack.cn/books/pandas-official-tut-zh), )                                                                                     |
+| pandas 0.25.3 documentation ([书栈](https://www.bookstack.cn/books/pandas-0.25.3), )                                                                              |
+| Pandas for Data Analysis \| SciPy 2017 Tutorial \| Daniel Chen [Enthought](https://www.youtube.com/watch?v=oGzU688xCUs)                                         |
+| Solving real-world data analysis problems with Python Pandas! (Lego dataset analysis) [Keith Galli](https://www.youtube.com/watch?v=BzQDi4D0B\_M)               |
+| Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg) |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
