@@ -192,6 +192,7 @@
 | Python 面向对象编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYljhzZXCKjbQl-lmr8YFen)                                                                        |
 | Object Oriented Programming with Python [freeCodeCamp](https://www.youtube.com/watch?v=Ej\_02ICOIgs)                                                                   |
 | Object Oriented Programming with Python - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=Ej\_02ICOIgs)                                       |
+| Data Scientist生产力进阶—Python OOP编程快速入门（第617期） [Data Application Lab](https://www.youtube.com/watch?v=xKL1u8hF8rI)                                                        |
 
 ## Python 教程
 
