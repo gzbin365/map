@@ -436,12 +436,15 @@ The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://ww
 
 | 黎曼猜想                                                                                   |
 | -------------------------------------------------------------------------------------- |
+| 所有非平凡零点都位于实部为1/2的直线上                                                                   |
 | 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应” |
 | 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序 |
 | 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下   |
 | 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？  |
 | 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？            |
 | 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？     |
+| 你的生日是唯一的嗎？小學生也能聽得懂的數學之黎曼猜想（[一](https://www.youtube.com/watch?v=71e8Oas4fSc)）\| 雅桑了嗎    |
+| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（[二](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)） \| 雅桑了嗎 |
 |                                                                                        |
 
 ### 泛函分析 Functional Analysis
@@ -1098,6 +1101,14 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                                                                                                                                                                                                            |
 | 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                                                                                                                                                                                                               |
 | <p><a href="https://www.claymath.org/millennium-problems">七大数学难题</a> Millennium Problems <a href="https://www.claymath.org">美国克雷数学研究所</a> 2000 <a href="https://www.youtube.com/watch?v=vO8q_MymDhw&#x26;t=11s">v</a></p><p>杨-米尔斯存在性和质量缺口</p><p>黎曼假设/黎曼猜想？</p><p>NP完全问题</p><p>纳卫尔-斯托可方程的存在性与光滑性</p><p>霍奇猜想</p><p>庞加莱猜想</p><p>Birch 和 Swinnerton-Dyer 猜想</p> |
+
+### NP完全问题 NP Hard
+
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（二） \| [雅桑了嗎](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)  ending part |
+|                                                                                                     |
+|                                                                                                     |
 
 ## 数学家/名人
 
