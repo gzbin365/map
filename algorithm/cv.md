@@ -58,6 +58,8 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Introductory python tutorials for image processing [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)                                                           |
 | Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf)                                                                        |
 | The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [Reducible](https://www.youtube.com/watch?v=0me3guauqOU)                                                                         |
+| Huffman Codes: An Information Theory Perspective [Reducible](https://www.youtube.com/watch?v=B3y0RsVCyrw)                                                                                             |
+|                                                                                                                                                                                                       |
 
 | pillow                                                             |                                                 |   |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - | - |

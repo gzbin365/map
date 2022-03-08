@@ -48,6 +48,13 @@ description: 自然语言处理
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 | KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                   |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
+| Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |
+| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
+| How to get meaning from text with language model BERT \| AI Explained [Peltarion](https://www.youtube.com/watch?v=-9vVhYEXeyQ)                                     |
+| Intuition Behind Self-Attention Mechanism in Transformer Networks [Ark](https://www.youtube.com/watch?v=g2BRIuln4uc)                                               |
+| Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                             |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
 
 LDA 文档聚类 plsa lsa
 
@@ -201,6 +208,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【Live講堂】Line Bot聊天機器人極速開發 [GjunChannel](https://www.youtube.com/watch?v=lY74e2\_Z3Vw) |
 |                                                                                       |
 
+| Twitter Bot                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| How to Build a Twitter Bot with Python [Learn With Jabe](https://www.youtube.com/playlist?list=PLcYAiF7x5VfDsKBnarfMY8wi5x9bfpff7) |
+|                                                                                                                                    |
+|                                                                                                                                    |
+
 | Discord Bot                                                                                         |
 | --------------------------------------------------------------------------------------------------- |
 | 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)           |
@@ -264,6 +277,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Github Copilot: Good or Bad? [sentdex](https://www.youtube.com/watch?v=PDNt07UePvk)                                                                          |
 | Introducing GPT-J -- An Open Source Version Of GPT-3 (NLP News) [Vennify AI](https://www.youtube.com/watch?v=6w5sgWo68E0)                                    |
 | Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI [sentdex](https://www.youtube.com/watch?v=\_z86t7LerrQ)                                |
+| How To Build a GPT-3 Chatbot with Python [Learn With Jabe](https://www.youtube.com/watch?v=C-8sF81k7cY)                                                      |
+| Building my first GPT 3 App with Open AI Playground [Greg Raiz](https://www.youtube.com/channel/UC9yKfHPA\_AKfMiqtG4tvKPw)                                   |
+| This New A.I. Can Write Anything, Even Code (GPT-3) [ColdFusion](https://www.youtube.com/watch?v=Te5rOTcE4J4)                                                |
+| GPT2:AI Language Models & Transformers - [Computerphile](https://www.youtube.com/watch?v=rURRYI66E54)                                                        |
+| GPT3: An Even Bigger Language Model - [Computerphile](https://www.youtube.com/watch?v=\_8yVOC4ciXc)                                                          |
 
 ### Causal Inference
 

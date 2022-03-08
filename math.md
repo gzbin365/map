@@ -737,7 +737,9 @@ $$
 | Optimization [Nilotpal Sinha](https://www.youtube.com/playlist?list=PL7pHMzBbqW08LZkcOX50mi4EaFWtsGShx)                                             |
 | Numerical Optimization - Shirish Shevade \| IISc - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P) |
 | 最优化 [知乎话题](https://www.zhihu.com/topic/19616819/hot) [完整话题结构](https://www.zhihu.com/topic/19616819/organize/entire#anchor-children-topic)           |
-|                                                                                                                                                     |
+| 梯度的方向为什么是函数值增加最快的方向？ [姚远](https://zhuanlan.zhihu.com/p/38525412)                                                                                    |
+| \[TA 補充課] Optimization for Deep Learning (1/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=4pUmZ8hXlHM)                              |
+| \[TA 補充課] Optimization for Deep Learning (2/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=e03YKGHXnL8)                              |
 |                                                                                                                                                     |
 
 ### 凸优化 Convex Optimization
