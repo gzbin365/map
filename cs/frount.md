@@ -194,44 +194,46 @@
 
 ## HTML5 and CSS3
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Learn HTML5 and CSS3 For Beginners - Crash Course([Dev Ed](https://www.youtube.com/watch?v=vQWlgd7hV4A))3:54:02                                    |
-| HTML and CSS Tutorial - Create a Website for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=kMT54MPz9oE)                                 |
-| HTML5 & CSS Development: Learn How to Build a Professional Website \| Udemy, Jordan Hudgens [Udemy](https://www.youtube.com/watch?v=5bMdjkfvONE)   |
-| HTML, CSS and JavaScript [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUtRW7sd0eoDgj8a2ED\_69)                             |
-| Build a Quiz App with HTML, CSS, and JavaScript [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)          |
-| H5实现俄罗斯方块游戏 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbOU2pQP6LxWlmo8OX6iVf-)                                                      |
-| node js上最新HTML5开发框架 Meteor [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaba39ov73zbIgLCUErUZNf)                                       |
-| HTML5绘图 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhayk3WdK9Jjx\_Qgarn0tof-)                                                         |
-| Html概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZOrOnXXsSEz\_RdSxAUcbzd)                                                          |
-| bootstrap综合实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbct61SvA1VQP-zJpV21V1m)                                                    |
-| DatePicker组件开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZw6aY081\_bwJ9kx5Sba3CH)                                                  |
-| 麦子学院-Web前端开发之HTML+CSS基础入门 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyAJmlttiGjoZzrA5IePLUv)                                     |
-| 麦子学院-Web前端开发之HTML5+CSS3快速入门 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz3qnV2fCr1TRsEO4g5PhJ-)                                   |
-| 麦子学院-Web前端开发之Photoshop切片 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzReUvoeYU5S6DbbSoK\_Lcb)                                     |
-| 麦子学院-使用Angularjs开发Web App [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzn1uxx0vG5UQ2jTst1A5nF)                                     |
-| Angular Crash Course 2021 [Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                                            |
-| 麦子学院-响应式web设计及项目实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAICeftDHZXbX4xIla4aLW)                                            |
-| 强大的抓包神器-Charles详解课程 Charles抓包配置极速实战视频教程 Charles原理与实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxDdlsMDdXZky7DBF3BPXV6)          |
-| HTML Full Course - Build a Website Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg)                                            |
-| HTML完整课程 - 构建网站教程 [freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg\&t=1s)                                                                |
-| HTML5 Game Development [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225)                                         |
-| Electron Build Desktop Apps Using HTML\CSS\JS [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7TTTjsEFfASkgqwlyZOPSWz)                 |
-| Responsive Personal Portfolio Website Using HTML CSS And JavaScript \| Dark/Light Mode [Bedimcode](https://www.youtube.com/watch?v=27JtRAI3QO8)    |
-| Introduction To Responsive Web Design - HTML & CSS Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s)                            |
-| Learn HTML5 and CSS3 From Scratch - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)                                        |
-| How To Make Website Using HTML & CSS                                                                                                               |
-| HTML and CSS Tutorial for 2021 - COMPLETE Crash Course! [DesignCourse](https://www.youtube.com/watch?v=D-h8L5hgW-w)                                |
-| CSS Tutorial - Zero to Hero (Complete Course) [freeCodeCamp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)                                          |
-| How To Make A Website Like YouTube Using HTML CSS JS \| Video Sharing Website Design [Easy Tutorials](https://www.youtube.com/watch?v=4ykAepVkG5Y) |
-| HTML Crash Course for Beginners - Website Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=916GWv2Qs08)                                     |
-| Responsive Dropdown Sidebar Menu using HTML CSS and JavaScript \| Side Navigation Bar [CodingLab](https://www.youtube.com/watch?v=ES8vJcUqE7s)     |
-| 【html】1小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=CLUPkcLQm64)                                                                    |
-| Feature Toggles - Why and How to Add to Your Software [freeCodeCamp](https://www.youtube.com/watch?v=-yHZ9uLVSp4)                                  |
-| Canvas图形、动画、游戏开发从入门到精通全系列课程　[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlmrUsdfVrTRt0lI1yQ9DEb)                                  |
-| HTML5 Canvas and JavaScript Mario Game Tutorial [Chris Courses](https://www.youtube.com/watch?v=4q2vvZn5aoo)                                       |
-| HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                      |
+|                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CS50 Marathon - CS50 2021 - Lecture 8 - HTML, CSS, JavaScript [CS50](https://www.youtube.com/watch?v=f\_mFUq-rHfk)  [list](https://www.youtube.com/playlist?list=PLhQjrBD2T380Xnv\_v683p6UjiKJZe13ki) |
+| Learn HTML – Full Tutorial for Beginners (2022) [freeCodeCamp](https://www.youtube.com/watch?v=kUMe1FH4CHE)                                                                                           |
+| Learn HTML5 and CSS3 For Beginners - Crash Course([Dev Ed](https://www.youtube.com/watch?v=vQWlgd7hV4A))3:54:02                                                                                       |
+| HTML and CSS Tutorial - Create a Website for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=kMT54MPz9oE)                                                                                    |
+| HTML5 & CSS Development: Learn How to Build a Professional Website \| Udemy, Jordan Hudgens [Udemy](https://www.youtube.com/watch?v=5bMdjkfvONE)                                                      |
+| HTML, CSS and JavaScript [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUtRW7sd0eoDgj8a2ED\_69)                                                                                |
+| Build a Quiz App with HTML, CSS, and JavaScript [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)                                                             |
+| H5实现俄罗斯方块游戏 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbOU2pQP6LxWlmo8OX6iVf-)                                                                                                         |
+| node js上最新HTML5开发框架 Meteor [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaba39ov73zbIgLCUErUZNf)                                                                                          |
+| HTML5绘图 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhayk3WdK9Jjx\_Qgarn0tof-)                                                                                                            |
+| Html概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZOrOnXXsSEz\_RdSxAUcbzd)                                                                                                             |
+| bootstrap综合实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbct61SvA1VQP-zJpV21V1m)                                                                                                       |
+| DatePicker组件开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZw6aY081\_bwJ9kx5Sba3CH)                                                                                                     |
+| 麦子学院-Web前端开发之HTML+CSS基础入门 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyAJmlttiGjoZzrA5IePLUv)                                                                                        |
+| 麦子学院-Web前端开发之HTML5+CSS3快速入门 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz3qnV2fCr1TRsEO4g5PhJ-)                                                                                      |
+| 麦子学院-Web前端开发之Photoshop切片 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzReUvoeYU5S6DbbSoK\_Lcb)                                                                                        |
+| 麦子学院-使用Angularjs开发Web App [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzn1uxx0vG5UQ2jTst1A5nF)                                                                                        |
+| Angular Crash Course 2021 [Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                                                                                               |
+| 麦子学院-响应式web设计及项目实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAICeftDHZXbX4xIla4aLW)                                                                                               |
+| 强大的抓包神器-Charles详解课程 Charles抓包配置极速实战视频教程 Charles原理与实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxDdlsMDdXZky7DBF3BPXV6)                                                             |
+| HTML Full Course - Build a Website Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg)                                                                                               |
+| HTML完整课程 - 构建网站教程 [freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg\&t=1s)                                                                                                                   |
+| HTML5 Game Development [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225)                                                                                            |
+| Electron Build Desktop Apps Using HTML\CSS\JS [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7TTTjsEFfASkgqwlyZOPSWz)                                                                    |
+| Responsive Personal Portfolio Website Using HTML CSS And JavaScript \| Dark/Light Mode [Bedimcode](https://www.youtube.com/watch?v=27JtRAI3QO8)                                                       |
+| Introduction To Responsive Web Design - HTML & CSS Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s)                                                                               |
+| Learn HTML5 and CSS3 From Scratch - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)                                                                                           |
+| How To Make Website Using HTML & CSS                                                                                                                                                                  |
+| HTML and CSS Tutorial for 2021 - COMPLETE Crash Course! [DesignCourse](https://www.youtube.com/watch?v=D-h8L5hgW-w)                                                                                   |
+| CSS Tutorial - Zero to Hero (Complete Course) [freeCodeCamp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)                                                                                             |
+| How To Make A Website Like YouTube Using HTML CSS JS \| Video Sharing Website Design [Easy Tutorials](https://www.youtube.com/watch?v=4ykAepVkG5Y)                                                    |
+| HTML Crash Course for Beginners - Website Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=916GWv2Qs08)                                                                                        |
+| Responsive Dropdown Sidebar Menu using HTML CSS and JavaScript \| Side Navigation Bar [CodingLab](https://www.youtube.com/watch?v=ES8vJcUqE7s)                                                        |
+| 【html】1小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=CLUPkcLQm64)                                                                                                                       |
+| Feature Toggles - Why and How to Add to Your Software [freeCodeCamp](https://www.youtube.com/watch?v=-yHZ9uLVSp4)                                                                                     |
+| Canvas图形、动画、游戏开发从入门到精通全系列课程　[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlmrUsdfVrTRt0lI1yQ9DEb)                                                                                     |
+| HTML5 Canvas and JavaScript Mario Game Tutorial [Chris Courses](https://www.youtube.com/watch?v=4q2vvZn5aoo)                                                                                          |
+| HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                         |
 
 ### html
 

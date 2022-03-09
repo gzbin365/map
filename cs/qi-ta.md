@@ -306,12 +306,13 @@
 
 ## tmp
 
-| tmp                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Web & Mobile Analytics(**[**quora**](https://webmobileanalytics.quora.com)**, )**                                                                    |
-| Advanced Topics [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvvfORx\_\_OYrXM6pUK8aR8j0)                                         |
-| Theory of Computation and Automata - Shai Simonson \| ADUni [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0fgS4TGUA1FmJZaLN943DT) |
-| Kotlin Course - Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)                                                     |
+| tmp                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Web & Mobile Analytics(**[**quora**](https://webmobileanalytics.quora.com)**, )**                                                                                                        |
+| Advanced Topics [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvvfORx\_\_OYrXM6pUK8aR8j0)                                                                             |
+| Theory of Computation and Automata - Shai Simonson \| ADUni [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0fgS4TGUA1FmJZaLN943DT)                                     |
+| Kotlin Course - Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)                                                                                         |
+| Kotlin Tutorial for Beginners: The Kotlin Programming Language Full 9-hour Kotlin Course [Donn Felker - Freelancing for Software Developers](https://www.youtube.com/watch?v=wuiT4T\_LJQo) |
 
 ## 源代码托管网站
 

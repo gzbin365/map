@@ -282,6 +282,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | This New A.I. Can Write Anything, Even Code (GPT-3) [ColdFusion](https://www.youtube.com/watch?v=Te5rOTcE4J4)                                                |
 | GPT2:AI Language Models & Transformers - [Computerphile](https://www.youtube.com/watch?v=rURRYI66E54)                                                        |
 | GPT3: An Even Bigger Language Model - [Computerphile](https://www.youtube.com/watch?v=\_8yVOC4ciXc)                                                          |
+| OpenAI Codex Live Demo [OpenAI](https://www.youtube.com/watch?v=SGUCcjHTmGY)                                                                                 |
+| OpenAI: Working with GPT-3 [Artificial Intelligence Society](https://www.youtube.com/watch?v=ffKXEvnaAZM&)                                                   |
+| Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=U5OD8MjYnOM) Podcast #215             |
 
 ### Causal Inference
 
