@@ -254,7 +254,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
 | letiantian/[TextRank4ZH](https://github.com/letiantian/TextRank4ZH)  从中文文本中自动提取关键词和摘要 |
-|                                                                                       |
+| paper-digest [s](http://www.paper-digest.com)                                         |
 |                                                                                       |
 
 ### Attention
