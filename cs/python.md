@@ -31,7 +31,7 @@
 |                                                                                                                                                           |                                                                                                                                 | **EuroSciPy(**[**u2b**](https://www.youtube.com/c/EuroSciPy/featured)**, )**                                                                                                                                                                                                                                   |
 | [**Al Sweigart**](https://www.youtube.com/user/Albert10110/featured)                                                                                      | **Termux(**[**v**](https://www.youtube.com/watch?v=bNx2dNKeerA)**,** [**Wiki**](https://wiki.termux.com/wiki/Main\_Page)**, )** |                                                                                                                                                                                                                                                                                                                |
 
-**GNotification(**[**intro**](https://developer.gnome.org/GNotification/)\*\*, [**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html), [**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)) [**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) \*\*[**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
+**GNotification(**[**intro**](https://developer.gnome.org/GNotification/)\*\*, [**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html), [**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)) [**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)  [**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
 
 [**What Does It Take To Be An Expert At Python?**](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 
@@ -406,6 +406,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | **Wanderson(**[**u**](https://www.youtube.com/c/WandersonIsMe/featured)**,** [**list**](https://www.youtube.com/playlist?list=PLfQ7GQSrl0\_t0hkgOk\_Wxdjx9v2vjKfu9)**, )** | **Dear PyGui(**[**v**](https://www.youtube.com/watch?v=2RocXKPPx4o)**, )**                   |
 | **Tkinter(**[**v**](https://www.youtube.com/watch?v=itRLRfuL\_PQ)**, )**                                                                                                   | **collections(**[**b**](https://blog.csdn.net/abc\_12366/article/details/80447228)**, )**    |
 | Qt([u](https://www.youtube.com/c/QtStudios/featured), ) [wiki](https://wiki.qt.io/Qt\_for\_Python)                                                                         | Alan D Moore Codes([u](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured), ) |
+|                                                                                                                                                                            | pygtk                                                                                        |
 
 | up                                                                                                       |   |
 | -------------------------------------------------------------------------------------------------------- | - |
@@ -413,23 +414,36 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 
 | 视频                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI)（Alan D Moore Codes 38：11）                     |
-| PyQt6 Course For Beginners \[Python GUI Framework PyQt ]\([Parwiz Forogh](https://www.youtube.com/watch?v=ot94H3-d5d8))3:09:19                              |
-| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                             |
-| 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                                                  |
-| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                       |
+| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI) Alan D Moore Codes                            |
 | Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                                         |
 | 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)                                 |
-| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                            |
-| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                     |
-| Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                              |
-| PyQt5 Tutorial - Setup and a Basic GUI Application [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)                |
 | Python GUI - Eel [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1AnieCi1FfNibjYWkLWIPi92Yu)   ChrisKnott/[Eel](https://github.com/ChrisKnott/Eel) |
 | Python GUI - Tkinter [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anie\_vHuCOt3hCXN6HIl8Ph8u)                                                  |
-| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                  |
-| GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                        |
 | GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                           |
 | Prox Softwares [Proxlight](https://www.youtube.com/playlist?list=PLi3fckH40FL5zHR-80J\_\_tgmCe0-Jx\_nm)                                                     |
+
+| Tkinter                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| tkinter [doc](https://docs.python.org/3/library/tkinter.html)   tk [doc](https://docs.python.org/3/library/tk.html)                                                                    |
+| Awesome Python Tkinter GUI drag & drop builder! Pygubu Coding Zoe                                                                                                                      |
+| Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU)   [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx) |
+| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                             |
+| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                |
+| GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                                                   |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                                                         |
+| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                                                  |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                                                        |
+| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                                                       |
+| Tkinter Basics [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBUYQiG\_jrAMOtm\_SfPLvwR)                                                                        |
+|                                                                                                                                                                                        |
+
+| PyQt                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| PyQt5 Tutorial - Setup and a Basic GUI Application [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj) |
+| PyQt6 Course For Beginners \[Python GUI Framework PyQt ]\([Parwiz Forogh](https://www.youtube.com/watch?v=ot94H3-d5d8))3:09:19               |
+| 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                                   |
+| PyQt5 Programming [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBu2Wk6ajCTyBMkPIGx7O37)                             |
+| Master PyQt5 [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kAingA-ByP0B2O97M\_QVaLZ)                                 |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
