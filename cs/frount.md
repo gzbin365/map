@@ -128,6 +128,7 @@
 | Full Stack MERN Project - Build and Deploy an App \| React + Redux, Node, Express, MongoDB \[Part 2/2] [JavaScript Mastery](https://www.youtube.com/watch?v=aibtHnbeuio) |
 | Let's Create a Rich Text Editor with Draftjs and React [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7QNkpFwzsbKvZUUAtedgIhn)                              |
 | Build React Apps (Fleux & Redux) Practical Examples [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd)                                 |
+| Redux Tutorial - Beginner to Advanced [freeCodeCamp](https://www.youtube.com/watch?v=zrs7u6bdbUw)                                                                        |
 | React JS Course for Beginners - 2021 Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)                                                                |
 | Full Stack React & Firebase Tutorial - Build a social media app [freeCodeCamp](https://www.youtube.com/watch?v=m\_u6P5k0vP0)                                             |
 | Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js) [freeCodeCamp](https://www.youtube.com/watch?v=7CqJlxBYj-M)                                      |

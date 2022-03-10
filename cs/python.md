@@ -425,7 +425,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Tkinter                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | tkinter [doc](https://docs.python.org/3/library/tkinter.html)   tk [doc](https://docs.python.org/3/library/tk.html)                                                                    |
-| Awesome Python Tkinter GUI drag & drop builder! Pygubu Coding Zoe                                                                                                                      |
+| Awesome Python Tkinter GUI drag & drop builder! Pygubu [Coding Zoe](https://www.youtube.com/watch?v=CS3\_uVTUaII)                                                                      |
 | Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU)   [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx) |
 | tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                             |
 | Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                |
@@ -435,6 +435,10 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                                                        |
 | How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                                                       |
 | Tkinter Basics [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBUYQiG\_jrAMOtm\_SfPLvwR)                                                                        |
+| Python GUI's With TKinter [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)                                                                       |
+| How to Program a GUI Application (with Python Tkinter)! [Keith Galli](https://www.youtube.com/watch?v=D8-snVfekto)                                                                     |
+|                                                                                                                                                                                        |
+|                                                                                                                                                                                        |
 |                                                                                                                                                                                        |
 
 | PyQt                                                                                                                                         |
@@ -444,6 +448,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                                   |
 | PyQt5 Programming [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBu2Wk6ajCTyBMkPIGx7O37)                             |
 | Master PyQt5 [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kAingA-ByP0B2O97M\_QVaLZ)                                 |
+| PyQt5 GUI Thursdays [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpmCA8s\_dpPMvQLyHbvxocY)                                  |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
@@ -680,6 +685,7 @@ Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch
 | Python-Excel([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QkTirfL3vWmaD786pvZp6hT))                                        |
 | **Automate Excel With Python - Python Excel Tutorial (OpenPyXL)(**[**Tech With Tim**](https://www.youtube.com/watch?v=7YS6YDQKFh0)**)** |
 | 【python】自动化操作excel（openpyxl）[GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=mYX9AaJF2lw)                                            |
+| Python and Excel Programming With OpenPyXL [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtrMWIf\_MXWrCajQwp3lL27T)      |
 
 ## Manage Folders and Files
 
@@ -743,6 +749,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                          |
 | Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                    |
 | Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                     |
+| 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                    |
 
 ## Book
 

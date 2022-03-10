@@ -69,6 +69,12 @@
 | Multi Threading Model in Paradox Games: Past, Present and Future - Mathieu Ropert - CppCon 2021 [CppCon](https://www.youtube.com/watch?v=e\_2z7uWouuk)           |
 |                                                                                                                                                                  |
 
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| ASCII Ray Casting Engine Demonstration - Made in C++ with Fazen2d library [AeiDeeVie](https://www.youtube.com/watch?v=6Zn\_nVkFaF8) |
+|                                                                                                                                     |
+|                                                                                                                                     |
+
 ### 设计模式
 
 |                                                                                                                |

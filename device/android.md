@@ -44,6 +44,7 @@
 | Responsive Images [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlMK4ycui-adGBe2erTgMkY)                                                             |
 | Android Programming Course - Kotlin, Jetpack Compose UI, Graph Data Structures & Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=5kb-zpQGYGk)           |
 | Kotlin & Android 12 Tutorial \| Learn How to Build an Android App 📱 9+ h FREE Development Masterclass [tutorialsEU](https://www.youtube.com/watch?v=HwoxgUPabMk) |
+| Kotlin Android Tutorial \| Learn How to Build an Android App 📱 7+ hours FREE Development Masterclass [tutorialsEU](https://www.youtube.com/watch?v=uRyvNKRkwbs)  |
 | 安卓逆向 [易锦教育](https://www.youtube.com/playlist?list=PL4rdaY6hLY6-qPjzr4XvNFH2dElSRt5zZ)                                                                             |
 | What are 12 Factor Apps and Why Should You Care?　[Benjamin Porter](https://www.youtube.com/watch?v=REbM4BDeua0)                                                   |
 | Building Apps from a Business Perspective - App Product Management Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=poLzjLt2yqU)                    |

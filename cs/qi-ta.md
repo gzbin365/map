@@ -197,7 +197,7 @@
 
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                 |
+| <p>Snake Game using Opencv Python + 3080 Ti Giveaway</p><p><a href="https://www.youtube.com/watch?v=w26Ze6lP02Y">Murtaza's Workshop - Robotics and AI</a></p>   |
 | **Game Programming Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC)**)**                            |
 | Code-It-Yourself!([javidx9](https://www.youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO))                                                          |
 | [Automating Android Games with Python: Stick Hero](https://www.youtube.com/watch?v=Du\_\_JfXqsAs)                                                               |
@@ -218,6 +218,7 @@
 | Video game made with pure python/pygame \| Platformer Shooter [enigma](https://www.youtube.com/watch?v=uwWRv9PNqWU)                                             |
 | 2D Ray Casting Made With Pure Python and Pygame [enigma](https://www.youtube.com/watch?v=58l0SURwYpc) [git](https://github.com/000Nobody/2D-Ray-Tracing)        |
 | Creating a platformer in Pygame with a camera, collisions, animation states and particle effects [Clear Code](https://www.youtube.com/watch?v=YWN8GcmJ-jA)      |
+| I Made a Game in 14 Hours with Python \[Timelapse] [DaFluffyPotato](https://www.youtube.com/watch?v=wi1S-N2bC10)                                                |
 | Making a Python/Pygame Game in 48 Hours! [DaFluffyPotato](https://www.youtube.com/watch?v=lAq7wj4TvtU)                                                          |
 | Making A Python Game In 48 Hours! [Barji](https://www.youtube.com/watch?v=lVmdmivVK5w)                                                                          |
 | How I make bots using python (educational) [Kian Brose](https://www.youtube.com/watch?v=wCho\_BdpdyY)                                                           |

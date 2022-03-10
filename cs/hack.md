@@ -59,11 +59,11 @@
 | 渗透攻击 micro8 [gitbook](https://micro8.gitbook.io/micro8/) [github](https://github.com/Micropoor/Micro8)                     |
 | 黑客攻防入門 [Angus Chang](https://www.youtube.com/playlist?list=PLzKtnppOmiXDSZZA8YOjcCxkKTcDXCuej)                             |
 
-| 黑客组织                                                                      |   |
-| ------------------------------------------------------------------------- | - |
-| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw\&t=454s) tw |   |
-|                                                                           |   |
-|                                                                           |   |
+| 黑客组织                                                                      |                                                      |
+| ------------------------------------------------------------------------- | ---------------------------------------------------- |
+| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw\&t=454s) tw | 匿名者 [v](https://www.youtube.com/watch?v=UVQ9zE8C3aE) |
+|                                                                           |                                                      |
+|                                                                           |                                                      |
 
 | Log4J / Log4Shell                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -321,6 +321,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ------------------------------------------------------------------------------------------------------------------------- |
 | quick.nvim \| A fast, modern and reliable Neovim configuration [Albin Groen](https://www.youtube.com/watch?v=OhbgZbORFd4) |
 | Vim And Emacs Are The Most Important Skills You Should Learn [DistroTube](https://www.youtube.com/watch?v=F8ZOnz0x9UM)    |
+| Vim Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=RZ4p-saaQkc) NeuralNine                         |
 |                                                                                                                           |
 
 ### Neovim

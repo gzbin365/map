@@ -10,6 +10,8 @@
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
 
+【Huan】 我買了一張Quadro繪圖卡! 能打遊戲嗎? 繪圖卡適合甚麼樣的人入手? [Huan](https://www.youtube.com/watch?v=PzQEtiEsut8)
+
 ## **CUDA**
 
 |                                                                                                                     |
