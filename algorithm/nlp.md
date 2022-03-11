@@ -289,8 +289,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | <p>GPT-3 Demo: New AI Algorithm Changes How We Interact With Technology</p><p><a href="https://www.youtube.com/watch?v=8V20HkoiNtc">Disruption Theory</a></p> |
 | How GPT3 Works - Easily Explained with Animations [Jay Alammar](https://www.youtube.com/watch?v=MQnJZuBGmSQ)                                                  |
 | Two AIs talk about the nature of Love. (GPT-3) \| AJPhilanthropist [Alif Jakir](https://www.youtube.com/watch?v=a6jt3Vufa9U)                                  |
-|                                                                                                                                                               |
-|                                                                                                                                                               |
+| #031 WE GOT ACCESS TO GPT-3! (With Gary Marcus, Walid Saba and Connor Leahy) [Machine Learning Street Talk](https://www.youtube.com/watch?v=iccd86vOz3w)      |
+| What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
