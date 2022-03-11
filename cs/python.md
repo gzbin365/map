@@ -422,24 +422,25 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                           |
 | Prox Softwares [Proxlight](https://www.youtube.com/playlist?list=PLi3fckH40FL5zHR-80J\_\_tgmCe0-Jx\_nm)                                                     |
 
-| Tkinter                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| tkinter [doc](https://docs.python.org/3/library/tkinter.html)   tk [doc](https://docs.python.org/3/library/tk.html)                                                                    |
-| Awesome Python Tkinter GUI drag & drop builder! Pygubu [Coding Zoe](https://www.youtube.com/watch?v=CS3\_uVTUaII)                                                                      |
-| Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU)   [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx) |
-| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                             |
-| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                |
-| GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                                                   |
-| Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                                                         |
-| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                                                  |
-| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                                                        |
-| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                                                       |
-| Tkinter Basics [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBUYQiG\_jrAMOtm\_SfPLvwR)                                                                        |
-| Python GUI's With TKinter [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)                                                                       |
-| How to Program a GUI Application (with Python Tkinter)! [Keith Galli](https://www.youtube.com/watch?v=D8-snVfekto)                                                                     |
-|                                                                                                                                                                                        |
-|                                                                                                                                                                                        |
-|                                                                                                                                                                                        |
+| Tkinter                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| tkinter [doc](https://docs.python.org/3/library/tkinter.html)   tk [doc](https://docs.python.org/3/library/tk.html)                                                                                                              |
+| Awesome Python Tkinter GUI drag & drop builder! Pygubu [Coding Zoe](https://www.youtube.com/watch?v=CS3\_uVTUaII)                                                                                                                |
+| Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU)   [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)                                           |
+| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                                                                       |
+| Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                                                          |
+| GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                                                                                             |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                                                                                                   |
+| 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                                                                                            |
+| Tkinter Course - Create Graphic User Interfaces in Python Tutorial([freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA))                                                                                                  |
+| How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                                                                                                 |
+| Tkinter Basics [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBUYQiG\_jrAMOtm\_SfPLvwR)                                                                                                                  |
+| Python GUI's With TKinter [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)                                                                                                                 |
+| How to Program a GUI Application (with Python Tkinter)! [Keith Galli](https://www.youtube.com/watch?v=D8-snVfekto)                                                                                                               |
+| tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                                                                       |
+| Build a desktop app with Python [Harika bv](https://medium.com/@harikabv/build-a-desktop-app-with-python-521e37c75517)                                                                                                           |
+| <p>How To Create A Desktop Application Using Python And Tkinter</p><p><a href="https://medium.com/analytics-vidhya/how-to-create-a-desktop-application-using-python-and-tkinter-25b6347cf845">Mohammed El Amine Mokhtari</a></p> |
+|                                                                                                                                                                                                                                  |
 
 | PyQt                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |

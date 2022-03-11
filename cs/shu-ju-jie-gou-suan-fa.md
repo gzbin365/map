@@ -117,6 +117,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 10 Common Coding Interview Problems - Solved! [freeCodeCamp](https://www.youtube.com/watch?v=Peq4GCPNC5c)                                                                                                                                                                                                                                             |
 | Data Structures and Algorithms for Beginners [Programming with Mosh](https://www.youtube.com/watch?v=BBpAmxU\_NQo)                                                                                                                                                                                                                                    |
 | A\* Pathfinding Visualization Tutorial - Python A\* Path Finding Tutorial [Tech With Tim](https://www.youtube.com/watch?v=JtiK0DOeI4A)                                                                                                                                                                                                                |
+| Studying Algorithms in Python [NeuralNine](https://www.youtube.com/watch?v=uxwH3l2RQpY) pygorithm                                                                                                                                                                                                                                                     |
 
 ## 排序算法 Sorting Algorithms
 

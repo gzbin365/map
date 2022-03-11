@@ -270,11 +270,23 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cloud Fundamentals [IBM Technology](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-\_ZAGresP-i0okHe5FjcJ)                                                  |
+| Kubernetes Essentials from Google Cloud [Google Cloud Tech](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd\_1bWSnx)                          |
+| Kubernetes解释 [IBM Technology](https://www.youtube.com/watch?v=aSrqRSk43lY)                                                                                      |
+| Complete Kubernetes Tutorial for Beginners [TechWorld with Nana](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)                      |
+| Kubernetes for the Absolute Beginners [KodeKloud](https://www.youtube.com/playlist?list=PL2We04F3Y\_43dAehLMT5GxJhtk3mJtkl5)                                    |
+| Kubernetes in 5 mins [VMware Cloud Native Apps](https://www.youtube.com/watch?v=PH-2FfFD2PU)                                                                    |
+| Introduction to Microservices, Docker, and Kubernetes [James Quigley](https://www.youtube.com/watch?v=1xo-0gCVhTU)                                              |
 | Kubernetes与Docker：这不是一个问题 [IBM Technology](https://www.youtube.com/watch?v=2vMEQ5zs1ko)                                                                         |
 | Kubernetes Tutorial for Beginners \[FULL COURSE in 4 Hours] [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)                                  |
 | Docker vs Kubernetes vs Docker Swarm \| Comparison in 5 mins [TechWorld with Nana](https://www.youtube.com/watch?v=9\_s3h\_GVzZc)                               |
 | you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                                                            |
 | How to Provision an AWS EKS Kubernetes Cluster with Terraform [Spacelift](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform) |
+| CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=AplluksKvzI)             |
+| Kubernetes Crash Course for Absolute Beginners \[NEW] [TechWorld with Nana](https://www.youtube.com/watch?v=s\_o8dwzRlu4)                                       |
+| you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                                                            |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 ## GNOME
 
