@@ -506,6 +506,7 @@ Computer Components？Computer Architecture？
 | lllhhh/[BooksKeeper](https://github.com/lllhhh/BooksKeeper) 对各类图书资源的收集。大量计算机、AI方面书籍。                                                                                                    |
 | lTbgykio/[Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books)                                                                                                               |
 | danistefanovic/[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)   [v](https://www.douyin.com/video/7059730400473550088)   Build your own (insert technology here) |
+| sindresorhus/[awesome](https://github.com/sindresorhus/awesome)    Awesome lists about all kinds of interesting topics                                                                  |
 
 ## 沙雕项目
 
