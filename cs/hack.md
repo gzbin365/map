@@ -38,6 +38,7 @@
 | Hackatons: DeepHack [DeepPavlov](https://www.youtube.com/c/DeepPavlov/playlists)                                                                       |
 | Linux for Hackers (and everyone) // FREE Course for Beginners [NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) |
 | Minecraft hacking with PYTHON and Log4j // Netcat reverse shell exploiting CVE [David Bombal](https://www.youtube.com/watch?v=efnluUK\_w\_U)           |
+| How Hackers Hack Into Any Phone's Camera?! [Loi Liang Yang](https://www.youtube.com/watch?v=HZufZeqeO2k)                                               |
 
 |                                                                                |   |
 | ------------------------------------------------------------------------------ | - |

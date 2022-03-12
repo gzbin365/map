@@ -62,6 +62,7 @@ description: 硬件设备
 
 |                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                  |
 | Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                             |
 | Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie) |
 | Maker.io Presents How to... [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyS2ss1BpkRhfBzYqC0vEgM8)                                                                                 |

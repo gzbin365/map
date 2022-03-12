@@ -95,6 +95,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender教程 [Henry\_环宇](https://www.youtube.com/playlist?list=PLw4hWepHFqhRg1VXYoZk1b6iGew2J5tsb)                                                  |
 | Blender 2.8-3.0 零基础入门系统教学 [Leon Lee](https://www.youtube.com/playlist?list=PLhzI\_V\_pEpEvDpsgOdBl-jxPnf4y3wH06)                                 |
 | Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                   |
+| Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                               |
 
 ### Revit
 
@@ -109,8 +110,9 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
 | 12 Principles of Animation (Official Full Series) [AlanBeckerTutorials](https://www.youtube.com/watch?v=uDqjIdI4bF4) |
-|                                                                                                                      |
-|                                                                                                                      |
+| How Computers Draw Weird Shapes (Marching Squares) [Reducible](https://www.youtube.com/watch?v=6oMZb3yP\_H8)         |
+| Coding Adventure: Marching Cubes [Sebastian Lague](https://www.youtube.com/watch?v=M3iI2l0ltbE)                      |
+| Coding Adventures [Sebastian Lague](https://www.youtube.com/playlist?list=PLFt\_AvWsXl0ehjAfLFsp1PGaatzAwo0uK)       |
 
 ## 后期
 

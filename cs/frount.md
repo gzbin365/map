@@ -114,6 +114,9 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| React with Redux Toolkit Crash Course [Laith Harb](https://www.youtube.com/watch?v=jR4fagDcvrc)                                                                          |
+| Livestream with Kent: React Patterns [Kent C. Dodds](https://www.youtube.com/watch?v=WV0UUcSPk-0)                                                                        |
+| React Crash Course - Build A Full Recipe App Tutorial [Dev Ed](https://www.youtube.com/watch?v=xc4uOzlndAk)                                                              |
 | React Course - Beginner's Tutorial for React JavaScript Library \[2022] [freeCodeCamp](https://www.youtube.com/watch?v=bMknfKXIFA8)                                      |
 | React [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfYnzzS-tUQbvl6OtZhNmSZ3)                                                                          |
 | ReactJS从入门到实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaIGUur0mtlTuZocJXB5aCM)                                                                          |
@@ -304,6 +307,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Let's Learn Typescript for Javascript Developers from Scratch [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7RGTEsMFIGLbzTa4iUA9rGA) |
 | Learn TypeScript - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)                                           |
 | AILHC/EasyGameFrameworkOpen [git](https://github.com/AILHC/EasyGameFrameworkOpen) 基于Typescript的渐进式通用游戏前端开发框架                                       |
+| Angular Tutorial for Beginners: Learn Angular & TypeScript [Programming with Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)                    |
 
 ### jQuery
 
@@ -370,11 +374,12 @@ MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1c
 
 ### Figma
 
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY) |
-| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)   |
-| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)         |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY)                 |
+| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)                   |
+| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)                         |
+| UI Design a Dark Neumorphism Tesla app in Figma from scratch [DesignCode](https://www.youtube.com/watch?v=nthq56UABI0) |
 
 ## 其他
 

@@ -259,6 +259,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【機器學習2022】[Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsPM2mM-OQzJXziCGJa8nJL8) [s](https://speech.ee.ntu.edu.tw/\~hylee/ml/2022-spring.php) [git](https://github.com/virginiakm1988/ML2022-Spring)                                                                                                                                                                                                                                                                                                                              |
+| Cognitive and AI IBM [Technology](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | MIT 6.034 Artificial Intelligence, Fall 2010 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe\_4hSi)                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Machine Learning \|\| Part 1 [Geek's Lesson](https://www.youtube.com/watch?v=6Qe5MawkQRU)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [**高级人工智能**](https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD\&from\_source=nav\_search\_new)                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -386,7 +387,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Learn TensorFlow and Deep Learning (beginner friendly code-first introduction) [**Daniel Bourke**](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)                                  |
 | Neural Networks from Scratch in Python（[sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)）                                                                                   |
-| **PyTorch for Deep Learning - Full Course / Tutorial(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=GIsg-ZUy0MY)**)9:41:39**                                                                        |
+| **PyTorch for Deep Learning - Full Course / Tutorial** [**freeCodeCamp.org**](https://www.youtube.com/watch?v=GIsg-ZUy0MY) **9:41:39**                                                                        |
 | [Ian Goodfellow: Generative Adversarial Networks (GANs) \| Lex Fridman Podcast #19](https://www.youtube.com/watch?v=Z6rxFNMGdn0)                                                                              |
 | [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI) Alexander Amini                                                                       |
 | [**深度学习原理与实践(天池)**](https://tianchi.aliyun.com/course/279)                                                                                                                                                    |
@@ -1085,5 +1086,23 @@ A Fireside Chat with Turing Award Winner Geoffrey Hinton, Pioneer of Deep Learni
 
 
 
+
+</details>
+
+<details>
+
+<summary>Andrew Ng</summary>
+
+Andrew Ng: Deep Learning, Education, and Real-World AI | [Lex Fridman](https://www.youtube.com/watch?v=0jspaMLxBig) Podcast #73
+
+Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips [Lex Fridman](https://www.youtube.com/watch?v=1k37OcjH7BM)
+
+</details>
+
+<details>
+
+<summary>Michael I. Jordan</summary>
+
+Michael I. Jordan: Machine Learning, Recommender Systems, and Future of AI | [Lex Fridman](https://www.youtube.com/watch?v=EYIKy\_FM9x0) Podcast #74
 
 </details>
