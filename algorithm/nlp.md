@@ -53,6 +53,7 @@ description: 自然语言处理
 | How to get meaning from text with language model BERT \| AI Explained [Peltarion](https://www.youtube.com/watch?v=-9vVhYEXeyQ)                                     |
 | Intuition Behind Self-Attention Mechanism in Transformer Networks [Ark](https://www.youtube.com/watch?v=g2BRIuln4uc)                                               |
 | Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                             |
+| ELMO, BERT, GPT [Hung-yi Lee](https://www.youtube.com/watch?v=UYPa347-DdE)                                                                                         |
 | LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
 |                                                                                                                                                                    |
 
@@ -291,7 +292,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Two AIs talk about the nature of Love. (GPT-3) \| AJPhilanthropist [Alif Jakir](https://www.youtube.com/watch?v=a6jt3Vufa9U)                                  |
 | #031 WE GOT ACCESS TO GPT-3! (With Gary Marcus, Walid Saba and Connor Leahy) [Machine Learning Street Talk](https://www.youtube.com/watch?v=iccd86vOz3w)      |
 | What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
-|                                                                                                                                                               |
+| \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
