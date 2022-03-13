@@ -285,6 +285,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=AplluksKvzI)             |
 | Kubernetes Crash Course for Absolute Beginners \[NEW] [TechWorld with Nana](https://www.youtube.com/watch?v=s\_o8dwzRlu4)                                       |
 | you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                                                            |
+| An Introduction To Kubernetes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=PlWPH\_VUlNE)                                                     |
 |                                                                                                                                                                 |
 |                                                                                                                                                                 |
 

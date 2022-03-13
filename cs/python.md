@@ -312,6 +312,7 @@
 | Solving real-world data analysis problems with Python Pandas! (Lego dataset analysis) [Keith Galli](https://www.youtube.com/watch?v=BzQDi4D0B\_M)               |
 | Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg) |
 | NumPy and Pandas Tutorial \| Data Analysis With Python \| Python Tutorial for Beginners \| [Simplilearn](https://www.youtube.com/watch?v=FniLzpaSFGk)           |
+| Pandas 教程 \| Pandas数据分析入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakOdivgnFVAgStnxd78hHyI)                                              |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -579,6 +580,8 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **【2021最新版】Python 并发编程实战，用多线程、多进程、多协程加速程序运行(**[**B**](https://www.bilibili.com/video/BV1bK411A7tV?p=3\&spm\_id\_from=pageDriver)**,** [**git**](https://github.com/peiss/ant-learn-python-concurrent)**,** [**aqy**](https://www.iqiyi.com/v\_vj8wqlhe84.html)**, )** |
+| \[Python Concurrent programming ] Python 并发编程实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocganLyOGNbzH9YdaSbZEALXmJ)                                                                                                                                 |
+| Python高级编程和异步IO并发编程 [优质VIP电影、视频 搬运工〈订阅更新〉](https://www.youtube.com/playlist?list=PLU2LfDuZos-pwZBCLXKhva80nPZgRGYff)                                                                                                                                                  |
 
 ### Asyncio
 
@@ -648,6 +651,7 @@ Python高性能编程
 | Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)                                   |
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                   |
 | I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE) |
+| Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                |
 
 ## Video Image Editing
 
@@ -676,6 +680,7 @@ Python高性能编程
 | csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                   |
 | RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader    |
 | awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                               |
+| Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)             |
 
 ## 网络编程
 
@@ -691,6 +696,7 @@ Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch
 | **Automate Excel With Python - Python Excel Tutorial (OpenPyXL)(**[**Tech With Tim**](https://www.youtube.com/watch?v=7YS6YDQKFh0)**)** |
 | 【python】自动化操作excel（openpyxl）[GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=mYX9AaJF2lw)                                            |
 | Python and Excel Programming With OpenPyXL [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtrMWIf\_MXWrCajQwp3lL27T)      |
+| Python处理Excel，实战办公自动化 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgalGu6MMn\_SZq3tVWJvrfwNp)                            |
 
 ## Manage Folders and Files
 
