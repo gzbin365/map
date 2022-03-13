@@ -311,6 +311,7 @@
 | Pandas for Data Analysis \| SciPy 2017 Tutorial \| Daniel Chen [Enthought](https://www.youtube.com/watch?v=oGzU688xCUs)                                         |
 | Solving real-world data analysis problems with Python Pandas! (Lego dataset analysis) [Keith Galli](https://www.youtube.com/watch?v=BzQDi4D0B\_M)               |
 | Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg) |
+| NumPy and Pandas Tutorial \| Data Analysis With Python \| Python Tutorial for Beginners \| [Simplilearn](https://www.youtube.com/watch?v=FniLzpaSFGk)           |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
