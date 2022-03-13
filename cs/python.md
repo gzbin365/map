@@ -693,9 +693,22 @@ Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch
 
 ## Manage Folders and Files
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| Manage Folders and Files([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QnZSANsRJl3eUtPQQRCy8PD)) |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Manage Folders and Files([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QnZSANsRJl3eUtPQQRCy8PD))                  |
+| Python Tutorial: Automate Parsing and Renaming of Multiple Files [Corey Schafer](https://www.youtube.com/watch?v=ve2pmm5JqmI) |
+
+## 数据处理
+
+### CSV
+
+### JSON
+
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Python Tutorial: Working with JSON Data using the json Module [Corey Schafer](https://www.youtube.com/watch?v=9N6a-VLBa2I) |
+|                                                                                                                            |
+|                                                                                                                            |
 
 ## **Auto Download of Videos & Images**
 
