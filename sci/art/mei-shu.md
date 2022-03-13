@@ -96,6 +96,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender 2.8-3.0 零基础入门系统教学 [Leon Lee](https://www.youtube.com/playlist?list=PLhzI\_V\_pEpEvDpsgOdBl-jxPnf4y3wH06)                                 |
 | Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                   |
 | Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                               |
+| Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                   |
 
 ### Revit
 
