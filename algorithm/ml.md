@@ -567,6 +567,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                   |
 | Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                       |
 | 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_) |
+| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                  |
 
 ### KNN
 
