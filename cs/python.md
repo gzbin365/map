@@ -754,6 +754,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                    |
 | Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                     |
 | 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                    |
+| Physics Simulations With Python and PyMunk [Tech With Tim](https://www.youtube.com/watch?v=tLsi2DeUsak)                               |
 
 ## Book
 
