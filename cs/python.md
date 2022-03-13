@@ -192,6 +192,8 @@
 | Python 面向对象编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYljhzZXCKjbQl-lmr8YFen)                                                                        |
 | Object Oriented Programming with Python [freeCodeCamp](https://www.youtube.com/watch?v=Ej\_02ICOIgs)                                                                   |
 | Object Oriented Programming with Python - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=Ej\_02ICOIgs)                                       |
+| Intro to Object Oriented Programming - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=SiBw7os-\_zI)                                                       |
+| Object Oriented Programming [MIT OpenCourseWare](https://www.youtube.com/watch?v=-DP1i2ZU9gk)                                                                          |
 | Data Scientist生产力进阶—Python OOP编程快速入门（第617期） [Data Application Lab](https://www.youtube.com/watch?v=xKL1u8hF8rI)                                                        |
 
 ## Python 教程
@@ -656,6 +658,7 @@ Python高性能编程
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
+| 崔庆才\_Python3爬虫入门到精通课程视频 34课 [true while](https://www.youtube.com/playlist?list=PLc8\_TkmqkE4Pe1P4spQoivMiDwVyYPvR1)  |
 | 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)    |
 | Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                       |
 | 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)           |

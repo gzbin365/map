@@ -9,4 +9,5 @@
 | 景腾 抖音号： [23743378](https://www.douyin.com/user/MS4wLjABAAAAsiU7sHpy21Sg8MzPgZv6f7dZPjBt4t9wn7PRe7llVPM)                         |
 | 互联网面试笔记　zhengjianglong915/note-of-interview　[git](https://github.com/zhengjianglong915/note-of-interview)                       |
 | 简历指南 + LeetCode + Kaggle　apachecn/Interview　[git](https://github.com/apachecn/Interview) [s](https://interview.apachecn.org/#/) |
+| 12步通关求职面试【更新完】 [周小伦](https://www.youtube.com/playlist?list=PL6T4gftV1K-j47lSJVTlTQmr6b0QBnLs\_)                                 |
 |                                                                                                                                 |

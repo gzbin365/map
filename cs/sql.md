@@ -32,11 +32,13 @@
 | 2-05 MySQL数据库v3.1 [小文](https://www.youtube.com/playlist?list=PLHl06E33t4OoBdz6Kdzsgxnes1UbETkFe) [code](https://drive.google.com/drive/folders/108P7C-gNT9NS\_pqAfoopixnQI-6\_KfZM)                                                                                                                                                                                                                                                                                                                                                                         |
 | 最新 MySQL 教程 零基础 从 入门 到 精通「完整体系」 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlDAa1A3yOLUO\_KTSrCEYVM)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Complete MySQL Beginner to Expert [Full Course](https://www.youtube.com/watch?v=en6YPAgc6WM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 慕课网\_MySQL提升课程 全面讲解MySQL架构设计【更新中】 [周小伦](https://www.youtube.com/playlist?list=PL6T4gftV1K-hTjksAuYn9sru5wSXa7b6g)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-|                                                                                           |   |
-| ----------------------------------------------------------------------------------------- | - |
-| Redis入门 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbeBI7RH4ppJFeDtP6SdfH4) |   |
-| Redis Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=jgpVdJB2sKQ)      |   |
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| Redis入门 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbeBI7RH4ppJFeDtP6SdfH4)                         |
+| Redis Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=jgpVdJB2sKQ)                              |
+| 慕课网\_一站式学习Redis 从入门到高可用分布式实践【更新完】 [周小伦](https://www.youtube.com/playlist?list=PL6T4gftV1K-iGuVRG018Y8R2DCqtKJIN6) |
 
 |                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
