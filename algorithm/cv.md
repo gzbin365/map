@@ -120,7 +120,7 @@ import cv2
 | OpenCV视觉处理核心课程 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvq1qm3aBteI1Rnf4-dgCMh)                                                                                       |
 | 影像處理 [數老的肺炎教室](https://www.youtube.com/playlist?list=PLdZnxtXi9LXJBPB6\_q15P5lYF2iNKun4G)                                                                                                 |
 | Hand Distance Measurement with Normal Webcam + Game \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=NGQgRH2\_kq8)                                 |
-|                                                                                                                                                                                           |
+| 35行python代码100万？人工智能光速入门 [小波说xiaoboswift](https://www.youtube.com/watch?v=7Vc71\_DlnvU)                                                                                                   |
 |                                                                                                                                                                                           |
 |                                                                                                                                                                                           |
 

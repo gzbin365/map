@@ -119,10 +119,13 @@
 
 ## HTTP
 
-| HTTP                                                                                       |
-| ------------------------------------------------------------------------------------------ |
-| **HTTP API 设计指南 (**[**书栈**](https://www.bookstack.cn/books/http-api-design-ZH\_CN)**, )**  |
-| HTTP协议详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaQi5vLktydiVTT4dIQCDEg) |
+| HTTP                                                                                             |
+| ------------------------------------------------------------------------------------------------ |
+| **HTTP API 设计指南 (**[**书栈**](https://www.bookstack.cn/books/http-api-design-ZH\_CN)**, )**        |
+| HTTP协议详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaQi5vLktydiVTT4dIQCDEg)       |
+| HTTP协议原理+实践 [程序人生](https://www.youtube.com/playlist?list=PLJUyBVA38kffPjoWluvz-Ij3A0kB97nW\_)    |
+| Web白帽子Python入门 [刺客一二三](https://www.youtube.com/playlist?list=PLkuKHvw9NmzSwPwgibU1pV3gPIbsl0Et5) |
+| Web攻防训练营 [刺客一二三](https://www.youtube.com/playlist?list=PLkuKHvw9NmzS4UcKM69J1KCwrscvg0Wxr)       |
 
 ## SEO
 
@@ -267,6 +270,7 @@
 | 3D着色器Shader [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZqRmsZHhJFxd968J0FVFe2)                                                                                          |
 | OpenGL Course - Create 3D and 2D Graphics With C++ [freeCodeCamp](https://www.youtube.com/watch?v=45MIykWJ-C4)                                                                         |
 | Advanced OpenGL - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=GJFHqK\_-ARA)                                                                                            |
+| Advanced OpenGL Tutorial – Skeletal Animations with Assimp [freeCodeCamp](https://www.youtube.com/watch?v=GZQkwx10p-8)                                                                 |
 | How to make a simple 3D\* game in Python from scratch - Ray casting [FinFET](https://www.youtube.com/watch?v=5xyeWBxmqzc) [git](https://github.com/FinFetChannel/RayCastingPythonMaze) |
 | basic ray tracing / ray casting in python [Pavel Voronin](https://www.youtube.com/watch?v=Oz1QzJzvqcI)                                                                                 |
 

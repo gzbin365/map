@@ -59,24 +59,26 @@ description: 硬件设备
 | **Raspberry Pi(**[**u**](https://www.youtube.com/c/raspberrypi/featured)**, )**                  | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
 | **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )** | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
 | Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                           | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
+| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                        |                                                                                                                            |
 
-|                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                  |
-| Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                             |
-| Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie) |
-| Maker.io Presents How to... [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyS2ss1BpkRhfBzYqC0vEgM8)                                                                                 |
-| VMware on a Raspberry Pi!?!?! (ESXi Install) [NetworkChuck](https://www.youtube.com/watch?v=6aLyZisehCU)                                                                                         |
-| i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher) [NetworkChuck](https://www.youtube.com/watch?v=X9fSMGkjtug)                                                   |
-| How to Remote Desktop Into Your Raspberry Pi (VNC/RDP) [Refactored](https://www.youtube.com/watch?v=IfzBPi4FHpI)                                                                                 |
-| How to make an Nginx Webserver in 7 minutes [Kian Brose](https://www.youtube.com/watch?v=yBV9216R6\_E)                                                                                           |
-| How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                |
-| my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                         |
-| Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                      |
-| 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                          |
-| Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                   |
-| Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                       |
-| How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                     |
+|                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                   |
+| Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                              |
+| Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie)  |
+| Maker.io Presents How to... [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyS2ss1BpkRhfBzYqC0vEgM8)                                                                                  |
+| VMware on a Raspberry Pi!?!?! (ESXi Install) [NetworkChuck](https://www.youtube.com/watch?v=6aLyZisehCU)                                                                                          |
+| i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher) [NetworkChuck](https://www.youtube.com/watch?v=X9fSMGkjtug)                                                    |
+| How to Remote Desktop Into Your Raspberry Pi (VNC/RDP) [Refactored](https://www.youtube.com/watch?v=IfzBPi4FHpI)                                                                                  |
+| How to make an Nginx Webserver in 7 minutes [Kian Brose](https://www.youtube.com/watch?v=yBV9216R6\_E)                                                                                            |
+| How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                 |
+| my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                          |
+| Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                       |
+| 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                           |
+| Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                    |
+| Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                        |
+| How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                      |
+| 树莓派变视频监控(python脚本方案) [我是炬峰](https://www.youtube.com/watch?v=nTVl9YBZoFg) [git](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials/blob/master/Projects/rpi\_camera\_surveillance\_system.py) |
 
 ## Orange Pi
 
