@@ -693,6 +693,10 @@ Network Programming with Python Course (build a port scanner, mailing client, ch
 
 Python Socket Programming Tutorial [Tech With Tim](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 
+Python Sockets Simply Explained [NeuralNine](https://www.youtube.com/watch?v=YwWfKitB8aA)
+
+Python 3 Basics Tutorial Series [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
 ## Python-Excel
 
 |                                                                                                                                         |

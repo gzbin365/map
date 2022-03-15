@@ -48,7 +48,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 动态规划[四步解题法](https://www.youtube.com/watch?v=dHeBncN-dZo)—搞定绝大多数类型动态规划题 九章算法官方频道                                                                                                                                                                    |
 | 【动态规划】一次搞定三种[背包问题](https://www.youtube.com/watch?v=AFspvwnCcK4) 九章算法官方频道                                                                                                                                                                           |
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
-|                                                                                                                                                                                                                                                    |
+| Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
 
 ## Recurisive
 
