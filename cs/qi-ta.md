@@ -374,6 +374,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Learn Regular Expressions In 20 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=rhzKDrUiJVk)                                    |
 | Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) [Corey Schafer](https://www.youtube.com/watch?v=K8L6KVGG-7o) |
+| Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text [Corey Schafer](https://www.youtube.com/watch?v=sa-TUpSx1JA)          |
 
 ## 虚拟机
 
