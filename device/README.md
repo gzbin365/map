@@ -248,24 +248,24 @@ description: 硬件设备
 
 ## CPU
 
-|                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [How a CPU is made](https://www.youtube.com/watch?v=qm67wbB5GmI) DIY with Ben                                                                                            |
-| 💻 - See How a CPU Works [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                                   |
-| 💻 - See What's Inside a CPU [In One Lesson](https://www.youtube.com/watch?v=NKYgZH7SBjk)                                                                                |
-| 💻 - See How Computers Add Numbers [In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)                                                                          |
-| [Zoom Into a Microchip](https://www.youtube.com/watch?v=Fxv3JoS1uY8) NISENet                                                                                             |
-| [How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9](https://www.youtube.com/watch?v=vqs\_0W-MSB0) Fireship                                                  |
-| Evolution Of CPU Processing Power [New Mind](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)                                                   |
-| \*\*What is CPU,GPU and TPU? Understanding these 3 processing units using Artificial Neural Networks. \*\*[**DO YOU KNOW**](https://www.youtube.com/watch?v=6ZDoFomU10A) |
-| Cortex M系列CPU进阶实验 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbmdUC56MnCb1IYd6Fxk6Cf)                                                                      |
-| Cortex M系列CPU初级实验（1） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbIOi0bW9OpY-rKrKz7I8Un)                                                                   |
-| Cortex M系列CPU初级实验（2） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbvPdKxk0OPl9Fs6Bz1UWiX)                                                                   |
-| Cortex M系列CPU初级实验（3） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZCS0IRJrDlsEddXkZH0o4P)                                                                   |
-| MemCache [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqUuQ2sq3fIMdn9mUd9eJv)                                                                               |
-| 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                            |
-| Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                             |
-| 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                                 |
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [How a CPU is made](https://www.youtube.com/watch?v=qm67wbB5GmI) DIY with Ben                                                                                     |
+| 💻 - See How a CPU Works [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                            |
+| 💻 - See What's Inside a CPU [In One Lesson](https://www.youtube.com/watch?v=NKYgZH7SBjk)                                                                         |
+| 💻 - See How Computers Add Numbers [In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)                                                                   |
+| [Zoom Into a Microchip](https://www.youtube.com/watch?v=Fxv3JoS1uY8) NISENet                                                                                      |
+| [How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9](https://www.youtube.com/watch?v=vqs\_0W-MSB0) Fireship                                           |
+| Evolution Of CPU Processing Power [New Mind](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)                                            |
+| What is CPU,GPU and TPU? Understanding these 3 processing units using Artificial Neural Networks.  [**DO YOU KNOW**](https://www.youtube.com/watch?v=6ZDoFomU10A) |
+| Cortex M系列CPU进阶实验 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbmdUC56MnCb1IYd6Fxk6Cf)                                                               |
+| Cortex M系列CPU初级实验（1） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbIOi0bW9OpY-rKrKz7I8Un)                                                            |
+| Cortex M系列CPU初级实验（2） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbvPdKxk0OPl9Fs6Bz1UWiX)                                                            |
+| Cortex M系列CPU初级实验（3） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZCS0IRJrDlsEddXkZH0o4P)                                                            |
+| MemCache [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbqUuQ2sq3fIMdn9mUd9eJv)                                                                        |
+| 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                     |
+| Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                      |
+| 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
 
 ## DPU
 

@@ -370,6 +370,7 @@
 | ClarityCoders [u](https://www.youtube.com/c/ClarityCoders/playlists)                                                                                                   |
 | Learn Code By Gaming [u](https://www.youtube.com/c/LearnCodeByGaming)                                                                                                  |
 | 自动化测试 selenium [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaDvcIvNPtbcAGnrU1Bx0JJ)                                                                       |
+| Python Tutorial: Unit Testing Your Code with the unittest Module [Corey Schafer](https://www.youtube.com/watch?v=6tNS--WetLI)                                          |
 | python自动化运维+web监控系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHu1uI4g6Bb44gGpq2aXvJ)                                                                  |
 | Selenium自动化测试实战 [极客时间](https://time.geekbang.org/course/intro/100055601)                                                                                               |
 | 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                                                                           |
@@ -583,6 +584,10 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | \[Python Concurrent programming ] Python 并发编程实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocganLyOGNbzH9YdaSbZEALXmJ)                                                                                                                                 |
 | Python高级编程和异步IO并发编程 [优质VIP电影、视频 搬运工〈订阅更新〉](https://www.youtube.com/playlist?list=PLU2LfDuZos-pwZBCLXKhva80nPZgRGYff)                                                                                                                                                  |
 
+### Cython
+
+Speed Up Your Code With Cython [NeuralNine](https://www.youtube.com/watch?v=Ic1oE6SEOBs)
+
 ### Asyncio
 
 
@@ -776,6 +781,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                    |
 | Physics Simulations With Python and PyMunk [Tech With Tim](https://www.youtube.com/watch?v=tLsi2DeUsak)                               |
 | Why Random Numbers Aren't Random [Tech With Tim](https://www.youtube.com/watch?v=Nm8NF9i9vsQ)                                         |
+| Counters in Python Simply Explained [NeuralNine](https://www.youtube.com/watch?v=yrV\_\_XKaFn8)                                       |
 
 ## Book
 

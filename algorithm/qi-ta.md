@@ -1,5 +1,13 @@
 # 其他
 
+## 寻路算法
+
+A\* Pathfinding Visualization Tutorial - Python A\* Path Finding Tutorial [Tech With Tim](https://www.youtube.com/watch?v=JtiK0DOeI4A)
+
+A\* (A Star) Search Algorithm - [Computerphile](https://www.youtube.com/watch?v=ySN5Wnu88nE)
+
+Maze Solving - [Computerphile](https://www.youtube.com/watch?v=rop0W4QDOUI)
+
 ## 迷宫生成
 
 \[Unity 3d] Maze procedural generation - Kruskal Algorithm (download the project) [Willy Mercier](https://www.youtube.com/watch?v=acDJR9zC64g)
