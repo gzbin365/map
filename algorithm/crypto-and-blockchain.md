@@ -49,6 +49,8 @@ description: Blockchain & Cryptocurrency
 | 为什么人人都能聊元宇宙？因为它“什么都不是” [科技袁人](https://www.youtube.com/watch?v=svxZWwXfjnQ)                                                          |
 | SYNC 2021-元宇宙分论坛 [PingWest](https://www.youtube.com/watch?v=ILv0IxWcEjU)                                                            |
 | Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse \| [Lex Fridman](https://www.youtube.com/watch?v=5zOHSysMmH0) Podcast |
+| 千萬不要錯過，將會徹底改變世界的元宇宙 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=hm5K-PBz0rg)                                            |
+| 关于元宇宙，你需要知道的那些事儿\~ ｜NFT Metaverse [小Lin说](https://www.youtube.com/watch?v=pFRXGxwat\_U)                                             |
 
 ## WEB 3.0
 

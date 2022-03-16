@@ -195,6 +195,9 @@
 | Intro to Object Oriented Programming - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=SiBw7os-\_zI)                                                       |
 | Object Oriented Programming [MIT OpenCourseWare](https://www.youtube.com/watch?v=-DP1i2ZU9gk)                                                                          |
 | Data Scientist生产力进阶—Python OOP编程快速入门（第617期） [Data Application Lab](https://www.youtube.com/watch?v=xKL1u8hF8rI)                                                        |
+| Python staticmethod and classmethod [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                                                                             |
+| Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods [Real Python](https://www.youtube.com/watch?v=PNpt7cFjGsM)                               |
+| Python小技巧#9：实例方法，类方法，静态方法的区别？ [麦叔编程](https://www.youtube.com/watch?v=bXHjtp1Y-u8)                                                                                      |
 
 ## Python 教程
 

@@ -114,6 +114,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Instagram Clone Full Tutorial - Using React, Express & Sanity [Tech With Tim](https://www.youtube.com/watch?v=iRORiaLAgaE)                                               |
 | React with Redux Toolkit Crash Course [Laith Harb](https://www.youtube.com/watch?v=jR4fagDcvrc)                                                                          |
 | Livestream with Kent: React Patterns [Kent C. Dodds](https://www.youtube.com/watch?v=WV0UUcSPk-0)                                                                        |
 | React Crash Course - Build A Full Recipe App Tutorial [Dev Ed](https://www.youtube.com/watch?v=xc4uOzlndAk)                                                              |
