@@ -334,10 +334,10 @@
 | --------------------------------------------------------- | - |
 | Edward中文文档 ([书栈](https://www.bookstack.cn/books/Ed-cn), ) |   |
 
-| **requests**                                                                                                                                                                                                                                                                                                                            |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **requests(**[**doc**](https://docs.python-requests.org/en/master/)**,** [**书童**](https://xugaoxiang.com/2020/11/28/python-module-requests/)**,** [**pypi**](https://pypi.org/project/requests/)**,** [**Guide**](https://realpython.com/python-requests/)**,** [**w3s**](https://www.w3schools.com/python/module\_requests.asp)**, )** |   |
-| requests\_html爬虫模块 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4sf1bq3PAm6onDczjY7QFvB)                                                                                                                                                                                                                           |   |
+| **requests**                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **requests(**[**doc**](https://docs.python-requests.org/en/master/)**,** [**书童**](https://xugaoxiang.com/2020/11/28/python-module-requests/)**,** [**pypi**](https://pypi.org/project/requests/)**,** [**Guide**](https://realpython.com/python-requests/)**,** [**w3s**](https://www.w3schools.com/python/module\_requests.asp)**, )** |
+| requests\_html爬虫模块 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4sf1bq3PAm6onDczjY7QFvB)                                                                                                                                                                                                                           |
 
 | django([s](https://www.djangoproject.com), [git](https://github.com/django/django), )   django-cms([s](https://www.django-cms.org/en/), )                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -365,6 +365,8 @@
 | paramiko                                                                                      |   |
 | --------------------------------------------------------------------------------------------- | - |
 | paramiko基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbhvkiVKARMU1\_gJ6MSzkZV) |   |
+
+Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones [Corey Schafer](https://www.youtube.com/watch?v=eirjjyP2qcQ)
 
 ### 自动化
 
@@ -720,6 +722,8 @@ Python 3 Basics Tutorial Series [sentdex](https://www.youtube.com/playlist?list=
 ## 数据处理
 
 ### CSV
+
+Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files [Corey Schafer](https://www.youtube.com/watch?v=q5uM4VKywbA)
 
 ### JSON
 

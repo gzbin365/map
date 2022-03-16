@@ -26,6 +26,7 @@ description: Blockchain & Cryptocurrency
 | Blockchain and cryptocurrency [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rNYmdiYxWRVpxLj75R7oZ65)                                                  |
 | Bitcoin Lessons [learnmeabitcoin](https://www.youtube.com/playlist?list=PLjyTtFk7i2AHvjMo0-ftIVqSNGPcwCaJt)                                                               |
 | Automated Crypto Trading Bots with Trality [NeuralNine](https://www.youtube.com/watch?v=fOQNlWX9M5Y)                                                                      |
+| Kraken Trading Bot in Python [NeuralNine](https://www.youtube.com/watch?v=XjVesu\_G5yQ)                                                                                   |
 | Blockchain - Sandip Chakraborthy Pravin Jayachandran \| IIT KGP - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2x4I7ASRHlraNxSwf8xOAB)        |
 | Blockchain & Cryptocurrency [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQF\_5bEErheiAawrJ-2zQoI)                                                 |
 | Decentralized tech - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSM\_uLyxy5B6ml\_BpmLFAHU)                                                       |
