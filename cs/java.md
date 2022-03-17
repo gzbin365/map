@@ -26,6 +26,7 @@
 
 |                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Java Tutorial - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=Yv\_4RXyLjL8)                                                                                                   |
 | **Java Full Course ☕ (𝙁𝙧𝙚𝙚)** [**Bro Code**](https://www.youtube.com/watch?v=xk4\_1vDrzzo)                                                                                                |
 | Java GUI ☕ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=Kmgo00avvEw)                                                                                                                 |
 | Java snake game 🐍 [Bro Code](https://www.youtube.com/watch?v=bI6e6qjJ8JQ)                                                                                                                    |
