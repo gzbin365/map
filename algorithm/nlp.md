@@ -34,6 +34,8 @@ description: 自然语言处理
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BERT高级应用——《通过Performers反思Attention》全文翻译([**weixin**](https://mp.weixin.qq.com/s?\_\_biz=Mzg3MDMxMzY3Ng==\&mid=2247484864\&idx=1\&sn=43905245ce70c1bf7b64b6d7ad2e0b51\&chksm=ce8efe63f9f977759957c10655d69700a11b73031344a095a77d0092078af02b180c5bc842d3\&mpshare=1\&scene=23\&srcid=0320fAf1fvOEabEevAirB3NR\&sharer\_sharetime=1616256141971\&sharer\_shareid=12c293d109c5b01e8b84dacb4069fbbd#rd)) |
 
+### Transformer
+
 | Transformer                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |
@@ -48,6 +50,7 @@ description: 自然语言处理
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 | KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                   |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
+| Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
 | Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |
 | BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
 | How to get meaning from text with language model BERT \| AI Explained [Peltarion](https://www.youtube.com/watch?v=-9vVhYEXeyQ)                                     |
@@ -305,9 +308,10 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ### 文本生成
 
-|                                                                        |   |
-| ---------------------------------------------------------------------- | - |
-| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095) |   |
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095)                              |
+| Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM) |
 
 ## 知识点
 

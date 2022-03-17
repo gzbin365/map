@@ -16,6 +16,8 @@ Murtaza's Workshop - Robotics and AI([**u2b**](https://www.youtube.com/c/Murtaza
 | ---------------------------------------------------------------------------- |
 | 不僅僅是編程｜如何成為成功的工程師 [HackBear 泰瑞](https://www.youtube.com/watch?v=xS5Lv7-bMYI) |
 
+The Bibites: Digital Life [u](https://www.youtube.com/c/TheBibitesDigitalLife/videos)
+
 ## Algorithm Visualizer
 
 |                                                                                                                                                |

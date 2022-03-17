@@ -472,6 +472,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                                          |
 | Keynote Jake VanderPlas [PyData](https://www.youtube.com/watch?v=DifMYH3iuFw)                                                                                                 |
 | Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)                                             |
+| Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                            |
+|                                                                                                                                                                               |
 
 #### 数据清理
 
@@ -505,6 +507,10 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Scikit-Learn Python Tutorial \| Machine Learning with Scikit-learn [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq) |
 | Jake VanderPlas: Machine Learning with Scikit Learn [PyData](https://www.youtube.com/watch?v=HC0J\_SPm9co)                                                          |
 | Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc) [Keith Galli](https://www.youtube.com/watch?v=M9Itm95JzL0)      |
+
+### 预测
+
+08预测 [课堂商业](https://www.youtube.com/playlist?list=PLB6JssgEjSn1V0v-RjhmdPDC67g6tqdiL)
 
 ### 分类
 
@@ -560,18 +566,19 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | [Theory of Clustering](https://www.youtube.com/playlist?list=PLPW2keNyw-uvwiljbrJyF5SfYeTD6I5Kt) Understanding Machine Learning - Shai Ben-David |
 | 人工智能案例：聚类实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZaR6cXR\_p2KBpEFWvYscQy)                                                   |
 
-### 回归
+### 回归 Regression
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)               |
-| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)             |
-| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                      |
-| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)    |
-| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                   |
-| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                       |
-| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_) |
-| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                  |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                              |
+| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                            |
+| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                     |
+| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                   |
+| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                  |
+| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                      |
+| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                |
+| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                 |
+| Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8) |
 
 ### KNN
 
@@ -579,18 +586,27 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=UqYde-LULfs)
 
-### 时间序列
+### 时间序列  Time Series
 
-|                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 算法：时间序列AIRMA模型 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZoa2x7TTMhKSMngDXLo6-w)                                                                     |
-| 时间序列分析：用数据做预测（第595期）[Data Application Lab](https://www.youtube.com/watch?v=V0RIuYjz65I)                                                                              |
-| <p>数据科学读书会 Book 15 – 《Hands-on Time Series Analysis with Python》</p><p>时间序列分析 第一讲 <a href="https://www.youtube.com/watch?v=7Ndu4G7HJkI">Data Application Lab</a></p> |
-| 数据科学读书会 Book 15 - 时间序列分析 单变量时间序列[v](https://www.youtube.com/watch?v=S0jViiUxdHM)                                                                                     |
-| Structured Learning 4: Sequence Labeling [Hung-yi Lee](https://www.youtube.com/watch?v=o9FPSqobMys)                                                                  |
-| Time Series Prediction [Siraj Raval](https://www.youtube.com/watch?v=d4Sn6ny\_5LI)                                                                                   |
-| <p>Time Series Analysis：Data Scientist是如何做时间序列分析的？（第566期）</p><p><a href="https://www.youtube.com/watch?v=Muvto_9aetI">Data Application Lab</a></p>                   |
-|                                                                                                                                                                      |
+|                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 算法：时间序列AIRMA模型 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZoa2x7TTMhKSMngDXLo6-w)                                                                                                                       |
+| 案例：时间序列预测任务 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYjNgUEEiahXHpfHgACUxGa)                                                                                                                          |
+| 时间序列分析：用数据做预测（第595期）[Data Application Lab](https://www.youtube.com/watch?v=V0RIuYjz65I)                                                                                                                                |
+| <p>数据科学读书会 Book 15 – 《Hands-on Time Series Analysis with Python》</p><p>时间序列分析 第一讲 <a href="https://www.youtube.com/watch?v=7Ndu4G7HJkI">Data Application Lab</a></p>                                                   |
+| 数据科学读书会 Book 15 - 时间序列分析 单变量时间序列[v](https://www.youtube.com/watch?v=S0jViiUxdHM)                                                                                                                                       |
+| Structured Learning 4: Sequence Labeling [Hung-yi Lee](https://www.youtube.com/watch?v=o9FPSqobMys)                                                                                                                    |
+| Time Series Prediction [Siraj Raval](https://www.youtube.com/watch?v=d4Sn6ny\_5LI)                                                                                                                                     |
+| <p>Time Series Analysis：Data Scientist是如何做时间序列分析的？（第566期）</p><p><a href="https://www.youtube.com/watch?v=Muvto_9aetI">Data Application Lab</a></p>                                                                     |
+| Time Series Analysis (Forecasting, Mining, Transformation, Clustering, Classification) + Python code [Hadi Fanaee](https://www.youtube.com/watch?v=ZuydOEws92s)    [git](https://github.com/fanaee/TimeSeriesAnalysis) |
+| Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                                                                     |
+| Time Series Analysis [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46\_Q6QKtFgfMGc3)                                                                                                           |
+| 02417 Time Series Analysis [Lasse Engbo Christiansen](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt\_-XJRNkbi) 2018                                                                                  |
+| 02417 Time Series Analysis, Fall 2017 [Lasse Engbo Christiansen](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)                                                                             |
+| 02417 Time series analysis, Fall 2016 [Lasse Engbo Christiansen](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6Qmr3fcme6VH--HJ1bDW3PE)                                                                             |
+| Time Series Theory [Analytics University](https://www.youtube.com/playlist?list=PLUgZaFoyJafhfcggaNzmZt\_OdJq32-iFW)                                                                                                   |
+| <p>Time Series Forecasting Theory | AR, MA, ARMA, ARIMA | Data Science</p><p><a href="https://www.youtube.com/watch?v=Aw77aMLj9uM">Analytics University</a></p>                                                        |
+|                                                                                                                                                                                                                        |
 
 ### 支持向量机 SVM
 
