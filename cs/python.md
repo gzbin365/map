@@ -455,11 +455,20 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | PyQt                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | PyQt5 Tutorial - Setup and a Basic GUI Application [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj) |
+| PyQt5 Python 3 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)                            |
 | PyQt6 Course For Beginners \[Python GUI Framework PyQt ]\([Parwiz Forogh](https://www.youtube.com/watch?v=ot94H3-d5d8))3:09:19               |
 | 使用pyqt开发windows gui程序及打包 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbW50iZMfhgQB6gu9eHnU6O)                                   |
 | PyQt5 Programming [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBu2Wk6ajCTyBMkPIGx7O37)                             |
 | Master PyQt5 [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kAingA-ByP0B2O97M\_QVaLZ)                                 |
 | PyQt5 GUI Thursdays [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpmCA8s\_dpPMvQLyHbvxocY)                                  |
+
+#### kivi
+
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| Kivy Tutorials Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn) |
+|                                                                                                                 |
+|                                                                                                                 |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
@@ -691,6 +700,7 @@ Python高性能编程
 | RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader    |
 | awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                               |
 | Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)             |
+| Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)  |
 
 ## 网络编程
 
