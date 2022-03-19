@@ -10,6 +10,8 @@ description: 强化学习 让我以另一种方式玩游戏吧
 
 [**DQN in Pytorch Stream 3 of N | Atari Breakout + Logging and Monitoring**](https://www.youtube.com/watch?v=PBWcN3M8Dbs)
 
+DeepMind Made A Superhuman AI For 57 Atari Games! 🕹 [Two Minute Papers](https://www.youtube.com/watch?v=dJ4rWhpAGFI)
+
 [**Python Flappy Bird AI Tutorial (with NEAT) - Creating the Bird**](https://www.youtube.com/watch?v=MMxFDaIOHsE)
 
 [**How to Solve a Basic Reinforcement Learning Example | RL Hello World**](https://www.youtube.com/watch?v=psDlXfbe6ok)
@@ -113,5 +115,6 @@ description: 强化学习 让我以另一种方式玩游戏吧
 | StarCraft 2: Google DeepMind AlphaStar (A.I.) vs Pro Gamer! [LowkoTV](https://www.youtube.com/watch?v=FWbVseLiopw)                                                                                                                                                                                                                                                                                                                 |
 | Reinforcement Learning for Stock Prediction [Siraj Raval](https://www.youtube.com/watch?v=05NqKJ0v7EE)                                                                                                                                                                                                                                                                                                                             |
 | How to Code RL Agents Like DeepMind [Machine Learning with Phil](https://www.youtube.com/watch?v=J1XCWjuyRaI)                                                                                                                                                                                                                                                                                                                      |
+| DeepMind's New AI: As Smart As An Engineer... Kind Of! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=x\_cxDgR1x-c)                                                                                                                                                                                                                                                                                                        |
 
 {% file src="../.gitbook/assets/Bilgin E. Mastering Reinforcement Learning with Python 2021.pdf" %}

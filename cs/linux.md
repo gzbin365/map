@@ -194,6 +194,13 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | github-actions [s](https://github.com/features/actions) bot                                                                                                                                                                                                                                                                                                                                             |
 | GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+| github.dev                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| The github.dev web-based editor [doc](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [s](https://github.dev/github/dev) |
+|                                                                                                                                                |
+|                                                                                                                                                |
 
 | 课程                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

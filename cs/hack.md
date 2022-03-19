@@ -40,9 +40,10 @@
 | Minecraft hacking with PYTHON and Log4j // Netcat reverse shell exploiting CVE [David Bombal](https://www.youtube.com/watch?v=efnluUK\_w\_U)           |
 | How Hackers Hack Into Any Phone's Camera?! [Loi Liang Yang](https://www.youtube.com/watch?v=HZufZeqeO2k)                                               |
 
-|                                                                                |   |
-| ------------------------------------------------------------------------------ | - |
-| 15年前，盗走马化腾QQ的16岁黑客，如今怎么样了？[人性洞察室](https://www.youtube.com/watch?v=fycEmKmbqng) |   |
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| 15年前，盗走马化腾QQ的16岁黑客，如今怎么样了？[人性洞察室](https://www.youtube.com/watch?v=fycEmKmbqng)            |
+| How I survived a DDoS attack [Jeff Geerling](https://www.youtube.com/watch?v=VPcYMgTYQs0) |
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |

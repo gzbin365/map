@@ -300,7 +300,7 @@ Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?l
 
 **sharedgpu(**[**s**](https://www.sharedgpu.com/home)**,** [**v**](https://www.bilibili.com/video/BV1tT4y1G7Qp/?spm\_id\_from=333.788.recommend\_more\_video.-1)**, )**
 
-**百度AI Studio(**[**申请**](https://shimo.im/docs/WDr6whkRdYyyrjHy)**,** [**v**](https://www.bilibili.com/video/BV18y4y1y783?t=18)**, )**
+**百度AI Studio(**[**申请**](https://shimo.im/docs/WDr6whkRdYyyrjHy)**,** [**v**](https://www.bilibili.com/video/BV18y4y1y783?t=18)**, )**   lambdalabs [s](https://lambdalabs.com/papers) [v](https://www.youtube.com/watch?v=x\_cxDgR1x-c\&t=364s)
 
 [**pythonanywhere**](https://www.pythonanywhere.com)
 

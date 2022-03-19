@@ -76,7 +76,7 @@ LDA 文档聚类 plsa lsa
 | **2015 CS224d Lectures (deprecated by new 2016 lectures)(**[**u**](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)**, )**                                                                                           |
 | cs224d [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6nEiBzI0EFWCXQ0W8B5A8e)                                                                                                                                                       |
 | cs224d-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)                                                                                                                                                  |
-|                                                                                                                                                                                                                                               |
+| Complete Natural Language Processing (NLP) Tutorial in Python! (with examples) [Keith Galli](https://www.youtube.com/watch?v=M7SWr5xObkA)                                                                                                     |
 | **CS480/680 Lecture 19: Attention and Transformer Networks(**[**u**](https://www.youtube.com/watch?v=OyFJWRnt\_AY)**, )**                                                                                                                     |
 | Stanford CS224U: Natural Language Understanding \| Spring 2019 [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)                                                                                     |
 | CS224N: Natural Language Processing with Deep Learning [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ14yXHZWAXiDQ36wEZ\_dw1u) |
@@ -124,12 +124,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 分词
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U) |
-| Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                             |
-|                                                                                             |
-|                                                                                             |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U)              |
+| Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                                          |
+| HanLP：面向生产环境的自然语言处理工具包 [s](https://hanlp.hankcs.com) hankcs/[pyhanlp](https://github.com/hankcs/pyhanlp) |
+|                                                                                                          |
 
 ### POS 词性标注
 

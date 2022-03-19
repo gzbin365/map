@@ -1127,3 +1127,18 @@ Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips [Lex Fr
 Michael I. Jordan: Machine Learning, Recommender Systems, and Future of AI | [Lex Fridman](https://www.youtube.com/watch?v=EYIKy\_FM9x0) Podcast #74
 
 </details>
+
+<details>
+
+<summary>Yann LeCun</summary>
+
+Yann LeCun u
+
+[Yann LeCun](https://www.youtube.com/watch?v=DokLw1tILlw): "A Path Towards Autonomous AI", Baidu 2022-02-22
+
+Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning | [Lex Fridman](https://www.youtube.com/watch?v=SGSOCuByo24) Podcast #36
+
+Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | [Lex Fridman](https://www.youtube.com/watch?v=SGzMElJ11Cc) Podcast #258
+
+</details>
+
