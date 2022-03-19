@@ -196,11 +196,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 |                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-| github.dev                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| The github.dev web-based editor [doc](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [s](https://github.dev/github/dev) |
-|                                                                                                                                                |
-|                                                                                                                                                |
+| github.dev                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The github.dev web-based editor [doc](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [s](https://github.dev/github/dev)     |
+| What is GitHub Codespaces? (and github.dev) [ForrestKnight](https://www.youtube.com/watch?v=vDXPkAdqSyI)                                           |
+| VS Code anywhere: GitHub Codespaces and github.dev [Visual Studio Code](https://www.youtube.com/watch?v=c3hHhRME\_XI) [tick.com](https://tick.com) |
+|                                                                                                                                                    |
 
 | 课程                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -334,6 +335,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)                                                                                                                                                                                            |
 | Infrastructure as Code - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=EtEb40LE5zQ)                                                                                                                                                                                     |
 | What Is Infrastructure as Code? Examples, Best Practices & Tools [Spacelift](https://spacelift.io/blog/infrastructure-as-code)                                                                                                                                                        |
+| What is Infrastructure as Code? [IBM Technology](https://www.youtube.com/watch?v=zWw2wuiKd5o)                                                                                                                                                                                         |
+| Terraform                                                                                                                                                                                                                                                                             |
 
 ## Vim
 
