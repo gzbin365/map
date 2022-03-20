@@ -17,6 +17,7 @@ description: Blockchain & Cryptocurrency
 
 |                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Khan's Crypto by Brit Cruise [Chris Boette](https://www.youtube.com/playlist?list=PL148EBF39F493C3DE)                                                                     |
 | Trading - Advanced Order Types with Coinbase [deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xr17PqeytCKiCD-TJj89rII)                                      |
 | Steemit - Blockchain Powered Social Network [deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xo\_m9ifxsnWRrqbOypARsWL)                                      |
 | Waves - Proof of Stake Blockchain Platform and DEX [deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xq\_NT5lOc-\_5qxDeFF47\_oI)                             |

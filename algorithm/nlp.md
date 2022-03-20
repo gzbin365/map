@@ -72,6 +72,7 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction to NLP [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)                                                                                                                               |
 | **Deep Learning for NLP at Oxford with Deep Mind 2017(**[**u**](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)**, )**                                                                                              |
 | **2015 CS224d Lectures (deprecated by new 2016 lectures)(**[**u**](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)**, )**                                                                                           |
 | cs224d [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6nEiBzI0EFWCXQ0W8B5A8e)                                                                                                                                                       |

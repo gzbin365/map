@@ -508,6 +508,9 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Scikit-Learn Python Tutorial \| Machine Learning with Scikit-learn [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq) |
 | Jake VanderPlas: Machine Learning with Scikit Learn [PyData](https://www.youtube.com/watch?v=HC0J\_SPm9co)                                                          |
 | Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc) [Keith Galli](https://www.youtube.com/watch?v=M9Itm95JzL0)      |
+| Learn Scikit Learn [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxDHDWU-YBPfKXV3G0TKXvpy)                                                      |
+| Professional Preprocessing with Pipelines in Python [NeuralNine](https://www.youtube.com/watch?v=h1BnRBzYjYY)                                                       |
+| Precision & Recall in Machine Learning Explained [NeuralNine](https://www.youtube.com/watch?v=N2UPbPGO7ko)                                                          |
 
 ### 预测
 
@@ -630,6 +633,8 @@ How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=U
 | Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z) |
 | How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                    |
 | 深度神经网络的工作原理 [Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)                                                                |
+| Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                             |
+| The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                     |
 
 ### RNN Recurrent Neural Networks
 
@@ -686,6 +691,7 @@ LSTM
 | Lecture 7: Markov Decision Processes - Value Iteration \| Stanford CS221: AI (Autumn 2019) [stanfordonline](https://www.youtube.com/watch?v=9g32v7bK3Co)                                                                                                   |
 | Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem [deeplizard](https://www.youtube.com/watch?v=my207WNoeyA)                                                                                                                  |
 | Stanford教授Daphne Koller 概率图模型 — 终极入门 第[三](https://blog.csdn.net/hfcaoguilin/article/details/121863012)讲 马尔可夫网络 (Markov Networks) [pdf](https://arxiv.org/pdf/2109.00725v1.pdf)                                                                             |
+| Markov Chains Clearly Explained! [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)                                                                                                                               |
 |                                                                                                                                                                                                                                                            |
 
 ### MCMC, Markov Chain Monte Carlo
@@ -895,6 +901,14 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 |                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
+### 其他
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ## 数据可视化
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -910,6 +924,14 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 | -------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | Gourcer [s](https://gource.io) [u](https://www.youtube.com/channel/UC73V2lmC9ovmYr8LJoENdjg) | a software version control visualization tool |
 |                                                                                              |                                               |
+
+## 部署 Deploy
+
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| How to Deploy Machine Learning Apps? [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx) |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ## AI Safety
 
