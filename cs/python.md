@@ -674,6 +674,7 @@ Python高性能编程
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                   |
 | I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE) |
 | Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                |
+| Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                         |
 
 ## Video Image Editing
 
