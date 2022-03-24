@@ -231,6 +231,7 @@
 | Make Your Own Visual Novel! \| Ren'Py Tutorial Part 1 [Learning With B and E](https://www.youtube.com/watch?v=vith10gG8L4)                                      |
 | "Game Development in Eight Bits" by Kevin Zurawel [Strange Loop Conference](https://www.youtube.com/watch?v=TPbroUDHG0s)                                        |
 | uPokémon Coding Tutorial - CS50's Intro to Game Development [freeCodeCamp](https://www.youtube.com/watch?v=gx\_qorHxBpI)                                        |
+| Pokémon JavaScript Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=yP5DKzriqXA)                                                  |
 | game 贪吃蛇 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK6brBOhoaa1zh7QZbyMj88P)                                                                    |
 | Game development python Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTm3U7r6QOOAgffhcDXdLS8t)                                           |
 | Making a PS2 Game LIVE #2 - Drawing Triangles (C Game Development on PS2SDK) [Tom Marks Talks Code](https://www.youtube.com/watch?v=Oy-ROMER2nc)                |

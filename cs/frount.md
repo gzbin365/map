@@ -235,6 +235,8 @@
 | Canvas图形、动画、游戏开发从入门到精通全系列课程　[Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlmrUsdfVrTRt0lI1yQ9DEb)                                                                                     |
 | HTML5 Canvas and JavaScript Mario Game Tutorial [Chris Courses](https://www.youtube.com/watch?v=4q2vvZn5aoo)                                                                                          |
 | HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                         |
+| Pokémon JavaScript Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=yP5DKzriqXA)                                                                                        |
+|                                                                                                                                                                                                       |
 
 ### html
 

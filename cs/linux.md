@@ -336,6 +336,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Infrastructure as Code - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=EtEb40LE5zQ)                                                                                                                                                                                     |
 | What Is Infrastructure as Code? Examples, Best Practices & Tools [Spacelift](https://spacelift.io/blog/infrastructure-as-code)                                                                                                                                                        |
 | What is Infrastructure as Code? [IBM Technology](https://www.youtube.com/watch?v=zWw2wuiKd5o)                                                                                                                                                                                         |
+| Infrastructure as Code [IBM Cloud](https://www.ibm.com/cloud/learn/infrastructure-as-code)                                                                                                                                                                                            |
 | Terraform                                                                                                                                                                                                                                                                             |
 
 ## Vim

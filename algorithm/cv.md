@@ -171,11 +171,11 @@ import cv2
 
 ## 以图搜图
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| facebookresearch/[faiss](https://github.com/facebookresearch/faiss) |
-|                                                                     |
-|                                                                     |
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| facebookresearch/[faiss](https://github.com/facebookresearch/faiss)        |
+| 通过截图找片子！好多人在寻找的搜索方法！\| [零度解说](https://www.youtube.com/watch?v=tERFkMjRGaE) |
+|                                                                            |
 
 ## Detection and Segmentation
 
