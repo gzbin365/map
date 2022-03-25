@@ -55,6 +55,7 @@
 | 真正的懒惰：用战术上的勤奋掩盖战略上的懒惰．                                                                                                                                                                                      |
 | 越能体现人性尊严的快乐，越是一种最高级的快乐 [厚大法考（厚大宣传部offical）](https://www.youtube.com/watch?v=UBbQjYiD4X0\&t=181s)                                                                                                            |
 | 如何变得更自信、快乐、不在乎别人的看法 [翠西Tracey](https://www.youtube.com/watch?v=J0F9SS182YA)                                                                                                                                 |
+| 【六小时完整版】长谈 罗振宇、罗永浩超长对话,让我把话说完 [Y L](https://www.youtube.com/watch?v=Hyg3y-Q\_C-U)                                                                                                                           |
 
 ### 人生的意义
 
@@ -99,6 +100,8 @@
 ### 其他
 
 能力圈模型 [圆中的猫头鹰](https://www.douyin.com/video/7063389365640236319)
+
+【愛情How幸福─戀愛私塾系列講座】我的愛情Q\&A [臺大演講網](https://www.youtube.com/watch?v=QHAl0V-MwMc)
 
 ## 党
 

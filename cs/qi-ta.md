@@ -29,20 +29,21 @@
 
 ## Go
 
-| **Go**                                                                                                    |
-| --------------------------------------------------------------------------------------------------------- |
-| **Go语言四十二章经(**[**书栈**](https://www.bookstack.cn/books/go42)**, )**                                        |
-| **Go语言中文文档 (书栈, )**                                                                                       |
-| Concurrency in Go([Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8))                             |
-| 《Go编程基础》15集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoa6Fz6dtfTV0jFQwjQBdx)    |
-| 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I) |
-| 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)         |
-| 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)   |
-| Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                         |
-| Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                              |
-| go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                       |
-| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                        |
-| Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8) |
+| **Go**                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| **Go语言四十二章经(**[**书栈**](https://www.bookstack.cn/books/go42)**, )**                                                     |
+| **Go语言中文文档 (书栈, )**                                                                                                    |
+| Concurrency in Go([Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8))                                          |
+| 《Go编程基础》15集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoa6Fz6dtfTV0jFQwjQBdx)                 |
+| 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I)              |
+| 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)                      |
+| 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)                |
+| Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                                      |
+| Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                                           |
+| go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                                    |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                     |
+| Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8)              |
+| Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
 
 ## C\#
 
