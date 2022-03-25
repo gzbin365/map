@@ -390,6 +390,7 @@ Computer Components？Computer Architecture？
 | How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                   |
 | Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                         |
 | 韩立刚 计算机网络 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagpsgt6NJmpWo8M\_qVp\_mN8n)                                                        |
+| Operating System Fundamentals [simplefunde](https://www.youtube.com/playlist?list=PL8CZDfB07h9t1chD1754WrtOEIHAh-Um6)                                   |
 |                                                                                                                                                         |
 
 |                                                                                                                                   |

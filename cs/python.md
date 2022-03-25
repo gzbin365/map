@@ -198,6 +198,7 @@
 | Python staticmethod and classmethod [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                                                                             |
 | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods [Real Python](https://www.youtube.com/watch?v=PNpt7cFjGsM)                               |
 | Python小技巧#9：实例方法，类方法，静态方法的区别？ [麦叔编程](https://www.youtube.com/watch?v=bXHjtp1Y-u8)                                                                                      |
+| Object Oriented Analysis and Design [simplefunde](https://www.youtube.com/playlist?list=PL8CZDfB07h9t4wl35-qbVojs6lzs-HyqH)                                            |
 
 ## Python 教程
 
@@ -813,11 +814,19 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 
 <details>
 
-<summary>python 内存管理</summary>
+<summary>python 内存管理   GC</summary>
 
 u2b search\_query=[python+内存管理](https://www.youtube.com/results?search\_query=python+%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
 
 20 7 python的内存管理机制 [尚学堂](https://www.youtube.com/watch?v=N2HzYvUSxXo)
+
+Memory Allocation and Management in Python - simplified tutorial for beginners [simplefunde](https://www.youtube.com/watch?v=arxWaw-E8QQ)
+
+Memory Management in Python - The Basics [North Bay Python](https://www.youtube.com/watch?v=URNdRl97q\_0)
+
+Python Memory Management | Garbage Collector in python | Reference Counting Algorithm | [Part 1](https://www.youtube.com/watch?v=-HLk\_VY5Ovc)  [Part 2](https://www.youtube.com/watch?v=DJjZOg2QfhU)  Code Framer
+
+
 
 </details>
 
