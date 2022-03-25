@@ -363,6 +363,7 @@ Computer Components？Computer Architecture？
 | 王道计算机-组成原理 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivtsUL\_W7Mdbc3cjk-E\_kdQx)                                    |
 | Computer Components For Dummies [Tech With Tim](https://www.youtube.com/watch?v=cZs6kh0WFRY)                                    |
 | 计算机组成原理 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoMc7BNWCqLzDlBbDaKc2bm)                                    |
+| 计算机原理-国防科技大学 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoHpK-AlW7iMLhd2Y7DV2Vk)                               |
 
 ## 计算机网络
 
@@ -388,7 +389,7 @@ Computer Components？Computer Architecture？
 | 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                           |
 | How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                   |
 | Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                         |
-|                                                                                                                                                         |
+| 韩立刚 计算机网络 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagpsgt6NJmpWo8M\_qVp\_mN8n)                                                        |
 |                                                                                                                                                         |
 
 |                                                                                                                                   |
@@ -414,6 +415,7 @@ Computer Components？Computer Architecture？
 | Write Your Own 64-bit Operating System Kernel From Scratch [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SeZRitx5MjBKzTtvk0pHMtp)                     |
 | System administration complete course from beginner to advanced \| IT administrator full course [Geek's Lesson](https://www.youtube.com/watch?v=1DvTwuByjo0)          |
 | 操作系统原理 [从0开始数](https://www.youtube.com/playlist?list=PLkl2qqmYigA66rJ4FgmZan4YIVRgNFLQx)                                                                              |
+| 操作系统原理 清华大学 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9)                                                                      |
 
 ## 数据库
 

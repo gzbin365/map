@@ -810,6 +810,16 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Python之禅Python 中《import this》背后的故事 [刘志军](https://juejin.cn/post/6844903488216891405)                                                  |
 | 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                    |
 
+<details>
+
+<summary>python 内存管理</summary>
+
+u2b search\_query=[python+内存管理](https://www.youtube.com/results?search\_query=python+%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+
+20 7 python的内存管理机制 [尚学堂](https://www.youtube.com/watch?v=N2HzYvUSxXo)
+
+</details>
+
 ## Book
 
 |                                                                                                                                                |
