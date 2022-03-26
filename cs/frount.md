@@ -266,6 +266,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
 | Advanced JavaScript Crash Course 2022 [Codevolution](https://www.youtube.com/watch?v=R9I85RhI7Cg)                                                                                            |
 | **JavaScript Learning Space(**[**quora**](https://jslearninglibrary.quora.com)**, )**                                                                                                        |
 | **JavaScript Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3\_ZA8h3AO2rXar-q2V)**)**                                                              |

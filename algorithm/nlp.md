@@ -213,6 +213,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ------------------------------------------------------------------------------------- |
 | 從 LINE Bot 認識聊天機器人原理～#[補根知識](https://www.youtube.com/watch?v=eoEEvye1DGI)​ 014        |
 | 【Live講堂】Line Bot聊天機器人極速開發 [GjunChannel](https://www.youtube.com/watch?v=lY74e2\_Z3Vw) |
+| 用Google試算表 建立 Line Bot 教學 [幫你寫程式](https://www.youtube.com/watch?v=vS00zQ75xRg)        |
 |                                                                                       |
 
 | Twitter Bot                                                                                                                        |
