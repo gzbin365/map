@@ -344,4 +344,4 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | 自然语言理解 [知乎话题](https://www.zhihu.com/topic/20646853/hot)                                               |
 | 对话系统 [知乎话题](https://www.zhihu.com/topic/20141243/hot)                                                 |
 | 如何来做用户意图识别 [火贪三刀](https://blog.csdn.net/shijing\_0214/article/details/71250327)                       |
-|                                                                                                       |
+| goto456/[stopwords](https://github.com/goto456/stopwords)   中文常用停用词表                                  |
