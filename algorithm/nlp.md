@@ -214,6 +214,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 從 LINE Bot 認識聊天機器人原理～#[補根知識](https://www.youtube.com/watch?v=eoEEvye1DGI)​ 014        |
 | 【Live講堂】Line Bot聊天機器人極速開發 [GjunChannel](https://www.youtube.com/watch?v=lY74e2\_Z3Vw) |
 | 用Google試算表 建立 Line Bot 教學 [幫你寫程式](https://www.youtube.com/watch?v=vS00zQ75xRg)        |
+| LineBot範本2.0 [幫你寫程式](https://www.youtube.com/watch?v=wKLK\_k4fnrs)                    |
 |                                                                                       |
 
 | Twitter Bot                                                                                                                        |
@@ -310,10 +311,12 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ### 文本生成
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095)                              |
-| Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM) |
+|                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095)                                                                                               |
+| Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM)                                                                  |
+| Author Interview - Typical Decoding for Natural Language Generation [Yannic Kilcher](https://www.youtube.com/watch?v=AvHLJqtmQkE)                                    |
+| Typical Decoding for Natural Language Generation (Get more human-like outputs from language models!) [Yannic Kilcher](https://www.youtube.com/watch?v=\_EDr3ryrT\_Y) |
 
 ## 知识点
 

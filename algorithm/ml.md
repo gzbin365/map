@@ -1170,5 +1170,7 @@ Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning | [Lex Fridman
 
 Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | [Lex Fridman](https://www.youtube.com/watch?v=SGzMElJ11Cc) Podcast #258
 
+Yann LeCun Lecture 8/8 Unsupervised Learning [trwappers](https://www.youtube.com/watch?v=RftTFBmOrrY)
+
 </details>
 
