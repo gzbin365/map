@@ -827,11 +827,13 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 
 ### 注意力
 
-|                                                                  |
-| ---------------------------------------------------------------- |
-| 神经网络（四） 注意力机制 [技术喵](https://www.youtube.com/watch?v=jMloamlGaJo) |
-|                                                                  |
-|                                                                  |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 神经网络（四） 注意力机制 [技术喵](https://www.youtube.com/watch?v=jMloamlGaJo)                                         |
+| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)      |
+| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)    |
+| 【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型 [Hung-yi Lee](https://www.youtube.com/watch?v=yHoAq1IT\_og) |
+|                                                                                                          |
 
 ### 损失函数
 
@@ -840,6 +842,16 @@ Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiP
 机器学习如何选择回归损失函数的？ [csdn](https://blog.csdn.net/sjyttkl/article/details/103614407)
 
 神经网络的损失函数为什么是非凸的? [zh](https://www.zhihu.com/question/265516791)
+
+### 联邦学习  Federated Learning
+
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| 联邦学习：技术角度的讲解（中文）Introduction to Federated Learning [Shusen Wang](https://www.youtube.com/watch?v=STxtRucv\_zo) |
+| 杨强 \| 用户隐私，数据孤岛和联邦学习 [清华大学智能产业研究院](https://www.youtube.com/watch?v=hfcVQCXGPvs)                                |
+| 刘洋丨联邦学习的技术挑战和应用展望 [清华大学智能产业研究院](https://www.youtube.com/watch?v=3uM7vpF\_GEw)                                  |
+| 分布式机器学习 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5)                |
+|                                                                                                                |
 
 ### AB测试 A/B testing
 

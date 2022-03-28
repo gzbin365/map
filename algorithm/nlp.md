@@ -44,7 +44,8 @@ description: 自然语言处理
 | Generative Python Transformer p.4 - Tokenizing [sentdex](https://www.youtube.com/watch?v=4WHt1VLon\_U)                                                             |
 | Generative Python Transformer p.5 - Training and some testing of GPT-2 model [sentdex](https://www.youtube.com/watch?v=2486auSLTUI)                                |
 | Generative Python Transformer p.6 - Testing larger model [sentdex](https://www.youtube.com/watch?v=vG-z-Y\_Sfrw)                                                   |
-|                                                                                                                                                                    |
+| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                |
+| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                              |
 | BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
@@ -317,6 +318,8 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM)                                                                  |
 | Author Interview - Typical Decoding for Natural Language Generation [Yannic Kilcher](https://www.youtube.com/watch?v=AvHLJqtmQkE)                                    |
 | Typical Decoding for Natural Language Generation (Get more human-like outputs from language models!) [Yannic Kilcher](https://www.youtube.com/watch?v=\_EDr3ryrT\_Y) |
+| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
+| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
 
 ## 知识点
 
