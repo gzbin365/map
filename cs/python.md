@@ -686,6 +686,7 @@ Python高性能编程
 | Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                |
 | Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                         |
 | Microservices with FastAPI – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA)                                                      |
+| Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                      |
 
 ## Video Image Editing
 
