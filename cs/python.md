@@ -709,6 +709,7 @@ Python高性能编程
 | awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                               |
 | Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)             |
 | Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)  |
+| Weather API Tutorial in Python [NeuralNine](https://www.youtube.com/watch?v=9P5MY\_2i7K8)                            |
 
 ## 网络编程
 
