@@ -61,6 +61,7 @@
 | C# Project - Automatic Letter Generator \| Letter Generator in C# \| C# Window Forms \| C# Tutorial [Elangovan Tech Notes (ETS)](https://www.youtube.com/watch?v=UmPXaS5ldvw) |
 | How to write "smarter" enums in C# [Nick Chapsas](https://www.youtube.com/watch?v=CEZ6cF8eoeg)                                                                                |
 | Full C# Project: Supermarket Management System \| ASP.NET Core Blazor, EF Core, SQL Server, Identity Frank [Liu](https://www.youtube.com/watch?v=DWrH7br4DsM)                 |
+| C# Full Course 🎮【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=wxznTygnRfQ)                                                                                           |
 |                                                                                                                                                                               |
 
 ## php

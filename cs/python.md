@@ -575,15 +575,16 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | **pybind11(**[**doc**](https://pybind11.readthedocs.io/en/stable/index.html)**, )**                                                                                                                                                                                                                                                                                                                                                 | **eigen(**[**s**](https://eigen.tuxfamily.org)**,** [**doc**](https://eigen.tuxfamily.org/dox/)**,** [**intro**](https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html)**, )** |
 | **eigency(**[**pypi**](https://pypi.org/project/eigency/)**,** [**git**](https://github.com/wouterboomsma/eigency)**, )**                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                       |
 
-| Numba                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| High-Performance Computing with Python: [Numba and GPUs](https://www.youtube.com/watch?v=NQr3p7NWIq4) 25:27                            |
-| Christoph Deil - [Understanding Numba](https://www.youtube.com/watch?v=UaFSnaYh2b8) - the Python and Numpy compiler 30:28              |
-| How to Accelerate an Existing Codebase with [Numba](https://www.youtube.com/watch?v=-4tD8kNHdXs) \| SciPy 2019 30:30                   |
-| Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained([Tech With Tim](https://www.youtube.com/watch?v=olYdb0DdGtM)) |
-| Threading Tutorial #2 - Implementing Threading in Python 3 (Examples)([Tech With Tim](https://www.youtube.com/watch?v=cdPZ1pJACMI))    |
-| Fun Python [Albert's Code Lab](https://www.youtube.com/playlist?list=PLwY2GJhAPWRev5Z6uWcOB7JlSKh5vp6gU)                               |
-| Learn CPython by Breaking It [Coding Tech](https://www.youtube.com/watch?v=CRuXP2jvJ8U)                                                |
+| Numba                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| High-Performance Computing with Python: [Numba and GPUs](https://www.youtube.com/watch?v=NQr3p7NWIq4) 25:27               |
+| Christoph Deil - [Understanding Numba](https://www.youtube.com/watch?v=UaFSnaYh2b8) - the Python and Numpy compiler 30:28 |
+| How to Accelerate an Existing Codebase with [Numba](https://www.youtube.com/watch?v=-4tD8kNHdXs) \| SciPy 2019 30:30      |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+| Fun Python [Albert's Code Lab](https://www.youtube.com/playlist?list=PLwY2GJhAPWRev5Z6uWcOB7JlSKh5vp6gU)                  |
+| Learn CPython by Breaking It [Coding Tech](https://www.youtube.com/watch?v=CRuXP2jvJ8U)                                   |
 
 ### CuPy
 
@@ -598,11 +599,17 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | Valentin Haenel: Create CUDA kernels from Python using Numba and CuPy \| [PyData](https://www.youtube.com/watch?v=CQDsT81GyS8) Amsterdam 2019                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | William Horton - CUDA in your Python: Effective Parallel Programming on the GPU - [PyCon 2019](https://www.youtube.com/watch?v=iw8RU4m4Dlo)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
+### 线程
+
 |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **【2021最新版】Python 并发编程实战，用多线程、多进程、多协程加速程序运行(**[**B**](https://www.bilibili.com/video/BV1bK411A7tV?p=3\&spm\_id\_from=pageDriver)**,** [**git**](https://github.com/peiss/ant-learn-python-concurrent)**,** [**aqy**](https://www.iqiyi.com/v\_vj8wqlhe84.html)**, )** |
 | \[Python Concurrent programming ] Python 并发编程实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocganLyOGNbzH9YdaSbZEALXmJ)                                                                                                                                 |
 | Python高级编程和异步IO并发编程 [优质VIP电影、视频 搬运工〈订阅更新〉](https://www.youtube.com/playlist?list=PLU2LfDuZos-pwZBCLXKhva80nPZgRGYff)                                                                                                                                                  |
+| Locking & Synchronizing Threads in Python [NeuralNine](https://www.youtube.com/watch?v=MbFSuk8yyjY)                                                                                                                                                                   |
+| Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained([Tech With Tim](https://www.youtube.com/watch?v=olYdb0DdGtM))                                                                                                                                |
+| Threading Tutorial #2 - Implementing Threading in Python 3 (Examples)([Tech With Tim](https://www.youtube.com/watch?v=cdPZ1pJACMI))                                                                                                                                   |
+|                                                                                                                                                                                                                                                                       |
 
 ### Cython
 
