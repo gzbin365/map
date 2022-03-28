@@ -79,6 +79,7 @@ description: 硬件设备
 | Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                        |
 | How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                      |
 | 树莓派变视频监控(python脚本方案) [我是炬峰](https://www.youtube.com/watch?v=nTVl9YBZoFg) [git](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials/blob/master/Projects/rpi\_camera\_surveillance\_system.py) |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                |
 
 ## Orange Pi
 
@@ -314,13 +315,14 @@ description: 硬件设备
 |                                                                                                            |
 |                                                                                                            |
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)           |
-| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                   |
-| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５ |
-| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)      |
-| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)         |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                             |
+| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                     |
+| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                   |
+| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                        |
+| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                           |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc) |
 
 ## 手工
 
