@@ -200,6 +200,7 @@
 | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods [Real Python](https://www.youtube.com/watch?v=PNpt7cFjGsM)                               |
 | Python小技巧#9：实例方法，类方法，静态方法的区别？ [麦叔编程](https://www.youtube.com/watch?v=bXHjtp1Y-u8)                                                                                      |
 | Object Oriented Analysis and Design [simplefunde](https://www.youtube.com/playlist?list=PL8CZDfB07h9t4wl35-qbVojs6lzs-HyqH)                                            |
+| OOP in Python \| Object Oriented Programming [Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)                                                                    |
 
 ## Python 教程
 

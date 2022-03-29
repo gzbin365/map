@@ -438,6 +438,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | [**s**](https://d2l.ai)**,** [**git**](https://github.com/d2l-ai/d2l-zh)**,** [**论坛**](https://discuss.gluon.ai)**, book(**[**v1**](https://zh.gluon.ai)**,** [**v2**](https://zh-v2.d2l.ai)**, )** |                                                            |
 | **v2视频(**[**B**](https://space.bilibili.com/1567748478/channel/detail?cid=175509)**, ), v2视频(**[**B**](https://space.bilibili.com/209599371/channel/detail?cid=23541), ),                           |                                                            |
 | 【李沐】动手学深度学习-pytorch 2021版 [Math4AI](https://www.bilibili.com/video/BV1Fb4y1D7Jt/?spm\_id\_from=333.788)                                                                                             |                                                            |
+| Mu Li [u](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw/videos)                                                                                                                          |                                                            |
 
 #### DeepLearningAI
 

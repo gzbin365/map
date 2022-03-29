@@ -321,6 +321,14 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
 
+### 代码生成
+
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)      |
+| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4) |
+|                                                                                   |
+
 ## 知识点
 
 |                                                                                |   |
