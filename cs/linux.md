@@ -158,6 +158,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Awk: Hack the planet\['s text]! (Presentation) [Benjamin Porter](https://www.youtube.com/watch?v=43BNFcOdBlY)                                                     |
 | The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)                             |
 | 30 BASIC COMMANDS IN LINUX / UNIX \|\| LINUX COMMANDS \|\| UNIX COMMANDS \|\| [OPEN SOURCE Sundeep Saradhi Kanthety](https://www.youtube.com/watch?v=rFwdniyo0CM) |
+| you need to learn BASH Scripting RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=SPwyp2NG-bE)                                                          |
 
 |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- |
