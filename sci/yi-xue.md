@@ -23,6 +23,7 @@
 | 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv) |
 | 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)          |
 | [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                            |
+| 如果發生戰爭甚至核戰爭，我絕對會這樣做 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=nIVgberBC5Y)                    |
 
 ## 健康养生
 
