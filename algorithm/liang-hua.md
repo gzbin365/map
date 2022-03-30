@@ -9,6 +9,6 @@
 | 金刚钻club [u](https://www.youtube.com/channel/UCIryIKNo64Gp0-u95pDtB1g/videos)                        |
 | 泽熙长信 [u](https://www.youtube.com/channel/UCaZnNGHyYkeav5XoWXCj1Tw/playlists)                        |
 | Learn It Fast 学快点 [u](https://www.youtube.com/channel/UCQGdLPQ85q\_K7GlwaSZEFCw/playlists)          |
-|                                                                                                     |
+| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                              |
 |                                                                                                     |
 |                                                                                                     |
