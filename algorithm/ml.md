@@ -475,6 +475,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Keynote Jake VanderPlas [PyData](https://www.youtube.com/watch?v=DifMYH3iuFw)                                                                                                 |
 | Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)                                             |
 | Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                            |
+| Data Science 101 [Data Professor](https://www.youtube.com/playlist?list=PLtqF5YXg7GLn0WWB\_wQx7wHrIvbs0EH2e)                                                                  |
 |                                                                                                                                                                               |
 
 #### 数据清理

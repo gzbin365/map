@@ -73,6 +73,7 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What is NLP (Natural Language Processing)? [IBM Technology](https://www.youtube.com/watch?v=fLvJ8VdHLA0)                                                                                                                                      |
 | Introduction to NLP [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)                                                                                                                               |
 | **Deep Learning for NLP at Oxford with Deep Mind 2017(**[**u**](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)**, )**                                                                                              |
 | **2015 CS224d Lectures (deprecated by new 2016 lectures)(**[**u**](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)**, )**                                                                                           |
