@@ -108,6 +108,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| React Project Tutorial – Build a Portfolio Website w/ Advanced Animations [freeCodeCamp](https://www.youtube.com/watch?v=bmpI252DmiI)                                    |
 | Instagram Clone Full Tutorial - Using React, Express & Sanity [Tech With Tim](https://www.youtube.com/watch?v=iRORiaLAgaE)                                               |
 | React with Redux Toolkit Crash Course [Laith Harb](https://www.youtube.com/watch?v=jR4fagDcvrc)                                                                          |
 | Livestream with Kent: React Patterns [Kent C. Dodds](https://www.youtube.com/watch?v=WV0UUcSPk-0)                                                                        |
