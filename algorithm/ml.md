@@ -694,6 +694,7 @@ LSTM
 | Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem [deeplizard](https://www.youtube.com/watch?v=my207WNoeyA)                                                                                                                  |
 | Stanford教授Daphne Koller 概率图模型 — 终极入门 第[三](https://blog.csdn.net/hfcaoguilin/article/details/121863012)讲 马尔可夫网络 (Markov Networks) [pdf](https://arxiv.org/pdf/2109.00725v1.pdf)                                                                             |
 | Markov Chains Clearly Explained! [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)                                                                                                                               |
+| 用Python介绍马尔可夫链！ [Adrian Dolinay](https://www.youtube.com/watch?v=WT6jI8UgROI)                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                            |
 
 ### MCMC, Markov Chain Monte Carlo
