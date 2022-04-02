@@ -108,6 +108,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Fullstack Flask React Tutorial - Master Flask Basics And Build A Python Flask React App \| 2020 HD [THE SHOW](https://www.youtube.com/watch?v=cb1vy1HpVwk)               |
 | React Project Tutorial – Build a Portfolio Website w/ Advanced Animations [freeCodeCamp](https://www.youtube.com/watch?v=bmpI252DmiI)                                    |
 | Instagram Clone Full Tutorial - Using React, Express & Sanity [Tech With Tim](https://www.youtube.com/watch?v=iRORiaLAgaE)                                               |
 | React with Redux Toolkit Crash Course [Laith Harb](https://www.youtube.com/watch?v=jR4fagDcvrc)                                                                          |
