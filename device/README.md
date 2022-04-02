@@ -368,7 +368,7 @@ description: 硬件设备
 | Can we simulate a real robot? [sentdex](https://www.youtube.com/watch?v=phTnbmXM06g) Bittle                                                               |
 | Dobot MG400 Robotic Arm: my first impressions, demos and hardware overview. [UptimeFab](https://www.youtube.com/watch?v=6nGexb\_i0aM)                     |
 | 海龟Turtle  [doc](https://boocax.github.io/product-doc/)  可扩展的智能机器人通用底盘                                                                                     |
-|                                                                                                                                                           |
+| I made a cute mini desktop robot ! [稚晖君](https://www.youtube.com/watch?v=FmKTiH5Lca4)                                                                     |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |
