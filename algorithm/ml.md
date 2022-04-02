@@ -199,6 +199,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | TorchScript and PyTorch JIT \| Deep Dive [PyTorch](https://www.youtube.com/watch?v=2awmrMRf0dA)                                                                                                                                                                 |
 | PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course [freeCodeCamp](https://www.youtube.com/watch?v=M3ZWfamWrBM)                                                                                                                        |
 | PyTorch Tutorials - Complete Beginner Course [Python Engineer](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)                                                                                                                        |
+| Introduction to PyTorch Tensors [Coding Epocs](https://www.youtube.com/watch?v=eHCoX5HWl-Q)                                                                                                                                                                     |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

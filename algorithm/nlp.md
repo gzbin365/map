@@ -330,6 +330,23 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)               |
 | 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs) |
 
+#### OpenAI Codex
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+#### DeepMind AlphaCode
+
+|                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)   [Demo](https://alphacode.deepmind.com)   [Paper](https://storage.googleapis.com/deepmind-media/AlphaCode/competition\_level\_code\_generation\_with\_alphacode.pdf) |
+| Competitive programming with AlphaCode [Coding Epocs](https://www.youtube.com/watch?v=Z57qqHwQi5Q)                                                                                                                                                 |
+| AlphaCode Explained: AI Code Generation [Edan Meyer](https://www.youtube.com/watch?v=t3Yh56efKGI)                                                                                                                                                  |
+|                                                                                                                                                                                                                                                    |
+
 ## 知识点
 
 |                                                                                |   |
