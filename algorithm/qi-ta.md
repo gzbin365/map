@@ -8,6 +8,8 @@ A\* (A Star) Search Algorithm - [Computerphile](https://www.youtube.com/watch?v=
 
 Maze Solving - [Computerphile](https://www.youtube.com/watch?v=rop0W4QDOUI)
 
+Python Path Finding Tutorial - Breadth First Search Algorithm [Tech With Tim](https://www.youtube.com/watch?v=hettiSrJjM4)
+
 ## 迷宫生成
 
 \[Unity 3d] Maze procedural generation - Kruskal Algorithm (download the project) [Willy Mercier](https://www.youtube.com/watch?v=acDJR9zC64g)
@@ -21,5 +23,5 @@ Coding Challenge #10.1: Maze Generator with p5.js - Part 1 [The Coding Train](ht
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial [Coding with John](https://www.youtube.com/watch?v=mcXc8Mva2bA) |
-|                                                                                                                              |
+| Python Sudoku Solver - [Computerphile](https://www.youtube.com/watch?v=G\_UYXzGuqvM)                                         |
 |                                                                                                                              |

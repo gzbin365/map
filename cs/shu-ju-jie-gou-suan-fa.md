@@ -179,6 +179,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                                      |
 | Big O Notation & Time Complexity Analysis Tutorial [Tech With Tim](https://www.youtube.com/watch?v=6aDHWSNKlVw)               |
 | BigO = Performance! And other lies programmers tell themselves!! [GamesWithGabe](https://www.youtube.com/watch?v=o4-zpAI7qBc) |
+|                                                                                                                               |
 
 ## 二进制 Binary
 

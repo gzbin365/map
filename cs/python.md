@@ -134,6 +134,7 @@
 | Python for Everybody - Chuck博士的全程课程 [freeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Python Basics with Sam [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Python for Beginners (Full Course) \| Programming Tutorial [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ### 传智/黑马
 
@@ -691,9 +692,11 @@ Python高性能编程
 
 ## Video Image Editing
 
-|                                                                                                         |   |
-| ------------------------------------------------------------------------------------------------------- | - |
-| Video Image Editing([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QnIT7LVc0nt2TFkdJe00FIy)) |   |
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| Video Image Editing([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QnIT7LVc0nt2TFkdJe00FIy))      |
+| Automatic YouTube Video Generator (Python Script) [Aaren Stade](https://www.youtube.com/watch?v=lo3w8auG7QA) |
+| Automated Video Editing With Python [NeuralNine](https://www.youtube.com/watch?v=Q2d1tYvTjRw) moviepy        |
 
 ## 爬虫
 

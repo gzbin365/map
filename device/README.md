@@ -378,11 +378,11 @@ description: 硬件设备
 
 ### 机械臂 Robot Arm
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| I made a DUMMY ROBOTIC ARM from scratch！ [稚晖君](https://www.youtube.com/watch?v=F29vrvUwqS4) |
+|                                                                                             |
+|                                                                                             |
 
 ### ROS
 
