@@ -115,7 +115,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 |                                                                                                                                       |                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
-|                                                                                                                                       | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
+| 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                          | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
 |                                                                                                                                       |                                                                                                                |
 
 |                                                                                                                     |
