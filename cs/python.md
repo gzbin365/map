@@ -1,6 +1,6 @@
 # Python
 
-[https://www.python.org/](https://www.python.org)
+Flask PythonProgrammi[https://www.python.org/](https://www.python.org)
 
 [https://github.com/python/cpython](https://github.com/python/cpython)
 
@@ -440,6 +440,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Tkinter                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | tk   [doc](https://docs.python.org/zh-cn/3/library/tk.html)   tkinter [doc](https://docs.python.org/zh-cn/3/library/tkinter.html)                                                                                                |
+| Pil and Tkinter [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWOWaehEWm-wZsvPHVNjYxn)                                                                                                                     |
 | 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                                                                                            |
 | 麦子学院-项目-Python开发跨平台的记事本 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxsRLmmTjXa1hO45PpnQcBM)                                                                                                                       |
 | Awesome Python Tkinter GUI drag & drop builder! Pygubu [Coding Zoe](https://www.youtube.com/watch?v=CS3\_uVTUaII)                                                                                                                |
@@ -667,6 +668,7 @@ Python高性能编程
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Flask [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWPXx3C\_aIATYnnbCTDByHy)                                                       |
 | [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)                                     |
 | Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                             |
 | 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                                                     |
@@ -757,7 +759,7 @@ Python 3 Basics Tutorial Series [sentdex](https://www.youtube.com/playlist?list=
 |                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------- |
 | How to Convert HTML to PDF using Python [buckmasterinstitute](https://www.youtube.com/watch?v=9DP5Nkw7LEY) |
-|                                                                                                            |
+| JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit)  HTML to PDF wrapper                   |
 |                                                                                                            |
 
 ### CSV
