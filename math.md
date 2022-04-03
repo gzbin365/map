@@ -74,10 +74,15 @@ description: 用数学充实人生
 | Desmos 教學影片 [林子翔老師教數學](https://www.youtube.com/playlist?list=PLkstLknHwtdg6AJiVqQom5-QmBDBrCHZJ)                                                                                                          |
 | Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                         |
 | Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
+| 3d Graphing in a 2d Calculator (Desmos) [JohnDoesStuff](https://www.youtube.com/watch?v=SnK6ZbQggV4)                                                                                                      |
+| desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                       |
+| Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                   |
 
 ### MATLAB
 
 The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://www.youtube.com/watch?v=T\_ekAD7U-wU)
+
+MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel/UCNuB-vNeYDoDLuIZ4lLWeLw)
 
 ### Manim
 
@@ -873,11 +878,11 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 
 ### 生命游戏
 
-|                                                                                 |   |   |
-| ------------------------------------------------------------------------------- | - | - |
-| Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo) |   |   |
-|                                                                                 |   |   |
-|                                                                                 |   |   |
+|                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- |
+| Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)                         |
+| Coding Challenge #85: The Game of Life [The Coding Train](https://www.youtube.com/watch?v=FWSR\_7kZuYg) |
+|                                                                                                         |
 
 ## 运筹学
 
