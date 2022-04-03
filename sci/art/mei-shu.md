@@ -81,6 +81,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 |                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [s](https://www.blender.org) [tutorials](https://www.blender.org/support/tutorials/) [u](https://www.youtube.com/c/BlenderFoundation/playlists)  |
+| Dirk Teucher [u](https://www.youtube.com/c/DirkTeucher/playlists)                                                                                |
 | Blender 3.0 Reference Manual [doc](https://docs.blender.org/manual/en/3.0/)                                                                      |
 | Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                    |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                    |
@@ -98,6 +99,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                   |
 | Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                               |
 | Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                   |
+|                                                                                                                                                  |
 
 ### Revit
 

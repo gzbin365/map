@@ -1,6 +1,6 @@
 # Python
 
-Flask PythonProgrammi[https://www.python.org/](https://www.python.org)
+[https://www.python.org/](https://www.python.org)
 
 [https://github.com/python/cpython](https://github.com/python/cpython)
 
@@ -602,7 +602,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | Valentin Haenel: Create CUDA kernels from Python using Numba and CuPy \| [PyData](https://www.youtube.com/watch?v=CQDsT81GyS8) Amsterdam 2019                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | William Horton - CUDA in your Python: Effective Parallel Programming on the GPU - [PyCon 2019](https://www.youtube.com/watch?v=iw8RU4m4Dlo)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-### 线程
+### 线程 进程
 
 |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -610,9 +610,28 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | \[Python Concurrent programming ] Python 并发编程实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocganLyOGNbzH9YdaSbZEALXmJ)                                                                                                                                 |
 | Python高级编程和异步IO并发编程 [优质VIP电影、视频 搬运工〈订阅更新〉](https://www.youtube.com/playlist?list=PLU2LfDuZos-pwZBCLXKhva80nPZgRGYff)                                                                                                                                                  |
 | Locking & Synchronizing Threads in Python [NeuralNine](https://www.youtube.com/watch?v=MbFSuk8yyjY)                                                                                                                                                                   |
+| Multiprocessing in Python [NeuralNine](https://www.youtube.com/watch?v=GT10PnUFLlE)                                                                                                                                                                                   |
+| Why is Python So Slow & Does it Matter? [NeuralNine](https://www.youtube.com/watch?v=bC428xPW1H8)                                                                                                                                                                     |
 | Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained([Tech With Tim](https://www.youtube.com/watch?v=olYdb0DdGtM))                                                                                                                                |
 | Threading Tutorial #2 - Implementing Threading in Python 3 (Examples)([Tech With Tim](https://www.youtube.com/watch?v=cdPZ1pJACMI))                                                                                                                                   |
+| Python Multithreading Tutorial #1 - What is a Thread? [Tech With Tim](https://www.youtube.com/watch?v=GFfMuyNUnDs)                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                       |
+| 浅析Python多线程与多进程的使用 汪尊 [Leonardo Zhou](https://www.youtube.com/watch?v=K8T-MiNQlbI)                                                                                                                                                                                    |
+| Python多线程实战！ [麦叔编程](https://www.youtube.com/watch?v=MNV5oLZRanA)                                                                                                                                                                                                      |
+| 【操作系统】进程和线程的区别 [从0开始数](https://www.youtube.com/watch?v=e3JQOgKw9BA)                                                                                                                                                                                                   |
+| 花花酱 线程与进程 并行计算1 - CS大讲堂 EP1 [Hua Hua](https://www.youtube.com/watch?v=prFEyaUEAMM\&list=PLLuMmzMTgVK7XfFadhkPuF\_ztvhxbriDr\&index=16)                                                                                                                                |
+| 为什么我们需要使用多线程？ - 花花酱 CS大讲堂 EP2 [Hua Hua](https://www.youtube.com/watch?v=x1xNUZ4OysA\&list=PLLuMmzMTgVK7XfFadhkPuF\_ztvhxbriDr\&index=15)                                                                                                                              |
+|                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                       |
+
+| subprocess                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 60天Python零基础入门（32-1/60）：subprocess模块 [学点编程吧](https://www.youtube.com/watch?v=L4nGUkzzLj0)                                                                                               |
+| 60天Python零基础入门（32-2/60）：subprocess模块 [学点编程吧](https://www.youtube.com/watch?v=UcmHBJMkbZs)                                                                                               |
+| 3 12 subprocess模块 [千锋教育](https://www.youtube.com/watch?v=XvEePza\_CW4)                                                                                                                  |
+| Python Tutorial: Calling External Commands Using the Subprocess Module [Corey Schafer](https://www.youtube.com/watch?v=2Fp1N6dof0Y\&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU\&index=122) |
 
 ### Cython
 
@@ -828,6 +847,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
 | Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                  |
 | 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                          |
+| \[程序员小飞]Python如何定时发送邮件｜Python定时器\|SMTP POP3 [程序员小飞](https://www.youtube.com/watch?v=hypAlCKLyR0)                                      |
 | Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                    |
 | Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                     |
 | 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                    |

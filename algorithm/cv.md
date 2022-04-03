@@ -278,6 +278,14 @@ import cv2
 | **基于深度学习和行人重识别(**[**git**](https://github.com/michuanhaohao/ReID\_tutorial\_slides)**, )**                      |
 | **Person\_reID\_baseline\_pytorch(**[**git**](https://github.com/layumi/Person\_reID\_baseline\_pytorch)**, )** |
 
+## 3D重建 3d-reconstruction
+
+|                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Instant Neural Graphics Primitives [git](https://github.com/NVlabs/instant-ngp) [s](https://nvlabs.github.io/instant-ngp/) [arxiv](https://arxiv.org/pdf/2201.05989.pdf) [v](https://www.youtube.com/watch?v=87h\_P2BXEag) |
+|                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                            |
+
 ## 实战
 
 |                                                                      |                                                                       |

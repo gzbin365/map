@@ -1022,6 +1022,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | Cryptography [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUyoyOQ\_2dCvr5GPi5w\_T7)                                    |
 | 实用密码学 [极客时间](https://time.geekbang.org/column/intro/369)                                                                                       |
 | 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                  |
+| Predicting Crypto Prices in Python [NeuralNine](https://www.youtube.com/watch?v=GFSiL6zEZF0)                                                   |
 
 ### 哈希
 
