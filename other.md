@@ -53,7 +53,7 @@
 | archive [s](https://archive.org) Search the history of over 624 billion web pages on the Internet.                                                           |
 | 天眼查　抖音号： [1083691533](https://www.douyin.com/user/MS4wLjABAAAA6LFLWEKBTjzmGX1KEIcJ2xm604rOpO9nE2mwVR3GPu0)                                                   |
 | emojimix s [s](https://svelteland.github.io/emojimix/) [git](https://github.com/svelteland/emojimix)                                                         |
-|                                                                                                                                                              |
+| brilliant [s](https://brilliant.org) 交互学习 付费                                                                                                                 |
 
 |                                                                                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------- | - |

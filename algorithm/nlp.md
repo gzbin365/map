@@ -274,9 +274,10 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 情感分析 Sentiment Analysis
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD)) |
+|                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD))                                                            |
+| Sentiment Analysis with BERT using Transformers by Hugging Face , PyTorch and Python Tutorial [Venelin Valkov](https://www.youtube.com/playlist?list=PLEJK-H61XlwxpfpVzt3oDLQ8vr1XiEhev) |
 
 ### 关键词提取  摘要
 
