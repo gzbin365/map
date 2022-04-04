@@ -59,7 +59,17 @@ description: 自然语言处理
 | Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                             |
 | ELMO, BERT, GPT [Hung-yi Lee](https://www.youtube.com/watch?v=UYPa347-DdE)                                                                                         |
 | LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
-|                                                                                                                                                                    |
+| MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
+| MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
+
+### CRF
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| search\_query=[BiLSTM+CRF](https://www.youtube.com/results?search\_query=BiLSTM%2BCRF)             |
+| yongzhuo/[Macropodus](https://github.com/yongzhuo/Macropodus) 自然语言处理工具Macropodus Albert+BiLSTM+CRF |
+| 更更多内容在ML页                                                                                          |
+|                                                                                                    |
 
 LDA 文档聚类 plsa lsa
 
@@ -137,6 +147,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 ### POS 词性标注
 
 ### NER命名实体识别
+
+|                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中文电子病历命名实体识别 - 人工智能垂直领域工程项目案例分享 [跨象乘云](https://www.youtube.com/watch?v=JZKciFnAlW0)                                                               |
+| 汉语自然语言处理-维特比算法与NER-命名实体识别-viterbi algorithm-HMM-CRF-概率图模型-动态规划 [Shurui Zhang](https://www.youtube.com/watch?v=RKDIpPyeTTk)                        |
+| 汉语自然语言处理-隐马尔可夫模型命名实体识别NER-HMM-从零解读-概率图模型-生成模型-hidden markov model[ Shurui Zhang](https://www.youtube.com/watch?v=tWDBt9Wv1AM)                     |
+| WNUT17 Shared Task - Multi channel BiLSTM CRF Model for Emerging Named Entity Recognition [Frank Xu](https://www.youtube.com/watch?v=zhqJPYHxJNY) |
+| hmm crf bilstm                                                                                                                                    |
 
 ### 对话系统
 
@@ -372,6 +390,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                   |
 | blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                  |
 | murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools) 中文文本分析工具包         |
+| yongzhuo/[Macropodus](https://github.com/yongzhuo/Macropodus) 自然语言处理工具Macropodus Albert+BiLSTM+CRF    |
 | NLP-大厂笔试题 [IT-cute](https://zhuanlan.zhihu.com/p/463715582)                                           |
 | 自然语言处理 [知乎话题](https://www.zhihu.com/topic/19560026/hot)                                               |
 | 自然语言理解 [知乎话题](https://www.zhihu.com/topic/20646853/hot)                                               |

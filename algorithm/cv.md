@@ -280,11 +280,11 @@ import cv2
 
 ## 3D重建 3d-reconstruction
 
-|                                                                                                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Instant Neural Graphics Primitives [git](https://github.com/NVlabs/instant-ngp) [s](https://nvlabs.github.io/instant-ngp/) [arxiv](https://arxiv.org/pdf/2201.05989.pdf) [v](https://www.youtube.com/watch?v=87h\_P2BXEag) |
-|                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                            |
+| NeRF                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Instant Neural Graphics Primitives [git](https://github.com/NVlabs/instant-ngp) [s](https://nvlabs.github.io/instant-ngp/) [arxiv](https://arxiv.org/pdf/2201.05989.pdf) [v](https://www.youtube.com/watch?v=87h\_P2BXEag) 能够将 2D 图像转 3D 模型 |
+| 英伟达新技术训练NeRF模型 [机器之心](https://www.jiqizhixin.com/articles/2022-01-16)                                                                                                                                                                       |
+| Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 
 ## 实战
 

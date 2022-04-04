@@ -760,6 +760,8 @@ Conditional Random Fields - Stanford University (By Daphne Koller) [Machine Lear
 
 Conditional Random Fields [Natalie Parde](https://www.youtube.com/watch?v=qQEQiPAxFxM)
 
+Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fLgKMk)   [(2/3)](https://www.youtube.com/watch?v=7L0MKKfqe98)    [(3/3)](https://www.youtube.com/watch?v=2KTeXhfsc-k)  LUCY Yin
+
 </details>
 
 ### 因子分解机Factorization Machine, FM
