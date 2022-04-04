@@ -256,7 +256,9 @@ import cv2
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                               |
 | MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch) |
-|                                                                                                                                                               |
+| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w) Tesseract                                                 |
+| Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                           |
+| How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                 |
 
 ## 视觉 Attention
 
@@ -285,6 +287,14 @@ import cv2
 | Instant Neural Graphics Primitives [git](https://github.com/NVlabs/instant-ngp) [s](https://nvlabs.github.io/instant-ngp/) [arxiv](https://arxiv.org/pdf/2201.05989.pdf) [v](https://www.youtube.com/watch?v=87h\_P2BXEag) 能够将 2D 图像转 3D 模型 |
 | 英伟达新技术训练NeRF模型 [机器之心](https://www.jiqizhixin.com/articles/2022-01-16)                                                                                                                                                                       |
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
+
+## 视频理解
+
+|                                                                       |
+| --------------------------------------------------------------------- |
+| I3D 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=9lIkKiAn6uE)   |
+| 双流网络论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=vuqwKP2iDe0) |
+|                                                                       |
 
 ## 实战
 

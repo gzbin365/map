@@ -434,7 +434,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | 视频                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI) Alan D Moore Codes                            |
-| Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                                         |
+|                                                                                                                                                             |
 | 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)                                 |
 | Python GUI - Eel [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1AnieCi1FfNibjYWkLWIPi92Yu)   ChrisKnott/[Eel](https://github.com/ChrisKnott/Eel) |
 | Python GUI - Tkinter [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anie\_vHuCOt3hCXN6HIl8Ph8u)                                                  |
@@ -479,6 +479,12 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Kivy Tutorials Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn) |
 |                                                                                                                 |
 |                                                                                                                 |
+
+| PySimpleGUI                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| The ultimate introduction to simple Python GUIs \[ create 10 apps with PySimpleGUI ] [Clear Code](https://www.youtube.com/watch?v=QeMaWQZllhg) |
+| Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                            |
+|                                                                                                                                                |
 
 | book                                                                               |   |
 | ---------------------------------------------------------------------------------- | - |
