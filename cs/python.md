@@ -759,7 +759,7 @@ Python高性能编程
 | Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)             |
 | Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)  |
 | Weather API Tutorial in Python [NeuralNine](https://www.youtube.com/watch?v=9P5MY\_2i7K8)                            |
-|                                                                                                                      |
+| 豆瓣爬虫项目，从0到1爬虫教程【Python爬虫实战项目】 [图灵星球Turing Planet](https://www.youtube.com/watch?v=SiI4Wn4ut4g)                       |
 
 ## 网络编程
 
