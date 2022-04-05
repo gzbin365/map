@@ -485,6 +485,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 
+斯坦福CS329P：实用机器学习 [Mu Li](https://www.youtube.com/playlist?list=PLFXJ6jwg0qW8vMksqOuvKuohVJRQ9Ikyo)   [主页](https://c.d2l.ai/stanford-cs329p/)&#x20;
+
 ## 算法
 
 奥卡姆剃刀原理 [严伯钧](https://www.douyin.com/video/7035859509524303111)
