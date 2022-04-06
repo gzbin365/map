@@ -74,6 +74,7 @@
 | 簡·愛 [Go With Foreign Language](https://www.youtube.com/watch?v=adESrVgFKIU\&t=0s)                                          |
 | 最后一个捞偏传人 [笔趣阁](https://www.biqugeabc.com/book/625272.html)                                                                 |
 | 阿西莫夫科幻小说系列 Isaac Asimov [幻海航行--science fiction](https://www.youtube.com/playlist?list=PLkz\_-SLZY0iDSK-jBKylS-gbVnr4fku2L) |
+| 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                            |
 
 |                                                                                  |
 | -------------------------------------------------------------------------------- |
