@@ -24,7 +24,7 @@
 |                                                                                                                                                                                                                                                                                       | 备注                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | **Qv2ray(**[**site**](https://qv2ray.net)**,** [**v**](https://www.youtube.com/watch?v=fyLFgycALj0)**,** [**书童**](https://xugaoxiang.com/2020/10/17/qv2ray/)**,** [**d**](https://github.com/Qv2ray/Qv2ray/releases/)**,** [**d**](https://github.com/v2fly/v2ray-core/releases)**)** | 上网工具, 需要提前在机场购买服务 |
-| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI) 5:25 [s](https://gogoo.club/user/tutorial?os=linux\&client=clash)                                                                   |                   |
+| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI) 5:25 [s](https://gogoo.club/user/tutorial?os=linux\&client=clash) [v](https://www.youtube.com/watch?v=9Ice-qMePQk)                  |                   |
 
 ## 插件
 
