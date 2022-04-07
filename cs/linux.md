@@ -295,8 +295,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Kubernetes Crash Course for Absolute Beginners \[NEW] [TechWorld with Nana](https://www.youtube.com/watch?v=s\_o8dwzRlu4)                                       |
 | you need to learn Kubernetes RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw)                                                            |
 | An Introduction To Kubernetes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=PlWPH\_VUlNE)                                                     |
-|                                                                                                                                                                 |
-|                                                                                                                                                                 |
+| Learning Docker and Kubernetes by Practice [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AF-4IUpHZaEdlQOkkVt-0D)                                    |
+| 通过Google Cloud学习Kubernetes [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AYnAP3q9OwNmB0V7uG759p)                                                    |
 
 ## GNOME
 

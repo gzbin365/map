@@ -115,11 +115,11 @@ description: 硬件设备
 
 ### GPD
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| GPD掌机 抖音号： [1972188727](https://www.douyin.com/user/MS4wLjABAAAAjxBGPYLAOzIWGj\_6--YXFtE5HiACfX-3uFTq1PuIYgg) |
-| GPD Win3 max                                                                                                  |
-|                                                                                                               |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| GPD掌机 抖音号： [1972188727](https://www.douyin.com/user/MS4wLjABAAAAjxBGPYLAOzIWGj\_6--YXFtE5HiACfX-3uFTq1PuIYgg)   [s](http://softwincn.com/home)  |
+| GPD Win3 max                                                                                                                                    |
+| xp plus [s](http://softwincn.com/gpdxp) [参数](http://softwincn.com/gpdxpcs)                                                                      |
 
 ## Steam Deck
 
