@@ -218,7 +218,8 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 力扣杯 - 竞赛合集 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/7cyqwuv/)                                                       |
 | 腾讯精选练习 50 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/ex0k24j/)                                                      |
 | 题库 [牛客网](https://www.nowcoder.com/exam/oj)                                                                                      |
-|                                                                                                                                 |
+| 基础语法 [牛客网](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87\&topicId=290) 173                                   |
+| 考研真题 408 [牛客网](https://www.nowcoder.com/kaoyan)                                                                                 |
 
 ## 其他
 

@@ -23,6 +23,8 @@
 | Micro-Frontends Course - Beginner to Expert [freeCodeCamp](https://www.youtube.com/watch?v=lKKsjpH09dU)                              |
 | codepen [s](https://codepen.io) 构建、测试和发现前端代码的最佳场所。[eg](https://codepen.io/Ma5a/full/jOBWBYw)                                         |
 | FrontEndGitHub/[FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) GitHub最全的前端资源汇总仓库 [前端导航](https://www.kwgg2020.com) |
+| strikingly [s](https://cn.strikingly.com) 几分钟制作一个网站                                                                                  |
+| [Webflow](https://webflow.com): Create a custom website \| No-code website builder                                                   |
 
 ## web 开发
 
