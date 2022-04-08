@@ -267,6 +267,7 @@ description: 硬件设备
 | 6502 CPU Emulator in C++ [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)                                                     |
 | Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                      |
 | 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
+| 挤爆牙膏！英特尔新CPU变强的秘密，被我找到了 [老石谈芯](https://www.youtube.com/watch?v=o4K6cuSVf1s) 异构                                                                                    |
 
 ## DPU
 

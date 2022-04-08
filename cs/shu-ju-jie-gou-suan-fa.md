@@ -206,6 +206,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)                    |
 | LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)                    |
 | rogertan30/[Love-Leetcode](https://github.com/rogertan30/Love-Leetcode) 小码哥《恋上数据结构与算法》学习笔记                                      |
+| LeetCode 刷题 \| 力扣 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt1LPbXt7xfJ7Sv-6B57F3IV)                              |
 
 ## 其他
 
