@@ -40,6 +40,7 @@ description: Blockchain & Cryptocurrency
 | <p>Etherscan API with Python 3 Tutorial <a href="https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlfLAIZcyq_UZNdKTJVZUMA">Pysource</a></p><p>Etherscan是以太坊网络的区块链浏览器。</p> |
 | Blockchain For Beginners [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx)                                                        |
 | Track Ethereum Transactions and Balance Using Python [Tech With Tim](https://www.youtube.com/watch?v=x5FHbr0Em5A)                                                         |
+| 区块链与比特币技术入门教程 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3AWUOEIi-qUrA0W\_1GhYUx)                                                                           |
 
 ## 元宇宙
 

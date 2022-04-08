@@ -89,4 +89,4 @@
 | L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D) |
 | 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                  |
 | 最通俗易懂的CAP定理教程 [技术喵](https://www.youtube.com/watch?v=yA-mOVIO8jA)                                                    |
-|                                                                                                                     |
+| 分布式系统\&DDIA [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3pQjcgSAxeXvYCyTa-luOc)                        |

@@ -26,7 +26,7 @@
 | how Hackers SNiFF (capture) network traffic // MiTM attack [NetworkChuck](https://www.youtube.com/watch?v=-rSqbgI7oZM)                                              |
 | CISSP Certification Course – PASS the Certified Information Security Professional Exam! [freeCodeCamp](https://www.youtube.com/watch?v=M1\_v5HBVHWo)                |
 | Complete IT Security Course By Google \|\| Cyber Security Full Course for Beginner [Geek's Lesson](https://www.youtube.com/watch?v=6MYF6Zo6i6A)                     |
-|                                                                                                                                                                     |
+| 网络安全 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt0pbMX4pnEbTzcId23psvFY)                                                                               |
 |                                                                                                                                                                     |
 |                                                                                                                                                                     |
 |                                                                                                                                                                     |
