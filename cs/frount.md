@@ -378,12 +378,13 @@ MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1c
 
 ### Figma
 
-|                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY)                 |
-| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)                   |
-| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)                         |
-| UI Design a Dark Neumorphism Tesla app in Figma from scratch [DesignCode](https://www.youtube.com/watch?v=nthq56UABI0) |
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY)                   |
+| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)                     |
+| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)                           |
+| UI Design a Dark Neumorphism Tesla app in Figma from scratch [DesignCode](https://www.youtube.com/watch?v=nthq56UABI0)   |
+| Figma Variants – Design a Scalable Mobile App \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=stQ1IZEB2xk) |
 
 ## 其他
 
