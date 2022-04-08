@@ -461,6 +461,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                                                                       |
 | Build a desktop app with Python [Harika bv](https://medium.com/@harikabv/build-a-desktop-app-with-python-521e37c75517)                                                                                                           |
 | <p>How To Create A Desktop Application Using Python And Tkinter</p><p><a href="https://medium.com/analytics-vidhya/how-to-create-a-desktop-application-using-python-and-tkinter-25b6347cf845">Mohammed El Amine Mokhtari</a></p> |
+| Build a Weather app with Python and Tkinter [DevUpskill net](https://www.youtube.com/watch?v=7JoMTQgdxg0)                                                                                                                        |
 |                                                                                                                                                                                                                                  |
 
 | PyQt                                                                                                                                         |
