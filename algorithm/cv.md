@@ -261,6 +261,14 @@ import cv2
 | Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                           |
 | How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                 |
 
+### 表格识别
+
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| \[表格识别论文解读]Deep Splitting and Merging for Table Structure Decomposition [jianshu](https://www.jianshu.com/p/c7df3ebe3d44) |
+|                                                                                                                           |
+|                                                                                                                           |
+
 ## 视觉 Attention
 
 |                                                                   |   |
