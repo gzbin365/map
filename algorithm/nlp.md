@@ -190,6 +190,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | chatopera/[clause](https://github.com/chatopera/clause) 聊天机器人，自然语言理解，语义理解                                                                                                                                                                                                                      |
 | rasa [s](https://rasa.com) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                 |
 
+| 百度云智教育                                                                                    |
+| ----------------------------------------------------------------------------------------- |
+| 对话系统的基本概念与原理 [v](https://abcxueyuan.baidu.com/#/course\_detail?id=14762\&courseId=14762)  |
+| UNIT使用技巧与持续优化 [v](https://abcxueyuan.baidu.com/#/course\_detail?id=14760\&courseId=14760) |
+|                                                                                           |
+
 |                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <p>I Made a Bot that Knows EVERYTHING! <a href="https://www.youtube.com/watch?v=6laeV_9xGKo">Jabrils</a></p><p>Sam Says Sweet Sounds <a href="http://www.samsayssweetsounds.com">s</a></p> |
@@ -279,6 +285,10 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Sentiment Analysis With Python([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmh5EcfhbsJh\_W29WinwlsHD))                                                            |
 | Sentiment Analysis with BERT using Transformers by Hugging Face , PyTorch and Python Tutorial [Venelin Valkov](https://www.youtube.com/playlist?list=PLEJK-H61XlwxpfpVzt3oDLQ8vr1XiEhev) |
 
+### （短）文本相似度
+
+
+
 ### 关键词提取  摘要
 
 |                                                                                       |
@@ -286,6 +296,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | letiantian/[TextRank4ZH](https://github.com/letiantian/TextRank4ZH)  从中文文本中自动提取关键词和摘要 |
 | paper-digest [s](http://www.paper-digest.com)                                         |
 |                                                                                       |
+
+### 词法分析
+
+###
+
+### 机器翻译
+
+###
 
 ### Attention
 

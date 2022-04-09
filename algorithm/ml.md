@@ -867,6 +867,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
+| Chaoyang He [u](https://www.youtube.com/channel/UCitUvawrBSCUVWxcnhxaBGg/playlists)                            |
 | 联邦学习：技术角度的讲解（中文）Introduction to Federated Learning [Shusen Wang](https://www.youtube.com/watch?v=STxtRucv\_zo) |
 | 杨强 \| 用户隐私，数据孤岛和联邦学习 [清华大学智能产业研究院](https://www.youtube.com/watch?v=hfcVQCXGPvs)                                |
 | 刘洋丨联邦学习的技术挑战和应用展望 [清华大学智能产业研究院](https://www.youtube.com/watch?v=3uM7vpF\_GEw)                                  |

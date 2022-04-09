@@ -19,6 +19,16 @@ description: 知识图谱
 | SimmerChan/[KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)  电影知识图谱 KBQA     |
 |                                                                                                  |
 
+实体抽取
+
+事件抽取
+
+指标抽取
+
+金知识图谱
+
+关系抽取
+
 <details>
 
 <summary>大话知识图谱 王乐</summary>

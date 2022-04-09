@@ -144,6 +144,22 @@ AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://
 | Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=LLKza5oULAA)        |
 |                                                                                                                                                    |
 
+### 百度
+
+|                                          |
+| ---------------------------------------- |
+| 百度云智教育 [s](https://abcxueyuan.baidu.com) |
+|                                          |
+|                                          |
+
+### 京东
+
+|                                                   |
+| ------------------------------------------------- |
+| 京东云-开发者社区 [s](https://developer.jdcloud.com)      |
+| NeuHub京东人工智能开放平台 [s](https://neuhub.jd.com) 京东智联云 |
+|                                                   |
+
 ## UP主
 
 |                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                       |
