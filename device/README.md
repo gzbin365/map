@@ -466,6 +466,8 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 
 铁三角[AT9912](https://www.youtube.com/watch?v=w4AQUUeRyaI) 398   boya [by-m1](https://www.youtube.com/watch?v=w4AQUUeRyaI) 194   boya by-m100 135   boya by-m1 领夹
 
+纽曼 m149
+
 ## 维修
 
 |                                                                                                              |   |
