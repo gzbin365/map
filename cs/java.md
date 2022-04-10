@@ -54,6 +54,7 @@
 | Java Programming Tutorial in Linux [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHV3l86khuur2SuutpDzUxBl)                                                                      |
 | <p>学习Java 8 - 初学者全套教程 <a href="https://www.youtube.com/watch?v=grEKMHGYyns">freeCodeCamp</a></p><p>Learn Java 8 - Full Tutorial for Beginners</p>                                             |
 | Java Native Interface (28-Hour Course) [freeCodeCamp](https://www.youtube.com/watch?v=pyXnX2SEaFc)                                                                                            |
+| deepjavalibrary/[d2l-java](https://github.com/deepjavalibrary/d2l-java) The Java implementation of Dive into Deep Learning (D2L.ai)                                                           |
 
 ### NginX
 

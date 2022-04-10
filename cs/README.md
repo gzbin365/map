@@ -64,7 +64,7 @@ description: 计算机科学与技术 keep coding
 | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists)              | Rackspace Technology([u](https://www.youtube.com/c/rackspace/playlists), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | InfoQ [u](https://www.youtube.com/nctv/playlists)                                   | 异步社区　抖音号： [628596691](https://www.douyin.com/user/MS4wLjABAAAAAaIE6CYwegV0LfrWMNN\_Uawfgw7ieBBwfG6Oxr9FM8I)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-### 亚马逊
+### 亚马逊 AWS
 
 <details>
 
@@ -95,6 +95,8 @@ Be A Better Dev [u](https://www.youtube.com/c/BeABetterDev/playlists)
 AWS Events [u](https://www.youtube.com/watch?v=9NEQbFLtDmg)
 
 AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=g2JOHLHh4rI)
+
+aws-samples [git](https://github.com/aws-samples)
 
 </details>
 
