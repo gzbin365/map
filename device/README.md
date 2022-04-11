@@ -333,6 +333,9 @@ description: 硬件设备
 | Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                           |
 | Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc) |
 | 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                             |
+| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                    |
+| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                             |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
 
 ## 手工
 
