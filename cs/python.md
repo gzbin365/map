@@ -653,6 +653,8 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 
 Speed Up Your Code With Cython [NeuralNine](https://www.youtube.com/watch?v=Ic1oE6SEOBs)
 
+cpython, pypy, jython, rustpython这些都是什么鬼 [码农高天](https://www.bilibili.com/video/BV1er4y1B7Un)
+
 ### Asyncio
 
 
@@ -761,6 +763,9 @@ Python高性能编程
 | Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)  |
 | Weather API Tutorial in Python [NeuralNine](https://www.youtube.com/watch?v=9P5MY\_2i7K8)                            |
 | 豆瓣爬虫项目，从0到1爬虫教程【Python爬虫实战项目】 [图灵星球Turing Planet](https://www.youtube.com/watch?v=SiI4Wn4ut4g)                       |
+| 2019千锋Python爬虫全套视频（最经典）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4ZkUUau3b5Df3OJAG7l94o)              |
+| Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive      |
+| 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive      |
 
 ## 网络编程
 

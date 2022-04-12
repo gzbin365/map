@@ -511,6 +511,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [scikit-learn.org](https://scikit-learn.org/stable/index.html)                                                                                                      |
 | 機器學習：使用Python ([书栈](https://www.bookstack.cn/books/machine-learning-python), )                                                                                      |
 | scikit-learn (sklearn) 0.21.3 官方文档中文版 ([书栈](https://www.bookstack.cn/books/sklearn-0.21.3), )                                                                       |
 | Scikit-Learn Python Tutorial \| Machine Learning with Scikit-learn [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq) |
@@ -519,6 +520,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Learn Scikit Learn [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxDHDWU-YBPfKXV3G0TKXvpy)                                                      |
 | Professional Preprocessing with Pipelines in Python [NeuralNine](https://www.youtube.com/watch?v=h1BnRBzYjYY)                                                       |
 | Precision & Recall in Machine Learning Explained [NeuralNine](https://www.youtube.com/watch?v=N2UPbPGO7ko)                                                          |
+| 机器学习Sklearn全套教程（程序员必备）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7kSJwic2AFjZK1\_ZPZFrJe) drive                                                       |
 
 ### 预测
 

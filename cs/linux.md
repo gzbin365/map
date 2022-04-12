@@ -159,6 +159,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZtqBQ68cfJc)                             |
 | 30 BASIC COMMANDS IN LINUX / UNIX \|\| LINUX COMMANDS \|\| UNIX COMMANDS \|\| [OPEN SOURCE Sundeep Saradhi Kanthety](https://www.youtube.com/watch?v=rFwdniyo0CM) |
 | you need to learn BASH Scripting RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=SPwyp2NG-bE)                                                          |
+| Shell编程从入门到实战（二）【2019千锋Linux】（35集）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4\_yXi-tEa2zTGY6BayASLS)                                               |
 
 |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- |
@@ -353,15 +354,16 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ### Neovim
 
-|                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://neovim.io) hyperextensible Vim-based text editor [git](https://github.com/neovim/neovim)                               |
-| Awesome Neovim Setup From Scratch - Full Guide [NeuralNine](https://www.youtube.com/watch?v=JWReY93Vl6g)                           |
-| Neovim - Your First 15 Minutes [Jake Wiesler](https://www.youtube.com/watch?v=zn\_BT56UoKs)                                        |
-| Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA) |
-| my linux config more like neovim config :) [momfor](https://www.youtube.com/watch?v=\_GldsqYpYz0)                                  |
-| Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                     |
-| Vim Snippets Are Next Level [NeuralNine](https://www.youtube.com/watch?v=qspwCdlrfNs)                                              |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [s](https://neovim.io) hyperextensible Vim-based text editor [git](https://github.com/neovim/neovim)                                                         |
+| Awesome Neovim Setup From Scratch - Full Guide [NeuralNine](https://www.youtube.com/watch?v=JWReY93Vl6g)                                                     |
+| Neovim - Your First 15 Minutes [Jake Wiesler](https://www.youtube.com/watch?v=zn\_BT56UoKs)                                                                  |
+| Neovim 0.5 – Lua, built in LSP, Treesitter and the best plugins for 2021. [Ben Frain](https://www.youtube.com/watch?v=C5d3zOkRrvA)                           |
+| my linux config more like neovim config :) [momfor](https://www.youtube.com/watch?v=\_GldsqYpYz0)                                                            |
+| Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                                               |
+| Vim Snippets Are Next Level [NeuralNine](https://www.youtube.com/watch?v=qspwCdlrfNs)                                                                        |
+| Neovim as a Personal Development Environment - SGVLUG Feb 2022 [San Gabriel Valley Linux Users Group (SGVLUG)](https://www.youtube.com/watch?v=IK\_-C0GXfjo) |
 
 ## Wine
 
