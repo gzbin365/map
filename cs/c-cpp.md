@@ -104,6 +104,7 @@
 
 ## Book
 
-|                                                                                          |   |
-| ---------------------------------------------------------------------------------------- | - |
-| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )** |   |
+|                                                                                          |
+| ---------------------------------------------------------------------------------------- |
+| **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )** |
+| C C++ [note-zw](https://note-zw.readthedocs.io/zh/latest/C%20C++/index.html)             |

@@ -197,29 +197,32 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 
 ## LeetCode
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn)            |
-| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                           |
-| Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                             |
-| 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)   NeetCode [u](https://www.youtube.com/watch?v=SVvr3ZjtjI8) |
-| LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)                    |
-| LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)                    |
-| rogertan30/[Love-Leetcode](https://github.com/rogertan30/Love-Leetcode) 小码哥《恋上数据结构与算法》学习笔记                                      |
-| LeetCode 刷题 \| 力扣 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt1LPbXt7xfJ7Sv-6B57F3IV)                              |
-| 题库 [力扣 (LeetCode)](https://leetcode-cn.com/problemset/all/) 499￥/年                                                              |
-| LeetCode 热题 HOT 100 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/2cktkvj/)                                              |
-| LeetCode 精选算法 200 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/qg88wci/)                                              |
-| 程序员面试金典（第 6 版） [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/xb9lfcwi/)                                                  |
-| 剑指 Offer（第 2 版） [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/xb9nqhhg/)                                                 |
-| 剑指 Offer（专项突击版）[力扣 (LeetCode)](https://leetcode-cn.com/problem-list/e8X3pBZi/)                                                  |
-| LeetCode 精选 TOP 面试题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/2ckc81c/)                                              |
-| LeetCode 精选数据库 70 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/qgq7m9e/)                                              |
-| 力扣杯 - 竞赛合集 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/7cyqwuv/)                                                       |
-| 腾讯精选练习 50 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/ex0k24j/)                                                      |
-| 题库 [牛客网](https://www.nowcoder.com/exam/oj)                                                                                      |
-| 基础语法 [牛客网](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87\&topicId=290) 173                                   |
-| 考研真题 408 [牛客网](https://www.nowcoder.com/kaoyan)                                                                                 |
+|                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LeetCode Solutions (Chinese) [happygirlzt](https://www.youtube.com/playlist?list=PLxhNaYPwn9T7g2yask3TuVvH-N4qK7Ubn)                                                                                    |
+| LeetCode [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcya3ZaPEG4zIlXY8bDafEb)                                                                                                   |
+| Huifeng Guan [u](https://www.youtube.com/user/wisdompeak/playlists)                                                                                                                                     |
+| 花花酱 Hua Hua [u](https://www.youtube.com/c/HuaHuaLeetCode/playlists)   NeetCode [u](https://www.youtube.com/watch?v=SVvr3ZjtjI8)                                                                         |
+| LeetCode精华题目讲解 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSEH9t4rsvifsvn-rqViQR3o)                                                                                            |
+| LeetCode刷题套路系列 [图灵星球Turing Planet](https://www.youtube.com/playlist?list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs)                                                                                            |
+| rogertan30/[Love-Leetcode](https://github.com/rogertan30/Love-Leetcode) 小码哥《恋上数据结构与算法》学习笔记                                                                                                              |
+| LeetCode 刷题 \| 力扣 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt1LPbXt7xfJ7Sv-6B57F3IV)                                                                                                      |
+| 题库 [力扣 (LeetCode)](https://leetcode-cn.com/problemset/all/) 499￥/年                                                                                                                                      |
+| LeetCode 热题 HOT 100 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/2cktkvj/)                                                                                                                      |
+| LeetCode 精选算法 200 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/qg88wci/)                                                                                                                      |
+| 程序员面试金典（第 6 版） [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/xb9lfcwi/)                                                                                                                          |
+| 剑指 Offer（第 2 版） [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/xb9nqhhg/)                                                                                                                         |
+| 剑指 Offer（专项突击版）[力扣 (LeetCode)](https://leetcode-cn.com/problem-list/e8X3pBZi/)                                                                                                                          |
+| LeetCode 精选 TOP 面试题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/2ckc81c/)                                                                                                                      |
+| LeetCode 精选数据库 70 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/qgq7m9e/)                                                                                                                      |
+| 力扣杯 - 竞赛合集 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/7cyqwuv/)                                                                                                                               |
+| 腾讯精选练习 50 题 [力扣 (LeetCode)](https://leetcode-cn.com/problem-list/ex0k24j/)                                                                                                                              |
+| 题库 [牛客网](https://www.nowcoder.com/exam/oj)                                                                                                                                                              |
+| 基础语法 [牛客网](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87\&topicId=290) 173                                                                                                           |
+| 考研真题 408 [牛客网](https://www.nowcoder.com/kaoyan)                                                                                                                                                         |
+| L1nwatch/[challenge-Python](https://github.com/L1nwatch/challenge-Python)   [doc](https://note-zw.readthedocs.io/zh/latest/%E7%AE%97%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81/Challenge%20Python/index.html) |
+| 常见笔试算法题分析记录 [csdn](https://blog.csdn.net/qq\_37375427/category\_7570110.html)                                                                                                                           |
+|                                                                                                                                                                                                         |
 
 ## 其他
 
