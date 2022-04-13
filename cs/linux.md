@@ -122,7 +122,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux Leonard [Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHsjt3sagYb30SWEsUG6NGvE)                                                                                                                                      |
 | 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                                                                                                    |
 | Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                                                                                                      |
-|                                                                                                                                                                                                                                      |
+| Linux 核心設計 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15\_BlQBC9rTdd8)                                                                                                                                       |
 |                                                                                                                                                                                                                                      |
 
 |                                                                              |
@@ -316,7 +316,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux教程 命令指令 运维 服务器 项目上线 CentOS 从入门到精通 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9\_iDguCUOhLFGamKI) |
 | Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)          |
 | 【尚硅谷云计算】Linux集群教程 运维工程师培训 by 沈超&汪洋 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFRy8gq2phTxuxb4qj6Y34t)      |
-|                                                                                                                               |
+| 兄弟连细说 Linux 教程 - Linux 基础知识与系统管理 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fSikvvN6InMnoR2NpAXeE9)          |
 |                                                                                                                               |
 | OpenTelemetry Course - Understand Software Performance [freeCodeCamp](https://www.youtube.com/watch?v=r8UvWSX3KA8)            |
 | What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)    |

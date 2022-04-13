@@ -4,7 +4,7 @@
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **The Net Ninja(**[**u**](https://www.youtube.com/c/TheNetNinja/playlists)**, )**            | **六角學院(**[**u2b**](https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA/playlists)**, )** |
 | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                   | Florin Pop [u](https://www.youtube.com/c/FlorinPop/playlists)                                 |
-| 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) |                                                                                               |
+| 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) | 野生IT散修 [u](https://www.youtube.com/channel/UCLH9ADYJh3UaqYI554Lm84w/playlists)                |
 
 | **前端**                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,6 +34,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 用 Eleventy 做一个静态博客只要 10 分钟 [Randy Music](https://www.youtube.com/watch?v=epikKwnhvSs)                                                                                                            |
 | World Wide Web Consortium (W3C)([s](https://www.w3.org), )                                                                                                                                       |
 | Thinkphp5商城项目实战第一季 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYnmwGuTzPMcGmhRvJxpfp1)                                                                                             |
 | [ThinkPHP5.0完全开发手册](https://www.kancloud.cn/manual/thinkphp5)                                                                                                                                    |

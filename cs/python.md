@@ -507,6 +507,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Note taking inside of VS Code [Visual Studio Code](https://www.youtube.com/watch?v=dW6m4\_O0qvQ)                                                                                                                                                                                                                                  |
 | Powerful VSCode Tips And Tricks For Python Development And Design [ArjanCodes](https://www.youtube.com/watch?v=fj2tuTIcUys)                                                                                                                                                                                                       |
 | Building your own VS Code theme [Visual Studio Code](https://www.youtube.com/watch?v=FeApSxfazVg)                                                                                                                                                                                                                                 |
+| 開開心心學 Visual Studio Code [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpph4LOfSjtD-s4WB3pNh5M3)                                                                                                                                                                                                                       |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 

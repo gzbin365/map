@@ -982,6 +982,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Gourcer [s](https://gource.io) [u](https://www.youtube.com/channel/UC73V2lmC9ovmYr8LJoENdjg) | a software version control visualization tool |
 |                                                                                              |                                               |
 
+|                 |
+| --------------- |
+| 电子教鞭            |
+| inux下netmeeting |
+| 红烛电子教鞭          |
+| deepin-draw     |
+| pointofix       |
+
 ## 部署 Deploy
 
 |                                                                                                                                  |

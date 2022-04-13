@@ -90,6 +90,9 @@
 | PHP For Absolute Beginners \| 6.5 Hour Course [Traversy Media](https://www.youtube.com/watch?v=2eebptXfEvw)                                                                               |
 | Laravel PHP Framework Tutorial - Full Course for Beginners (2019) [freeCodeCamp](https://www.youtube.com/watch?v=ImtZ5yENzgE)                                                             |
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                        |
+| 跟兄弟连学PHP新版视频教程 - PHP篇 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7f1IGdk6b4B7NXKQ0OcmlKx)                                                                                 |
+|                                                                                                                                                                                           |
+|                                                                                                                                                                                           |
 
 ## lua
 
