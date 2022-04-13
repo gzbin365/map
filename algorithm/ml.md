@@ -945,6 +945,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |   |
 |   |
 
+## 数据收集
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| Data Collection Project Ideas & Demos [Tech With Tim](https://www.youtube.com/watch?v=Wx-gL-Dt5rI) |
+|                                                                                                    |
+|                                                                                                    |
+
 ## 数据可视化
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
