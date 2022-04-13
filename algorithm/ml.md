@@ -593,6 +593,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                |
 | Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                 |
 | Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8) |
+| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                 |
 
 ### KNN
 
