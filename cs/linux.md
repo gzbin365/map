@@ -299,6 +299,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | An Introduction To Kubernetes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=PlWPH\_VUlNE)                                                     |
 | Learning Docker and Kubernetes by Practice [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AF-4IUpHZaEdlQOkkVt-0D)                                    |
 | 通过Google Cloud学习Kubernetes [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AYnAP3q9OwNmB0V7uG759p)                                                    |
+| Crazy fast Kubernetes Automation with Terraform [The Digital Life](https://www.youtube.com/watch?v=kFt0OGd\_LhI)                                                |
 
 ## GNOME
 
