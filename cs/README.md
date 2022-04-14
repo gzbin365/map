@@ -84,6 +84,8 @@ AWS Certified Developer - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https:/
 
 Terraform Course - Automate your AWS cloud infrastructure [freeCodeCamp](https://www.youtube.com/watch?v=SLB\_c\_ayRMo)
 
+Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=iRaai1IBlB0)
+
 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [freeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
 Cloudvisor - advanced AWS partner in the Baltics [u](https://www.youtube.com/channel/UC0Zczda0ktPvRSI1rVilGJA/videos)
