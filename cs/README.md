@@ -156,6 +156,14 @@ aws-samples [git](https://github.com/aws-samples)
 |                                          |
 |                                          |
 
+### 华为
+
+|                                      |
+| ------------------------------------ |
+| 华为云 [s](https://www.huaweicloud.com) |
+|                                      |
+|                                      |
+
 ### 京东
 
 |                                                   |

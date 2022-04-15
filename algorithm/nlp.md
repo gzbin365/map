@@ -15,7 +15,7 @@ description: 自然语言处理
 | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区** |
 | [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
-| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) |                                                                          |
+| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html)  |
 
 ## 数据集
 
@@ -405,6 +405,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
+| 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                             |
 | 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)     |
 | The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                             |
 | brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料 |
