@@ -165,6 +165,12 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 
 </details>
 
+|                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022 Version of Applications of Deep Neural Networks for TensorFlow and Keras (Washington University in St. Louis) [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl\_BN) |
+|                                                                                                                                                                                                             |
+|                                                                                                                                                                                                             |
+
 ### Tensorflow
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

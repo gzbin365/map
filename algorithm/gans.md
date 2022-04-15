@@ -11,6 +11,7 @@ description: Generative Adversarial Network (GAN)
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                           |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd) |
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |
+| [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzs6XDEm39m6g7yZWXB6MKac)'s Generative Adversarial Network (GAN) Videos                                        |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
