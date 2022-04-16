@@ -29,12 +29,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## 平台
 
-|                                                                                                |   |
-| ---------------------------------------------------------------------------------------------- | - |
-| **kdenlive(**[**en**](https://kdenlive.org/en/)**,** [**zh**](https://kdenlive.org/zh/)**, )** |   |
-|                                                                                                |   |
-|                                                                                                |   |
-|                                                                                                |   |
+|                                                                                                |                                                                                                |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **kdenlive(**[**en**](https://kdenlive.org/en/)**,** [**zh**](https://kdenlive.org/zh/)**, )** |                                                                                                |
+| ubuntu one [s](https://login.ubuntu.com)                                                       | ubuntu pastebin [s](https://paste.ubuntu.com) [v](https://www.youtube.com/watch?v=MLkKff4o8zw) |
+|                                                                                                |                                                                                                |
+|                                                                                                |                                                                                                |
 
 ### Linux Distribution / Linux Distros
 
@@ -272,6 +272,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 容器与虚拟机：有什么区别？ [IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)                                                                               |
 | 容器化解释 [IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s) Containerization Explained                                                            |
 | 好玩的Docker项目 [我不是咕咕鸽](https://www.youtube.com/playlist?list=PLIN0r\_kqXu-6OfHfhXbojSygtVnD5ClgH)                                                           |
+| Dockerizing your python code for cloud execution [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwb7Zy4MCNTvyNQLsYh\_5-Fp)               |
 
 |                                                                      |
 | -------------------------------------------------------------------- |

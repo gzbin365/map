@@ -61,8 +61,9 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [Reducible](https://www.youtube.com/watch?v=0me3guauqOU)                                                                                                               |
 | How PNG Works: Compromising Speed for Quality [Reducible](https://www.youtube.com/watch?v=EFUYNoFRHQI)                                                                                                                                      |
 | Huffman Codes: An Information Theory Perspective [Reducible](https://www.youtube.com/watch?v=B3y0RsVCyrw)                                                                                                                                   |
-|                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                             |
+| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                      |
+| Image filters in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZrTsptDOKRdSsVO5mU5Qf0)                                                                                                                           |
+| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
 |                                                                                                                                                                                                                                             |
 
 | pillow                                                             |                                                 |   |   |
@@ -198,6 +199,7 @@ import cv2
 | Image Matting [sota](https://paperswithcode.com/task/image-matting)                                                                                                                                                  |
 | Jiake Xie 谢家柯 [s](https://kelisiya.github.io) [git](https://github.com/kelisiya) [TIMI-Net](https://github.com/kelisiya/TIMI-Net) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN\&user=pD8wUxgAAAAJ) |
 | picup [s](https://www.picup.ai)                                                                                                                                                                                      |
+| U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                               |
 |                                                                                                                                                                                                                      |
 
 ### 目标检测 Object Detection

@@ -880,6 +880,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Counters in Python Simply Explained [NeuralNine](https://www.youtube.com/watch?v=yrV\_\_XKaFn8)                                       |
 | Python之禅Python 中《import this》背后的故事 [刘志军](https://juejin.cn/post/6844903488216891405)                                                  |
 | 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                    |
+| Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                      |
 
 <details>
 
@@ -899,11 +900,21 @@ Python Memory Management | Garbage Collector in python | Reference Counting Algo
 
 </details>
 
+## 代码规范 代码**风格**
+
+|                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Google Python 风格指南** [**书栈**](https://www.bookstack.cn/books/google-python-style)                                                                                                     |
+| 所有代码要尽量符合[PEP-8](https://peps.python.org/pep-0008/)规范，并且最好添加符合[PEP-257](https://peps.python.org/pep-0257/)规范的文档字符串(DocString) [s](https://github.com/manim-kindergarten/manim\_sandbox) |
+| Python的代码风格 PEP8 [麦兜搞IT](https://www.youtube.com/watch?v=Mqv6QLlXXc4)                                                                                                                   |
+| 规范Git Commit [git](https://github.com/lirengui/git)                                                                                                                                     |
+| commitizen不要在瞎提交git啦！ [Pegasus Wang](https://www.youtube.com/watch?v=8R3alKDEXYA)                                                                                                       |
+
 ## Book
 
 |                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Google Python 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-python-style)**, )**                                                     |
+| ****                                                                                                                                           |
 | Learning Python? You Must take a look at this book! Not Just for Scientists.([Python Programmer](https://www.youtube.com/watch?v=eIM9DQMZQeE)) |
 | 要读就读经典好书，差的书不光浪费你的Q，更浪费你的时间 [v](https://www.douyin.com/video/7027491495682788622)                                                              |
 | Python [note-zw](https://note-zw.readthedocs.io/zh/latest/Python/index.html)                                                                   |

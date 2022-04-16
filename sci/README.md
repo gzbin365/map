@@ -36,11 +36,11 @@
 | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                |
 
-|                                       |   |
-| ------------------------------------- | - |
-| 科学出版社 [s](https://www.ecsponline.com) |   |
-| 教育百科 [s](http://pedia.cloud.edu.tw)   |   |
-|                                       |   |
+|                                          |   |
+| ---------------------------------------- | - |
+| 科学出版社 [s](https://www.ecsponline.com)    |   |
+| 教育百科 [s](http://pedia.cloud.edu.tw)      |   |
+| 超理论坛 [s](https://chaoli.club/index.php/) |   |
 
 ## 考研
 

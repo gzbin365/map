@@ -238,6 +238,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Keras - Python Deep Learning Neural Network API [deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o\_s2xrwRnXk\_yCPtnqqo4\_u2YGL)                  |
 | Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=qFJeN9V1ZsI) |
+| Deep learning using keras in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYuFfht61R0b-N1TNIX5\_Vy)                             |
 
 | Deep Learning with TensorFlow 2.0 and Keras                                      |
 | -------------------------------------------------------------------------------- |
@@ -370,6 +371,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | [人工智慧實驗教學課程](https://www.youtube.com/playlist?list=PLd4RdGHR054ch06A9xqobCacmdLvt0XvX) - 以高中職為例                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | How I'm Learning AI and Machine Learning [macheads101](https://www.youtube.com/watch?v=OypPjvm4kiA)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Machine Learning Course - CS 156 [caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Miscellaneous but useful information about deep learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZusFFxso3rZNRN\_a1llepp)                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -530,6 +532,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Professional Preprocessing with Pipelines in Python [NeuralNine](https://www.youtube.com/watch?v=h1BnRBzYjYY)                                                       |
 | Precision & Recall in Machine Learning Explained [NeuralNine](https://www.youtube.com/watch?v=N2UPbPGO7ko)                                                          |
 | 机器学习Sklearn全套教程（程序员必备）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7kSJwic2AFjZK1\_ZPZFrJe) drive                                                       |
+| Traditional Machine Learning in Python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY)                                    |
 
 ### 预测
 
@@ -962,6 +965,22 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Data Collection Project Ideas & Demos [Tech With Tim](https://www.youtube.com/watch?v=Wx-gL-Dt5rI) |
 |                                                                                                    |
 |                                                                                                    |
+
+## 数据标注
+
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf) |
+|                                                                                                                                |
+|                                                                                                                                |
+
+## 数据不均衡 imbalanced data&#x20;
+
+|                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 149 - Working with imbalanced data for ML - Demonstrated using liver disease data [DigitalSreeni](https://www.youtube.com/watch?v=VQuJvGTzBgw\&list=PLZsOBAyNTZwZusFFxso3rZNRN\_a1llepp\&index=15) |
+|                                                                                                                                                                                                    |
+|                                                                                                                                                                                                    |
 
 ## 数据可视化
 

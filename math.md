@@ -63,6 +63,7 @@ description: 用数学充实人生
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
+| reddit.com/r/[NetLogo](https://www.reddit.com/r/NetLogo/)/                                                             |
 | Fundamentals of NetLog [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109) |
 | 深度碎片 [u](https://www.youtube.com/channel/UC\_vuJRonJBlgFFIA5i008sg/playlists)                                          |
 | NetLogo多主体建模入门 [集智学园](https://campus.swarma.org/course/1095)                                                           |
@@ -78,6 +79,7 @@ description: 用数学充实人生
 | 3d Graphing in a 2d Calculator (Desmos) [JohnDoesStuff](https://www.youtube.com/watch?v=SnK6ZbQggV4)                                                                                                      |
 | desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                       |
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                   |
+| reddit.com/r/[desmos](https://www.reddit.com/r/desmos/)/                                                                                                                                                  |
 
 ### MATLAB
 
@@ -89,6 +91,8 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
+| Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                       |
+| reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                       |
 | **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                        |
 | cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                               |
 | **ManimCairo tutorial** [**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F) |
@@ -96,7 +100,23 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                  |
 | manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                             |
 | 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                 |
-| 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417)                                                      |
+| Manim Tutorial [Manim Kindergarten](https://www.youtube.com/playlist?list=PLhxQqVGjoEvY\_KhWzQpZ2ozeLV\_On1ick)              |
+| manim-kindergarten/[manim\_sandbox](https://github.com/manim-kindergarten/manim\_sandbox)   汇总整合各成员提供的manim代码和模块。            |
+| Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                       |
+| cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                    |
+| manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                             |
+
+| ManimCE                                                                 |
+| ----------------------------------------------------------------------- |
+| Manim Community v0.15.1 [en](https://docs.manim.community/en/stable/#)  |
+| 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417) |
+|                                                                         |
+
+| ManimGL                                      |
+| -------------------------------------------- |
+| ManimGL 教程文档 [ch](https://docs.manim.org.cn) |
+|                                              |
+|                                              |
 
 |                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
