@@ -721,6 +721,7 @@ $$
 | [MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV\_CpT1zKaGG\_Vj5igX)                              |
 | 四色问题　[科学探索号](https://www.douyin.com/video/7021446686111206668)                                                                                                           |
 | MIT 6.042J Mathematics for Computer Science, Spring 2015　[MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj\_KNphQ)                 |
+| 图算法 Graph Algorithms [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnsbnIIbX6ywvD8OZUTT0\_ID)                                                            |
 
 ## 拓扑学 Topology
 
