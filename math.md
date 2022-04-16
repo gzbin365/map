@@ -50,6 +50,7 @@ description: 用数学充实人生
 | ShannMath [u](https://www.youtube.com/user/shannweichang/playlists)                                                                                                                                       | 浦原桑Official [u](https://www.youtube.com/channel/UC3fMliQD\_jfr-PZI1Evl5pg/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Kai博士 [u](https://www.youtube.com/channel/UCVFzRWYpC-Wy-IYdhkUpXVg/videos)                                                                                                                                | SyberMath [u](https://www.youtube.com/c/SyberMath/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 張翔老師 [u](https://www.youtube.com/c/shiangsir/playlists)                                                                                                                                                   | 哆嗒数学网 [u](https://www.youtube.com/channel/UC0dG9-vPqyzrpr2MSNZXa1Q/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                           | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -86,11 +87,16 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### Manim
 
-|                                                           |                                                                                                                                   |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **manim(**[**git**](https://github.com/3b1b/manim)**, )** | **ManimCairo tutorial(**[**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)**)** |
-|                                                           | **The Manim Cast(**[**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)**)**          |
-|                                                           | **Manim Animations(**[**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)**)**                  |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                        |
+| cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                               |
+| **ManimCairo tutorial** [**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F) |
+| **The Manim Cast** [**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)          |
+| **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                  |
+| manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                             |
+| 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                 |
+| 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417)                                                      |
 
 |                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -988,6 +994,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | **Coding Math: Episode 19 - Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=dXECQRlmIaE)**)**         |
 | **Coding Math: Episode 20 - More on Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=2hL1LGMVnVM)**)** |
 | **Bezier Curves Explained(**[**Guidev**](https://www.youtube.com/watch?v=pnYccz1Ha34)**)**                              |
+| The Beauty of Bézier Curves [Freya Holmér](https://www.youtube.com/watch?v=aVwxzDHniEw)                                 |
 
 ##
 

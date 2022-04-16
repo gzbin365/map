@@ -107,9 +107,9 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 
 ## 动画 Animated
 
-|   |   |
-| - | - |
-|   |   |
+|                                                                            |   |
+| -------------------------------------------------------------------------- | - |
+| Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA) |   |
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
