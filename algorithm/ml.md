@@ -136,9 +136,12 @@ description: 机器学习
 | **Rachel Thomas(**[**u2b**](https://www.youtube.com/channel/UC\_pSCYWbMn4JcsxbWOzkgEQ/featured)**, )**                                        | [**Ian Goodfellow**](https://www.youtube.com/results?search\_query=Ian+Goodfellow)                                                                                                          |
 | **Deep Sort(**[**blog**](https://www.cnblogs.com/bupt213/p/11205945.html)**, )**                                                              | **Yannic Kilcher(**[**u**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)**,** [**git**](https://github.com/yk)**(**[**v**](https://www.youtube.com/watch?v=RZ7JiAk9azY)**), )** |
 
-| fast.ai                                |                                                                                                                                |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [**git**](https://github.com/fastai),  | **fastbook(**[**git**](https://github.com/fastai/fastbook)**,** [**书栈**](https://www.bookstack.cn/books/th-fastai-book)**, )** |
+| fast.ai                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**git**](https://github.com/fastai),                                                                                                       |
+| **fastbook(**[**git**](https://github.com/fastai/fastbook)**,** [**书栈**](https://www.bookstack.cn/books/th-fastai-book)**, )**              |
+| Jeremy Howard — The Story of fast.ai and Why Python Is Not the Future of ML [Weights & Biases](https://www.youtube.com/watch?v=t2V2kf2gNnI) |
+| Jeremy Howard: fast.ai Deep Learning Courses and Research \| [Lex Fridman](https://www.youtube.com/watch?v=J6XcP4JOHmk) Podcast #35         |
 
 ###
 
