@@ -105,6 +105,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                       |
 | cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                    |
 | manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                             |
+| Learn Manim - Full Course for Beginners \[Tutorial] [Brian Amedee](https://www.youtube.com/watch?v=KHGoFDB-raE)              |
 
 | ManimCE                                                                 |
 | ----------------------------------------------------------------------- |
