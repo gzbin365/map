@@ -123,6 +123,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 【linux】信号-进程间通信的方式signal [FreeCoder](https://www.youtube.com/watch?v=PqyC6IsS0TU)                                                                                                                                                    |
 | Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                                                                                                      |
 | Linux 核心設計 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15\_BlQBC9rTdd8)                                                                                                                                       |
+| LinuxCast IT播客 [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafIBu-W-QI163AoCpla5NGPww)                                                                                                                      |
+| LinuxCast [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafICYrx7zhFu\_RWHRZqpB8fIW)                                                                                                                          |
 |                                                                                                                                                                                                                                      |
 
 |                                                                              |

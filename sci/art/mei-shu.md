@@ -64,9 +64,9 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### 3Dmax
 
-|                                                                                       |   |
-| ------------------------------------------------------------------------------------- | - |
-| 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9) |   |
+|                                                                                       |                                                                                       |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9) | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
 
 |                                                                                |                                                                                |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
