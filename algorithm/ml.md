@@ -849,6 +849,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                         |
 |                                                                                                                                         |
 
+### 对比学习 contrastive learning
+
+|                                                         |
+| ------------------------------------------------------- |
+| SimCLR [sota](https://paperswithcode.com/method/simclr) |
+|                                                         |
+|                                                         |
+
 ### 少样本学习 Few-Shot Learning
 
 |                                                                                                                                                             |
