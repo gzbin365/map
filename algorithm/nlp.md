@@ -407,20 +407,21 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ## 其他
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                             |
-| 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)     |
-| The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                             |
-| brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料 |
-| chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                   |
-| blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                  |
-| murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools) 中文文本分析工具包         |
-| yongzhuo/[Macropodus](https://github.com/yongzhuo/Macropodus) 自然语言处理工具Macropodus Albert+BiLSTM+CRF    |
-| NLP-大厂笔试题 [IT-cute](https://zhuanlan.zhihu.com/p/463715582)                                           |
-| 自然语言处理 [知乎话题](https://www.zhihu.com/topic/19560026/hot)                                               |
-| 自然语言理解 [知乎话题](https://www.zhihu.com/topic/20646853/hot)                                               |
-| 对话系统 [知乎话题](https://www.zhihu.com/topic/20141243/hot)                                                 |
-| 如何来做用户意图识别 [火贪三刀](https://blog.csdn.net/shijing\_0214/article/details/71250327)                       |
-| goto456/[stopwords](https://github.com/goto456/stopwords)   中文常用停用词表                                  |
-| dongrixinyu/[JioNLP](https://github.com/dongrixinyu/JioNLP)   中文 NLP 预处理、解析工具包                        |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                                     |
+| 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)             |
+| The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                                     |
+| brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料         |
+| chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                           |
+| blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                          |
+| murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools) 中文文本分析工具包                 |
+| yongzhuo/[Macropodus](https://github.com/yongzhuo/Macropodus) 自然语言处理工具Macropodus Albert+BiLSTM+CRF            |
+| NLP-大厂笔试题 [IT-cute](https://zhuanlan.zhihu.com/p/463715582)                                                   |
+| 自然语言处理 [知乎话题](https://www.zhihu.com/topic/19560026/hot)                                                       |
+| 自然语言理解 [知乎话题](https://www.zhihu.com/topic/20646853/hot)                                                       |
+| 对话系统 [知乎话题](https://www.zhihu.com/topic/20141243/hot)                                                         |
+| 如何来做用户意图识别 [火贪三刀](https://blog.csdn.net/shijing\_0214/article/details/71250327)                               |
+| goto456/[stopwords](https://github.com/goto456/stopwords)   中文常用停用词表                                          |
+| dongrixinyu/[JioNLP](https://github.com/dongrixinyu/JioNLP)   中文 NLP 预处理、解析工具包                                |
+| AimeeLee77/[wiki\_zh\_word2vec](https://github.com/AimeeLee77/wiki\_zh\_word2vec)   利用Python构建Wiki中文语料词向量模型试验 |
