@@ -129,11 +129,11 @@ LDA 文档聚类 plsa lsa
 
 ### 文本分类
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| facebookresearch/fastText [git](https://github.com/facebookresearch/fastText) |
-|                                                                               |
-|                                                                               |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| facebookresearch/fastText [git](https://github.com/facebookresearch/fastText)                                                                                   |
+| NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
+|                                                                                                                                                                 |
 
 ### 自然语言理解 Natural Language Understanding
 
