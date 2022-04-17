@@ -204,8 +204,10 @@
 | Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 |                                                                                                                 | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
 
-| Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
+| Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Build 5 Games in Python \| Beginner Portfolio Project [Python Engineer](https://www.youtube.com/watch?v=C6M67z4\_bZ8)                                           |
+| Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | <p>Snake Game using Opencv Python + 3080 Ti Giveaway</p><p><a href="https://www.youtube.com/watch?v=w26Ze6lP02Y">Murtaza's Workshop - Robotics and AI</a></p>   |
 | **Game Programming Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC)**)**                            |
 | Code-It-Yourself!([javidx9](https://www.youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO))                                                          |
