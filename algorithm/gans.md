@@ -13,6 +13,7 @@ description: Generative Adversarial Network (GAN)
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |
 | [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzs6XDEm39m6g7yZWXB6MKac)'s Generative Adversarial Network (GAN) Videos                                        |
 | Generative Adversarial Networks (GAN) [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwboR4\_xj-n3K6XBTweC4YVD)                                             |
+| GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g\_0HtlrLiDo)                                                                                                         |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
