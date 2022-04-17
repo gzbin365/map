@@ -44,6 +44,7 @@
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                     |
 | Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8)              |
 | Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
+| Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
 
 ## C\#
 
