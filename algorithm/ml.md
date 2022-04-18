@@ -545,6 +545,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CART - Classification And Regression Trees [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH) |
 | 算法：决策树 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYscEcH-u2PiJvRhoHAs2S2)                                                           |
+| Decision Tree Classification Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)                                     |
 
 #### 线性回归 & 线性模型 Linear Regression and Linear Models
 
@@ -572,6 +573,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Random Forests [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk) |
 | 算法：随机森林与集成算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZuhR-QwjHYzNHhnAWNWKsu)                         |
 | 一套完整的基于随机森林的机器学习流程（特征选择、交叉验证、模型评估））[生信宝典](https://mp.weixin.qq.com/s/SNXp5\_6zWKarbbcG5GXIfA)                          |
+| Random Forest Algorithm Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=v6VJ2RO66Ag)              |
 
 #### MLP
 
@@ -839,6 +841,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 神经网络结构搜索 Neural Architecture Search [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns3\_5ONDa-EnTZgIO41\_hXf) |
 | 神经网络（十二） 自动神经网络（AutoML）与网络架构搜索（NAS） [技术喵](https://www.youtube.com/watch?v=SY3wQd9O2-Q)                                        |
 | Hyperparameter Tuning in Python with GridSearchCV [NeuralNine](https://www.youtube.com/watch?v=eZ98q7iOUAA)                   |
+| ROC Optimal Threshold ► Data Science Exercises #22 [Gleb Mikhaylov](https://www.youtube.com/watch?v=jl7bMLf-f9A)              |
 
 
 
