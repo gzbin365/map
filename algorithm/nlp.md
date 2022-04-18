@@ -49,11 +49,11 @@ description: 自然语言处理
 | BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
-| KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                   |
-| 【Manim × 算法ABC】KMP 算法 - 拒绝做暴力字符串匹配的受害者 [Zhi Zhou](https://www.youtube.com/watch?v=0gvjWaxa7YU)                                                                     |
-| 花花酱 KMP Algorithm - 刷题找工作 SP19 [Hua Hua](https://www.youtube.com/watch?v=uKr9qIZMtzw)                                                                              |
-| 帮你把KMP算法学个通透！（理论篇） [Carl Sun](https://www.youtube.com/watch?v=S3ckBIJG6fo)                                                                                         |
-| 帮你把KMP算法学个通透！（求next数组代码篇） [Carl Sun](https://www.youtube.com/watch?v=t6xa2p6fFS8)                                                                                  |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
 | Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
 | Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |
@@ -65,6 +65,22 @@ description: 自然语言处理
 | LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
 | MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
+
+### KMP
+
+|                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| KMP字符串匹配算法 [1](https://www.youtube.com/watch?v=dgPabAsTFa8) [2](https://www.youtube.com/watch?v=3IFxpozBs2I) 黄浩杰                                                                                   |
+| 【Manim × 算法ABC】KMP 算法 - 拒绝做暴力字符串匹配的受害者 [Zhi Zhou](https://www.youtube.com/watch?v=0gvjWaxa7YU)                                                                                                     |
+| 花花酱 KMP Algorithm - 刷题找工作 SP19 [Hua Hua](https://www.youtube.com/watch?v=uKr9qIZMtzw)                                                                                                              |
+| 帮你把KMP算法学个通透！（理论篇） [Carl Sun](https://www.youtube.com/watch?v=S3ckBIJG6fo)                                                                                                                         |
+| 帮你把KMP算法学个通透！（求next数组代码篇） [Carl Sun](https://www.youtube.com/watch?v=t6xa2p6fFS8)                                                                                                                  |
+| KMP算法及LeetCode 28. Implement strStr() 中文解释 Chinese Version [happygirlzt](https://www.youtube.com/watch?v=MgGMsW3zcJ8)                                                                              |
+| Knuth–Morris–Pratt (KMP) Pattern Matching Substring Search - First Occurrence Of Substring [Back To Back SWE](https://www.youtube.com/watch?v=BXCEFAzhxGY)                                         |
+| Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) [Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=GTJr8OvyEVQ)                                                          |
+| 9.1 Knuth-Morris-Pratt KMP String Matching Algorithm [Abdul Bari](https://www.youtube.com/watch?v=V5-7GzOfADQ)   [list](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs\_O) |
+| KMP Searching Algorithm [William Brinkman](https://www.youtube.com/watch?v=y2b94AxPlF8)                                                                                                            |
+| KMP算法 [我思故我菜](https://www.youtube.com/watch?v=ViqecFWleug)                                                                                                                                         |
 
 ### CRF
 

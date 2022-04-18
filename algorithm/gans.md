@@ -35,13 +35,25 @@ description: Generative Adversarial Network (GAN)
 
 ### Text to Image
 
-|                                                                                                                                                                                                 |
+|                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
+| OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
+|                                                                                                                                                          |
+
+| DALL·E 2                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg)                                                 |
+| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                  |
+| lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch |
+|                                                                                                                          |
+|                                                                                                                          |
+
+| PaLM                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                                                        |
-| DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg)                                                                                                                        |
-| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                                                                                         |
-| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y)                                        |
 | Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance [Google AI Blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) |
+|                                                                                                                                                                                                 |
+|                                                                                                                                                                                                 |
 
 ### Fake
 
