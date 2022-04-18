@@ -29,6 +29,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | 文字转语音--让机器语音像人类一样自然真实 [长安老张](https://www.youtube.com/watch?v=SdhLawZEr1I)                                                                                                                                                                                                                                     |
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                                                                                                                       |
 | Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                        |
+| Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                            |
 
 ***
 
