@@ -195,6 +195,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | TensorFlow Lite 视频系列教程 [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwFS5vSa9oV48AOdzfJwxXH)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | TensorFlow 2 Beginner Course [Python Engineer](https://www.youtube.com/playlist?list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Deep Learning for JavaScript Hackers \| Use TensorFlow.js in the Browser [Venelin Valkov](https://www.youtube.com/playlist?list=PLEJK-H61XlwyeHtg7xtg7p32vTex8zFue)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| TensorFlow And Keras Tutorial \| Deep Learning With TensorFlow & Keras \| Deep Learning \| [Simplilearn](https://www.youtube.com/watch?v=eK0tvVRMDgw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ### PyTorch
 
@@ -211,6 +212,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course [freeCodeCamp](https://www.youtube.com/watch?v=M3ZWfamWrBM)                                                                                                                        |
 | PyTorch Tutorials - Complete Beginner Course [Python Engineer](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)                                                                                                                        |
 | Introduction to PyTorch Tensors [Coding Epocs](https://www.youtube.com/watch?v=eHCoX5HWl-Q)                                                                                                                                                                     |
+| PyTorch - Deep Learning Course \| Full Course \| Session -1 \| Python [Tangoo Express](https://www.youtube.com/watch?v=qpF6kwuJAaU)                                                                                                                             |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -534,6 +536,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Precision & Recall in Machine Learning Explained [NeuralNine](https://www.youtube.com/watch?v=N2UPbPGO7ko)                                                          |
 | 机器学习Sklearn全套教程（程序员必备）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7kSJwic2AFjZK1\_ZPZFrJe) drive                                                       |
 | Traditional Machine Learning in Python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY)                                    |
+| Scikit-Learn Tutorial \| Machine Learning With Scikit-Learn \| Sklearn \| Python Tutorial \| [Simplilearn](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)             |
 
 ### 预测
 
@@ -600,18 +603,22 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 ### 回归 Regression
 
-|                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                              |
-| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                            |
-| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                     |
-| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                   |
-| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                  |
-| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                      |
-| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                |
-| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                 |
-| Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8) |
-| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                 |
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                                                                     |
+| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                                                                   |
+| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                                                            |
+| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                                                          |
+| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                                                         |
+| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                                                             |
+| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                                                       |
+| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                                                        |
+| Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8)                                        |
+| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                                                        |
+| How to do Multiple Linear Regression in Python\| Jupyter Notebook\|Sklearn [Megha Narang](https://www.youtube.com/watch?v=WngoqVB6cXw)                           |
+| Multivariable Linear Regression using Gradient Descent Algorithm in Python,Step by Step from scratch [PAUL ACADEMY](https://www.youtube.com/watch?v=xrPZbHrxrWo) |
+| Linear Regression From Scratch in Python (Mathematical) [NeuralNine](https://www.youtube.com/watch?v=VmbA0pi2cRQ)                                                |
+|                                                                                                                                                                  |
 
 ### KNN
 
@@ -1014,6 +1021,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Vispy [s](https://vispy.org) [git](https://github.com/vispy/vispy)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Matplotlib                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Plotly                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Data Visualization Using Python BOKEH \| Python Bokeh Dashboard \| Full Course [Tangoo Express](https://www.youtube.com/watch?v=ILKX5JEixcQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 | Tableau                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1039,7 +1047,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | How to Deploy Machine Learning Apps? [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx) |
-|                                                                                                                                  |
+| Kevin Goetsch \| Deploying Machine Learning using sklearn pipelines [PyData](https://www.youtube.com/watch?v=URdnFlZnlaE)        |
 |                                                                                                                                  |
 
 ## AI Safety

@@ -327,6 +327,7 @@
 | Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg) |
 | NumPy and Pandas Tutorial \| Data Analysis With Python \| Python Tutorial for Beginners \| [Simplilearn](https://www.youtube.com/watch?v=FniLzpaSFGk)           |
 | Pandas 教程 \| Pandas数据分析入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakOdivgnFVAgStnxd78hHyI)                                              |
+| Julie Michelman - Pandas, Pipelines, and Custom Transformers [PyData](https://www.youtube.com/watch?v=BFaadIqWlAg)                                              |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |

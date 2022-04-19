@@ -124,6 +124,7 @@
 | 思维导图（从入门到精通） [学习的力量](https://www.youtube.com/playlist?list=PLt5q-oC-97sfTfgvcuIi4-KlzIZdw7pKr)                                                                                                                                                                                                          |
 | 思维导图-王清（华中农业大学）[中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SYcS499I-CJqznsFP2f2gun)                                                                                                                                                                                                  |
 | 这是我见过最酷的记笔记方法。[Topbook](https://www.youtube.com/watch?v=lzhGcKn2j-8)                                                                                                                                                                                                                                    |
+| 全网最强的睡眠大法？快速入睡+精神饱满的秘诀！丨[Shiyin 十音](https://www.youtube.com/watch?v=CkUlybrPv4g)                                                                                                                                                                                                                        |
 
 &#x20;自动续费套路深，看看你被坑过吗？[直男财经](https://www.douyin.com/video/7034955890868407565)
 
