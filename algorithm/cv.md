@@ -299,6 +299,14 @@ import cv2
 | 英伟达新技术训练NeRF模型 [机器之心](https://www.jiqizhixin.com/articles/2022-01-16)                                                                                                                                                                       |
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 
+## 视频插帧
+
+|                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+
 ## 视频理解
 
 |                                                                       |
@@ -327,7 +335,7 @@ import cv2
 | This Image is Made of Text [The Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI)                                                                                                                       |
 | Fingerprint Matching in Python [NeuralNine](https://www.youtube.com/watch?v=IIvfqfKkiio) 指纹识别                                                                                                                    |
 | NVIDIA Instant Neural Graphics Primitives (nerf) [Dirk Teucher](https://www.youtube.com/watch?v=87h\_P2BXEag)                                                                                                    |
-|                                                                                                                                                                                                                  |
+| OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI)   A python library [s](http://imageai.org) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                       |
 
 <details>
 

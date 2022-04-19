@@ -16,6 +16,7 @@ description: 自然语言处理
 | [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区** |
 | [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
 | 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html)  |
+|                                                                | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)          |
 
 ## 数据集
 

@@ -157,6 +157,13 @@ aws-samples [git](https://github.com/aws-samples)
 |                                          |
 |                                          |
 
+| 百度AI studio                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://aistudio.baidu.com/aistudio/index)                                                                                                                 |
+| 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+
 ### 华为
 
 |                                      |
@@ -334,6 +341,10 @@ Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?l
 [**pythonanywhere**](https://www.pythonanywhere.com)
 
 **小米云深度学习服务(Xiaomi Cloud-ML)(**[**文档**](http://docs.api.xiaomi.com/cloud-ml/)**, )**
+
+Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | JupyterNote in Cloud [GK TechFlex](https://www.youtube.com/watch?v=0KGctGwKp1k)
+
+智星云 **** [**s**](http://www.ai-galaxy.cn)****
 
 刷题面试 [v](https://www.douyin.com/video/6993993258548366606)
 
