@@ -308,6 +308,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Sentiment Analysis with BERT using Transformers by Hugging Face , PyTorch and Python Tutorial [Venelin Valkov](https://www.youtube.com/playlist?list=PLEJK-H61XlwxpfpVzt3oDLQ8vr1XiEhev) |
 | hiDaDeng/[cnsenti](https://github.com/hiDaDeng/cnsenti)  中文情感分析库(Chinese Sentiment))  已经过时                                                                                               |
 | <p>hidadeng/<a href="https://github.com/hidadeng/cntext">cntext</a></p><p>中文文本分析库，可对文本进行词频统计、词典扩充、情绪分析、相似度、可读性等</p>                                                                      |
+| Financial Sentiment Analysis with FinBERT & HuggingFace + Analyzing Model Predictions w/ [W\&B](https://www.youtube.com/watch?v=e\_w3FoNmHP4) Tables                                     |
 
 ### （短）文本相似度
 
@@ -364,7 +365,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | #031 WE GOT ACCESS TO GPT-3! (With Gary Marcus, Walid Saba and Connor Leahy) [Machine Learning Street Talk](https://www.youtube.com/watch?v=iccd86vOz3w)      |
 | What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
 | \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
-|                                                                                                                                                               |
+| Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 
