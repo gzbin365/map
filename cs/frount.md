@@ -268,6 +268,9 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | CSS Crash Course Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=r1xBCi5SOjw)                                                                                                      |
 | 網頁前端工程入門：基礎 CSS 教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=Jr7lwHnTK68)                                                                                                              |
 | Create a Design System with CSS - Web Development Course [freeCodeCamp](https://www.youtube.com/watch?v=lRaL-8qZ0mM)                                                                       |
+| CSS Full Course \| CSS Tutorial For Beginners \| CSS Interview Questions And Answers \| [Simplilearn](https://www.youtube.com/watch?v=J5KxiOnIrKg)                                         |
+|                                                                                                                                                                                            |
+|                                                                                                                                                                                            |
 
 ## JavaScript
 
