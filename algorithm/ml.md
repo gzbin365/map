@@ -476,6 +476,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python And Data Science Full Course \| Data Science With Python Full Course In 12 Hours \| [Simplilearn](https://www.youtube.com/watch?v=ub1BX0I2GCs)                         |
 | **Build 12 Data Science Apps with Python and Streamlit - Full Course(**[**freeCodeCamp**](https://www.youtube.com/watch?v=JwSS70SZdyM)**)**                                   |
 | [**数据挖掘**](https://www.youtube.com/playlist?list=PLV76ut4sbjoqV8PhO5L5iuM9vjViJ3CP4) Dayin HE                                                                                 |
 | 分布式项目实战 [**Online learning网络课堂**](https://www.youtube.com/playlist?list=PLLPovsDEpByaS77NIGzdHQ93uDB1ilCE3)                                                                   |
