@@ -520,6 +520,8 @@
 | Python永远的神，实战开发游戏内存辅助！ [Python编程学习交流](https://www.youtube.com/watch?v=sA976R4tMds)                                                                                  |
 | (Python coding) How to detect mouse click or keyboard input [초보코딩](https://www.youtube.com/watch?v=x-CHVbrvFwo) pywin32                                             |
 | RPA [Analytics University](https://www.youtube.com/watch?v=CudzwXZHoaM)                                                                                             |
+| Mircea Neagovici — Robotic Process Automation (RPA) and ML [Weights & Biases](https://www.youtube.com/watch?v=JCLwwycAHWE)                                          |
+| Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
