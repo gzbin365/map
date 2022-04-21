@@ -132,6 +132,7 @@
 | HTTP协议原理+实践 [程序人生](https://www.youtube.com/playlist?list=PLJUyBVA38kffPjoWluvz-Ij3A0kB97nW\_)    |
 | Web白帽子Python入门 [刺客一二三](https://www.youtube.com/playlist?list=PLkuKHvw9NmzSwPwgibU1pV3gPIbsl0Et5) |
 | Web攻防训练营 [刺客一二三](https://www.youtube.com/playlist?list=PLkuKHvw9NmzS4UcKM69J1KCwrscvg0Wxr)       |
+| Https互联网通信的保护盾-背后的加密过程和证书原理解析 [JimmyCoding](https://www.youtube.com/watch?v=W9r3n2DFD64)         |
 
 ## SEO
 
@@ -424,10 +425,12 @@
 | L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                 |
 | L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)              |
 | L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                   |
+|                                                                                                                             |
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 运维架构师企业级运维Prometheus监控实践\_基于K8s搭建Prometheus集群详解课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz\_QAdkXIsEmHMa3RmTPXE4) |
+| Architecture [JimmyCoding](https://www.youtube.com/playlist?list=PLH2FEKHrTKDTVR9AnIr3df6kRGLuzkq8o)                                    |
 
 ## 低代码 白码 Low-Code
 
