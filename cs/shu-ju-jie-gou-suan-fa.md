@@ -234,3 +234,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | nonstriater/[Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) 算法学习笔记                                                                 |
 | lydrainbowcat/[tedukuri](https://github.com/lydrainbowcat/tedukuri)   《算法竞赛进阶指南》资源社区                                                                   |
 | <p>lengyue1024/<a href="https://github.com/lengyue1024/BAT_interviews">BAT_interviews</a></p><p>分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...)</p> |
+| liuyubobobo/[Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)                                                                              |
+| yzhu798/[CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes)                                                                      |
+|                                                                                                                                                        |
+|                                                                                                                                                        |
