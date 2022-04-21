@@ -888,6 +888,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | Python之禅Python 中《import this》背后的故事 [刘志军](https://juejin.cn/post/6844903488216891405)                                                  |
 | 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                    |
 | Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                      |
+| Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)             |
 
 <details>
 
