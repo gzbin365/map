@@ -27,7 +27,13 @@ description: 知识图谱
 
 金知识图谱
 
-关系抽取
+关系抽取 relation extraction
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| zhengyima/[kg-baseline-pytorch](https://github.com/zhengyima/kg-baseline-pytorch)  2019百度的关系抽取比赛，Pytorch |
+| topics/[relation-extraction](https://github.com/topics/relation-extraction)                              |
+|                                                                                                          |
 
 <details>
 
