@@ -48,6 +48,7 @@ description: Generative Adversarial Network (GAN)
 | lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                |
 | How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |
 | Trends in AI — April 2022: DALL·E, Pathways, PaLM... + Generative Language Models Demo [Zeta Alpha Vector](https://www.youtube.com/watch?v=w7MNDZLJ30M) |
+| OpenAI DALL-E 2: Top 10 Insane Results! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=X3\_LD3R\_Ygs)                                           |
 |                                                                                                                                                         |
 
 | PaLM                                                                                                                                                                                            |
