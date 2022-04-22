@@ -238,7 +238,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 玩轉Git三劍客 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGoMenGfAXl91eZ4jwRzqxB) [boy beach](https://www.youtube.com/playlist?list=PL\_HdgLhuV9LWW-x1ZYI4wgWKCuDGWtJBV) |
 | Git Complete Course with Github and Bitbucket 👍🔥 [SkoonCode](https://www.youtube.com/watch?v=eBmG7keE8B4)                                                                       |
 | Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more [freeCodeCamp](https://www.youtube.com/watch?v=qsTthZi23VE)                               |
-|                                                                                                                                                                                   |
+| Complete Guide to Open Source - How to Contribute [freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)                                                                     |
 |                                                                                                                                                                                   |
 
 | 软件                                                                                                                      |                                                                                           |

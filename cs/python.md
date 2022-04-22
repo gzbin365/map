@@ -513,6 +513,8 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Building your own VS Code theme [Visual Studio Code](https://www.youtube.com/watch?v=FeApSxfazVg)                                                                                                                                                                                                                                 |
 | 開開心心學 Visual Studio Code [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpph4LOfSjtD-s4WB3pNh5M3)                                                                                                                                                                                                                       |
 | 玩转VS Code [知乎专栏](https://www.zhihu.com/column/vs-code)                                                                                                                                                                                                                                                                            |
+| 20 個 VSCode 開發小技巧，讓你 Coding 三倍速！[六角學院](https://www.youtube.com/watch?v=LOjUnXk\_TNU)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                   |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 
@@ -890,6 +892,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                    |
 | Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                      |
 | Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)             |
+|                                                                                                                                       |
 
 <details>
 

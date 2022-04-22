@@ -25,3 +25,14 @@ Coding Challenge #10.1: Maze Generator with p5.js - Part 1 [The Coding Train](ht
 | Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial [Coding with John](https://www.youtube.com/watch?v=mcXc8Mva2bA) |
 | Python Sudoku Solver - [Computerphile](https://www.youtube.com/watch?v=G\_UYXzGuqvM)                                         |
 |                                                                                                                              |
+
+## 智商测试
+
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| 門薩Mensa智商測試題，試試你的智力有多少？看你的IQ是不是最聰明的1%\| [雅桑了嗎](https://www.youtube.com/watch?v=H91LUJ-Cx2c) |
+|                                                                                             |
+|                                                                                             |
+
+## 其他
+
