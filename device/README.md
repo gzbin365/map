@@ -337,6 +337,14 @@ description: 硬件设备
 | 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                             |
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
 
+## 路由器
+
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
+|                                                                                                                     |
+|                                                                                                                     |
+
 ## 手工
 
 |                                                                                                                                      |
