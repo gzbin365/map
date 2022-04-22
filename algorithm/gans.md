@@ -41,13 +41,14 @@ description: Generative Adversarial Network (GAN)
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
 |                                                                                                                                                          |
 
-| DALL·E 2                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg)                                                 |
-| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                  |
-| lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch |
-|                                                                                                                          |
-|                                                                                                                          |
+| DALL·E 2                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg) [s](https://openai.com/dall-e-2/)                                              |
+| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                                                 |
+| lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                |
+| How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |
+| Trends in AI — April 2022: DALL·E, Pathways, PaLM... + Generative Language Models Demo [Zeta Alpha Vector](https://www.youtube.com/watch?v=w7MNDZLJ30M) |
+|                                                                                                                                                         |
 
 | PaLM                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
