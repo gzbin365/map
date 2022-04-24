@@ -141,11 +141,19 @@ import cv2
 
 [How to detect DeepFakes with MesoNet | 20 MIN. PYTHON TUTORIAL](https://www.youtube.com/watch?v=kYeLBZMTLjk)
 
-|                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
-| 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                       |
-| iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                         |
+|                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilche](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
+| 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                      |
+| iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
+
+### 风格迁移
+
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com) |
+|                                                                                                      |
+|                                                                                                      |
 
 ## 图像修复
 
