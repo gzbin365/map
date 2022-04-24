@@ -34,6 +34,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Deploy a Modern Full Stack ECommerce Application with Stripe [JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU)                                                         |
 | 用 Eleventy 做一个静态博客只要 10 分钟 [Randy Music](https://www.youtube.com/watch?v=epikKwnhvSs)                                                                                                            |
 | World Wide Web Consortium (W3C)([s](https://www.w3.org), )                                                                                                                                       |
 | Thinkphp5商城项目实战第一季 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYnmwGuTzPMcGmhRvJxpfp1)                                                                                             |
