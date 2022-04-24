@@ -310,6 +310,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Designing & Building a Personal Portfolio from SCRATCH! [DesignCourse](https://www.youtube.com/watch?v=9iUJJHEIpls)                                                                          |
 | Let’s learn JavaScript fundamentals! #1 \[Free JS Bootcamp] [Class Central](https://www.youtube.com/watch?v=mdXonjilZew)                                                                     |
 | 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                                                                                     |
+| API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
 
 ### TypeScript
 
