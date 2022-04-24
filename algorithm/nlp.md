@@ -309,7 +309,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | hiDaDeng/[cnsenti](https://github.com/hiDaDeng/cnsenti)  中文情感分析库(Chinese Sentiment))  已经过时                                                                                               |
 | <p>hidadeng/<a href="https://github.com/hidadeng/cntext">cntext</a></p><p>中文文本分析库，可对文本进行词频统计、词典扩充、情绪分析、相似度、可读性等</p>                                                                      |
 | Financial Sentiment Analysis with FinBERT & HuggingFace + Analyzing Model Predictions w/ [W\&B](https://www.youtube.com/watch?v=e\_w3FoNmHP4) Tables                                     |
-| chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis)   情感极性分析repository                                                                   |
 
 ### （短）文本相似度
 

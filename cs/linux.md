@@ -273,9 +273,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 容器化解释 [IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s) Containerization Explained                                                            |
 | 好玩的Docker项目 [我不是咕咕鸽](https://www.youtube.com/playlist?list=PLIN0r\_kqXu-6OfHfhXbojSygtVnD5ClgH)                                                           |
 | Dockerizing your python code for cloud execution [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwb7Zy4MCNTvyNQLsYh\_5-Fp)               |
-| Dockerfile和DockerCompose：轻松制作docker image [JimmyCoding](https://www.youtube.com/watch?v=JI9GsupATh0)                                                      |
-|                                                                                                                                                           |
-|                                                                                                                                                           |
 
 |                                                                      |
 | -------------------------------------------------------------------- |

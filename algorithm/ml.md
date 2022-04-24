@@ -540,7 +540,6 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 机器学习Sklearn全套教程（程序员必备）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7kSJwic2AFjZK1\_ZPZFrJe) drive                                                       |
 | Traditional Machine Learning in Python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY)                                    |
 | Scikit-Learn Tutorial \| Machine Learning With Scikit-Learn \| Sklearn \| Python Tutorial \| [Simplilearn](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)             |
-| Scikit-Learn Course - Machine Learning in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=pqNCD\_5r0IU)                                              |
 
 ### 预测
 
