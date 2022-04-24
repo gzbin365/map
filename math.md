@@ -736,6 +736,8 @@ $$
 | 四色问题　[科学探索号](https://www.douyin.com/video/7021446686111206668)                                                                                                           |
 | MIT 6.042J Mathematics for Computer Science, Spring 2015　[MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj\_KNphQ)                 |
 | 图算法 Graph Algorithms [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnsbnIIbX6ywvD8OZUTT0\_ID)                                                            |
+| “马”能不重复的走遍整个象棋盘吗？图论之骑士巡游问题 [李永乐老师](https://www.youtube.com/watch?v=IzhEc0oaRBc)                                                                                          |
+| 哥尼斯堡七桥问题：什么样的图形可以一笔画？ 李永乐老师[https://www.youtube.com/watch?v=QsMycO8B4M0](https://www.youtube.com/watch?v=QsMycO8B4M0)                                                    |
 
 ## 拓扑学 Topology
 
