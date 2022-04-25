@@ -25,7 +25,7 @@
   * [ML](algorithm/ml.md)
   * [NLP](algorithm/nlp.md)
   * [CV](algorithm/cv.md)
-  * [Voice](algorithm/voice.md)
+  * [Audio](algorithm/voice.md)
   * [GNN](algorithm/gnn.md)
   * [RL](algorithm/rl.md)
   * [KG](algorithm/kg.md)

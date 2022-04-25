@@ -2,7 +2,7 @@
 description: 语音
 ---
 
-# Voice
+# Audio
 
 [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
@@ -33,6 +33,14 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io) [s](https://www.zhihu.com/question/266242493)                                                                                                                       |
 
 ***
+
+## Audio Classify
+
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| Build a Deep Audio Classifier with Python and Tensorflow [Nicholas Renotte](https://www.youtube.com/watch?v=ZLIPkmmDJAc) |
+|                                                                                                                          |
+|                                                                                                                          |
 
 ## **Speech to Text /** Speech Recognition
 
