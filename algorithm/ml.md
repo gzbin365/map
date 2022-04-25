@@ -547,6 +547,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Scikit-learn Crash Course - Machine Learning Library for Python [freeCodeCamp](https://www.youtube.com/watch?v=0B5eIE\_1vpU)                                        |
 | Learning Scikit-Learn [Google Cloud Tech](https://www.youtube.com/watch?v=rvVkVsG49uU)                                                                              |
 | Introduction to scikit-learn [Lander Analytics](https://www.youtube.com/watch?v=juEOOQntrd0)                                                                        |
+| Introduction to Python in Google Colab and Introduction to Sci Kit Learn [Veronica Red](https://www.youtube.com/watch?v=lPVvudibql0)                                |
 |                                                                                                                                                                     |
 
 ### 预测
