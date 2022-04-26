@@ -110,6 +110,7 @@ Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube
 
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
+| [s](https://www.nvidia.cn)                                                                            |
 | NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/) |
 | The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
 |                                                                                                       |
@@ -167,7 +168,7 @@ Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [s](https://aistudio.baidu.com/aistudio/index)                                                                                                                 |
 | 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
-|                                                                                                                                                                |
+| GPU 文档 [pdf](https://bce-cdn.bj.bcebos.com/p3m/pdf/bce-doc/online/GPU/GPU.pdf?timeStamp=1622937600120)                                                         |
 |                                                                                                                                                                |
 
 ### 华为

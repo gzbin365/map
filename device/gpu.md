@@ -20,6 +20,7 @@
 | CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)     |
 | CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo) |
 | Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |
+| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)          |
 
 ## 虚拟化vGPU
 
