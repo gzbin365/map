@@ -2,7 +2,7 @@
 description: 语音
 ---
 
-# Voice
+# Audio
 
 [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
@@ -33,6 +33,14 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io) [s](https://www.zhihu.com/question/266242493)                                                                                                                       |
 
 ***
+
+## Audio Classify
+
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| Build a Deep Audio Classifier with Python and Tensorflow [Nicholas Renotte](https://www.youtube.com/watch?v=ZLIPkmmDJAc) |
+|                                                                                                                          |
+|                                                                                                                          |
 
 ## **Speech to Text /** Speech Recognition
 
@@ -85,6 +93,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Ekho [s](https://www.eguidedog.net/ekho.php) [git](https://github.com/hgneng/ekho) 支持linux [为Ekho添加新的声音](http://eguidedog.net/doc/doc\_make\_new\_voice\_cn.php)  [linuxInstall](https://www.eguidedog.net/doc/doc\_install\_ekho.php) [2](https://blog.csdn.net/cceking/article/details/51760732)  [编译安装](https://blog.csdn.net/AMDS123/article/details/73825409) |
 | TTS技术简单介绍和Ekho（余音）TTS的安装与编程 [csdn](https://blog.csdn.net/zouxy09/article/details/7909154)                                                                                                                                                                                                                                                                          |
+| Cloud Text-to-Speech Google Cloud                                                                                                                                                                                                                                                                                                                                  |
 | gTTS (Google Text-to-Speech) [doc](https://gtts.readthedocs.io/en/latest/) [git](https://github.com/pndurette/gTTS)                                                                                                                                                                                                                                                |
 | 自定义声音模型  📱文字转语音--先从克隆自己的声音开始\|20分钟合成自己的声音 [长安老张](https://www.youtube.com/watch?v=X3opZ6-tb-o)                                                                                                                                                                                                                                                                     |
 
