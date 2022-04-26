@@ -175,13 +175,15 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 
 ## 大O复杂性 Big O Complexity
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5)                 |
-| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                                      |
-| Big O Notation & Time Complexity Analysis Tutorial [Tech With Tim](https://www.youtube.com/watch?v=6aDHWSNKlVw)               |
-| BigO = Performance! And other lies programmers tell themselves!! [GamesWithGabe](https://www.youtube.com/watch?v=o4-zpAI7qBc) |
-|                                                                                                                               |
+|                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O(1)\<O(logn)\<O(n)\<O(nlogn)\<O(n^2)\<O(2^n)\<O(n!)   [s](https://ayzp.github.io/2020/04/23/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6logn%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%E5%95%8A/) |
+| 算法复杂度速查表 [s](https://www.cnblogs.com/martini-d/p/fu-za-du.html)                                                                                                                               |
+| Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5)                                                                                 |
+| Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                                                                                                      |
+| Big O Notation & Time Complexity Analysis Tutorial [Tech With Tim](https://www.youtube.com/watch?v=6aDHWSNKlVw)                                                                               |
+| BigO = Performance! And other lies programmers tell themselves!! [GamesWithGabe](https://www.youtube.com/watch?v=o4-zpAI7qBc)                                                                 |
+|                                                                                                                                                                                               |
 
 ## 二进制 Binary
 
