@@ -10,9 +10,7 @@
 | R Programming Tutorial - Learn the Basics of Statistical Computing [freeCodeCamp](https://www.youtube.com/watch?v=\_V8eKsto3Ug)                                       |
 | R语言统计分析与机器学习 [Adam Sun](https://www.youtube.com/playlist?list=PL5jFwqTxh71ZEeZtjYbFAGIn9J-3eUwyJ)                                                                     |
 | 容噗玩Data [u](https://www.youtube.com/channel/UCmWCMqDKCR56pqd10qNkv3Q/playlists)                                                                                       |
-| Introduction to R and RStudio [Veronica Red](https://www.youtube.com/watch?v=BZ3XOJ2nbb8)                                                                             |
-| Introduction to Shiny in R [Veronica Red](https://www.youtube.com/watch?v=f544Y5fMe2Y)                                                                                |
-| Introduction to Network Analysis in R [Veronica Red](https://www.youtube.com/watch?v=-0DrlPqit9M)                                                                     |
+|                                                                                                                                                                       |
 |                                                                                                                                                                       |
 |                                                                                                                                                                       |
 

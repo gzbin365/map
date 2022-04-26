@@ -102,6 +102,8 @@ AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial [freeCodeCamp](https://
 
 aws-samples [git](https://github.com/aws-samples)
 
+Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSDlnrNJ\_ERqTAkIe21xyRhi)
+
 </details>
 
 ### Nvidia

@@ -224,7 +224,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | 考研真题 408 [牛客网](https://www.nowcoder.com/kaoyan)                                                                                                                                                         |
 | L1nwatch/[challenge-Python](https://github.com/L1nwatch/challenge-Python)   [doc](https://note-zw.readthedocs.io/zh/latest/%E7%AE%97%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81/Challenge%20Python/index.html) |
 | 常见笔试算法题分析记录 [csdn](https://blog.csdn.net/qq\_37375427/category\_7570110.html)                                                                                                                           |
-|                                                                                                                                                                                                         |
+| 十六分鐘略懂刷題面試 [jasonmel](https://www.youtube.com/watch?v=sAjkAz75jis)                                                                                                                                      |
 
 ## 其他
 

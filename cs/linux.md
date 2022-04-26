@@ -12,6 +12,8 @@ description: 从编程中找到快乐
 
 Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
+[只是为了好玩](https://www.youtube.com/watch?v=6HyUEROjtAc) 林纳斯·托瓦兹自传
+
 |                                                                                                                                                                                                                             |                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [**学渣科技**](http://www.linux-dba.com)                                                                                                                                                                                        |                                                                                                                         |
@@ -273,6 +275,9 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 容器化解释 [IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s) Containerization Explained                                                            |
 | 好玩的Docker项目 [我不是咕咕鸽](https://www.youtube.com/playlist?list=PLIN0r\_kqXu-6OfHfhXbojSygtVnD5ClgH)                                                           |
 | Dockerizing your python code for cloud execution [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwb7Zy4MCNTvyNQLsYh\_5-Fp)               |
+| Dockerfile和DockerCompose：轻松制作docker image [JimmyCoding](https://www.youtube.com/watch?v=JI9GsupATh0)                                                      |
+|                                                                                                                                                           |
+|                                                                                                                                                           |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -314,18 +319,18 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## 运维
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Linux教程 命令指令 运维 服务器 项目上线 CentOS 从入门到精通 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9\_iDguCUOhLFGamKI) |
-| Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)          |
-| 【尚硅谷云计算】Linux集群教程 运维工程师培训 by 沈超&汪洋 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFRy8gq2phTxuxb4qj6Y34t)      |
-| 兄弟连细说 Linux 教程 - Linux 基础知识与系统管理 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fSikvvN6InMnoR2NpAXeE9)          |
-|                                                                                                                               |
-| OpenTelemetry Course - Understand Software Performance [freeCodeCamp](https://www.youtube.com/watch?v=r8UvWSX3KA8)            |
-| What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)    |
-| DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS [freeCodeCamp](https://www.youtube.com/watch?v=PGyhBwLyK2U)  |
-|                                                                                                                               |
-|                                                                                                                               |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Linux教程 命令指令 运维 服务器 项目上线 CentOS 从入门到精通 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9\_iDguCUOhLFGamKI)                                |
+| Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)                                         |
+| 【尚硅谷云计算】Linux集群教程 运维工程师培训 by 沈超&汪洋 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFRy8gq2phTxuxb4qj6Y34t)                                     |
+| 兄弟连细说 Linux 教程 - Linux 基础知识与系统管理 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fSikvvN6InMnoR2NpAXeE9)                                         |
+|                                                                                                                                                              |
+| OpenTelemetry Course - Understand Software Performance [freeCodeCamp](https://www.youtube.com/watch?v=r8UvWSX3KA8)                                           |
+| What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)                                   |
+| DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS [freeCodeCamp](https://www.youtube.com/watch?v=PGyhBwLyK2U)                                 |
+| Creating CI/CD Pipeline using GitHub Actions for Python Project (Heroku Deployment Example) [Indian Pythonista](https://www.youtube.com/watch?v=WTofttoD2xg) |
+|                                                                                                                                                              |
 
 |                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
