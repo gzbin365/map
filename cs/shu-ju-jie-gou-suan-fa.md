@@ -28,7 +28,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | Shusen Wang [u](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) [en](https://www.youtube.com/channel/UCvGjdt8iWN5P9I6LYeIHN8A) | Clément Mihailescu([u](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO\_M-N\_g/videos), )     |
 | Compsyc - Joy Liu [u](https://www.youtube.com/c/CompsycJoyLiu/videos) [git](https://github.com/liuzz10)                                  | Tim Roughgarden Lectures [u](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists) |
 | 我思故我菜 [u](https://www.youtube.com/channel/UCxEAC4o1bBmcl-6pnW9oC7Q/playlists)                                                            | William Brinkman [u](https://www.youtube.com/user/cutealiens/videos)                             |
-|                                                                                                                                          | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
+| 古城算法 [u](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/playlists)                                                       | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
 
 ## 动态规划 **Dynamic Programming Problems, DP**
 

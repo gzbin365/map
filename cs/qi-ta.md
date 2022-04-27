@@ -431,6 +431,7 @@
 | 运维架构师企业级运维Prometheus监控实践\_基于K8s搭建Prometheus集群详解课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz\_QAdkXIsEmHMa3RmTPXE4) |
 | Architecture [JimmyCoding](https://www.youtube.com/playlist?list=PLH2FEKHrTKDTVR9AnIr3df6kRGLuzkq8o)                                    |
 | 九分鐘略懂系統設計面試 [jasonmel](https://www.youtube.com/watch?v=Y93BGebBwEE)                                                                     |
+|                                                                                                                                         |
 
 ## 低代码 白码 Low-Code
 
