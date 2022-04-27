@@ -39,7 +39,6 @@ description: 自然语言处理
 
 | Transformer                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| huggingface/[transformers](https://github.com/huggingface/transformers)                                                                                            |
 | Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |
 | Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                      |
 | Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                  |
@@ -432,8 +431,6 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 |                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------- |
-| topics/[nlp](https://github.com/topics/nlp)                                                                   |
-|                                                                                                               |
 | 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                                     |
 | 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)             |
 | The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                                     |
@@ -450,5 +447,4 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | goto456/[stopwords](https://github.com/goto456/stopwords)   中文常用停用词表                                          |
 | dongrixinyu/[JioNLP](https://github.com/dongrixinyu/JioNLP)   中文 NLP 预处理、解析工具包                                |
 | AimeeLee77/[wiki\_zh\_word2vec](https://github.com/AimeeLee77/wiki\_zh\_word2vec)   利用Python构建Wiki中文语料词向量模型试验 |
-| Roshanson/[TextInfoExp](https://github.com/Roshanson/TextInfoExp)   自然语言处理实验（sougou数据集）等                      |
 |                                                                                                               |

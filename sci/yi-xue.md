@@ -44,7 +44,6 @@
 | 诺亚营养 抖音号： [88362471947](https://www.douyin.com/user/MS4wLjABAAAA4hKc2yyaDQ68smGJ1BgiajheY1judUQPQ0oftQlEE1Sb8F2swRg8TC2-FIHOOz14)                                                                                                                                                                                                                                                         |
 | 柏格醫生中文 健康知識 [u](https://www.youtube.com/c/%E6%9F%8F%E6%A0%BC%E9%86%AB%E7%94%9F%E4%B8%AD%E6%96%87%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98)   柏格医生简体中文 官方頻道 [u](https://www.youtube.com/channel/UCYSItFshvgtcr-Os2-bhDRQ)                                                                                                                                                                       |
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
-| geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 
 ### 生酮饮食
 
