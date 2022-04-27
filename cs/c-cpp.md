@@ -102,7 +102,6 @@
 | Using C instead of Bash [Tsoding Daily](https://www.youtube.com/watch?v=assDDVG0PEo)                                                                                   |
 | C Full Course 🕹️ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)                                                                                   |
 | 你所不知道的 C 語言 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpqAHXlqoH2JpvOSmku7WjRU)                                                                         |
-| C Programming Language - Intro to Computer Science - Harvard's CS50 (2018) [freeCodeCamp](https://www.youtube.com/watch?v=ix5jPkxsr7M)                                 |
 
 ## Book
 

@@ -136,6 +136,7 @@ labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo
 | Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                   |
 | Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                       |
 | 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm) |
+| Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)         |
 
 ### 插入排序 Insertion Sort
 
