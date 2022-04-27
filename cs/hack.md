@@ -12,6 +12,7 @@
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 小甲鱼汇编语言教程（77集全） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fHkPdeNkZ\_gS0qxT\_y3qmF)                                                  |
+| Assembly Language Programming with ARM – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gfmRrPjnEw4)                       |
 | QuickHacks [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbSrXqgnSTFbdFAiF4LYkxH)                                                   |
 | Privacy - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiS\_4OmkaZ\_0MV2snFENYeZA)                                               |
 | Time to Hack - Cracking passwords using only timing information [mCoding](https://www.youtube.com/watch?v=XThL0LP3RjY)                                 |
