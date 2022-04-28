@@ -101,6 +101,12 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                   |
 |                                                                                                                                                  |
 
+|                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| How to: Render blender animation on cloud for free ? (google colab + Parallel rendering) [Cominlooks](https://www.youtube.com/watch?v=uv45KzL9ick) |
+| GLIDE: Easiest Text to Image with Diffusion model (colab) [Cominlooks](https://www.youtube.com/watch?v=pGKLuSw7bgU)                                |
+| FREE Cloud Rendering \| Blender + Google Colab [Damian Mathew](https://www.youtube.com/watch?v=3vZ9eTcgw28)                                        |
+
 ### Revit
 
 Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course] [freeCodeCamp](https://www.youtube.com/watch?v=hEAg47jdYMs)

@@ -21,4 +21,4 @@
 | 重制版：音乐也有科学道理吗？Do、Re、Mi...都是如何确定的？[李永乐老师讲音律](https://www.youtube.com/watch?v=v5QlocAclXY)                                                                                                       |
 | Learn How To Play Piano (NEW) [Andrew Furmanczyk](https://www.youtube.com/playlist?list=PL253192EED47525A8)                                                                                    |
 | Music Production Tutorials [Arcade](https://www.youtube.com/playlist?list=PLm9E1N2zHEZB9Zb9iQShPuGCb5Vh96Twv)                                                                                  |
-| 钢琴教学 [音乐人生Music Life](https://www.youtube.com/playlist?list=PLhtGVmiShRe9PW2iFpAVmaE1WF3R\_cWO6)                                                                                               |
+|                                                                                                                                                                                                |
