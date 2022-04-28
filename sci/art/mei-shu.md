@@ -106,6 +106,8 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | How to: Render blender animation on cloud for free ? (google colab + Parallel rendering) [Cominlooks](https://www.youtube.com/watch?v=uv45KzL9ick) |
 | GLIDE: Easiest Text to Image with Diffusion model (colab) [Cominlooks](https://www.youtube.com/watch?v=pGKLuSw7bgU)                                |
 | FREE Cloud Rendering \| Blender + Google Colab [Damian Mathew](https://www.youtube.com/watch?v=3vZ9eTcgw28)                                        |
+| 3 Free ways to render your blender files online [Pirateclaw Animations](https://www.youtube.com/watch?v=nWLyTYnkoEc)                               |
+| Blender Cycles X is Insanely Fast on Google Colab! - Blender Tutorial Micro Singularity                                                            |
 
 ### Revit
 
