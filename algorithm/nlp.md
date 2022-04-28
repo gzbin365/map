@@ -39,6 +39,7 @@ description: 自然语言处理
 
 | Transformer                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| huggingface/[transformers](https://github.com/huggingface/transformers)                                                                                            |
 | Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |
 | Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                      |
 | Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                  |
@@ -427,10 +428,21 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | **兜哥带你NLP入门（自然语言处理入门）(**[**书栈**](https://www.bookstack.cn/books/duoergun0729-nlp)**, )**                      |
 | **Neural Networks from Scratch(**[**sentdex**](https://nnfs.io)**, )**                                        |
 
+## 面试
+
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| [其他](https://blog.csdn.net/lpjishu/article/details/78495605)                               |
+| NLP面经归纳及答案 [csdn](https://blog.csdn.net/qq\_38358305/article/details/88242839)             |
+| 超详细！腾讯NLP算法岗面经（已offer）[csdn](https://blog.csdn.net/abcdefg90876/article/details/105283341) |
+|                                                                                            |
+
 ## 其他
 
 |                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------- |
+| topics/[nlp](https://github.com/topics/nlp)                                                                   |
+| JiangYanting [git](https://github.com/JiangYanting?tab=repositories)                                          |
 | 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                                     |
 | 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)             |
 | The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                                     |
@@ -447,4 +459,5 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | goto456/[stopwords](https://github.com/goto456/stopwords)   中文常用停用词表                                          |
 | dongrixinyu/[JioNLP](https://github.com/dongrixinyu/JioNLP)   中文 NLP 预处理、解析工具包                                |
 | AimeeLee77/[wiki\_zh\_word2vec](https://github.com/AimeeLee77/wiki\_zh\_word2vec)   利用Python构建Wiki中文语料词向量模型试验 |
+| Roshanson/[TextInfoExp](https://github.com/Roshanson/TextInfoExp)   自然语言处理实验（sougou数据集）等                      |
 |                                                                                                               |

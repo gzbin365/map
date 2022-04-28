@@ -14,6 +14,10 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo/)**,** [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**,** [**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong,** [**B**](https://space.bilibili.com/14089380)**,** [书栈](https://www.bookstack.cn/books/fucking-algorithm)
 
+geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https://www.geekxh.com)   小浩算法
+
+近千道真题面经汇总 [易学教程](https://www.e-learn.cn/topic/95743)
+
 ## 平台
 
 |                                                   |   |
