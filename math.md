@@ -80,9 +80,6 @@ description: 用数学充实人生
 | desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                       |
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                   |
 | reddit.com/r/[desmos](https://www.reddit.com/r/desmos/)/                                                                                                                                                  |
-| Asterism [u](https://www.youtube.com/channel/UCL2aoQD6TOwWs97gb6ZY7ZA/playlists)                                                                                                                          |
-| Desmos [Radian628](https://www.youtube.com/playlist?list=PLc0hPLqxOOE\_H3ao9Z16OGDIc20Y1nAK0)                                                                                                             |
-| Connor Criss [u](https://www.youtube.com/channel/UCigeQZmRLqGiVPzp7E7Ka5Q/videos)                                                                                                                         |
 
 ### MATLAB
 
