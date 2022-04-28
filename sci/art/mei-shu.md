@@ -12,6 +12,7 @@
 
 |                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Typography for Developers Tutorial - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=agbh1wbfJt8)                                |
 | August 2019 - Understanding Design [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65c\_qtfFUMISNuSolunts8bt)        |
 | 广告海报设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbXV7e8HlNGBwEhI63jpjCw)                                                    |
 | 基础VI设计（下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZC5xsxUO-84msMEkxae8zj)                                                 |
@@ -106,6 +107,8 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | How to: Render blender animation on cloud for free ? (google colab + Parallel rendering) [Cominlooks](https://www.youtube.com/watch?v=uv45KzL9ick) |
 | GLIDE: Easiest Text to Image with Diffusion model (colab) [Cominlooks](https://www.youtube.com/watch?v=pGKLuSw7bgU)                                |
 | FREE Cloud Rendering \| Blender + Google Colab [Damian Mathew](https://www.youtube.com/watch?v=3vZ9eTcgw28)                                        |
+| 3 Free ways to render your blender files online [Pirateclaw Animations](https://www.youtube.com/watch?v=nWLyTYnkoEc)                               |
+| Blender Cycles X is Insanely Fast on Google Colab! - Blender Tutorial Micro Singularity                                                            |
 
 ### Revit
 
