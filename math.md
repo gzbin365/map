@@ -79,6 +79,7 @@ description: 用数学充实人生
 
 |                                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://ccl.northwestern.edu/netlogo/)    [4.0.2 用户手册](https://ccl.northwestern.edu/netlogo/4.0.4/docs/NetLogo\_manual\_chinese.pdf)                                                                  |
 | Desmos 教學影片 [林子翔老師教數學](https://www.youtube.com/playlist?list=PLkstLknHwtdg6AJiVqQom5-QmBDBrCHZJ)                                                                                                          |
 | Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                         |
 | Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
@@ -90,6 +91,14 @@ description: 用数学充实人生
 | Desmos [Radian628](https://www.youtube.com/playlist?list=PLc0hPLqxOOE\_H3ao9Z16OGDIc20Y1nAK0)                                                                                                             |
 | Connor Criss [u](https://www.youtube.com/channel/UCigeQZmRLqGiVPzp7E7Ka5Q/videos)                                                                                                                         |
 | MAB Lab [u](https://www.youtube.com/c/RannyBergamotte/channels)                                                                                                                                           |
+
+### Mathematica
+
+
+
+### Lingo
+
+###
 
 ### MATLAB
 

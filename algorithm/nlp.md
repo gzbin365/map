@@ -105,6 +105,7 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中科院 宗成庆 自然语言处理公开课（64集）[科皮子菊](https://www.bilibili.com/video/BV1Cb411T7Cd)   [讲义](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)                                                                                 |
 | NLP [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfNSksORUz5xzlI79AVtAkz)                                                                                                                                          |
 | Natural Language Processing in Python [PyOhio](https://www.youtube.com/watch?v=xvqsFTUsOmc)                                                                                                                                                   |
 | What is NLP (Natural Language Processing)? [IBM Technology](https://www.youtube.com/watch?v=fLvJ8VdHLA0)                                                                                                                                      |

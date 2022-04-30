@@ -840,6 +840,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Maximum Entropy Methods Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznT3olRuplp5x41wUp\_LZxHL) |
+| Entropy (for data science) Clearly Explained!!! [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=YtebGVx-Fxw)        |
 |                                                                                                                                   |
 |                                                                                                                                   |
 
