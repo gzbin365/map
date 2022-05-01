@@ -96,9 +96,14 @@ description: 用数学充实人生
 
 
 
-### Lingo
+### Lingo Lindo
 
-###
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| [lindo.com](https://www.lindo.com)                                                                              |
+| LINGO 15.0 [Users Manual](https://www.lindo.com/doc/online\_help/lingo15\_0/index.html)                         |
+| [Download](https://www.lindo.com/lindoforms/downlingo.html) LINGO Software - LINDO Systems                      |
+| [Installing](https://www.lindo.com/doc/online\_help/lingo15\_0/installing\_lingo\_on\_linux.htm) LINGO on Linux |
 
 ### MATLAB
 

@@ -67,6 +67,7 @@ description: 自然语言处理
 | LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
 | MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
+| Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
 
 ### KMP
 
