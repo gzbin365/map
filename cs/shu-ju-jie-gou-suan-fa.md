@@ -33,7 +33,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Compsyc - Joy Liu [u](https://www.youtube.com/c/CompsycJoyLiu/videos) [git](https://github.com/liuzz10)                                  | Tim Roughgarden Lectures [u](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists) |
 | 我思故我菜 [u](https://www.youtube.com/channel/UCxEAC4o1bBmcl-6pnW9oC7Q/playlists)                                                            | William Brinkman [u](https://www.youtube.com/user/cutealiens/videos)                             |
 | 古城算法 [u](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/playlists)                                                       | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
-| 九章算法 [u](https://www.youtube.com/channel/UCdBXs\_F9YlBodIH7eK0BYfQ/playlists)                                                            | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
+|                                                                                                                                          | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
 
 ## 动态规划 **Dynamic Programming Problems, DP**
 

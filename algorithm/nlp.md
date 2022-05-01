@@ -149,6 +149,14 @@ LDA 文档聚类 plsa lsa
 | [数据科学读书会 Book 12 - NLP 自然语言处理 第七讲](https://www.youtube.com/watch?v=tctmuqzbt8E)                                         |
 |                                                                                                                         |
 
+### 词向量
+
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學 |
+|                                                                                         |
+|                                                                                         |
+
 ### 文本分类
 
 |                                                                                                                                                                 |

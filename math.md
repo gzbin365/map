@@ -59,12 +59,6 @@ description: 用数学充实人生
 
 ## 工具
 
-|                                                                |   |
-| -------------------------------------------------------------- | - |
-| Microsoft Math Solver [s](https://mathsolver.microsoft.com/zh) |   |
-|                                                                |   |
-|                                                                |   |
-
 ### NetLogo
 
 |                                                                                                                        |
@@ -79,7 +73,6 @@ description: 用数学充实人生
 
 |                                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://ccl.northwestern.edu/netlogo/)    [4.0.2 用户手册](https://ccl.northwestern.edu/netlogo/4.0.4/docs/NetLogo\_manual\_chinese.pdf)                                                                  |
 | Desmos 教學影片 [林子翔老師教數學](https://www.youtube.com/playlist?list=PLkstLknHwtdg6AJiVqQom5-QmBDBrCHZJ)                                                                                                          |
 | Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                         |
 | Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
@@ -87,23 +80,6 @@ description: 用数学充实人生
 | desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                       |
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                   |
 | reddit.com/r/[desmos](https://www.reddit.com/r/desmos/)/                                                                                                                                                  |
-| Asterism [u](https://www.youtube.com/channel/UCL2aoQD6TOwWs97gb6ZY7ZA/playlists)                                                                                                                          |
-| Desmos [Radian628](https://www.youtube.com/playlist?list=PLc0hPLqxOOE\_H3ao9Z16OGDIc20Y1nAK0)                                                                                                             |
-| Connor Criss [u](https://www.youtube.com/channel/UCigeQZmRLqGiVPzp7E7Ka5Q/videos)                                                                                                                         |
-| MAB Lab [u](https://www.youtube.com/c/RannyBergamotte/channels)                                                                                                                                           |
-
-### Mathematica
-
-
-
-### Lingo Lindo
-
-|                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- |
-| [lindo.com](https://www.lindo.com)                                                                              |
-| LINGO 15.0 [Users Manual](https://www.lindo.com/doc/online\_help/lingo15\_0/index.html)                         |
-| [Download](https://www.lindo.com/lindoforms/downlingo.html) LINGO Software - LINDO Systems                      |
-| [Installing](https://www.lindo.com/doc/online\_help/lingo15\_0/installing\_lingo\_on\_linux.htm) LINGO on Linux |
 
 ### MATLAB
 
@@ -943,8 +919,6 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L)                                                      |
 | 数学建模-谭忠（厦门大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZZd1pfsQd0OtXRjFjJorbo)                                                           |
 | 清风：数学建模视频全套【已完结！】[红烧马化腾](https://www.youtube.com/playlist?list=PLvce\_oy4ggsHzrmgBz8vwQqRmezDOzo1N) [bdy](https://pan.baidu.com/s/1FqUnJjeHsbcFESPJuDy64Q) 1y2r |
-| 论文写作技巧的视频 [B](https://www.bilibili.com/video/av59423231)                                                                                                        |
-| 作业讲解的视频 [B](https://www.bilibili.com/video/av85118120)                                                                                                          |
 
 ### 生命游戏
 
@@ -952,7 +926,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | ------------------------------------------------------------------------------------------------------- |
 | Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)                         |
 | Coding Challenge #85: The Game of Life [The Coding Train](https://www.youtube.com/watch?v=FWSR\_7kZuYg) |
-| Conway's Game of Life in Python [NeuralNine](https://www.youtube.com/watch?v=cRWg2SWuXtM)               |
+|                                                                                                         |
 
 ## 运筹学
 
