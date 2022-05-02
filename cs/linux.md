@@ -135,14 +135,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ***
 
-## Linux 核心代码
-
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| sunym1993/[flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)   品读 Linux 0.11 核心代码 |
-|                                                                                                          |
-|                                                                                                          |
-
 ## Shell
 
 **shell电子书(**[**脚本之家**](https://www.jb51.net/books/list977\_1.html)**)**
@@ -381,8 +373,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                                               |
 | Vim Snippets Are Next Level [NeuralNine](https://www.youtube.com/watch?v=qspwCdlrfNs)                                                                        |
 | Neovim as a Personal Development Environment - SGVLUG Feb 2022 [San Gabriel Valley Linux Users Group (SGVLUG)](https://www.youtube.com/watch?v=IK\_-C0GXfjo) |
-| Helix Text Editor: Better than Neovim? [DevOnDuty](https://www.youtube.com/watch?v=9Zj-wiQ9\_Xw)                                                             |
-| Neovim [DevOnDuty](https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW)                                                                 |
 
 ## Wine
 

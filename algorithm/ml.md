@@ -840,7 +840,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Maximum Entropy Methods Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznT3olRuplp5x41wUp\_LZxHL) |
-| Entropy (for data science) Clearly Explained!!! [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=YtebGVx-Fxw)        |
 |                                                                                                                                   |
 |                                                                                                                                   |
 
@@ -1227,7 +1226,6 @@ ESL
 | Variational Autoencoders - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=fcvYpzHmhvA)                                                                                                                                                                                                                                  |
 | guillaume-chevalier/[Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)                                                                                                                                                                                                      |
 | 什么是 MLOps? [Morgan Yong](https://zhuanlan.zhihu.com/p/392216271)                                                                                                                                                                                                                                                                   |
-| ml-tooling/[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)   项目包括：机器学习框架、数据可视化、图像、NLP和文本、图、金融领域、时间序列等等，内容非常全                                                                                                                                                                                                  |
 
 <details>
 

@@ -431,6 +431,7 @@
 | 运维架构师企业级运维Prometheus监控实践\_基于K8s搭建Prometheus集群详解课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz\_QAdkXIsEmHMa3RmTPXE4) |
 | Architecture [JimmyCoding](https://www.youtube.com/playlist?list=PLH2FEKHrTKDTVR9AnIr3df6kRGLuzkq8o)                                    |
 | 九分鐘略懂系統設計面試 [jasonmel](https://www.youtube.com/watch?v=Y93BGebBwEE)                                                                     |
+| 系统设计 [古城算法](https://www.youtube.com/playlist?list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)                                                   |
 
 ## 低代码 白码 Low-Code
 
@@ -584,3 +585,5 @@
 | 谈谈 Code Review [谢龙](https://zhuanlan.zhihu.com/p/21429639)                                                                                                                                                    |
 | 单元测试到底是什么？应该怎么做？ [zh](https://www.zhihu.com/question/28729261)                                                                                                                                                |
 | coder2gwy/[coder2gwy](https://github.com/coder2gwy/coder2gwy)   互联网首份程序员考公指南                                                                                                                                  |
+| chengyi/[BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer)   程序员相亲指南                                                                                                       |
+| <p>字节、字、位、比特，这四者之间的关系 <a href="https://blog.csdn.net/cx_wzp/article/details/8104224">csdn</a></p><p>1个字节等于8个比特（1Byte=8bit）</p>                                                                                |
