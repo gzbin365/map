@@ -403,7 +403,6 @@ description: 硬件设备
 | ROS Courses [电子工程世界](http://training.eeworld.com.cn/course/5215) 共13课时 3小时12分50秒                                   |
 | ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB) |
 | ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
-| ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
 
 ## 芯片 半导体
 
