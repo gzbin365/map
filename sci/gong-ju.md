@@ -13,8 +13,6 @@
 | Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA)        |
 | My favorite LaTeX packages for writing beautiful math documents　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=331YxgOJUGw) |
 | Overleaf                                                                                                                         |
-| 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)              |
-| results?search\_query=[colab+latex](https://www.youtube.com/results?search\_query=colab+latex)                                   |
 
 | Short link                                                |
 | --------------------------------------------------------- |

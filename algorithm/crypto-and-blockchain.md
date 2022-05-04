@@ -13,7 +13,7 @@ description: Blockchain & Cryptocurrency
 |                                                                          |                                                                         |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), ) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)      |
-|                                                                          | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ) |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ) |
 
 |                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -33,7 +33,8 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Compsyc - Joy Liu [u](https://www.youtube.com/c/CompsycJoyLiu/videos) [git](https://github.com/liuzz10)                                  | Tim Roughgarden Lectures [u](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists) |
 | 我思故我菜 [u](https://www.youtube.com/channel/UCxEAC4o1bBmcl-6pnW9oC7Q/playlists)                                                            | William Brinkman [u](https://www.youtube.com/user/cutealiens/videos)                             |
 | 古城算法 [u](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/playlists)                                                       | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
-|                                                                                                                                          | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
+| 九章算法 [u](https://www.youtube.com/channel/UCdBXs\_F9YlBodIH7eK0BYfQ/playlists)                                                            | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             |                                                                                                  |
 
 ## 动态规划 **Dynamic Programming Problems, DP**
 
@@ -56,6 +57,8 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 【动态规划】一次搞定三种[背包问题](https://www.youtube.com/watch?v=AFspvwnCcK4) 九章算法官方频道                                                                                                                                                                           |
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 | Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
+| Dynamic Programming - Level 1 [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)                                                                                                                                |
+|                                                                                                                                                                                                                                                    |
 
 ## Recurisive
 
