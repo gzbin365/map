@@ -78,14 +78,6 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | September 2020 - Basic Statistical Mechanics [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65en9rkAeG\_KDhh4thVEu5Od) |
 
-## 粒子
-
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accelerator and Beam Physics Gerard Lawler [Gerard Lawler](https://www.youtube.com/playlist?list=PLJ7LoXWErO\_pFFIWg02pKCTfyaH2HktW4)              |
-| Laser Plasma Accelerator [International Centre for Theoretical Sciences](https://www.youtube.com/playlist?list=PL04QVxpjcnjgdWBi16C9riopevKlmbKLa) |
-|                                                                                                                                                    |
-
 ## 电路
 
 |                                                                                                                                                       |
@@ -138,9 +130,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | July 2019-Path Integral and functional methods in quantum field theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fbPpAMNVi8h7iusFHo8ZSJ) |
 | 毛式幽默　量子力学　[不嘚瑟都掉毛](https://www.douyin.com/video/6939883988194430215)                                                                                                    |
 | 【宇宙雜談】什麼是“時間晶體”？谷歌量子計算機成功製造時間晶體！Time Crystals \| [Linvo說宇宙](https://www.youtube.com/watch?v=7MasiQl5V0M)                                                                |
-| 林聖迪老師 - 量子力學導論 Introduction to Quantum Mechanics [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFuzLWEAhDurGIEeTczVnJTN)                                   |
-| 【9910賴志煌教授：量子物理導論】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cy1n01ToiyHr8pdj4MRceEi)                                                                   |
-| 量子力學 台大易富國教授 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLF4C2C0FE5389B474)                                                                                 |
+|                                                                                                                                                                         |
 |                                                                                                                                                                         |
 
 ## 相对论

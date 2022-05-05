@@ -158,11 +158,11 @@ Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube
 
 ### 百度
 
-|                                                     |
-| --------------------------------------------------- |
-| 百度云智教育 [s](https://abcxueyuan.baidu.com)            |
-| PaddlePaddle [git](https://github.com/PaddlePaddle) |
-|                                                     |
+|                                          |
+| ---------------------------------------- |
+| 百度云智教育 [s](https://abcxueyuan.baidu.com) |
+|                                          |
+|                                          |
 
 | 百度AI studio                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -67,7 +67,6 @@ description: 自然语言处理
 | LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
 | MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
-| Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
 
 ### KMP
 
@@ -106,7 +105,6 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 中科院 宗成庆 自然语言处理公开课（64集）[科皮子菊](https://www.bilibili.com/video/BV1Cb411T7Cd)   [讲义](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)                                                                                 |
 | NLP [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfNSksORUz5xzlI79AVtAkz)                                                                                                                                          |
 | Natural Language Processing in Python [PyOhio](https://www.youtube.com/watch?v=xvqsFTUsOmc)                                                                                                                                                   |
 | What is NLP (Natural Language Processing)? [IBM Technology](https://www.youtube.com/watch?v=fLvJ8VdHLA0)                                                                                                                                      |
@@ -148,14 +146,6 @@ LDA 文档聚类 plsa lsa
 | [数据科学家读书会Book 12 – 《Natural Language Processing with Python》NLP自然语言处理 第一讲](https://www.youtube.com/watch?v=3jq5lLszdrQ) |
 | [数据科学读书会 Book 12 - NLP 自然语言处理 第七讲](https://www.youtube.com/watch?v=tctmuqzbt8E)                                         |
 |                                                                                                                         |
-
-### 词向量
-
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學 |
-|                                                                                         |
-|                                                                                         |
 
 ### 文本分类
 
@@ -396,7 +386,6 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | Typical Decoding for Natural Language Generation (Get more human-like outputs from language models!) [Yannic Kilcher](https://www.youtube.com/watch?v=\_EDr3ryrT\_Y) |
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
-| CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                          |
 
 ### 代码生成
 
