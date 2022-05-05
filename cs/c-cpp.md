@@ -68,8 +68,7 @@
 | A Case-study in Rewriting a Legacy GUI Library for Real-time Audio Software in Modern C++ [CppCon](https://www.youtube.com/watch?v=90I0hH5-r5A)                  |
 | Multi Threading Model in Paradox Games: Past, Present and Future - Mathieu Ropert - CppCon 2021 [CppCon](https://www.youtube.com/watch?v=e\_2z7uWouuk)           |
 | C++内存管理 \| 侯捷 [aizhi li](https://www.youtube.com/playlist?list=PLTcwR9j5y6W2eH37R2\_4oEO4Y0tksot56)                                                              |
-| \[C++高级教程]从零开始开发服务器框架(sylar) [sylar yin](https://www.youtube.com/playlist?list=PLaHCpB\_SlHdNI4Uc43mL3Sh8ZJgiAe-cy)                                              |
-| Pointers in C++ [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGlKR4UFJjy8qZJQWvnHRZ1)                                                            |
+|                                                                                                                                                                  |
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -103,7 +102,6 @@
 | Using C instead of Bash [Tsoding Daily](https://www.youtube.com/watch?v=assDDVG0PEo)                                                                                   |
 | C Full Course 🕹️ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)                                                                                   |
 | 你所不知道的 C 語言 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpqAHXlqoH2JpvOSmku7WjRU)                                                                         |
-| C Programming Language - Intro to Computer Science - Harvard's CS50 (2018) [freeCodeCamp](https://www.youtube.com/watch?v=ix5jPkxsr7M)                                 |
 
 ## Book
 

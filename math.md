@@ -684,7 +684,15 @@ $$
 
 
 
-### 解析几何
+### 解析几何&#x20;
+
+### 代数几何 Algebraische Geometrie
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| Algebraische Geometrie [MATHEKANAL](https://www.youtube.com/playlist?list=PLho3wDE1H4WOq6klg5cbRB7ipNEmPV4ab) |
+|                                                                                                               |
+|                                                                                                               |
 
 ### 高等几何
 
@@ -921,6 +929,12 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 |                                                                                                                                                                                                                |
 
 ### 常微分方程 Ordinary Differential Equations, ODE
+
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh) |
+|                                                                                                        |
+|                                                                                                        |
 
 ### 拉普拉斯变换 Laplace Transform
 

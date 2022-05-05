@@ -23,3 +23,6 @@
 | Music Production Tutorials [Arcade](https://www.youtube.com/playlist?list=PLm9E1N2zHEZB9Zb9iQShPuGCb5Vh96Twv)                                                                                  |
 | 钢琴教学 [音乐人生Music Life](https://www.youtube.com/playlist?list=PLhtGVmiShRe9PW2iFpAVmaE1WF3R\_cWO6)                                                                                               |
 | Beginner Trumpet Lessons [Dr. Selfridge Music](https://www.youtube.com/playlist?list=PL06seol1EtFdmHTeZzVWw9UlPsLkrk-GR)                                                                       |
+| Improvisation lesson series [Nick Granville](https://www.youtube.com/playlist?list=PLcLJE6FnXFEoqbeD2YvQrTTKjnM0sbEyM) 即兴课                                                                     |
+|                                                                                                                                                                                                |
+|                                                                                                                                                                                                |

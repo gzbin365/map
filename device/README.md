@@ -403,6 +403,7 @@ description: 硬件设备
 | ROS Courses [电子工程世界](http://training.eeworld.com.cn/course/5215) 共13课时 3小时12分50秒                                   |
 | ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB) |
 | ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
+| ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
 
 ## 芯片 半导体
 
@@ -456,7 +457,7 @@ description: 硬件设备
 | 客制化键盘 [彦祖搞搞机](https://www.douyin.com/video/7032273287132581134) | OG80机械键盘 [彦祖搞搞机](https://www.douyin.com/video/7034496681781644548) |
 |                                                                 | HHKB 011000                                                        |
 
-
+HHKB的究极进化 开箱2699元HHKB静电容键盘《[时空测测评](https://www.youtube.com/watch?v=Tvvs4yBHFHE)》
 
 ### 手柄
 
