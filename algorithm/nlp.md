@@ -8,6 +8,7 @@ description: 自然语言处理
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | nltk([s](http://www.nltk.org), )                              | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
 | github /topics/[synonyms](https://github.com/topics/synonyms) | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
+|                                                               | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
 
 ## 平台
 
