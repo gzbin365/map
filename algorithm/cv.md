@@ -222,6 +222,7 @@ import cv2
 | facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                          |
 | YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                       |
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)   [v](https://www.youtube.com/watch?v=cQqvrJoue-I)               |
+| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)             |
 
 ### 视频跟踪
 
@@ -301,11 +302,12 @@ import cv2
 
 ## 3D重建 3d-reconstruction
 
-| NeRF                                                                                                                                                                                                                                        |
+| NeRF (Neural Radiance Fields)                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Instant Neural Graphics Primitives [git](https://github.com/NVlabs/instant-ngp) [s](https://nvlabs.github.io/instant-ngp/) [arxiv](https://arxiv.org/pdf/2201.05989.pdf) [v](https://www.youtube.com/watch?v=87h\_P2BXEag) 能够将 2D 图像转 3D 模型 |
 | 英伟达新技术训练NeRF模型 [机器之心](https://www.jiqizhixin.com/articles/2022-01-16)                                                                                                                                                                       |
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
+| NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
 
 ## 视频插帧
 
