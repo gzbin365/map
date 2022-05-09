@@ -12,4 +12,3 @@
 | 【推荐系统 python】推荐系统极其重要的Embedding技术 [蚂蚁学Python](https://www.youtube.com/watch?v=FMN1e8Izyac)                                             |
 | Deep Learning for Recommendation基于深度学习的推荐系统 [Data Application Lab](https://www.youtube.com/watch?v=uGbZ\_E6Rc0Y)                       |
 | Building recommendation systems with TensorFlow [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz) |
-| 如何设计一个推荐系统 [BitTiger官方频道 BitTiger Official Channel](https://www.youtube.com/watch?v=MZkxusQ6GNo)                                       |

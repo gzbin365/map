@@ -8,7 +8,6 @@ description: 自然语言处理
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | nltk([s](http://www.nltk.org), )                              | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
 | github /topics/[synonyms](https://github.com/topics/synonyms) | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
-|                                                               | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
 
 ## 平台
 
@@ -107,7 +106,6 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 自然语言处理技术专场 [Watching IT Conference](https://www.youtube.com/watch?v=9TZtIwDbEY8\&list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI\&index=73)  阿里云栖2017-杭州                                                                                           |
 | 中科院 宗成庆 自然语言处理公开课（64集）[科皮子菊](https://www.bilibili.com/video/BV1Cb411T7Cd)   [讲义](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)                                                                                 |
 | NLP [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfNSksORUz5xzlI79AVtAkz)                                                                                                                                          |
 | Natural Language Processing in Python [PyOhio](https://www.youtube.com/watch?v=xvqsFTUsOmc)                                                                                                                                                   |
