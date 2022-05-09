@@ -6,7 +6,7 @@
 | 杨藩 大学美术老师 趣讲艺术 抖音号： [72055942](https://www.douyin.com/user/MS4wLjABAAAA-pC-EKwHkb9mO1Tck2kqFbkxBi5frRlLXpM7EVencJw)                                                                                             |                                                                                                                                    |
 | pixiv [s](https://www.pixiv.net) 插画交流网站                                                                                                                                                                         | 47设计研究所　抖音号： [PSUi520](https://www.douyin.com/user/MS4wLjABAAAAlOOV6vr1bSKq8QaNZ5\_JsCbBFKOsHAvc3McjHsLw7Rs)                       |
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                              | 刘冠老师 抖音号： [60640459190](https://www.douyin.com/user/MS4wLjABAAAAW-XIzmOJbtzmY0nJx8Ypd7l2Se7hwf4Qtn\_4GEvPw-BWagVtODGfRXvf7-3GQaz0) |
-| 名画油画网 [s](http://www.ashoucang.com)                                                                                                                                                                             |                                                                                                                                    |
+| 名画油画网 [s](http://www.ashoucang.com)                                                                                                                                                                             | PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                   |
 
 ## 设计
 
@@ -43,6 +43,14 @@
 | [**wang**](https://www.artstation.com/wangchen)                                                                              | [**Lou LL**](https://www.artstation.com/arroll) | [N I X E U](https://www.artstation.com/nixeu) |
 
 Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/watch?v=wn2rlEp5Iag)
+
+### Gimp
+
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| Gimp 免費 P 圖工具快速上手！連 Photoshop 看到也要禮讓三分的元老級修圖軟體 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=YzheD8L-Us0) |
+|                                                                                                           |
+|                                                                                                           |
 
 ### Sketch
 
@@ -106,6 +114,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                   |
 | Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                               |
 | Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                   |
+| Blender 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll\_w2kSk0JfZLtK3)                                            |
 |                                                                                                                                                  |
 
 |                                                                                                                                                    |
