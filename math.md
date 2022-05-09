@@ -620,6 +620,14 @@ $$
 | 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                              |
 | 用Python学习统计 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD)                                                                                                |
 
+#### 假设检验
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ### 随机过程 Stochastic processes
 
 |                                                                                                                                                                                                                          |
