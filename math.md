@@ -552,6 +552,8 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |
 | Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |
 | 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                  |
+| 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                         |
+| 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                      |
 
 ### 概率 Probability
 
