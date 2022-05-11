@@ -226,6 +226,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Chatopera 机器人平台 [Chatopera Inc.](https://www.youtube.com/playlist?list=PLh\_KT9y7mpqbDnx7NUt2pHESmWlgsD33M)   [s](https://bot.chatopera.com)   [git](https://github.com/chatopera)   [doc](https://docs.chatopera.com)                                                                         |
 | chatopera/[clause](https://github.com/chatopera/clause) 聊天机器人，自然语言理解，语义理解                                                                                                                                                                                                                      |
 | rasa [s](https://rasa.com) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                 |
+| \[線上讀書會] 尹相志 主講 賦予chatbot語言能力：深度自然語言理解 [hsiang an chi](https://www.youtube.com/watch?v=E-knCZ0egKQ)                                                                                                                                                                                            |
+| 線上 chatbot 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zcDxkNSC0A2T-L1-zod-GMw)                                                                                                                                                                                       |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |

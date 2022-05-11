@@ -10,14 +10,19 @@ description: 知识图谱
 | ------------------------------------------------------------- | - |
 | [**知识图谱-腾讯云**](https://cloud.tencent.com/developer/tag/10471) |   |
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| 知识图谱(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGyIo23xzcenWWg2a5BQtXv) |
-| 系统讲解知识图谱 [集智学园](https://campus.swarma.org/course/854)                                            |
-| 知识表征学习专题 [集智学园](https://campus.swarma.org/course/180)                                            |
-| 知识图谱-给AI装个大脑 [SimmerChan](https://zhuanlan.zhihu.com/knowledgegraph)                             |
-| SimmerChan/[KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)  电影知识图谱 KBQA     |
-|                                                                                                  |
+|                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 知识图谱专场 [Watching IT Conference](https://www.youtube.com/watch?v=E\_qUf2SYiLA)   [阿里云栖2017-杭州](https://www.youtube.com/playlist?list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI)                                         |
+| 第 9 话：一分钟看懂知识图谱(☆w☆) [Knowing AI](https://www.youtube.com/watch?v=d2ohLXJBykM)                                                                                                                                     |
+| <p>3 3 知识图谱   <a href="https://www.youtube.com/watch?v=vqwZ-VkDtvM">中国大学MOOC-慕课</a></p><p>人工智能：模型与算法-吴飞（浙江大学） <a href="https://www.youtube.com/playlist?list=PLBPbUxsZM4Sbz1dRuYVCrIlkGb0Bk63wS">中国大学MOOC-</a></p> |
+| 知识图谱(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGyIo23xzcenWWg2a5BQtXv)                                                                                                                   |
+| 系统讲解知识图谱 [集智学园](https://campus.swarma.org/course/854)                                                                                                                                                              |
+| 知识表征学习专题 [集智学园](https://campus.swarma.org/course/180)                                                                                                                                                              |
+| 知识图谱导论-浙江大学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QRcDU28fm2TBcMkMk2Rbz7)                                                                                                                       |
+| 知识图谱-给AI装个大脑 [SimmerChan](https://zhuanlan.zhihu.com/knowledgegraph)                                                                                                                                               |
+| SimmerChan/[KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)  电影知识图谱 KBQA                                                                                                                       |
+| 知识图谱 [李俊峰](https://www.youtube.com/playlist?list=PLQeG7l94mmn\_4frbsCxNH1JXNcpvvoheH)                                                                                                                              |
+| 知识库vs数据库 - Wikidata和SparQL简介 [黄浩杰](https://www.youtube.com/watch?v=cpCPpu9AwV4)                                                                                                                                    |
 
 实体抽取
 
