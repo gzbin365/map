@@ -66,6 +66,8 @@ description: 计算机科学与技术 keep coding
 | Udemy Downloader [s](https://udemydownloader.net)                                           | Tut4Dev [s](https://tut4dev.com/en) [py](https://tut4dev.com/en/categories/python/1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Binod Suman Academy [u](https://www.youtube.com/channel/UCIZ3CSNL-8mBHfFZLic1-aQ/playlists) | [code.org](https://code.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
+Why everyone wants to work at FAANG (Facebook/Meta, Amazon, Apple, Netflix, and Google) [mayuko](https://www.youtube.com/watch?v=ZxCUnxwR89Q)
+
 ### 亚马逊 AWS
 
 <details>
@@ -158,11 +160,11 @@ Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube
 
 ### 百度
 
-|                                          |
-| ---------------------------------------- |
-| 百度云智教育 [s](https://abcxueyuan.baidu.com) |
-|                                          |
-|                                          |
+|                                                     |
+| --------------------------------------------------- |
+| 百度云智教育 [s](https://abcxueyuan.baidu.com)            |
+| PaddlePaddle [git](https://github.com/PaddlePaddle) |
+|                                                     |
 
 | 百度AI studio                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -392,6 +394,8 @@ Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | J
 | Introduction to Programming and Computer Science - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=zOjov-2OZ0E)                                                                        |
 | CS547 - Human-Computer Interaction Seminar Series [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD)                                                      |
 | CS50 Lectures 2021 (SDR) [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T380Xnv\_v683p6UjiKJZe13ki)                                                                                        |
+| CS50 from Harvard. Probably the best free python course you will find [Python Programmer](https://www.youtube.com/watch?v=AO8\_52Lo3J0)                                                           |
+| 100+ Computer Science Concepts Explained [Fireship](https://www.youtube.com/watch?v=-uleG\_Vecis)                                                                                                 |
 |                                                                                                                                                                                                   |
 
 PKUanonym/[REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
