@@ -20,3 +20,4 @@ description: Self-Driving
 | 自動駕駛課程 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-L4YlXUWDytZPz9a8cAWXST)                                                      |
 | 自動駕駛課程2-模擬器carla [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JjtrIgqDdgqJzS9aJyKPIc)                                            |
 | Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning [freeCodeCamp](https://www.youtube.com/watch?v=Rs\_rAxEsAvI) |
+| Self-driving car - Javascript course Radu [Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)      |
