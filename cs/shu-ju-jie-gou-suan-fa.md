@@ -136,11 +136,12 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | A\* Pathfinding Visualization Tutorial - Python A\* Path Finding Tutorial [Tech With Tim](https://www.youtube.com/watch?v=JtiK0DOeI4A)                                                                                                                                                                                                                |
 | Studying Algorithms in Python [NeuralNine](https://www.youtube.com/watch?v=uxwH3l2RQpY) pygorithm                                                                                                                                                                                                                                                     |
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|                                                                     |
+| ------------------------------------------------------------------- |
+| 青岛大学--王卓 [B](https://space.bilibili.com/40323036)                   |
+| 青岛大学-王卓-数据结构 [zh](https://zhuanlan.zhihu.com/p/178270294)           |
+| 数据结构与算法基础（青岛大学-王卓）[B](https://www.bilibili.com/video/BV1nJ411V7bd/) |
+| 目录 [B](https://www.bilibili.com/read/cv2306631)                     |
 
 ## 排序算法 Sorting Algorithms
 
