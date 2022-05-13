@@ -8,6 +8,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Mechanical Engineering](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJOkwyeHyD06tPyJ\_srHC4ZU) Zach Star                                    |
 | September 2020 - Introduction to Aircraft Design [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dHb6f2kmW7PBncvpedPiWe) |
+| Mechanisms [Noah Posner](https://www.youtube.com/playlist?list=PLhoXNQqrCmEfAaTf0AfQ1Ztxmz2DoZiCk)                                                |
 
 ## 机械设计
 
