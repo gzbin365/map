@@ -63,6 +63,7 @@ description: 硬件设备
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HomeAssistant智能家居实战篇 [HAChina中文网](https://www.youtube.com/playlist?list=PLfLv9YbLnoeuOJ22n-45FLFZQZeDs3fJh)                                                                                       |
 | Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                   |
 | Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                              |
 | Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie)  |
@@ -364,7 +365,7 @@ description: 硬件设备
 | DroneBot Workshop [u](https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w)                                                                                                                                                                                                                                                       | 机器人等级考试终结者 抖音号： [AlertTao](https://www.douyin.com/user/MS4wLjABAAAALbq2vF0gtlQZze7E7XAkGfjLu8Zk2YlDin0Q1YWvgc8)                                                                                                                                                                                                                                                              |
 | 机甲学院 抖音号： [RoboMentor](https://www.douyin.com/user/MS4wLjABAAAAM9-5OIkkWb9NX0PTOUdNTLHGlWGsD-LfZvsRoTCvDoU)                                                                                                                                                                                                                           | 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5)                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                       | 斯坦福机器人庞博士Leo  抖音号： [StanfordRobotics](https://www.douyin.com/user/MS4wLjABAAAAzyPooiuJH3y5Vq7hbszMVtldCebUpKFz6e0HVUcwh9A)                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                       | Boston Dynamics [s](https://www.bostondynamics.com) [u](https://www.youtube.com/user/BostonDynamics) [git](https://github.com/search?q=Boston+Dynamics)                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                       | Boston Dynamics [s](https://www.bostondynamics.com/) [u](https://www.youtube.com/user/BostonDynamics) [git](https://github.com/search?q=Boston+Dynamics)                                                                                                                                                                                                                     |
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -403,6 +404,7 @@ description: 硬件设备
 | ROS Courses [电子工程世界](http://training.eeworld.com.cn/course/5215) 共13课时 3小时12分50秒                                   |
 | ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB) |
 | ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
+| ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
 
 ## 芯片 半导体
 
@@ -456,7 +458,7 @@ description: 硬件设备
 | 客制化键盘 [彦祖搞搞机](https://www.douyin.com/video/7032273287132581134) | OG80机械键盘 [彦祖搞搞机](https://www.douyin.com/video/7034496681781644548) |
 |                                                                 | HHKB 011000                                                        |
 
-
+HHKB的究极进化 开箱2699元HHKB静电容键盘《[时空测测评](https://www.youtube.com/watch?v=Tvvs4yBHFHE)》
 
 ### 手柄
 

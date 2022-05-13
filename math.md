@@ -13,7 +13,8 @@ description: 用数学充实人生
 | Oxford Mathematics([u](https://www.youtube.com/channel/UCLnGGRG\_\_uGSPLBLzyhg8dQ/playlists), ) | **MIT OpenCourseWare(**[**u**](https://www.youtube.com/c/mitocw)**,** [**s**](https://ocw.mit.edu)**,** [**tw**](https://twitter.com/mitocw)**,** [**ins**](https://www.instagram.com/accounts/login/?next=/mitocw/)**,** [**fb**](https://www.facebook.com/MITOCW/)**,** [**AI**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience\&spec=artificialintelligence)**,** [**CS**](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)**,** [**math**](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)**, )** |
 | Encyclopedia of Mathematics [s](https://encyclopediaofmath.org)                                 | 早稻田大学桃子早稻田实验室([u](https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg/videos), )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                | Institute for Advanced Study [u](https://www.youtube.com/user/videosfromIAS/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 数学 [知乎话题](https://www.zhihu.com/topic/19554091/hot)                                             | [美国克雷数学研究所](https://www.claymath.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 数学 [知乎话题](https://www.zhihu.com/topic/19554091/hot)                                             | [美国克雷数学研究所](https://www.claymath.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| UHCL Math Center [u](https://www.youtube.com/user/uhclmathcenter/playlists)                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## UP主
 
@@ -59,6 +60,12 @@ description: 用数学充实人生
 
 ## 工具
 
+|                                                                |   |
+| -------------------------------------------------------------- | - |
+| Microsoft Math Solver [s](https://mathsolver.microsoft.com/zh) |   |
+|                                                                |   |
+|                                                                |   |
+
 ### NetLogo
 
 |                                                                                                                        |
@@ -71,15 +78,34 @@ description: 用数学充实人生
 
 ### Desmos
 
-|                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Desmos 教學影片 [林子翔老師教數學](https://www.youtube.com/playlist?list=PLkstLknHwtdg6AJiVqQom5-QmBDBrCHZJ)                                                                                                          |
-| Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                         |
-| Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
-| 3d Graphing in a 2d Calculator (Desmos) [JohnDoesStuff](https://www.youtube.com/watch?v=SnK6ZbQggV4)                                                                                                      |
-| desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                       |
-| Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                   |
-| reddit.com/r/[desmos](https://www.reddit.com/r/desmos/)/                                                                                                                                                  |
+|                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://ccl.northwestern.edu/netlogo/)    [4.0.2 用户手册](https://ccl.northwestern.edu/netlogo/4.0.4/docs/NetLogo\_manual\_chinese.pdf)                                                                   |
+| Desmos 教學影片 [林子翔老師教數學](https://www.youtube.com/playlist?list=PLkstLknHwtdg6AJiVqQom5-QmBDBrCHZJ)                                                                                                           |
+| Learn Desmos [Desmos](https://www.youtube.com/playlist?list=PLfM6zMGnbgOGLZc-\_Yj3QVK3Vz\_L4Cw59)                                                                                                          |
+| Desmos [u](https://www.youtube.com/c/Desmos/playlists) [s](https://www.desmos.com/?lang=zh-CN) [s](https://learn.desmos.com/) [tw](https://twitter.com/desmosinc) [fb](https://www.facebook.com/desmosinc) |
+| 3d Graphing in a 2d Calculator (Desmos) [JohnDoesStuff](https://www.youtube.com/watch?v=SnK6ZbQggV4)                                                                                                       |
+| desmos [JohnDoesStuff](https://www.youtube.com/playlist?list=PLbbd0RTCaw2-Mcdx2\_-E-eLV6lQ\_qt\_Oa)                                                                                                        |
+| Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                    |
+| reddit.com/r/[desmos](https://www.reddit.com/r/desmos/)/                                                                                                                                                   |
+| Asterism [u](https://www.youtube.com/channel/UCL2aoQD6TOwWs97gb6ZY7ZA/playlists)                                                                                                                           |
+| Desmos [Radian628](https://www.youtube.com/playlist?list=PLc0hPLqxOOE\_H3ao9Z16OGDIc20Y1nAK0)                                                                                                              |
+| Connor Criss [u](https://www.youtube.com/channel/UCigeQZmRLqGiVPzp7E7Ka5Q/videos)                                                                                                                          |
+| MAB Lab [u](https://www.youtube.com/c/RannyBergamotte/channels)                                                                                                                                            |
+| J C [u](https://www.youtube.com/channel/UCBLCPs00C9L1gmXrYHeMNBg)                                                                                                                                          |
+
+### Mathematica
+
+
+
+### Lingo Lindo
+
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| [lindo.com](https://www.lindo.com/)                                                                             |
+| LINGO 15.0 [Users Manual](https://www.lindo.com/doc/online\_help/lingo15\_0/index.html)                         |
+| [Download](https://www.lindo.com/lindoforms/downlingo.html) LINGO Software - LINDO Systems                      |
+| [Installing](https://www.lindo.com/doc/online\_help/lingo15\_0/installing\_lingo\_on\_linux.htm) LINGO on Linux |
 
 ### MATLAB
 
@@ -109,21 +135,21 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 | ManimCE                                                                 |
 | ----------------------------------------------------------------------- |
-| Manim Community v0.15.1 [en](https://docs.manim.community/en/stable/#)  |
+| Manim Community v0.15.1 [en](https://docs.manim.community/en/stable/)   |
 | 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417) |
 |                                                                         |
 
-| ManimGL                                      |
-| -------------------------------------------- |
-| ManimGL 教程文档 [ch](https://docs.manim.org.cn) |
-|                                              |
-|                                              |
+| ManimGL                                       |
+| --------------------------------------------- |
+| ManimGL 教程文档 [ch](https://docs.manim.org.cn/) |
+|                                               |
+|                                               |
 
-|                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso)                                                                                                                                                                                       |
-| <p>Math Animations <a href="https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY">Elliot Waite</a></p><p>Pycairo <a href="https://github.com/pygobject/pycairo">git</a> <a href="https://pycairo.readthedocs.io/en/latest/examples.html">doc</a> <a href="https://cairographics.org">Cairo</a></p> |
-|                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso)                                                                                                                                                                                        |
+| <p>Math Animations <a href="https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY">Elliot Waite</a></p><p>Pycairo <a href="https://github.com/pygobject/pycairo">git</a> <a href="https://pycairo.readthedocs.io/en/latest/examples.html">doc</a> <a href="https://cairographics.org/">Cairo</a></p> |
+|                                                                                                                                                                                                                                                                                                                         |
 
 ## 小学
 
@@ -426,6 +452,11 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 微积分 - 北京理工大学-徐厚宝、李翠哲、毛京中等 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5DTRjpBGS8kPZLphMqdul7c)                                                                                                                                                                                                   |
 | 微積分(Calculus) [TC Lin](https://www.youtube.com/playlist?list=PLHpm7X23eVtJTfnS1zUSgUzeocwIUpzpt)                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                               |
+| Calculus I (Limits, Derivative, Integrals) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)                                                                                                                                                          |
+| Calculus II (Integration Methods, Series, Parametric/Polar, Vectors) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)                                                                                                                                |
+| Calculus III: Multivariable Calculus (Vectors, Curves,  Partial Derivatives, Multiple Integrals, Optimization, etc) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc\_CvEy7xBKRQr6I214QJcd)                                                                                |
+| Calculus IV: Vector Calculus (Line Integrals, Surface Integrals, Vector Fields, Greens' Thm, Divergence Thm, Stokes Thm, etc) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)                                                                       |
+|                                                                                                                                                                                                                                                                                                               |
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
 | YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                                                                                                                                                                                          |
 | PreCalculus Full Course For Beginners　[Geek's Lesson](https://www.youtube.com/watch?v=9IOTI9ViExg)                                                                                                                                                                                                            |
@@ -444,6 +475,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Lines and Planes in Three Dimensions [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyUCno-665AM-zTJtNkShqw)         |
 | Common Surfaces in Multivariable Calculus [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqybegYmca\_8wpuffgkoeT3x)   |
 | Multivariable Calculus \| Surface Integrals [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzzQGucq-NmRjD9yXqs\_9i3) |
+| MIT 18.02 Multivariable Calculus, Fall 2007 MIT [OpenCourseWare](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)            |
 
 ### 实变函数 Real Analysis
 
@@ -521,15 +553,18 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |
 | Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |
 | 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                  |
+| 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                         |
+| 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                      |
 
 ### 概率 Probability
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| [北京大学 何书元 概率论](https://www.youtube.com/playlist?list=PLvg2RutqSPrLfsM9g4wFc2Qd0lCdg7rKQ)(Mark Song)                             |
-| Probability Primer [mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)                                 |
-| CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U) |
-|                                                                                                                                 |
+|                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [北京大学 何书元 概率论](https://www.youtube.com/playlist?list=PLvg2RutqSPrLfsM9g4wFc2Qd0lCdg7rKQ)(Mark Song)                                                         |
+| Probability Primer [mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)                                                             |
+| CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U)                             |
+| MIT 6.041SC Probabilistic Systems Analysis and Applied Probability [Scientia123](https://www.youtube.com/playlist?list=PL1hbqINXWn50aCBOC4x0VOblmkfJe\_njn) |
+|                                                                                                                                                             |
 
 ### 大数定律和中心极限定理
 
@@ -586,6 +621,16 @@ $$
 | SPSS for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ZpwZS3XnEZA)                                                                                                       |
 | 南开大学 试验设计 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDWlL7KlsQ2AwavFXpQvSdq)                                                                                                 |
 | 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                              |
+| 用Python学习统计 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD)                                                                                                |
+| keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
+
+#### 假设检验
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ### 随机过程 Stochastic processes
 
@@ -653,7 +698,15 @@ $$
 
 
 
-### 解析几何
+### 解析几何&#x20;
+
+### 代数几何 Algebraische Geometrie
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| Algebraische Geometrie [MATHEKANAL](https://www.youtube.com/playlist?list=PLho3wDE1H4WOq6klg5cbRB7ipNEmPV4ab) |
+|                                                                                                               |
+|                                                                                                               |
 
 ### 高等几何
 
@@ -673,6 +726,7 @@ $$
 | 微分几何(贺群)(同济大学)(96讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGZjLC4FlubdFCPaOO-ywWql)                       |
 | Differential Geometry [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) |
 | 香蕉皮能展成平面吗？微分几何之高斯绝妙定理　[李永乐老师](https://www.youtube.com/watch?v=mh\_gjwSXTVg)                                                 |
+| 向量分析/微分幾何 [鍾孟岳](https://www.youtube.com/playlist?list=PLNDrgrPFAMKrBUJ8jd8o8OveI6k2RHYGf)                                   |
 
 ### 分形几何 Fractal Geometry
 
@@ -737,7 +791,8 @@ $$
 | MIT 6.042J Mathematics for Computer Science, Spring 2015　[MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj\_KNphQ)                 |
 | 图算法 Graph Algorithms [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnsbnIIbX6ywvD8OZUTT0\_ID)                                                            |
 | “马”能不重复的走遍整个象棋盘吗？图论之骑士巡游问题 [李永乐老师](https://www.youtube.com/watch?v=IzhEc0oaRBc)                                                                                          |
-| 哥尼斯堡七桥问题：什么样的图形可以一笔画？ 李永乐老师[https://www.youtube.com/watch?v=QsMycO8B4M0](https://www.youtube.com/watch?v=QsMycO8B4M0)                                                    |
+| 哥尼斯堡七桥问题：什么样的图形可以一笔画？ [李永乐老师](https://www.youtube.com/watch?v=QsMycO8B4M0)                                                                                               |
+| Advanced Graph Theory [Computer Science and Engineering](https://www.youtube.com/playlist?list=PLJ5C\_6qdAvBF0v3uOhAeDbuCv-Qq9xKj5)                                      |
 
 ## 拓扑学 Topology
 
@@ -889,6 +944,12 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 
 ### 常微分方程 Ordinary Differential Equations, ODE
 
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh) |
+|                                                                                                        |
+|                                                                                                        |
+
 ### 拉普拉斯变换 Laplace Transform
 
 |                                                                                                                                                   |
@@ -919,14 +980,25 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | Social Networks [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L)                                                      |
 | 数学建模-谭忠（厦门大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZZd1pfsQd0OtXRjFjJorbo)                                                           |
 | 清风：数学建模视频全套【已完结！】[红烧马化腾](https://www.youtube.com/playlist?list=PLvce\_oy4ggsHzrmgBz8vwQqRmezDOzo1N) [bdy](https://pan.baidu.com/s/1FqUnJjeHsbcFESPJuDy64Q) 1y2r |
+| 论文写作技巧的视频 [B](https://www.bilibili.com/video/av59423231)                                                                                                        |
+| 作业讲解的视频 [B](https://www.bilibili.com/video/av85118120)                                                                                                          |
 
-### 生命游戏
+### 生命游戏 Game Of Life
 
-|                                                                                                         |
-| ------------------------------------------------------------------------------------------------------- |
-| Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)                         |
-| Coding Challenge #85: The Game of Life [The Coding Train](https://www.youtube.com/watch?v=FWSR\_7kZuYg) |
-|                                                                                                         |
+与元胞自动机有很大的关联
+
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| [playgameoflife.com](https://playgameoflife.com/)                                                           |
+| Math Has a Fatal Flaw [Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)                             |
+| Coding Challenge #85: The Game of Life [The Coding Train](https://www.youtube.com/watch?v=FWSR\_7kZuYg)     |
+| Conway's Game of Life in Python [NeuralNine](https://www.youtube.com/watch?v=cRWg2SWuXtM)                   |
+| 當你被計算機認為是廢物時，你猜它會對你做什麽？[barry看世界](https://www.youtube.com/watch?v=GwjYl4ITltQ)                              |
+| Hexagonal Game Of Life [Woltvint Němeček](https://www.youtube.com/watch?v=5CH-v79IdfQ)                      |
+| Particle Life - A Game of Life Made of Particles [CodeParade](https://www.youtube.com/watch?v=Z\_zmZ23grXE) |
+| Turing Complete Conway's Game Of Life - Glider [kruv](https://www.youtube.com/watch?v=lVRTl83b4sM)          |
+| 深度学习和元胞自动机有什么关系？会给编程带来什么样的颠覆性改变？ [王木头学科学](https://www.youtube.com/watch?v=cSP0X5fFLJ4)                      |
+|                                                                                                             |
 
 ## 运筹学
 
@@ -958,7 +1030,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | 博弈论 [李永乐老师](https://www.youtube.com/playlist?list=PLOrDt87s8A3qxPWhuKINN0I3ftdTcpjPm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 《博弈论诡计全集》告诉你什么是人类最安全的社会模式 [米娅要好好读书](https://www.youtube.com/watch?v=0BSJHwWllEo)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | July 2019 - Game Theory [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fY-Vh8Caiv3wAYmDd7SnrN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| [帆船博弈](https://www.douyin.com/video/7031160604190706957)　                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 帆船博弈 [赵玉平老师人生课](https://www.douyin.com/video/7034444491532569863)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Game Theory Tutorial: Static Games [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ1CK2QsjYiZgH923z05-tT)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 混沌理论 Chaos Theory
@@ -1068,6 +1140,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 实用密码学 [极客时间](https://time.geekbang.org/column/intro/369)                                                                                       |
 | 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                  |
 | Predicting Crypto Prices in Python [NeuralNine](https://www.youtube.com/watch?v=GFSiL6zEZF0)                                                   |
+| 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                     |
 
 ### 哈希
 
@@ -1141,17 +1214,18 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## Famous Unsolved Problems
 
-|                                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)                                                                                                                                                                                                                                                |
-| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf)                                                                                                                                                                                                                                  |
-| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                                                                                                                                                                                                                        |
-| <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p>                                                                                                                                                                                           |
-| 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                                                                                                                                                                                                                        |
-| 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                                                                                                                                                                                                                   |
-| 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                                                                                                                                                                                                            |
-| 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                                                                                                                                                                                                               |
-| <p><a href="https://www.claymath.org/millennium-problems">七大数学难题</a> Millennium Problems <a href="https://www.claymath.org">美国克雷数学研究所</a> 2000 <a href="https://www.youtube.com/watch?v=vO8q_MymDhw&#x26;t=11s">v</a></p><p>杨-米尔斯存在性和质量缺口</p><p>黎曼假设/黎曼猜想？</p><p>NP完全问题</p><p>纳卫尔-斯托可方程的存在性与光滑性</p><p>霍奇猜想</p><p>庞加莱猜想</p><p>Birch 和 Swinnerton-Dyer 猜想</p> |
+|                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Famous Unsolved Problems [Aleph 0](https://www.youtube.com/playlist?list=PLubjStKq8DlJ1EG3bVxOkK4HTt9yWrMae)                                                                                                                                                                                                                                                 |
+| Famous Math Problems [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85Bfc-S4WHvTIM7E-ir3nAOf)                                                                                                                                                                                                                                   |
+| The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                                                                                                                                                                                                                         |
+| <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p>                                                                                                                                                                                            |
+| 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                                                                                                                                                                                                                         |
+| 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                                                                                                                                                                                                                    |
+| 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                                                                                                                                                                                                             |
+| 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                                                                                                                                                                                                                |
+| Millennium Problems [UHCL Math Center](https://www.youtube.com/playlist?list=PLr1ycqeEZMLtDUNUjWId-1WKl4ZzTKOEL)                                                                                                                                                                                                                                             |
+| <p><a href="https://www.claymath.org/millennium-problems">七大数学难题</a> Millennium Problems <a href="https://www.claymath.org/">美国克雷数学研究所</a> 2000 <a href="https://www.youtube.com/watch?v=vO8q_MymDhw&#x26;t=11s">v</a></p><p>杨-米尔斯存在性和质量缺口</p><p>黎曼假设/黎曼猜想？</p><p>NP完全问题</p><p>纳卫尔-斯托可方程的存在性与光滑性</p><p>霍奇猜想</p><p>庞加莱猜想</p><p>Birch 和 Swinnerton-Dyer 猜想</p> |
 
 ### NP完全问题 NP Hard
 

@@ -8,6 +8,7 @@ description: 自然语言处理
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | nltk([s](http://www.nltk.org), )                              | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
 | github /topics/[synonyms](https://github.com/topics/synonyms) | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
+|                                                               | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
 
 ## 平台
 
@@ -20,10 +21,10 @@ description: 自然语言处理
 
 ## 数据集
 
-|                                                                            |                                  |
-| -------------------------------------------------------------------------- | -------------------------------- |
-| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) | 句子汇 [s](http://www.juzih.com)    |
-|                                                                            | 二七美文阅读网 [s](http://www.nl27.com) |
+|                                                                            |                                   |
+| -------------------------------------------------------------------------- | --------------------------------- |
+| [**MetaLWOz**](https://www.microsoft.com/en-us/research/project/metalwoz/) | 句子汇 [s](http://www.juzih.com/)    |
+|                                                                            | 二七美文阅读网 [s](http://www.nl27.com/) |
 
 ## **算法**
 
@@ -106,6 +107,9 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ai工程师-自然语言处理实战 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1209076816)                                                                                                                                                       |
+| Stanford Seminar - Emerging risks and opportunities from large language models [Stanford Online](https://www.youtube.com/watch?v=p6\_X5Ei9C9s)                                                                                                |
+| 自然语言处理技术专场 [Watching IT Conference](https://www.youtube.com/watch?v=9TZtIwDbEY8\&list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI\&index=73)  阿里云栖2017-杭州                                                                                           |
 | 中科院 宗成庆 自然语言处理公开课（64集）[科皮子菊](https://www.bilibili.com/video/BV1Cb411T7Cd)   [讲义](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)                                                                                 |
 | NLP [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfNSksORUz5xzlI79AVtAkz)                                                                                                                                          |
 | Natural Language Processing in Python [PyOhio](https://www.youtube.com/watch?v=xvqsFTUsOmc)                                                                                                                                                   |
@@ -171,12 +175,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 分词
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U)              |
-| Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                                          |
-| HanLP：面向生产环境的自然语言处理工具包 [s](https://hanlp.hankcs.com) hankcs/[pyhanlp](https://github.com/hankcs/pyhanlp) |
-|                                                                                                          |
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U)               |
+| Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                                           |
+| HanLP：面向生产环境的自然语言处理工具包 [s](https://hanlp.hankcs.com/) hankcs/[pyhanlp](https://github.com/hankcs/pyhanlp) |
+|                                                                                                           |
 
 ### POS 词性标注
 
@@ -220,9 +224,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Simple GUI Chat in Python [NeuralNine](https://www.youtube.com/watch?v=sopNW98CRag)                                                                                                                                                                                                            |
 | Python ChatBot Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q)                                                                                                                                                                              |
 | 如何打造你自己的聊天机器人 [集智学园](https://campus.swarma.org/course/182)                                                                                                                                                                                                                                     |
-| Chatopera 机器人平台 [Chatopera Inc.](https://www.youtube.com/playlist?list=PLh\_KT9y7mpqbDnx7NUt2pHESmWlgsD33M)   [s](https://bot.chatopera.com)   [git](https://github.com/chatopera)   [doc](https://docs.chatopera.com)                                                                         |
+| Chatopera 机器人平台 [Chatopera Inc.](https://www.youtube.com/playlist?list=PLh\_KT9y7mpqbDnx7NUt2pHESmWlgsD33M)   [s](https://bot.chatopera.com/)   [git](https://github.com/chatopera)   [doc](https://docs.chatopera.com/)                                                                       |
 | chatopera/[clause](https://github.com/chatopera/clause) 聊天机器人，自然语言理解，语义理解                                                                                                                                                                                                                      |
-| rasa [s](https://rasa.com) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                 |
+| rasa [s](https://rasa.com/) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                |
+| \[線上讀書會] 尹相志 主講 賦予chatbot語言能力：深度自然語言理解 [hsiang an chi](https://www.youtube.com/watch?v=E-knCZ0egKQ)                                                                                                                                                                                            |
+| 線上 chatbot 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zcDxkNSC0A2T-L1-zod-GMw)                                                                                                                                                                                       |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -230,11 +236,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | UNIT使用技巧与持续优化 [v](https://abcxueyuan.baidu.com/#/course\_detail?id=14760\&courseId=14760) |
 |                                                                                           |
 
-|                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p>I Made a Bot that Knows EVERYTHING! <a href="https://www.youtube.com/watch?v=6laeV_9xGKo">Jabrils</a></p><p>Sam Says Sweet Sounds <a href="http://www.samsayssweetsounds.com">s</a></p> |
-| SnatchBot [s](https://zh.snatchbot.me)                                                                                                                                                     |
-|                                                                                                                                                                                            |
+|                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>I Made a Bot that Knows EVERYTHING! <a href="https://www.youtube.com/watch?v=6laeV_9xGKo">Jabrils</a></p><p>Sam Says Sweet Sounds <a href="http://www.samsayssweetsounds.com/">s</a></p> |
+| SnatchBot [s](https://zh.snatchbot.me/)                                                                                                                                                     |
+|                                                                                                                                                                                             |
 
 | QQ机器人                                                                                             |
 | ------------------------------------------------------------------------------------------------- |
@@ -244,12 +250,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | tencent-connect/[bot-node-sdk](https://github.com/tencent-connect/bot-node-sdk)   QQ频道机器人 NODESDK |
 | 酷Q管理机器人，智能聊天机器人，智能好帮手\~ [船长Debug](https://www.youtube.com/watch?v=SCtQP6rJvdw)                    |
 | 轻松上手！Python编程实现【QQ 聊天机器人】nonebot+酷Q+Docker [蓝色科技](https://www.youtube.com/watch?v=Tpb-ZuOQyLo)    |
-| NoneBot [s](https://docs.nonebot.dev) [v2](https://v2.nonebot.dev)                                |
+| NoneBot [s](https://docs.nonebot.dev/) [v2](https://v2.nonebot.dev/)                              |
 | nonebot/[nonebot](https://github.com/nonebot/nonebot) 基于 OneBot 标准的 Python 异步 QQ 机器人框架            |
 | nonebot/[nonebot2](https://github.com/nonebot/nonebot2) 跨平台 Python 异步机器人框架                        |
 | 5分钟实战QQ机器人教程(保姆级) [代码狂魔](https://zhuanlan.zhihu.com/p/348381026)                                  |
 | 2021可用的QQ机器人框架【整合】[ShintoKosei](https://www.bilibili.com/read/cv12039408)                         |
-| mamoe/[mirai](https://github.com/mamoe/mirai) 高效率 QQ 机器人支持库 [s](https://mirai.mamoe.net)          |
+| mamoe/[mirai](https://github.com/mamoe/mirai) 高效率 QQ 机器人支持库 [s](https://mirai.mamoe.net/)         |
 |                                                                                                   |
 |                                                                                                   |
 
@@ -264,8 +270,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Facebook Messenger Bot                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Messenger 平台 [s](https://developers.facebook.com/docs/messenger-platform)                                                                                                                   |
-| ManyChat [u](https://www.youtube.com/c/ManyChat/playlists) [s](https://manychat.com)                                                                                                        |
-| CodelessBot [u](https://www.youtube.com/c/CodelessBot/playlists) [s](https://www.codelessbot.com)                                                                                           |
+| ManyChat [u](https://www.youtube.com/c/ManyChat/playlists) [s](https://manychat.com/)                                                                                                       |
+| CodelessBot [u](https://www.youtube.com/c/CodelessBot/playlists) [s](https://www.codelessbot.com/)                                                                                          |
 | How to create a Messenger Bot [Meta Developers](https://www.youtube.com/watch?v=4NG2WqLYV-A) [s](https://developers.facebook.com/docs/messenger-platform/getting-started/sample-experience) |
 |                                                                                                                                                                                             |
 
@@ -333,7 +339,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
 | letiantian/[TextRank4ZH](https://github.com/letiantian/TextRank4ZH)  从中文文本中自动提取关键词和摘要 |
-| paper-digest [s](http://www.paper-digest.com)                                         |
+| paper-digest [s](http://www.paper-digest.com/)                                        |
 |                                                                                       |
 
 ### 词法分析
@@ -356,7 +362,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ML News] De-Biasing GPT-3 \| RL cracks chip design \| NetHack challenge \| Open-Source GPT-J [Yannic Kilcher](https://www.youtube.com/watch?v=Ihg4XDWOy68)  |
 | GPT-3: Language Models are Few-Shot Learners (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=SY5PvZrJhLE)                                  |
-| [https://copilot.github.com/](https://copilot.github.com)                                                                                                     |
+| [https://copilot.github.com/](https://copilot.github.com/)                                                                                                    |
 | The Truth about Github Copilot // AI Programming First Look [Fireship](https://www.youtube.com/watch?v=4duqI8WyfqE)                                           |
 | Trying GitHub Copilot: Will it take our jobs? [Better Dev](https://www.youtube.com/watch?v=PNa6JECMS8A)                                                       |
 | Please Don't Use GitHub Copilot [Engineer Man](https://www.youtube.com/watch?v=b9u3ZAGQmT0)                                                                   |
@@ -418,12 +424,12 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 #### DeepMind AlphaCode
 
-|                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)   [Demo](https://alphacode.deepmind.com)   [Paper](https://storage.googleapis.com/deepmind-media/AlphaCode/competition\_level\_code\_generation\_with\_alphacode.pdf) |
-| Competitive programming with AlphaCode [Coding Epocs](https://www.youtube.com/watch?v=Z57qqHwQi5Q)                                                                                                                                                 |
-| AlphaCode Explained: AI Code Generation [Edan Meyer](https://www.youtube.com/watch?v=t3Yh56efKGI)                                                                                                                                                  |
-| Generating Python code with GPT [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdKvPge9PXQtFzvhMRyFPhW)                                                                                                                                |
+|                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)   [Demo](https://alphacode.deepmind.com/)   [Paper](https://storage.googleapis.com/deepmind-media/AlphaCode/competition\_level\_code\_generation\_with\_alphacode.pdf) |
+| Competitive programming with AlphaCode [Coding Epocs](https://www.youtube.com/watch?v=Z57qqHwQi5Q)                                                                                                                                                  |
+| AlphaCode Explained: AI Code Generation [Edan Meyer](https://www.youtube.com/watch?v=t3Yh56efKGI)                                                                                                                                                   |
+| Generating Python code with GPT [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdKvPge9PXQtFzvhMRyFPhW)                                                                                                                                 |
 
 ## 知识点
 
@@ -457,7 +463,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | JiangYanting [git](https://github.com/JiangYanting?tab=repositories)                                          |
 | 百度自然语言处理开放接口使用代码 [代码先锋网](https://www.codeleading.com/article/7838541865/)                                     |
 | 100个直接上手可用的Colab Notebooks，NLP开发者的宝库没错了 [机器之心](https://www.jiqizhixin.com/articles/2020-04-28-13)             |
-| The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com)                                     |
+| The Super Duper NLP Repo [quantumstat](https://notebooks.quantumstat.com/)                                    |
 | brightmart/[nlp\_chinese\_corpus](https://github.com/brightmart/nlp\_chinese\_corpus)   大规模中文自然语言处理语料         |
 | chatopera/[Synonyms](https://github.com/chatopera/Synonyms)  🌿 中文近义词：聊天机器人，智能问答工具包                           |
 | blmoistawinde/[HarvestText](https://github.com/blmoistawinde/HarvestText) 文本挖掘和预处理工具                          |

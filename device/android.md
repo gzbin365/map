@@ -4,7 +4,7 @@
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                     |
 | **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) |
-| Android 开发者 [s](https://developer.android.com)                                      |                                                                                                                 |
+| Android 开发者 [s](https://developer.android.com/)                                     |                                                                                                                 |
 
 ## Android
 
@@ -71,6 +71,7 @@
 
 |                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| app制作 [人生交易](https://www.youtube.com/playlist?list=PLop9TC7iYkQ69rtDqrzggKiDOy8SHmDc\_)                                                                                                  |
 | 新闻类APP项目设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbdv87AF8nQz7w2pfJNvGwG)                                                                                             |
 | 使用Angularjs开发Web App [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbV9I2KieLn3GeMrLZX8JrF)                                                                                   |
 | MUI项目实训 社交APP的设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbHtRB6UCR978t3-OBY6W6m)                                                                                       |

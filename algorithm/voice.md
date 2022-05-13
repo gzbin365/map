@@ -1,8 +1,8 @@
 ---
-description: 语音
+description: 语音 音频 Voice speech
 ---
 
-# Voice
+# Audio
 
 [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
@@ -16,23 +16,32 @@ Python实现语音合成 **** [zminoooooo](https://www.bilibili.com/video/BV1gu4
 
 Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/)
 
-|                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Valerio Velardo - The Sound of AI([u](https://www.youtube.com/c/ValerioVelardoTheSoundofAI/featured), [medium](https://medium.com/the-sound-of-ai), [linkedin](https://www.linkedin.com/in/valeriovelardo), [fb](https://www.facebook.com/TheSoundOfAI), [s](https://valeriovelardo.com), )                   |
-| Deep Learning (for Audio) with Python([ulist](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf), )                                                                                                                                                                                    |
-| speech recognition [pixeldev](https://www.youtube.com/playlist?list=PLsaLbFPkNd55uUF-MpQ7RtldorYYR\_CeT)                                                                                                                                                                                                      |
-| [讯飞听见](https://www.iflyrec.com)                                                                                                                                                                                                                                                                               |
-| Audacity [s](https://www.audacityteam.org) [v](https://www.youtube.com/watch?v=P30suV1UdSY) [doc](https://manual.audacityteam.org/#) shop 音频处理软件 [v](https://www.youtube.com/playlist?list=PLlKpQrBME6xKm9iJlVHWbJd\_xAvtAQy6W) [v](https://www.youtube.com/playlist?list=PLMoVDOzX4VcQGOySLj7TO3ab0g1eIzJYq) |
-| aeneas s [git](https://github.com/readbeyond/aeneas) [doc](https://www.readbeyond.it/aeneas/) 用于自动同步音频和文本（也称为强制对齐）的工具                                                                                                                                                                                         |
-| 音频处理\|adobe audition cc 2020\|零基础教程 [长安老张](https://www.youtube.com/playlist?list=PLnIffqrKafFuF7r4aej24Zg2X0drpEc5e)                                                                                                                                                                                          |
-| 音频编辑处理\|Adobe Audition CC 2019\|零基础教程 [长安老张](https://www.youtube.com/playlist?list=PLnIffqrKafFszIyQmLnHDhfpVExbtoYGp)                                                                                                                                                                                        |
-| 文字转语音--让机器语音像人类一样自然真实 [长安老张](https://www.youtube.com/watch?v=SdhLawZEr1I)                                                                                                                                                                                                                                     |
-| Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                                                                                                                       |
-| Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                        |
-| Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                            |
-| speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io) [s](https://www.zhihu.com/question/266242493)                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 深度学习-语音识别实战(Python) [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210361865)                                                                                                                                                                                                                 |
+| Valerio Velardo - The Sound of AI([u](https://www.youtube.com/c/ValerioVelardoTheSoundofAI/featured), [medium](https://medium.com/the-sound-of-ai), [linkedin](https://www.linkedin.com/in/valeriovelardo), [fb](https://www.facebook.com/TheSoundOfAI), [s](https://valeriovelardo.com), )                  |
+| Deep Learning (for Audio) with Python([ulist](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf), )                                                                                                                                                                                   |
+| speech recognition [pixeldev](https://www.youtube.com/playlist?list=PLsaLbFPkNd55uUF-MpQ7RtldorYYR\_CeT)                                                                                                                                                                                                     |
+| [讯飞听见](https://www.iflyrec.com/)                                                                                                                                                                                                                                                                             |
+| Audacity [s](https://www.audacityteam.org/) [v](https://www.youtube.com/watch?v=P30suV1UdSY) [doc](https://manual.audacityteam.org) shop 音频处理软件 [v](https://www.youtube.com/playlist?list=PLlKpQrBME6xKm9iJlVHWbJd\_xAvtAQy6W) [v](https://www.youtube.com/playlist?list=PLMoVDOzX4VcQGOySLj7TO3ab0g1eIzJYq) |
+| aeneas s [git](https://github.com/readbeyond/aeneas) [doc](https://www.readbeyond.it/aeneas/) 用于自动同步音频和文本（也称为强制对齐）的工具                                                                                                                                                                                        |
+| 音频处理\|adobe audition cc 2020\|零基础教程 [长安老张](https://www.youtube.com/playlist?list=PLnIffqrKafFuF7r4aej24Zg2X0drpEc5e)                                                                                                                                                                                         |
+| 音频编辑处理\|Adobe Audition CC 2019\|零基础教程 [长安老张](https://www.youtube.com/playlist?list=PLnIffqrKafFszIyQmLnHDhfpVExbtoYGp)                                                                                                                                                                                       |
+| 文字转语音--让机器语音像人类一样自然真实 [长安老张](https://www.youtube.com/watch?v=SdhLawZEr1I)                                                                                                                                                                                                                                    |
+| Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                                                                                                                      |
+| Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                       |
+| Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                           |
+| speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io/) [s](https://www.zhihu.com/question/266242493)                                                                                                                     |
 
 ***
+
+## Audio Classify
+
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| Build a Deep Audio Classifier with Python and Tensorflow [Nicholas Renotte](https://www.youtube.com/watch?v=ZLIPkmmDJAc) |
+| MIT 6.S191: Automatic Speech Recognition [Alexander Amini](https://www.youtube.com/watch?v=sR6\_bZ6VkAg)                 |
+|                                                                                                                          |
 
 ## **Speech to Text /** Speech Recognition
 
@@ -63,14 +72,14 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| VoiceMaker [s](https://voicemaker.in) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                          |
+| VoiceMaker [s](https://voicemaker.in/) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                         |
 | NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                                            |
 | narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming                          |
 | play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                                              |
 | IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                                                  |
 | chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                                          |
-| imtranslator [s](https://text-to-speech.imtranslator.net) 一般                                                                                                    |
-| Kukarella [v](https://www.youtube.com/watch?v=a6bVPAz2L3s) [s](https://kukarella.com)                                                                           |
+| imtranslator [s](https://text-to-speech.imtranslator.net/) 一般                                                                                                   |
+| Kukarella [v](https://www.youtube.com/watch?v=a6bVPAz2L3s) [s](https://kukarella.com/)                                                                          |
 | 百度 api    paddlepaddle/[PaddleSpeech](https://gitee.com/paddlepaddle/PaddleSpeech)                                                                              |
 | Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux                                     |
 | ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                              |
@@ -85,8 +94,10 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Ekho [s](https://www.eguidedog.net/ekho.php) [git](https://github.com/hgneng/ekho) 支持linux [为Ekho添加新的声音](http://eguidedog.net/doc/doc\_make\_new\_voice\_cn.php)  [linuxInstall](https://www.eguidedog.net/doc/doc\_install\_ekho.php) [2](https://blog.csdn.net/cceking/article/details/51760732)  [编译安装](https://blog.csdn.net/AMDS123/article/details/73825409) |
 | TTS技术简单介绍和Ekho（余音）TTS的安装与编程 [csdn](https://blog.csdn.net/zouxy09/article/details/7909154)                                                                                                                                                                                                                                                                          |
+| Cloud Text-to-Speech Google Cloud                                                                                                                                                                                                                                                                                                                                  |
 | gTTS (Google Text-to-Speech) [doc](https://gtts.readthedocs.io/en/latest/) [git](https://github.com/pndurette/gTTS)                                                                                                                                                                                                                                                |
 | 自定义声音模型  📱文字转语音--先从克隆自己的声音开始\|20分钟合成自己的声音 [长安老张](https://www.youtube.com/watch?v=X3opZ6-tb-o)                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

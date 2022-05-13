@@ -45,6 +45,7 @@
 | Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8)              |
 | Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
 | Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
+| Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
 
 ## C\#
 
@@ -170,10 +171,10 @@
 
 ## Unity
 
-|                                                           |                                                                                                                           |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) [s](https://unity.com) [D](https://unity3d.com/get-unity/download) |
-|                                                           | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                        |
+|                                                           |                                                                                                                            |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) [s](https://unity.com/) [D](https://unity3d.com/get-unity/download) |
+|                                                           | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                         |
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -471,11 +472,11 @@
 
 ### 镜像
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| HelloWindows [s](https://hellowindows.cn) [v](https://www.douyin.com/video/7024725392409890051) |
-|                                                                                                 |
-|                                                                                                 |
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051) |
+|                                                                                                  |
+|                                                                                                  |
 
 ### Windows 10
 
@@ -563,29 +564,29 @@
 | ------------------------------------------------------- | - |
 | kilObit [u](https://www.youtube.com/c/kil0bit/featured) |   |
 
-|                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 编代码 中文网 [s](http://biandaima.cn) 江湖程序员 抖音号： [python\_tutor](https://www.douyin.com/user/MS4wLjABAAAAqADAL5wghire-dF7hWwu3WWTDsnqppO-a8hdebWXhjY\_lZmn\_FAjTNZsuYj8aGDu)                                       |
-| 3 years of Computer Science in 8 minutes [Devon Crawford](https://www.youtube.com/watch?v=ReVeUvwTGdU)                                                                                                        |
-| 二维码 How Barcodes Work [In One Lesson](https://www.youtube.com/watch?v=e6aR1k-ympo)                                                                                                                            |
-| 💻 - See How 🅻🅲🅳 Pixels Work [In One Lesson](https://www.youtube.com/watch?v=0B79dGR19Tg)                                                                                                                  |
-| 盲文 ⠃⠗⠇ - Learn Braille [In One Lesson](https://www.youtube.com/watch?v=sqQ3gdE7ks0)                                                                                                                           |
-| Structure and Interpretation of a Computer Revolution [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcfcnpf79R9f80bqjMvsOpeg)                                                               |
-| UML Diagrams Full Course (Unified Modeling Language) [freeCodeCamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)                                                                                              |
-| Fundamental of IT - Complete Course \|\| IT course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=awLnur5Yt9o)                                                                                 |
-| zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                                                                                    |
-| IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                                                                                |
-| The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                                                                                      |
-| Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                                                                                       |
-| Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                                                                                             |
-| 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                                                                                          |
-| Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                                                                                   |
-| 程序员变量命名神器 [v](https://www.douyin.com/video/7039691907366259982) [s](http://rcode.rbtree.cn) Codelf [s](https://unbug.github.io/codelf/) [b](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/85219501) |
-| Internet History, Technology, and Security - Full Course from Dr. Chuck [freeCodeCamp](https://www.youtube.com/watch?v=47NRaBVxgVM)                                                                           |
-| Coding Graphics in TempleOS is Too Easy [Tsoding Daily](https://www.youtube.com/watch?v=d3eFHyryopQ)                                                                                                          |
-| 大飞哥软件自修室 [廉飞](https://www.youtube.com/playlist?list=PLZQLVcDnH2VzPYje9ggsF8SDPigug102J) [B](https://space.bilibili.com/286436365)                                                                             |
-| 谈谈 Code Review [谢龙](https://zhuanlan.zhihu.com/p/21429639)                                                                                                                                                    |
-| 单元测试到底是什么？应该怎么做？ [zh](https://www.zhihu.com/question/28729261)                                                                                                                                                |
-| coder2gwy/[coder2gwy](https://github.com/coder2gwy/coder2gwy)   互联网首份程序员考公指南                                                                                                                                  |
-| chengyi/[BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer)   程序员相亲指南                                                                                                       |
-| <p>字节、字、位、比特，这四者之间的关系 <a href="https://blog.csdn.net/cx_wzp/article/details/8104224">csdn</a></p><p>1个字节等于8个比特（1Byte=8bit）</p>                                                                                |
+|                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 编代码 中文网 [s](http://biandaima.cn/) 江湖程序员 抖音号： [python\_tutor](https://www.douyin.com/user/MS4wLjABAAAAqADAL5wghire-dF7hWwu3WWTDsnqppO-a8hdebWXhjY\_lZmn\_FAjTNZsuYj8aGDu)                                       |
+| 3 years of Computer Science in 8 minutes [Devon Crawford](https://www.youtube.com/watch?v=ReVeUvwTGdU)                                                                                                         |
+| 二维码 How Barcodes Work [In One Lesson](https://www.youtube.com/watch?v=e6aR1k-ympo)                                                                                                                             |
+| 💻 - See How 🅻🅲🅳 Pixels Work [In One Lesson](https://www.youtube.com/watch?v=0B79dGR19Tg)                                                                                                                   |
+| 盲文 ⠃⠗⠇ - Learn Braille [In One Lesson](https://www.youtube.com/watch?v=sqQ3gdE7ks0)                                                                                                                            |
+| Structure and Interpretation of a Computer Revolution [Colin Reckons](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcfcnpf79R9f80bqjMvsOpeg)                                                                |
+| UML Diagrams Full Course (Unified Modeling Language) [freeCodeCamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)                                                                                               |
+| Fundamental of IT - Complete Course \|\| IT course for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=awLnur5Yt9o)                                                                                  |
+| zenghongtu/PPet [桌面宠物](https://github.com/zenghongtu/PPet)                                                                                                                                                     |
+| IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                                                                                                                 |
+| The cow programming language [Khalili Oriented Programming](https://www.youtube.com/watch?v=px2aSX02pqE)                                                                                                       |
+| Hello, World Program in 35 Languages [Easy Learn Tutorial](https://www.youtube.com/watch?v=zecueq-mo4M)                                                                                                        |
+| Can you code on a phone? - Mobile Programing Tutorial　[freeCodeCamp](https://www.youtube.com/watch?v=VZ6LifcOXfM)                                                                                              |
+| 看看这些就课程 [黑马架构师铁拐李](https://www.douyin.com/video/7019239293512158471)                                                                                                                                           |
+| Live stream: Coding a visualization tool for a possible future video [Bisqwit](https://www.youtube.com/watch?v=oVyx9L3IGfs)                                                                                    |
+| 程序员变量命名神器 [v](https://www.douyin.com/video/7039691907366259982) [s](http://rcode.rbtree.cn/) Codelf [s](https://unbug.github.io/codelf/) [b](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/85219501) |
+| Internet History, Technology, and Security - Full Course from Dr. Chuck [freeCodeCamp](https://www.youtube.com/watch?v=47NRaBVxgVM)                                                                            |
+| Coding Graphics in TempleOS is Too Easy [Tsoding Daily](https://www.youtube.com/watch?v=d3eFHyryopQ)                                                                                                           |
+| 大飞哥软件自修室 [廉飞](https://www.youtube.com/playlist?list=PLZQLVcDnH2VzPYje9ggsF8SDPigug102J) [B](https://space.bilibili.com/286436365)                                                                              |
+| 谈谈 Code Review [谢龙](https://zhuanlan.zhihu.com/p/21429639)                                                                                                                                                     |
+| 单元测试到底是什么？应该怎么做？ [zh](https://www.zhihu.com/question/28729261)                                                                                                                                                 |
+| coder2gwy/[coder2gwy](https://github.com/coder2gwy/coder2gwy)   互联网首份程序员考公指南                                                                                                                                   |
+| chengyi/[BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer)   程序员相亲指南                                                                                                        |
+| <p>字节、字、位、比特，这四者之间的关系 <a href="https://blog.csdn.net/cx_wzp/article/details/8104224">csdn</a></p><p>1个字节等于8个比特（1Byte=8bit）</p>                                                                                 |
