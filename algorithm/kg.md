@@ -12,6 +12,7 @@ description: 知识图谱
 
 |                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 图神经网络与知识图谱的碰撞 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=uHew6zV3YI8)                                                                                                                                       |
 | 知识图谱专场 [Watching IT Conference](https://www.youtube.com/watch?v=E\_qUf2SYiLA)   [阿里云栖2017-杭州](https://www.youtube.com/playlist?list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI)                                         |
 | 第 9 话：一分钟看懂知识图谱(☆w☆) [Knowing AI](https://www.youtube.com/watch?v=d2ohLXJBykM)                                                                                                                                     |
 | <p>3 3 知识图谱   <a href="https://www.youtube.com/watch?v=vqwZ-VkDtvM">中国大学MOOC-慕课</a></p><p>人工智能：模型与算法-吴飞（浙江大学） <a href="https://www.youtube.com/playlist?list=PLBPbUxsZM4Sbz1dRuYVCrIlkGb0Bk63wS">中国大学MOOC-</a></p> |
