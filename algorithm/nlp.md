@@ -386,7 +386,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
 | \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
 | Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
-|                                                                                                                                                               |
+| Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
 
 ### Causal Inference
