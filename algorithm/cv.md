@@ -77,17 +77,17 @@ pip install mediapipe
 
 import mediapipe as mp
 
-|                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mediapipe [s](https://mediapipe.dev) [s](https://google.github.io/mediapipe/) [git](https://github.com/google/mediapipe) [u](https://www.youtube.com/c/MediaPipe) [doc](https://google.github.io/mediapipe/) |
-| 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                                                           |
-| 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                                                |
-| 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects)                              |
-| AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                                               |
-| Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                                                   |
-| MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                                                    |
-| 【python】OpenCV + MediaPipe 手部追踪 ｜  [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA)   [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)          |
-|                                                                                                                                                                                                              |
+|                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mediapipe [s](https://mediapipe.dev/) [s](https://google.github.io/mediapipe/) [git](https://github.com/google/mediapipe) [u](https://www.youtube.com/c/MediaPipe) [doc](https://google.github.io/mediapipe/) |
+| 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                                                            |
+| 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                                                 |
+| 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects)                               |
+| AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                                                |
+| Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                                                    |
+| MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                                                     |
+| 【python】OpenCV + MediaPipe 手部追踪 ｜  [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA)   [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)           |
+|                                                                                                                                                                                                               |
 
 ### OpenCV
 
@@ -150,18 +150,18 @@ import cv2
 
 ### 风格迁移
 
-|                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- |
-| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com) |
-|                                                                                                      |
-|                                                                                                      |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/) |
+|                                                                                                       |
+|                                                                                                       |
 
 ## 图像修复
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Depix [git](https://github.com/beurtschipper/Depix) [v](https://www.douyin.com/video/7035174419454528781)                                                        |
-| 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg)                                                               |
+| 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg/)                                                              |
 |                                                                                                                                                                  |
 | DeblurGAN [arxiv](https://arxiv.org/pdf/1711.07064.pdf) [git](https://github.com/RaphaelMeudec/deblur-gan) [git](https://github.com/KupynOrest/DeblurGAN) 除去运动模糊 |
 |                                                                                                                                                                  |
@@ -200,16 +200,16 @@ import cv2
 
 ### 分割
 
-|                                                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 图像分割算法实战(深度学习) 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210995809)                                                                                                                          |
-| 面向医学领域的深度学习项目实战 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210953801)                                                                                                                         |
-| 73 - Image Segmentation using U-Net - Part1 (What is U-net?) [DigitalSreeni](https://www.youtube.com/watch?v=azM57JuQpQI)                                                                                            |
-| Image Matting [sota](https://paperswithcode.com/task/image-matting)                                                                                                                                                  |
-| Jiake Xie 谢家柯 [s](https://kelisiya.github.io) [git](https://github.com/kelisiya) [TIMI-Net](https://github.com/kelisiya/TIMI-Net) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN\&user=pD8wUxgAAAAJ) |
-| picup [s](https://www.picup.ai)                                                                                                                                                                                      |
-| U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                               |
-|                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 图像分割算法实战(深度学习) 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210995809)                                                                                                                           |
+| 面向医学领域的深度学习项目实战 唐宇迪 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210953801)                                                                                                                          |
+| 73 - Image Segmentation using U-Net - Part1 (What is U-net?) [DigitalSreeni](https://www.youtube.com/watch?v=azM57JuQpQI)                                                                                             |
+| Image Matting [sota](https://paperswithcode.com/task/image-matting)                                                                                                                                                   |
+| Jiake Xie 谢家柯 [s](https://kelisiya.github.io/) [git](https://github.com/kelisiya) [TIMI-Net](https://github.com/kelisiya/TIMI-Net) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN\&user=pD8wUxgAAAAJ) |
+| picup [s](https://www.picup.ai/)                                                                                                                                                                                      |
+| U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                                |
+|                                                                                                                                                                                                                       |
 
 ### 目标检测 Object Detection
 
@@ -255,13 +255,14 @@ import cv2
 
 ### 人脸识别 Face Detect
 
-|                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                      |
-| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge  |
-| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                          |
-| 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM) [git](https://www.youtube.com/watch?v=xSBqnS1kLGA) |
-| Simple Face Detection in Python [NeuralNine](https://www.youtube.com/watch?v=5cg\_yggtkso)                                                  |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                       |
+| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge   |
+| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                           |
+| 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM) [git](https://www.youtube.com/watch?v=xSBqnS1kLGA)  |
+| Simple Face Detection in Python [NeuralNine](https://www.youtube.com/watch?v=5cg\_yggtkso)                                                   |
+| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10) |
 
 ### OCR
 
@@ -346,7 +347,7 @@ import cv2
 | This Image is Made of Text [The Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI)                                                                                                                       |
 | Fingerprint Matching in Python [NeuralNine](https://www.youtube.com/watch?v=IIvfqfKkiio) 指纹识别                                                                                                                    |
 | NVIDIA Instant Neural Graphics Primitives (nerf) [Dirk Teucher](https://www.youtube.com/watch?v=87h\_P2BXEag)                                                                                                    |
-| OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI)   A python library [s](http://imageai.org) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                       |
+| OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI)   A python library [s](http://imageai.org/) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                      |
 
 <details>
 

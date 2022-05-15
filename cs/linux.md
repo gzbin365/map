@@ -31,12 +31,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## 平台
 
-|                                                                                                |                                                                                                |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **kdenlive(**[**en**](https://kdenlive.org/en/)**,** [**zh**](https://kdenlive.org/zh/)**, )** |                                                                                                |
-| ubuntu one [s](https://login.ubuntu.com)                                                       | ubuntu pastebin [s](https://paste.ubuntu.com) [v](https://www.youtube.com/watch?v=MLkKff4o8zw) |
-|                                                                                                |                                                                                                |
-|                                                                                                |                                                                                                |
+|                                                                                                |                                                                                                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **kdenlive(**[**en**](https://kdenlive.org/en/)**,** [**zh**](https://kdenlive.org/zh/)**, )** |                                                                                                 |
+| ubuntu one [s](https://login.ubuntu.com/)                                                      | ubuntu pastebin [s](https://paste.ubuntu.com/) [v](https://www.youtube.com/watch?v=MLkKff4o8zw) |
+|                                                                                                |                                                                                                 |
+|                                                                                                |                                                                                                 |
 
 ### Linux Distribution / Linux Distros
 
@@ -75,7 +75,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 如何评价GNU Guix? [zh](https://www.zhihu.com/question/323432297)                                    |
 | My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)              |
 | [System Crafters](https://www.youtube.com/watch?v=CEnMzQ9JPtw) Live! - Why Geeks Don't Use Guix |
-|                                                                                                 |
+| GNU操作系统 [s](https://www.gnu.org/gnu/gnu.html)                                                   |
 |                                                                                                 |
 
 ## UP主
@@ -134,6 +134,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux中的update和upgrade分别是更新什么呀? [zh](https://www.zhihu.com/question/21732981) |
 
 ***
+
+## Linux 核心代码
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| sunym1993/[flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)   品读 Linux 0.11 核心代码 |
+|                                                                                                          |
+|                                                                                                          |
 
 ## Shell
 
@@ -202,12 +210,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 |                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-| github.dev                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The github.dev web-based editor [doc](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [s](https://github.dev/github/dev)     |
-| What is GitHub Codespaces? (and github.dev) [ForrestKnight](https://www.youtube.com/watch?v=vDXPkAdqSyI)                                           |
-| VS Code anywhere: GitHub Codespaces and github.dev [Visual Studio Code](https://www.youtube.com/watch?v=c3hHhRME\_XI) [tick.com](https://tick.com) |
-|                                                                                                                                                    |
+| github.dev                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The github.dev web-based editor [doc](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [s](https://github.dev/github/dev)      |
+| What is GitHub Codespaces? (and github.dev) [ForrestKnight](https://www.youtube.com/watch?v=vDXPkAdqSyI)                                            |
+| VS Code anywhere: GitHub Codespaces and github.dev [Visual Studio Code](https://www.youtube.com/watch?v=c3hHhRME\_XI) [tick.com](https://tick.com/) |
+|                                                                                                                                                     |
 
 | 课程                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -276,7 +284,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 好玩的Docker项目 [我不是咕咕鸽](https://www.youtube.com/playlist?list=PLIN0r\_kqXu-6OfHfhXbojSygtVnD5ClgH)                                                           |
 | Dockerizing your python code for cloud execution [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwb7Zy4MCNTvyNQLsYh\_5-Fp)               |
 | Dockerfile和DockerCompose：轻松制作docker image [JimmyCoding](https://www.youtube.com/watch?v=JI9GsupATh0)                                                      |
-|                                                                                                                                                           |
+| 線上 docker 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zeibntIPS8qcC6ke1xmRmBU)                                                   |
+| Build a Machine Learning App From Scratch with Flask & Docker [Python Engineer](https://www.youtube.com/watch?v=S--SD4QbGps)                              |
 |                                                                                                                                                           |
 
 |                                                                      |
@@ -373,6 +382,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Neovim from Scratch [ChrisAtMachine](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)                                               |
 | Vim Snippets Are Next Level [NeuralNine](https://www.youtube.com/watch?v=qspwCdlrfNs)                                                                        |
 | Neovim as a Personal Development Environment - SGVLUG Feb 2022 [San Gabriel Valley Linux Users Group (SGVLUG)](https://www.youtube.com/watch?v=IK\_-C0GXfjo) |
+| Helix Text Editor: Better than Neovim? [DevOnDuty](https://www.youtube.com/watch?v=9Zj-wiQ9\_Xw)                                                             |
+| Neovim [DevOnDuty](https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW)                                                                 |
 
 ## Wine
 
@@ -384,6 +395,13 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | How to Install Wine 6.0.1 on Ubuntu 20.04 \| Wine 6.0.1 Linux Install \| Installing Wine on Ubuntu [TechSolutionZ](https://www.youtube.com/watch?v=TkxjY60mTQE)     |
 |                                                                                                                                                                     |
 |                                                                                                                                                                     |
+
+## PPA
+
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| [Gnome Subtitles PPA](https://launchpad.net/\~pedrocastro/+archive/ubuntu/ppa)    gnomesubtitles [s](https://gnomesubtitles.org/) |
+| Ubuntu PPA 使用指南 [Linux中国](https://zhuanlan.zhihu.com/p/55250294)                                                                  |
 
 ## 小工具
 
