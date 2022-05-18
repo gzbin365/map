@@ -11,4 +11,5 @@
 | Learn It Fast 学快点 [u](https://www.youtube.com/channel/UCQGdLPQ85q\_K7GlwaSZEFCw/playlists)          |
 | Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                              |
 | 土妹土妹 [u](https://www.youtube.com/channel/UCu1lb\_YUHcJFoc7lraETxvQ/playlists)                       |
-|                                                                                                     |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                        |
+| 区块普拉斯 [u](https://www.youtube.com/c/%E5%8C%BA%E5%9D%97%E6%99%AE%E6%8B%89%E6%96%AF/videos)           |
