@@ -117,12 +117,11 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 
 ## Voice Assistant
 
-|                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)                                     |
-| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant                                         |
-| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant)                              |
-| Assistente Vocale Python - Riconoscimento Vocale con Speech Recognition e Pyttsx3 [PitoneProgrammatore](https://www.youtube.com/watch?v=kXiIK1qahsg) |
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)        |
+| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant            |
+| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant) |
 
 <details>
 
