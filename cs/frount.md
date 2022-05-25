@@ -6,6 +6,10 @@
 | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                   | Florin Pop [u](https://www.youtube.com/c/FlorinPop/playlists)                                 |
 | 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) | 野生IT散修 [u](https://www.youtube.com/channel/UCLH9ADYJh3UaqYI554Lm84w/playlists)                |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                 | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)            |
+|                                                                                              | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
+|                                                                                              |                                                                                               |
+|                                                                                              |                                                                                               |
+|                                                                                              |                                                                                               |
 
 | **前端**                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,6 +117,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More [JavaScript Mastery](https://www.youtube.com/watch?v=jx5hdo50a2M)   |
 | React Redux Full Course for Beginners \| Redux Toolkit Complete Tutorial [Dave Gray](https://www.youtube.com/watch?v=NqzdVN2tyvQ)                                        |
 | Fullstack Flask React Tutorial - Master Flask Basics And Build A Python Flask React App \| 2020 HD [THE SHOW](https://www.youtube.com/watch?v=cb1vy1HpVwk)               |
 | React Project Tutorial – Build a Portfolio Website w/ Advanced Animations [freeCodeCamp](https://www.youtube.com/watch?v=bmpI252DmiI)                                    |
