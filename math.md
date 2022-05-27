@@ -60,11 +60,11 @@ description: 用数学充实人生
 
 ## 工具
 
-|                                                                |   |
-| -------------------------------------------------------------- | - |
-| Microsoft Math Solver [s](https://mathsolver.microsoft.com/zh) |   |
-|                                                                |   |
-|                                                                |   |
+|                                                                |                                     |
+| -------------------------------------------------------------- | ----------------------------------- |
+| Microsoft Math Solver [s](https://mathsolver.microsoft.com/zh) | 三维几何画板Math3D [s](http://math3d.cn/) |
+|                                                                |                                     |
+|                                                                |                                     |
 
 ### NetLogo
 
