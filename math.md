@@ -531,6 +531,14 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 【测度论/Measure Theory】【IMPA】Measure Theory by Claudio Landim [Octonions](https://www.bilibili.com/video/BV1EW411K7dN/?spm\_id\_from=333.788.recommend\_more\_video.3) |
 | 音乐与测度论 [3Blue1Brown](https://www.youtube.com/watch?v=cyW5z-M2yzw)                                                                                                   |
 
+### 调和分析
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ### 变分法
 
 |                                                                                                                                                                             |
@@ -542,19 +550,19 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 概率 & 统计
 
-|                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Statistics and Probability(**[**My CS**](https://www.youtube.com/playlist?list=PLqrmzsjOpq5i5YITE2EylhDpBvFcphSbS)**, )**                                                                       |
-| 概率论与数理统计 - 北京交通大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QaZCnYcwENrLwZc7ODDAx7))                                                                                               |
-| 高斯课堂 蜂考《概率论与数理统计》4小时([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKml9WEo4aRWTUSS7VrVAjXOP), [高adminar](https://www.youtube.com/playlist?list=PLXiGKg3oo9C312bKVKfNVbZa8M7glUoK1), ) |
-| [Statistics And Probability](https://www.youtube.com/playlist?list=PLDZcGqoKA84Eo56G1kIFE6IYwpxFgxFXB)(MindYourDecisions)                                                                         |
-| NPTEL MOOC - Probability and Statistics [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ80bLQbd8fbpHsO1fQAtGWD)                                                                           |
-| Probability and Statistics: an introduction [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf\_\_daeklnLse)                                               |
-| Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                              |
-| Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                               |
-| 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                  |
-| 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                         |
-| 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Statistics and Probability(**[**My CS**](https://www.youtube.com/playlist?list=PLqrmzsjOpq5i5YITE2EylhDpBvFcphSbS)**, )**                                                                                                                                                                                                                                                            |
+| 概率论与数理统计 - 北京交通大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QaZCnYcwENrLwZc7ODDAx7)) [drive](https://szjmeducn-my.sharepoint.com/personal/1706043305\_szjm\_edu\_cn/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1706043305%5Fszjm%5Fedu%5Fcn%2FDocuments%2Fshare%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%2D%E8%B5%84%E6%96%99\&ga=1) |
+| 高斯课堂 蜂考《概率论与数理统计》4小时([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKml9WEo4aRWTUSS7VrVAjXOP), [高adminar](https://www.youtube.com/playlist?list=PLXiGKg3oo9C312bKVKfNVbZa8M7glUoK1), )                                                                                                                                                                                      |
+| [Statistics And Probability](https://www.youtube.com/playlist?list=PLDZcGqoKA84Eo56G1kIFE6IYwpxFgxFXB)(MindYourDecisions)                                                                                                                                                                                                                                                              |
+| NPTEL MOOC - Probability and Statistics [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ80bLQbd8fbpHsO1fQAtGWD)                                                                                                                                                                                                                                                                |
+| Probability and Statistics: an introduction [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf\_\_daeklnLse)                                                                                                                                                                                                                                    |
+| Statistics and Probability Full Course \|\| Statistics For Data Science [Geek's Lesson](https://www.youtube.com/watch?v=sbbYntt5CJk)                                                                                                                                                                                                                                                   |
+| Statistic for beginners \| Statistics for Data Science [Geek's Lesson](https://www.youtube.com/watch?v=hjZJIVWHnPE)                                                                                                                                                                                                                                                                    |
+| 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                                                                                                                                                                                                       |
+| 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                                                                                                                                                                                                              |
+| 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                                                                                                                                                                                                           |
 
 ### 概率 Probability
 
@@ -564,6 +572,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Probability Primer [mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)                                                             |
 | CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U)                             |
 | MIT 6.041SC Probabilistic Systems Analysis and Applied Probability [Scientia123](https://www.youtube.com/playlist?list=PL1hbqINXWn50aCBOC4x0VOblmkfJe\_njn) |
+| 概率论 [知识公园](https://www.youtube.com/playlist?list=PLDIZquEjlYG0kwXuEnb--4LB6Q0yupg4Y)                                                                        |
 |                                                                                                                                                             |
 
 ### 大数定律和中心极限定理
@@ -622,6 +631,7 @@ $$
 | 南开大学 试验设计 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDWlL7KlsQ2AwavFXpQvSdq)                                                                                                 |
 | 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                              |
 | 用Python学习统计 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD)                                                                                                |
+| 医学统计学-郝元涛（中山大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6)                                                                                           |
 | keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
 
 #### 假设检验
