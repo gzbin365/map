@@ -505,6 +505,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)                                             |
 | Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                            |
 | Data Science 101 [Data Professor](https://www.youtube.com/playlist?list=PLtqF5YXg7GLn0WWB\_wQx7wHrIvbs0EH2e)                                                                  |
+| Learn Data Science Tutorial - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)                                                           |
 |                                                                                                                                                                               |
 
 #### 数据清理
@@ -1013,6 +1014,10 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| ROC and AUC, Clearly Explained! [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=4jRBRDbJemM)                     |
+| 145 - Confusion matrix, ROC and AUC in machine learning [DigitalSreeni](https://www.youtube.com/watch?v=Joh3LOaG8Q0)           |
+|                                                                                                                                |
+|                                                                                                                                |
 | Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf) |
 |                                                                                                                                |
 |                                                                                                                                |
