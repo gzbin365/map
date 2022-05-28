@@ -293,13 +293,21 @@ description: 硬件设备
 | 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
 | 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
 
-## 显示器
+## 显示器 屏幕
 
 |                                                                                  |
 | -------------------------------------------------------------------------------- |
 | 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)     |
 | 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders |
 | 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)  |
+|                                                                                  |
+|                                                                                  |
+
+| 墨水屏                                                                                            |
+| ---------------------------------------------------------------------------------------------- |
+| 我买墨水屏，只办三件事儿！\_华为MatePad Paper【值不值得买第553期】[TESTV](https://www.youtube.com/watch?v=lKfxt02Vx1Q) |
+|                                                                                                |
+|                                                                                                |
 
 ## 虚拟现实 VR
 
