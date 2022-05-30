@@ -142,6 +142,12 @@ LDA 文档聚类 plsa lsa
 | Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
 | NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
 
+| NLP自然语言处理集训营                                                                         |                                                                                     |                                                                                     |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [1-50](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkj08vj226UBokJxj\_-JpKD)    | [51-100](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQnw1lOnfUduW7x0oPBBZgFl)  | [101-150](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQlviRdNgToixzO6lymKGBHH) |
+| [151-200](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkD9c325uGAjmmfWtkVQ\_Vm) | [201-250](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQm56iL0wZ0HkbALAI--33ve) | [251-300](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQl1hBIcVo9iNeyOLT4uPxxs) |
+| [301-350](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQm22tDM8WbkMg3-eoY466KC)  | [351-407](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkFgib8KTUvoouNuZkUNtvq) |                                                                                     |
+
 #### Data Application Lab
 
 | Data Application Lab([u](https://www.youtube.com/watch?v=tctmuqzbt8E), )                                                |
@@ -386,7 +392,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
 | \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
 | Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
-|                                                                                                                                                               |
+| Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
 
 ### Causal Inference
