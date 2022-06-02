@@ -25,6 +25,7 @@ description: 知识图谱
 | 知识图谱 [李俊峰](https://www.youtube.com/playlist?list=PLQeG7l94mmn\_4frbsCxNH1JXNcpvvoheH)                                                                                                                              |
 | 知识库vs数据库 - Wikidata和SparQL简介 [黄浩杰](https://www.youtube.com/watch?v=cpCPpu9AwV4)                                                                                                                                    |
 | 知识图谱实战系列(Python版) [编程猿](https://www.bilibili.com/video/BV1G3411k7Jh) [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210653810)                                                                      |
+| 构建基于社交图谱关系的反欺诈产品应用 何林海 [青云QingCloud](https://www.youtube.com/watch?v=ruTO4BOh5qQ)                                                                                                                                  |
 
 实体抽取
 

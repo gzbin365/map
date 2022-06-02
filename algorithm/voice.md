@@ -16,6 +16,8 @@ Python实现语音合成 **** [zminoooooo](https://www.bilibili.com/video/BV1gu4
 
 Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/)
 
+LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe3Gq1lw94FjwDmy6aGVn\_A/videos)
+
 |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 深度学习-语音识别实战(Python) [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1210361865)                                                                                                                                                                                                                 |
@@ -32,6 +34,7 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                       |
 | Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                           |
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io/) [s](https://www.zhihu.com/question/266242493)                                                                                                                     |
+| 从语音识别到语音交互 陈伟 [青云QingCloud](https://www.youtube.com/watch?v=AUKycdq6jig)                                                                                                                                                                                                                                     |
 
 ***
 
@@ -43,13 +46,27 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 | MIT 6.S191: Automatic Speech Recognition [Alexander Amini](https://www.youtube.com/watch?v=sR6\_bZ6VkAg)                 |
 |                                                                                                                          |
 
-## **Speech to Text /** Speech Recognition
+## ASR Automatic Speech Recognition
 
-|                                                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4) |
-| PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)****                                                                                            |
-| Speech Recognition with Convolutional Neural Networks in Keras/TensorFlow [Weights & Biases](https://www.youtube.com/watch?v=Qf4YJcHXtcY)                                  |
+**Speech to Text /** Speech Recognition **/** Voice Recognition
+
+|                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4)                                                                                                                                   |
+| PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)****                                                                                                                                                                                                                              |
+| Speech Recognition with Convolutional Neural Networks in Keras/TensorFlow [Weights & Biases](https://www.youtube.com/watch?v=Qf4YJcHXtcY)                                                                                                                                                                    |
+| Automatic Speech Recognition - An Overview [Microsoft Research](https://www.youtube.com/watch?v=q67z7PTGRi8) [s](https://www.microsoft.com/en-us/research/video/automatic-speech-recognition-overview/)                                                                                                      |
+| I Built a Personal Speech Recognition System for my AI Assistant [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=YereI6Gn3bM)                                                                                                                                                                |
+| A Basic Introduction to Speech Recognition (Hidden Markov Model & Neural Networks) [Hannes van Lier](https://www.youtube.com/watch?v=U0XtE4\_QLXI)                                                                                                                                                           |
+| Voice Recognition As Fast As Possible [Techquickie](https://www.youtube.com/watch?v=AWWjN1QqoYY)                                                                                                                                                                                                             |
+| Phoneme Detection with CNN-RNN-CTC Loss Function - Machine Learning [Ali Yektaie](https://www.youtube.com/watch?v=x1IAPgvKUmM)                                                                                                                                                                               |
+| how speech recognition works in under 4 minutes. [Sam Stork](https://www.youtube.com/watch?v=iNbOOgXjnzE)                                                                                                                                                                                                    |
+| Automatic Speech Recognition: Chapter 1 [NEWTON Technologies](https://www.youtube.com/watch?v=vlr\_3kNQZAk)                                                                                                                                                                                                  |
+| <p>Lecture 9 - Speech Recognition (ASR) [Andrew Senior] <a href="https://www.youtube.com/watch?v=HyUtT_z-cms">Zafarullah Mahmood</a></p><p>Deep Learning for NLP at Oxford with Deep Mind 2017 <a href="https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm">Zafarullah Mahmood</a></p> |
+|                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                              |
 
 ### **NVIDIA JARVIS**
 
@@ -117,11 +134,13 @@ Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-t
 
 ## Voice Assistant
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)        |
-| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant            |
-| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant) |
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)                                     |
+| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant                                         |
+| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant)                              |
+| Assistente Vocale Python - Riconoscimento Vocale con Speech Recognition e Pyttsx3 [PitoneProgrammatore](https://www.youtube.com/watch?v=kXiIK1qahsg) |
+| Build an AI Voice Assistant with PyTorch [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW)   |
 
 <details>
 

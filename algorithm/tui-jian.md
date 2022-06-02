@@ -14,3 +14,4 @@
 | Deep Learning for Recommendation基于深度学习的推荐系统 [Data Application Lab](https://www.youtube.com/watch?v=uGbZ\_E6Rc0Y)                       |
 | Building recommendation systems with TensorFlow [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz) |
 | 如何设计一个推荐系统 [BitTiger官方频道 BitTiger Official Channel](https://www.youtube.com/watch?v=MZkxusQ6GNo)                                       |
+| 人工智能在视频网站推荐系统中的应用 周涵宇 [青云QingCloud](https://www.youtube.com/watch?v=2joJySVvnHs)                                                       |

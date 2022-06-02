@@ -14,11 +14,12 @@ description: Generative Adversarial Network (GAN)
 | [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzs6XDEm39m6g7yZWXB6MKac)'s Generative Adversarial Network (GAN) Videos                                        |
 | Generative Adversarial Networks (GAN) [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwboR4\_xj-n3K6XBTweC4YVD)                                             |
 | GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g\_0HtlrLiDo)                                                                                                         |
+| GAN的现状与未来 马波 [青云QingCloud](https://www.youtube.com/watch?v=v7rsHn4ziZ4)                                                                                                      |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AnimeGANv2 [s](https://tachibanayoshino.github.io/AnimeGANv2/) [git](https://github.com/TachibanaYoshino/AnimeGANv2) [v](https://www.douyin.com/video/7029157040899607815) |
-| AnimeGAN.js [s](https://animegan.js.org) [git](https://github.com/TonyLianLong/AnimeGAN.js)                                                                                |
+| AnimeGAN.js [s](https://animegan.js.org/) [git](https://github.com/TonyLianLong/AnimeGAN.js)                                                                               |
 |                                                                                                                                                                            |
 
 | GauGAN                                                                      |
@@ -27,11 +28,11 @@ description: Generative Adversarial Network (GAN)
 | SmartSketch [git](https://github.com/noyoshi/smart-sketch)                  |
 |                                                                             |
 
-| 字体                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [100font.com](https://www.100font.com)   [字体天下](https://www.fonts.net.cn)   [方正字库官网](https://www.foundertype.com) |
-|                                                                                                                   |
-|                                                                                                                   |
+| 字体                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------- |
+| [100font.com](https://www.100font.com/)   [字体天下](https://www.fonts.net.cn/)   [方正字库官网](https://www.foundertype.com/) |
+|                                                                                                                      |
+|                                                                                                                      |
 
 ### Text to Image
 
@@ -49,6 +50,8 @@ description: Generative Adversarial Network (GAN)
 | How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |
 | Trends in AI — April 2022: DALL·E, Pathways, PaLM... + Generative Language Models Demo [Zeta Alpha Vector](https://www.youtube.com/watch?v=w7MNDZLJ30M) |
 | OpenAI DALL-E 2: Top 10 Insane Results! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=X3\_LD3R\_Ygs)                                           |
+| DALL-E 2 is… meh [Edan Meyer](https://www.youtube.com/watch?v=gmfI3B6pQTo)                                                                              |
+| How This A.I. Draws Anything You Describe \[DALL-E 2] [ColdFusion](https://www.youtube.com/watch?v=U1cF9QCu1rQ)                                         |
 |                                                                                                                                                         |
 
 | PaLM                                                                                                                                                                                            |

@@ -107,6 +107,7 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Deep Learning for NLP at Oxford with Deep Mind 2017 [Zafarullah Mahmood](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)                                                                                            |
 | Ai工程师-自然语言处理实战 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1209076816)                                                                                                                                                       |
 | Stanford Seminar - Emerging risks and opportunities from large language models [Stanford Online](https://www.youtube.com/watch?v=p6\_X5Ei9C9s)                                                                                                |
 | 自然语言处理技术专场 [Watching IT Conference](https://www.youtube.com/watch?v=9TZtIwDbEY8\&list=PLvn\_mpLB\_-pO\_4nOk-4-wadsJod59kptI\&index=73)  阿里云栖2017-杭州                                                                                           |
@@ -141,6 +142,12 @@ LDA 文档聚类 plsa lsa
 | Natural Language Processing (NLP) Tutorial with Python & NLTK [freeCodeCamp](https://www.youtube.com/watch?v=X2vAabgKiuM)                                                                                                                     |
 | Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
 | NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
+
+| NLP自然语言处理集训营                                                                         |                                                                                     |                                                                                     |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [1-50](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkj08vj226UBokJxj\_-JpKD)    | [51-100](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQnw1lOnfUduW7x0oPBBZgFl)  | [101-150](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQlviRdNgToixzO6lymKGBHH) |
+| [151-200](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkD9c325uGAjmmfWtkVQ\_Vm) | [201-250](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQm56iL0wZ0HkbALAI--33ve) | [251-300](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQl1hBIcVo9iNeyOLT4uPxxs) |
+| [301-350](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQm22tDM8WbkMg3-eoY466KC)  | [351-407](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQkFgib8KTUvoouNuZkUNtvq) |                                                                                     |
 
 #### Data Application Lab
 
@@ -224,6 +231,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Simple GUI Chat in Python [NeuralNine](https://www.youtube.com/watch?v=sopNW98CRag)                                                                                                                                                                                                            |
 | Python ChatBot Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q)                                                                                                                                                                              |
 | 如何打造你自己的聊天机器人 [集智学园](https://campus.swarma.org/course/182)                                                                                                                                                                                                                                     |
+| 对话机器人如何落地 洪强宁 [青云QingCloud](https://www.youtube.com/watch?v=GUc7pn6Nli8)                                                                                                                                                                                                                       |
 | Chatopera 机器人平台 [Chatopera Inc.](https://www.youtube.com/playlist?list=PLh\_KT9y7mpqbDnx7NUt2pHESmWlgsD33M)   [s](https://bot.chatopera.com/)   [git](https://github.com/chatopera)   [doc](https://docs.chatopera.com/)                                                                       |
 | chatopera/[clause](https://github.com/chatopera/clause) 聊天机器人，自然语言理解，语义理解                                                                                                                                                                                                                      |
 | rasa [s](https://rasa.com/) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                |
@@ -386,7 +394,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
 | \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
 | Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
-|                                                                                                                                                               |
+| Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
 
 ### Causal Inference
