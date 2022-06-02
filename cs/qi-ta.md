@@ -46,6 +46,7 @@
 | Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
 | Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
 | Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
+| 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
 
 ## C\#
 

@@ -2,7 +2,7 @@
 description: Telecommunications
 ---
 
-# 通信
+# 通讯
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,6 @@ description: Telecommunications
 | 雷达对抗原理                                                                                                               |
 | 通信原理                                                                                                                 |
 | 通信对抗原理                                                                                                               |
-| 通信原理 北京邮电大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7jPRz17k8K3MFylYdl\_q7LG)                 |
 
 ## 信息论 Information Theory
 

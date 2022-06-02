@@ -9,8 +9,8 @@
 | Jan 2019-Chemical Process Control [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dFThqueBdgIUuFxpWSWDiF)                        |
 | July 2019-Mechanisms in Organic Chemistry [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65f298xo\_WnFOmXm5t-piWHk)               |
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| 地漏　[v](https://www.douyin.com/video/7027821209651825934)            |
-| Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists) |
-|                                                                     |
+|                                                          |
+| -------------------------------------------------------- |
+| 地漏　[v](https://www.douyin.com/video/7027821209651825934) |
+|                                                          |
+|                                                          |

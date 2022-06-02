@@ -4,10 +4,10 @@
 
 ## 围棋
 
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| 明玥谈棋 [u](https://www.youtube.com/channel/UCt6XChx1eio8URP5mHxWIUw/videos)             |
-| weibin zhuang [u](https://www.youtube.com/channel/UCUgEQjTuP5SQHk7O4fgOcgQ/playlists) |
-|                                                                                       |
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| 明玥谈棋 [u](https://www.youtube.com/channel/UCt6XChx1eio8URP5mHxWIUw/videos) |
+|                                                                           |
+|                                                                           |
 
 ## 其他
