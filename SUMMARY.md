@@ -46,7 +46,7 @@
   * [生物](sci/sheng-wu.md)
   * [医学](sci/yi-xue.md)
   * [工科](sci/gong-ke/README.md)
-    * [通讯](sci/gong-ke/tong-xun.md)
+    * [通信](sci/gong-ke/tong-xun.md)
     * [机械工程](sci/gong-ke/ji-xie-gong-cheng.md)
     * [电子工程](sci/gong-ke/dian-zi-gong-cheng.md)
     * [电气工程](sci/gong-ke/dian-qi-gong-cheng.md)
