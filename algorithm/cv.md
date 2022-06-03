@@ -255,14 +255,14 @@ import cv2
 
 ### 人脸识别 Face Detect
 
-|                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                       |
-| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge   |
-| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                           |
-| 机器学习入门 [黑科技老K](https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM) [git](https://www.youtube.com/watch?v=xSBqnS1kLGA)  |
-| Simple Face Detection in Python [NeuralNine](https://www.youtube.com/watch?v=5cg\_yggtkso)                                                   |
-| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10) |
+|                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Detect 468 Face Landmarks in Real-time([Robotics and AI](https://www.youtube.com/watch?v=V9bzew8A1tc))                                                                                                                                                                                                                                                                         |
+| [Face Recognition with OpenCV with Python](https://www.youtube.com/playlist?list=PLS1QulWo1RIbp\_ImnSEWEMRLnJVfEc-GR) ProgrammingKnowledge                                                                                                                                                                                                                                     |
+| Eyes Tracking Opencv python [AiPhile](https://www.youtube.com/watch?v=obKG1SXp76Y)                                                                                                                                                                                                                                                                                             |
+| <p>机器学习入门 <a href="https://www.youtube.com/playlist?list=PLjj6Fa0ZudDgHISWYkArvThBSYiaTiKdM">黑科技老K</a> <a href="https://github.com/likw99/HiTechOnlineCourse">git</a></p><p>动手实现人脸关键点识别 <a href="https://www.youtube.com/watch?v=xSBqnS1kLGA">黑科技老K</a> <a href="https://github.com/likw99/HiTechOnlineCourse/tree/master/AI/MachineLearning/Code/FacialKeypoints">git</a></p> |
+| Simple Face Detection in Python [NeuralNine](https://www.youtube.com/watch?v=5cg\_yggtkso)                                                                                                                                                                                                                                                                                     |
+| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                                                                                                                   |
 
 ### OCR
 
