@@ -99,5 +99,3 @@
 | 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                  |
 | 最通俗易懂的CAP定理教程 [技术喵](https://www.youtube.com/watch?v=yA-mOVIO8jA)                                                    |
 | 分布式系统\&DDIA [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3pQjcgSAxeXvYCyTa-luOc)                        |
-| 参数服务器（Parameter Server）逐段精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=yFoeHcCqD2c)                              |
-| Pathways 论文精读【论文精读】 [跟李沐学AI](https://www.youtube.com/watch?v=UK3msk4qs\_4)                                          |

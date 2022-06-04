@@ -14,7 +14,7 @@ topics/algorithm([**git**](https://github.com/topics/algorithm), )
 
 labuladong**拉不拉东** [**算法小抄**](https://labuladong.gitbook.io/algo/)**,** [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)**,** [**知乎**](https://www.zhihu.com/people/labuladong)**, 公众号：labuladong,** [**B**](https://space.bilibili.com/14089380)**,** [书栈](https://www.bookstack.cn/books/fucking-algorithm)
 
-geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https://www.geekxh.com)   小浩算法
+geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https://www.geekxh.com/)   小浩算法
 
 近千道真题面经汇总 [易学教程](https://www.e-learn.cn/topic/95743)
 
@@ -145,12 +145,12 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 
 ## 排序算法 Sorting Algorithms
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                   |
-| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                       |
-| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm) |
-| Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)         |
+|                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                    |
+| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                        |
+| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc/) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm) |
+| Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)          |
 
 ### 插入排序 Insertion Sort
 
@@ -244,6 +244,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | L1nwatch/[challenge-Python](https://github.com/L1nwatch/challenge-Python)   [doc](https://note-zw.readthedocs.io/zh/latest/%E7%AE%97%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81/Challenge%20Python/index.html) |
 | 常见笔试算法题分析记录 [csdn](https://blog.csdn.net/qq\_37375427/category\_7570110.html)                                                                                                                           |
 | 十六分鐘略懂刷題面試 [jasonmel](https://www.youtube.com/watch?v=sAjkAz75jis)                                                                                                                                      |
+| [上岸算法](https://www.youtube.com/playlist?list=PLQ3hu6barmd6nPNQu2svMEw4OgrhbXfuU)公开课2022春招必备版                                                                                                            |
 
 ## 其他
 
