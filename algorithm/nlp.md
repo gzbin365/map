@@ -368,6 +368,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 |                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GPT，GPT-2，GPT-3 论文精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=7qjxYJihfNQ)                                                                               |
 | \[ML News] De-Biasing GPT-3 \| RL cracks chip design \| NetHack challenge \| Open-Source GPT-J [Yannic Kilcher](https://www.youtube.com/watch?v=Ihg4XDWOy68)  |
 | GPT-3: Language Models are Few-Shot Learners (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=SY5PvZrJhLE)                                  |
 | [https://copilot.github.com/](https://copilot.github.com/)                                                                                                    |
