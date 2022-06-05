@@ -338,9 +338,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis)   情感极性分析repository                                                                   |
 | DefuLi/[Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News)   “互联网新闻情感分析”赛题                                                              |
 
-### （短）文本相似度
+### （短）文本相似度 Text Similarity
 
-
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Calculating Text Similarity in Python with NLP [NeuralNine](https://www.youtube.com/watch?v=y-EjAuWdZdI) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### 关键词提取  摘要
 
