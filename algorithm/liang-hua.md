@@ -11,4 +11,6 @@
 | Learn It Fast 学快点 [u](https://www.youtube.com/channel/UCQGdLPQ85q\_K7GlwaSZEFCw/playlists)          |
 | Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                              |
 | 土妹土妹 [u](https://www.youtube.com/channel/UCu1lb\_YUHcJFoc7lraETxvQ/playlists)                       |
-|                                                                                                     |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                        |
+| 区块普拉斯 [u](https://www.youtube.com/c/%E5%8C%BA%E5%9D%97%E6%99%AE%E6%8B%89%E6%96%AF/videos)           |
+| 金融科技人工智慧應用：教 AlphaGo 玩股票 - 顧家祈 \| MOPCON 2019 [MOPCON](https://www.youtube.com/watch?v=KIalE2Ma30E) |

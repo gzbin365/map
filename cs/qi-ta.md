@@ -46,6 +46,7 @@
 | Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
 | Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
 | Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
+| 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
 
 ## C\#
 
@@ -272,6 +273,7 @@
 
 |                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Roblox 3D遊戲設計教學 [Meta School 元學院](https://www.youtube.com/playlist?list=PL\_z49Xqvcua0LiuG8ZmFuTXu8SlKB21uz)                                                                           |
 | [Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection](https://www.youtube.com/watch?v=ih20l3pJoeU)                                                                   |
 | Cross Platform Graphical User Interfaces in C++([javidx9](https://www.youtube.com/watch?v=FOIbK4bJKS8))                                                                                |
 | 3D动画与特效-张燕翔（中国科学技术大学）([u](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb6jWMizqUd1FyCYx2Qeo11), )                                                                                 |
@@ -590,3 +592,7 @@
 | coder2gwy/[coder2gwy](https://github.com/coder2gwy/coder2gwy)   互联网首份程序员考公指南                                                                                                                                   |
 | chengyi/[BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer)   程序员相亲指南                                                                                                        |
 | <p>字节、字、位、比特，这四者之间的关系 <a href="https://blog.csdn.net/cx_wzp/article/details/8104224">csdn</a></p><p>1个字节等于8个比特（1Byte=8bit）</p>                                                                                 |
+| 每秒浮点运算次数 [wikipedia](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%B5%AE%E9%BB%9E%E9%81%8B%E7%AE%97%E6%AC%A1%E6%95%B8)                                                                                   |
+| 处理器主频概念及 xxxGHz 的运算速度 [PHP开源社区](https://xw.qq.com/cmsid/20200805A0QP8E00)                                                                                                                                      |
+|                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                |
