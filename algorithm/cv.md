@@ -156,6 +156,14 @@ import cv2
 |                                                                                                       |
 |                                                                                                       |
 
+## 图像压缩 Image Compression
+
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY) |
+|                                                                                                 |
+|                                                                                                 |
+
 ## 图像修复
 
 |                                                                                                                                                                  |

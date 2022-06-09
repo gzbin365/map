@@ -275,6 +275,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Chinese Remainder Theorem [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyg3TEfDGsWoMQgWMUMjYhl)                                          |
 | The Dilogarithm [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwcLlI-HXw15sPytjIJbDwY)                                                    |
 | 如何心算某天是星期几？蔡勒公式与康威末日算法 [妈咪说MommyTalk](https://www.youtube.com/watch?v=4-5F1onYzHc)                                                                          |
+| 关于素数那点事儿 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmi1WWaa3p73X7TalChgRyIf)                                                           |
 
 #### 素数 **Primes**
 
@@ -487,7 +488,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | JAN 2020 - Basic Real Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65cpVtcdj\_5SBEh6VQvC\_BvR)     |
 | Real Analysis [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1\_xaQoS)                               |
 
-### 复变函数
+### 复变函数 Complex Variables
 
 |                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- |
@@ -497,6 +498,9 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                       |
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
+| 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                 |
+|                                                                                                                             |
+|                                                                                                                             |
 
 | 黎曼猜想                                                                                   |
 | -------------------------------------------------------------------------------------- |
@@ -544,6 +548,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 |                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 变分法(PengTitus) [Pharaohsxh](https://www.youtube.com/playlist?list=PL090BE404EFE679E9) [Mark Song](https://www.youtube.com/playlist?list=PLvg2RutqSPrLvR7z5B3SdeYUnjWkm2Ygo) |
+| 高等数学\_变分法线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PLC47FEEDB6F5FB460)                                                                             |
 | 变分法基础 [Wenlong Li](https://www.youtube.com/playlist?list=PLsWSH3tyoIE5eKzrzD-y1sPi2BDU2Kzfe)                                                                                |
 | 变分法课程全集 [阿尔伯特oxo爱因斯坦](https://www.bilibili.com/video/BV1Jv41147Q4?from=search\&seid=3721252605974714008) 1：34：44                                                            |
 | Variational Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoN\_6X932U\_-ZlHKdInFrUV)                                                                     |
@@ -563,6 +568,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 程序数学之概率统计 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKmqmeviuYs2gia6Ul\_Lz-z9)                                                                                                                                                                                                                                                                                       |
 | 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                                                                                                                                                                                                              |
 | 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                                                                                                                                                                                                           |
+| 概率论与数理统计 中国科学技术大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7hUT2F-nHycWMsDbr\_GXIUU)                                                                                                                                                                                                                                                                             |
 
 ### 概率 Probability
 
@@ -1116,11 +1122,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | **Bezier Curves Explained(**[**Guidev**](https://www.youtube.com/watch?v=pnYccz1Ha34)**)**                              |
 | The Beauty of Bézier Curves [Freya Holmér](https://www.youtube.com/watch?v=aVwxzDHniEw)                                 |
 
-##
 
-##
-
-##
 
 ## 组合数学/离散数学
 
@@ -1151,6 +1153,8 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                  |
 | Predicting Crypto Prices in Python [NeuralNine](https://www.youtube.com/watch?v=GFSiL6zEZF0)                                                   |
 | 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                     |
+| 数学\_质数与RSA密码算法一 [PengTitus](https://www.youtube.com/watch?v=TqX0AHHwRYQ)                                                                       |
+| 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                       |
 
 ### 哈希
 
@@ -1244,6 +1248,9 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（二） \| [雅桑了嗎](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)  ending part                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 如何证明一个问题是NP-Hard或NP-Complete? [小杰](https://zhuanlan.zhihu.com/p/53085012)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | search?q=[怎么判断一个问题是不是nphard问题](https://www.google.com.hk/search?q=%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%8D%E6%98%AFnphard%E9%97%AE%E9%A2%98\&newwindow=1\&sxsrf=APq-WBv\_z1MI3S2g2REDTh1kB\_CdeWR4pQ%3A1649033655701\&source=hp\&ei=t0FKYtywKZaa-Abe-7CQCA\&iflsig=AHkkrS4AAAAAYkpPx6oIqHq4iVH6ZyZ8\_oZJnqA4qrOf\&ved=0ahUKEwic6JOKmfn2AhUWDd4KHd49DIIQ4dUDCAc\&uact=5\&oq=%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%8D%E6%98%AFnphard%E9%97%AE%E9%A2%98\&gs\_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BAgjECc6BQgAEIAEOgUILhCABFDgD1i-a2D2bGgBcAB4AIABswGIAZcLkgEDMi45mAEAoAEBsAEK\&sclient=gws-wiz) |
+| <p>16.Complexity: P, NP, NP-completeness, Reductions <a href="https://www.youtube.com/watch?v=eHZifpgyH_4">MIT OpenCourseWare</a></p><p>MIT 6.046J Design and Analysis of Algorithms, Spring 2015</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## 数学家/名人
 
