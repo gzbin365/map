@@ -43,7 +43,6 @@
 | 永丰侃财经 抖音号： [yfkcj888](https://www.douyin.com/user/MS4wLjABAAAAO2Et1rywunNnxYYjJLfrOZ3wuzaoAjB3VzPBzHsgYBo)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 李自然说 [u](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 白话财经\_BaiFinance [u](https://www.youtube.com/channel/UCNjkVRkb\_-\_0KCtiO6cRkmg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 |                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------- |
@@ -68,12 +67,11 @@
 | 富妈聊楼市 抖音号： [fumalls](https://www.douyin.com/user/MS4wLjABAAAA4tSJaqSHNXZXuda9519EWOiij8aCDHSz0\_lAhn-rDywSa662pfy9A8a1xY6fWmKK)                                                                                                         |
 | 房子 [会民教练 - Coach Morning Lee](https://www.youtube.com/playlist?list=PLYpDJ\_MqTTZpOlAxRQAVslRdOwCjWaCZe)                                                                                                                                |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| [创业](https://www.youtube.com/watch?v=fuQd3MAKFfk)　俞敏洪             |
-| 创业融资方法论 todo                                                      |
-| 【硬核加长版】真正的做空 [小Lin说](https://www.youtube.com/watch?v=--KnsLGfXWM) |
-|                                                                   |
+|                                                       |
+| ----------------------------------------------------- |
+| [创业](https://www.youtube.com/watch?v=fuQd3MAKFfk)　俞敏洪 |
+| 创业融资方法论 todo                                          |
+|                                                       |
 
 特許金融分析師（CFA，Chartered Financial Analyst）
 
