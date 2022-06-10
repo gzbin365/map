@@ -35,7 +35,6 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                           |
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io/) [s](https://www.zhihu.com/question/266242493)                                                                                                                     |
 | 从语音识别到语音交互 陈伟 [青云QingCloud](https://www.youtube.com/watch?v=AUKycdq6jig)                                                                                                                                                                                                                                     |
-| Talk \| 字节跳动研究员董倩倩：基于单调切分的端到端同传 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=uv\_4sRg47hk)                                                                                                                                                                                                              |
 
 ***
 

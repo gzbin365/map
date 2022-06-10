@@ -1131,6 +1131,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AI Safety [**Times Infinity**](https://www.youtube.com/playlist?list=PL0ML7CQ2AoziIThmHZNrdrtGllDbux1iy)                                                                                        |
 | 【機器學習2022】自然語言處理上的對抗式攻擊 (由姜成翰助教講授) [Hung-yi Lee](https://www.youtube.com/watch?v=Qo5IdkzKzE8) [1](https://www.youtube.com/watch?v=z-lRPFFYVJc) [2](https://www.youtube.com/watch?v=68lwXWFzCmg) |
+|  Talk \| 清华大学在读博士生胡展豪：可以骗过人工智能检测器的隐身衣 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3IwhfFZcjjw)                                                                                            |
 
 ##
 
