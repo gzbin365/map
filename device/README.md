@@ -150,11 +150,11 @@ description: 硬件设备
 | Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
 |                                                                                                                            |   |
 
-| MSI                                                                              |
-| -------------------------------------------------------------------------------- |
-| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c) |
-|                                                                                  |
-|                                                                                  |
+| MSI                                                                                                      |
+| -------------------------------------------------------------------------------------------------------- |
+| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c)                         |
+| The World’s Most Powerful Laptop! [Jarrod'sTech](https://www.youtube.com/watch?v=UQMcEc8C8QE) Titan GT77 |
+|                                                                                                          |
 
 ## Drone / UAV
 
@@ -351,7 +351,7 @@ description: 硬件设备
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
-|                                                                                                                     |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
 |                                                                                                                     |
 
 ## 手工
