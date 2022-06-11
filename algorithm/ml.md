@@ -255,6 +255,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Introduction to PyTorch Tensors [Coding Epocs](https://www.youtube.com/watch?v=eHCoX5HWl-Q)                                                                                                                                                                      |
 | PyTorch - Deep Learning Course \| Full Course \| Session -1 \| Python [Tangoo Express](https://www.youtube.com/watch?v=qpF6kwuJAaU)                                                                                                                              |
 | Getting Started With PyTorch (C++) [Alan Tessier](https://www.youtube.com/playlist?list=PLZAGo22la5t4UWx37MQDpXPFX3rTOGO3k)                                                                                                                                      |
+| PyTorch on Apple Silicon \| Machine Learning [Alex Ziskind](https://www.youtube.com/watch?v=f4utF9IcvEM)                                                                                                                                                         |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
