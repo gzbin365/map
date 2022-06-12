@@ -8,6 +8,7 @@ description: Generative Adversarial Network (GAN)
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GANs [RE•WORK](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lLH6Ru8peDrG2HoWyycbFR)                                                                                     |
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                          |
+| Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                          |
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                           |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd) |
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |
@@ -40,7 +41,7 @@ description: Generative Adversarial Network (GAN)
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
-|                                                                                                                                                          |
+| 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
 
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
