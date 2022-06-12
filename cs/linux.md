@@ -403,7 +403,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ubuntu下通过wine安装windows软件(以微信和Adobe Acrobat Pro为例) [zh](https://zhuanlan.zhihu.com/p/136328910)                                                                      |
 | wine下载及运行最新版QQ [v](https://www.youtube.com/watch?v=VqxZWLrySYk)                                                                                                     |
 | How to Install Wine 6.0.1 on Ubuntu 20.04 \| Wine 6.0.1 Linux Install \| Installing Wine on Ubuntu [TechSolutionZ](https://www.youtube.com/watch?v=TkxjY60mTQE)     |
-|                                                                                                                                                                     |
+| Linux Gaming [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2D\_\_mzMSSnH1AdBf3lAFNlp)                                                            |
 |                                                                                                                                                                     |
 
 ## PPA

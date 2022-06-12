@@ -10,11 +10,10 @@ description: Blockchain & Cryptocurrency
 
 ***
 
-|                                                                          |                                                                             |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), ) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)          |
-| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ)     |
-|                                                                          | 飞彪队 [u](https://www.youtube.com/channel/UCgCco8lboO1LRlB9XPh662Q/playlists) |
+|                                                                          |                                                                         |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), ) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)      |
+|                                                                          | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ) |
 
 |                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,12 +37,10 @@ description: Blockchain & Cryptocurrency
 | 以太坊 Ethereum Smart Contract Development [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SehVfpAW0KCnrTgb267NSc0)                                            |
 | Cryptography and Bitcoin [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6Xbrs\_1ltXPSYi5qWL9pBm)                                                       |
 | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)                          |
-| Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course [freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)                  |
 | <p>Etherscan API with Python 3 Tutorial <a href="https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlfLAIZcyq_UZNdKTJVZUMA">Pysource</a></p><p>Etherscan是以太坊网络的区块链浏览器。</p> |
 | Blockchain For Beginners [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx)                                                        |
 | Track Ethereum Transactions and Balance Using Python [Tech With Tim](https://www.youtube.com/watch?v=x5FHbr0Em5A)                                                         |
 | 区块链与比特币技术入门教程 [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3AWUOEIi-qUrA0W\_1GhYUx)                                                                           |
-| 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                                                |
 
 ## 元宇宙
 
@@ -65,4 +62,4 @@ description: Blockchain & Cryptocurrency
 | WEB3.0是什么，该如何布局？丨哪些WEB3.0的币值得我们关注和投资 [奔跑的格格](https://www.youtube.com/watch?v=Hsajpp-fg-E)                                                                 |
 | WEB3.0是什么? TOP5 web3.0板块区块链背后加密货币 虚拟货币 ？丨哪些WEB3.0的虚拟货币潛力巨大 [大方BigFang](https://www.youtube.com/watch?v=OnsdncqgSYw)                                       |
 | Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto [JavaScript Mastery](https://www.youtube.com/watch?v=Wn\_Kb3MR\_cU) |
-| Learn Web3 programming and how to build dapps on the Internet Computer (preview) [London App Brewery](https://www.youtube.com/watch?v=o0\_ihmpBbic)       |
+|                                                                                                                                                           |
