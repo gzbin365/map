@@ -85,7 +85,6 @@
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 老男孩教育 Python全栈开发第3期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCKnY9w--w1fT8Z9BT0JEa4e)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 听说学 Python 找不到工作？试试这个学习路线！【[程序员鱼皮](https://www.youtube.com/watch?v=fCeKVVuJAbI)】                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Programming Terms [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsnP0Nl1UDY8VZAlHu1m\_MQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 李兴华-Python编程 [沐言优拓](https://www.youtube.com/playlist?list=PL2BYd135G1o9r-TAMw-QCddLnJFpOXpRY)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -769,34 +768,33 @@ Python高性能编程
 
 ## 爬虫
 
-|                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 不扯淡Python爬虫学习路线 （2021） [麦叔编程](https://www.youtube.com/watch?v=yKLfMjtTKak)                                                                       |
-| 崔庆才\_Python3爬虫入门到精通课程视频 34课 [true while](https://www.youtube.com/playlist?list=PLc8\_TkmqkE4Pe1P4spQoivMiDwVyYPvR1)                              |
-| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)                                |
-| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                                                   |
-| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)                                       |
-| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)                                          |
-| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)                                            |
-| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                                                     |
-| Python 网络爬虫：从入门到实践　[git](https://github.com/Santostang/PythonScraping)                                                                           |
-| Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)                               |
-| 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En)                             |
-| 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)                                      |
-| 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)                                 |
-| Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                              |
-| sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                                                 |
-| csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                                               |
-| RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader                                |
-| awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                                                           |
-| Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)                                         |
-| Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)                              |
-| Weather API Tutorial in Python [NeuralNine](https://www.youtube.com/watch?v=9P5MY\_2i7K8)                                                        |
-| 豆瓣爬虫项目，从0到1爬虫教程【Python爬虫实战项目】 [图灵星球Turing Planet](https://www.youtube.com/watch?v=SiI4Wn4ut4g)                                                   |
-| 2019千锋Python爬虫全套视频（最经典）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4ZkUUau3b5Df3OJAG7l94o)                                          |
-| Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive                                  |
-| 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive                                  |
-| keenwon/[antcolony](https://github.com/keenwon/antcolony)   Nodejs实现的一个磁力链接爬虫 [文章介绍](https://keenwon.com/1436.html) [blog](https://keenwon.com/) |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 不扯淡Python爬虫学习路线 （2021） [麦叔编程](https://www.youtube.com/watch?v=yKLfMjtTKak)                                           |
+| 崔庆才\_Python3爬虫入门到精通课程视频 34课 [true while](https://www.youtube.com/playlist?list=PLc8\_TkmqkE4Pe1P4spQoivMiDwVyYPvR1)  |
+| 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)    |
+| Python网络爬虫实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZtlMFHvZvc2aA-M9SdZk4a)                       |
+| 21堂信息掘金课，零基础小白也能用数据开挂 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxuNelxGNKYCDT5P4KC-82e)           |
+| scrapy框架爬虫教学与实例 [BT](https://btsow.digital/magnet/detail/hash/3F0CFFD146F3ADC0116B2523D53A853F344ACDB8)              |
+| 【Scrapy 爬虫教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV3JpilGQkoMABYoD9pKlgZ\_)                |
+| 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                         |
+| Python 网络爬虫：从入门到实践　[git](https://github.com/Santostang/PythonScraping)                                               |
+| Web Scraping with Python - Beautiful Soup Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=XVv6mJpFOb0)   |
+| 【Python的網頁爬蟲與資料分析】 [人工智慧與數位教育中心 NCCU AIEC](https://www.youtube.com/playlist?list=PLmcrRGCH--DocpSjg9enSMNhFkf2MW0En) |
+| 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)          |
+| 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)     |
+| Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)  |
+| sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                     |
+| csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                   |
+| RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader    |
+| awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                               |
+| Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)             |
+| Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)  |
+| Weather API Tutorial in Python [NeuralNine](https://www.youtube.com/watch?v=9P5MY\_2i7K8)                            |
+| 豆瓣爬虫项目，从0到1爬虫教程【Python爬虫实战项目】 [图灵星球Turing Planet](https://www.youtube.com/watch?v=SiI4Wn4ut4g)                       |
+| 2019千锋Python爬虫全套视频（最经典）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4ZkUUau3b5Df3OJAG7l94o)              |
+| Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive      |
+| 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive      |
 
 ## 网络编程
 
@@ -831,12 +829,11 @@ Python网络编程 [Shadowalker](https://www.youtube.com/playlist?list=PLpu5MZcF
 
 ### PDF
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| How to Convert HTML to PDF using Python [buckmasterinstitute](https://www.youtube.com/watch?v=9DP5Nkw7LEY)    |
-| JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit)  HTML to PDF wrapper                      |
-| wmjordan/[PDFPatcher](https://github.com/wmjordan/PDFPatcher) PDF补丁丁 [s](https://www.cnblogs.com/pdfpatcher/) |
-|                                                                                                               |
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| How to Convert HTML to PDF using Python [buckmasterinstitute](https://www.youtube.com/watch?v=9DP5Nkw7LEY) |
+| JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit)  HTML to PDF wrapper                   |
+|                                                                                                            |
 
 ### CSV
 
