@@ -106,6 +106,8 @@ aws-samples [git](https://github.com/aws-samples)
 
 Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSDlnrNJ\_ERqTAkIe21xyRhi)
 
+Complete END to END Azure DevOps Tutorials Series with Practical's \[ Full Course in 4 Hours ] [DevOps Mela](https://www.youtube.com/watch?v=7YMWthE6RTY)
+
 </details>
 
 ### Nvidia
