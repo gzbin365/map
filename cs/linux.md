@@ -153,7 +153,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | **Google Shell 风格指南(**[**书栈**](https://www.bookstack.cn/books/google-shell-style)**, )**                                                                          |
 | [Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo)3:23:08                           |
 | [**Bash Scripting Full Course 3 Hours**](https://www.youtube.com/watch?v=e7BufAVwDiM) **linuxhint**                                                               |
-| Bash Scripting [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2A-hhXVkOSXxKku1IgPdL6L)                                                          |
 | Linux SHELL编程与实践 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhadvQbsFfw8UZ7Ks1YcRBMC)                                                                |
 | Learning Awk Is Essential For Linux Users [DistroTube](https://www.youtube.com/watch?v=9YOZmI-zWok)                                                               |
 | Write Your Own Bash Scripts for Automation \[Tutorial] [Null Byte](https://www.youtube.com/watch?v=PPQ8m8xQAs8)                                                   |
@@ -173,7 +172,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 30 BASIC COMMANDS IN LINUX / UNIX \|\| LINUX COMMANDS \|\| UNIX COMMANDS \|\| [OPEN SOURCE Sundeep Saradhi Kanthety](https://www.youtube.com/watch?v=rFwdniyo0CM) |
 | you need to learn BASH Scripting RIGHT NOW!! [NetworkChuck](https://www.youtube.com/watch?v=SPwyp2NG-bE)                                                          |
 | Shell编程从入门到实战（二）【2019千锋Linux】（35集）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4\_yXi-tEa2zTGY6BayASLS)                                               |
-|                                                                                                                                                                   |
 
 |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- |
@@ -194,23 +192,23 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## **Git & Github**
 
-|                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn) |
-| [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                 |
-| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**                                                                               |
-| **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                             |
-| GitHub Documentation [ch](\[link]\(https:/docs.github.com/cn\)/) [en](\[link]\(https:/docs.github.com/en\)/)                                                           |
-|                                                                                                                                                                        |
-| GitHub [u](https://www.youtube.com/c/GitHub/featured)                                                                                                                  |
-| git 提交规范                                                                                                                                                               |
-|                                                                                                                                                                        |
-| Open Source Guides [s](https://opensource.guide) [license](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)                    |
-| Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                             |
-| github-actions [s](https://github.com/features/actions) bot                                                                                                            |
-| GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                           |
-|                                                                                                                                                                        |
-|                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn)                                                                                                                                                                                                                                  |
+| [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                                                                                                                                                                                                                                                  |
+| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**                                                                                                                                                                                                                                                                                                                |
+| **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                                                                                                                                                                                                                                                              |
+| GitHub Documentation [ch](\[link]\(https:/docs.github.com/cn\)/) [en](\[link]\(https:/docs.github.com/en\)/)                                                                                                                                                                                                                                                                                            |
+| GitLab [u](https://www.youtube.com/c/GitLab/featured) [Personal access tokens](https://docs.gitlab.com/ee/user/profile/personal\_access\_tokens.html#personal-access-token-scopes) [docs](https://docs.gitlab.com/ee/) [Personal/project access tokens](https://docs.gitlab.com/ee/api/index.html#personalproject-access-tokens) [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/index.html) |
+| GitHub [u](https://www.youtube.com/c/GitHub/featured)                                                                                                                                                                                                                                                                                                                                                   |
+| git 提交规范                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Open Source Guides [s](https://opensource.guide) [license](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)                                                                                                                                                                                                                                                     |
+| Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                                                                                                                                                                                                                                                              |
+| github-actions [s](https://github.com/features/actions) bot                                                                                                                                                                                                                                                                                                                                             |
+| GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 | github.dev                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -218,12 +216,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | What is GitHub Codespaces? (and github.dev) [ForrestKnight](https://www.youtube.com/watch?v=vDXPkAdqSyI)                                            |
 | VS Code anywhere: GitHub Codespaces and github.dev [Visual Studio Code](https://www.youtube.com/watch?v=c3hHhRME\_XI) [tick.com](https://tick.com/) |
 |                                                                                                                                                     |
-
-| GitLab                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitLab [u](https://www.youtube.com/c/GitLab/featured) [Personal access tokens](https://docs.gitlab.com/ee/user/profile/personal\_access\_tokens.html#personal-access-token-scopes) [docs](https://docs.gitlab.com/ee/) [Personal/project access tokens](https://docs.gitlab.com/ee/api/index.html#personalproject-access-tokens) [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/index.html) |
-| GitLab CI CD Tutorial for Beginners \[Crash Course] [TechWorld with Nana](https://www.youtube.com/watch?v=qP8kir2GUgo)                                                                                                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 | 课程                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -359,8 +351,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | DevOps Prerequisites Course - Getting started with DevOps [freeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY)                                                                                                                                                                 |
 | How To Become a DevOps Engineer In Six Months or Less [1](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d) [2](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) medium |
 | Who is DevOps? Is it Worth it to Become a DevOps Engineer? [Spacelift](https://spacelift.io/blog/who-is-devops-engineer)                                                                                                                                                              |
-| Complete END to END Azure DevOps Tutorials Series with Practical's \[ Full Course in 4 Hours ] [DevOps Mela](https://www.youtube.com/watch?v=7YMWthE6RTY)                                                                                                                             |
-| DevOps [Automation Step by Step](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8HKqfIp6qcAeGb3FAGDNLA)                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                       |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac)                                                                                                                                                                              |
@@ -378,8 +368,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | quick.nvim \| A fast, modern and reliable Neovim configuration [Albin Groen](https://www.youtube.com/watch?v=OhbgZbORFd4) |
 | Vim And Emacs Are The Most Important Skills You Should Learn [DistroTube](https://www.youtube.com/watch?v=F8ZOnz0x9UM)    |
 | Vim Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=RZ4p-saaQkc) NeuralNine                         |
-| Vim Tutorials [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-)                   |
-|                                                                                                                           |
 |                                                                                                                           |
 
 ### Neovim
@@ -405,8 +393,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ubuntu下通过wine安装windows软件(以微信和Adobe Acrobat Pro为例) [zh](https://zhuanlan.zhihu.com/p/136328910)                                                                      |
 | wine下载及运行最新版QQ [v](https://www.youtube.com/watch?v=VqxZWLrySYk)                                                                                                     |
 | How to Install Wine 6.0.1 on Ubuntu 20.04 \| Wine 6.0.1 Linux Install \| Installing Wine on Ubuntu [TechSolutionZ](https://www.youtube.com/watch?v=TkxjY60mTQE)     |
-| Linux Gaming [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2D\_\_mzMSSnH1AdBf3lAFNlp)                                                            |
-| Gentoo [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2CADmCYeVhS4KTVut9MoMc9)                                                                    |
+|                                                                                                                                                                     |
+|                                                                                                                                                                     |
 
 ## PPA
 
