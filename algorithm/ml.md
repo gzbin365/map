@@ -1131,6 +1131,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Kevin Goetsch \| Deploying Machine Learning using sklearn pipelines [PyData](https://www.youtube.com/watch?v=URdnFlZnlaE)        |
 | Talk \| 清华大学在读博士生胡展豪：可以骗过人工智能检测器的隐身衣 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3IwhfFZcjjw)                              |
 
+## Diffusion models
+
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew) |
+|                                                                                                             |
+|                                                                                                             |
+
 ## AI Safety
 
 |                                                                                                                                                                                                 |
