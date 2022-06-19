@@ -237,13 +237,15 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### 逻辑学 Mathematical Logic
 
-|                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 逻辑学概论 - 清华大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Q2aZchRncgYvOlxdZr5feI))                                                    |
-| [False Proofs And Fallacies](https://www.youtube.com/playlist?list=PLDZcGqoKA84GGbEWAu7bOpfJgxIx76x-F)(MindYourDecisions)                         |
-| [Logic Puzzles And Riddles](https://www.youtube.com/playlist?list=PLDZcGqoKA84GZXo\_6e4v\_gKf7u4UcNgRl)(MindYourDecisions)                        |
-| [The Fundamentals of Logic](https://www.youtube.com/playlist?list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ) patrickJMT                                  |
-| [Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N) Understanding Machine Learning - Shai Ben-David |
+|                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 逻辑学概论 - 清华大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Q2aZchRncgYvOlxdZr5feI))                                                                                                                                                                               |
+| [False Proofs And Fallacies](https://www.youtube.com/playlist?list=PLDZcGqoKA84GGbEWAu7bOpfJgxIx76x-F)(MindYourDecisions)                                                                                                                                                    |
+| [Logic Puzzles And Riddles](https://www.youtube.com/playlist?list=PLDZcGqoKA84GZXo\_6e4v\_gKf7u4UcNgRl)(MindYourDecisions)                                                                                                                                                   |
+| [The Fundamentals of Logic](https://www.youtube.com/playlist?list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ) patrickJMT                                                                                                                                                             |
+| [Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N) Understanding Machine Learning - Shai Ben-David                                                                                                                            |
+| <p>Maths for Programmers Tutorial - Full Course on Sets and Logic <a href="https://www.youtube.com/watch?v=2SpuBqvNjHI">freeCodeCamp</a></p><p>Maths for Programmers <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1">freeCodeCamp</a></p> |
+|                                                                                                                                                                                                                                                                              |
 
 ### 范畴轮 Category Theory
 
@@ -289,11 +291,12 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### 集合论 Set Theory
 
-|                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **集合論入門(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VOpqgHuANy6S6HBsk6\_Zp0)**)**                                                     |
-| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                      |
-| [Introduction to Infinite Sets](https://www.youtube.com/playlist?list=PLPW2keNyw-usa9Hs-UDeagHuuPnD2Xahs) Understanding Machine Learning - Shai Ben-David |
+|                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **集合論入門(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VOpqgHuANy6S6HBsk6\_Zp0)**)**                                                                                                                                                                        |
+| 集合论与图论（上）-哈尔滨工业大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_T7Luk7omuvMa\_8GiuyVMSn))                                                                                                                                                                         |
+| [Introduction to Infinite Sets](https://www.youtube.com/playlist?list=PLPW2keNyw-usa9Hs-UDeagHuuPnD2Xahs) Understanding Machine Learning - Shai Ben-David                                                                                                                    |
+| <p>Maths for Programmers Tutorial - Full Course on Sets and Logic <a href="https://www.youtube.com/watch?v=2SpuBqvNjHI">freeCodeCamp</a></p><p>Maths for Programmers <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1">freeCodeCamp</a></p> |
 
 ###
 
@@ -335,6 +338,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Linear Algebra for Computer Scientists [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc)                                                                                                                                                                                                                        |
 | Wild Linear Algebra [Insights into Mathematics](https://www.youtube.com/playlist?list=PLIljB45xT85BhzJ-oWNug1YtUjfWp1qAp)                                                                                                                                                                                                                                  |
 | Algebra for Beginners \| Basics of Algebra [Geek's Lesson](https://www.youtube.com/watch?v=PVoTRu3p6ug)                                                                                                                                                                                                                                                    |
+| <p>Maths for Programmers Tutorial - Full Course on Sets and Logic <a href="https://www.youtube.com/watch?v=2SpuBqvNjHI">freeCodeCamp</a></p><p>Maths for Programmers <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1">freeCodeCamp</a></p>                                                                               |
 |                                                                                                                                                                                                                                                                                                                                                            |
 
 ### 矩阵论 矩阵分析
@@ -438,6 +442,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 |                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Maths for Programmers Tutorial - Full Course on Sets and Logic <a href="https://www.youtube.com/watch?v=2SpuBqvNjHI">freeCodeCamp</a></p><p>Maths for Programmers <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1">freeCodeCamp</a></p>                                  |
 | **Precalculus Course(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=eI4an8aSsgw\&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v\&index=3)**)5:22:01**                                                                                                                                                      |
 | **Calculus 1 - Full College Course(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=HfACrKJ\_Y2w\&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v\&index=4)**)11:53:47**                                                                                                                                      |
 | **Calculus 2 - Full College Course(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=7gigNsz4Oe8\&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v\&index=6)**)6:52:52**                                                                                                                                        |
@@ -642,11 +647,11 @@ $$
 
 #### 假设检验
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                               |
+| ----------------------------------------------------------------------------- |
+| 关于显著性检验，你想要的都在这儿了！！（基础篇）[博客园](https://www.cnblogs.com/hdu-zsk/p/6293721.html) |
+|                                                                               |
+|                                                                               |
 
 ### 随机过程 Stochastic processes
 
