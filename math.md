@@ -576,6 +576,9 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 浙江大学 概率论与数理统计 [张帼奋](https://www.bilibili.com/video/BV1r4411Z7XR) 21:20:48                                                                                                                                                                                                                                                                                                              |
 | 概率论与数理统计-宋浩 [九层台](https://www.youtube.com/playlist?list=PL4zrv2vhJAeBpl\_spgWJZE9RvSsW8aZ7n)                                                                                                                                                                                                                                                                                           |
 | 概率论与数理统计 中国科学技术大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7hUT2F-nHycWMsDbr\_GXIUU)                                                                                                                                                                                                                                                                             |
+| 教育統計學 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRCD6BGbDyCrf0mZm1hHJEl)                                                                                                                                                                                                                                                                                                  |
+| 多元統計分析(多變量分析/圖形識別) [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrT7WP9-yGVV0ep66y3MPmCv)                                                                                                                                                                                                                                                                                     |
+| 基礎統計概論含R實作 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQYj2KFUus-Z3scvBPDpWgk)                                                                                                                                                                                                                                                                                             |
 
 ### 概率 Probability
 
@@ -647,6 +650,20 @@ $$
 | 医学统计学-郝元涛（中山大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6)                                                                                           |
 | keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
 | <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
+|                                                                                                                                                                                                    |
+
+| IRT理論                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IRT理论即项目反应理论(Item Response Theory, IRT)，又称题目反应理论、潜在特质理论（Item Response Theory）是一系列心理统计学模型的总称。[baike](https://baike.baidu.hk/item/IRT%E7%90%86%E8%AB%96/7965650) |
+| Item Selection [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRdBu-dPPK-3QtDYXxLlYcr)                                                                 |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| 學習評量/教學評量 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTUKt81ZqaEUxKIrOGyppXj) |
+|                                                                                           |
+|                                                                                           |
 
 #### 假设检验 Hypothesis Testing
 
@@ -872,6 +889,7 @@ $$
 | 梯度的方向为什么是函数值增加最快的方向？ [姚远](https://zhuanlan.zhihu.com/p/38525412)                                                                                    |
 | \[TA 補充課] Optimization for Deep Learning (1/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=4pUmZ8hXlHM)                              |
 | \[TA 補充課] Optimization for Deep Learning (2/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=e03YKGHXnL8)                              |
+| 數學在試題分析上的應用 (最佳化) [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQVP25eoHgM2Fx-UQGG5v2W)                                                   |
 |                                                                                                                                                     |
 
 ### 凸优化 Convex Optimization

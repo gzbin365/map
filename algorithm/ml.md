@@ -733,6 +733,14 @@ How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=U
 | 【千锋大数据】机器学习之SVM教程（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)                                                                 |
 | Understanding SVM ,its Type ,Applications and How to use with Python [engineerknow](https://www.engineerknow.com/2021/12/understanding-svm-its-type-applications.html) |
 
+### Kernel Method
+
+|                                                                                               |
+| --------------------------------------------------------------------------------------------- |
+| Kernel Method [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy) |
+|                                                                                               |
+|                                                                                               |
+
 ### 神经网络 Neural Networks
 
 |                                                                                                                                              |
@@ -951,7 +959,9 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Learning to learn: An Introduction to Meta Learning [Machine Learning TV](https://www.youtube.com/watch?v=ByeRnmHJ-uk)                                      |
 | Meta learning by Hugo [yet Shell](https://www.youtube.com/watch?v=lz0ekIVfoFs)                                                                              |
 | Ilya Sutskever: OpenAI Meta-Learning and Self-Play \| MIT Artificial General Intelligence (AGI) [Lex Fridman](https://www.youtube.com/watch?v=9EN\_HoEk3KY) |
-|                                                                                                                                                             |
+| 各種奇葩的元學習 (Meta Learning) 用法 [Hung-yi Lee](https://www.youtube.com/watch?v=QNfymMRUg3M)                                                                      |
+| 【機器學習2021】元學習 Meta Learning (一) - 元學習跟機器學習一樣也是三個步驟 [Hung-yi Lee](https://www.youtube.com/watch?v=xoastiYx9JU)                                               |
+| 【機器學習2021】元學習 Meta Learning (二) - 萬物皆可 Meta [Hung-yi Lee](https://www.youtube.com/watch?v=Q68Eh-wm1Ts)                                                      |
 
 ### 注意力
 
@@ -1130,6 +1140,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | How to Deploy Machine Learning Apps? [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx) |
 | Kevin Goetsch \| Deploying Machine Learning using sklearn pipelines [PyData](https://www.youtube.com/watch?v=URdnFlZnlaE)        |
 | Talk \| 清华大学在读博士生胡展豪：可以骗过人工智能检测器的隐身衣 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3IwhfFZcjjw)                              |
+
+## Diffusion models
+
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew) |
+|                                                                                                             |
+|                                                                                                             |
 
 ## AI Safety
 

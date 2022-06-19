@@ -6,14 +6,13 @@
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | **1BestCsharp blog(**[**u**](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw)**, )**     |                                                                        |
 | **编程零基础入门到就业(**[**u**](https://www.youtube.com/channel/UCMUkEyEihqfTPMT-MbTcGgw/playlists)**, )** | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists) |
-| Math and Science [u](https://www.youtube.com/user/mathtutordvd/playlists)                         | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)     |
+|                                                                                                   | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)     |
 
 |                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 在老师研读了几十本Java书以后，比较好的一本 [v](https://www.douyin.com/video/7007347180830821668?count=10\&cursor=1631647229000\&modeFrom=userLike\&pre\_vid=7003625998822411551\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF) |
 | 分享GitHub上Java语言相关的4个优质开源项目　[ZStack云计算](https://www.douyin.com/video/7037753671525977377)                                                                                                                                                                                         |
 | Java面试题链接: https://pan.baidu.com/s/1nqCc3ejXwFekuXO1lb1dCA 密码: ap7i                                                                                                                                                                                                              |
-| xbox1994/[Java-Interview](https://github.com/xbox1994/Java-Interview)  高级Java后台开发面试指南                                                                                                                                                                                            |
 
 ##
 

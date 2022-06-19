@@ -65,6 +65,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                      |
 | Image filters in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZrTsptDOKRdSsVO5mU5Qf0)                                                                                                                           |
 | Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
+| Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                     |
 |                                                                                                                                                                                                                                             |
 
 | pillow                                                             |                                                 |   |   |

@@ -89,6 +89,12 @@
 | ----------------------------------------------------------------------------------------- | - |
 | HBase基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbpYutMb5xJ1891erEb3OWO) |   |
 
+|                                                                              |
+| ---------------------------------------------------------------------------- |
+| 李政軒 [u](https://www.youtube.com/c/%E6%9D%8E%E6%94%BF%E8%BB%92chli/playlists) |
+|                                                                              |
+|                                                                              |
+
 ### 分布式
 
 | Zabbix                                                                                                              |
@@ -99,3 +105,5 @@
 | 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                  |
 | 最通俗易懂的CAP定理教程 [技术喵](https://www.youtube.com/watch?v=yA-mOVIO8jA)                                                    |
 | 分布式系统\&DDIA [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3pQjcgSAxeXvYCyTa-luOc)                        |
+| 参数服务器（Parameter Server）逐段精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=yFoeHcCqD2c)                              |
+| Pathways 论文精读【论文精读】 [跟李沐学AI](https://www.youtube.com/watch?v=UK3msk4qs\_4)                                          |
