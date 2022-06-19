@@ -4,10 +4,10 @@
 
 ## 围棋
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| 明玥谈棋 [u](https://www.youtube.com/channel/UCt6XChx1eio8URP5mHxWIUw/videos) |
-|                                                                           |
-|                                                                           |
+|                                                                                       |
+| ------------------------------------------------------------------------------------- |
+| 明玥谈棋 [u](https://www.youtube.com/channel/UCt6XChx1eio8URP5mHxWIUw/videos)             |
+| weibin zhuang [u](https://www.youtube.com/channel/UCUgEQjTuP5SQHk7O4fgOcgQ/playlists) |
+| Yifei Hu [u](https://www.youtube.com/channel/UCfGY9xUbDuSGWO-t5nIC33A/playlists)      |
 
 ## 其他
