@@ -411,6 +411,7 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 | Python Automation Tutorial – How to Automate Tasks for Beginners \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx\_U)                           |
 | Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                   |
 | Unit Testing in Python with pytest [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)                                      |
+| Automate with Python – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)                                                           |
 |                                                                                                                                                                        |
 
 {% tabs %}
