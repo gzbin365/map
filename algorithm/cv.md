@@ -66,6 +66,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Image filters in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZrTsptDOKRdSsVO5mU5Qf0)                                                                                                                           |
 | Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
 | Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                     |
+| Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                            |
 |                                                                                                                                                                                                                                             |
 
 | pillow                                                             |                                                 |   |   |
@@ -356,6 +357,7 @@ import cv2
 |                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                                                          |
+| AI游戏脚本难不难学，竞技类MOBA链游有没有机会搬砖打金？[米斯特姚](https://www.youtube.com/watch?v=9rn8IegWNdM)                                                                                                                                |
 | Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot)                                      |
 | Make a bot that plays chrome dino game in python \| OpenCV Tutorial \| Beginners [Amrit Aryal](https://www.youtube.com/watch?v=mIojvoMRerU)                                                                      |
 | Dominating an Online Multiplayer Game using Python and OpenCV. [ClarityCoders](https://www.youtube.com/watch?v=X2bRXcCvmKY)                                                                                      |

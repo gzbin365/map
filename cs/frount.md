@@ -285,7 +285,6 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                              |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
 | LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
 | 彭彭老師的直播紀錄 彭彭的課程                                                                                                                                                                              |
@@ -402,14 +401,6 @@ Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
 MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1chMISeTC0)
-
-### Elastic UI
-
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| elastic/[eui](https://github.com/elastic/eui)   [s](https://elastic.github.io/eui/#/) |
-|                                                                                       |
-|                                                                                       |
 
 ### Figma
 
