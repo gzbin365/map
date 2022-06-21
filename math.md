@@ -115,23 +115,25 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### Manim
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                       |
-| reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                       |
-| **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                        |
-| cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                               |
-| **ManimCairo tutorial** [**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F) |
-| **The Manim Cast** [**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)          |
-| **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                  |
-| manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                             |
-| 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                 |
-| Manim Tutorial [Manim Kindergarten](https://www.youtube.com/playlist?list=PLhxQqVGjoEvY\_KhWzQpZ2ozeLV\_On1ick)              |
-| manim-kindergarten/[manim\_sandbox](https://github.com/manim-kindergarten/manim\_sandbox)   汇总整合各成员提供的manim代码和模块。            |
-| Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                       |
-| cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                    |
-| manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                             |
-| Learn Manim - Full Course for Beginners \[Tutorial] [Brian Amedee](https://www.youtube.com/watch?v=KHGoFDB-raE)              |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                          |
+| reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                                                          |
+| Create Math Animations Like 3Blue1Brown using Manim [search](https://www.youtube.com/results?search\_query=Create+Math+Animations+Like+3Blue1Brown+using+Manim) |
+| Creating math animations in Python with Manim [Gilbert Tanner](https://www.youtube.com/watch?v=ixQ9DthtcHM)                                                     |
+| **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                                                           |
+| cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                                                                  |
+| **ManimCairo tutorial** [**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)                                    |
+| **The Manim Cast** [**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)                                             |
+| **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                                                     |
+| manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                                                                |
+| 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                                                    |
+| Manim Tutorial [Manim Kindergarten](https://www.youtube.com/playlist?list=PLhxQqVGjoEvY\_KhWzQpZ2ozeLV\_On1ick)                                                 |
+| manim-kindergarten/[manim\_sandbox](https://github.com/manim-kindergarten/manim\_sandbox)   汇总整合各成员提供的manim代码和模块。                                               |
+| Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                                                          |
+| cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                                                       |
+| manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                                                                |
+| Learn Manim - Full Course for Beginners \[Tutorial] [Brian Amedee](https://www.youtube.com/watch?v=KHGoFDB-raE)                                                 |
 
 | ManimCE                                                                 |
 | ----------------------------------------------------------------------- |
