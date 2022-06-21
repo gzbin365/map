@@ -150,11 +150,13 @@ description: 硬件设备
 | Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
 |                                                                                                                            |   |
 
-| MSI                                                                              |
-| -------------------------------------------------------------------------------- |
-| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c) |
-|                                                                                  |
-|                                                                                  |
+|                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c)                                                                  |
+| The World’s Most Powerful Laptop! [Jarrod'sTech](https://www.youtube.com/watch?v=UQMcEc8C8QE) Titan GT77                                          |
+| Surface Laptop Studio                                                                                                                             |
+| Surface Laptop Studio评测：三合一能变形，是噱头还是真有料？丨[凰家评测](https://www.youtube.com/watch?v=8vSr3PUV7k4)                                                      |
+| <p>我们仍未知道你的下一台电脑的名字。 <a href="https://www.youtube.com/watch?v=EjtG8oxREjc">极客湾Geekerwan</a></p><p>Surface Pro 7、Surface Pro X和iPad Pro的横向对比视频</p> |
 
 ## Drone / UAV
 
@@ -295,13 +297,14 @@ description: 硬件设备
 
 ## 显示器 屏幕
 
-|                                                                                  |
-| -------------------------------------------------------------------------------- |
-| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)     |
-| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders |
-| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)  |
-|                                                                                  |
-|                                                                                  |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)                          |
+| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders                      |
+| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)                       |
+| 【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 [硬件茶谈](https://www.youtube.com/watch?v=v\_-q1ybcTF8)                    |
+| 【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？[硬件茶谈](https://www.youtube.com/watch?v=orWW\_-qd2uk) |
+| 【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 [硬件茶谈](https://www.youtube.com/watch?v=gZriQjtABCk)                 |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
@@ -351,7 +354,7 @@ description: 硬件设备
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
-|                                                                                                                     |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
 |                                                                                                                     |
 
 ## 手工

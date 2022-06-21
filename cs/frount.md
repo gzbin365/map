@@ -278,14 +278,13 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | 網頁前端工程入門：基礎 CSS 教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=Jr7lwHnTK68)                                                                                                              |
 | Create a Design System with CSS - Web Development Course [freeCodeCamp](https://www.youtube.com/watch?v=lRaL-8qZ0mM)                                                                       |
 | CSS Full Course \| CSS Tutorial For Beginners \| CSS Interview Questions And Answers \| [Simplilearn](https://www.youtube.com/watch?v=J5KxiOnIrKg)                                         |
-| Can I Create A Deck Of Cards With CSS? Web Dev [Simplified](https://www.youtube.com/watch?v=iEPK5fppX8w)                                                                                   |
+|                                                                                                                                                                                            |
 |                                                                                                                                                                                            |
 
 ## JavaScript
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                              |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
 | LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
 | 彭彭老師的直播紀錄 彭彭的課程                                                                                                                                                                              |
@@ -402,14 +401,6 @@ Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
 MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1chMISeTC0)
-
-### Elastic UI
-
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| elastic/[eui](https://github.com/elastic/eui)   [s](https://elastic.github.io/eui/#/) |
-|                                                                                       |
-|                                                                                       |
 
 ### Figma
 
