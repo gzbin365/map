@@ -256,8 +256,6 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch - Deep Learning Course \| Full Course \| Session -1 \| Python [Tangoo Express](https://www.youtube.com/watch?v=qpF6kwuJAaU)                                                                                                                              |
 | Getting Started With PyTorch (C++) [Alan Tessier](https://www.youtube.com/playlist?list=PLZAGo22la5t4UWx37MQDpXPFX3rTOGO3k)                                                                                                                                      |
 | PyTorch on Apple Silicon \| Machine Learning [Alex Ziskind](https://www.youtube.com/watch?v=f4utF9IcvEM)                                                                                                                                                         |
-| Invited Talk: [PyTorch Distributed (DDP, RPC)](https://www.youtube.com/watch?v=3XUG7cjte2U) - By Facebook Research Scientist Shen Li                                                                                                                             |
-| 7 PyTorch Tips You Should Know [Edan Meyer](https://www.youtube.com/watch?v=BoC8SGaT3GE)                                                                                                                                                                         |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -669,25 +667,24 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 ### 回归 Regression
 
-|                                                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                                                                                 |
-| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                                                                               |
-| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                                                                        |
-| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                                                                      |
-| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                                                                     |
-| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                                                                         |
-| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                                                                   |
-| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                                                                    |
-| Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8)                                                    |
-| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                                                                    |
-| How to do Multiple Linear Regression in Python\| Jupyter Notebook\|Sklearn [Megha Narang](https://www.youtube.com/watch?v=WngoqVB6cXw)                                       |
-| Multivariable Linear Regression using Gradient Descent Algorithm in Python,Step by Step from scratch [PAUL ACADEMY](https://www.youtube.com/watch?v=xrPZbHrxrWo)             |
-| Multiple Linear Regression using python and sklearn [Krish Naik](https://www.youtube.com/watch?v=5rvnlZWzox8)                                                                |
-| Statistics PL15 - Multiple Linear Regression [Brandon Foltz](https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq\_4z-)                                      |
-| Linear Regression From Scratch in Python (Mathematical) [NeuralNine](https://www.youtube.com/watch?v=VmbA0pi2cRQ)                                                            |
-| 简单线性回归简介（simple linear regression ）Python统计66——Python程序设计系列169 [Andrew 程序设计](https://www.youtube.com/watch?v=dBpteB5F0Pk\&list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD\&index=64) |
-| 11 1 简单线性回归的统计描述 11 [医学统计学-郝元涛（中山大学）](https://www.youtube.com/watch?v=pMqrpZaUvOQ\&list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6\&index=53)                                       |
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                                                                     |
+| 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                                                                   |
+| 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                                                            |
+| 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                                                          |
+| Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                                                         |
+| Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                                                             |
+| 10b Machine Learning: LASSO Regression [GeostatsGuy Lectures](https://www.youtube.com/watch?v=cVFYhlCCI\_)                                                       |
+| Polynomial Regression in Python [NeuralNine](https://www.youtube.com/watch?v=H8kocPOT5v0)                                                                        |
+| Poisson regression with tidymodels for package vignette counts [Julia Silge](https://www.youtube.com/watch?v=NEPEgfryId8)                                        |
+| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                                                        |
+| How to do Multiple Linear Regression in Python\| Jupyter Notebook\|Sklearn [Megha Narang](https://www.youtube.com/watch?v=WngoqVB6cXw)                           |
+| Multivariable Linear Regression using Gradient Descent Algorithm in Python,Step by Step from scratch [PAUL ACADEMY](https://www.youtube.com/watch?v=xrPZbHrxrWo) |
+| Multiple Linear Regression using python and sklearn [Krish Naik](https://www.youtube.com/watch?v=5rvnlZWzox8)                                                    |
+| Statistics PL15 - Multiple Linear Regression [Brandon Foltz](https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq\_4z-)                          |
+| Linear Regression From Scratch in Python (Mathematical) [NeuralNine](https://www.youtube.com/watch?v=VmbA0pi2cRQ)                                                |
+|                                                                                                                                                                  |
 
 ### KNN
 
@@ -986,16 +983,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ### 联邦学习  Federated Learning
 
-|                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chaoyang He [u](https://www.youtube.com/channel/UCitUvawrBSCUVWxcnhxaBGg/playlists)                                                                          |
-| 联邦学习：技术角度的讲解（中文）Introduction to Federated Learning [Shusen Wang](https://www.youtube.com/watch?v=STxtRucv\_zo)                                               |
-| 杨强 \| 用户隐私，数据孤岛和联邦学习 [清华大学智能产业研究院](https://www.youtube.com/watch?v=hfcVQCXGPvs)                                                                              |
-| 刘洋丨联邦学习的技术挑战和应用展望 [清华大学智能产业研究院](https://www.youtube.com/watch?v=3uM7vpF\_GEw)                                                                                |
-| 分布式机器学习 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5)                                                              |
-| FedML联邦机器学习开源框架视频教程全集 [Chaoyang He](https://www.youtube.com/playlist?list=PLyJHWqVYebOqsLrROg3S4Iv3UTxtUTMBz)                                                |
-| \[Tutorial] FedML: a research library for federated machine learning [Chaoyang He](https://www.youtube.com/playlist?list=PLyJHWqVYebOqNZzN7EpQQp7VG6qzgkgP8) |
-|                                                                                                                                                              |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| Chaoyang He [u](https://www.youtube.com/channel/UCitUvawrBSCUVWxcnhxaBGg/playlists)                            |
+| 联邦学习：技术角度的讲解（中文）Introduction to Federated Learning [Shusen Wang](https://www.youtube.com/watch?v=STxtRucv\_zo) |
+| 杨强 \| 用户隐私，数据孤岛和联邦学习 [清华大学智能产业研究院](https://www.youtube.com/watch?v=hfcVQCXGPvs)                                |
+| 刘洋丨联邦学习的技术挑战和应用展望 [清华大学智能产业研究院](https://www.youtube.com/watch?v=3uM7vpF\_GEw)                                  |
+| 分布式机器学习 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5)                |
+|                                                                                                                |
 
 ### AB测试 A/B testing
 

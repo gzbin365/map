@@ -159,6 +159,7 @@ description: 硬件设备
 | <p>我们仍未知道你的下一台电脑的名字。 <a href="https://www.youtube.com/watch?v=EjtG8oxREjc">极客湾Geekerwan</a></p><p>Surface Pro 7、Surface Pro X和iPad Pro的横向对比视频</p> |
 | Surface Laptop 4s vs M1 MacBook Air: You'll Be Shocked! [Max Tech](https://www.youtube.com/watch?v=7yTWGjYFiC0)                                   |
 | 開給你看 \| Surface Laptop Studio \| 家族新成員、11 代 H 系列處理器 RTX 3050 Ti 顯示卡 #19 [Microsoft Trainer 微軟零售講師](https://www.youtube.com/watch?v=K-zUE6R84Gg)   |
+| M2 芯片 MacBook Pro 13 寸评测：为什么说这是学生本？[钟文泽](https://www.youtube.com/watch?v=3KLH3FVVrHY)                                                             |
 
 ## Drone / UAV
 
