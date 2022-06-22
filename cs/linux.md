@@ -35,7 +35,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **kdenlive(**[**en**](https://kdenlive.org/en/)**,** [**zh**](https://kdenlive.org/zh/)**, )** |                                                                                                 |
 | ubuntu one [s](https://login.ubuntu.com/)                                                      | ubuntu pastebin [s](https://paste.ubuntu.com/) [v](https://www.youtube.com/watch?v=MLkKff4o8zw) |
-|                                                                                                |                                                                                                 |
+| askubuntu [s](https://askubuntu.com/)                                                          |                                                                                                 |
 |                                                                                                |                                                                                                 |
 
 ### Linux Distribution / Linux Distros

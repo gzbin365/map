@@ -143,6 +143,7 @@
 | Python Basics with Sam [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Python for Beginners (Full Course) \| Programming Tutorial [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Get the Best Python Books for Free [David Bombal](https://www.youtube.com/watch?v=7iBqoc-DzTQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ### 传智/黑马
 
@@ -411,6 +412,7 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 | Python Automation Tutorial – How to Automate Tasks for Beginners \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx\_U)                           |
 | Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                   |
 | Unit Testing in Python with pytest [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)                                      |
+| Automate with Python – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)                                                           |
 |                                                                                                                                                                        |
 
 {% tabs %}
@@ -471,7 +473,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Build a desktop app with Python [Harika bv](https://medium.com/@harikabv/build-a-desktop-app-with-python-521e37c75517)                                                                                                           |
 | <p>How To Create A Desktop Application Using Python And Tkinter</p><p><a href="https://medium.com/analytics-vidhya/how-to-create-a-desktop-application-using-python-and-tkinter-25b6347cf845">Mohammed El Amine Mokhtari</a></p> |
 | Build a Weather app with Python and Tkinter [DevUpskill net](https://www.youtube.com/watch?v=7JoMTQgdxg0)                                                                                                                        |
-|                                                                                                                                                                                                                                  |
+| Create GUI App with Tkinter and SQLite - Step by Step Python Tutorial for Beginners [Python Simplified](https://www.youtube.com/watch?v=5qOnzF7RsNA)                                                                             |
 
 | PyQt                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -848,7 +850,8 @@ Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files [Corey Sch
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
 | Python Tutorial: Working with JSON Data using the json Module [Corey Schafer](https://www.youtube.com/watch?v=9N6a-VLBa2I) |
-|                                                                                                                            |
+| Learn JSON in 10 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=iiADhChRriM)                                 |
+| What is JSON ? [Telusko](https://www.youtube.com/watch?v=JuFdz8f-cT4)                                                      |
 |                                                                                                                            |
 
 ## **Auto Download of Videos & Images**
