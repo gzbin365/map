@@ -157,6 +157,8 @@ description: 硬件设备
 | Surface Laptop Studio                                                                                                                             |
 | Surface Laptop Studio评测：三合一能变形，是噱头还是真有料？丨[凰家评测](https://www.youtube.com/watch?v=8vSr3PUV7k4)                                                      |
 | <p>我们仍未知道你的下一台电脑的名字。 <a href="https://www.youtube.com/watch?v=EjtG8oxREjc">极客湾Geekerwan</a></p><p>Surface Pro 7、Surface Pro X和iPad Pro的横向对比视频</p> |
+| Surface Laptop 4s vs M1 MacBook Air: You'll Be Shocked! [Max Tech](https://www.youtube.com/watch?v=7yTWGjYFiC0)                                   |
+| 開給你看 \| Surface Laptop Studio \| 家族新成員、11 代 H 系列處理器 RTX 3050 Ti 顯示卡 #19 [Microsoft Trainer 微軟零售講師](https://www.youtube.com/watch?v=K-zUE6R84Gg)   |
 
 ## Drone / UAV
 
@@ -215,6 +217,14 @@ description: 硬件设备
 | [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo |   |
 | 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z) |   |
 
+## UV印刷
+
+|                                                                                    |
+| ---------------------------------------------------------------------------------- |
+| 5大重點告訴你UV印刷的特色｜[奕昇數位印刷](https://www.youtube.com/watch?v=28QUEVPFwDE)               |
+| 耗時45天！純手工打造全球首台《荒野大镖客2：救贖》主題電腦「[超極氪](https://www.youtube.com/watch?v=RwcBCFmrmS0)」 |
+|                                                                                    |
+
 ## FPGA
 
 |                                                                                                                                                     |
@@ -271,6 +281,7 @@ description: 硬件设备
 | Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                      |
 | 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
 | 挤爆牙膏！英特尔新CPU变强的秘密，被我找到了 [老石谈芯](https://www.youtube.com/watch?v=o4K6cuSVf1s) 异构                                                                                    |
+| Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)                                   |
 
 ## DPU
 
@@ -363,7 +374,7 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
-|                                                                                                                                      |
+| 无痕胶 魔术贴                                                                                                                              |
 
 ## 机器人 Robot
 
