@@ -97,7 +97,7 @@ Id, 而他的兄弟InDesign可以设计排版
 
 视频处理
 
-Pr, Premiere Pro, 视频剪辑工具
+Pr, Premiere Pro, 视频剪辑工具, 对CPU多核要求高
 
 Pl, Prelude可以对视频素材进行批量处理
 

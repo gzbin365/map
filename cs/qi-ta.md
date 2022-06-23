@@ -46,6 +46,7 @@
 | Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
 | Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
 | Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
+| 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
 
 ## C\#
 
@@ -123,6 +124,7 @@
 | Razor Pages for ASP.NET Core - Full Course (.NET 6) [freeCodeCamp](https://www.youtube.com/watch?v=eru2emiqow0)                    |
 | .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                        |
 | .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
+| Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
 
 ## HTTP
 
@@ -155,6 +157,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)          |
 | How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE) |
+| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                    |
 
 ### Netlify
 
@@ -210,6 +213,7 @@
 
 | Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pokete - Playing Pokémon From The Command Line [Mental Outlaw](https://www.youtube.com/watch?v=iN3G9YsWGks) [git](https://github.com/lxgr-linux/pokete)         |
 | Build 5 Games in Python \| Beginner Portfolio Project [Python Engineer](https://www.youtube.com/watch?v=C6M67z4\_bZ8)                                           |
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
 | <p>Snake Game using Opencv Python + 3080 Ti Giveaway</p><p><a href="https://www.youtube.com/watch?v=w26Ze6lP02Y">Murtaza's Workshop - Robotics and AI</a></p>   |
@@ -272,6 +276,7 @@
 
 |                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Roblox 3D遊戲設計教學 [Meta School 元學院](https://www.youtube.com/playlist?list=PL\_z49Xqvcua0LiuG8ZmFuTXu8SlKB21uz)                                                                           |
 | [Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection](https://www.youtube.com/watch?v=ih20l3pJoeU)                                                                   |
 | Cross Platform Graphical User Interfaces in C++([javidx9](https://www.youtube.com/watch?v=FOIbK4bJKS8))                                                                                |
 | 3D动画与特效-张燕翔（中国科学技术大学）([u](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb6jWMizqUd1FyCYx2Qeo11), )                                                                                 |
@@ -503,11 +508,23 @@
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | <p>現實的風向已經在變了？ 為什麼 Microsoft Edge 的聲勢在國外開始水漲船高？</p><p><a href="https://www.youtube.com/watch?v=EtUVfRDUM9U">PAPAYA 電腦教室</a></p> |
 
-### 双系统
+### 双系统 多系统
 
-|                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- |
-| Windows10 + Linux 双系统安装教程, Manjaro保姆级教程 【单硬盘】 \| [零度解说](https://www.youtube.com/watch?v=jemh7iCyVoE) |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| Windows10 + Linux 双系统安装教程, Manjaro保姆级教程 【单硬盘】 \| [零度解说](https://www.youtube.com/watch?v=jemh7iCyVoE)               |
+| 一台电脑，三个系统，是什么体验！[阿拓新](https://www.youtube.com/watch?v=gvkCs6hEbVw)                                                 |
+| 手把手教你把老旧windows笔记本秒变最新Chrombook｜ ChromeOS google操作系统 谷歌系统 [大方BigFang](https://www.youtube.com/watch?v=oMdliLv-S94) |
+| 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                               |
+|                                                                                                                    |
+
+## BIOS
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ## 按键精灵 Robotic Process Automation(RPA)
 
@@ -529,6 +546,7 @@
 | RPA [Analytics University](https://www.youtube.com/watch?v=CudzwXZHoaM)                                                                                             |
 | Mircea Neagovici — Robotic Process Automation (RPA) and ML [Weights & Biases](https://www.youtube.com/watch?v=JCLwwycAHWE)                                          |
 | Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
+| python按键基础，用python调用windows api来实现简单的桌面按键功能 [米斯特姚](https://www.youtube.com/watch?v=0Jzpk1JgDMA)                                                                     |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -590,3 +608,7 @@
 | coder2gwy/[coder2gwy](https://github.com/coder2gwy/coder2gwy)   互联网首份程序员考公指南                                                                                                                                   |
 | chengyi/[BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer)   程序员相亲指南                                                                                                        |
 | <p>字节、字、位、比特，这四者之间的关系 <a href="https://blog.csdn.net/cx_wzp/article/details/8104224">csdn</a></p><p>1个字节等于8个比特（1Byte=8bit）</p>                                                                                 |
+| 每秒浮点运算次数 [wikipedia](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%B5%AE%E9%BB%9E%E9%81%8B%E7%AE%97%E6%AC%A1%E6%95%B8)                                                                                   |
+| 处理器主频概念及 xxxGHz 的运算速度 [PHP开源社区](https://xw.qq.com/cmsid/20200805A0QP8E00)                                                                                                                                      |
+|                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                |
