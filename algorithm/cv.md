@@ -223,18 +223,27 @@ import cv2
 
 ### 目标检测 Object Detection
 
-|                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U))       |
-| I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                                   |
-| 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                            |
-| What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)              |
-| Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0) |
-| facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                          |
-| YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                       |
-| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)   [v](https://www.youtube.com/watch?v=cQqvrJoue-I)               |
-| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)             |
-| Gilbert Tanner [u](https://www.youtube.com/c/GilbertTanner/playlists)                                                                                    |
+|                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U))                                                                                                                                       |
+| I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                                                                                                                                                                   |
+| 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                                                                                                                                                            |
+| What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)                                                                                                                                              |
+| Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0)                                                                                                                                 |
+| facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                                                                                                                                                          |
+| YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                                                                                                                                                       |
+| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)   [v](https://www.youtube.com/watch?v=cQqvrJoue-I)                                                                                                                                               |
+| Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                             |
+| Gilbert Tanner [u](https://www.youtube.com/c/GilbertTanner/playlists)                                                                                                                                                                                                                    |
+| 【论文推荐】《目标检测》必看的8篇论文【附pdf】[深度之眼](https://mp.weixin.qq.com/s?\_\_biz=MzU0NjczNTg2NQ==\&mid=2247504772\&idx=1\&sn=a4c5d509f2a9c0bb23ea995ccd8b169b\&chksm=fb5b8012cc2c09044ea2a739faefd3ca04b151a4ca98aa36dcde8c57117d366a08728e39998f\&mpshare=1\&scene=1\&srcid=0623GII8gt9DaN40J4EKFIX9) |
+
+#### 2D目标检测
+
+
+
+#### 3D目标检测
+
+
 
 ### 视频跟踪
 
