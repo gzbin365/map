@@ -107,6 +107,8 @@ LDA 文档聚类 plsa lsa
 
 |                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Natural Language Processing (NLP) Zero to Hero [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)                                                                                                         |
+| 101上 計算語言學 (文字處理技術) [陳鍾誠](https://www.youtube.com/playlist?list=PLZGnAhii0wHxL8sCEjDLQvE7thUXZcqgt)                                                                                                                                           |
 | Deep Learning for NLP at Oxford with Deep Mind 2017 [Zafarullah Mahmood](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)                                                                                            |
 | Ai工程师-自然语言处理实战 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1209076816)                                                                                                                                                       |
 | Stanford Seminar - Emerging risks and opportunities from large language models [Stanford Online](https://www.youtube.com/watch?v=p6\_X5Ei9C9s)                                                                                                |
@@ -142,6 +144,7 @@ LDA 文档聚类 plsa lsa
 | Natural Language Processing (NLP) Tutorial with Python & NLTK [freeCodeCamp](https://www.youtube.com/watch?v=X2vAabgKiuM)                                                                                                                     |
 | Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
 | NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
+| What have AI language models learned? [TensorFlow](https://www.youtube.com/watch?v=4jGiw1zpbqg) [site](https://pair.withgoogle.com/explorables)                                                                                               |
 
 | NLP自然语言处理集训营                                                                         |                                                                                     |                                                                                     |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -174,7 +177,7 @@ LDA 文档聚类 plsa lsa
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | facebookresearch/fastText [git](https://github.com/facebookresearch/fastText)                                                                                   |
 | NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
-|                                                                                                                                                                 |
+| TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networks [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                    |
 
 ### 自然语言理解 Natural Language Understanding
 
@@ -237,6 +240,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | rasa [s](https://rasa.com/) [git](https://github.com/rasahq/rasa) [doc](https://rasa.com/docs/)                                                                                                                                                                                                |
 | \[線上讀書會] 尹相志 主講 賦予chatbot語言能力：深度自然語言理解 [hsiang an chi](https://www.youtube.com/watch?v=E-knCZ0egKQ)                                                                                                                                                                                            |
 | 線上 chatbot 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zcDxkNSC0A2T-L1-zod-GMw)                                                                                                                                                                                       |
+| Did Google's LaMDA chatbot just become sentient? [Yannic Kilcher](https://www.youtube.com/watch?v=mIZLGBD99iU)                                                                                                                                                                                 |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -338,9 +342,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis)   情感极性分析repository                                                                   |
 | DefuLi/[Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News)   “互联网新闻情感分析”赛题                                                              |
 
-### （短）文本相似度
+### （短）文本相似度 Text Similarity
 
-
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Calculating Text Similarity in Python with NLP [NeuralNine](https://www.youtube.com/watch?v=y-EjAuWdZdI) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### 关键词提取  摘要
 
