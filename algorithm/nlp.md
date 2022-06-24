@@ -364,7 +364,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-###
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### Attention
 
