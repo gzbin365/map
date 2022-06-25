@@ -3,7 +3,7 @@
 |                                        |                                                                                                                                                                             |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**百度翻译**](http://api.fanyi.baidu.com) | [**百度大脑**](http://ai.baidu.com)                                                                                                                                             |
-|                                        | [百度智能云](https://cloud.baidu.com/)   [开发者资源中心](https://cloud.baidu.com/doc/API/index.html)                                                                                   |
+|                                        | [百度智能云](https://cloud.baidu.com)   [开发者资源中心](https://cloud.baidu.com/doc/API/index.html)                                                                                    |
 |                                        | [**免费api**](https://www.google.com/search?q=%E5%85%8D%E8%B4%B9api\&oq=%E5%85%8D%E8%B4%B9api\&aqs=chrome..69i57j69i65l2.1774j0j15\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) |
 
 |                                                                                                                                                                        |
@@ -20,7 +20,7 @@
 | Produce clean APIs with algebraic design - Scala/FP tutorial [Jakub Kozłowski](https://www.youtube.com/watch?v=zK\_URjMLStA) |
 | APIs of the Future: Are you Ready? [Coding Tech](https://www.youtube.com/watch?v=lEVmaShI0Z0)                                |
 | Automated Google Drive Backups in Python [NeuralNine](https://www.youtube.com/watch?v=fkWM7A-MxR0)                           |
-| Build API Powered Dashboards - MongoDB, Discord and Mail API [freeCodeCamp](https://www.youtube.com/watch?v=ccfpj4eD6YM)     |
+|                                                                                                                              |
 |                                                                                                                              |
 |                                                                                                                              |
 

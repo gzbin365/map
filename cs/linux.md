@@ -379,7 +379,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Vim And Emacs Are The Most Important Skills You Should Learn [DistroTube](https://www.youtube.com/watch?v=F8ZOnz0x9UM)    |
 | Vim Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=RZ4p-saaQkc) NeuralNine                         |
 | Vim Tutorials [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-)                   |
-|                                                                                                                           |
+| Getting Started with VIM as a Python Editor [Machine Learning with Phil](https://www.youtube.com/watch?v=HKJUILUvkGk)     |
 |                                                                                                                           |
 
 ### Neovim

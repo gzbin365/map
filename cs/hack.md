@@ -11,9 +11,7 @@
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                        |
-|                                                                                                                                                        |
-|                                                                                                                                                        |
+| 小甲鱼汇编语言教程（77集全） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fHkPdeNkZ\_gS0qxT\_y3qmF)                                                  |
 | QuickHacks [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbSrXqgnSTFbdFAiF4LYkxH)                                                   |
 | Privacy - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiS\_4OmkaZ\_0MV2snFENYeZA)                                               |
 | Time to Hack - Cracking passwords using only timing information [mCoding](https://www.youtube.com/watch?v=XThL0LP3RjY)                                 |
@@ -78,9 +76,3 @@
 | Log4J & JNDI Exploit: Why So Bad? - [Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)                                                |
 | Log4j2高危漏洞复现与分析 [Java面试题解惑.老杨](https://www.douyin.com/video/7040491608642473250)                                                                |
 
-| 汇编 Assembly Language                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| 小甲鱼汇编语言教程（77集全） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fHkPdeNkZ\_gS0qxT\_y3qmF)                            |
-| Assembly Language Programming with ARM – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gfmRrPjnEw4) |
-| Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)  |
-| How do computers read code? [Frame of Essence](https://www.youtube.com/watch?v=QXjU9qTsYCc)                                      |
