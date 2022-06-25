@@ -44,7 +44,7 @@ description: 图神经网络
 | Rob Chew, Peter Baumgartner \| Connected: A Social Network Analysis Tutorial with NetworkX [PyData](https://www.youtube.com/watch?v=7fsreJMy\_pI)                                                                                |
 | K Jarrod Millman - Complex network analysis with NetworkX\| [PyData](https://www.youtube.com/watch?v=ezL7j4nSXpQ) Global 2020                                                                                                    |
 | Graphs, Networks and Python: The Power of Interconnection by Lachlan Blackhall [PyCon AU](https://www.youtube.com/watch?v=1q7FBxy1Rds)                                                                                           |
-|                                                                                                                                                                                                                                  |
+| Network of The Witcher \| Relationship Extraction & Network Analysis with Spacy & NetworkX [Thu Vu data analytics](https://www.youtube.com/watch?v=fAHkJ\_Dhr50)                                                                 |
 |                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                  |
 

@@ -142,7 +142,6 @@ description: 硬件设备
 | ----------------------------------------------------------------------------------------------------- |
 | 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评 |
 | 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                  |
-| 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                               |
 
 ## 笔记本
 
@@ -151,16 +150,11 @@ description: 硬件设备
 | Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
 |                                                                                                                            |   |
 
-|                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c)                                                                  |
-| The World’s Most Powerful Laptop! [Jarrod'sTech](https://www.youtube.com/watch?v=UQMcEc8C8QE) Titan GT77                                          |
-| Surface Laptop Studio                                                                                                                             |
-| Surface Laptop Studio评测：三合一能变形，是噱头还是真有料？丨[凰家评测](https://www.youtube.com/watch?v=8vSr3PUV7k4)                                                      |
-| <p>我们仍未知道你的下一台电脑的名字。 <a href="https://www.youtube.com/watch?v=EjtG8oxREjc">极客湾Geekerwan</a></p><p>Surface Pro 7、Surface Pro X和iPad Pro的横向对比视频</p> |
-| Surface Laptop 4s vs M1 MacBook Air: You'll Be Shocked! [Max Tech](https://www.youtube.com/watch?v=7yTWGjYFiC0)                                   |
-| 開給你看 \| Surface Laptop Studio \| 家族新成員、11 代 H 系列處理器 RTX 3050 Ti 顯示卡 #19 [Microsoft Trainer 微軟零售講師](https://www.youtube.com/watch?v=K-zUE6R84Gg)   |
-| M2 芯片 MacBook Pro 13 寸评测：为什么说这是学生本？[钟文泽](https://www.youtube.com/watch?v=3KLH3FVVrHY)                                                             |
+| MSI                                                                              |
+| -------------------------------------------------------------------------------- |
+| MSI GS76 Stealth   [TheRelaxingEnd](https://www.youtube.com/watch?v=0JrYq3ePx7c) |
+|                                                                                  |
+|                                                                                  |
 
 ## Drone / UAV
 
@@ -219,14 +213,6 @@ description: 硬件设备
 | [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo |   |
 | 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z) |   |
 
-## UV印刷
-
-|                                                                                    |
-| ---------------------------------------------------------------------------------- |
-| 5大重點告訴你UV印刷的特色｜[奕昇數位印刷](https://www.youtube.com/watch?v=28QUEVPFwDE)               |
-| 耗時45天！純手工打造全球首台《荒野大镖客2：救贖》主題電腦「[超極氪](https://www.youtube.com/watch?v=RwcBCFmrmS0)」 |
-|                                                                                    |
-
 ## FPGA
 
 |                                                                                                                                                     |
@@ -283,7 +269,6 @@ description: 硬件设备
 | Building an 8-bit breadboard computer! [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)                                      |
 | 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
 | 挤爆牙膏！英特尔新CPU变强的秘密，被我找到了 [老石谈芯](https://www.youtube.com/watch?v=o4K6cuSVf1s) 异构                                                                                    |
-| Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)                                   |
 
 ## DPU
 
@@ -307,20 +292,16 @@ description: 硬件设备
 | 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                       |
 | 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
 | 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
-| LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                       |
-|                                                                                                                           |
-|                                                                                                                           |
 
 ## 显示器 屏幕
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)                          |
-| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders                      |
-| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)                       |
-| 【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 [硬件茶谈](https://www.youtube.com/watch?v=v\_-q1ybcTF8)                    |
-| 【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？[硬件茶谈](https://www.youtube.com/watch?v=orWW\_-qd2uk) |
-| 【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 [硬件茶谈](https://www.youtube.com/watch?v=gZriQjtABCk)                 |
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)     |
+| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders |
+| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)  |
+|                                                                                  |
+|                                                                                  |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
@@ -370,7 +351,7 @@ description: 硬件设备
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
+|                                                                                                                     |
 |                                                                                                                     |
 
 ## 手工
@@ -379,7 +360,7 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
-| 无痕胶 魔术贴                                                                                                                              |
+|                                                                                                                                      |
 
 ## 机器人 Robot
 
