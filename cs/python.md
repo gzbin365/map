@@ -757,7 +757,7 @@ Python高性能编程
 | Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                      |
 | Python+Django网站开发系列 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tH1E0\_0d1\_kweQKpJzhw\_z9)                                            |
 | Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                 |
-|                                                                                                                                                           |
+| Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                          |
 |                                                                                                                                                           |
 
 ## Video Image Editing
@@ -767,6 +767,7 @@ Python高性能编程
 | Video Image Editing([PyB TV](https://www.youtube.com/playlist?list=PLY2Azc6nd2QnIT7LVc0nt2TFkdJe00FIy))      |
 | Automatic YouTube Video Generator (Python Script) [Aaren Stade](https://www.youtube.com/watch?v=lo3w8auG7QA) |
 | Automated Video Editing With Python [NeuralNine](https://www.youtube.com/watch?v=Q2d1tYvTjRw) moviepy        |
+| Split Screen Videos with MoviePy [NeuralNine](https://www.youtube.com/watch?v=p293\_8oYXL4)                  |
 | Python根据字幕文件自动给视频添加字幕（通用版）[csdn](https://blog.csdn.net/dongfuguo/article/details/104939046)                  |
 | 调整srt字幕时间，Python实现 [s](https://www.codeleading.com/article/26242247214/)                                     |
 
