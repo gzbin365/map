@@ -117,6 +117,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Create 3D Site with Spline and React - Full Course [DesignCode](https://www.youtube.com/watch?v=EJxeMbDTkVI)                                                             |
 | Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More [JavaScript Mastery](https://www.youtube.com/watch?v=jx5hdo50a2M)   |
 | React Redux Full Course for Beginners \| Redux Toolkit Complete Tutorial [Dave Gray](https://www.youtube.com/watch?v=NqzdVN2tyvQ)                                        |
 | Fullstack Flask React Tutorial - Master Flask Basics And Build A Python Flask React App \| 2020 HD [THE SHOW](https://www.youtube.com/watch?v=cb1vy1HpVwk)               |
@@ -285,7 +286,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                              |
+| BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course) [SuperSimpleDev](https://www.youtube.com/watch?v=DqaTKBU9TZk)                             |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
 | LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
 | 彭彭老師的直播紀錄 彭彭的課程                                                                                                                                                                              |
