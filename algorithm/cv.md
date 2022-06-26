@@ -111,6 +111,7 @@ import cv2
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenCV Python Course - Learn Computer Vision and AI [freeCodeCamp](https://www.youtube.com/watch?v=P4Z8\_qe2Cu0)                                                                          |
 | [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) ProgrammingKnowledge                                                     |
 | [**OpenCV 3 Hour Course**](https://www.youtube.com/watch?v=dqScBVWKOR8) **linuxhint**                                                                                                     |
 | Image Processing - OpenCV and Matlab - Training \| Projects - [Pantech E Learning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdVbL\_xMvQP6SP4Mg0xyyvM)                             |
@@ -160,11 +161,11 @@ import cv2
 
 ## 图像压缩 Image Compression
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY) |
-|                                                                                                 |
-|                                                                                                 |
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)        |
+| Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg) |
+|                                                                                                        |
 
 ## 图像修复
 
@@ -253,7 +254,7 @@ import cv2
 | [**【小白CV教程】YOLOv5+Deepsort实现车辆行人的检测、追踪和计数**](https://blog.csdn.net/weixin\_44936889/article/details/112002152)                                                                 |
 | [**xiaojunzaizai/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                         |
 | [**Sharpiless/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                            |
-|                                                                                                                                                                                |
+| Talk \| 香港中文大学（深圳）计算机信息工程在读博士生郑超达：以运动为导向的点云单目标跟踪 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=epA4WZ17SEc)                                                                |
 |                                                                                                                                                                                |
 
 ### Visual Recognition

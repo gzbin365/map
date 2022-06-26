@@ -278,13 +278,14 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | 網頁前端工程入門：基礎 CSS 教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=Jr7lwHnTK68)                                                                                                              |
 | Create a Design System with CSS - Web Development Course [freeCodeCamp](https://www.youtube.com/watch?v=lRaL-8qZ0mM)                                                                       |
 | CSS Full Course \| CSS Tutorial For Beginners \| CSS Interview Questions And Answers \| [Simplilearn](https://www.youtube.com/watch?v=J5KxiOnIrKg)                                         |
-|                                                                                                                                                                                            |
+| Can I Create A Deck Of Cards With CSS? Web Dev [Simplified](https://www.youtube.com/watch?v=iEPK5fppX8w)                                                                                   |
 |                                                                                                                                                                                            |
 
 ## JavaScript
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                              |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
 | LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
 | 彭彭老師的直播紀錄 彭彭的課程                                                                                                                                                                              |
@@ -402,15 +403,25 @@ Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)
 
 MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1chMISeTC0)
 
+### Elastic UI
+
+|                                                                                       |
+| ------------------------------------------------------------------------------------- |
+| elastic/[eui](https://github.com/elastic/eui)   [s](https://elastic.github.io/eui/#/) |
+|                                                                                       |
+|                                                                                       |
+
 ### Figma
 
-|                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY)                   |
-| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)                     |
-| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)                           |
-| UI Design a Dark Neumorphism Tesla app in Figma from scratch [DesignCode](https://www.youtube.com/watch?v=nthq56UABI0)   |
-| Figma Variants – Design a Scalable Mobile App \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=stQ1IZEB2xk) |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| 就是它以黑馬之姿擄獲了全球設計師的心！超人氣 UI 設計工具 Figma 快速上手！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=P96TQwsY\_VY)                     |
+| Create a UI into a 3D Perspective in Figma [DesignCode](https://www.youtube.com/watch?v=JJi5KwdxmiI)                       |
+| Neon UI Design from scratch in Figma [DesignCode](https://www.youtube.com/watch?v=lceG4iKNfEg)                             |
+| UI Design a Dark Neumorphism Tesla app in Figma from scratch [DesignCode](https://www.youtube.com/watch?v=nthq56UABI0)     |
+| Figma Variants – Design a Scalable Mobile App \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=stQ1IZEB2xk)   |
+| UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma [freeCodeCamp](https://www.youtube.com/watch?v=c9Wg6Cb\_YlU) |
+| How to Design a Website – A UX Wireframe Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=pN92rnO\_n5U)             |
 
 ## 其他
 
