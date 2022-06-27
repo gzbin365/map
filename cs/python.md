@@ -732,7 +732,6 @@ Python高性能编程
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python Django 7 Hour Course [Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)                                                                 |
 | Flask [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWPXx3C\_aIATYnnbCTDByHy)                                                       |
 | [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)                                     |
 | Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                             |
