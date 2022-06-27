@@ -555,6 +555,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                            |
 | Data Science 101 [Data Professor](https://www.youtube.com/playlist?list=PLtqF5YXg7GLn0WWB\_wQx7wHrIvbs0EH2e)                                                                  |
 | Learn Data Science Tutorial - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)                                                           |
+| Full Data Science Course [Learn Python with Rune](https://www.youtube.com/watch?v=d0bIgigcOQM)                                                                                |
 |                                                                                                                                                                               |
 
 #### 数据清理
@@ -1150,11 +1151,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## Diffusion models
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew) |
-|                                                                                                             |
-|                                                                                                             |
+|                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                    |
+| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
+|                                                                                                                                                                |
 
 ## AI Safety
 
