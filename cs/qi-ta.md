@@ -171,6 +171,7 @@
 | ------------------------------------------------------------------------------------------------------------- |
 | Markdown 标记语言 [**china refer**](https://www.youtube.com/playlist?list=PLHxM50fGnEoXwgtmsgXn7xqKpIuxO3xwt)     |
 | Markdown Tips & Tricks 2022 - Markdown Crash Course [codeSTACKr](https://www.youtube.com/watch?v=ftOBvusMHjQ) |
+| Markdown 适合写个人简历吗？[zh](https://www.zhihu.com/question/20546890)                                               |
 
 ## Unity
 
@@ -403,6 +404,10 @@
 | How To Install Linux (Ubuntu) On Windows Virtually \| No Dual OS \| No Software \| Virtual Machine. [Know-How](https://www.youtube.com/watch?v=WgZ276a0B44)                                                  |
 | Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
 | 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                 |
+| Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                              |
+|                                                                                                                                                                                                              |
+|                                                                                                                                                                                                              |
+|                                                                                                                                                                                                              |
 
 ## 架构
 
@@ -440,6 +445,7 @@
 | 九分鐘略懂系統設計面試 [jasonmel](https://www.youtube.com/watch?v=Y93BGebBwEE)                                                                     |
 | 系统设计 [古城算法](https://www.youtube.com/playlist?list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)                                                   |
 | 花花酱 系统设计 - System Design [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK4RuSJjXUxjeUt3-vSyA1Or)                            |
+| Everything You NEED to Know About WEB APP Architecture [ForrestKnight](https://www.youtube.com/watch?v=sDlCSIDwpDs)                     |
 
 ## 低代码 白码 Low-Code
 
@@ -501,6 +507,7 @@
 | Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore) |
 | Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                           |
 | 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                  |
+| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                             |
 
 ### Edge
 
