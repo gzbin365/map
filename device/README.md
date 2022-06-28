@@ -18,7 +18,7 @@ description: 硬件设备
 |                                                                                                                                                                            |                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Arduino Engineering Kit Videos(**[**u**](https://www.youtube.com/channel/UCaPRtmtzWXQkbo9D-OxMN1w/videos)**, )**                                                         | **Carlos Roberto(**[**u**](https://www.youtube.com/user/zenetio/videos)**, )**         |
-| **Paul's Hardware(**[**u**](https://www.youtube.com/c/paulshardware/featured)**, )**                                                                                       |                                                                                        |
+| **Paul's Hardware(**[**u**](https://www.youtube.com/c/paulshardware/featured)**, )**                                                                                       | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                     |
 | **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**,** [**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** |                                                                                        |
 | **Simply Better(**[**u**](https://www.youtube.com/c/SimplyBetter\_SB/playlists)**, )**                                                                                     |                                                                                        |
 | **RoboShala(**[**u**](https://www.youtube.com/c/RoboShala/featured)**, )**                                                                                                 |                                                                                        |
@@ -271,6 +271,14 @@ description: 硬件设备
 
 [维基](https://zh.wikipedia.org/wiki/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8), [wiki](https://en.wikipedia.org/wiki/Programmable\_logic\_controller)
 
+## 内存
+
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE) |
+| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)      |
+|                                                                                            |
+
 ## CPU
 
 |                                                                                                                                                                   |
@@ -293,6 +301,7 @@ description: 硬件设备
 | 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
 | 挤爆牙膏！英特尔新CPU变强的秘密，被我找到了 [老石谈芯](https://www.youtube.com/watch?v=o4K6cuSVf1s) 异构                                                                                    |
 | Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)                                   |
+| 第172期：讲讲CPU，GPU，DPU，DSP，MCU，手机SOC，以及如何投资Intel，AMD，Nvidia，高通和联发科 [老科谈科技股](https://www.youtube.com/watch?v=cqt51-vnQng)                                             |
 
 ### SOC
 
