@@ -298,11 +298,11 @@ description: 硬件设备
 
 System on Chip, 系统级芯片
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 【硬件科普】电脑处理器与手机处理器有什么不同？是一回事吗？电脑CPU vs 手机 SOC [酷玩小报](https://www.youtube.com/watch?v=K\_yzBfvz9q0) |
+|                                                                                                   |
+|                                                                                                   |
 
 ## DPU
 
@@ -487,7 +487,7 @@ System on Chip, 系统级芯片
 | Dave2D [u](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)                                                               | **二斤自制(**[**u**](https://www.youtube.com/channel/UCfZfoX8cqde6Bknw8t8\_rRQ/featured)**, )**                                                         | **Samsung US(**[**u**](https://www.youtube.com/c/SamsungUS/featured)**, )**                                                          |
 | TheRelaxingEnd [u](https://www.youtube.com/c/TheRelaxingEnd/playlists)                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
 | 悦宇搞机　抖音号： [yueyugaoji](https://www.douyin.com/user/MS4wLjABAAAA5mPBa5ZWrVeNwLx6Z9yzW8BUaXR3\_gtBkTNlXDZJ\_mbFhxcllnTXki4o7SQJI1ED) | 机品社　抖音号： [jipinshe](https://www.douyin.com/user/MS4wLjABAAAAJAwIVnSTGVtAV1tZ94nEz3dCzHoqdopiwsPxA-ERbNE)                                            | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
-|                                                                                                                                    |                                                                                                                                                     | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
+|                                                                                                                                    | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                                                                                  | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
