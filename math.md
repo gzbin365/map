@@ -591,7 +591,6 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U)                             |
 | MIT 6.041SC Probabilistic Systems Analysis and Applied Probability [Scientia123](https://www.youtube.com/playlist?list=PL1hbqINXWn50aCBOC4x0VOblmkfJe\_njn) |
 | 概率论 [知识公园](https://www.youtube.com/playlist?list=PLDIZquEjlYG0kwXuEnb--4LB6Q0yupg4Y)                                                                        |
-| 统计学中「矩」这个概念是怎么引入的？它为什么被称为矩？它与物理意义上的矩有什么相同与不同？[zh](https://www.zhihu.com/question/19915565)                                                                  |
 |                                                                                                                                                             |
 
 ### 大数定律和中心极限定理
@@ -653,7 +652,6 @@ $$
 | 医学统计学-郝元涛（中山大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6)                                                                                           |
 | keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
 | <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
-| Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                        |
 |                                                                                                                                                                                                    |
 
 | IRT理論                                                                                                                                                          |
@@ -671,17 +669,12 @@ $$
 
 #### 假设检验 Hypothesis Testing
 
-|                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 关于显著性检验，你想要的都在这儿了！！（基础篇）[博客园](https://www.cnblogs.com/hdu-zsk/p/6293721.html)                                                                                                     |
-| Calculate the P-Value in Statistics - Formula to Find the P-Value in Hypothesis Testing [Math and Science](https://www.youtube.com/watch?v=KLnGOL\_AUgA)                          |
-| 统计Statistic Hypothesis One Sample Z-Test 双尾检验入门 [天才课堂Genius Class](https://www.youtube.com/watch?v=ugEB3OuK7W4)                                                                   |
-| 15 假设检验【小元老师】[小元老师and宇宙数学中心](https://www.youtube.com/watch?v=\_njN3OMKyhE)                                                                                                        |
-| 关于假设检验的一切 - 统计学 hypothesis testing [Sean 冯·](https://www.youtube.com/watch?v=q96EBSklX98)                                                                                         |
-| 一文详解卡方检验 [CoffeeCat](https://zhuanlan.zhihu.com/p/140043959)                                                                                                                      |
-| 皮尔森卡方检验 [百科](https://baike.baidu.com/item/%E7%9A%AE%E5%B0%94%E6%A3%AE%E5%8D%A1%E6%96%B9%E6%A3%80%E9%AA%8C/22660784)                                                               |
-| Chi-squared test [wiki](https://en.wikipedia.org/wiki/Chi-squared\_test) [维基百科](https://zh.wikipedia.org/zh-hans/%E7%9A%AE%E7%88%BE%E6%A3%AE%E5%8D%A1%E6%96%B9%E6%AA%A2%E5%AE%9A) |
-|                                                                                                                                                                                   |
+|                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 关于显著性检验，你想要的都在这儿了！！（基础篇）[博客园](https://www.cnblogs.com/hdu-zsk/p/6293721.html)                                                                            |
+| Calculate the P-Value in Statistics - Formula to Find the P-Value in Hypothesis Testing [Math and Science](https://www.youtube.com/watch?v=KLnGOL\_AUgA) |
+|                                                                                                                                                          |
+|                                                                                                                                                          |
 
 ### 随机过程 Stochastic processes
 
@@ -761,11 +754,11 @@ $$
 
 ### 高等几何
 
-|                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 南京师范大学-高等几何（国家级精品课）[五味666](https://www.bilibili.com/video/BV1R7411C7Sj)                                                                    |
-| 参数化能不能做艺术品#参数化设计 #绕线画手作  [40Hours参数化](https://www.douyin.com/video/7110100295480364318)   [javid](https://www.food4rhino.com/en/app/javid) |
-|                                                                                                                                            |
+|                                                                         |
+| ----------------------------------------------------------------------- |
+| 南京师范大学-高等几何（国家级精品课）[五味666](https://www.bilibili.com/video/BV1R7411C7Sj) |
+|                                                                         |
+|                                                                         |
 
 ### 微分几何 Differential Geometry
 

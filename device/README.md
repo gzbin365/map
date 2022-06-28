@@ -169,6 +169,7 @@ description: 硬件设备
 | Surface Laptop 4s vs M1 MacBook Air: You'll Be Shocked! [Max Tech](https://www.youtube.com/watch?v=7yTWGjYFiC0)                                   |
 | 開給你看 \| Surface Laptop Studio \| 家族新成員、11 代 H 系列處理器 RTX 3050 Ti 顯示卡 #19 [Microsoft Trainer 微軟零售講師](https://www.youtube.com/watch?v=K-zUE6R84Gg)   |
 | M2 芯片 MacBook Pro 13 寸评测：为什么说这是学生本？[钟文泽](https://www.youtube.com/watch?v=3KLH3FVVrHY)                                                             |
+| ROG 枪神6Plus超竞版评测: 2022旗舰级处理器+双液金散热！\| [笔吧评测室](https://www.youtube.com/watch?v=lfCuabADWaM)                                                        |
 
 ## Drone / UAV
 
@@ -292,6 +293,16 @@ description: 硬件设备
 | 8-Bit CPU (Terraria) [Haku](https://www.youtube.com/watch?v=KmcENKOh678)                                                                                          |
 | 挤爆牙膏！英特尔新CPU变强的秘密，被我找到了 [老石谈芯](https://www.youtube.com/watch?v=o4K6cuSVf1s) 异构                                                                                    |
 | Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)                                   |
+
+### SOC
+
+System on Chip, 系统级芯片
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ## DPU
 
