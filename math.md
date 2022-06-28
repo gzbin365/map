@@ -673,7 +673,9 @@ $$
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 关于显著性检验，你想要的都在这儿了！！（基础篇）[博客园](https://www.cnblogs.com/hdu-zsk/p/6293721.html)                                                                            |
 | Calculate the P-Value in Statistics - Formula to Find the P-Value in Hypothesis Testing [Math and Science](https://www.youtube.com/watch?v=KLnGOL\_AUgA) |
-|                                                                                                                                                          |
+| 统计Statistic Hypothesis One Sample Z-Test 双尾检验入门 [天才课堂Genius Class](https://www.youtube.com/watch?v=ugEB3OuK7W4)                                          |
+| 15 假设检验【小元老师】[小元老师and宇宙数学中心](https://www.youtube.com/watch?v=\_njN3OMKyhE)                                                                               |
+| 关于假设检验的一切 - 统计学 hypothesis testing [Sean 冯·](https://www.youtube.com/watch?v=q96EBSklX98)                                                                |
 |                                                                                                                                                          |
 
 ### 随机过程 Stochastic processes
@@ -754,11 +756,11 @@ $$
 
 ### 高等几何
 
-|                                                                         |
-| ----------------------------------------------------------------------- |
-| 南京师范大学-高等几何（国家级精品课）[五味666](https://www.bilibili.com/video/BV1R7411C7Sj) |
-|                                                                         |
-|                                                                         |
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 南京师范大学-高等几何（国家级精品课）[五味666](https://www.bilibili.com/video/BV1R7411C7Sj)                                                                    |
+| 参数化能不能做艺术品#参数化设计 #绕线画手作  [40Hours参数化](https://www.douyin.com/video/7110100295480364318)   [javid](https://www.food4rhino.com/en/app/javid) |
+|                                                                                                                                            |
 
 ### 微分几何 Differential Geometry
 
