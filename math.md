@@ -591,6 +591,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | CS294：概率可检查和交互式证明系统（S2019）berkeley [CAL ESG - EECS](https://www.youtube.com/playlist?list=PLkFD6\_40KJIyWWtxCPBHwGsrutjvwM5\_U)                             |
 | MIT 6.041SC Probabilistic Systems Analysis and Applied Probability [Scientia123](https://www.youtube.com/playlist?list=PL1hbqINXWn50aCBOC4x0VOblmkfJe\_njn) |
 | 概率论 [知识公园](https://www.youtube.com/playlist?list=PLDIZquEjlYG0kwXuEnb--4LB6Q0yupg4Y)                                                                        |
+| 统计学中「矩」这个概念是怎么引入的？它为什么被称为矩？它与物理意义上的矩有什么相同与不同？[zh](https://www.zhihu.com/question/19915565)                                                                  |
 |                                                                                                                                                             |
 
 ### 大数定律和中心极限定理
