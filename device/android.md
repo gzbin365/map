@@ -126,3 +126,4 @@
 | Implementing complex UI with Flutter - Marcin Szałek \| [Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8)                               |
 | Responsive Admin Panel or Dashboard - Flutter UI - Speed Code [The Flutter Way](https://www.youtube.com/watch?v=\_uOgXpEHNbc)                       |
 | Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart [Academind](https://www.youtube.com/watch?v=GLSG\_Wh\_YWc) |
+| Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=ylJz7N-dv1E)    |
