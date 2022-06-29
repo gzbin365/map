@@ -132,6 +132,7 @@
 | .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                        |
 | .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
 | Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
+| Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                  |
 
 ## HTTP
 
