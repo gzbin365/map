@@ -178,6 +178,7 @@ LDA 文档聚类 plsa lsa
 | facebookresearch/fastText [git](https://github.com/facebookresearch/fastText)                                                                                   |
 | NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
 | TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networks [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                    |
+| Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                |
 
 ### 自然语言理解 Natural Language Understanding
 
@@ -364,7 +365,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-###
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### Attention
 
