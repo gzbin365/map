@@ -1,5 +1,12 @@
 # 其他
 
+## TIOBE 编程语言排行榜
+
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)                                                                      |
+| TIOBE编程社区指数（TIOBE programming community index）是一种衡量编程语言流行度的标准，由成立于2000年10月位于荷兰埃因霍温的TIOBE Software BV创建和维护。 该指数是根据网络搜索引擎对含有该语言名称的查询结果的数量计算出来的。 |
+
 ## MongoDB
 
 | **MongoDB**                                                                                             |
@@ -405,7 +412,7 @@
 | Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
 | 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                 |
 | Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                              |
-|                                                                                                                                                                                                              |
+| Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
 |                                                                                                                                                                                                              |
 |                                                                                                                                                                                                              |
 
