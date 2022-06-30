@@ -12,6 +12,8 @@
 
 【Huan】 我買了一張Quadro繪圖卡! 能打遊戲嗎? 繪圖卡適合甚麼樣的人入手? [Huan](https://www.youtube.com/watch?v=PzQEtiEsut8)
 
+NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的保姆級教程 [Super Kr超极氪](https://www.youtube.com/watch?v=VqpvqU2I07c)
+
 ## **CUDA**
 
 |                                                                                                                     |

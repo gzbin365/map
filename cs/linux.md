@@ -379,7 +379,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Vim And Emacs Are The Most Important Skills You Should Learn [DistroTube](https://www.youtube.com/watch?v=F8ZOnz0x9UM)    |
 | Vim Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=RZ4p-saaQkc) NeuralNine                         |
 | Vim Tutorials [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-)                   |
-| Getting Started with VIM as a Python Editor [Machine Learning with Phil](https://www.youtube.com/watch?v=HKJUILUvkGk)     |
+|                                                                                                                           |
 |                                                                                                                           |
 
 ### Neovim
@@ -449,5 +449,5 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 |                                                                                                                     |
 | STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw)                       |
 | faker [git](https://github.com/joke2k/faker) [v](https://www.douyin.com/video/7026732437652655374)　fake data python |
-| linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法 [csdn](https://blog.csdn.net/weixin\_33642697/article/details/116549502)     |
+|                                                                                                                     |
 |                                                                                                                     |
