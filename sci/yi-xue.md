@@ -13,7 +13,7 @@
 | 钢牙廖博士 抖音号： [doctorLiao2021](https://www.douyin.com/user/MS4wLjABAAAAdluHyhRnW8hBkWe50YhxvaAwnLdrHcH1ZCvsmdt1vdY)                          | 外科主任高成业 抖音号： [dc215](https://www.douyin.com/user/MS4wLjABAAAALqeuz1\_8EPXaxfyvV7eK4G4lc4Aj\_yHUy\_ExwAqaEHo)                                                                                                   |
 | 妇产科朱宝菊  抖音号： [Dr.zhubaoju](https://www.douyin.com/user/MS4wLjABAAAAJqa-y7VtGEbChbshaOo735vtnSYpmAqkvvA\_qSkRzu4)                          | 中医耳鼻喉科主任李洵 抖音号： [LXdaifu](https://www.douyin.com/user/MS4wLjABAAAA\_CR\_2MZMCIkidtmNGCUs2fxuMYw1s3\_WTmMVGrs4UyK4s6na-fgkM-nJU-icBUmt)                                                                         |
 | 男科钟宇医生 抖音号： [nihao165](https://www.douyin.com/user/MS4wLjABAAAA2uxTlj-g1lRtzLL6-mzXMIX5W\_HNoSl6LYTwdG4vBvE)                              | 心中有术 抖音号： [baiyisheng113](https://www.douyin.com/user/MS4wLjABAAAAMqsBIZGfVFDWYE-Ll7MB7Dluw-2NczQA\_aChqPye0qbcMgyGbHjpyBtGL55tGJ-k)                                                                           |
-| Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists)                                                                       |                                                                                                                                                                                                                |
+|                                                                                                                                           |                                                                                                                                                                                                                |
 |                                                                                                                                           |                                                                                                                                                                                                                |
 |                                                                                                                                           |                                                                                                                                                                                                                |
 
@@ -44,7 +44,6 @@
 | 诺亚营养 抖音号： [88362471947](https://www.douyin.com/user/MS4wLjABAAAA4hKc2yyaDQ68smGJ1BgiajheY1judUQPQ0oftQlEE1Sb8F2swRg8TC2-FIHOOz14)                                                                                                                                                                                                                                                         |
 | 柏格醫生中文 健康知識 [u](https://www.youtube.com/c/%E6%9F%8F%E6%A0%BC%E9%86%AB%E7%94%9F%E4%B8%AD%E6%96%87%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98)   柏格医生简体中文 官方頻道 [u](https://www.youtube.com/channel/UCYSItFshvgtcr-Os2-bhDRQ)                                                                                                                                                                       |
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
-| geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 
 ### 生酮饮食
 
@@ -85,19 +84,14 @@
 
 ## 食品
 
-|                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)                                                                                                    |
-| 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW)                                                                                               |
-| 彩虹星球安全食材　抖音号： [CaiHongXinQiu](https://www.douyin.com/user/MS4wLjABAAAA6o-kxl5M7JsjITv7a-kx6l8ede-okx\_ZtIwpSS1RMISE9EKAYoCHERaO9GuUwOjA)　有黑历史                                                                                   |
-| 刘左飞 抖音号： [NCzuofei666](https://www.douyin.com/user/MS4wLjABAAAAcZpV\_XHGPjt\_OVXwdx6mGiD98GKWVFFgcsP\_lV0-eXE)  饮料相关                                                                                                            |
-| 由米由家生态农业 抖音号： [youmiyoujia](https://www.douyin.com/user/MS4wLjABAAAAbnC\_m6I-lJNhHxkpI6moPVOUHNI13FyCa4lZoy8-Hpx88Qgp1ey5j6FRmcvRbUoU)                                                                                          |
-| 莎啦沒問題Sara's Moments [u](https://www.youtube.com/channel/UCytM06C\_eAilnTLRdMDwf7Q)                                                                                                                                              |
-| [吃得安心](https://www.douyin.com/video/7034773666026081568) 农科院　零食大全                                                                                                                                                               |
-| <p>十大超级健康食物　<a href="https://www.douyin.com/video/7034825604071558411">柳老师的日常健康</a></p><p>10卷心菜 9洋葱 8石榴 7糙米 6红薯 5香蕉 4西兰花 3蓝莓 2菠菜 1番茄</p>                                                                                        |
-| 你真的了解咖啡么 \| 咖啡高级常识 [小Lin说](https://www.youtube.com/watch?v=motxyzLrf4Y)                                                                                                                                                         |
-| 关于葡萄酒，你需要知道的一切，15分钟全搞明白！ [小Lin说](https://www.youtube.com/watch?v=2lkk0\_aZrVQ)                                                                                                                                                  |
-| 不同的巧克力有哪些区别？如何挑一块好吃的巧克力？What are the differences between different chocolates? [柴知道ChaiKnows Official Channel](https://www.youtube.com/watch?v=NDmvwD9yzpc)                                                                     |
-| <p>黑巧克力的7大健康益处！为何我每天都吃黑巧克力？<a href="https://www.youtube.com/watch?v=MLvXivpgpHg">莎啦沒問題Sara's Moments</a></p><p>营养密度高</p><p>富含抗氧化物</p><p>降低血压</p><p>提高好的胆固醇(HDL)</p><p>降低心脏病风险</p><p>防止晒伤</p><p>改善大脑功能</p><p>90%以上的黑巧克力, 瑞士莲</p> |
-| 防失智、強健心血管，100%純黑巧克力健康大揭密【[早安健康](https://www.youtube.com/watch?v=g5ihom7YHzA)】                                                                                                                                                   |
-| 【[Joeman](https://www.youtube.com/watch?v=ihpfkmtqulU)】濃度100%的巧克力吃起來竟然跟土一樣？ft.咪妃                                                                                                                                                |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)                  |
+| 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW)             |
+| 彩虹星球安全食材　抖音号： [CaiHongXinQiu](https://www.douyin.com/user/MS4wLjABAAAA6o-kxl5M7JsjITv7a-kx6l8ede-okx\_ZtIwpSS1RMISE9EKAYoCHERaO9GuUwOjA)　有黑历史 |
+| 刘左飞 抖音号： [NCzuofei666](https://www.douyin.com/user/MS4wLjABAAAAcZpV\_XHGPjt\_OVXwdx6mGiD98GKWVFFgcsP\_lV0-eXE)  饮料相关                          |
+| 由米由家生态农业 抖音号： [youmiyoujia](https://www.douyin.com/user/MS4wLjABAAAAbnC\_m6I-lJNhHxkpI6moPVOUHNI13FyCa4lZoy8-Hpx88Qgp1ey5j6FRmcvRbUoU)        |
+| [吃得安心](https://www.douyin.com/video/7034773666026081568) 农科院　零食大全                                                                             |
+| <p>十大超级健康食物　<a href="https://www.douyin.com/video/7034825604071558411">柳老师的日常健康</a></p><p>10卷心菜 9洋葱 8石榴 7糙米 6红薯 5香蕉 4西兰花 3蓝莓 2菠菜 1番茄</p>      |
+| 你真的了解咖啡么 \| 咖啡高级常识 [小Lin说](https://www.youtube.com/watch?v=motxyzLrf4Y)                                                                       |
+| 关于葡萄酒，你需要知道的一切，15分钟全搞明白！ [小Lin说](https://www.youtube.com/watch?v=2lkk0\_aZrVQ)                                                                |

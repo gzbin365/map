@@ -8,7 +8,7 @@
 | 安心的心灵探索 抖音号： [OHcard](https://www.douyin.com/user/MS4wLjABAAAAUibTv1bF3Fnl4SV4Hsg8fDzYNnDFNOegn89poSnbFD6qdx7EiNWVHUDwVG0gt6cC?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017333033380351232\&is\_full\_screen=0) | 知心者刘老师　抖音号： [zhixin4324](https://www.douyin.com/user/MS4wLjABAAAA3M2Gd\_nueVvcXfTkkC5TT4gAWH0Lf2\_9tskgTdauvnQ)                        |
 | 六日 抖音号： [1113822582](https://www.douyin.com/user/MS4wLjABAAAAB0IYCPVcBntiwQe2iefENJQRhZXrQIlBjlJGK5Lxp9M)                                                                                                                            | 不好惹的咨询师陈荫　抖音号： [psychenyin](https://www.douyin.com/user/MS4wLjABAAAAADgbLI8m8v3ppZd\_URkHg4SQRHTHYgKsw5mYEQBvU9vc-bxSSVssQmfgUSkT8ewV) |
 | 王小骞 抖音号： [1142041417](https://www.douyin.com/user/MS4wLjABAAAA82p9-kpSsjOlZPO87\_GBMlUvrTxZ9p5N86fCYqF8NUg)                                                                                                                          | 心理学者梁松松　抖音号： [OKtushu](https://www.douyin.com/user/MS4wLjABAAAAJHdajFkl06VllJeQtMx1GitglOtjQxRLOJabwsmNZks)                            |
-|                                                                                                                                                                                                                                      | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)               |
+| Sprouts 學校 [u](https://www.youtube.com/channel/UCbWqAbkBTmfnB8uo78ttVcw/videos)                                                                                                                                                      | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)               |
 
 ***
 
@@ -26,16 +26,17 @@
 | 郭生白-孩子发烧母亲怎么办-老人发烧儿女怎么办 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCWohKrEk8nqDY0kpPmBjr)        |
 | 麻省理工学院MIT公开课《如何说话 How to Speak》by Patrick Winston [道法自然](https://www.youtube.com/watch?v=Zw1tzxAt\_CI)              |
 
-|                                                                          |
-| ------------------------------------------------------------------------ |
-| 保持情绪稳定的方法 [v](https://www.douyin.com/video/7028838405308042533)          |
-| 登门槛定律　[曹高举（管理心理学）](https://www.douyin.com/video/7032993690582895879)     |
-| 性格是先天加环境共同影响的结果　[一粒小米](https://www.douyin.com/video/7031090347056958735) |
-|                                                                          |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 保持情绪稳定的方法 [v](https://www.douyin.com/video/7028838405308042533)                      |
+| 登门槛定律　[曹高举（管理心理学）](https://www.douyin.com/video/7032993690582895879)                 |
+| 性格是先天加环境共同影响的结果　[一粒小米](https://www.douyin.com/video/7031090347056958735)             |
+| 心理學 [文森說書](https://www.youtube.com/playlist?list=PL6WivEmOIOxQlVWoQX4FwHNTybOU4q-FG) |
 
-|                                            |
-| ------------------------------------------ |
-| MBTI职业性格测试   16种人格类型                       |
-| 创伤后应激障碍（**PTSD**）是一种常见的精神疾病，可发生在严重的创伤事件之后。 |
-|                                            |
-|                                            |
+|                                                                                              |
+| -------------------------------------------------------------------------------------------- |
+| MBTI职业性格测试   16种人格类型                                                                         |
+| 深度学习和元胞自动机有什么关系？会给编程带来什么样的颠覆性改变？ [王木头学科学](https://www.youtube.com/watch?v=cSP0X5fFLJ4) 15:47 |
+| 创伤后应激障碍（**PTSD**）是一种常见的精神疾病，可发生在严重的创伤事件之后。                                                   |
+|                                                                                              |
+|                                                                                              |
