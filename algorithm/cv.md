@@ -150,6 +150,7 @@ import cv2
 | DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilche](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
 | 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                      |
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
+| AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 
 ### 风格迁移
 
@@ -237,6 +238,7 @@ import cv2
 | Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                             |
 | Gilbert Tanner [u](https://www.youtube.com/c/GilbertTanner/playlists)                                                                                                                                                                                                                    |
 | 【论文推荐】《目标检测》必看的8篇论文【附pdf】[深度之眼](https://mp.weixin.qq.com/s?\_\_biz=MzU0NjczNTg2NQ==\&mid=2247504772\&idx=1\&sn=a4c5d509f2a9c0bb23ea995ccd8b169b\&chksm=fb5b8012cc2c09044ea2a739faefd3ca04b151a4ca98aa36dcde8c57117d366a08728e39998f\&mpshare=1\&scene=1\&srcid=0623GII8gt9DaN40J4EKFIX9) |
+| Facebook DETR \| ML Coding Series \| End to end object detection with transformers [The AI Epiphany](https://www.youtube.com/watch?v=xkuoZ50gK4Q)                                                                                                                                        |
 
 #### 2D目标检测
 
