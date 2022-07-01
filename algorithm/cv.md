@@ -150,7 +150,6 @@ import cv2
 | DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilche](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
 | 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                      |
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
-| AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 
 ### 风格迁移
 

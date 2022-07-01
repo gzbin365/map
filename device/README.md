@@ -32,6 +32,7 @@ description: 硬件设备
 |                                                                                        |                                                                                        |                                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
+|                                                                                        |                                                                                        | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
 
 ### **计算机组装**
 
@@ -67,7 +68,7 @@ description: 硬件设备
 | **Raspberry Pi(**[**u**](https://www.youtube.com/c/raspberrypi/featured)**, )**                  | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
 | **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )** | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
 | Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                           | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
-| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                        |                                                                                                                            |
+| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                        | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,6 +90,8 @@ description: 硬件设备
 | How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                      |
 | 树莓派变视频监控(python脚本方案) [我是炬峰](https://www.youtube.com/watch?v=nTVl9YBZoFg) [git](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials/blob/master/Projects/rpi\_camera\_surveillance\_system.py) |
 | Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                |
+| 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                         |
+| 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                              |
 
 ## Orange Pi
 
@@ -404,9 +407,11 @@ System on Chip, 系统级芯片
 | Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                           |
 | Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc) |
 | 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                             |
+| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                             |
 | 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                    |
 | 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                             |
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
+|                                                                                                                    |
 
 ## 路由器
 

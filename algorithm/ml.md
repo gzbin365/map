@@ -555,7 +555,6 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Data Mining資料採礦課程 [謝邦昌](https://www.youtube.com/playlist?list=PLv0Qz-z4\_l9xSX4ajp6Ux55nt0k3sywZV)                                                                            |
 | Data Science 101 [Data Professor](https://www.youtube.com/playlist?list=PLtqF5YXg7GLn0WWB\_wQx7wHrIvbs0EH2e)                                                                  |
 | Learn Data Science Tutorial - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)                                                           |
-| Full Data Science Course [Learn Python with Rune](https://www.youtube.com/watch?v=d0bIgigcOQM)                                                                                |
 |                                                                                                                                                                               |
 
 #### 数据清理
@@ -1005,7 +1004,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | 5 concepts of A/B testing you should know as a Data Scientist [CodeEmporium](https://www.youtube.com/watch?v=0cyRCcCNVbs)    |
-| How to run A/B Tests as a Data Scientist! [CodeEmporium](https://www.youtube.com/watch?v=OVgi6ftJiyQ)                        |
 | AB Testing概览 [课代表立正](https://www.youtube.com/watch?v=vx15aj-ah1c)                                                            |
 | A/B Testing：轻松Pass二轮面试！AB 测试具体步骤及参数详解，附具体案例演示及结论分析 [Data Application Lab](https://www.youtube.com/watch?v=YJeWrniW48k)       |
 | A/B Testing面试干货： 一个你以为你会但总挡住你拿offer的必学知识点 - A/B测试（第427期） [Data Application Lab](https://www.youtube.com/watch?v=RoRT7O-6HE4) |
@@ -1152,19 +1150,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## Diffusion models
 
-|                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                    |
-| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
-|                                                                                                                                                                |
-
-## 基础模型 Foundation Models
-
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo) |
-|                                                                           |
-|                                                                           |
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew) |
+|                                                                                                             |
+|                                                                                                             |
 
 ## AI Safety
 
