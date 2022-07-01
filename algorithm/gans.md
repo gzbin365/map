@@ -4,10 +4,17 @@ description: Generative Adversarial Network (GAN)
 
 # GANs
 
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| Random Face Generator (This Person Does Not Exist) [s](https://this-person-does-not-exist.com/zh) |
+|                                                                                                   |
+|                                                                                                   |
+
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GANs [RE•WORK](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lLH6Ru8peDrG2HoWyycbFR)                                                                                     |
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                          |
+| Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                          |
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                           |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd) |
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |
@@ -40,7 +47,7 @@ description: Generative Adversarial Network (GAN)
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
-|                                                                                                                                                          |
+| 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
 
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,6 +60,22 @@ description: Generative Adversarial Network (GAN)
 | DALL-E 2 is… meh [Edan Meyer](https://www.youtube.com/watch?v=gmfI3B6pQTo)                                                                              |
 | How This A.I. Draws Anything You Describe \[DALL-E 2] [ColdFusion](https://www.youtube.com/watch?v=U1cF9QCu1rQ)                                         |
 |                                                                                                                                                         |
+
+### Image to Text
+
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part I](https://www.youtube.com/watch?v=ce4lIytxfIo) Microsoft Research |
+| \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part II](https://www.youtube.com/watch?v=xVIGQP5t-Sk)                   |
+| \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part III](https://www.youtube.com/watch?v=CqB6zLi3dFo)                  |
+
+Video to Text
+
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| \[VLP Tutorial @ CVPR 2022] Video-Text Pre-training [Part I](https://www.youtube.com/watch?v=LAeT1sBX6fc) Microsoft Research |
+|                                                                                                                              |
+|                                                                                                                              |
 
 | PaLM                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

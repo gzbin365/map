@@ -342,6 +342,12 @@ import cv2
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 | NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
 
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| Talk \| 香港中文大学MMLab在读博士生徐英豪：通过结构和纹理表示实现3D图像合成 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yb7QkSCtcS0) |
+|                                                                                                              |
+|                                                                                                              |
+
 ## 视频插帧
 
 |                                                                                                                                                                |
@@ -352,11 +358,11 @@ import cv2
 
 ## 视频理解
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| I3D 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=9lIkKiAn6uE)   |
-| 双流网络论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=vuqwKP2iDe0) |
-|                                                                       |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| I3D 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=9lIkKiAn6uE)                                                                                          |
+| 双流网络论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=vuqwKP2iDe0)                                                                                        |
+| Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=oz5yZc9ULAc) |
 
 ## 实战
 
