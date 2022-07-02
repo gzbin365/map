@@ -72,6 +72,7 @@ description: 硬件设备
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi [Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)                                                                                                         |
 | HomeAssistant智能家居实战篇 [HAChina中文网](https://www.youtube.com/playlist?list=PLfLv9YbLnoeuOJ22n-45FLFZQZeDs3fJh)                                                                                       |
 | Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                   |
 | Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                              |
@@ -92,6 +93,15 @@ description: 硬件设备
 | Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                |
 | 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                         |
 | 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                              |
+| 如何让树莓派变成黑客工具 [我是炬峰](https://www.youtube.com/watch?v=cF4qeIpufm4)                                                                                                                                  |
+
+### Raspberry Pi Pico
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ## Orange Pi
 
@@ -101,11 +111,19 @@ description: 硬件设备
 
 ## MicroPython
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| 使用MicroPython [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1346182154551329) |
-|                                                                                         |
-|                                                                                         |
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| 使用MicroPython [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1346182154551329)            |
+| micro:bit v2和树莓派Pico，2021年Python编程单片机你选哪个？[Bin Chen](https://www.youtube.com/watch?v=txrjKJ\_suOo) |
+| micropython文档 [s](http://docs.micropython.org/en/latest/)                                          |
+
+## micro:bit
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| micro:bit v2和树莓派Pico，2021年Python编程单片机你选哪个？[Bin Chen](https://www.youtube.com/watch?v=txrjKJ\_suOo) |
+| micro:bit v2 [doc](https://microbit-micropython.readthedocs.io/en/v2-docs/) git                    |
+|                                                                                                    |
 
 ## 单片机
 
@@ -265,6 +283,22 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------------- |
 | Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv) |
 
+## ESP32
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+## 微控制器
+
+
+
+## 神经网络加速芯片
+
+
+
 ## PCB （印制电路板）Printed circuit board
 
 |                                                                                                                        |
@@ -367,11 +401,13 @@ System on Chip, 系统级芯片
 | 【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 [硬件茶谈](https://www.youtube.com/watch?v=v\_-q1ybcTF8)                    |
 | 【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？[硬件茶谈](https://www.youtube.com/watch?v=orWW\_-qd2uk) |
 | 【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 [硬件茶谈](https://www.youtube.com/watch?v=gZriQjtABCk)                 |
+| 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】[Multiverse多元宇宙](https://www.youtube.com/watch?v=SaLsGluU3Oo)    |
+| 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                   |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
 | 我买墨水屏，只办三件事儿！\_华为MatePad Paper【值不值得买第553期】[TESTV](https://www.youtube.com/watch?v=lKfxt02Vx1Q) |
-|                                                                                                |
+| 黑白 刷新时间 2秒 不会                                                                                  |
 |                                                                                                |
 
 ## 虚拟现实 VR
