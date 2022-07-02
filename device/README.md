@@ -63,12 +63,12 @@ description: 硬件设备
 
 ## **Raspberry Pi**
 
-|                                                                                                  |                                                                                                                            |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **Raspberry Pi(**[**u**](https://www.youtube.com/c/raspberrypi/featured)**, )**                  | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
-| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )** | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
-| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                           | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
-| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                        | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
+|                                                                                                                         |                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Raspberry Pi** [**u**](https://www.youtube.com/c/raspberrypi/featured) **** [**s**](https://www.raspberrypi.com/)**** | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
+| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )**                        | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
+| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                                                  | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
+| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                                               | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,6 +94,11 @@ description: 硬件设备
 | 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                         |
 | 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                              |
 | 如何让树莓派变成黑客工具 [我是炬峰](https://www.youtube.com/watch?v=cF4qeIpufm4)                                                                                                                                  |
+| 只要 $35 美金的小型電腦！？一起開箱樹莓派 Raspberry Pi 4 （簡易安裝教學 + 實測） \| #devlog [愷開寫程式 / Kalan Coding](https://www.youtube.com/watch?v=xCyvMF80yjg)                                                               |
+| 樹梅派 Raspberry Pi 中文影片 [科技新柚](https://www.youtube.com/playlist?list=PLog31l8T4fsAGEK4F926H6hJmNpj5-b1E)                                                                                            |
+| 【Aiden】BerryBoot 樹梅派 多系統開機 教學 [Aiden's Low Budget Adventure](https://www.youtube.com/watch?v=FsJVMzBwLRE)                                                                                         |
+| 树莓派BerryBoot SSD多系统启动 \| CC中文字幕 [老明](https://www.youtube.com/watch?v=aJueYuVt\_qU)                                                                                                                |
+| 樹莓派教學 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtzka1v94A33ISzcv363njjIa)                                                                                    |
 
 ### Raspberry Pi Pico
 
