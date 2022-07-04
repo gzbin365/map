@@ -510,15 +510,12 @@
 
 ### Windows 11
 
-|                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore)                      |
-| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                                                |
-| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                                       |
-| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                                                  |
-| How to make the ultimate Terminal Prompt on Windows 11 - This video is LONG and WORDY and DETAILED [Scott Hanselman](https://www.youtube.com/watch?v=VT2L1SXFq9U) |
-| Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
-| How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore) |
+| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                           |
+| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                  |
+| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                             |
 
 ### Edge
 
