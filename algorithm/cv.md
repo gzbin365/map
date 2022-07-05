@@ -152,6 +152,10 @@ import cv2
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
 | AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 
+### 多帧合成
+
+
+
 ### 风格迁移
 
 |                                                                                                       |
