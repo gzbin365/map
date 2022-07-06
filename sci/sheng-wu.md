@@ -25,6 +25,14 @@ description: 好好睡觉 好好干饭
 | 中国科学家用CO₂人工合成淀粉！原理是什么？能得诺贝尔奖吗？ [李永乐老师](https://www.youtube.com/watch?v=0i8tqtudhZQ)                                                                     |
 | Origins of Life [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznS5m3hcoV\_JIcsYJiQ7L2\_R)                                       |
 
+### 脑科学 脑神经科学
+
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| 🧠 Neuroscience [Charlotte Fraza](https://www.youtube.com/playlist?list=PLrkJbc1rz5fZOE87k17hgfp3ZEBATBdDi) |
+| 人脑神经网络的那些bug们 [技术喵](https://www.youtube.com/watch?v=trpBt6Kj8Z4)                                            |
+|                                                                                                             |
+
 ### 宠物
 
 |                                                                                                               |   |
