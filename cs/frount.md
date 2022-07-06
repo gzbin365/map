@@ -72,6 +72,8 @@
 | How to Find Freelance Jobs [freeCodeCamp](https://www.youtube.com/watch?v=Z63TxAJotgQ)                                                                                                           |
 | Create a Video Membership Web App from Scratch with Python, NoSQL, & FastAPI [CodingEntrepreneurs](https://www.youtube.com/watch?v=KQ-u4RcFLBY)                                                  |
 | Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fireship](https://www.youtube.com/watch?v=Q7AOvWpIVHU)                                                                 |
+| Build a Responsive Website \| HTML, CSS Grid, Flexbox & More [Traversy Media](https://www.youtube.com/watch?v=p0bGHP-PXD4)                                                                       |
+|                                                                                                                                                                                                  |
 |                                                                                                                                                                                                  |
 
 |   |   |
@@ -161,6 +163,7 @@
 | Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss)                      |
 | Learn React Native Gestures and Animations - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=wEVjaXK4sYQ)                                                        |
 | 2020版React入门到大神【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7u0lzzlFQYx5sJ7GvZkA4i)                                                                     |
+| How To Create An Advanced Shopping Cart With React and TypeScript [Web Dev Simplified](https://www.youtube.com/watch?v=lATafp15HWA)                                      |
 
 ### Next.js
 
@@ -287,9 +290,10 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course) [SuperSimpleDev](https://www.youtube.com/watch?v=DqaTKBU9TZk)                             |
+| JavaScript Tutorial – Build 2 Word Games! [freeCodeCamp](https://www.youtube.com/watch?v=vYEkEMfoi1c)                                                                                        |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
 | LeetCode in JavaScript 刷題即興秀：Roman to Integer、Valid Parentheses at 2021/10/03 [彭彭的課程](https://www.youtube.com/watch?v=a7EX5vsiUf8)                                                           |
-| 彭彭老師的直播紀錄 彭彭的課程                                                                                                                                                                              |
+| 彭彭老師的直播紀錄 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqd7hBZANa3TkD5D0RD1\_QJ)                                                                                                 |
 | Advanced JavaScript Crash Course 2022 [Codevolution](https://www.youtube.com/watch?v=R9I85RhI7Cg)                                                                                            |
 | **JavaScript Learning Space(**[**quora**](https://jslearninglibrary.quora.com)**, )**                                                                                                        |
 | **JavaScript Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3\_ZA8h3AO2rXar-q2V)**)**                                                              |
@@ -332,6 +336,8 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Learn TypeScript - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)                                           |
 | AILHC/EasyGameFrameworkOpen [git](https://github.com/AILHC/EasyGameFrameworkOpen) 基于Typescript的渐进式通用游戏前端开发框架                                       |
 | Angular Tutorial for Beginners: Learn Angular & TypeScript [Programming with Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)                    |
+| How To Create An Advanced Shopping Cart With React and TypeScript [Web Dev Simplified](https://www.youtube.com/watch?v=lATafp15HWA)                |
+| TypeScript Crash Course [Traversy Media](https://www.youtube.com/watch?v=BCg4U1FzODs)                                                              |
 
 ### jQuery
 
