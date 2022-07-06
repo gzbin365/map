@@ -19,7 +19,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Arduino Engineering Kit Videos(**[**u**](https://www.youtube.com/channel/UCaPRtmtzWXQkbo9D-OxMN1w/videos)**, )**                                                         | **Carlos Roberto(**[**u**](https://www.youtube.com/user/zenetio/videos)**, )**         |
 | **Paul's Hardware(**[**u**](https://www.youtube.com/c/paulshardware/featured)**, )**                                                                                       | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                     |
-| **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**,** [**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** | 熊的開發DVPBear [u](https://www.youtube.com/user/m0923678421)                              |
+| **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**,** [**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** |                                                                                        |
 | **Simply Better(**[**u**](https://www.youtube.com/c/SimplyBetter\_SB/playlists)**, )**                                                                                     |                                                                                        |
 | **RoboShala(**[**u**](https://www.youtube.com/c/RoboShala/featured)**, )**                                                                                                 |                                                                                        |
 | **Kotai Electronics Pvt. Ltd.(**[**u**](https://www.youtube.com/c/MyElectronicsLab/featured)**, )**                                                                        |                                                                                        |
@@ -63,16 +63,15 @@ description: 硬件设备
 
 ## **Raspberry Pi**
 
-|                                                                                                                         |                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Raspberry Pi** [**u**](https://www.youtube.com/c/raspberrypi/featured) **** [**s**](https://www.raspberrypi.com/)**** | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
-| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )**                        | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
-| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                                                  | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
-| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                                               | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
+|                                                                                                  |                                                                                                                            |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Raspberry Pi(**[**u**](https://www.youtube.com/c/raspberrypi/featured)**, )**                  | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
+| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )** | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
+| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                           | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
+| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                        | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi [Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)                                                                                                         |
 | HomeAssistant智能家居实战篇 [HAChina中文网](https://www.youtube.com/playlist?list=PLfLv9YbLnoeuOJ22n-45FLFZQZeDs3fJh)                                                                                       |
 | Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                   |
 | Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                              |
@@ -93,22 +92,6 @@ description: 硬件设备
 | Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                |
 | 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                         |
 | 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                              |
-| 如何让树莓派变成黑客工具 [我是炬峰](https://www.youtube.com/watch?v=cF4qeIpufm4)                                                                                                                                  |
-| 只要 $35 美金的小型電腦！？一起開箱樹莓派 Raspberry Pi 4 （簡易安裝教學 + 實測） \| #devlog [愷開寫程式 / Kalan Coding](https://www.youtube.com/watch?v=xCyvMF80yjg)                                                               |
-| 樹梅派 Raspberry Pi 中文影片 [科技新柚](https://www.youtube.com/playlist?list=PLog31l8T4fsAGEK4F926H6hJmNpj5-b1E)                                                                                            |
-| 【Aiden】BerryBoot 樹梅派 多系統開機 教學 [Aiden's Low Budget Adventure](https://www.youtube.com/watch?v=FsJVMzBwLRE)                                                                                         |
-| 树莓派BerryBoot SSD多系统启动 \| CC中文字幕 [老明](https://www.youtube.com/watch?v=aJueYuVt\_qU)                                                                                                                |
-| 樹莓派教學 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtzka1v94A33ISzcv363njjIa)                                                                                    |
-| Raspberry PI 4 樹莓派四代來襲 遊戲體驗更棒 運行性能提升 增加NAOMI SS模擬器 還能跑PGM2 太讚的特色電玩啦！！ [獅心瘋](https://www.youtube.com/watch?v=ppzgQ2n0EFo)                                                                          |
-| Windows 11 ARM on Raspberry Pi [ExplainingComputers](https://www.youtube.com/watch?v=zGF\_HaSdFyA)                                                                                                |
-
-### Raspberry Pi Pico
-
-|   |
-| - |
-|   |
-|   |
-|   |
 
 ## Orange Pi
 
@@ -118,19 +101,11 @@ description: 硬件设备
 
 ## MicroPython
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| 使用MicroPython [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1346182154551329)            |
-| micro:bit v2和树莓派Pico，2021年Python编程单片机你选哪个？[Bin Chen](https://www.youtube.com/watch?v=txrjKJ\_suOo) |
-| micropython文档 [s](http://docs.micropython.org/en/latest/)                                          |
-
-## micro:bit
-
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| micro:bit v2和树莓派Pico，2021年Python编程单片机你选哪个？[Bin Chen](https://www.youtube.com/watch?v=txrjKJ\_suOo) |
-| micro:bit v2 [doc](https://microbit-micropython.readthedocs.io/en/v2-docs/) git                    |
-|                                                                                                    |
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| 使用MicroPython [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1346182154551329) |
+|                                                                                         |
+|                                                                                         |
 
 ## 单片机
 
@@ -290,22 +265,6 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------------- |
 | Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv) |
 
-## ESP32
-
-|   |
-| - |
-|   |
-|   |
-|   |
-
-## 微控制器
-
-
-
-## 神经网络加速芯片
-
-
-
 ## PCB （印制电路板）Printed circuit board
 
 |                                                                                                                        |
@@ -408,13 +367,11 @@ System on Chip, 系统级芯片
 | 【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 [硬件茶谈](https://www.youtube.com/watch?v=v\_-q1ybcTF8)                    |
 | 【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？[硬件茶谈](https://www.youtube.com/watch?v=orWW\_-qd2uk) |
 | 【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 [硬件茶谈](https://www.youtube.com/watch?v=gZriQjtABCk)                 |
-| 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】[Multiverse多元宇宙](https://www.youtube.com/watch?v=SaLsGluU3Oo)    |
-| 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                   |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
 | 我买墨水屏，只办三件事儿！\_华为MatePad Paper【值不值得买第553期】[TESTV](https://www.youtube.com/watch?v=lKfxt02Vx1Q) |
-| 黑白 刷新时间 2秒 不会                                                                                  |
+|                                                                                                |
 |                                                                                                |
 
 ## 虚拟现实 VR
@@ -548,9 +505,6 @@ System on Chip, 系统级芯片
 | Jim Keller: Moore's Law, Microprocessors, and First Principles \| [Lex Fridman](https://www.youtube.com/watch?v=Nb2tebYAaOA) Podcast #70    |
 | Jim Keller: The Future of Computing, AI, Life, and Consciousness \| [Lex Fridman](https://www.youtube.com/watch?v=G4hL5Om4IJ4) Podcast #162 |
 | 不要太在意人口数量，挖掘人口深度 [九边](https://www.douyin.com/video/7056037049886838047)                                                                     |
-| tsmc                                                                                                                                        |
-| 以絕對的技術壟斷世界半導體界, 獨力撐起半個台灣的護國神山 - 台積電 (TSMC) [窮奢極欲](https://www.youtube.com/watch?v=rUUVW\_PPaoE) 3:50                                        |
-|                                                                                                                                             |
 
 ## 数码
 
