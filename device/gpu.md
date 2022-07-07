@@ -12,16 +12,6 @@
 
 【Huan】 我買了一張Quadro繪圖卡! 能打遊戲嗎? 繪圖卡適合甚麼樣的人入手? [Huan](https://www.youtube.com/watch?v=PzQEtiEsut8)
 
-NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的保姆級教程 [Super Kr超极氪](https://www.youtube.com/watch?v=VqpvqU2I07c)
-
-## eGPU
-
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0) |
-|                                                                                               |
-|                                                                                               |
-
 ## **CUDA**
 
 |                                                                                                                     |

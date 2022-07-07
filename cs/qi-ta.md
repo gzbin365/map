@@ -413,7 +413,6 @@
 | Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
 | 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                 |
 | Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                              |
-| 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                   |
 | Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
 |                                                                                                                                                                                                              |
 |                                                                                                                                                                                                              |
@@ -483,13 +482,12 @@
 
 ## Windows
 
-|                                                                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18 CMD Tips, Tricks and Hacks                                                                                                                                                                                                                                                                                                                                                       |
-| WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                                                                                                                                                                                                                                                                                          |
-| PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
-| Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                                                                                                                                                                                                                                                                                          |
-| <p>将windows装到口袋里（上）--- Windows To Go的制作 <a href="https://www.youtube.com/watch?v=M5gHpm-pzgY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">Cool Play</a></p><p>将windows装到口袋里（<a href="https://www.youtube.com/watch?v=ak0rzszBOGY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">下</a>） - Mac虚拟机引导Windows To Go （Parallels， VirtualBox， VMware Fusion）</p> |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| 18 CMD Tips, Tricks and Hacks                                                                                   |
+| WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                      |
+| PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10) |
+| Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                      |
 
 ### 镜像
 
@@ -512,15 +510,12 @@
 
 ### Windows 11
 
-|                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore)                      |
-| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                                                |
-| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                                       |
-| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                                                  |
-| How to make the ultimate Terminal Prompt on Windows 11 - This video is LONG and WORDY and DETAILED [Scott Hanselman](https://www.youtube.com/watch?v=VT2L1SXFq9U) |
-| Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
-| How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore) |
+| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                           |
+| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                  |
+| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                             |
 
 ### Edge
 
