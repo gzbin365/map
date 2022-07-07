@@ -101,6 +101,10 @@ description: 硬件设备
 | 樹莓派教學 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtzka1v94A33ISzcv363njjIa)                                                                                    |
 | Raspberry PI 4 樹莓派四代來襲 遊戲體驗更棒 運行性能提升 增加NAOMI SS模擬器 還能跑PGM2 太讚的特色電玩啦！！ [獅心瘋](https://www.youtube.com/watch?v=ppzgQ2n0EFo)                                                                          |
 | Windows 11 ARM on Raspberry Pi [ExplainingComputers](https://www.youtube.com/watch?v=zGF\_HaSdFyA)                                                                                                |
+| 不到200块的树莓派变身超级复古游戏机 [Yi Wang](https://www.youtube.com/watch?v=oPD0-CpVHjA)                                                                                                                        |
+| Raspberry Pi [Cool Play](https://www.youtube.com/playlist?list=PLeTPtpt422iswWcKFrZ3Mdrqa8P79aECU) 集群                                                                                             |
+| 树莓派应用系列 [悟空的日常](https://www.youtube.com/playlist?list=PL-Gg8EgJJQpCnggBXCguQdura5GfnPg6L)                                                                                                         |
+| 如何用树莓派搭一个文件服务器 [我是炬峰](https://www.youtube.com/watch?v=ocgEwgJ8MAI)                                                                                                                                |
 
 ### Raspberry Pi Pico
 
@@ -143,6 +147,14 @@ description: 硬件设备
 |                                                                                           |
 | ----------------------------------------------------------------------------------------- |
 | NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY) |
+
+## 无线电
+
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| 携手软件定义无线电SDR走进神奇的无线电世界 [Yuan Wang](https://www.youtube.com/watch?v=KjgE1CNs2xA) |
+| 如何用树莓派搭个小电台 [我是炬峰](https://www.youtube.com/watch?v=FnUiLn60s0Q)                 |
+|                                                                                 |
 
 ## PC掌机
 
@@ -260,10 +272,11 @@ description: 硬件设备
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Cool 3D Printed Mechanical Clock](https://www.youtube.com/watch?v=E9prY3ky6Bo) | Mechanistic([u](https://www.youtube.com/user/dannysltang/videos), ) |
 
-|                                                                                             |   |
-| ------------------------------------------------------------------------------------------- | - |
-| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo |   |
-| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z) |   |
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo      |
+| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)      |
+| 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc) |
 
 ## UV印刷
 
@@ -432,6 +445,12 @@ System on Chip, 系统级芯片
 | ---------------------------------------------------------------------------------------------- |
 | 我买墨水屏，只办三件事儿！\_华为MatePad Paper【值不值得买第553期】[TESTV](https://www.youtube.com/watch?v=lKfxt02Vx1Q) |
 | 黑白 刷新时间 2秒 不会烧屏 断电显示                                                                           |
+|                                                                                                |
+
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| Awtrix DIY [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9T3Lw7PR9u\_UrtplM1Dqp77) |
+|                                                                                                |
 |                                                                                                |
 
 ## 虚拟现实 VR
