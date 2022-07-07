@@ -88,9 +88,3 @@
 | 三体 [老高](https://www.youtube.com/watch?v=2vowHo2y-hI)                                        |
 | 76分钟看完《三体》全集 [名侦探拳头](https://www.youtube.com/watch?v=QO25QnboJG0)                           |
 | 詹青云辩论赛集锦 [Jane L](https://www.youtube.com/playlist?list=PL6I0BQbqxO00c2MFnZ9g7mCTeWpJ8xi03) |
-
-| 新闻                                                             |
-| -------------------------------------------------------------- |
-| 世界著名的神秘情报机构 [Pisces丶落塵](https://zhuanlan.zhihu.com/p/82643224) |
-|                                                                |
-|                                                                |
