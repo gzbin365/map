@@ -178,6 +178,7 @@ LDA 文档聚类 plsa lsa
 | facebookresearch/fastText [git](https://github.com/facebookresearch/fastText)                                                                                   |
 | NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
 | TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networks [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                    |
+| Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                |
 
 ### 自然语言理解 Natural Language Understanding
 
@@ -241,6 +242,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | \[線上讀書會] 尹相志 主講 賦予chatbot語言能力：深度自然語言理解 [hsiang an chi](https://www.youtube.com/watch?v=E-knCZ0egKQ)                                                                                                                                                                                            |
 | 線上 chatbot 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zcDxkNSC0A2T-L1-zod-GMw)                                                                                                                                                                                       |
 | Did Google's LaMDA chatbot just become sentient? [Yannic Kilcher](https://www.youtube.com/watch?v=mIZLGBD99iU)                                                                                                                                                                                 |
+| 很有可能被刪掉的一期，盡快看吧 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=1rmPnO1eqL4)                                                                                                                                                                                                           |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -322,6 +324,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | youtube search\_query=[多轮对话](https://www.youtube.com/results?search\_query=%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D)   search\_query=[multi-turn+dialogue](https://www.youtube.com/results?search\_query=multi-turn+dialogue) |
 |                                                                                                                                                                                                                           |
 
+### 情绪 Emotions
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| DeepPavlov Research Seminars: Emotions [DeepPavlov](https://www.youtube.com/watch?v=57fIihBHOpI) |
+|                                                                                                  |
+|                                                                                                  |
+
 ### 意图识别
 
 |                                                                |
@@ -364,7 +374,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-###
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### Attention
 
