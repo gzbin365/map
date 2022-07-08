@@ -107,6 +107,8 @@ description: 硬件设备
 | 树莓派应用系列 [悟空的日常](https://www.youtube.com/playlist?list=PL-Gg8EgJJQpCnggBXCguQdura5GfnPg6L)                                                                                                                                                 |
 | 如何用树莓派搭一个文件服务器 [我是炬峰](https://www.youtube.com/watch?v=ocgEwgJ8MAI)                                                                                                                                                                        |
 | <p>Tech <a href="https://www.youtube.com/playlist?list=PLdgI9Pl3hKw31hdPFBitr1yoFI19oC3Bo">美国村長</a></p><p>详解 Raspberry Pi 搭建 Jupyter Notebook 远程云服务器 | Jupyter + Nginx <a href="https://www.youtube.com/watch?v=jml5slipxjk">美国村長</a></p> |
+| 20210330 教師專題講座 「樹莓派相機影像辨識實作」 [FabLab花蓮高工](https://www.youtube.com/watch?v=hKwA1Rmkow8)                                                                                                                                                   |
+| 【踢踢】200多元的树莓派能给家里带来多大的改变？ [踢踢打踢踢](https://www.youtube.com/watch?v=Lo2dU-Gnxso)                                                                                                                                                            |
 
 ### Raspberry Pi Pico
 
@@ -500,7 +502,8 @@ System on Chip, 系统级芯片
 | ------------------------------------------------------------------------------------------------------------------- |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
-|                                                                                                                     |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)     |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                             |
 
 ## 手工
 
