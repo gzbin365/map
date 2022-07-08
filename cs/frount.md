@@ -289,8 +289,6 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JavaScript Full Course 🌐 -Learn to code today-【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=8dWL3wF\_OMw)                                                                           |
-| JavaScript DOM Manipulation – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)                                                                          |
 | BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course) [SuperSimpleDev](https://www.youtube.com/watch?v=DqaTKBU9TZk)                             |
 | JavaScript Tutorial – Build 2 Word Games! [freeCodeCamp](https://www.youtube.com/watch?v=vYEkEMfoi1c)                                                                                        |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
