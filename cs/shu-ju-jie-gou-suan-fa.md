@@ -34,7 +34,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 我思故我菜 [u](https://www.youtube.com/channel/UCxEAC4o1bBmcl-6pnW9oC7Q/playlists)                                                            | William Brinkman [u](https://www.youtube.com/user/cutealiens/videos)                             |
 | 古城算法 [u](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/playlists)                                                       | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
 | 九章算法 [u](https://www.youtube.com/channel/UCdBXs\_F9YlBodIH7eK0BYfQ/playlists)                                                            | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
-| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             | 資訊科技領域\_微課程 [u](https://www.youtube.com/channel/UCZQgs9xEZsdXBivdQVRCzNw/playlists)              |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             |                                                                                                  |
 
 ## 动态规划 **Dynamic Programming Problems, DP**
 
@@ -58,7 +58,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 | Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
 | Dynamic Programming - Level 1 [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)                                                                                                                                |
-| Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners [NeetCode](https://www.youtube.com/watch?v=mBNrRy2\_hVs)                                                                                                                  |
+|                                                                                                                                                                                                                                                    |
 
 ## Recurisive
 
@@ -135,8 +135,6 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Data Structures and Algorithms for Beginners [Programming with Mosh](https://www.youtube.com/watch?v=BBpAmxU\_NQo)                                                                                                                                                                                                                                    |
 | A\* Pathfinding Visualization Tutorial - Python A\* Path Finding Tutorial [Tech With Tim](https://www.youtube.com/watch?v=JtiK0DOeI4A)                                                                                                                                                                                                                |
 | Studying Algorithms in Python [NeuralNine](https://www.youtube.com/watch?v=uxwH3l2RQpY) pygorithm                                                                                                                                                                                                                                                     |
-| Greedy Algorithms Tutorial – Solve Coding Challenges [freeCodeCamp](https://www.youtube.com/watch?v=bC7o8P\_Ste4)                                                                                                                                                                                                                                     |
-| 算法基础 [Cool Play](https://www.youtube.com/playlist?list=PLeTPtpt422is3Zzibr0fPUAXfWA72zv9q) DFS & BFS                                                                                                                                                                                                                                                  |
 
 |                                                                     |
 | ------------------------------------------------------------------- |
@@ -262,5 +260,5 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | rongweihe/[CS\_Offer](https://github.com/rongweihe/CS\_Offer)   后台开发基础知识总结（春招/秋招）                                                                      |
 | callmePicacho/[Data-Structres](https://github.com/callmePicacho/Data-Structres)   浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解                                      |
 | dunwu/[algorithm-tutorial](https://github.com/dunwu/algorithm-tutorial)   算法和数据结构教程                                                                    |
-| **CS-Notes** [**git**](https://github.com/CyC2018/CS-Notes) **** 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计                                                |
+|                                                                                                                                                        |
 | xiufengcheng/[DATASTRUCTURE](https://github.com/xiufengcheng/DATASTRUCTURE)   数据结构                                                                     |
