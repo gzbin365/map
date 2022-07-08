@@ -12,12 +12,13 @@
 | [**bywave**](https://bywave.art/aff.php?aff=2614)                                                        | 2019-2022 | 280/年, 120G/月, 30-50ms   |
 | Go加速 [s](https://gogoo.cyou/auth/register?code=rMAF) [git](https://x-go.gitbook.io/untitled/)            | 2022-     | 88/年, 200G/月, 10-150ms   |
 | [牛牛很牛](https://niuniuhenniu.net/auth/register?code=12861)                                                |           |                          |
-| 速蛙云 [s](https://cloud.faster.buzz)                                                                       |           |                          |
+| 速蛙云 [s](https://cloud.faster.buzz/)                                                                      |           |                          |
 | **baacloud(**[**site**](https://www.baacloud.com)**,** [**git**](https://github.com/baacloud/url)**, )** |           |                          |
 | [**jikess**](http://www.jikess.in)                                                                       |           |                          |
-| [VilaVPN](https://vilavpn.com)                                                                           |           |                          |
+| [VilaVPN](https://vilavpn.com/)                                                                          |           |                          |
 | 可乐云 可樂雲[Kelecloud](https://xn--fjqzfu8n.xyz/#/login)                                                     |           |                          |
 | marslink [s](https://ss.marslink.org/#/login) [v](https://www.youtube.com/watch?v=gCDlPejwCQk)           |           |                          |
+| v2rayse [s](https://v2rayse.com/) [v](https://www.youtube.com/watch?v=pTlso8m\_iRk)                      |           |                          |
 
 ## 工具
 
@@ -28,9 +29,9 @@
 
 ## 插件
 
-|                                                                                                                                                                         |                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| SetupVPN([s](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp), [v](https://www.youtube.com/watch?v=9y1NXrB0hpo), ) | Hoxx [s](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh/related) |
+|                                                                                                                                                                         |                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| SetupVPN([s](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp), [v](https://www.youtube.com/watch?v=9y1NXrB0hpo), ) | Hoxx [s](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh/related?utm\_source=chrome-ntp-icon) |
 
 ## 其他
 
@@ -43,7 +44,7 @@
 | **谷歌访问助手(**[**site**](https://www.ggfwzs.com)**,** [**插件**](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/fjbknnledpckpbjcglogolokonffggpc?hl=zh-CN)**)** | 没用过  |
 | 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), )                                                                                                | 没用过  |
 | shadowsocks [git](https://github.com/shadowsocks)                                                                                                                                                            |      |
-| 快连 [s](https://d132o2ux0nuv2m.cloudfront.net)                                                                                                                                                                |      |
+| 快连 [s](https://d132o2ux0nuv2m.cloudfront.net/)                                                                                                                                                               |      |
 | <p><a href="https://surfshark.deals">https://surfshark.deals</a>  surfshark</p><p><a href="https://surfshark.deals/HEXAGON">https://surfshark.deals/HEXAGON</a></p>                                          |      |
 
 | 澳门手机卡/澳门sim卡                                                                   |
