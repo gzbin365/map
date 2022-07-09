@@ -1,7 +1,3 @@
----
-description: 为天地立心，为生民立命，为往圣继绝学，为万世开太平
----
-
 # 文学
 
 |                                        |   |   |
@@ -83,19 +79,12 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 阿西莫夫科幻小说系列 Isaac Asimov [幻海航行--science fiction](https://www.youtube.com/playlist?list=PLkz\_-SLZY0iDSK-jBKylS-gbVnr4fku2L) |
 | 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                            |
 
-|                                                                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 张爱玲 社恐、怪胎、天才！走近20世纪最传奇的作家之一 [大象放映室](https://www.youtube.com/watch?v=4EPeJxmClBI)                                                                                                                                                                                                                                                                      |
-| <p>横渠四句，是指北宋大家张载的名言，即：</p><p>“为天地立心，为生民立命，为往圣继绝学，为万世开太平”。<a href="https://baike.baidu.com/item/%E6%A8%AA%E6%B8%A0%E5%9B%9B%E5%8F%A5/8570050">bd</a></p><p>如何理解 <a href="https://www.zhihu.com/question/19909108">zh</a> <a href="https://www.youtube.com/watch?v=1xmZMTqUG9Q">u</a> <a href="https://www.youtube.com/watch?v=3QtBz2rJkx8">袁腾飞</a></p> |
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| 张爱玲 社恐、怪胎、天才！走近20世纪最传奇的作家之一 [大象放映室](https://www.youtube.com/watch?v=4EPeJxmClBI) |
 
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
 | 三体 [老高](https://www.youtube.com/watch?v=2vowHo2y-hI)                                        |
 | 76分钟看完《三体》全集 [名侦探拳头](https://www.youtube.com/watch?v=QO25QnboJG0)                           |
 | 詹青云辩论赛集锦 [Jane L](https://www.youtube.com/playlist?list=PL6I0BQbqxO00c2MFnZ9g7mCTeWpJ8xi03) |
-
-| 新闻                                                             |
-| -------------------------------------------------------------- |
-| 世界著名的神秘情报机构 [Pisces丶落塵](https://zhuanlan.zhihu.com/p/82643224) |
-|                                                                |
-|                                                                |

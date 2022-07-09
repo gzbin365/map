@@ -123,6 +123,7 @@ description: 硬件设备
 | Raspberry Pi Pico vs Raspberry Pi Zero: Which Do You Need? [s](https://howchoo.com/pi/raspberry-pi-pico-vs-raspberry-pi-zero) |
 | Pico Pi C Programming using the Raspberry Pi 400 [Ben Heck Hacks](https://www.youtube.com/watch?v=il4bgA76E1M)                |
 | 23个有趣的Raspberry Pi 400事实 [s](https://picockpit.com/raspberry-pi/zh/23-fun-raspberry-pi-400-facts/)                            |
+| ESP32死忠粉为什么“劈腿”了树莓派Pico #Raspberry Pi Pico [工科男孙老师](https://www.youtube.com/watch?v=gIQwjIsGP3c)                              |
 
 ## Orange Pi
 
@@ -510,6 +511,7 @@ System on Chip, 系统级芯片
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
 | 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)     |
 | 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                             |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                        |
 
 ## 手工
 
