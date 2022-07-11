@@ -53,6 +53,7 @@ description: 自然语言处理
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 | Vectors In Transformer Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=l4is4uHvKlU)                                                                 |
+| CS25 I Stanford Seminar - Transformers United: DL Models that have revolutionized NLP, CV, RL [Stanford Online](https://www.youtube.com/watch?v=P127jhj-8-Y)       |
 |                                                                                                                                                                    |
 |                                                                                                                                                                    |
 |                                                                                                                                                                    |
