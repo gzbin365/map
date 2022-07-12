@@ -9,11 +9,3 @@
 |                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Course \| The Civil War and Reconstruction Era, 1845-1877 [Aaron Maher](https://www.youtube.com/playlist?list=PLDl9\_LuL-uw5DOPT3wd-fcWfv5xXTVz\_s) |
-
-## 收藏
-
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| 南宋矅变天目盏，从德川家族起400年传承有序 [马未都聊国宝](https://www.youtube.com/watch?v=7LQ5EwHDgsI)            |
-| 《消费主张》 收藏市场调查：绚丽多彩看建盏 20190227 \| [CCTV财经](https://www.youtube.com/watch?v=sEeIxztIdkE) |
-|                                                                                         |

@@ -421,32 +421,33 @@
 
 ## 架构
 
-| 老男孩高级架构师体系                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)             |
-| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)          |
-| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                 |
-| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)         |
-| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)         |
-| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                  |
-| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)         |
-| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)         |
-| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)            |
-| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)           |
-| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)          |
-| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)            |
-| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)           |
-| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)        |
-| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                |
-| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)     |
-| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq) |
-| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)       |
-| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)       |
-| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)       |
-| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                  |
-| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                 |
-| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)              |
-| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                   |
+| 老男孩高级架构师体系                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)                |
+| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)             |
+| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                    |
+| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)            |
+| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)            |
+| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                     |
+| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)            |
+| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)            |
+| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)               |
+| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)              |
+| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)             |
+| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)               |
+| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)              |
+| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)           |
+| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                   |
+| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)        |
+| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq)    |
+| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)          |
+| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)          |
+| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)          |
+| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                     |
+| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                    |
+| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)                 |
+| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                      |
+| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8) |
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |

@@ -566,13 +566,37 @@ System on Chip, 系统级芯片
 |                                                                                             |
 |                                                                                             |
 
+### Large-scale UGV Localization
+
+
+
+### Long-tern UAV Navigation
+
+
+
+### Multi-agent Cooperation
+
+
+
+### Digital Twin & 3D Mapping
+
+
+
+### Incremental Perception
+
+
+
+### Lifelong Navigation
+
+
+
 ### SLAM
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| Talk \| CMU殷鹏：面向机器人长航程自治的MetaSLAM架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=sEJY0lt2RxQ) |
-|                                                                                                    |
-|                                                                                                    |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| Talk \| CMU殷鹏：面向机器人长航程自治的MetaSLAM架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=sEJY0lt2RxQ)    |
+| 后浪短视频更新 \| Lab Tour Vlog：卡内基梅隆大学机器人实验室 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=svw4jVu8n00) |
+|                                                                                                       |
 
 ### ROS
 

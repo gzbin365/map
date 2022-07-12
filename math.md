@@ -155,14 +155,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 小学
 
-### 心算 算盘
-
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| MissAbacus [u](https://www.youtube.com/c/MissAbacus)                                             |
-| MENTAL ARITHMETIC [知乎](https://www.youtube.com/playlist?list=PLF1NoOtYgfmz9I7w2g-ARrhanhAnZ10a2) |
-|                                                                                                  |
-|                                                                                                  |
+##
 
 ## 小生初
 
@@ -662,7 +655,6 @@ $$
 | keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
 | <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
 | Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                        |
-| 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                         |
 |                                                                                                                                                                                                    |
 
 | IRT理論                                                                                                                                                          |
@@ -1241,7 +1233,6 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | hashcat [s](https://hashcat.net/hashcat/) [git](https://github.com/hashcat/hashcat)                                                                                              |
 | [破解Excel的密码](https://www.youtube.com/watch?v=JaGJHdY8fzI) [破解压缩包密码](https://www.youtube.com/watch?v=ifrpYn\_Gm54) [获取 Wi-Fi密码](https://www.youtube.com/watch?v=t9CGy7RScss) 零度解说 |
-| Aircrack-ng [v](https://www.youtube.com/watch?v=RcQciiFwy8A)                                                                                                                     |
 |                                                                                                                                                                                  |
 
 ## 计算机科学 Computer Science
