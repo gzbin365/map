@@ -607,7 +607,7 @@ System on Chip, 系统级芯片
 | ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
 | ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
 
-## 芯片 半导体
+## 芯片Chip 半导体
 
 |                                                                                                                    |   |
 | ------------------------------------------------------------------------------------------------------------------ | - |
@@ -627,6 +627,14 @@ System on Chip, 系统级芯片
 | 以絕對的技術壟斷世界半導體界, 獨力撐起半個台灣的護國神山 - 台積電 (TSMC) [窮奢極欲](https://www.youtube.com/watch?v=rUUVW\_PPaoE) 3:50                                        |
 | 半導體奇妙的旅程—從原子結構的量子探索到人工智慧的開花結果｜盧志遠院士 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=xWOr0qqHvTI)                                     |
 |                                                                                                                                             |
+
+### AI Chip
+
+|                                                                                    |
+| ---------------------------------------------------------------------------------- |
+| The Coming AI Chip Boom [Asianometry](https://www.youtube.com/watch?v=L0948yq2Hqk) |
+|                                                                                    |
+|                                                                                    |
 
 ## 数码
 
