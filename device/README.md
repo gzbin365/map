@@ -112,6 +112,7 @@ description: 硬件设备
 | 【踢踢】200多元的树莓派能给家里带来多大的改变？ [踢踢打踢踢](https://www.youtube.com/watch?v=Lo2dU-Gnxso)                                                                                                                                                            |
 | How to Overclock Raspberry Pi 4 to 2.0 GHz [s](https://www.cnx-software.com/2019/07/26/how-to-overclock-raspberry-pi-4/)                                                                                                                  |
 | <p>【韩风Talk】树莓派4最佳<a href="https://www.youtube.com/watch?v=RGYtiO1tcOo">散热</a>解决方案，目前没有之一</p><p>折腾树莓派 <a href="https://www.youtube.com/playlist?list=PLTI5d7Gwez7pMOKZgEKxte1_guTl5tJJq">韩风Talk</a></p>                                    |
+| 树莓派DIY中文智能音箱 [IT Commander](https://www.youtube.com/watch?v=tEkMuxXF9LY)                                                                                                                                                                  |
 
 ### Raspberry Pi Pico
 
