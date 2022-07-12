@@ -504,12 +504,13 @@ System on Chip, 系统级芯片
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
 |                                                                                                                    |
 
-## 路由器
+## 路由器 软路由
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                      |
 | 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)     |
 | 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                             |
 | 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                        |
