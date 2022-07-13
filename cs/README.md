@@ -114,6 +114,10 @@ Learn Terraform with Azure by Building a Dev Environment – Full Course for Beg
 
 Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
+AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
+
+
+
 </details>
 
 ### Nvidia
