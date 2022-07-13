@@ -152,6 +152,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Blender 3.0 Reference Manual [doc](https://docs.blender.org/manual/en/3.0/)                                                                       |
 | Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                     |
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                           |
+| Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                        |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                     |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                            |
 | Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                        |
