@@ -1,8 +1,9 @@
 # 物联网
 
-|                                                                             |                                                                    |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw) |
+|                                                                             |                                                                               |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)            |
+| 小帅同学Js [u](https://www.youtube.com/channel/UCYOPGlIOwGdmL-IBuCZLu9A)        | 宅智家 [u](https://www.youtube.com/c/%E5%AE%85%E6%99%BA%E5%AE%B6) Home Assistant |
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,3 +15,6 @@
 | 物联小项目—ov7670摄像头 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb61QaGimPKtNTdq0XxyFtn)                                                                   |
 | AidLux [s](http://www.aidlearning.net/) [doc](https://docs.aidlux.com/)   aidlearning/[AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) |
 | 耗时一个月打造智能家居系统 \| homeassistant 系统演示 \| siri语音控制 \| 树莓派+ESPhome+WS2812B+Arduino [Sai Kaspar](https://www.youtube.com/watch?v=gETAr5Nay0Q)                            |
+| 新版树莓派4B 8G内存开箱与使用-来玩智能家居-Raspberry Pi 4B 8GB version [黑影儿TV](https://www.youtube.com/watch?v=L7Cq5irKGco)                                                           |
+| 树莓派运行Homebridge实现用Homekit控制其他平台智能设备 [BangZhu](https://www.youtube.com/watch?v=7y7KEi3wD8w)                                                                          |
+| \[科技實作] 5000塊的自製冷氣遙控器｜ Arduino + Homebridge [Ning's Talk](https://www.youtube.com/watch?v=RJMFaNfvIY4)                                                              |
