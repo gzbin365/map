@@ -145,7 +145,6 @@
 | Web攻防训练营 [刺客一二三](https://www.youtube.com/playlist?list=PLkuKHvw9NmzS4UcKM69J1KCwrscvg0Wxr)             |
 | Https互联网通信的保护盾-背后的加密过程和证书原理解析 [JimmyCoding](https://www.youtube.com/watch?v=W9r3n2DFD64)               |
 | riba2534/[TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)  《TCP/IP网络编程》(韩-尹圣雨)学习笔记 |
-| How does HTTPS work? [ByteByteGo](https://www.youtube.com/watch?v=67kItGjvRs0)                         |
 
 ## SEO
 
@@ -223,7 +222,6 @@
 
 | Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Flappy Bird Tutorial [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-eKyAh8xeJORGP2PdRH86hS)                                                    |
 | Pokete - Playing Pokémon From The Command Line [Mental Outlaw](https://www.youtube.com/watch?v=iN3G9YsWGks) [git](https://github.com/lxgr-linux/pokete)         |
 | Build 5 Games in Python \| Beginner Portfolio Project [Python Engineer](https://www.youtube.com/watch?v=C6M67z4\_bZ8)                                           |
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
@@ -415,40 +413,38 @@
 | Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
 | 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                 |
 | Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                              |
-| 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                   |
 | Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
 |                                                                                                                                                                                                              |
 |                                                                                                                                                                                                              |
 
 ## 架构
 
-| 老男孩高级架构师体系                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)                |
-| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)             |
-| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                    |
-| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)            |
-| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)            |
-| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                     |
-| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)            |
-| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)            |
-| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)               |
-| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)              |
-| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)             |
-| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)               |
-| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)              |
-| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)           |
-| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                   |
-| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)        |
-| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq)    |
-| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)          |
-| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)          |
-| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)          |
-| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                     |
-| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                    |
-| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)                 |
-| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                      |
-| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8) |
+| 老男孩高级架构师体系                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)             |
+| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)          |
+| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                 |
+| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)         |
+| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)         |
+| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                  |
+| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)         |
+| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)         |
+| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)            |
+| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)           |
+| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)          |
+| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)            |
+| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)           |
+| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)        |
+| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                |
+| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)     |
+| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq) |
+| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)       |
+| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)       |
+| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)       |
+| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                  |
+| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                 |
+| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)              |
+| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                   |
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -483,17 +479,15 @@
 | Run macOS on Linux with 1 COMMAND LINE([The Linux Experiment](https://www.youtube.com/watch?v=6WgjQpm9VWE)) SOSUMI                                                   |
 | Great Ideas in Theoretical Computer Science - Ryan O'Donnell \| CMU [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3YIVK2r5fNRBaVV30R3iEW)       |
 | Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                          |
-| 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
 
 ## Windows
 
-|                                                                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18 CMD Tips, Tricks and Hacks                                                                                                                                                                                                                                                                                                                                                       |
-| WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                                                                                                                                                                                                                                                                                          |
-| PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
-| Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                                                                                                                                                                                                                                                                                          |
-| <p>将windows装到口袋里（上）--- Windows To Go的制作 <a href="https://www.youtube.com/watch?v=M5gHpm-pzgY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">Cool Play</a></p><p>将windows装到口袋里（<a href="https://www.youtube.com/watch?v=ak0rzszBOGY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">下</a>） - Mac虚拟机引导Windows To Go （Parallels， VirtualBox， VMware Fusion）</p> |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| 18 CMD Tips, Tricks and Hacks                                                                                   |
+| WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                      |
+| PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10) |
+| Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                      |
 
 ### 镜像
 
@@ -516,15 +510,12 @@
 
 ### Windows 11
 
-|                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore)                      |
-| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                                                |
-| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                                       |
-| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                                                  |
-| How to make the ultimate Terminal Prompt on Windows 11 - This video is LONG and WORDY and DETAILED [Scott Hanselman](https://www.youtube.com/watch?v=VT2L1SXFq9U) |
-| Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
-| How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
+|                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Upgrade to the New Windows 11 OS \| [Microsoft](https://www.microsoft.com/en-us/windows/windows-11?ocid=prod\_sv\_cons\_win\_awr\_LearnMore) |
+| Windows 11 首个官方ISO镜像正式发布！现在可以全新安装系统啦，附安装教程 \| [零度解说](https://www.youtube.com/watch?v=WrF3\_avlFEk)                                           |
+| 【亦】电脑刷手机！Win11自带安卓怎么用？ [林亦LYi](https://www.youtube.com/watch?v=U2vxRfqORdY)                                                                  |
+| 强烈推荐开启 Windows 沙盒模式： 一个安全实用又流畅的虚拟系统！微软 Windows 10 /11 都支持 \| [零度解说](https://www.youtube.com/watch?v=wh62efQDk1k)                             |
 
 ### Edge
 
@@ -540,8 +531,7 @@
 | 一台电脑，三个系统，是什么体验！[阿拓新](https://www.youtube.com/watch?v=gvkCs6hEbVw)                                                 |
 | 手把手教你把老旧windows笔记本秒变最新Chrombook｜ ChromeOS google操作系统 谷歌系统 [大方BigFang](https://www.youtube.com/watch?v=oMdliLv-S94) |
 | 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                               |
-| 带您在PC上安装 Windows 10 + UBuntu 18.04 双系统 [美国村長](https://www.youtube.com/watch?v=YJ73UpTHk5g)                         |
-| 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)   |
+|                                                                                                                    |
 
 ## BIOS
 
