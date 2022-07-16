@@ -152,13 +152,17 @@ import cv2
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
 | AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 
+### 多帧合成
+
+
+
 ### 风格迁移
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/) |
-|                                                                                                       |
-|                                                                                                       |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/)            |
+| Talk \| 威斯康星大学麦迪逊分校穆方舟：3D相片的风格化-从单张输入图生成风格化的全新视角 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=ruzvF33\_t9w) |
+|                                                                                                                  |
 
 ## 图像压缩 Image Compression
 
