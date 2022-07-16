@@ -53,7 +53,6 @@ description: 自然语言处理
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 | Vectors In Transformer Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=l4is4uHvKlU)                                                                 |
-| CS25 I Stanford Seminar - Transformers United: DL Models that have revolutionized NLP, CV, RL [Stanford Online](https://www.youtube.com/watch?v=P127jhj-8-Y)       |
 |                                                                                                                                                                    |
 |                                                                                                                                                                    |
 |                                                                                                                                                                    |
@@ -244,7 +243,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 線上 chatbot 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zcDxkNSC0A2T-L1-zod-GMw)                                                                                                                                                                                       |
 | Did Google's LaMDA chatbot just become sentient? [Yannic Kilcher](https://www.youtube.com/watch?v=mIZLGBD99iU)                                                                                                                                                                                 |
 | 很有可能被刪掉的一期，盡快看吧 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=1rmPnO1eqL4)                                                                                                                                                                                                           |
-| LaMDA！Google工程師說：人工智慧有意識？他暈船了！？還是中了什麼圈套？ [曲博科技教室 Dr. J Class](https://www.youtube.com/watch?v=lqVWy96KI0o)                                                                                                                                                                                     |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -421,14 +419,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
 | Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
-
-### Language Model
-
-|                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM) |
-|                                                                                                                                           |
-|                                                                                                                                           |
 
 ### Causal Inference
 

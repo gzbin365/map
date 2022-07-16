@@ -115,9 +115,7 @@ description: 硬件设备
 | <p>【韩风Talk】树莓派4最佳<a href="https://www.youtube.com/watch?v=RGYtiO1tcOo">散热</a>解决方案，目前没有之一</p><p>折腾树莓派 <a href="https://www.youtube.com/playlist?list=PLTI5d7Gwez7pMOKZgEKxte1_guTl5tJJq">韩风Talk</a></p>                                    |
 | 树莓派DIY中文智能音箱 [IT Commander](https://www.youtube.com/watch?v=tEkMuxXF9LY)                                                                                                                                                                  |
 | \[商品]Raspberry PI 樹莓派 金屬殼專用 多層支架 [熊的開發DVPBear](https://www.youtube.com/watch?v=Ffi3R--cosw)                                                                                                                                               |
-| Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                                                             |
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
-| Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 
 ### Raspberry Pi Pico
 
@@ -162,10 +160,9 @@ description: 硬件设备
 
 ## NVIDIA Jetson
 
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)     |
-| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4) |
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY) |
 
 ## 无线电
 

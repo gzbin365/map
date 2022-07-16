@@ -170,6 +170,7 @@ import cv2
 | ------------------------------------------------------------------------------------------------------ |
 | Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)        |
 | Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg) |
+| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                             |
 |                                                                                                        |
 
 ## 图像修复
