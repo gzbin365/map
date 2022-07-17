@@ -118,6 +118,7 @@ description: 硬件设备
 | Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                                                             |
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
 | Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
+| Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                                                     |
 
 ### Raspberry Pi Pico
 
