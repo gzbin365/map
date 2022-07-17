@@ -115,7 +115,9 @@ description: 硬件设备
 | <p>【韩风Talk】树莓派4最佳<a href="https://www.youtube.com/watch?v=RGYtiO1tcOo">散热</a>解决方案，目前没有之一</p><p>折腾树莓派 <a href="https://www.youtube.com/playlist?list=PLTI5d7Gwez7pMOKZgEKxte1_guTl5tJJq">韩风Talk</a></p>                                    |
 | 树莓派DIY中文智能音箱 [IT Commander](https://www.youtube.com/watch?v=tEkMuxXF9LY)                                                                                                                                                                  |
 | \[商品]Raspberry PI 樹莓派 金屬殼專用 多層支架 [熊的開發DVPBear](https://www.youtube.com/watch?v=Ffi3R--cosw)                                                                                                                                               |
+| Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                                                             |
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
+| Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 
 ### Raspberry Pi Pico
 
@@ -160,9 +162,10 @@ description: 硬件设备
 
 ## NVIDIA Jetson
 
-|                                                                                           |
-| ----------------------------------------------------------------------------------------- |
-| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY) |
+|                                                                                               |
+| --------------------------------------------------------------------------------------------- |
+| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)     |
+| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4) |
 
 ## 无线电
 
@@ -238,15 +241,15 @@ description: 硬件设备
 
 ## Drone / UAV
 
-|                                                                                                                    |                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                       | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )** |
-| **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                       | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**               |
-| DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4) | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)   |
-| BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)        |
-|                                                                                                                    |                                                                                       |
-|                                                                                                                    |                                                                                       |
-|                                                                                                                    |                                                                                       |
+|                                                                                                                    |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                       | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
+| **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                       | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**                                         |
+| DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4) | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
+| BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
+|                                                                                                                    | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
+|                                                                                                                    |                                                                                                                 |
+|                                                                                                                    |                                                                                                                 |
 
 ***
 
