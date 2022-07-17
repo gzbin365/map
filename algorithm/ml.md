@@ -1069,11 +1069,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ### 其他
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                               |
+| --------------------------------------------------------------------------------------------- |
+| 人工智慧在臺灣：產業轉型的契機與挑戰｜陳昇瑋研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=OddYM6aq-zM) |
+|                                                                                               |
+|                                                                                               |
 
 ## 数据收集
 
@@ -1156,11 +1156,12 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## Diffusion models
 
-|                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                    |
-| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
-|                                                                                                                                                                |
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                       |
+| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ)    |
+| Ultimate Guide to Diffusion Models \| ML Coding Series \| Denoising Diffusion Probabilistic Models [The AI Epiphany](https://www.youtube.com/watch?v=y7J6sSO1k50) |
+| Diffusion models [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh\_5Wx-O)                                                     |
 
 ## 基础模型 Foundation Models
 

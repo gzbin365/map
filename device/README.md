@@ -32,7 +32,7 @@ description: 硬件设备
 |                                                                                        |                                                                                        |                                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
-|                                                                                        |                                                                                        | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
+|                                                                                        | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
 
 ### **计算机组装**
 
