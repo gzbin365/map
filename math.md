@@ -1,5 +1,5 @@
 ---
-description: 用数学充实人生
+description: 探索神秘的数学, 用数学充实人生
 ---
 
 # math
@@ -52,6 +52,7 @@ description: 用数学充实人生
 | Kai博士 [u](https://www.youtube.com/channel/UCVFzRWYpC-Wy-IYdhkUpXVg/videos)                                                                                                                                | SyberMath [u](https://www.youtube.com/c/SyberMath/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 張翔老師 [u](https://www.youtube.com/c/shiangsir/playlists)                                                                                                                                                   | 哆嗒数学网 [u](https://www.youtube.com/channel/UC0dG9-vPqyzrpr2MSNZXa1Q/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Math and Science [u](https://www.youtube.com/user/mathtutordvd/playlists)                                                                                                                                 | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                           | 黑筆紅筆 [u](https://www.youtube.com/c/bprptw/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -155,7 +156,14 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 小学
 
-##
+### 心算 算盘
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| MissAbacus [u](https://www.youtube.com/c/MissAbacus)                                             |
+| MENTAL ARITHMETIC [知乎](https://www.youtube.com/playlist?list=PLF1NoOtYgfmz9I7w2g-ARrhanhAnZ10a2) |
+|                                                                                                  |
+|                                                                                                  |
 
 ## 小生初
 
@@ -655,6 +663,7 @@ $$
 | keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
 | <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
 | Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                        |
+| 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                         |
 |                                                                                                                                                                                                    |
 
 | IRT理論                                                                                                                                                          |
@@ -1015,6 +1024,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                              |
 | LAPLACE變換 [CUSTCourses](https://www.youtube.com/watch?v=pS0fBfbVVfg)                                                                              |
 | 工程數學 單元(十五) 拉普拉斯 (Laplace) 轉換 [TC Lin](https://www.youtube.com/watch?v=0H7BYVhwhp8)                                                               |
+| 拉普拉斯轉換 (終極複習) [黑筆紅筆](https://www.youtube.com/watch?v=BVkWt4gMjlU)                                                                                 |
 
 #### 其他
 
@@ -1233,6 +1243,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | hashcat [s](https://hashcat.net/hashcat/) [git](https://github.com/hashcat/hashcat)                                                                                              |
 | [破解Excel的密码](https://www.youtube.com/watch?v=JaGJHdY8fzI) [破解压缩包密码](https://www.youtube.com/watch?v=ifrpYn\_Gm54) [获取 Wi-Fi密码](https://www.youtube.com/watch?v=t9CGy7RScss) 零度解说 |
+| Aircrack-ng [v](https://www.youtube.com/watch?v=RcQciiFwy8A)                                                                                                                     |
 |                                                                                                                                                                                  |
 
 ## 计算机科学 Computer Science
@@ -1272,6 +1283,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | The Simplest Math Problem No One Can Solve [Veritasium](https://www.youtube.com/watch?v=094y1Z2wpJg)                                                                                                                                                                                                                                                         |
 | <p>数学家曾经围攻的问题，至今未解决之世界近代三大数学难题之一哥德巴赫猜想（2018）<a href="https://www.youtube.com/watch?v=XkVskCFA8r8">李永乐老师</a> 1+1</p><p>高斯：数学是科学的王后，数论是王后的王冠，歌德巴赫猜想就是王冠上一个璀璨的明珠</p>                                                                                                                                                                                            |
 | 素数（七）哥德巴赫猜想与孪生素数猜想为何难以证明？[妈咪说MommyTalk](https://www.youtube.com/watch?v=9U1z-vWisis)                                                                                                                                                                                                                                                                         |
+| 哥德巴赫猜想 [wiki](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3)                                                                                                                                                                                                                                                          |
 | 史上最精彩的一个数学谜题——费马大定理；李永乐老师6分钟带你了解民科费马 [李永乐老师](https://www.youtube.com/watch?v=SB-Ad14jvH8)                                                                                                                                                                                                                                                                    |
 | 折磨了人類三百年的難題 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=jaoqxAjpSUE)                                                                                                                                                                                                                                                                             |
 | 罗辑思维 85 [费马大定理](https://www.youtube.com/watch?v=bHexlr4b\_j8)                                                                                                                                                                                                                                                                                                |
@@ -1297,16 +1309,31 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 大家感受一下！韦东奕上习题科的样子。[莎莎剧场](https://www.youtube.com/watch?v=XlUDvm2id80)                                                                                                                                                                                                                                                                                                                                           |
 | “北大天才”韦东奕：13年前采访视频曝光，个性十足。[莎莎剧场](https://www.youtube.com/watch?v=eh0T4kuw9Io)                                                                                                                                                                                                                                                                                                                                   |
 | <p>拒绝百万奖金的天才数学家 <a href="https://www.douyin.com/video/7015149907686280478">上</a> <a href="https://www.douyin.com/video/7015151440926706957">下</a> 庞家来猜想 俄罗斯传奇数学家</p><p>俄罗斯传奇数学家　格里戈里.佩雷尔曼 Grisha Perelman</p><p>庞家来猜想(实际更广的Thurston几何化猜想)</p><p>拒绝菲尔兹奖，放弃百万美元奖金，只想回乡下当宅男 <a href="https://www.douyin.com/video/6970926855490653476">dy</a> <a href="https://www.youtube.com/watch?v=PGH9JC6br-0">u</a> 天才简史</p> |
+| 佩雷尔曼解决了数学百年难题，却拒绝菲尔兹奖和100万美元的奖金 [世界名人榜](https://www.youtube.com/watch?v=N6mLOjhildk)                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 天才简史 [u](https://www.youtube.com/channel/UCWUpR9fQRRRdk0HgjqE27tg/videos)                                                                                                                                                                                                                                                                                                                                       |
 | 哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？[妈咪说MommyTalk](https://www.youtube.com/watch?v=FVZaOTi6ZbE)                                                                                                                                                                                                                                                                                                                       |
 | 大神哥德尔：知道他名字的人，已经不简单了！【[天才简史](https://www.youtube.com/watch?v=a1sA5G9uBo8\&list=PLSm-qSrgYJ0WSY1M\_wnIH3m5tCsiXAWU\_)】                                                                                                                                                                                                                                                                                           |
+| 被数学选中的人 CCTV纪录 [1](https://www.youtube.com/watch?v=BWfa8utRiPQ) [2](https://www.youtube.com/watch?v=EI28cPfZnTo) [3](https://www.youtube.com/watch?v=q5ZJcrgLdUw) [4](https://www.youtube.com/watch?v=mmwYi\_O4Wvg)                                                                                                                                                                                             |
 
 | 拉马努金                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>印度数学神童——拉马努金，一个从未来穿越回来的数学家　<a href="https://www.youtube.com/watch?v=FPwLewUNmtk">妈咪说MommyTalk</a></p><p>知无崖者　The man who knew infinity 拉马努金传&#x26;电影</p> |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
+
+| 丘成桐                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 专访世界顶尖数学家 哈佛大学终身教授丘成桐（名人面对面HD200913）[凤凰专区 Phoenix zone](https://www.youtube.com/watch?v=-o\_-jqSyEgE)                                                                                        |
+| 《开讲啦》 20160917 本期演讲者：丘成桐 \| [CCTV](https://www.youtube.com/watch?v=EHF0f4Xg31A)                                                                                                              |
+| 《华人故事》 20191026 丘成桐——十年\| [CCTV中文国际](https://www.youtube.com/watch?v=csI7ey9gz5M)                                                                                                            |
+| 倾听数学大家丘成桐的几何人生！ \|《[可凡倾听](https://www.youtube.com/watch?v=A8LKY9KXIcA)》                                                                                                                      |
+| 人工智能可以代替人类吗？著名数学家丘成桐带你领略数学之美 \| [开讲啦](https://www.youtube.com/watch?v=XzR8K4i2mA0) The Voice 20220507                                                                                        |
+| 探索14-8講座：廣義相對論與數學 / 丘成桐教授   [臺大科學教育發展中心CASE](https://www.youtube.com/watch?v=DQqjQo-NiRw)                                                                                                    |
+| 《鲁健访谈》 20220422 对话丘成桐\|[CCTV中文国际](https://www.youtube.com/watch?v=L2ov8rWogCY)                                                                                                               |
+| <p>《读书》 20210612 丘成桐 《我的几何人生：丘成桐自传》 李潘会客厅：</p><p>对话丘成桐（<a href="https://www.youtube.com/watch?v=ev2OSAN3INw">上</a>）（<a href="https://www.youtube.com/watch?v=PXJ2z7K_aHI">下</a>）| CCTV科教</p> |
+|                                                                                                                                                                                              |
+|                                                                                                                                                                                              |
 
 ## 其他
 

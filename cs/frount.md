@@ -119,6 +119,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
 | Create 3D Site with Spline and React - Full Course [DesignCode](https://www.youtube.com/watch?v=EJxeMbDTkVI)                                                             |
 | Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More [JavaScript Mastery](https://www.youtube.com/watch?v=jx5hdo50a2M)   |
 | React Redux Full Course for Beginners \| Redux Toolkit Complete Tutorial [Dave Gray](https://www.youtube.com/watch?v=NqzdVN2tyvQ)                                        |
@@ -149,6 +150,7 @@
 | React JS - React Tutorial for Beginners [Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)                                                             |
 | React JS Crash Course for Beginners - Build 4 Apps in 12 Hours (Redux, Firebase, Auth + More) \[2021] [Sonny Sangha](https://www.youtube.com/watch?v=tbvguOj8C-o)        |
 | React JS Crash Course 2021 [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                                                                 |
+| React JS Tutorial – Build a Weather App With Cities Autocomplete [freeCodeCamp](https://www.youtube.com/watch?v=Reny0cTTv24)                                             |
 | Data Visualization with D3, JavaScript, React - Full Course \[2021] [freeCodeCamp](https://www.youtube.com/watch?v=2LhoCfjm8R4)                                          |
 | Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1hPgQWbWmEk)                    |
 | React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=Dorf8i6lCuk)                  |
@@ -289,6 +291,8 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JavaScript Full Course 🌐 -Learn to code today-【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=8dWL3wF\_OMw)                                                                           |
+| JavaScript DOM Manipulation – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)                                                                          |
 | BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course) [SuperSimpleDev](https://www.youtube.com/watch?v=DqaTKBU9TZk)                             |
 | JavaScript Tutorial – Build 2 Word Games! [freeCodeCamp](https://www.youtube.com/watch?v=vYEkEMfoi1c)                                                                                        |
 | Redux Toolkit Tutorial – JavaScript State Management Library [freeCodeCamp](https://www.youtube.com/watch?v=bbkBuqC1rU4)                                                                     |
@@ -325,6 +329,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Let’s learn JavaScript fundamentals! #1 \[Free JS Bootcamp] [Class Central](https://www.youtube.com/watch?v=mdXonjilZew)                                                                     |
 | 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                                                                                     |
 | API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
+| JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 
 ### TypeScript
 
