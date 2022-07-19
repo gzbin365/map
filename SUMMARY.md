@@ -74,6 +74,7 @@
     * [体育](sci/art/ti-yu.md)
   * [工具](sci/gong-ju.md)
   * [科学上网](sci/sci-net.md)
+  * [其他](sci/qi-ta.md)
 * [other](other.md)
 * [赞助本站](sponsor.md)
 * [View on Github](https://github.com/gzbin365/map)

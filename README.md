@@ -63,7 +63,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 |                                                              |                                                      |
 | ------------------------------------------------------------ | ---------------------------------------------------- |
 | MIT Technology Review [s](https://www.technologyreview.com/) | Hacker News [s](https://news.ycombinator.com/newest) |
-| [**medium**](https://medium.com)                             |                                                      |
+| [**medium**](https://medium.com)                             | [头条](https://www.toutiao.com/)                       |
 |                                                              |                                                      |
 
 ## 关注
