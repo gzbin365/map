@@ -1165,11 +1165,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## 基础模型 Foundation Models
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo) |
-|                                                                           |
-|                                                                           |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo)            |
+| AI大模型是什么？可以让人工智能和人类一样？GPT-3、M6大模型 [啃芝士](https://www.youtube.com/watch?v=2ALSQrFHH5A) |
+|                                                                                      |
 
 ## AI Safety
 
