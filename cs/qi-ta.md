@@ -133,6 +133,7 @@
 | .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
 | Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
 | Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                  |
+| .NET Core [Anduin Xue](https://www.youtube.com/playlist?list=PLkjO-gN54obCIaFAy-HNL44mO-DjSk7tA)                                   |
 
 ## HTTP
 
