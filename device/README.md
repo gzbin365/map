@@ -510,8 +510,16 @@ System on Chip, 系统级芯片
 | 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                    |
 | 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                             |
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
-| NAS挂载到外网                                                                                                           |
+| NAS挂载到外网 异地备份 多重冗余                                                                                                 |
 | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
+
+## 数据恢复
+
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| 误删文件后居然还能恢复？详解磁盘数据恢复原理与固态硬盘TRIM回收指令 [硬件茶谈](https://www.youtube.com/watch?v=04r-ZAgXIyo) |
+|                                                                                         |
+|                                                                                         |
 
 ## 路由器 软路由
 

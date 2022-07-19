@@ -461,7 +461,7 @@ Computer Components？Computer Architecture？
 | Networking & IPv6 [Joe James](https://www.youtube.com/playlist?list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu)                                                        |
 | 內網穿透 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtznJTAPutHG5XBKsWQpRWB61)                                                  |
 | NetBox - Open Source Network Design and Mapping Software from homelab to network engineers. [Awesome Open Source](https://www.youtube.com/watch?v=sHvMyRHA7sY) |
-| 【硬件科普】IP地址是什么东西？IPV6和IPV4有什么区别？公网IP和私有IP又是什么？[硬件茶谈](https://www.youtube.com/watch?v=tVNx-6OEy-k)                                                               |
+|                                                                                                                                                                |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
