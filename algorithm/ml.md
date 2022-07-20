@@ -938,6 +938,10 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 神经网络（十二） 自动神经网络（AutoML）与网络架构搜索（NAS） [技术喵](https://www.youtube.com/watch?v=SY3wQd9O2-Q)                                        |
 | Hyperparameter Tuning in Python with GridSearchCV [NeuralNine](https://www.youtube.com/watch?v=eZ98q7iOUAA)                   |
 | ROC Optimal Threshold ► Data Science Exercises #22 [Gleb Mikhaylov](https://www.youtube.com/watch?v=jl7bMLf-f9A)              |
+| AutoML with Auto-Keras (14.1) [Jeff Heaton](https://www.youtube.com/watch?v=1mB\_5iurqzw)                                     |
+| 169 - Deep Learning made easy with AutoKeras [DigitalSreeni](https://www.youtube.com/watch?v=Tm5ywTVho3U)                     |
+| 171 - AutoKeras for image classification using cifar10 data set [DigitalSreeni](https://www.youtube.com/watch?v=MKr2RQ\_DqJE) |
+| Automated Deep Learning with AutoKeras [Data Heroes](https://www.youtube.com/watch?v=PMhOSwqHZeQ)                             |
 
 
 
@@ -1148,11 +1152,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## 部署 Deploy
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| How to Deploy Machine Learning Apps? [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx) |
-| Kevin Goetsch \| Deploying Machine Learning using sklearn pipelines [PyData](https://www.youtube.com/watch?v=URdnFlZnlaE)        |
-| Talk \| 清华大学在读博士生胡展豪：可以骗过人工智能检测器的隐身衣 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3IwhfFZcjjw)                              |
+|                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| How to Deploy Machine Learning Apps? [Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx)                            |
+| Kevin Goetsch \| Deploying Machine Learning using sklearn pipelines [PyData](https://www.youtube.com/watch?v=URdnFlZnlaE)                                   |
+| Talk \| 清华大学在读博士生胡展豪：可以骗过人工智能检测器的隐身衣 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3IwhfFZcjjw)                                                         |
+| Deploy ML Models from Colab with FastAPI & ColabCode - Free ML as a Service [1littlecoder](https://www.youtube.com/watch?v=7-igAakUUTY)                     |
+| Run Your Flask App In Google Colab \| \[ Updated Way ] [Cyber Creed](https://www.youtube.com/watch?v=7u0KBWlA-Dc)                                           |
+| How to run Google Colab or Kaggle notebooks on VSCODE (My experience running example code on GPU) [convergeML](https://www.youtube.com/watch?v=DuhpUatEaL0) |
 
 ## Diffusion models
 
@@ -1165,11 +1172,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## 基础模型 Foundation Models
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo) |
-|                                                                           |
-|                                                                           |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo)            |
+| AI大模型是什么？可以让人工智能和人类一样？GPT-3、M6大模型 [啃芝士](https://www.youtube.com/watch?v=2ALSQrFHH5A) |
+|                                                                                      |
 
 ## AI Safety
 

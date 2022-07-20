@@ -2,7 +2,7 @@
 description: Telecommunications
 ---
 
-# 通信
+# 通讯
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,6 @@ description: Telecommunications
 | 雷达对抗原理                                                                                                               |
 | 通信原理                                                                                                                 |
 | 通信对抗原理                                                                                                               |
-| 通信原理 北京邮电大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7jPRz17k8K3MFylYdl\_q7LG)                 |
 
 ## 信息论 Information Theory
 
@@ -39,11 +38,3 @@ description: Telecommunications
 | 如果听到这个声音一定要注意！教你看懂摩斯电码　[妈咪说MommyTalk](https://www.youtube.com/watch?v=TZxwZiUPsgg) |
 |                                                                                    |
 |                                                                                    |
-
-### 香浓
-
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| 一个能和牛顿、爱因斯坦比肩的神级天才，你可能连他名字都没听过【[天才简史](https://www.youtube.com/watch?v=sd7lTO7iBjw)】 |
-|                                                                                     |
-|                                                                                     |

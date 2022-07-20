@@ -38,6 +38,7 @@
   * [其他](algorithm/qi-ta.md)
 * [Device](device/README.md)
   * [GPU](device/gpu.md)
+  * [TPU](device/tpu.md)
   * [Android/IOS](device/android.md)
   * [物联网](device/wu-lian-wang.md)
 * [科学Sci](sci/README.md)

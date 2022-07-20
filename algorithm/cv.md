@@ -139,6 +139,15 @@ import cv2
 
 
 
+## 图像合成
+
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| Build a Deep CNN Image Classifier with ANY Images [Nicholas Renotte](https://www.youtube.com/watch?v=jztwpsIzEGc) |
+|                                                                                                                   |
+|                                                                                                                   |
+|                                                                                                                   |
+
 ## 图像合成 Image Synthesis
 
 ### DeepFake
@@ -263,6 +272,7 @@ import cv2
 | [**xiaojunzaizai/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                         |
 | [**Sharpiless/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                            |
 | Talk \| 香港中文大学（深圳）计算机信息工程在读博士生郑超达：以运动为导向的点云单目标跟踪 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=epA4WZ17SEc)                                                                |
+| Object Tracking from scratch with OpenCV and Python [Pysource](https://www.youtube.com/watch?v=GgGro5IV-cs)                                                                    |
 |                                                                                                                                                                                |
 
 ### Visual Recognition

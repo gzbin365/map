@@ -389,6 +389,7 @@ Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | J
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 一门编程语言是如何被创造出来的？[zh](https://www.zhihu.com/question/20046490)                                                                                                                                     |
+| Think Like a Computer Science Professor [freeCodeCamp](https://www.youtube.com/watch?v=OIc7urJC0zY)                                                                                               |
 | **Programming Loops vs Recursion - Computerphile(**[**u**](https://www.youtube.com/watch?v=HXNhEYqFo0o)**, )**                                                                                    |
 | **What on Earth is Recursion? - Computerphile(**[**u**](https://www.youtube.com/watch?v=Mv9NEXX1VHc)**, )**                                                                                       |
 | **Lambda Calculus - Computerphile(**[**u**](https://www.youtube.com/watch?v=eis11j\_iGMs)**, )**                                                                                                  |
@@ -461,7 +462,7 @@ Computer Components？Computer Architecture？
 | Networking & IPv6 [Joe James](https://www.youtube.com/playlist?list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu)                                                        |
 | 內網穿透 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtznJTAPutHG5XBKsWQpRWB61)                                                  |
 | NetBox - Open Source Network Design and Mapping Software from homelab to network engineers. [Awesome Open Source](https://www.youtube.com/watch?v=sHvMyRHA7sY) |
-|                                                                                                                                                                |
+| 【硬件科普】IP地址是什么东西？IPV6和IPV4有什么区别？公网IP和私有IP又是什么？[硬件茶谈](https://www.youtube.com/watch?v=tVNx-6OEy-k)                                                               |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
