@@ -119,6 +119,7 @@ description: 硬件设备
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
 | Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 | Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                                                     |
+| Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                                                        |
 
 ### Raspberry Pi Pico
 
@@ -514,6 +515,7 @@ System on Chip, 系统级芯片
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
 | NAS挂载到外网 异地备份 多重冗余                                                                                                 |
 | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
+| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)               |
 
 ## 数据恢复
 

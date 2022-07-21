@@ -1160,6 +1160,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Deploy ML Models from Colab with FastAPI & ColabCode - Free ML as a Service [1littlecoder](https://www.youtube.com/watch?v=7-igAakUUTY)                     |
 | Run Your Flask App In Google Colab \| \[ Updated Way ] [Cyber Creed](https://www.youtube.com/watch?v=7u0KBWlA-Dc)                                           |
 | How to run Google Colab or Kaggle notebooks on VSCODE (My experience running example code on GPU) [convergeML](https://www.youtube.com/watch?v=DuhpUatEaL0) |
+| Deploying production ML models with TensorFlow Serving overview [TensorFlow](https://www.youtube.com/watch?v=1d4BzR\_7Nbc)                                  |
 
 ## Diffusion models
 
