@@ -133,7 +133,6 @@
 | .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
 | Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
 | Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                  |
-| .NET Core [Anduin Xue](https://www.youtube.com/playlist?list=PLkjO-gN54obCIaFAy-HNL44mO-DjSk7tA)                                   |
 
 ## HTTP
 
@@ -460,8 +459,6 @@
 | 系统设计 [古城算法](https://www.youtube.com/playlist?list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)                                                   |
 | 花花酱 系统设计 - System Design [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK4RuSJjXUxjeUt3-vSyA1Or)                            |
 | Everything You NEED to Know About WEB APP Architecture [ForrestKnight](https://www.youtube.com/watch?v=sDlCSIDwpDs)                     |
-| Architecture All Access [Season 1](https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj) Intel Technology           |
-|                                                                                                                                         |
 
 ## 低代码 白码 Low-Code
 

@@ -180,9 +180,7 @@ import cv2
 | Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)        |
 | Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg) |
 | 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                             |
-| JPEG 有损压缩 离散余弦变换 DCT 一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=-iL9UzUKqKM)                        |
-| ZIP压缩算法刨析 什么是LZ77编码 [掌芝士](https://www.youtube.com/watch?v=\_a\_keel8JFI)                               |
-| 哈夫曼编码很难懂？一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=Jrje7ep5Ff8)                                    |
+|                                                                                                        |
 
 ## 图像修复
 
@@ -394,7 +392,6 @@ import cv2
 |                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                                                          |
-| I tried to make a Valorant AI using computer vision [River's Educational Channel](https://www.youtube.com/watch?v=LXA7zXVz8A4)                                                                                   |
 | AI游戏脚本难不难学，竞技类MOBA链游有没有机会搬砖打金？[米斯特姚](https://www.youtube.com/watch?v=9rn8IegWNdM)                                                                                                                                |
 | Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot)                                      |
 | Make a bot that plays chrome dino game in python \| OpenCV Tutorial \| Beginners [Amrit Aryal](https://www.youtube.com/watch?v=mIojvoMRerU)                                                                      |

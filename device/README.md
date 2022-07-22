@@ -59,7 +59,7 @@ description: 硬件设备
 | 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
 | Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
 | 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                |
-|                                                                                                                                                    |
+| THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
 
 ## **Raspberry Pi**
 
@@ -120,6 +120,8 @@ description: 硬件设备
 | Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 | Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                                                     |
 | Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                                                        |
+| Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                                                  |
+|                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
 

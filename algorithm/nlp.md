@@ -362,6 +362,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Financial Sentiment Analysis with FinBERT & HuggingFace + Analyzing Model Predictions w/ [W\&B](https://www.youtube.com/watch?v=e\_w3FoNmHP4) Tables                                     |
 | chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis)   情感极性分析repository                                                                   |
 | DefuLi/[Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News)   “互联网新闻情感分析”赛题                                                              |
+| Build a Comment Toxicity Model with Deep Learning and Python [Nicholas Renotte](https://www.youtube.com/watch?v=ZUqB-luawZg)                                                             |
 
 ### （短）文本相似度 Text Similarity
 
