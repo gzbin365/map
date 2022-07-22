@@ -332,6 +332,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
+| Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 
 ### TypeScript
 
