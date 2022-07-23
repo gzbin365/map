@@ -32,7 +32,7 @@ description: 硬件设备
 |                                                                                        |                                                                                        |                                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
-| 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
+|                                                                                        | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
 
 ### **计算机组装**
 
@@ -59,7 +59,7 @@ description: 硬件设备
 | 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
 | Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
 | 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                |
-| THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
+|                                                                                                                                                    |
 
 ## **Raspberry Pi**
 
@@ -119,9 +119,6 @@ description: 硬件设备
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
 | Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 | Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                                                     |
-| Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                                                        |
-| Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                                                  |
-|                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
 
@@ -432,20 +429,6 @@ System on Chip, 系统级芯片
 | ---------------------------------------------------------------------------------------- |
 | How does Bluetooth Work? [Branch Education](https://www.youtube.com/watch?v=1I1vxu5qIUM) |
 
-## NFC, Near Field Communication
-
-近距离无线通讯, 近场通信
-
-|                                                                                            |
-| ------------------------------------------------------------------------------------------ |
-| 【科普】NFC是什么？NFC是怎么把钱包装进手机的？NFC简单科普 [徕笙Channe](https://www.youtube.com/watch?v=0IKcKdgC4js)l |
-|                                                                                            |
-|                                                                                            |
-
-## WiFi
-
-
-
 ## 电视机  TV
 
 |                                                                                                                           |
@@ -479,8 +462,6 @@ System on Chip, 系统级芯片
 | 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】[Multiverse多元宇宙](https://www.youtube.com/watch?v=SaLsGluU3Oo)    |
 | 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                   |
 | 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗？ [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM)         |
-| 【科普】DP接口是什么？对比HDMI有哪些优劣？DisplayPort简单科普 [徕笙Channel](https://www.youtube.com/watch?v=qGpe5AhV0Dk)      |
-|                                                                                                       |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
@@ -533,7 +514,6 @@ System on Chip, 系统级芯片
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
 | NAS挂载到外网 异地备份 多重冗余                                                                                                 |
 | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
-| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)               |
 
 ## 数据恢复
 
