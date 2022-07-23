@@ -72,7 +72,7 @@
 | How to write "smarter" enums in C# [Nick Chapsas](https://www.youtube.com/watch?v=CEZ6cF8eoeg)                                                                                |
 | Full C# Project: Supermarket Management System \| ASP.NET Core Blazor, EF Core, SQL Server, Identity Frank [Liu](https://www.youtube.com/watch?v=DWrH7br4DsM)                 |
 | C# Full Course 🎮【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=wxznTygnRfQ)                                                                                           |
-| Calling C++ from C# // Game Engine series [Cherno Unplugged](https://www.youtube.com/watch?v=J7sWEsVVaAA)                                                                     |
+|                                                                                                                                                                               |
 
 ## php
 
@@ -133,7 +133,6 @@
 | .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
 | Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
 | Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                  |
-| .NET Core [Anduin Xue](https://www.youtube.com/playlist?list=PLkjO-gN54obCIaFAy-HNL44mO-DjSk7tA)                                   |
 
 ## HTTP
 
@@ -225,7 +224,6 @@
 | Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Flappy Bird Tutorial [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-eKyAh8xeJORGP2PdRH86hS)                                                    |
-| Game Engine series [Cherno Unplugged](https://www.youtube.com/c/ChernoUnplugged)                                                                                |
 | Pokete - Playing Pokémon From The Command Line [Mental Outlaw](https://www.youtube.com/watch?v=iN3G9YsWGks) [git](https://github.com/lxgr-linux/pokete)         |
 | Build 5 Games in Python \| Beginner Portfolio Project [Python Engineer](https://www.youtube.com/watch?v=C6M67z4\_bZ8)                                           |
 | Making an iOS Shooting Game from Scratch [Leonard Chan](https://www.youtube.com/playlist?list=PL\_Vi4mMZdRHseZFPLhaik6WxSpqoayDnk)                              |
@@ -461,8 +459,6 @@
 | 系统设计 [古城算法](https://www.youtube.com/playlist?list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)                                                   |
 | 花花酱 系统设计 - System Design [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK4RuSJjXUxjeUt3-vSyA1Or)                            |
 | Everything You NEED to Know About WEB APP Architecture [ForrestKnight](https://www.youtube.com/watch?v=sDlCSIDwpDs)                     |
-| Architecture All Access [Season 1](https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj) Intel Technology           |
-|                                                                                                                                         |
 
 ## 低代码 白码 Low-Code
 
