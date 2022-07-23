@@ -30,7 +30,7 @@
 | 木西贝　抖音号： [muxibei92](https://www.douyin.com/user/MS4wLjABAAAAvUXvQRkFCa3bj0-9Goyx8htd2YekfL1gtd-zXEfcJ9Hme2opofcZQ-IQHblmdUG-)                                                                                 | 小豆芽儿　抖音号： [354763810](https://www.douyin.com/user/MS4wLjABAAAA8D5tYt-DiZfnPvuu3vi2Qv6kLXPafpG26TpBWGz-JSw)                                                                                                        |
 | 牛津禾下河虾Hexia 抖音号： [HexiaEnglish](https://www.douyin.com/user/MS4wLjABAAAA6vAaReZd3f-nfoMDMOSTAjuDJOwn6LvAw4ER3mDCiAgTW-Q3Tl\_4iKsjIEQd9VgD)                                                                     | 天才朱青大人　抖音号： [zhuqingdaren](https://www.douyin.com/user/MS4wLjABAAAAnSH2bjx9qg0p4bB\_yaNAdhGQLJ7t9f6bCz7rMjmG1uI)　文具                                                                                               |
 | IC实验室 [u](https://www.youtube.com/channel/UCJ1zX4FZA15dwE2olLAO3-w/videos)                                                                                                                                     | 閱部客 [u](https://www.youtube.com/channel/UCBvQ4hOEoDdYeIBu0tE-7Sg)                                                                                                                                                 |
-| 回到Axton 抖音号： [axtonliu](https://www.douyin.com/user/MS4wLjABAAAA01nC4w9MGJOasdIGyadi639p6Ka-muUXnIE5jQ3w2yw)                                                                                                   | 怎么让别人用磁力链接下载到我的文件？[zh](https://www.zhihu.com/question/395534720)                                                                                                                                                  |
+| 回到Axton 抖音号： [axtonliu](https://www.douyin.com/user/MS4wLjABAAAA01nC4w9MGJOasdIGyadi639p6Ka-muUXnIE5jQ3w2yw)                                                                                                   |                                                                                                                                                                                                                   |
 
 实用网站
 
@@ -49,11 +49,11 @@
 | tenor([s](https://tenor.com), ) gif图片                                                                                                                        |
 | Best 7 Useful Websites You Must Know 😲 \| Fun & Knowledge \| Know-How [Know-How](https://www.youtube.com/watch?v=o70qa-XEzlk)                               |
 | How To Use Your PC From Anywhere Using Mobile \| Chrome Remote Desktop \| Remote To Desktop [Know-How](https://www.youtube.com/watch?v=X4PDihvKi0M)          |
-| [Gravatar](https://en.gravatar.com/) One avatar for everything, everywhere                                                                                   |
-| archive [s](https://archive.org/) Search the history of over 624 billion web pages on the Internet.                                                          |
+| [Gravatar](https://en.gravatar.com) One avatar for everything, everywhere                                                                                    |
+| archive [s](https://archive.org) Search the history of over 624 billion web pages on the Internet.                                                           |
 | 天眼查　抖音号： [1083691533](https://www.douyin.com/user/MS4wLjABAAAA6LFLWEKBTjzmGX1KEIcJ2xm604rOpO9nE2mwVR3GPu0)                                                   |
 | emojimix s [s](https://svelteland.github.io/emojimix/) [git](https://github.com/svelteland/emojimix)                                                         |
-| brilliant [s](https://brilliant.org/?utm\_medium=sponsor\&utm\_source=youtube\&utm\_campaign=coreyschafer\_230120) 交互学习 付费                                   |
+| brilliant [s](https://brilliant.org) 交互学习 付费                                                                                                                 |
 
 |                                                                                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------- | - |
@@ -67,7 +67,7 @@
 | **TorrentGalaxy(**[**s**](https://torrentgalaxy.to)**,** [**tw**](https://twitter.com/tgxsocial)**,** [**fb**](https://www.facebook.com/tgxsocial1)**,** [**ins**](https://www.instagram.com/tgxsocial)**, )** | **BitComet(比特彗星)(**[**s**](https://www.bitcomet.com/cn)**, )**     |
 | [**2021年十大热门BT(BitTorrent)种子网站榜单**](http://www.usbmi.com/5991.html)                                                                                                                                            |                                                                    |
 
-| OBS, Open Broadcaster Software                                                                                                                                       |
+| OBS                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 「OBS大师教程」教你如何提高OBS直播录制视频质量 超详细 [LoiseTech](https://www.youtube.com/watch?v=cWt9Bcaw8FY)                                                                              |
 | 最全面易懂OBS电脑录屏教程001 [八餐饭](https://www.youtube.com/watch?v=wGn2cAyU9Qw\&t=147s)                                                                                         |
@@ -75,7 +75,6 @@
 | 在中国如何通过OBS推流到Twitch Youtube Facebook【2020年8月9日】最新 [WenteCatTV](https://www.youtube.com/watch?v=51NltC5nzdA)                                                          |
 | 使用 OBS 錄製線上教學 + 打造個性化直播平台！還沒上車的趕快喔 ～ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=GFJQLY3ldGs)                                                                      |
 | 使用 OBS 直播 GoogleMeet 視訊會議之音訊及視訊整合教學 [Jung-Yu Yu](https://www.youtube.com/watch?v=OZpsjbMPT5k)                                                                        |
-| 【教程】十分钟学会直播 简单精炼的直播配置教程（哔哩哔哩） [徕笙Channel](https://www.youtube.com/watch?v=MUaxTicrnvk)                                                                               |
 | [b站教程](https://member.bilibili.com/platform/home?spm\_id\_from=444.41.b\_696e7465726e6174696f6e616c486561646572.14)                                                  |
 | MP4 Video as a Virtual Webcam - Tutorial [Kian Brose](https://www.youtube.com/watch?v=hKLH\_V4qE\_0)                                                                 |
 | 🔴 How to use OBS for Screen Recording or Streaming - Beginner Tutorial [Kevin Stratvert](https://www.youtube.com/watch?v=ySENWFIkL7c)                               |
