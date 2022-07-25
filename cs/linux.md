@@ -258,6 +258,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more [freeCodeCamp](https://www.youtube.com/watch?v=qsTthZi23VE)                               |
 | Complete Guide to Open Source - How to Contribute [freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)                                                                     |
 | 软件开发流程之版本管理那些事 [Hua Hua](https://www.youtube.com/watch?v=TWyJJjvLiqs)                                                                                                             |
+| Git Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)                                                                           |
 |                                                                                                                                                                                   |
 
 | 软件                                                                                                                      |                                                                                           |
@@ -433,6 +434,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Gnome Subtitles PPA](https://launchpad.net/\~pedrocastro/+archive/ubuntu/ppa)    gnomesubtitles [s](https://gnomesubtitles.org/) |
 | Ubuntu PPA 使用指南 [Linux中国](https://zhuanlan.zhihu.com/p/55250294)                                                                  |
+
+## 其他
+
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Should LINUX DISTROS still PACKAGE applications? The problem with UNOFFICIAL packages [The Linux Experiment](https://www.youtube.com/watch?v=j0IhajCNs14) |
+|                                                                                                                                                           |
+|                                                                                                                                                           |
 
 ## 小工具
 
