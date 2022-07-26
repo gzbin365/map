@@ -1,8 +1,8 @@
 # Python
 
-[https://www.python.org/](https://www.python.org/)
 
-[https://docs.python.org/zh-cn/3/contents.html](https://docs.python.org/zh-cn/3/contents.html)
+
+[https://www.python.org/](https://www.python.org/)
 
 [https://github.com/python/cpython](https://github.com/python/cpython)
 
@@ -319,11 +319,9 @@
 | Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping) [Keith Galli](https://www.youtube.com/watch?v=GB9ByFAIAH4) |
 | Ultimate Guide to NumPy Arrays - VERY DETAILED TUTORIAL for beginners! [Python Simplified](https://www.youtube.com/watch?v=lLRBYKwP8GQ)            |
 
-| SciPy                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------- |
-| SciPy Lecture Notes 中文版（Python科学计算生态的介绍的中文翻译） ([书栈](https://www.bookstack.cn/books/scipy-lecture-notes\_cn), ) |
-| Scipy 中文教程 [doc](https://www.wenjiangs.com/docs/scipy-docs)                                                    |
-|                                                                                                                |
+| SciPy                                                                                                          |   |
+| -------------------------------------------------------------------------------------------------------------- | - |
+| SciPy Lecture Notes 中文版（Python科学计算生态的介绍的中文翻译） ([书栈](https://www.bookstack.cn/books/scipy-lecture-notes\_cn), ) |   |
 
 | Pandas                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -336,7 +334,6 @@
 | Pandas 教程 \| Pandas数据分析入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakOdivgnFVAgStnxd78hHyI)                                              |
 | Julie Michelman - Pandas, Pipelines, and Custom Transformers [PyData](https://www.youtube.com/watch?v=BFaadIqWlAg)                                              |
 | Python程序设计系列之利用Pandas处理数据 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tG9Vhhpimd5Zxa6OOUJkxfR)                                               |
-| Swifter Speeds Up Pandas DataFrames [NeuralNine](https://www.youtube.com/watch?v=UpZf1uIo1M4)                                                                   |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
