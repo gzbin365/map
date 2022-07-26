@@ -27,7 +27,7 @@
 | 课程-篆刻、书法、水墨画体验与欣赏 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9yJesypR9H3nVTCwaPqL51d)                                                                                                                                                                                                              |
 | 闻诌诌 抖音号： [175881061](https://www.douyin.com/user/MS4wLjABAAAA5Y9kUBVYSY0JhRML9ThF9GJ6kIPhDJ4BjaOxMokkIOo?author\_id=82737222114\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7011518862508313892\&group\_id=7011518862508313892\&log\_pb=%7B%22impr\_id%22%3A%222021100906594801021206119917134B58%22%7D) |
 | 神棋书店　抖音号： [gaoxiaolianzi](https://www.douyin.com/user/MS4wLjABAAAAe-Dmb5OPpi10pwseFqbu9G0shWfXLw2OvGovphOlMNWmoRBm2cU8VIPVDlAgVAzz)                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                |
+| Qi momo 祁么么 [u](https://www.youtube.com/channel/UC5zVjJwX68xUieT-I3JG1fQ)                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                |
 
@@ -52,7 +52,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                  |
 |                                                                                                                                  |
-|                                                                                                                                  |
+| 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
 |                                                                                                                                  |
