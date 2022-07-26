@@ -677,6 +677,14 @@ System on Chip, 系统级芯片
 | 性能至上？聊聊人工智能芯片的5个评价标准 [老石谈芯](https://www.youtube.com/watch?v=KICKrJZMoKA)                                                                    |
 |                                                                                                                                             |
 
+### 数字电路
+
+
+
+### 模拟电路
+
+
+
 ### AI Chip
 
 |                                                                                    |
