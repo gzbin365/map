@@ -254,6 +254,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Did Google's LaMDA chatbot just become sentient? [Yannic Kilcher](https://www.youtube.com/watch?v=mIZLGBD99iU)                                                                                                                                                                                 |
 | 很有可能被刪掉的一期，盡快看吧 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=1rmPnO1eqL4)                                                                                                                                                                                                           |
 | LaMDA！Google工程師說：人工智慧有意識？他暈船了！？還是中了什麼圈套？ [曲博科技教室 Dr. J Class](https://www.youtube.com/watch?v=lqVWy96KI0o)                                                                                                                                                                                     |
+| DeepPavlov Seminars: Goal-aware Dialogue Management [DeepPavlov](https://www.youtube.com/watch?v=aD-MNhq3Gqs)                                                                                                                                                                                  |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -362,6 +363,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Financial Sentiment Analysis with FinBERT & HuggingFace + Analyzing Model Predictions w/ [W\&B](https://www.youtube.com/watch?v=e\_w3FoNmHP4) Tables                                     |
 | chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis)   情感极性分析repository                                                                   |
 | DefuLi/[Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News)   “互联网新闻情感分析”赛题                                                              |
+| Build a Comment Toxicity Model with Deep Learning and Python [Nicholas Renotte](https://www.youtube.com/watch?v=ZUqB-luawZg)                                                             |
 
 ### （短）文本相似度 Text Similarity
 
@@ -433,11 +435,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Language Model
 
-|                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM) |
-|                                                                                                                                           |
-|                                                                                                                                           |
+|                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM)                            |
+| \[ML News] BLOOM: 176B Open-Source \| Chinese Brain-Scale Computer \| Meta AI: No Language Left Behind [Yannic Kilcher](https://www.youtube.com/watch?v=W3mrgqtm5R4) |
+|                                                                                                                                                                      |
 
 ### Causal Inference
 

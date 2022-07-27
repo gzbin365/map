@@ -10,33 +10,34 @@
 
 ## 设计
 
-| 设计导航                                    |                                    |
-| --------------------------------------- | ---------------------------------- |
-| [设计导航](https://hao.shejidaren.com/)     | [设计师导航](https://nice001.com/)      |
-| [设计星球](https://convenient.work/design/) | [万达设计](http://www.wandasheji.com/) |
-| [时刻设计导航](https://hao.sicoll.com/)       |                                    |
+| 设计导航                                    |                                                  |
+| --------------------------------------- | ------------------------------------------------ |
+| [设计导航](https://hao.shejidaren.com/)     | [设计师导航](https://nice001.com/)                    |
+| [设计星球](https://convenient.work/design/) | [万达设计](http://www.wandasheji.com/)               |
+| [时刻设计导航](https://hao.sicoll.com/)       | 墨鱼设计学院 [B](https://space.bilibili.com/480420117) |
 
-|                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Typography for Developers Tutorial - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=agbh1wbfJt8)                                |
-| August 2019 - Understanding Design [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65c\_qtfFUMISNuSolunts8bt)        |
-| 广告海报设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbXV7e8HlNGBwEhI63jpjCw)                                                    |
-| 基础VI设计（下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZC5xsxUO-84msMEkxae8zj)                                                 |
-| 带你系统学AI插画 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6nxJcBnLodKCJfmBt62G6bi)                                              |
-| 实用商业插画系统教程 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6n2-JNNd9MiuoVf955DMSlG)                                             |
-| 李舜教你画卡通IP [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6nwnOAzVYnZwRZeS8K8vFGl)                                              |
-| 萧老师转手绘教程 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6klfVcIx\_AGEOtL\_aUFWPxS)                                             |
-| 《彼得潘转手绘第五期》[设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6k6co1SX2iSKyhRYn920KmG)                                             |
-| 平面设计线上课程（Adobe国际认证（ACA）官方认证学习教程及Adobe中国授权培训中心官方认证学习教程） [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9uNM7zQm3jbMWsuZfSRx2iA) |
-| 设计工具使用教程 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9slzC1GuYKEyYBGG48hVr4L)                                               |
-| Graphic Design Series [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9sdOjMZNcCkIdTXzJpf7GTu)                                  |
-| AWORKZON品牌作品案例 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9t2w\_Yf6wO-3QC8aUTv7J5d)                                        |
-| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface                                        |
-| 设计色彩基础 色彩理论基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYJG0HA7DG0KtRkN5xc1Vgh)                                             |
-| 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                     |
-| 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                 |
-| Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                  |
-| MasterGo [s](https://mastergo.com/)                                                                                                         |
+|                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Typography for Developers Tutorial - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=agbh1wbfJt8)                                                                      |
+| August 2019 - Understanding Design [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65c\_qtfFUMISNuSolunts8bt)                                              |
+| 广告海报设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbXV7e8HlNGBwEhI63jpjCw)                                                                                          |
+| 基础VI设计（下） [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZC5xsxUO-84msMEkxae8zj)                                                                                       |
+| 带你系统学AI插画 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6nxJcBnLodKCJfmBt62G6bi)                                                                                    |
+| 实用商业插画系统教程 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6n2-JNNd9MiuoVf955DMSlG)                                                                                   |
+| 李舜教你画卡通IP [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6nwnOAzVYnZwRZeS8K8vFGl)                                                                                    |
+| 萧老师转手绘教程 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6klfVcIx\_AGEOtL\_aUFWPxS)                                                                                   |
+| 《彼得潘转手绘第五期》[设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6k6co1SX2iSKyhRYn920KmG)                                                                                   |
+| 平面设计线上课程（Adobe国际认证（ACA）官方认证学习教程及Adobe中国授权培训中心官方认证学习教程） [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9uNM7zQm3jbMWsuZfSRx2iA)                                       |
+| 设计工具使用教程 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9slzC1GuYKEyYBGG48hVr4L)                                                                                     |
+| Graphic Design Series [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9sdOjMZNcCkIdTXzJpf7GTu)                                                                        |
+| AWORKZON品牌作品案例 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9t2w\_Yf6wO-3QC8aUTv7J5d)                                                                              |
+| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface                                                                              |
+| 设计色彩基础 色彩理论基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYJG0HA7DG0KtRkN5xc1Vgh)                                                                                   |
+| 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                                                           |
+| 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                                                       |
+| Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                                                        |
+| MasterGo [s](https://mastergo.com/)                                                                                                                                               |
+| 且曼设计学院 [zh](https://www.zhihu.com/column/c\_1264866098362736640) [dy](https://www.douyin.com/user/MS4wLjABAAAAm-cESGcd\_E3uMnfrL1JL8HllPs6dJ3KmI34HbwiaX49\_avYlKT8LmGJuwaHHjSfJ) |
 
 | **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
@@ -153,6 +154,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                     |
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                           |
 | Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                        |
+| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)                                                                                |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                     |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                            |
 | Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                        |
@@ -169,6 +171,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                                |
 | Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                    |
 | Blender 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll\_w2kSk0JfZLtK3)                                             |
+| Blender [Kris Occhipinti](https://www.youtube.com/playlist?list=PLB52346825714AC31)                                                               |
 |                                                                                                                                                   |
 
 |                                                                                                                                                    |

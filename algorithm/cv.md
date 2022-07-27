@@ -49,6 +49,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Image Analysis in Python with SciPy and scikit-image \| [SciPy 2018 Tutorial](https://www.youtube.com/watch?v=arXiv-TM7DY) \| Stefan van der Walt                                                                                           |
 | Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD)                                       |
 | Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                                                               |
+| Build An Image Editor in HTML CSS & JavaScript \| Image Editor in JavaScript [CodingNepal](https://www.youtube.com/watch?v=YqUUvBpCtfA)                                                                                                     |
 | 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                                                         |
 | 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                                                        |
 | Advanced Computer Vision with Python - Full Course [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU\_NvOY) 6：40：40                                                                                                                 |
@@ -180,7 +181,9 @@ import cv2
 | Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)        |
 | Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg) |
 | 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                             |
-|                                                                                                        |
+| JPEG 有损压缩 离散余弦变换 DCT 一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=-iL9UzUKqKM)                        |
+| ZIP压缩算法刨析 什么是LZ77编码 [掌芝士](https://www.youtube.com/watch?v=\_a\_keel8JFI)                               |
+| 哈夫曼编码很难懂？一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=Jrje7ep5Ff8)                                    |
 
 ## 图像修复
 
@@ -235,7 +238,7 @@ import cv2
 | Jiake Xie 谢家柯 [s](https://kelisiya.github.io/) [git](https://github.com/kelisiya) [TIMI-Net](https://github.com/kelisiya/TIMI-Net) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN\&user=pD8wUxgAAAAJ) |
 | picup [s](https://www.picup.ai/)                                                                                                                                                                                      |
 | U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                                |
-|                                                                                                                                                                                                                       |
+| 280 - Custom object segmentation using StarDist library in python [DigitalSreeni](https://www.youtube.com/watch?v=F6sfm1i8OfY)                                                                                        |
 
 ### 目标检测 Object Detection
 
@@ -392,6 +395,7 @@ import cv2
 |                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                                                          |
+| I tried to make a Valorant AI using computer vision [River's Educational Channel](https://www.youtube.com/watch?v=LXA7zXVz8A4)                                                                                   |
 | AI游戏脚本难不难学，竞技类MOBA链游有没有机会搬砖打金？[米斯特姚](https://www.youtube.com/watch?v=9rn8IegWNdM)                                                                                                                                |
 | Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot)                                      |
 | Make a bot that plays chrome dino game in python \| OpenCV Tutorial \| Beginners [Amrit Aryal](https://www.youtube.com/watch?v=mIojvoMRerU)                                                                      |

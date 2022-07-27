@@ -728,9 +728,11 @@ System on Chip, 系统级芯片
 | 客制化键盘 [彦祖搞搞机](https://www.douyin.com/video/7032273287132581134) | OG80机械键盘 [彦祖搞搞机](https://www.douyin.com/video/7034496681781644548) |
 |                                                                 | HHKB 011000                                                        |
 
-HHKB的究极进化 开箱2699元HHKB静电容键盘《[时空测测评](https://www.youtube.com/watch?v=Tvvs4yBHFHE)》
-
-【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗？ [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM)
+|                                                                                              |
+| -------------------------------------------------------------------------------------------- |
+| HHKB的究极进化 开箱2699元HHKB静电容键盘《[时空测测评](https://www.youtube.com/watch?v=Tvvs4yBHFHE)》             |
+| 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗 [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM) |
+| I Made A Customized Modular Keyboard ! [稚晖君](https://www.youtube.com/watch?v=mGShD9ZER1c)    |
 
 ### 手柄
 
