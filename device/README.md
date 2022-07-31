@@ -349,6 +349,7 @@ description: 硬件设备
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Create PCBs for Rapid Prototyping [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRVK1RpHIjyjuTxn5srz6XM) |
 | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                                                      |
+| 走进工厂：PCB线路板是如何制造出来的 [硬核拆解](https://www.youtube.com/watch?v=FZForQYhdws)                                                |
 
 ## Xilinx
 
@@ -501,6 +502,14 @@ System on Chip, 系统级芯片
 | Awtrix DIY [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9T3Lw7PR9u\_UrtplM1Dqp77) |
 |                                                                                                |
 |                                                                                                |
+
+## 投影仪
+
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 超短焦投影仪真的好用吗？超短焦投影仪利弊分析！哪款适合你？ ｜ 坚果O1S超短焦体验｜[大狸子切切里](https://www.youtube.com/watch?v=KjyIQbB\_RlY) |
+|                                                                                                   |
+|                                                                                                   |
 
 ## 虚拟现实 VR
 

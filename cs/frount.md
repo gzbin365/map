@@ -39,6 +39,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Backend web development - a complete overview (2021) [SuperSimpleDev](https://www.youtube.com/watch?v=XBu54nfzxAQ)                                                                               |
 | Build and Deploy a Modern Full Stack ECommerce Application with Stripe [JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU)                                                         |
 | 用 Eleventy 做一个静态博客只要 10 分钟 [Randy Music](https://www.youtube.com/watch?v=epikKwnhvSs)                                                                                                            |
 | World Wide Web Consortium (W3C)([s](https://www.w3.org), )                                                                                                                                       |
@@ -175,6 +176,7 @@
 | Nextjs Crash Course with Fauna, Auth0, Tailwind, and More! [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfao-jcw-SEiyON58ipmIzbL)     |
 | Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE) |
 | Next.js for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I)                                                          |
+| 🔴 Build Modern Portfolio with NextJS, TypeScript, SSR, and CMS [Clever Programmer](https://www.youtube.com/watch?v=Ym6RYyRBPaA)                         |
 
 ## Node
 
@@ -291,6 +293,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Low Level JavaScript [u](https://www.youtube.com/c/LowLevelJavaScript)                                                                                                                       |
 | JavaScript Full Course 🌐 -Learn to code today-【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=8dWL3wF\_OMw)                                                                           |
 | JavaScript DOM Manipulation – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)                                                                          |
 | BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course) [SuperSimpleDev](https://www.youtube.com/watch?v=DqaTKBU9TZk)                             |
@@ -330,6 +333,8 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                                                                                     |
 | API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
+| 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
+| Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 
 ### TypeScript
 
