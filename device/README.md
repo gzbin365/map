@@ -323,9 +323,10 @@ description: 硬件设备
 
 ## STM 32
 
-|                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv) |
+|                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)                              |
+| Starting with STM32 - Programming Tutorial for Beginners \| Step by Step \| Greidi Ajalik [Robert Feranec](https://www.youtube.com/watch?v=dnfuNT1dPiM) |
 
 ## ESP32
 
@@ -510,6 +511,14 @@ System on Chip, 系统级芯片
 | 超短焦投影仪真的好用吗？超短焦投影仪利弊分析！哪款适合你？ ｜ 坚果O1S超短焦体验｜[大狸子切切里](https://www.youtube.com/watch?v=KjyIQbB\_RlY) |
 |                                                                                                   |
 |                                                                                                   |
+
+## 电源
+
+| 户外电源                                                                                                    |
+| ------------------------------------------------------------------------------------------------------- |
+| 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU) |
+|                                                                                                         |
+|                                                                                                         |
 
 ## 虚拟现实 VR
 

@@ -61,10 +61,3 @@ Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344
 
 病毒为何不停变异？旅行推销员问题和遗传算法 [李永乐老师](https://www.youtube.com/watch?v=iM-VKHWd\_JE)
 
-## 旅行商问题, TSP
-
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| The Hardest Problem in Computer Science [Reducible](https://www.youtube.com/watch?v=GiDsjIBOVoA) |
-|                                                                                                  |
-|                                                                                                  |
