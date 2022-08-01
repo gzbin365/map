@@ -144,14 +144,6 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 量子力學 台大易富國教授 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLF4C2C0FE5389B474)                                                                                 |
 | （更新中）【俗說量子】[Linvo說宇宙](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN)                                                                         |
 
-## Quantum Artificial Intelligence
-
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| Quantum Artificial Intelligence \| My PhD at MIT [Samuel Bosch](https://www.youtube.com/watch?v=aFDbO0CZFto) |
-|                                                                                                              |
-|                                                                                                              |
-
 ## 相对论
 
 |                                                                                               |

@@ -351,6 +351,7 @@ description: 硬件设备
 | Create PCBs for Rapid Prototyping [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRVK1RpHIjyjuTxn5srz6XM) |
 | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                                                      |
 | 走进工厂：PCB线路板是如何制造出来的 [硬核拆解](https://www.youtube.com/watch?v=FZForQYhdws)                                                |
+| 我是如何在家里小批量生产电路板的 [HACK实验室](https://www.youtube.com/watch?v=0Kzd7nf1tWs) 嘉立创smt 贴片机                                     |
 
 ## Xilinx
 
