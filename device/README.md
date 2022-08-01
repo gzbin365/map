@@ -348,10 +348,12 @@ description: 硬件设备
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
+| 嘉立创 [s](https://www.jlc.com/)                                                                                          |
 | Create PCBs for Rapid Prototyping [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRVK1RpHIjyjuTxn5srz6XM) |
 | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                                                      |
 | 走进工厂：PCB线路板是如何制造出来的 [硬核拆解](https://www.youtube.com/watch?v=FZForQYhdws)                                                |
 | 我是如何在家里小批量生产电路板的 [HACK实验室](https://www.youtube.com/watch?v=0Kzd7nf1tWs) 嘉立创smt 贴片机                                     |
+| 一个实验搞明白PCB走线应该画多宽 [工科男孙老师](https://www.youtube.com/watch?v=0Pnnvl8xhuw)                                                |
 
 ## Xilinx
 
@@ -514,6 +516,12 @@ System on Chip, 系统级芯片
 |                                                                                                   |
 
 ## 电源
+
+| 太阳能                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 已开源！我做了一个稳定输出3.3V的太阳能电池 [工科男孙老师](https://www.youtube.com/watch?v=69gcMSz5YUE) [code](https://oshwhub.com/sunhaoqin/solar\_copy) ETC 非晶硅电池 |
+|                                                                                                                                           |
+|                                                                                                                                           |
 
 | 户外电源                                                                                                    |
 | ------------------------------------------------------------------------------------------------------- |
