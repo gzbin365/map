@@ -243,6 +243,14 @@ description: 硬件设备
 | ROG 枪神6Plus超竞版评测: 2022旗舰级处理器+双液金散热！\| [笔吧评测室](https://www.youtube.com/watch?v=lfCuabADWaM)                                                        |
 | 旧笔记本改造再利用，教你DIY爆改平板电脑！！旧笔记本更换电池，超详细教程小白也会做\~真香 [BIG的梦想](https://www.youtube.com/watch?v=4DU8CcOuAEI)                                              |
 
+## 平板 Tablet
+
+|                                                                                            |   |
+| ------------------------------------------------------------------------------------------ | - |
+| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) |   |
+|                                                                                            |   |
+|                                                                                            |   |
+
 ## Drone / UAV
 
 |                                                                                                                    |                                                                                                                 |
@@ -266,6 +274,14 @@ description: 硬件设备
 | 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                        |
 | MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                      |
 
+## 潜水器, Underwater Drone
+
+|                                                                                                               |   |
+| ------------------------------------------------------------------------------------------------------------- | - |
+| Underwater Drone Built With Parts From a Flying Drone [RCLifeOn](https://www.youtube.com/watch?v=SVaSq2Ud8eg) |   |
+|                                                                                                               |   |
+|                                                                                                               |   |
+
 ## **直升机**
 
 |                                                                                |
@@ -276,11 +292,11 @@ description: 硬件设备
 
 ## **3D Pringing**
 
-| 机构                                                                                                                                  |                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **南极熊3D打印网(**[**s**](http://nanjixiong.com)**,** [**u**](https://www.youtube.com/channel/UC8-tPZV2LPE\_JwOtPfToojg/featured)**, )** | **Ultimake(**[**s**](http://www.ultimaker.cn)**, )** |
-| **myminifactory(**[**s**](https://www.myminifactory.com)**, )模型共享**                                                                 |                                                      |
-|                                                                                                                                     |                                                      |
+| 机构                                                                                                                                  |                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **南极熊3D打印网(**[**s**](http://nanjixiong.com)**,** [**u**](https://www.youtube.com/channel/UC8-tPZV2LPE\_JwOtPfToojg/featured)**, )** | **Ultimake(**[**s**](http://www.ultimaker.cn)**, )**       |
+| **myminifactory(**[**s**](https://www.myminifactory.com)**, )模型共享**                                                                 | RCLifeOn [u](https://www.youtube.com/c/RcLifeOn/playlists) |
+|                                                                                                                                     |                                                            |
 
 | 3D打印机                                                                                                     |   |
 | --------------------------------------------------------------------------------------------------------- | - |
@@ -348,12 +364,16 @@ description: 硬件设备
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
-| 嘉立创 [s](https://www.jlc.com/)                                                                                          |
+| 嘉立创 [s](https://www.jlc.com/)   赣农弟兄 [u](https://www.youtube.com/channel/UCa720ZW1FlhzF3gTzHiqBCw)                     |
 | Create PCBs for Rapid Prototyping [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRVK1RpHIjyjuTxn5srz6XM) |
 | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                                                      |
 | 走进工厂：PCB线路板是如何制造出来的 [硬核拆解](https://www.youtube.com/watch?v=FZForQYhdws)                                                |
 | 我是如何在家里小批量生产电路板的 [HACK实验室](https://www.youtube.com/watch?v=0Kzd7nf1tWs) 嘉立创smt 贴片机                                     |
 | 一个实验搞明白PCB走线应该画多宽 [工科男孙老师](https://www.youtube.com/watch?v=0Pnnvl8xhuw)                                                |
+| 雷雨天气打坏几百台电视，看下到底是怎么打坏的，还能修复么 [赣农弟兄](https://www.youtube.com/watch?v=YXRcB9pc2UE)                                       |
+| 小批量SMT，自己焊接还是找工厂？ [工科男孙老师](https://www.youtube.com/watch?v=SIdk9pTsQV0)                                                |
+| 【Huan】 我見證了一張主機板的誕生 [Huan](https://www.youtube.com/watch?v=iOPZSkBy964)                                                |
+|                                                                                                                        |
 
 ## Xilinx
 
@@ -594,6 +614,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                           |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
 | 无痕胶 魔术贴                                                                                                                              |
