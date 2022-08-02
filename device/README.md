@@ -212,7 +212,7 @@ description: 硬件设备
 |                                                                                                     |
 | --------------------------------------------------------------------------------------------------- |
 | New Machine for the Sentdex Fleet: The Puget [sentdex](https://www.youtube.com/watch?v=sUbTomWUvZk) |
-|                                                                                                     |
+| 【Huan】 我用2500元組了一台6核心的剪輯電腦! [Huan](https://www.youtube.com/watch?v=jIV1k5OHkQk)                     |
 |                                                                                                     |
 
 ## ITX主机
@@ -705,10 +705,10 @@ System on Chip, 系统级芯片
 
 ## 芯片Chip 半导体
 
-|                                                                                                                    |   |
-| ------------------------------------------------------------------------------------------------------------------ | - |
-| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          |   |
-| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |   |
+|                                                                                                                    |                                                                  |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists) |
+| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |                                                                  |
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
@@ -723,7 +723,7 @@ System on Chip, 系统级芯片
 | 以絕對的技術壟斷世界半導體界, 獨力撐起半個台灣的護國神山 - 台積電 (TSMC) [窮奢極欲](https://www.youtube.com/watch?v=rUUVW\_PPaoE) 3:50                                        |
 | 半導體奇妙的旅程—從原子結構的量子探索到人工智慧的開花結果｜盧志遠院士 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=xWOr0qqHvTI)                                     |
 | 性能至上？聊聊人工智能芯片的5个评价标准 [老石谈芯](https://www.youtube.com/watch?v=KICKrJZMoKA)                                                                    |
-|                                                                                                                                             |
+| Designing Billions of Circuits with Code [Asianometry](https://www.youtube.com/watch?v=ihz2WY-E2C8)                                         |
 
 ### 数字电路
 
