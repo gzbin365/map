@@ -589,6 +589,7 @@ System on Chip, 系统级芯片
 | NAS挂载到外网 异地备份 多重冗余                                                                                                 |
 | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
 | Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)               |
+| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                    |
 
 ## 数据恢复
 
