@@ -273,14 +273,17 @@ description: 硬件设备
 | 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                   |
 | 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                        |
 | MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                      |
+| Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                      |
+| 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                           |
+| Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)           |
 
-## 潜水器, Underwater Drone
+## 潜水器, Underwater Drone, Submarine
 
-|                                                                                                               |   |
-| ------------------------------------------------------------------------------------------------------------- | - |
-| Underwater Drone Built With Parts From a Flying Drone [RCLifeOn](https://www.youtube.com/watch?v=SVaSq2Ud8eg) |   |
-|                                                                                                               |   |
-|                                                                                                               |   |
+|                                                                                                                                             |                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Underwater Drone Built With Parts From a Flying Drone [RCLifeOn](https://www.youtube.com/watch?v=SVaSq2Ud8eg)                               | Building a Lego-powered Submarine 4.0 - automatic depth control [Brick Experiment Channel](https://www.youtube.com/watch?v=KLEH8RJsYgI) |
+| How To Make Self Balancing RC Submarine - From PVC Pipe- Amazing DIY Projects [Creative Mind](https://www.youtube.com/watch?v=eeC1iZ\_5qyc) | Building a Lego-powered Submarine 3.0 - balloon and compressor [Brick Experiment Channel](https://www.youtube.com/watch?v=n83cSg3wohU)  |
+|                                                                                                                                             |                                                                                                                                         |
 
 ## **直升机**
 
@@ -611,11 +614,12 @@ System on Chip, 系统级芯片
 | 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                        |
 | 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                |
 
-## 手工
+## 手工, DIY
 
 |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                           |
+| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)                                                                                   |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
 | 无痕胶 魔术贴                                                                                                                              |
@@ -648,6 +652,7 @@ System on Chip, 系统级芯片
 | Dobot MG400 Robotic Arm: my first impressions, demos and hardware overview. [UptimeFab](https://www.youtube.com/watch?v=6nGexb\_i0aM)                     |
 | 海龟Turtle  [doc](https://boocax.github.io/product-doc/)  可扩展的智能机器人通用底盘                                                                                     |
 | I made a cute mini desktop robot ! [稚晖君](https://www.youtube.com/watch?v=FmKTiH5Lca4)                                                                     |
+| I Built a Military Robot from Scratch! [Engineering Juice](https://www.youtube.com/watch?v=5bgXjKqfwAk)                                                   |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |
@@ -703,6 +708,14 @@ System on Chip, 系统级芯片
 | ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB) |
 | ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
 | ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
+
+## 乐高 Lego
+
+|                                                                                          |   |
+| ---------------------------------------------------------------------------------------- | - |
+| Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) |   |
+|                                                                                          |   |
+|                                                                                          |   |
 
 ## 芯片Chip 半导体
 
