@@ -543,7 +543,7 @@ System on Chip, 系统级芯片
 | 太阳能                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 已开源！我做了一个稳定输出3.3V的太阳能电池 [工科男孙老师](https://www.youtube.com/watch?v=69gcMSz5YUE) [code](https://oshwhub.com/sunhaoqin/solar\_copy) ETC 非晶硅电池 |
-|                                                                                                                                           |
+| DIY 72v 60Ah Battery Pack For 2000W Electric Bike [Creative Etc.](https://www.youtube.com/watch?v=Oy8EHGsOhcQ)                            |
 |                                                                                                                                           |
 
 | 户外电源                                                                                                    |
@@ -616,13 +616,13 @@ System on Chip, 系统级芯片
 
 ## 手工, DIY
 
-|                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                           |
-| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)                                                                                   |
-| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w) |
-| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                      |
-| 无痕胶 魔术贴                                                                                                                              |
+|                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                         |
+| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU) |
+| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                               |
+| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                    |
+| 无痕胶 魔术贴                                                                                                                                                                                                                                                            |
 
 ## 机器人 Robot
 
@@ -711,11 +711,12 @@ System on Chip, 系统级芯片
 
 ## 乐高 Lego
 
-|                                                                                          |                                                                     |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) | Brick Technology [u](https://www.youtube.com/c/BrickTechnology)     |
-| Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV) |
-|                                                                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)         |
+|                                                                                          |                                                                            |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) | Brick Technology [u](https://www.youtube.com/c/BrickTechnology)            |
+| Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV)        |
+| NDA Hack [u](https://www.youtube.com/c/NDAHack)                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)                |
+|                                                                                          | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
 
 ## 芯片Chip 半导体
 
