@@ -376,7 +376,7 @@ description: 硬件设备
 | 雷雨天气打坏几百台电视，看下到底是怎么打坏的，还能修复么 [赣农弟兄](https://www.youtube.com/watch?v=YXRcB9pc2UE)                                       |
 | 小批量SMT，自己焊接还是找工厂？ [工科男孙老师](https://www.youtube.com/watch?v=SIdk9pTsQV0)                                                |
 | 【Huan】 我見證了一張主機板的誕生 [Huan](https://www.youtube.com/watch?v=iOPZSkBy964)                                                |
-|                                                                                                                        |
+| I've Made a Powerful COILGUN \| Separate Stages PCB [Electronoobs](https://www.youtube.com/watch?v=id90kjYh-Qw)        |
 
 ## Xilinx
 
@@ -620,8 +620,10 @@ System on Chip, 系统级芯片
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                         |
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU) |
+| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)                                                                                                                                                                                                 |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                               |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                    |
 | 无痕胶 魔术贴                                                                                                                                                                                                                                                            |
 
 ## 机器人 Robot
