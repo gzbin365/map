@@ -711,11 +711,11 @@ System on Chip, 系统级芯片
 
 ## 乐高 Lego
 
-|                                                                                          |   |
-| ---------------------------------------------------------------------------------------- | - |
-| Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) |   |
-|                                                                                          |   |
-|                                                                                          |   |
+|                                                                                          |                                                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) | Brick Technology [u](https://www.youtube.com/c/BrickTechnology)     |
+| Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV) |
+|                                                                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)         |
 
 ## 芯片Chip 半导体
 
