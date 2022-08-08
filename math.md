@@ -288,6 +288,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | The Dilogarithm [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwcLlI-HXw15sPytjIJbDwY)                                                    |
 | 如何心算某天是星期几？蔡勒公式与康威末日算法 [妈咪说MommyTalk](https://www.youtube.com/watch?v=4-5F1onYzHc)                                                                          |
 | 关于素数那点事儿 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmi1WWaa3p73X7TalChgRyIf)                                                           |
+| HexagonVideos [u](https://www.youtube.com/channel/UCQoJIigcorV\_0MQ7-A9kg7A)                                                                                |
 
 #### 素数 **Primes**
 

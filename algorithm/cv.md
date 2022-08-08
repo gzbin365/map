@@ -239,6 +239,7 @@ import cv2
 | picup [s](https://www.picup.ai/)                                                                                                                                                                                      |
 | U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                                |
 | 280 - Custom object segmentation using StarDist library in python [DigitalSreeni](https://www.youtube.com/watch?v=F6sfm1i8OfY)                                                                                        |
+| 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
 
 ### 目标检测 Object Detection
 
@@ -276,6 +277,7 @@ import cv2
 | [**Sharpiless/Yolov5-deepsort-inference**](https://github.com/Sharpiless/Yolov5-deepsort-inference)                                                                            |
 | Talk \| 香港中文大学（深圳）计算机信息工程在读博士生郑超达：以运动为导向的点云单目标跟踪 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=epA4WZ17SEc)                                                                |
 | Object Tracking from scratch with OpenCV and Python [Pysource](https://www.youtube.com/watch?v=GgGro5IV-cs)                                                                    |
+| Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
 |                                                                                                                                                                                |
 
 ### Visual Recognition
