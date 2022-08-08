@@ -60,6 +60,7 @@ description: 硬件设备
 | Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
 | 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                |
 | THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
+| TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                    |
 
 ## **Raspberry Pi**
 
@@ -277,6 +278,22 @@ description: 硬件设备
 | 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                           |
 | Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)           |
 
+### Jet Engine
+
+|                                                                   |
+| ----------------------------------------------------------------- |
+| Warped Perception [u](https://www.youtube.com/c/WarpedPerception) |
+|                                                                   |
+|                                                                   |
+
+### FPV
+
+|                                                             |                                                                              |                                                       |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA) | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            |                                                                              |                                                       |
+|                                                             |                                                                              |                                                       |
+
 ## 潜水器, Underwater Drone, Submarine
 
 |                                                                                                                                             |                                                                                                                                         |
@@ -290,7 +307,7 @@ description: 硬件设备
 |                                                                                |
 | ------------------------------------------------------------------------------ |
 | 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)**** |
-|                                                                                |
+| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)         |
 |                                                                                |
 
 ## **3D Pringing**
@@ -377,6 +394,7 @@ description: 硬件设备
 | 小批量SMT，自己焊接还是找工厂？ [工科男孙老师](https://www.youtube.com/watch?v=SIdk9pTsQV0)                                                |
 | 【Huan】 我見證了一張主機板的誕生 [Huan](https://www.youtube.com/watch?v=iOPZSkBy964)                                                |
 | I've Made a Powerful COILGUN \| Separate Stages PCB [Electronoobs](https://www.youtube.com/watch?v=id90kjYh-Qw)        |
+| 入侵 保护                                                                                                                  |
 
 ## Xilinx
 
@@ -558,6 +576,7 @@ System on Chip, 系统级芯片
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 如何只花20元做出一款酷炫的VR眼镜？ [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZRjX61paBCkRepbLn6IAQa)                                                                       |
 | <p>三维视觉还原上的人类视觉生理限制 <a href="https://www.youtube.com/watch?v=svxZWwXfjnQ&#x26;t=262s">科技袁人</a></p><p>VR虚拟现</p><p>AR增强现实</p><p>ER拟真现实</p><p>MR混合现实</p><p>XR扩展现实</p><p>等等</p> |
+| How to build cheap VR Haptic Gloves to FEEL VR. [Lucas VRTech](https://www.youtube.com/watch?v=2yF-SJcg3zQ)                                                                 |
 
 ### AR增强现实
 
@@ -616,15 +635,15 @@ System on Chip, 系统级芯片
 
 ## 手工, DIY
 
-|                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                         |
-| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU) |
-| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)                                                                                                                                                                                                 |
-| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                               |
-| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                    |
-| 无痕胶 魔术贴                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                   |
+| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists) |
+| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)                                                                                                                                                                                                                   |
+| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                         |
+| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                              |
+| Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                    |
+| 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                      |
 
 ## 机器人 Robot
 
@@ -722,10 +741,10 @@ System on Chip, 系统级芯片
 
 ## 芯片Chip 半导体
 
-|                                                                                                                    |                                                                  |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists) |
-| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |                                                                  |
+|                                                                                                                    |                                                                      |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists)     |
+| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) | 炒蛋車間長 [u](https://www.youtube.com/channel/UCdiBe17AIxwy6aI2fQ\_-sVQ) |
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
