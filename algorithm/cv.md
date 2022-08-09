@@ -98,9 +98,9 @@ pip install opencv-python
 
 import cv2
 
-|                                                                                         |                                               |
-| --------------------------------------------------------------------------------------- | --------------------------------------------- |
-| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )** | [doc](https://docs.opencv.org/2.4/index.html) |
+|                                                                                         |                                                                                                               |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )** | [doc](https://docs.opencv.org/2.4/index.html)   [4.x](https://docs.opencv.org/4.x/d9/df8/tutorial\_root.html) |
 
 [**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
 
@@ -110,29 +110,31 @@ import cv2
 
 **OpenCV实现视频拼接（**[**书童**](https://xugaoxiang.com/2021/03/16/opencv-video-concat/)**）**
 
-|                                                                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OpenCV Python Course - Learn Computer Vision and AI [freeCodeCamp](https://www.youtube.com/watch?v=P4Z8\_qe2Cu0)                                                                          |
-| [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) ProgrammingKnowledge                                                     |
-| [**OpenCV 3 Hour Course**](https://www.youtube.com/watch?v=dqScBVWKOR8) **linuxhint**                                                                                                     |
-| Image Processing - OpenCV and Matlab - Training \| Projects - [Pantech E Learning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdVbL\_xMvQP6SP4Mg0xyyvM)                             |
-| OpenCV基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9uc-vOHNUvJXy6g4h3H4u2X)                                                                                                |
-| OpenCV with Python for Image and Video Analysis [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)                                                       |
-| Computer Vision - OpenCV [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKwdZqul\_KTpNsw1U2ViKmbD)                                                                       |
-| Android Development with OpenCV [doc](https://docs.opencv.org/2.4/doc/tutorials/introduction/android\_binary\_package/dev\_with\_OCV\_on\_Android.html)                                   |
-| <p>教程 Python 和 OpenCV 图像处理基础（2 小时！） <a href="https://www.youtube.com/watch?v=u2NrR-rgz34">Kong Ruksiam</a></p><p>สอน Python &#x26; OpenCV Image Processing เบื้องต้น (2 ชั่วโมงเต็ม!)</p> |
-| 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM) [git](https://github.com/hibyby/GrandmaCan\_python\_opencv)                                      |
-| OpenCV 3.4 with Python 3 Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa\_\_vnifNA744Cz-q)                                                                  |
-| Images Comparison with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)                                                             |
-| Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                                      |
-| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                  |
-| OpenCV Course - Full Tutorial with Python [freeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o)                                                                                     |
-| OpenCV视觉处理核心课程 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvq1qm3aBteI1Rnf4-dgCMh)                                                                                       |
-| 影像處理 [數老的肺炎教室](https://www.youtube.com/playlist?list=PLdZnxtXi9LXJBPB6\_q15P5lYF2iNKun4G)                                                                                                 |
-| Hand Distance Measurement with Normal Webcam + Game \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=NGQgRH2\_kq8)                                 |
-| 35行python代码100万？人工智能光速入门 [小波说xiaoboswift](https://www.youtube.com/watch?v=7Vc71\_DlnvU)                                                                                                   |
-|                                                                                                                                                                                           |
-|                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenCV Python Course - Learn Computer Vision and AI [freeCodeCamp](https://www.youtube.com/watch?v=P4Z8\_qe2Cu0)                                                                                                                                |
+| [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) ProgrammingKnowledge                                                                                                           |
+| [**OpenCV 3 Hour Course**](https://www.youtube.com/watch?v=dqScBVWKOR8) **linuxhint**                                                                                                                                                           |
+| Image Processing - OpenCV and Matlab - Training \| Projects - [Pantech E Learning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdVbL\_xMvQP6SP4Mg0xyyvM)                                                                                   |
+| OpenCV基础入门 [覃秉丰](https://www.youtube.com/playlist?list=PLzw77domqr9uc-vOHNUvJXy6g4h3H4u2X)                                                                                                                                                      |
+| OpenCV with Python for Image and Video Analysis [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)                                                                                                             |
+| Computer Vision - OpenCV [ClarityCoders](https://www.youtube.com/playlist?list=PLFAkc-SDlaKwdZqul\_KTpNsw1U2ViKmbD)                                                                                                                             |
+| Android Development with OpenCV [doc](https://docs.opencv.org/2.4/doc/tutorials/introduction/android\_binary\_package/dev\_with\_OCV\_on\_Android.html)                                                                                         |
+| <p>教程 Python 和 OpenCV 图像处理基础（2 小时！） <a href="https://www.youtube.com/watch?v=u2NrR-rgz34">Kong Ruksiam</a></p><p>สอน Python &#x26; OpenCV Image Processing เบื้องต้น (2 ชั่วโมงเต็ม!)</p>                                                       |
+| 【python】opencv 2小时初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=xjrykYpaBBM) [git](https://github.com/hibyby/GrandmaCan\_python\_opencv)                                                                                            |
+| OpenCV 3.4 with Python 3 Tutorial [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa\_\_vnifNA744Cz-q)                                                                                                                        |
+| Images Comparison with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)                                                                                                                   |
+| Gaze controlled keyboard with Opencv and Python [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)                                                                                                            |
+| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                                                                                                        |
+| OpenCV Course - Full Tutorial with Python [freeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o)                                                                                                                                           |
+| OpenCV视觉处理核心课程 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvq1qm3aBteI1Rnf4-dgCMh)                                                                                                                                             |
+| 影像處理 [數老的肺炎教室](https://www.youtube.com/playlist?list=PLdZnxtXi9LXJBPB6\_q15P5lYF2iNKun4G)                                                                                                                                                       |
+| Hand Distance Measurement with Normal Webcam + Game \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=NGQgRH2\_kq8)                                                                                       |
+| 35行python代码100万？人工智能光速入门 [小波说xiaoboswift](https://www.youtube.com/watch?v=7Vc71\_DlnvU)                                                                                                                                                         |
+| Using OpenCV with MFC [s](https://www.lund.gl/ImageProcess/OpenCV.html) [search](https://www.google.com.hk/search?q=opencv+mfc+tutorial\&oq=opencv+mfc\&aqs=chrome.0.0i512j69i57j0i22i30l8.2702j0j15\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) |
+|                                                                                                                                                                                                                                                 |
+
+
 
 
 

@@ -261,7 +261,7 @@ description: 硬件设备
 | DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4) | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
 | DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
-|                                                                                                                    |                                                                                                                 |
+| The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   |                                                                                                                 |
 |                                                                                                                    |                                                                                                                 |
 
 ***
@@ -280,19 +280,19 @@ description: 硬件设备
 
 ### Jet Engine
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| Warped Perception [u](https://www.youtube.com/c/WarpedPerception) |
-|                                                                   |
-|                                                                   |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| Warped Perception [u](https://www.youtube.com/c/WarpedPerception)   ProjectAir [u](https://www.youtube.com/watch?v=gmH34LJKcgs) |
+|                                                                                                                                 |
+|                                                                                                                                 |
 
 ### FPV
 
-|                                                             |                                                                              |                                                       |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA) | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
-| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            |                                                                              |                                                       |
-|                                                             |                                                                              |                                                       |
+|                                                             |                                                                                         |                                                       |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) |                                                       |
+|                                                             |                                                                                         |                                                       |
 
 ## 潜水器, Underwater Drone, Submarine
 
@@ -639,10 +639,11 @@ System on Chip, 系统级芯片
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                   |
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists) |
-| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)                                                                                                                                                                                                                   |
+| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)                                                                                                                                    |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                         |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                              |
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                              |
 | 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                      |
 
 ## 机器人 Robot
