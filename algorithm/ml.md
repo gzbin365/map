@@ -260,6 +260,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Invited Talk: [PyTorch Distributed (DDP, RPC)](https://www.youtube.com/watch?v=3XUG7cjte2U) - By Facebook Research Scientist Shen Li                                                                                                                             |
 | 7 PyTorch Tips You Should Know [Edan Meyer](https://www.youtube.com/watch?v=BoC8SGaT3GE)                                                                                                                                                                         |
 | Learn PyTorch for deep learning in a day. Literally. [Daniel Bourke](https://www.youtube.com/watch?v=Z\_ikDlimN6A)                                                                                                                                               |
+| PyTorch Transfer Learning with a ResNet - Tutorial [langfab](https://www.youtube.com/watch?v=t6oHGXt04ik)                                                                                                                                                        |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

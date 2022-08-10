@@ -1,5 +1,7 @@
 # 物理
 
+
+
 |                                                                                                                                                                                       |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Free Course(**[**u**](https://www.youtube.com/c/FreeCourseBLGX/playlists)**, )**                                                                                                    | **minutephysics(**[**u**](https://www.youtube.com/user/minutephysics/playlists)**, )**                                         |
@@ -10,11 +12,11 @@
 | Eigenbros [u](https://www.youtube.com/c/Eigenbros/playlists)                                                                                                                          | Albert Einstein [u](https://www.youtube.com/channel/UCbZ3rpeGMg6I-IRDrJ\_C-KA/playlists)                                       |
 | Veritasium [u](https://www.youtube.com/c/veritasium/playlists)                                                                                                                        | 弦论世界 抖音号： [xianlun](https://www.douyin.com/user/MS4wLjABAAAApXslYqf-VPXdvyawxfqNKmz9ruhr95Hq5oDTEY\_basYTgFg0lbcf3diRYvXv1aGO) |
 | 李论科学 抖音号： [103391611](https://www.douyin.com/user/MS4wLjABAAAA178XQjV85eh8zMbSBCfrKnN\_UVDdBxDsTeegMQeRLJM)   [u](https://www.youtube.com/channel/UCrfFs0P0KvX5ybOWZ32uijQ/playlists) | 中科院高能所 抖音号： [CASIHEP](https://www.douyin.com/user/MS4wLjABAAAAvPvPZany\_BzKOnIEUBjO82vw4gXGOyTJ6zHEWmo3z80)                    |
-| 研究宇宙 抖音号： [cosmosimple](https://www.douyin.com/user/MS4wLjABAAAADY6QvzZpnl-lJ\_mtwhpli8QUyqcRMB2g\_0Ax4a0wwIfR4lhpR1VVIZ0dBYdOgDnp)                                                   |                                                                                                                                |
+| 研究宇宙 抖音号： [cosmosimple](https://www.douyin.com/user/MS4wLjABAAAADY6QvzZpnl-lJ\_mtwhpli8QUyqcRMB2g\_0Ax4a0wwIfR4lhpR1VVIZ0dBYdOgDnp)                                                   | PBS Space Time [u](https://www.youtube.com/c/pbsspacetime)                                                                     |
 | Astrogeekz [u](https://www.youtube.com/c/AstrogeekzCo/playlists)                                                                                                                      | CUSTCourses [u](https://www.youtube.com/c/CUSTCourses/playlists)                                                               |
 | Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists)                                                                                                                   | Physics Videos by Eugene Khutoryansky [u](https://www.youtube.com/watch?v=k6QhhocnZ-M)                                         |
 | Physics for Students- Unleash your power!! [u](https://www.youtube.com/c/PhysicsforStudents)                                                                                          | Animated Science [u](https://www.youtube.com/c/djrpowell)                                                                      |
-|                                                                                                                                                                                       | NileRed [u](https://www.youtube.com/c/NileRed)                                                                                 |
+| The Engineering Mindset [u](https://www.youtube.com/c/Theengineeringmindset)                                                                                                          | NileRed [u](https://www.youtube.com/c/NileRed)                                                                                 |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -143,6 +145,15 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 【9910賴志煌教授：量子物理導論】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cy1n01ToiyHr8pdj4MRceEi)                                                                   |
 | 量子力學 台大易富國教授 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLF4C2C0FE5389B474)                                                                                 |
 | （更新中）【俗說量子】[Linvo說宇宙](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN)                                                                         |
+| Algebra, Particles, and Quantum Theory [u](https://www.youtube.com/channel/UCl1NZPlP0x9n28amaeeGG4w)                                                                    |
+
+## Quantum Artificial Intelligence
+
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| Quantum Artificial Intelligence \| My PhD at MIT [Samuel Bosch](https://www.youtube.com/watch?v=aFDbO0CZFto) |
+|                                                                                                              |
+|                                                                                                              |
 
 ## 相对论
 
@@ -212,6 +223,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 火焰究竟是气态还是等离子态 [二次元的中科院物理所](https://www.youtube.com/watch?v=-kYj01K9\_Bc) B [B](https://search.bilibili.com/all?keyword=%E7%81%AB%E7%84%B0%E7%A9%B6%E7%AB%9F%E6%98%AF%E6%B0%94%E6%80%81%E8%BF%98%E6%98%AF%E7%AD%89%E7%A6%BB%E5%AD%90%E6%80%81\&from\_source=webtop\_search\&spm\_id\_from=333.999) 气体 激发态的气体 离子态  |
 | <p>你没有见过的黑色火焰，它真实存在！这是如何形成的？ <a href="https://www.youtube.com/watch?v=xqoCJf2AyAc">李论科学</a></p><p>火焰是电离以后的气体分子和原子，它们大部分是中性的，当然也有一些带点离子，不过由于温度的原因，一般的火焰里面很少会存在自由电子</p><p>总结：火焰里面有中性原子，中性分子，它们占了绝大部分，也有一些带电离子，它们重新键合在一起形成新的产物，然后就会是放出能量</p>                                                                        |
 | 物质有哪些形态                                                                                                                                                                                                                                                                                                          |
+| 葡萄为何会在微波中产生等离子体 [Veritasium](https://www.youtube.com/watch?v=wCrtk-pyP0I)                                                                                                                                                                                                                                        |
 | 这个世界是由什么构成的？五行论与元素论有什么区别？[李永乐老师讲原子说](https://www.youtube.com/watch?v=QeCZt92BZCY)                                                                                                                                                                                                                                |
 | 速度是否可以叠加？[zh](https://www.zhihu.com/question/488630194)                                                                                                                                                                                                                                                          |
 

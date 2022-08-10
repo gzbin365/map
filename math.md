@@ -414,6 +414,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
 | Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
 | Group theory [wiki](https://en.wikipedia.org/wiki/Group\_theory) [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory)  |
+| Group Theory — Introduction to Higher Mathematics [Nemean](https://www.youtube.com/watch?v=KufsL2VgELo)                                    |
 |                                                                                                                                            |
 
 #### 置换群 Permutation Group

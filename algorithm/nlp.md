@@ -175,11 +175,11 @@ LDA 文档聚类 plsa lsa
 
 ### 词向量
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學 |
-|                                                                                         |
-|                                                                                         |
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學         |
+| Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U) |
+|                                                                                                 |
 
 ### 文本分类
 
@@ -439,6 +439,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM)                            |
 | \[ML News] BLOOM: 176B Open-Source \| Chinese Brain-Scale Computer \| Meta AI: No Language Left Behind [Yannic Kilcher](https://www.youtube.com/watch?v=W3mrgqtm5R4) |
+| Google's New Model Solves College-Level Math Problems [Edan Meyer](https://www.youtube.com/watch?v=jJDi\_Oqs30E)                                                     |
 |                                                                                                                                                                      |
 
 ### Causal Inference
