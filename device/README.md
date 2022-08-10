@@ -336,6 +336,7 @@ description: 硬件设备
 | [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo      |
 | 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)      |
 | 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc) |
+| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)       |
 
 ## UV印刷
 
