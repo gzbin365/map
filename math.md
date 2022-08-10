@@ -518,7 +518,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                 |
-|                                                                                                                             |
+| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 |                                                                                                                             |
 
 | 黎曼猜想                                                                                   |
