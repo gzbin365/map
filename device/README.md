@@ -262,12 +262,13 @@ description: 硬件设备
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
 | DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
 | The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
-| RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       |                                                                                                                 |
+| RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
 
 ***
 
 |                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                    |
 | [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA) |
 | AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                             |
 | 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                        |
