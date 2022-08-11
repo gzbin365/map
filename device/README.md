@@ -278,6 +278,16 @@ description: 硬件设备
 | Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                      |
 | 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                           |
 | Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)           |
+| F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                              |
+| How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                |
+
+### Engine
+
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| Building a V8 Engine Model Kit - Full Metal Car Engine Model Kit [kota scale model](https://www.youtube.com/watch?v=J03KnMP99sE) |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ### Jet Engine
 
@@ -292,8 +302,8 @@ description: 硬件设备
 |                                                             |                                                                                         |                                                       |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
-| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) |                                                       |
-|                                                             |                                                                                         |                                                       |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV) |
+| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) |                                                                                         |                                                       |
 
 ## 潜水器, Underwater Drone, Submarine
 
@@ -305,11 +315,13 @@ description: 硬件设备
 
 ## **直升机**
 
-|                                                                                                |
-| ---------------------------------------------------------------------------------------------- |
-| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)****                 |
-| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)                         |
-| Unboxing Eachine E110 Helikopter [Cgit Einsteins](https://www.youtube.com/watch?v=GJrQBq572P8) |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)****                           |
+| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)                                   |
+| Unboxing Eachine E110 Helikopter [Cgit Einsteins](https://www.youtube.com/watch?v=GJrQBq572P8)           |
+| 如何制作阿凡达蝎子遥控直升机 - 3D 打印遥控直升机 [Craft Channel](https://www.youtube.com/watch?v=UkFCE25-XTs)                 |
+| How to Make a RC Helicopter at Home - ALZRC X360 [NDA Hack](https://www.youtube.com/watch?v=0E73PSjSGZI) |
 
 ## **3D Pringing**
 
