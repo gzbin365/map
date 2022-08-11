@@ -283,7 +283,7 @@ description: 硬件设备
 |                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | Warped Perception [u](https://www.youtube.com/c/WarpedPerception)   ProjectAir [u](https://www.youtube.com/watch?v=gmH34LJKcgs) |
-|                                                                                                                                 |
+| How to make Jet engine (mini Jet engine) [let's make awesome](https://www.youtube.com/watch?v=4n-lC-wblj0)                      |
 |                                                                                                                                 |
 
 ### FPV
