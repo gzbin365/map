@@ -304,11 +304,11 @@ description: 硬件设备
 
 ## **直升机**
 
-|                                                                                |
-| ------------------------------------------------------------------------------ |
-| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)**** |
-| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)         |
-|                                                                                |
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)****                 |
+| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)                         |
+| Unboxing Eachine E110 Helikopter [Cgit Einsteins](https://www.youtube.com/watch?v=GJrQBq572P8) |
 
 ## **3D Pringing**
 
@@ -641,7 +641,7 @@ System on Chip, 系统级芯片
 | Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                    |
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists)  |
 | Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)   Hyperspace Pirate [u](https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA)   NDA Hack [u](https://www.youtube.com/c/NDAHack) |
-| GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)                                                                                                                                                                                                                  |
+| GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)   BigWR\_永恒跳动的火焰 [u](https://www.youtube.com/channel/UCC1BtcXER\_5xRVIV3wcJv7w)   D. Creative [u](https://www.youtube.com/user/Wuzun1984)   Cgit Einsteins [u](https://www.youtube.com/c/CgitEinstens)           |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                          |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                               |
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |

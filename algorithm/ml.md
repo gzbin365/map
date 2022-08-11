@@ -647,6 +647,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
+| What is Random Forest? [IBM Technology](https://www.youtube.com/watch?v=gkXX4h3qYm4)                                   |
 | Random Forests [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk) |
 | 算法：随机森林与集成算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZuhR-QwjHYzNHhnAWNWKsu)                         |
 | 一套完整的基于随机森林的机器学习流程（特征选择、交叉验证、模型评估））[生信宝典](https://mp.weixin.qq.com/s/SNXp5\_6zWKarbbcG5GXIfA)                          |

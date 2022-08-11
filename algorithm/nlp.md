@@ -460,12 +460,13 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ### 代码生成
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                    |
-| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)               |
-| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs) |
-|                                                                                                 |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                                                                    |
+| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)                                                               |
+| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs)                                                 |
+| \[ML News] AI models that write code (Copilot, CodeWhisperer, Pangu-Coder, etc.) [Yannic Kilcher](https://www.youtube.com/watch?v=\_9aN1-0T8hg) |
+|                                                                                                                                                 |
 
 #### OpenAI Codex
 

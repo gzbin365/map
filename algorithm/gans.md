@@ -12,6 +12,7 @@ description: Generative Adversarial Network (GAN)
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What are GANs (Generative Adversarial Networks)? [IBM Technology](https://www.youtube.com/watch?v=TpMIssRdhco)                                                               |
 | GANs [RE•WORK](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lLH6Ru8peDrG2HoWyycbFR)                                                                                     |
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                          |
 | Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                          |
@@ -22,6 +23,7 @@ description: Generative Adversarial Network (GAN)
 | Generative Adversarial Networks (GAN) [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwboR4\_xj-n3K6XBTweC4YVD)                                             |
 | GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g\_0HtlrLiDo)                                                                                                         |
 | GAN的现状与未来 马波 [青云QingCloud](https://www.youtube.com/watch?v=v7rsHn4ziZ4)                                                                                                      |
+| Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects [Nicholas Renotte](https://www.youtube.com/watch?v=AALBGpLbj6Q)           |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,6 +61,7 @@ description: Generative Adversarial Network (GAN)
 | OpenAI DALL-E 2: Top 10 Insane Results! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=X3\_LD3R\_Ygs)                                           |
 | DALL-E 2 is… meh [Edan Meyer](https://www.youtube.com/watch?v=gmfI3B6pQTo)                                                                              |
 | How This A.I. Draws Anything You Describe \[DALL-E 2] [ColdFusion](https://www.youtube.com/watch?v=U1cF9QCu1rQ)                                         |
+| OpenAI DALL-E 2 - Top 10 Best Images! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=Q9FGUii\_4Ok)                                              |
 |                                                                                                                                                         |
 
 ### Image to Text
@@ -68,6 +71,7 @@ description: Generative Adversarial Network (GAN)
 | \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part I](https://www.youtube.com/watch?v=ce4lIytxfIo) Microsoft Research |
 | \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part II](https://www.youtube.com/watch?v=xVIGQP5t-Sk)                   |
 | \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part III](https://www.youtube.com/watch?v=CqB6zLi3dFo)                  |
+| Convert an Image to Text [Kris Occhipinti](https://www.youtube.com/watch?v=c8nYvhlMbaU)                                      |
 
 Video to Text
 

@@ -414,7 +414,6 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
 | Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
 | Group theory [wiki](https://en.wikipedia.org/wiki/Group\_theory) [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory)  |
-| Group Theory — Introduction to Higher Mathematics [Nemean](https://www.youtube.com/watch?v=KufsL2VgELo)                                    |
 |                                                                                                                                            |
 
 #### 置换群 Permutation Group
@@ -519,7 +518,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                 |
-| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
+|                                                                                                                             |
 |                                                                                                                             |
 
 | 黎曼猜想                                                                                   |
