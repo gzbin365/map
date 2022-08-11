@@ -261,7 +261,7 @@ description: 硬件设备
 | DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4) | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
 | DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
-| The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   |                                                                                                                 |
+| The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
 |                                                                                                                    |                                                                                                                 |
 
 ***
@@ -269,7 +269,7 @@ description: 硬件设备
 |                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA) |
-|                                                                                                                                    |
+| AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                             |
 | 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                        |
 | 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                   |
 | 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                        |
@@ -304,11 +304,11 @@ description: 硬件设备
 
 ## **直升机**
 
-|                                                                                |
-| ------------------------------------------------------------------------------ |
-| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)**** |
-| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)         |
-|                                                                                |
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)****                 |
+| FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)                         |
+| Unboxing Eachine E110 Helikopter [Cgit Einsteins](https://www.youtube.com/watch?v=GJrQBq572P8) |
 
 ## **3D Pringing**
 
@@ -336,6 +336,7 @@ description: 硬件设备
 | [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo      |
 | 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)      |
 | 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc) |
+| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)       |
 
 ## UV印刷
 
@@ -635,16 +636,18 @@ System on Chip, 系统级芯片
 
 ## 手工, DIY
 
-|                                                                                                                                                                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                   |
-| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists) |
-| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)                                                                                                                                    |
-| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                         |
-| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                              |
-| Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                                              |
-| 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                    |
+| S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists)  |
+| Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)   Hyperspace Pirate [u](https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA)   NDA Hack [u](https://www.youtube.com/c/NDAHack) |
+| GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)   BigWR\_永恒跳动的火焰 [u](https://www.youtube.com/channel/UCC1BtcXER\_5xRVIV3wcJv7w)   D. Creative [u](https://www.youtube.com/user/Wuzun1984)   Cgit Einsteins [u](https://www.youtube.com/c/CgitEinstens)           |
+| How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                          |
+| Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                               |
+| Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                               |
+| 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                       |
 
 ## 机器人 Robot
 
@@ -657,7 +660,7 @@ System on Chip, 系统级芯片
 | DroneBot Workshop [u](https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w)                                                                                                                                                                                                                                                       | 机器人等级考试终结者 抖音号： [AlertTao](https://www.douyin.com/user/MS4wLjABAAAALbq2vF0gtlQZze7E7XAkGfjLu8Zk2YlDin0Q1YWvgc8)                                                                                                                                                                                                                                                              |
 | 机甲学院 抖音号： [RoboMentor](https://www.douyin.com/user/MS4wLjABAAAAM9-5OIkkWb9NX0PTOUdNTLHGlWGsD-LfZvsRoTCvDoU)                                                                                                                                                                                                                           | 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5)                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                       | 斯坦福机器人庞博士Leo  抖音号： [StanfordRobotics](https://www.douyin.com/user/MS4wLjABAAAAzyPooiuJH3y5Vq7hbszMVtldCebUpKFz6e0HVUcwh9A)                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                       | Boston Dynamics [s](https://www.bostondynamics.com/) [u](https://www.youtube.com/user/BostonDynamics) [git](https://github.com/search?q=Boston+Dynamics)                                                                                                                                                                                                                     |
+| Arx Mechanica - Robotics [u](https://www.youtube.com/channel/UCmzvCu9xpKVJguiTmxV\_2Zg)                                                                                                                                                                                                                                               | Boston Dynamics [s](https://www.bostondynamics.com/) [u](https://www.youtube.com/user/BostonDynamics) [git](https://github.com/search?q=Boston+Dynamics)                                                                                                                                                                                                                     |
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -684,11 +687,11 @@ System on Chip, 系统级芯片
 
 ### 机械臂 Robot Arm
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| I made a DUMMY ROBOTIC ARM from scratch！ [稚晖君](https://www.youtube.com/watch?v=F29vrvUwqS4) |
-|                                                                                             |
-|                                                                                             |
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| I made a DUMMY ROBOTIC ARM from scratch！ [稚晖君](https://www.youtube.com/watch?v=F29vrvUwqS4)    |
+| Top 5 Robotic Arms for your desktop [AwesomeTech](https://www.youtube.com/watch?v=-69raWQ2DUc) |
+|                                                                                                |
 
 ### Large-scale UGV Localization
 
@@ -739,6 +742,12 @@ System on Chip, 系统级芯片
 | Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV)        |
 | NDA Hack [u](https://www.youtube.com/c/NDAHack)                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)                |
 |                                                                                          | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
+
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| Insane Lego Robot Balls [Brick Technology](https://www.youtube.com/watch?v=bOqQIfqfens) |
+|                                                                                         |
+|                                                                                         |
 
 ## 芯片Chip 半导体
 
