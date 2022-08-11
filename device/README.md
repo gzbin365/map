@@ -262,7 +262,7 @@ description: 硬件设备
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
 | DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
 | The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
-|                                                                                                                    |                                                                                                                 |
+| RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       |                                                                                                                 |
 
 ***
 
