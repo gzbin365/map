@@ -258,6 +258,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more [freeCodeCamp](https://www.youtube.com/watch?v=qsTthZi23VE)                               |
 | Complete Guide to Open Source - How to Contribute [freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)                                                                     |
 | 软件开发流程之版本管理那些事 [Hua Hua](https://www.youtube.com/watch?v=TWyJJjvLiqs)                                                                                                             |
+| Git Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)                                                                           |
 |                                                                                                                                                                                   |
 
 | 软件                                                                                                                      |                                                                                           |
@@ -296,7 +297,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 線上 docker 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zeibntIPS8qcC6ke1xmRmBU)                                                   |
 | Build a Machine Learning App From Scratch with Flask & Docker [Python Engineer](https://www.youtube.com/watch?v=S--SD4QbGps)                              |
 | docker入门：docker 安装，以及镜像操作（获取 列出 运行 删除），容器操作（启动 终止 守护态运行 删除） [Baymax 小白笔记](https://www.youtube.com/watch?v=8aGw4ANEhOQ)                                    |
-|                                                                                                                                                           |
+| Docker networking is CRAZY!! (you NEED to learn it) [NetworkChuck](https://www.youtube.com/watch?v=bKFMS5C4CG0)                                           |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -434,6 +435,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | [Gnome Subtitles PPA](https://launchpad.net/\~pedrocastro/+archive/ubuntu/ppa)    gnomesubtitles [s](https://gnomesubtitles.org/) |
 | Ubuntu PPA 使用指南 [Linux中国](https://zhuanlan.zhihu.com/p/55250294)                                                                  |
 
+## 其他
+
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Should LINUX DISTROS still PACKAGE applications? The problem with UNOFFICIAL packages [The Linux Experiment](https://www.youtube.com/watch?v=j0IhajCNs14) |
+|                                                                                                                                                           |
+|                                                                                                                                                           |
+
 ## 小工具
 
 | 动态壁纸                                                                                                                                                                                          |                                                                                                            |
@@ -453,12 +462,12 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | dragon\_mc77([**u**](https://www.youtube.com/channel/UCz6Pi59nS8Em1uZUpbVgwVQ/videos), )                                                                                                      | Lofi Girl([**u**](https://www.youtube.com/c/LofiGirl/videos), )                                            |
 | **unsplash(**[**s**](https://unsplash.com)**, )**                                                                                                                                             | WLOP([**u**](https://www.youtube.com/c/WLOP/videos), )                                                     |
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| Fcitx                                                                                                               |
-| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA)                         |
-|                                                                                                                     |
-| STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw)                       |
-| faker [git](https://github.com/joke2k/faker) [v](https://www.douyin.com/video/7026732437652655374)　fake data python |
-| linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法 [csdn](https://blog.csdn.net/weixin\_33642697/article/details/116549502)     |
-|                                                                                                                     |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Fcitx                                                                                                                      |
+| Arch Linux/Manjaro安装中文输入法 \| Fcitx教程 [ledis教程](https://www.youtube.com/watch?v=YISc8bBJOgA)                                |
+|                                                                                                                            |
+| STUNNING Linux System Monitor - btop++ [TechHut](https://www.youtube.com/watch?v=YmzBJmpFMpw)                              |
+| faker [git](https://github.com/joke2k/faker) [v](https://www.douyin.com/video/7026732437652655374)　fake data python        |
+| linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法 [csdn](https://blog.csdn.net/weixin\_33642697/article/details/116549502)            |
+| Ubuntu开机自动启动执行脚本 \|\| How to Auto-start Scripts on Boot in Linux [迷途小书童的Note](https://www.youtube.com/watch?v=5yzfgmFBOp8) |
