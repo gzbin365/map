@@ -263,6 +263,7 @@ description: 硬件设备
 | DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
 | The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
 | RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
+| Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                         | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
 
 ***
 
@@ -692,6 +693,7 @@ System on Chip, 系统级芯片
 | 海龟Turtle  [doc](https://boocax.github.io/product-doc/)  可扩展的智能机器人通用底盘                                                                                     |
 | I made a cute mini desktop robot ! [稚晖君](https://www.youtube.com/watch?v=FmKTiH5Lca4)                                                                     |
 | I Built a Military Robot from Scratch! [Engineering Juice](https://www.youtube.com/watch?v=5bgXjKqfwAk)                                                   |
+| AMAZING ROBOTIC ANIMALS YOU MUST SEE! [TechZone](https://www.youtube.com/watch?v=ZSNwrIQiod4)                                                             |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |
@@ -800,6 +802,8 @@ System on Chip, 系统级芯片
 | The Coming AI Chip Boom [Asianometry](https://www.youtube.com/watch?v=L0948yq2Hqk) |
 |                                                                                    |
 |                                                                                    |
+
+
 
 ## 数码
 
