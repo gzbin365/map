@@ -306,6 +306,15 @@ description: 硬件设备
 | Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                   |
 | RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                   |
 | Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague) |
+| NURK FPV [u](https://www.youtube.com/c/NURKFPV)             |                                                                                         |                                                                         |
+
+### Nano
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| Micro Hexacopter - Flywoo Firefly Hex Nano [NURK FPV](https://www.youtube.com/watch?v=o1ATfPCqBdA) |
+|                                                                                                    |
+|                                                                                                    |
 
 ## 潜水器, Underwater Drone, Submarine
 
