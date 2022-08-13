@@ -267,20 +267,21 @@ description: 硬件设备
 
 ***
 
-|                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                    |
-| [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA) |
-| AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                             |
-| 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                        |
-| 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                   |
-| 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                        |
-| MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                      |
-| Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                      |
-| 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                           |
-| Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)           |
-| F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                              |
-| How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                               |
+| [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA)            |
+| AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                                        |
+| 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                                   |
+| 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                              |
+| 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                                   |
+| MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                                 |
+| Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                                 |
+| 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                                      |
+| Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)                      |
+| F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                                         |
+| How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
+| How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
 
 ### Engine
 
@@ -300,11 +301,11 @@ description: 硬件设备
 
 ### FPV
 
-|                                                             |                                                                                         |                                                       |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
-| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV) |
-| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                |                                                       |
+|                                                             |                                                                                         |                                                                         |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                   |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                   |
+| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague) |
 
 ## 潜水器, Underwater Drone, Submarine
 
