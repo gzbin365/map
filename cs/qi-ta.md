@@ -114,6 +114,14 @@
 | Lua Run Time Type Information [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z2N\_qH3jkTU46tOLFfrvPcf) |
 | 【Siki】【Lua编程】[游戏大师课](https://www.youtube.com/playlist?list=PL0luF\_aDUOor6sYMHO9qNv4OjH8aNs\_8x)                    |
 
+## ARM语言
+
+|                                                 |
+| ----------------------------------------------- |
+| ARM语言(汇编手册).[pdf](http://maxwell.ysepan.com/)   |
+| Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/) |
+|                                                 |
+
 ## DotNet
 
 | dotNET [u](https://www.youtube.com/c/dotNET)                                                                                       |
@@ -535,6 +543,7 @@
 | How to make the ultimate Terminal Prompt on Windows 11 - This video is LONG and WORDY and DETAILED [Scott Hanselman](https://www.youtube.com/watch?v=VT2L1SXFq9U) |
 | Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
 | How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
+| GFKDW-3TWB7-3D3C4-37B7M-KFTFC [s](http://www.qiteb.com/17080.html)                                                                                                |
 
 ### Edge
 

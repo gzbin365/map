@@ -76,7 +76,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)              |
 | [System Crafters](https://www.youtube.com/watch?v=CEnMzQ9JPtw) Live! - Why Geeks Don't Use Guix |
 | GNU操作系统 [s](https://www.gnu.org/gnu/gnu.html)                                                   |
-|                                                                                                 |
+| GUN-MakeFile [pdf](http://maxwell.ysepan.com/)                                                  |
 
 ## UP主
 
