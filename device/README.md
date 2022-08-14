@@ -126,16 +126,19 @@ description: 硬件设备
 
 ### Raspberry Pi Pico
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi Pico [s](https://www.raspberrypi.com/products/raspberry-pi-pico/)                                                |
-| Raspberry Pi Zero                                                                                                             |
-| Raspberry Pi 400                                                                                                              |
-| Raspberry Pi 4B                                                                                                               |
-| Raspberry Pi Pico vs Raspberry Pi Zero: Which Do You Need? [s](https://howchoo.com/pi/raspberry-pi-pico-vs-raspberry-pi-zero) |
-| Pico Pi C Programming using the Raspberry Pi 400 [Ben Heck Hacks](https://www.youtube.com/watch?v=il4bgA76E1M)                |
-| 23个有趣的Raspberry Pi 400事实 [s](https://picockpit.com/raspberry-pi/zh/23-fun-raspberry-pi-400-facts/)                            |
-| ESP32死忠粉为什么“劈腿”了树莓派Pico #Raspberry Pi Pico [工科男孙老师](https://www.youtube.com/watch?v=gIQwjIsGP3c)                              |
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi Pico [s](https://www.raspberrypi.com/products/raspberry-pi-pico/)                                                              |
+| Raspberry Pi Zero                                                                                                                           |
+| Raspberry Pi 400                                                                                                                            |
+| Raspberry Pi 4B                                                                                                                             |
+| Raspberry Pi Pico vs Raspberry Pi Zero: Which Do You Need? [s](https://howchoo.com/pi/raspberry-pi-pico-vs-raspberry-pi-zero)               |
+| Pico Pi C Programming using the Raspberry Pi 400 [Ben Heck Hacks](https://www.youtube.com/watch?v=il4bgA76E1M)                              |
+| 23个有趣的Raspberry Pi 400事实 [s](https://picockpit.com/raspberry-pi/zh/23-fun-raspberry-pi-400-facts/)                                          |
+| ESP32死忠粉为什么“劈腿”了树莓派Pico #Raspberry Pi Pico [工科男孙老师](https://www.youtube.com/watch?v=gIQwjIsGP3c)                                            |
+| Raspberry Pi PICO \| Starting With MicroPython + Examples \| I2C OLED, ADC, PWM [Electronoobs](https://www.youtube.com/watch?v=zlKJ5hvfs6s) |
+| The Raspberry Pi Pico WAS Overrated! But here is why that changed! [GreatScott!](https://www.youtube.com/watch?v=F0o1C7nEgw0)               |
+|                                                                                                                                             |
 
 ## Orange Pi
 
@@ -288,7 +291,7 @@ description: 硬件设备
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | Building a V8 Engine Model Kit - Full Metal Car Engine Model Kit [kota scale model](https://www.youtube.com/watch?v=J03KnMP99sE) |
-|                                                                                                                                  |
+| Warped Perception [u](https://www.youtube.com/c/WarpedPerception/playlists)                                                      |
 |                                                                                                                                  |
 
 ### Jet Engine
@@ -355,12 +358,14 @@ description: 硬件设备
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Cool 3D Printed Mechanical Clock](https://www.youtube.com/watch?v=E9prY3ky6Bo) | Mechanistic([u](https://www.youtube.com/user/dannysltang/videos), ) |
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo      |
-| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)      |
-| 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc) |
-| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)       |
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo                  |
+| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)                  |
+| 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc)             |
+| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)                   |
+| 3D Printer [Tabletop Machine Shop](https://www.youtube.com/playlist?list=PLncGmOkJj3YRgMIMFepeuBZr68jy9i-zl) |
+|                                                                                                              |
 
 ## UV印刷
 
@@ -648,15 +653,19 @@ System on Chip, 系统级芯片
 
 ## 路由器 软路由
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
-| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                      |
-| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)     |
-| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                             |
-| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                        |
-| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                             |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                          |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                  |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                 |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                         |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                    |
+| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                            |
+| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk) |
+| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                        |
+| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                      |
+|                                                                                                                                                 |
 
 ## 手工, DIY
 
@@ -666,7 +675,7 @@ System on Chip, 系统级芯片
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists)  |
 | Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)   Hyperspace Pirate [u](https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA)   NDA Hack [u](https://www.youtube.com/c/NDAHack) |
 | GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)   BigWR\_永恒跳动的火焰 [u](https://www.youtube.com/channel/UCC1BtcXER\_5xRVIV3wcJv7w)   D. Creative [u](https://www.youtube.com/user/Wuzun1984)   Cgit Einsteins [u](https://www.youtube.com/c/CgitEinstens)           |
-| Kevin Talbot [u](https://www.youtube.com/c/KevinTalbotTV)                                                                                                                                                                                                                                                                                     |
+| Kevin Talbot [u](https://www.youtube.com/c/KevinTalbotTV)   Tabletop Machine Shop [u](https://www.youtube.com/c/hlaps1990/playlists)                                                                                                                                                                                                          |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                          |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                               |
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |
