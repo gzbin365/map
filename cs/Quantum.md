@@ -19,3 +19,5 @@ Quantum Computing for Computer Scientists [Microsoft Research](https://www.youtu
 A beginner's guide to quantum computing | Shohini Ghose [TED](https://www.youtube.com/watch?v=QuR969uMICM)
 
 Superposition in Quantum Computers - [Computerphile](https://www.youtube.com/watch?v=kv-YXKRUheQ)
+
+Quantum Programming - Part 1 [New Mind](https://www.youtube.com/watch?v=2Eswqed8agg)
