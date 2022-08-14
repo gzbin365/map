@@ -267,6 +267,8 @@ description: 硬件设备
 | The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
 | RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
 | Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                         | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
+|                                                                                                                    | Modellermark2 - RC and The Shropshire Dippers [u](https://www.youtube.com/user/modellermark2)                   |
+|                                                                                                                    |                                                                                                                 |
 
 ***
 
@@ -616,6 +618,14 @@ System on Chip, 系统级芯片
 | Augmented Reality for Everyone - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=WzfDo2Wpxks) |
 |                                                                                                          |
 |                                                                                                          |
+
+## 硬盘
+
+|                                                                                           |   |   |
+| ----------------------------------------------------------------------------------------- | - | - |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s) |   |   |
+|                                                                                           |   |   |
+|                                                                                           |   |   |
 
 ## NAS
 
