@@ -126,19 +126,16 @@ description: 硬件设备
 
 ### Raspberry Pi Pico
 
-|                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi Pico [s](https://www.raspberrypi.com/products/raspberry-pi-pico/)                                                              |
-| Raspberry Pi Zero                                                                                                                           |
-| Raspberry Pi 400                                                                                                                            |
-| Raspberry Pi 4B                                                                                                                             |
-| Raspberry Pi Pico vs Raspberry Pi Zero: Which Do You Need? [s](https://howchoo.com/pi/raspberry-pi-pico-vs-raspberry-pi-zero)               |
-| Pico Pi C Programming using the Raspberry Pi 400 [Ben Heck Hacks](https://www.youtube.com/watch?v=il4bgA76E1M)                              |
-| 23个有趣的Raspberry Pi 400事实 [s](https://picockpit.com/raspberry-pi/zh/23-fun-raspberry-pi-400-facts/)                                          |
-| ESP32死忠粉为什么“劈腿”了树莓派Pico #Raspberry Pi Pico [工科男孙老师](https://www.youtube.com/watch?v=gIQwjIsGP3c)                                            |
-| Raspberry Pi PICO \| Starting With MicroPython + Examples \| I2C OLED, ADC, PWM [Electronoobs](https://www.youtube.com/watch?v=zlKJ5hvfs6s) |
-| The Raspberry Pi Pico WAS Overrated! But here is why that changed! [GreatScott!](https://www.youtube.com/watch?v=F0o1C7nEgw0)               |
-|                                                                                                                                             |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi Pico [s](https://www.raspberrypi.com/products/raspberry-pi-pico/)                                                |
+| Raspberry Pi Zero                                                                                                             |
+| Raspberry Pi 400                                                                                                              |
+| Raspberry Pi 4B                                                                                                               |
+| Raspberry Pi Pico vs Raspberry Pi Zero: Which Do You Need? [s](https://howchoo.com/pi/raspberry-pi-pico-vs-raspberry-pi-zero) |
+| Pico Pi C Programming using the Raspberry Pi 400 [Ben Heck Hacks](https://www.youtube.com/watch?v=il4bgA76E1M)                |
+| 23个有趣的Raspberry Pi 400事实 [s](https://picockpit.com/raspberry-pi/zh/23-fun-raspberry-pi-400-facts/)                            |
+| ESP32死忠粉为什么“劈腿”了树莓派Pico #Raspberry Pi Pico [工科男孙老师](https://www.youtube.com/watch?v=gIQwjIsGP3c)                              |
 
 ## Orange Pi
 
@@ -257,44 +254,40 @@ description: 硬件设备
 
 ## Drone / UAV
 
-|                                                                                                                                |                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                                   | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
-| **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                                   | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**                                         |
-| DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4)             | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
-| BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                                          | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
-| DJI [u](https://www.youtube.com/c/Dji)                                                                                         | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
-| The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                               | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
-| RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                                   | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
-| Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                                     | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
-|                                                                                                                                | Modellermark2 - RC and The Shropshire Dippers [u](https://www.youtube.com/user/modellermark2)                   |
-| ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) |                                                                                                                 |
-|                                                                                                                                |                                                                                                                 |
+|                                                                                                                    |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                       | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
+| **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                       | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**                                         |
+| DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4) | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
+| BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                              | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
+| DJI [u](https://www.youtube.com/c/Dji)                                                                             | 北斗30秒 抖音号： [37870925533](https://www.douyin.com/user/MS4wLjABAAAArmcMvxYzWY1B\_fjg\_Imo3RHiJWqplqCVO3q1yAa5Ciw) |
+| The Stones RC Channel [u](https://www.youtube.com/c/ADronesLife)                                                   | FliteTest [u](https://www.youtube.com/watch?v=AGKoG3eCDrg)                                                      |
+| RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                       | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
+| Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                         | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
 
 ***
 
-|                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                               |
-| [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA)            |
-| AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                                        |
-| 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                                   |
-| 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                              |
-| 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                                   |
-| MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                                 |
-| Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                                 |
-| 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                                      |
-| Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)                      |
-| F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                                         |
-| How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
-| How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                    |
+| [**Drone Programming With Python Course \| 3 Hours \| Including x4 Projects (2021)**](https://www.youtube.com/watch?v=LmEcyQnfpDA) |
+| AI Drone Vs Human Drone Race - Zurich University [BMSWEB](https://www.youtube.com/watch?v=qEVx5t5l6Zw)                             |
+| 四旋翼公开课 [电子工程世界](http://training.eeworld.com.cn/course/6068)                                                                        |
+| 无人机背后的PID控制 [电子工程世界](http://training.eeworld.com.cn/course/5482)                                                                   |
+| 麦子 无人机项目 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYsPUNGixbTMIpo2\_zwRsCZ)                                        |
+| MAVIC AIR [空拍機專賣店](https://www.youtube.com/playlist?list=PL0hrhZC8eX1NUiZEZF\_on-GVj2BwQAqC5)                                      |
+| Cardboard RC Airplane DIY - F22 Raptor l [S-DiY](https://www.youtube.com/watch?v=WKkWElvF-a0)                                      |
+| 拉菲罗·安德烈: 四轴飞行器灵活的运动性能 [TED](https://www.youtube.com/watch?v=w2itwFJCgFQ)                                                           |
+| Meet the dazzling flying machines of the future \| Raffaello D'Andrea [TED](https://www.youtube.com/watch?v=RCXGpEmFbOw)           |
+| F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                              |
+| How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                |
 
 ### Engine
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | Building a V8 Engine Model Kit - Full Metal Car Engine Model Kit [kota scale model](https://www.youtube.com/watch?v=J03KnMP99sE) |
-| Warped Perception [u](https://www.youtube.com/c/WarpedPerception/playlists)                                                      |
+|                                                                                                                                  |
 |                                                                                                                                  |
 
 ### Jet Engine
@@ -303,25 +296,15 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | Warped Perception [u](https://www.youtube.com/c/WarpedPerception)   ProjectAir [u](https://www.youtube.com/watch?v=gmH34LJKcgs) |
 | How to make Jet engine (mini Jet engine) [let's make awesome](https://www.youtube.com/watch?v=4n-lC-wblj0)                      |
-| Making Powerful JET Engine Using BLDC Motor [Creative Think](https://www.youtube.com/watch?v=3pOK46OOBbI)                       |
 |                                                                                                                                 |
 
 ### FPV
 
-|                                                             |                                                                                         |                                                                         |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                   |
-| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                   |
-| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague) |
-| NURK FPV [u](https://www.youtube.com/c/NURKFPV)             |                                                                                         |                                                                         |
-
-### Nano
-
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| Micro Hexacopter - Flywoo Firefly Hex Nano [NURK FPV](https://www.youtube.com/watch?v=o1ATfPCqBdA) |
-|                                                                                                    |
-|                                                                                                    |
+|                                                             |                                                                                         |                                                       |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV) |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV) |
+| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                |                                                       |
 
 ## 潜水器, Underwater Drone, Submarine
 
@@ -362,14 +345,12 @@ description: 硬件设备
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Cool 3D Printed Mechanical Clock](https://www.youtube.com/watch?v=E9prY3ky6Bo) | Mechanistic([u](https://www.youtube.com/user/dannysltang/videos), ) |
 
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo                  |
-| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)                  |
-| 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc)             |
-| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)                   |
-| 3D Printer [Tabletop Machine Shop](https://www.youtube.com/playlist?list=PLncGmOkJj3YRgMIMFepeuBZr68jy9i-zl) |
-|                                                                                                              |
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| [3D打印](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkAL1uzGmfJVsz79lgv8t3u) Yinan Zuo      |
+| 3d打印教程 [Ken Wang](https://www.youtube.com/playlist?list=PLOgJB332RuKnpK14yfGbG9B76KlZ5HT5Z)      |
+| 3D打印 3D Print [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9QklKVunBBTInRn3IFeittc) |
+| The Genius of 3D Printed Rockets [Veritasium](https://www.youtube.com/watch?v=kz165f1g8-E)       |
 
 ## UV印刷
 
@@ -620,14 +601,6 @@ System on Chip, 系统级芯片
 |                                                                                                          |
 |                                                                                                          |
 
-## 硬盘
-
-|                                                                                           |   |   |
-| ----------------------------------------------------------------------------------------- | - | - |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s) |   |   |
-|                                                                                           |   |   |
-|                                                                                           |   |   |
-
 ## NAS
 
 |                                                                                                            |
@@ -665,19 +638,15 @@ System on Chip, 系统级芯片
 
 ## 路由器 软路由
 
-|                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                             |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                          |
-| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                  |
-| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                 |
-| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                         |
-| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                    |
-| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                            |
-| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk) |
-| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                        |
-| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                      |
-|                                                                                                                                                 |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0) |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                              |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                      |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)     |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                             |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                        |
+| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                |
 
 ## 手工, DIY
 
@@ -687,7 +656,7 @@ System on Chip, 系统级芯片
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists)  |
 | Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)   Hyperspace Pirate [u](https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA)   NDA Hack [u](https://www.youtube.com/c/NDAHack) |
 | GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)   BigWR\_永恒跳动的火焰 [u](https://www.youtube.com/channel/UCC1BtcXER\_5xRVIV3wcJv7w)   D. Creative [u](https://www.youtube.com/user/Wuzun1984)   Cgit Einsteins [u](https://www.youtube.com/c/CgitEinstens)           |
-| Kevin Talbot [u](https://www.youtube.com/c/KevinTalbotTV)   Tabletop Machine Shop [u](https://www.youtube.com/c/hlaps1990/playlists)                                                                                                                                                                                                          |
+| Kevin Talbot [u](https://www.youtube.com/c/KevinTalbotTV)                                                                                                                                                                                                                                                                                     |
 | How to make a STEEL MARBLE TRACK with basic tools! step by step guide [Daniel de Bruin](https://www.youtube.com/watch?v=kPguktA674w)                                                                                                                                                                                                          |
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                               |
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |
