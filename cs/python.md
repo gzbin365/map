@@ -901,6 +901,7 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                         |
 | pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                     |
 | Stardew Valley Game Clone with Python and Pygame – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=R9apl6B\_ZgI)           |
+| Creating a Stardew Valley inspired game in Python [Clear Code](https://www.youtube.com/watch?v=T4IX36sP\_0c)                          |
 | Drum Machine with Python and Pygame – Full Project Course [freeCodeCamp](https://www.youtube.com/watch?v=F3J3PZj0zi0)                 |
 | Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)            |
 | 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                    |

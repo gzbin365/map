@@ -71,7 +71,7 @@ description: 硬件设备
 | Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                                                  | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
 | 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                                               | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
 | Yuan Wang [u](https://www.youtube.com/channel/UCfy3IRqGZb7W6Jv4gWChTzA)                                                 | powersee [u](https://www.youtube.com/c/powersee/videos)                                                                    |
-|                                                                                                                         | 游戏咖啡馆 GameCafe [u](https://www.youtube.com/c/%E6%B8%B8%E6%88%8F%E5%92%96%E5%95%A1%E9%A6%86GameCafe)                        |
+| Sam Westby Tech [u](https://www.youtube.com/c/SamWestbyTech/playlists)                                                  | 游戏咖啡馆 GameCafe [u](https://www.youtube.com/c/%E6%B8%B8%E6%88%8F%E5%92%96%E5%95%A1%E9%A6%86GameCafe)                        |
 
 |                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -323,7 +323,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------- |
 | Micro Hexacopter - Flywoo Firefly Hex Nano [NURK FPV](https://www.youtube.com/watch?v=o1ATfPCqBdA)                   |
 | FlyWoo FireFly 1S Nano Baby // Rippin Review // So Quiet!! [Nick Burns](https://www.youtube.com/watch?v=zOgIWUIjR6Y) |
-|                                                                                                                      |
+| SMALLEST DRONES WITH CAMERAS THAT WILL AMAZE YOU [TechZone](https://www.youtube.com/watch?v=erXQW2\_KXH4)            |
 
 ## 潜水器, Underwater Drone, Submarine
 
