@@ -270,7 +270,7 @@ description: 硬件设备
 | RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                                   | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
 | Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                                     | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
 |                                                                                                                                | Modellermark2 - RC and The Shropshire Dippers [u](https://www.youtube.com/user/modellermark2)                   |
-| ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) |                                                                                                                 |
+| ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) | Dustin Dunnill [u](https://www.youtube.com/c/DustinDunnill)                                                     |
 |                                                                                                                                |                                                                                                                 |
 
 ***
