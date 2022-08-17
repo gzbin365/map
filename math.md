@@ -53,6 +53,7 @@ description: 探索神秘的数学, 用数学充实人生
 | 張翔老師 [u](https://www.youtube.com/c/shiangsir/playlists)                                                                                                                                                   | 哆嗒数学网 [u](https://www.youtube.com/channel/UC0dG9-vPqyzrpr2MSNZXa1Q/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Math and Science [u](https://www.youtube.com/user/mathtutordvd/playlists)                                                                                                                                 | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | blackpenredpen [u](https://www.youtube.com/c/blackpenredpen)                                                                                                                                              | 黑筆紅筆 [u](https://www.youtube.com/c/bprptw/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                           | Math and Science [u](https://www.youtube.com/user/mathtutordvd)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -414,6 +415,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Assorted Group Theory Exercises [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqw3ZFydd\_LqOCUBtWYg5svI)                  |
 | Galois Theory Explained Simply [Math Visualized](https://www.youtube.com/watch?v=Ct2fyigNgPY)                                              |
 | Group theory [wiki](https://en.wikipedia.org/wiki/Group\_theory) [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Galois\_theory)  |
+| Group Theory — Introduction to Higher Mathematics [Nemean](https://www.youtube.com/watch?v=KufsL2VgELo)                                    |
 |                                                                                                                                            |
 
 #### 置换群 Permutation Group
@@ -518,7 +520,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 | 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                 |
-|                                                                                                                             |
+| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
 |                                                                                                                             |
 
 | 黎曼猜想                                                                                   |
@@ -665,7 +667,7 @@ $$
 | <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
 | Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                        |
 | 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                         |
-|                                                                                                                                                                                                    |
+| MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t\_GPx2sRg)                   |
 
 | IRT理論                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -686,6 +688,7 @@ $$
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 关于显著性检验，你想要的都在这儿了！！（基础篇）[博客园](https://www.cnblogs.com/hdu-zsk/p/6293721.html)                                                                                                     |
 | Calculate the P-Value in Statistics - Formula to Find the P-Value in Hypothesis Testing [Math and Science](https://www.youtube.com/watch?v=KLnGOL\_AUgA)                          |
+| Intro to Hypothesis Testing in Statistics - Hypothesis Testing Statistics Problems & Examples [Math and Science](https://www.youtube.com/watch?v=VK-rnA3-41c)                     |
 | 统计Statistic Hypothesis One Sample Z-Test 双尾检验入门 [天才课堂Genius Class](https://www.youtube.com/watch?v=ugEB3OuK7W4)                                                                   |
 | 15 假设检验【小元老师】[小元老师and宇宙数学中心](https://www.youtube.com/watch?v=\_njN3OMKyhE)                                                                                                        |
 | 关于假设检验的一切 - 统计学 hypothesis testing [Sean 冯·](https://www.youtube.com/watch?v=q96EBSklX98)                                                                                         |
