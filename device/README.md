@@ -177,6 +177,15 @@ description: 硬件设备
 | NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)     |
 | 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4) |
 
+## 手机
+
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 教你从0到1升级自己的旧手机，让你家里成为云服务中心 [程序员阿灏](https://www.douyin.com/video/7131701871365852452) |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+
 ## 无线电
 
 |                                                                                 |
@@ -270,7 +279,7 @@ description: 硬件设备
 | RC MEDIA WORLD [u](https://www.youtube.com/user/bunterfisch)                                                                   | KendinYap [u](https://www.youtube.com/c/KendinYap-Video)                                                        |
 | Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                                     | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
 |                                                                                                                                | Modellermark2 - RC and The Shropshire Dippers [u](https://www.youtube.com/user/modellermark2)                   |
-| ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) |                                                                                                                 |
+| ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) | Dustin Dunnill [u](https://www.youtube.com/c/DustinDunnill)                                                     |
 |                                                                                                                                |                                                                                                                 |
 
 ***
@@ -694,6 +703,7 @@ System on Chip, 系统级芯片
 | Making a WIND-UP Marble Machine! [Daniel de Bruin](https://www.youtube.com/watch?v=AF6cvB0ecjo)                                                                                                                                                                                                                                               |
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |
 | LED Circuit Design - How to design LED circuits [The Engineering Mindset](https://www.youtube.com/watch?v=7d4ymjU9NqM)                                                                                                                                                                                                                        |
+| Servo Motors, how do they work? [The Engineering Mindset](https://www.youtube.com/watch?v=1WnGv-DPexc)                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                               |
 | 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                       |
 
