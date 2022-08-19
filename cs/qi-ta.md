@@ -114,14 +114,6 @@
 | Lua Run Time Type Information [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z2N\_qH3jkTU46tOLFfrvPcf) |
 | 【Siki】【Lua编程】[游戏大师课](https://www.youtube.com/playlist?list=PL0luF\_aDUOor6sYMHO9qNv4OjH8aNs\_8x)                    |
 
-## ARM语言
-
-|                                                 |
-| ----------------------------------------------- |
-| ARM语言(汇编手册).[pdf](http://maxwell.ysepan.com/)   |
-| Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/) |
-|                                                 |
-
 ## DotNet
 
 | dotNET [u](https://www.youtube.com/c/dotNET)                                                                                       |
@@ -543,16 +535,12 @@
 | How to make the ultimate Terminal Prompt on Windows 11 - This video is LONG and WORDY and DETAILED [Scott Hanselman](https://www.youtube.com/watch?v=VT2L1SXFq9U) |
 | Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
 | How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
-| GFKDW-3TWB7-3D3C4-37B7M-KFTFC [s](http://www.qiteb.com/17080.html)                                                                                                |
 
 ### Edge
 
-|                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>現實的風向已經在變了？ 為什麼 Microsoft Edge 的聲勢在國外開始水漲船高？</p><p><a href="https://www.youtube.com/watch?v=EtUVfRDUM9U">PAPAYA 電腦教室</a></p>          |
-| 真好用！！你一定要知道这几款实用软件！ \| [零度解说](https://www.youtube.com/watch?v=HPVbutvsE0o)                                                               |
-| Release notes for Microsoft Edge Stable Channel [doc](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) |
-| Microsoft Edge [下载](https://www.microsoft.com/zh-cn/edge/features?form=MY01RZ\&OCID=MY01RZ)                                              |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| <p>現實的風向已經在變了？ 為什麼 Microsoft Edge 的聲勢在國外開始水漲船高？</p><p><a href="https://www.youtube.com/watch?v=EtUVfRDUM9U">PAPAYA 電腦教室</a></p> |
 
 ### 双系统 多系统
 
