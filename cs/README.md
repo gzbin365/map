@@ -127,8 +127,8 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | [s](https://www.nvidia.cn/)                                                                           |
 | NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/) |
 | The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
-| NVIDIA Omniverse                                                                                      |
-|                                                                                                       |
+| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)   |
+| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)              |
 
 ### Facebook
 
@@ -140,17 +140,18 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 
 ### Oracle
 
-|   |   |
-| - | - |
-|   |   |
-|   |   |
-|   |   |
+|                                                                                                               |   |
+| ------------------------------------------------------------------------------------------------------------- | - |
+| 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), ) |   |
+|                                                                                                               |   |
+|                                                                                                               |   |
 
-|                                                     |
-| --------------------------------------------------- |
-| Your Questions Answered - Oracle Free Tier IdeaSpot |
-|                                                     |
-|                                                     |
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| Your Questions Answered - Oracle Free Tier [IdeaSpot](https://www.youtube.com/watch?v=YtBufXFYO0k)                |
+| 永久免费白嫖甲骨文VPS，需要服务器的快上车！\| [零度解说](https://www.youtube.com/watch?v=5a5tdJh8mKY)                                     |
+| Oracle Free Tier Tutorials [IdeaSpot](https://www.youtube.com/playlist?list=PLSk3zfDlC1f\_Up6GBgckMIqLdS\_HRjdEy) |
+|                                                                                                                   |
 
 ### IBM
 
@@ -432,37 +433,43 @@ Computer Components？Computer Architecture？
 | Computer Components For Dummies [Tech With Tim](https://www.youtube.com/watch?v=cZs6kh0WFRY)                                    |
 | 计算机组成原理 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoMc7BNWCqLzDlBbDaKc2bm)                                    |
 | 计算机原理-国防科技大学 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoHpK-AlW7iMLhd2Y7DV2Vk)                               |
+| I Made A Water Computer And It Actually Works [Steve Mould](https://www.youtube.com/watch?v=IxXaizglscw)                        |
 
 ## 计算机网络
 
-|                                                                             |   |
-| --------------------------------------------------------------------------- | - |
-| 鴻愜意 [u](https://www.youtube.com/channel/UC5Gwye8l68nlduVxeKjQk4w/playlists) |   |
+|                                                                             |                                                                             |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 鴻愜意 [u](https://www.youtube.com/channel/UC5Gwye8l68nlduVxeKjQk4w/playlists) | Jing维 [u](https://www.youtube.com/channel/UCYlQumKYQG\_vP3GggSoaFMA/videos) |
+|                                                                             | 思科网络课程 [u](https://www.youtube.com/user/luojinyu)                           |
 
-|                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2020王道计算机网络](https://www.youtube.com/playlist?list=PLuolGRW5AOPx1lxINQkaeXrTU5r5EAPHd) 考研e族                                                                   |
-| 王道计算机-计算机网络 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivsrP-CITWxG0ZnhXrCBuEJv)                                                                    |
-| Computer Science and Cybersecurity [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT)                                  |
-| July 2019-Demystifying Networking [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65c99bTo\_la39WMeX1RjwCvk)                            |
-| Demystifying Networking - Sridhar Iyer \| IIT Bombay - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2S5aWj1EGLBYBc6cgpMn4Q)        |
-| How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [freeCodeCamp](https://www.youtube.com/watch?v=NQP89ish9t8)                            |
-| Computer Networking Course - Network Engineering \[CompTIA Network+ Exam Prep] [freeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw)                     |
-| Networking tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw\_XeW)                                                     |
-| SSL, TLS, HTTP, HTTPS Explained [PowerCert Animated Videos](https://www.youtube.com/watch?v=hExRDVZHhig)                                                       |
-| How does HTTPS work? What's a CA? What's a self-signed Certificate? [kubucation](https://www.youtube.com/watch?v=T4Df5\_cojAs)                                 |
-| 思科计算机网络系列1 [Kooper Gustave](https://www.youtube.com/playlist?list=PLPND9W6OSqEXVvLuPuIHIX6UtFLpopELm)                                                          |
-| 思科计算机网络系列2 [Kooper Gustave](https://www.youtube.com/playlist?list=PLPND9W6OSqEXD\_X5zy1I3n9HpdWDUrEyO)                                                         |
-| Computer Networking Complete Course - Beginner to Advanced [Geek's Lesson](https://www.youtube.com/watch?v=QKfk7YFILws)                                        |
-| 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                                  |
-| How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                          |
-| Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                                |
-| 韩立刚 计算机网络 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagpsgt6NJmpWo8M\_qVp\_mN8n)                                                               |
-| Operating System Fundamentals [simplefunde](https://www.youtube.com/playlist?list=PL8CZDfB07h9t1chD1754WrtOEIHAh-Um6)                                          |
-| Networking & IPv6 [Joe James](https://www.youtube.com/playlist?list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu)                                                        |
-| 內網穿透 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtznJTAPutHG5XBKsWQpRWB61)                                                  |
-| NetBox - Open Source Network Design and Mapping Software from homelab to network engineers. [Awesome Open Source](https://www.youtube.com/watch?v=sHvMyRHA7sY) |
-| 【硬件科普】IP地址是什么东西？IPV6和IPV4有什么区别？公网IP和私有IP又是什么？[硬件茶谈](https://www.youtube.com/watch?v=tVNx-6OEy-k)                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2020王道计算机网络](https://www.youtube.com/playlist?list=PLuolGRW5AOPx1lxINQkaeXrTU5r5EAPHd) 考研e族                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 王道计算机-计算机网络 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivsrP-CITWxG0ZnhXrCBuEJv)                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Computer Science and Cybersecurity [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT)                                                                                                                                                                                                                                                                                                                                                                                          |
+| July 2019-Demystifying Networking [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65c99bTo\_la39WMeX1RjwCvk)                                                                                                                                                                                                                                                                                                                                                                                    |
+| Demystifying Networking - Sridhar Iyer \| IIT Bombay - NPTEL [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2S5aWj1EGLBYBc6cgpMn4Q)                                                                                                                                                                                                                                                                                                                                                                |
+| How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [freeCodeCamp](https://www.youtube.com/watch?v=NQP89ish9t8)                                                                                                                                                                                                                                                                                                                                                                                    |
+| Computer Networking Course - Network Engineering \[CompTIA Network+ Exam Prep] [freeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw)                                                                                                                                                                                                                                                                                                                                                                             |
+| Networking tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw\_XeW)                                                                                                                                                                                                                                                                                                                                                                                                             |
+| SSL, TLS, HTTP, HTTPS Explained [PowerCert Animated Videos](https://www.youtube.com/watch?v=hExRDVZHhig)                                                                                                                                                                                                                                                                                                                                                                                                               |
+| How does HTTPS work? What's a CA? What's a self-signed Certificate? [kubucation](https://www.youtube.com/watch?v=T4Df5\_cojAs)                                                                                                                                                                                                                                                                                                                                                                                         |
+| 思科计算机网络系列1 [Kooper Gustave](https://www.youtube.com/playlist?list=PLPND9W6OSqEXVvLuPuIHIX6UtFLpopELm)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 思科计算机网络系列2 [Kooper Gustave](https://www.youtube.com/playlist?list=PLPND9W6OSqEXD\_X5zy1I3n9HpdWDUrEyO)                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Computer Networking Complete Course - Beginner to Advanced [Geek's Lesson](https://www.youtube.com/watch?v=QKfk7YFILws)                                                                                                                                                                                                                                                                                                                                                                                                |
+| 免费网络监控一步一步\| Observium（服务器、防火墙、交换机、路由器等）[Net VN](https://www.youtube.com/watch?v=qDcSizNkp6Y)                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| How does the internet work? (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=zN8YNNHcaZc)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Linux Operating System - Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ROjZy1WbCIA)                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 韩立刚 计算机网络 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagpsgt6NJmpWo8M\_qVp\_mN8n)                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Operating System Fundamentals [simplefunde](https://www.youtube.com/playlist?list=PL8CZDfB07h9t1chD1754WrtOEIHAh-Um6)                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Networking & IPv6 [Joe James](https://www.youtube.com/playlist?list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu)                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 內網穿透 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtznJTAPutHG5XBKsWQpRWB61)                                                                                                                                                                                                                                                                                                                                                                                                          |
+| NetBox - Open Source Network Design and Mapping Software from homelab to network engineers. [Awesome Open Source](https://www.youtube.com/watch?v=sHvMyRHA7sY)                                                                                                                                                                                                                                                                                                                                                         |
+| 【硬件科普】IP地址是什么东西？IPV6和IPV4有什么区别？公网IP和私有IP又是什么？[硬件茶谈](https://www.youtube.com/watch?v=tVNx-6OEy-k)                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <p>掌简单说网络1-计算机是如何通信的？IP地址与mac地址是什么？dhcp与arp又是什么？ <a href="https://www.youtube.com/watch?v=DM1owMey-nQ">掌芝士</a></p><p>交换机和路由器有什么区别？网关和路由又是什么意思？简单说网络 <a href="https://www.youtube.com/watch?v=HmscVF3vKQs">掌芝士</a></p><p>家庭网络如何通过路由器上网？源地址转换和目标地址转换时什么？ <a href="https://www.youtube.com/watch?v=N-7mHEMHH-A">掌芝士</a></p><p>一条视频讲清楚TCP协议与UDP协议-什么是三次握手与四次挥手? <a href="https://www.youtube.com/watch?v=Iuvjwrm_O5g">掌芝士</a></p><p>隧道网络-VPN-小火箭 一条视频讲清楚 <a href="https://www.youtube.com/watch?v=YhASZ2ay4rA">掌芝士</a></p> |
+| 互联网是如何工作的？VPN、SSR、V2ray翻墙是什么原理？ [啃芝士](https://www.youtube.com/watch?v=iidqJ7p7ln4)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -561,7 +568,11 @@ Computer Components？Computer Architecture？
 
 ## CS电子书
 
-**脚本之家（**[**编程开发**](https://www.jb51.net/books/list422\_1.html)**）**
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| **脚本之家（**[**编程开发**](https://www.jb51.net/books/list422\_1.html)**）**      |
+| 文江博客 **** [**开发文档**](https://www.wenjiangs.com/doc/page/1)  ****  共 138 页 |
+|                                                                           |
 
 {% file src="../.gitbook/assets/21天学通 C++（第8版）_带目录.pdf" %}
 21天学通 C++（第8版）\_带目录.pdf
