@@ -135,6 +135,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 |                                                                                       |                                                                                       |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9) | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
+|                                                                                       | 3D建模教学 [u](https://www.youtube.com/channel/UCqNCv7rltsMGxR3kxGcBrfg)                  |
 
 |                                                                                |                                                                                |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -154,7 +155,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                     |
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                           |
 | Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                        |
-| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)                                                                                |
+| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)   Polygon Runway [u](https://www.youtube.com/c/PolygonRunway)                  |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                     |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                            |
 | Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                        |
