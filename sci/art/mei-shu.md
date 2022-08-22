@@ -135,7 +135,6 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 |                                                                                       |                                                                                       |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9) | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
-|                                                                                       | 3D建模教学 [u](https://www.youtube.com/channel/UCqNCv7rltsMGxR3kxGcBrfg)                  |
 
 |                                                                                |                                                                                |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
