@@ -76,7 +76,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | My crush on GNU Guix [DebConf Videos](https://www.youtube.com/watch?v=N2XS92qrLUc)              |
 | [System Crafters](https://www.youtube.com/watch?v=CEnMzQ9JPtw) Live! - Why Geeks Don't Use Guix |
 | GNU操作系统 [s](https://www.gnu.org/gnu/gnu.html)                                                   |
-| GUN-MakeFile [pdf](http://maxwell.ysepan.com/)                                                  |
+|                                                                                                 |
 
 ## UP主
 
@@ -129,11 +129,9 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | LinuxCast [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafICYrx7zhFu\_RWHRZqpB8fIW)                                                                                                                          |
 |                                                                                                                                                                                                                                      |
 
-|                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------- |
-| Linux中的update和upgrade分别是更新什么呀? [zh](https://www.zhihu.com/question/21732981)                                         |
-| Pending Update of Snap Store [askubuntu](https://askubuntu.com/questions/1412575/pending-update-of-snap-store)       |
-| 正在等待缓存锁：无法获得锁 /var/lib/dpkg/lock-frontend。锁正由进程 12836（unattended-upgr）持有 [blog](https://blog.51cto.com/yang/4711982) |
+|                                                                              |
+| ---------------------------------------------------------------------------- |
+| Linux中的update和upgrade分别是更新什么呀? [zh](https://www.zhihu.com/question/21732981) |
 
 ***
 
@@ -181,7 +179,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ----------------------------------------------------------------------------------------------------------- |
 | Unofficial Windows Binaries for Python Extension Packages [s](https://www.lfd.uci.edu/\~gohlke/pythonlibs/) |
 | 无网环境下利用pip安装Python离线安装包 [s](https://www.codeleading.com/article/763890893/) whl                             |
-| pip换源 -pip更换国内镜像源 [csdn](https://blog.csdn.net/xuezhangjun0121/article/details/81664260)                    |
+|                                                                                                             |
 
 ## 嵌入式
 

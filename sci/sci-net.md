@@ -62,3 +62,4 @@
 | 2022如何进入暗网\|怎么进入暗网\|暗网是什么\|Tor Browser\|how use Tor browser [铿锵允铮kingQiang](https://www.youtube.com/watch?v=JAJTx9IvJFM) [v](https://www.youtube.com/watch?v=0nwDOd\_xl3Y) |
 | 更改IP地址的6种方法！保护自己的网络安全很重要 2022 \| [零度解说](https://www.youtube.com/watch?v=I-To8kblOZc)                                                                                       |
 | 永久免费的VPN 全平台终身免费VPN youtub 奈飞4K流畅播放无压力 大方亲测有效免费VPN！薅羊毛免费VPN [大方BigFang](https://www.youtube.com/watch?v=e32t2AnER-8)                                                       |
+| 笔记本电脑通过CLASH或SSR开代理热点给手机 [zh](https://zhuanlan.zhihu.com/p/337430556)                                                                                                      |
