@@ -1101,7 +1101,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | ROC and AUC, Clearly Explained! [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=4jRBRDbJemM)                     |
 | 145 - Confusion matrix, ROC and AUC in machine learning [DigitalSreeni](https://www.youtube.com/watch?v=Joh3LOaG8Q0)           |
-|                                                                                                                                |
+| 实操揭秘数据标注项目的套路，有点得罪人了，阅后删 [月下跑项目](https://www.douyin.com/video/7132425347831696647)                                             |
 |                                                                                                                                |
 | Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf) |
 |                                                                                                                                |
