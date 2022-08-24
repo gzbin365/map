@@ -138,7 +138,7 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | Meta Developers [u](https://www.youtube.com/c/FacebookDevelopers/featured) [s](https://developers.facebook.com/) |
 |                                                                                                                  |
 
-### Oracle
+### 甲骨文 Oracle
 
 |                                                                                                               |   |
 | ------------------------------------------------------------------------------------------------------------- | - |
@@ -151,7 +151,7 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | Your Questions Answered - Oracle Free Tier [IdeaSpot](https://www.youtube.com/watch?v=YtBufXFYO0k)                |
 | 永久免费白嫖甲骨文VPS，需要服务器的快上车！\| [零度解说](https://www.youtube.com/watch?v=5a5tdJh8mKY)                                     |
 | Oracle Free Tier Tutorials [IdeaSpot](https://www.youtube.com/playlist?list=PLSk3zfDlC1f\_Up6GBgckMIqLdS\_HRjdEy) |
-|                                                                                                                   |
+| 比尔盖茨一生之敌，拉里·埃里森，曾扬言要炸掉微软总部 [林纸巾](https://www.douyin.com/video/7105275313617112333)                                |
 
 ### IBM
 

@@ -674,6 +674,7 @@ System on Chip, 系统级芯片
 | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
 | Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)               |
 | 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                    |
+| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)               |
 
 ## 数据恢复
 
@@ -697,6 +698,7 @@ System on Chip, 系统级芯片
 | 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk) |
 | 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                        |
 | 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                      |
+| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                  |
 |                                                                                                                                                 |
 
 ## 手工, DIY
