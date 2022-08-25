@@ -261,7 +261,6 @@ import cv2
 | 【论文推荐】《目标检测》必看的8篇论文【附pdf】[深度之眼](https://mp.weixin.qq.com/s?\_\_biz=MzU0NjczNTg2NQ==\&mid=2247504772\&idx=1\&sn=a4c5d509f2a9c0bb23ea995ccd8b169b\&chksm=fb5b8012cc2c09044ea2a739faefd3ca04b151a4ca98aa36dcde8c57117d366a08728e39998f\&mpshare=1\&scene=1\&srcid=0623GII8gt9DaN40J4EKFIX9) |
 | Facebook DETR \| ML Coding Series \| End to end object detection with transformers [The AI Epiphany](https://www.youtube.com/watch?v=xkuoZ50gK4Q)                                                                                                                                        |
 | 使用樹莓派及桌上型電腦進行實時物體偵測 [AI葵](https://www.youtube.com/watch?v=x2e3PyzmLak)                                                                                                                                                                                                                   |
-| 目标检测的关系网络 [zh](https://zhuanlan.zhihu.com/p/53079575) [pdf](https://openaccess.thecvf.com/content\_cvpr\_2018/papers\_backup/Hu\_Relation\_Networks\_for\_CVPR\_2018\_paper.pdf)                                                                                                         |
 
 #### 2D目标检测
 
@@ -376,7 +375,6 @@ import cv2
 | 英伟达新技术训练NeRF模型 [机器之心](https://www.jiqizhixin.com/articles/2022-01-16)                                                                                                                                                                       |
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 | NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
-| BARF 🤮: Bundle-Adjusting Neural Radiance Fields (ICCV 2021 oral) [Chen-Hsuan Lin](https://www.youtube.com/watch?v=dCmCZs2Hpi0)                                                                                                             |
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |

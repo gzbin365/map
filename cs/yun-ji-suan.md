@@ -27,10 +27,18 @@
 | 基础架构即代码                                                                           |
 |                                                                                   |
 
+## 服务器
+
+|                                                                                                            |   |   |
+| ---------------------------------------------------------------------------------------------------------- | - | - |
+| Building a Gaming server with Proxmox Part 1 [Stradex Gaming](https://www.youtube.com/watch?v=kP7MKrd8Tqg) |   |   |
+|                                                                                                            |   |   |
+|                                                                                                            |   |   |
+
 ## 数据中心
 
 |                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 第101期: 数据中心关键技术和行业格局是什么？数据中心和云计算是什么关系？如何投资数据中心？(繁體字幕點cc) /資料中心關鍵技術和行業格局/Data Centre Investment [老科谈科技股](https://www.youtube.com/watch?v=q-jA0v1fl7M) |
-|                                                                                                                                                      |
+| Cloud Ninjas [u](https://www.youtube.com/channel/UCWrZIsFG0pwuuS7IE13LQNQ/playlists)                                                                 |
 |                                                                                                                                                      |
