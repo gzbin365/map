@@ -116,7 +116,7 @@ Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeC
 
 AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
 
-最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
+
 
 </details>
 

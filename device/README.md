@@ -308,6 +308,12 @@ description: 硬件设备
 | How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
 | How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
 
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| DJI AVATA来了！芜湖，这就是沉浸式飞行的感觉吗 [影像狗](https://www.douyin.com/video/7135816632395435295) |
+|                                                                                     |
+|                                                                                     |
+
 ### Engine
 
 |                                                                                                                                  |

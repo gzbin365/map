@@ -1,17 +1,19 @@
 # Hack
 
-|                                                                                       |                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 民主之刃([u](https://www.youtube.com/playlist?list=PLu30VEhCr7gTlLmphNC8pdJtr7yCv2GYP), ) | 砖家王二狗([u](https://www.youtube.com/channel/UCOlt070vR05dXxNejTilaMg/playlists), )                                                                                                                                   |
-| Cyberspatial([u](https://www.youtube.com/c/Cyberspatial/playlists), )                 | Zac Guo [u](https://www.youtube.com/c/ZacGuo/playlists)                                                                                                                                                            |
-| 红帽子教育 [u](https://www.youtube.com/channel/UC\_fKsJod28qALaZaO\_nFOtw/playlists)       | 逆向工程师Reverse [B](https://space.bilibili.com/14195062/)                                                                                                                                                             |
-| Motasem Hamdan [u](https://www.youtube.com/c/MotasemHamdaninfosec/playlists)          | 黑客张无忌 抖音号： [62446339085](https://www.douyin.com/user/MS4wLjABAAAAveFYwpIQrBdgdCFEa6GrPH65eqskXByzvH8hWgguVlY?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7004418049310739742\&is\_full\_screen=0) |
-| Hak5 [u](https://www.youtube.com/watch?v=lBxZL98uvdk)                                 | HackerSploit [u](https://www.youtube.com/c/HackerSploit/playlists)                                                                                                                                                 |
-|                                                                                       |                                                                                                                                                                                                                    |
+|                                                                                                                                |                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 民主之刃([u](https://www.youtube.com/playlist?list=PLu30VEhCr7gTlLmphNC8pdJtr7yCv2GYP), )                                          | 砖家王二狗([u](https://www.youtube.com/channel/UCOlt070vR05dXxNejTilaMg/playlists), )                                                                                                                                   |
+| Cyberspatial([u](https://www.youtube.com/c/Cyberspatial/playlists), )                                                          | Zac Guo [u](https://www.youtube.com/c/ZacGuo/playlists)                                                                                                                                                            |
+| 红帽子教育 [u](https://www.youtube.com/channel/UC\_fKsJod28qALaZaO\_nFOtw/playlists)                                                | 逆向工程师Reverse [B](https://space.bilibili.com/14195062/)                                                                                                                                                             |
+| Motasem Hamdan [u](https://www.youtube.com/c/MotasemHamdaninfosec/playlists)                                                   | 黑客张无忌 抖音号： [62446339085](https://www.douyin.com/user/MS4wLjABAAAAveFYwpIQrBdgdCFEa6GrPH65eqskXByzvH8hWgguVlY?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7004418049310739742\&is\_full\_screen=0) |
+| Hak5 [u](https://www.youtube.com/watch?v=lBxZL98uvdk)                                                                          | HackerSploit [u](https://www.youtube.com/c/HackerSploit/playlists)                                                                                                                                                 |
+| 影子不会说谎 抖音号：[YZ09098](https://www.douyin.com/user/MS4wLjABAAAAIbTrGgIE8-nPuGjWkjVFT9wGph0-iEEX8nqWVncwwnQUQHJawqSE5KPCZbiQavP5) |                                                                                                                                                                                                                    |
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 小甲鱼汇编语言教程（77集全） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fHkPdeNkZ\_gS0qxT\_y3qmF)                                                  |
+|                                                                                                                                                        |
+|                                                                                                                                                        |
+|                                                                                                                                                        |
 | QuickHacks [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbSrXqgnSTFbdFAiF4LYkxH)                                                   |
 | Privacy - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiS\_4OmkaZ\_0MV2snFENYeZA)                                               |
 | Time to Hack - Cracking passwords using only timing information [mCoding](https://www.youtube.com/watch?v=XThL0LP3RjY)                                 |
@@ -76,3 +78,9 @@
 | Log4J & JNDI Exploit: Why So Bad? - [Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)                                                |
 | Log4j2高危漏洞复现与分析 [Java面试题解惑.老杨](https://www.douyin.com/video/7040491608642473250)                                                                |
 
+| 汇编 Assembly Language                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| 小甲鱼汇编语言教程（77集全） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fHkPdeNkZ\_gS0qxT\_y3qmF)                            |
+| Assembly Language Programming with ARM – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gfmRrPjnEw4) |
+| Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)  |
+| How do computers read code? [Frame of Essence](https://www.youtube.com/watch?v=QXjU9qTsYCc)                                      |
