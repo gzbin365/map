@@ -308,14 +308,14 @@ description: 硬件设备
 | How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
 | How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
 
-| DJI                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DJI AVATA来了！芜湖，这就是沉浸式飞行的感觉吗 [影像狗](https://www.douyin.com/video/7135816632395435295)                                                                                        |
-| 飞不炸的无人机？！可室内穿越的DJI AVATA上手 [Mediastorm影视飓风](https://www.youtube.com/watch?v=kfhq25baKj8)                                                                                   |
-| 用DJI AVATA 试飞了十几个不同场景，可以给它下个结论了 [Colorbee Photography 彩蜂摄影生活杂志](https://www.youtube.com/watch?v=17CRpza-674)                                                               |
-| 大疆阿凡达！DJI AVATA 上手飞行体验：如何优雅的做一个“鸟人”？ [Nicholas Wang万能的恰恰](https://www.youtube.com/watch?v=C4koiVSMdOk)                                                                     |
-| [HeyDrones](https://www.youtube.com/watch?v=EsXmlFuU8SI)   [大狸子切切里](https://www.youtube.com/watch?v=n3GS9h2smjg)   [懷爸瘋科技](https://www.youtube.com/watch?v=6UV3U6gl91U)    |
-| 避晕车药                                                                                                                                                                       |
+| DJI                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DJI AVATA来了！芜湖，这就是沉浸式飞行的感觉吗 [影像狗](https://www.douyin.com/video/7135816632395435295)                                                                                                                                                      |
+| 飞不炸的无人机？！可室内穿越的DJI AVATA上手 [Mediastorm影视飓风](https://www.youtube.com/watch?v=kfhq25baKj8)                                                                                                                                                 |
+| 用DJI AVATA 试飞了十几个不同场景，可以给它下个结论了 [Colorbee Photography 彩蜂摄影生活杂志](https://www.youtube.com/watch?v=17CRpza-674)                                                                                                                             |
+| 大疆阿凡达！DJI AVATA 上手飞行体验：如何优雅的做一个“鸟人”？ [Nicholas Wang万能的恰恰](https://www.youtube.com/watch?v=C4koiVSMdOk)                                                                                                                                   |
+| [HeyDrones](https://www.youtube.com/watch?v=EsXmlFuU8SI)   [大狸子切切里](https://www.youtube.com/watch?v=n3GS9h2smjg)   [懷爸瘋科技](https://www.youtube.com/watch?v=6UV3U6gl91U)   [去西雅图偷飞机FPV](https://www.douyin.com/video/7135800487223282976) |
+| 避晕车药                                                                                                                                                                                                                                     |
 
 ### Engine
 
@@ -577,11 +577,11 @@ System on Chip, 系统级芯片
 
 ## 空调
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| 梅雨季潮潮潮，空调除湿模式是什么工作原理？ [我的老虎钳哪去了](https://www.youtube.com/watch?v=EkqDU1EcwEA) |
-|                                                                               |
-|                                                                               |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 梅雨季潮潮潮，空调除湿模式是什么工作原理？ [我的老虎钳哪去了](https://www.youtube.com/watch?v=EkqDU1EcwEA)                     |
+| 0.5匹移动空调，夏季高温户外露营救星？Ecoflow岚Wave【值不值得买第567期】 [TESTV](https://www.youtube.com/watch?v=740HJSMcZtA) |
+|                                                                                                   |
 
 ## 显示器 屏幕
 
@@ -932,6 +932,14 @@ System on Chip, 系统级芯片
 | 耳机王耳机维修团队 抖音号： [1555281682](https://www.douyin.com/user/MS4wLjABAAAA-3bNbN43Il3D9HoF1ebdcZO6WJRSWhwvvlWMEJOW1UY) |
 | 立志成为跳水冠军降噪耳机-索尼WH1000XM5【值不值得买第562期】 [TESTV](https://www.youtube.com/watch?v=Pd1e7c-E1RU)                        |
 |                                                                                                                  |
+
+### 声卡
+
+|                                                               |
+| ------------------------------------------------------------- |
+| [华艺之声官方旗舰店](https://www.douyin.com/video/7135092425009237288) |
+|                                                               |
+|                                                               |
 
 ### 麦克风
 
