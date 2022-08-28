@@ -227,6 +227,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 葡萄为何会在微波中产生等离子体 [Veritasium](https://www.youtube.com/watch?v=wCrtk-pyP0I)                                                                                                                                                                                                                                        |
 | 这个世界是由什么构成的？五行论与元素论有什么区别？[李永乐老师讲原子说](https://www.youtube.com/watch?v=QeCZt92BZCY)                                                                                                                                                                                                                                |
 | 速度是否可以叠加？[zh](https://www.zhihu.com/question/488630194)                                                                                                                                                                                                                                                          |
+| 精细结构常数 [科学探知](https://www.douyin.com/video/7120831198221339941)                                                                                                                                                                                                                                                  |
 
 |                                                                         |
 | ----------------------------------------------------------------------- |

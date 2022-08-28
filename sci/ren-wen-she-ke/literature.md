@@ -99,6 +99,3 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 世界著名的神秘情报机构 [Pisces丶落塵](https://zhuanlan.zhihu.com/p/82643224) |
 |                                                                |
 |                                                                |
-
-## 形容词
-
