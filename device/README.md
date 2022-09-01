@@ -182,7 +182,7 @@ description: 硬件设备
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
 | 教你从0到1升级自己的旧手机，让你家里成为云服务中心 [程序员阿灏](https://www.douyin.com/video/7131701871365852452) |
-|                                                                                      |
+| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                  |
 |                                                                                      |
 |                                                                                      |
 
@@ -272,7 +272,7 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------ | - |
 | Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) |   |
 |                                                                                            |   |
-|                                                                                            |   |
+| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                        |   |
 
 ## Drone / UAV
 
@@ -308,6 +308,20 @@ description: 硬件设备
 | How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
 | How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
 
+| DJI                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.dji.com/cn)   [store](https://store.dji.com/cn)   avata/[downloads](https://www.dji.com/cn/avata/downloads)   DJI Tutorials [u](https://www.youtube.com/c/DJITutorials/playlists)                                                                                                                                                                                                                             |
+| DJI AVATA来了！芜湖，这就是沉浸式飞行的感觉吗 [影像狗](https://www.douyin.com/video/7135816632395435295)                                                                                                                                                                                                                                                                                                                                           |
+| 飞不炸的无人机？！可室内穿越的DJI AVATA上手 [Mediastorm影视飓风](https://www.youtube.com/watch?v=kfhq25baKj8)                                                                                                                                                                                                                                                                                                                                      |
+| 用DJI AVATA 试飞了十几个不同场景，可以给它下个结论了 [Colorbee Photography 彩蜂摄影生活杂志](https://www.youtube.com/watch?v=17CRpza-674)                                                                                                                                                                                                                                                                                                                  |
+| 大疆阿凡达！DJI AVATA 上手飞行体验：如何优雅的做一个“鸟人”？ [Nicholas Wang万能的恰恰](https://www.youtube.com/watch?v=C4koiVSMdOk)                                                                                                                                                                                                                                                                                                                        |
+| [HeyDrones](https://www.youtube.com/watch?v=EsXmlFuU8SI)   [大狸子切切里](https://www.youtube.com/watch?v=n3GS9h2smjg)   [懷爸瘋科技](https://www.youtube.com/watch?v=6UV3U6gl91U)   [去西雅图偷飞机FPV](https://www.douyin.com/video/7135800487223282976)   [Ron Lee](https://www.youtube.com/watch?v=GnyEgt6yKmc)   [食食宅宅](https://www.youtube.com/watch?v=QnnGCO5JCqw)                                                                       |
+| [Matti Haapoja](https://www.youtube.com/watch?v=4vugwVkMYf4)   [Potato Jet](https://www.youtube.com/watch?v=LO9jHqv7pf4)   [DC Rainmaker](https://www.youtube.com/watch?v=N\_dKeZd9Olc)   [Jeven Dovey](https://www.youtube.com/watch?v=YY30YZlvCU8)   [OriginaldoBo](https://www.youtube.com/watch?v=tskiP228JqE)   [DJI](https://www.youtube.com/watch?v=tU8BuomMd-4)   [波風水門](https://www.youtube.com/watch?v=9kM1TRE7Gtk) |
+| [Denis Barbas](https://www.youtube.com/watch?v=\_mgf2hjX7jg)   [UNWIRE.HK](https://www.youtube.com/watch?v=3ISq7-N\_GIU)   [小宁子](https://www.youtube.com/watch?v=Fyd5xjjPZ6E)   [Men's Game 玩物誌](https://www.youtube.com/watch?v=WoCNnZoJCtI)   [先創國際股份有限公司](https://www.youtube.com/watch?v=Zllr\_R9gZRo)                                                                                                                    |
+| [我是老爸,我不要當爸!](https://www.youtube.com/watch?v=vuL1SH587j8)                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 避晕车药                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
 ### Engine
 
 |                                                                                                                                  |
@@ -332,7 +346,7 @@ description: 硬件设备
 | Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                   |
 | RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                   |
 | Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague) |
-| NURK FPV [u](https://www.youtube.com/c/NURKFPV)             |                                                                                         |                                                                         |
+| NURK FPV [u](https://www.youtube.com/c/NURKFPV)             | 自目THEMODE [B](https://space.bilibili.com/409193927/)                                    |                                                                         |
 
 ### Nano
 
@@ -568,11 +582,11 @@ System on Chip, 系统级芯片
 
 ## 空调
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| 梅雨季潮潮潮，空调除湿模式是什么工作原理？ [我的老虎钳哪去了](https://www.youtube.com/watch?v=EkqDU1EcwEA) |
-|                                                                               |
-|                                                                               |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 梅雨季潮潮潮，空调除湿模式是什么工作原理？ [我的老虎钳哪去了](https://www.youtube.com/watch?v=EkqDU1EcwEA)                     |
+| 0.5匹移动空调，夏季高温户外露营救星？Ecoflow岚Wave【值不值得买第567期】 [TESTV](https://www.youtube.com/watch?v=740HJSMcZtA) |
+| 耗资 10 万，盖了 9 间房，告诉你哪台空调最省电 [先看评测](https://www.youtube.com/watch?v=HWWL53c6Kk0)                    |
 
 ## 显示器 屏幕
 
@@ -923,6 +937,14 @@ System on Chip, 系统级芯片
 | 耳机王耳机维修团队 抖音号： [1555281682](https://www.douyin.com/user/MS4wLjABAAAA-3bNbN43Il3D9HoF1ebdcZO6WJRSWhwvvlWMEJOW1UY) |
 | 立志成为跳水冠军降噪耳机-索尼WH1000XM5【值不值得买第562期】 [TESTV](https://www.youtube.com/watch?v=Pd1e7c-E1RU)                        |
 |                                                                                                                  |
+
+### 声卡
+
+|                                                               |
+| ------------------------------------------------------------- |
+| [华艺之声官方旗舰店](https://www.douyin.com/video/7135092425009237288) |
+|                                                               |
+|                                                               |
 
 ### 麦克风
 
