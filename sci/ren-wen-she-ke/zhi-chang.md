@@ -52,6 +52,7 @@ Learn to Code [git](https://github.com/collections/learn-to-code)
 | 面试中怎么介绍项目 [Super产品林木](https://www.douyin.com/video/7042626932051135751)                                                                                 |
 | 面试招聘我们应该提什么样的问题，才能更快更专业的了解面试者 [赵玉平老师讲国学](https://www.douyin.com/video/7035554413209062670)                                                              |
 | How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)　[The AI Epiphany](https://www.youtube.com/watch?v=SgaN-4po\_cA) |
+| 一招识别割韭菜的职业技能证书 [薅知识](https://www.douyin.com/video/7119866233327045919)                                                                                  |
 
 ## 社保
 
