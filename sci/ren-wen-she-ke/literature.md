@@ -35,6 +35,14 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 |                                                               |
 |                                                               |
 
+## 汉字
+
+|                                                                             |   |   |
+| --------------------------------------------------------------------------- | - | - |
+| 72岁美国人首创汉字字源网站 [CMG海外影像节](https://www.douyin.com/video/7137289657561173261) |   |   |
+|                                                                             |   |   |
+|                                                                             |   |   |
+
 ## 小说
 
 |                                                                                                                                         |                                                                                                                 |
@@ -69,7 +77,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 喜马讲书 [u](https://www.youtube.com/c/%E5%96%9C%E9%A9%AC%E8%AE%B2%E4%B9%A6youtube/playlists)                      | 维尼读书 [u](https://www.youtube.com/channel/UC4QYUbIvTg0lntnGhqAn8-w/playlists)                                                                                                                                                                                                                  |
 | 芝士份子Cheesy Intellectuals [u](https://www.youtube.com/channel/UCFHfsJRqLK44B7GnAYErv-Q)                         | 有一听书 [u](https://www.youtube.com/channel/UCH-UDbQbO1EK3wJDyVNlOsQ/playlists)                                                                                                                                                                                                                  |
 | 每天听书 Wise AudioBooks [u](https://www.youtube.com/channel/UClCm\_LVCdQ4RP3Veej-hSxw)                            | 流水浮舟 [u](https://www.youtube.com/channel/UCuJIYSvLamhpYM0YCCRb1Ag)                                                                                                                                                                                                                            |
-|                                                                                                                |                                                                                                                                                                                                                                                                                               |
+|                                                                                                                | 艺苑风采 [u](https://www.youtube.com/user/CharleYouT)                                                                                                                                                                                                                                             |
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
@@ -99,3 +107,6 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 世界著名的神秘情报机构 [Pisces丶落塵](https://zhuanlan.zhihu.com/p/82643224) |
 |                                                                |
 |                                                                |
+
+## 形容词
+
