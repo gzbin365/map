@@ -144,6 +144,7 @@ description: 机器学习
 | 白板推导系列 shuhuai008 [u](https://www.youtube.com/channel/UCKOejif1m6GLfKTEE4Xvd0A/playlists) [B](https://space.bilibili.com/97068901/video?tid=0\&page=1\&keyword=\&order=pubdate)                                                                                                                                                                             | 容噗玩Data [u](https://www.youtube.com/channel/UCmWCMqDKCR56pqd10qNkv3Q/playlists)                                                                                                                                                                                                                                                                                                                                                                     |
 | Justin Solomon [u](https://www.youtube.com/c/justinmsolomon/playlists)                                                                                                                                                                                                                                                                                      | WsCube Tech! ENGLISH [u](https://www.youtube.com/c/WsCubeTechENGLISH/playlists)                                                                                                                                                                                                                                                                                                                                                                     |
 | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)                                                                                                                                                                                                                                                                 | 就是不吃草的羊 [B](https://space.bilibili.com/524111667)                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Artificial Intelligence and Blockchain [u](https://www.youtube.com/c/ArtificialIntelligenceandBlockchain)                                                                                                                                                                                                                                                   | Colin Galen [u](https://www.youtube.com/c/ColinGalen/videos)                                                                                                                                                                                                                                                                                                                                                                                        |
 
 |                                                               |
 | ------------------------------------------------------------- |
@@ -173,6 +174,7 @@ description: 机器学习
 | [**ryan adams**](https://www.youtube.com/results?search\_query=ryan+adams\&sp=EhqSARcKCS9tLzAxNjd2NCoKcnlhbiBhZGFtc3gB)                       | [**yisong yue**](https://www.youtube.com/results?search\_query=yisong+yue\&sp=Eh6SARsKDS9nLzExZHhxMGJoNncqCnlpc29uZyB5dWV4AQ%253D%253D)                                                     |
 | **Rachel Thomas(**[**u2b**](https://www.youtube.com/channel/UC\_pSCYWbMn4JcsxbWOzkgEQ/featured)**, )**                                        | [**Ian Goodfellow**](https://www.youtube.com/results?search\_query=Ian+Goodfellow)                                                                                                          |
 | **Deep Sort(**[**blog**](https://www.cnblogs.com/bupt213/p/11205945.html)**, )**                                                              | **Yannic Kilcher(**[**u**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)**,** [**git**](https://github.com/yk)**(**[**v**](https://www.youtube.com/watch?v=RZ7JiAk9azY)**), )** |
+|                                                                                                                                               | 茶米老師教室 [u](https://www.youtube.com/c/edreamerTW)                                                                                                                                            |
 
 | fast.ai                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -260,6 +262,8 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Invited Talk: [PyTorch Distributed (DDP, RPC)](https://www.youtube.com/watch?v=3XUG7cjte2U) - By Facebook Research Scientist Shen Li                                                                                                                             |
 | 7 PyTorch Tips You Should Know [Edan Meyer](https://www.youtube.com/watch?v=BoC8SGaT3GE)                                                                                                                                                                         |
 | Learn PyTorch for deep learning in a day. Literally. [Daniel Bourke](https://www.youtube.com/watch?v=Z\_ikDlimN6A)                                                                                                                                               |
+| PyTorch Transfer Learning with a ResNet - Tutorial [langfab](https://www.youtube.com/watch?v=t6oHGXt04ik)                                                                                                                                                        |
+| How to Install PyTorch GPU for Mac M1/M2 with Conda [Jeff Heaton](https://www.youtube.com/watch?v=VEDy-c5Sk8Y)                                                                                                                                                   |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -271,6 +275,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Image Generation using GANs \| [Part 6 of 6](https://www.youtube.com/watch?v=QpR4QEv5Urk)                                                                                    |
 | PyTorch: Zero to GANs Dhanabhon [Subha-asavabhokhin](https://www.youtube.com/playlist?list=PLdTEBuX3UuhY2UoT5l3Lw\_bu3qywo5GPI)                                              |
 | Deep Learning with PyTorch: Zero to GANs [Jovian](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)                                                  |
+|                                                                                                                                                                              |
 
 |   |   |
 | - | - |
@@ -471,6 +476,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022 人人有功練：資料科學深度學習 [茶米老師教室](https://www.youtube.com/playlist?list=PLExLEp0NoLtjXnlqD-kfd9F7g4bALrvRd)                                                                                                        |
 | Deep Learning [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfau\_eJKVhiaLaqIXCT0F-\_)                                                                                              |
 | Learn TensorFlow and Deep Learning (beginner friendly code-first introduction) [**Daniel Bourke**](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)                                  |
 | Neural Networks from Scratch in Python（[sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)）                                                                                   |
@@ -646,6 +652,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 |                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- |
+| What is Random Forest? [IBM Technology](https://www.youtube.com/watch?v=gkXX4h3qYm4)                                   |
 | Random Forests [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk) |
 | 算法：随机森林与集成算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZuhR-QwjHYzNHhnAWNWKsu)                         |
 | 一套完整的基于随机森林的机器学习流程（特征选择、交叉验证、模型评估））[生信宝典](https://mp.weixin.qq.com/s/SNXp5\_6zWKarbbcG5GXIfA)                          |
@@ -1096,11 +1103,19 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | ROC and AUC, Clearly Explained! [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=4jRBRDbJemM)                     |
 | 145 - Confusion matrix, ROC and AUC in machine learning [DigitalSreeni](https://www.youtube.com/watch?v=Joh3LOaG8Q0)           |
-|                                                                                                                                |
+| 实操揭秘数据标注项目的套路，有点得罪人了，阅后删 [月下跑项目](https://www.douyin.com/video/7132425347831696647)                                             |
 |                                                                                                                                |
 | Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf) |
 |                                                                                                                                |
 |                                                                                                                                |
+
+## 数据增强
+
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| RubanSeven/[Text-Image-Augmentation-python](https://github.com/RubanSeven/Text-Image-Augmentation-python) |
+|                                                                                                           |
+|                                                                                                           |
 
 ## 数据不均衡 imbalanced data&#x20;
 
@@ -1133,6 +1148,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Data Visualization Using Python BOKEH \| Python Bokeh Dashboard \| Full Course [Tangoo Express](https://www.youtube.com/watch?v=ILKX5JEixcQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Python数据可视化详解大全-从简单到完善到高级设置（Matplotlib/Seaborn/Plotly/常用统计图形）[云开见明教育科技](https://www.bilibili.com/video/BV1eJ411H79t)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Automatically Visualize Datasets with AutoViz in Python [NeuralNine](https://www.youtube.com/watch?v=68T3timvdt8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| EdrawMax [v](https://www.youtube.com/watch?v=mIhPdjDC4Z4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 | Tableau                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1174,6 +1190,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Ultimate Guide to Diffusion Models \| ML Coding Series \| Denoising Diffusion Probabilistic Models [The AI Epiphany](https://www.youtube.com/watch?v=y7J6sSO1k50) |
 | Diffusion models [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh\_5Wx-O)                                                     |
 | Exploring the NEW Hugging Face Diffusers Package \| Diffusion Models w/ Python [Nicholas Renotte](https://www.youtube.com/watch?v=P-rzgaIfZCo)                    |
+|                                                                                                                                                                   |
 
 ## 基础模型 Foundation Models
 
@@ -1342,6 +1359,8 @@ ESL
 | guillaume-chevalier/[Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)                                                                                                                                                                                                      |
 | 什么是 MLOps? [Morgan Yong](https://zhuanlan.zhihu.com/p/392216271)                                                                                                                                                                                                                                                                   |
 | ml-tooling/[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)   项目包括：机器学习框架、数据可视化、图像、NLP和文本、图、金融领域、时间序列等等，内容非常全                                                                                                                                                                                                  |
+| 7 FREE A.I. tools for YOU today! (plus 1 bonus!) [Artificial Intelligence and Blockchain](https://www.youtube.com/watch?v=Q4fXbkR6TZ8)                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                    |
 
 <details>
 
