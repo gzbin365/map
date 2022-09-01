@@ -175,11 +175,11 @@ LDA 文档聚类 plsa lsa
 
 ### 词向量
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學         |
-| Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U) |
-|                                                                                                 |
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學 |
+|                                                                                         |
+|                                                                                         |
 
 ### 文本分类
 
@@ -387,12 +387,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-|                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA)                              |
-| How to Transcribe Multiple Languages \| Spanish, German, Japanese and more! [AssemblyAI](https://www.youtube.com/watch?v=DwxmKKD8c3s) |
-| 亲爱的翻译官 抖音号：[dyx234t8wnfi](https://www.douyin.com/user/MS4wLjABAAAA5ue9TxnJBVb3yjl6VAmTwZMyXw0gw1BqSqeNmXcCwu7cRPX1P3pb2rE\_EqWjflos)  |
-|                                                                                                                                       |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA) |
+|                                                                                                          |
+|                                                                                                          |
 
 ### Attention
 
@@ -440,9 +439,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM)                            |
 | \[ML News] BLOOM: 176B Open-Source \| Chinese Brain-Scale Computer \| Meta AI: No Language Left Behind [Yannic Kilcher](https://www.youtube.com/watch?v=W3mrgqtm5R4) |
-| Google's New Model Solves College-Level Math Problems [Edan Meyer](https://www.youtube.com/watch?v=jJDi\_Oqs30E)                                                     |
-| $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                    |
-|                                                                                                                                                                      |
 |                                                                                                                                                                      |
 
 ### Causal Inference
@@ -460,17 +456,15 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
 | CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                          |
-| 【[苏星河短评](https://www.douyin.com/video/7126161576586906910)】你看过的许多文章，可能根本不是人类写的                                                                                       |
 
 ### 代码生成
 
-|                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                                                                    |
-| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)                                                               |
-| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs)                                                 |
-| \[ML News] AI models that write code (Copilot, CodeWhisperer, Pangu-Coder, etc.) [Yannic Kilcher](https://www.youtube.com/watch?v=\_9aN1-0T8hg) |
-|                                                                                                                                                 |
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                    |
+| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)               |
+| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs) |
+|                                                                                                 |
 
 #### OpenAI Codex
 
