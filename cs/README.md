@@ -116,7 +116,7 @@ Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeC
 
 AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
 
-
+最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
 
 </details>
 
@@ -469,7 +469,7 @@ Computer Components？Computer Architecture？
 | <p>掌简单说网络1-计算机是如何通信的？IP地址与mac地址是什么？dhcp与arp又是什么？ <a href="https://www.youtube.com/watch?v=DM1owMey-nQ">掌芝士</a></p><p>交换机和路由器有什么区别？网关和路由又是什么意思？简单说网络 <a href="https://www.youtube.com/watch?v=HmscVF3vKQs">掌芝士</a></p><p>家庭网络如何通过路由器上网？源地址转换和目标地址转换时什么？ <a href="https://www.youtube.com/watch?v=N-7mHEMHH-A">掌芝士</a></p><p>一条视频讲清楚TCP协议与UDP协议-什么是三次握手与四次挥手? <a href="https://www.youtube.com/watch?v=Iuvjwrm_O5g">掌芝士</a></p><p>隧道网络-VPN-小火箭 一条视频讲清楚 <a href="https://www.youtube.com/watch?v=YhASZ2ay4rA">掌芝士</a></p> |
 | 互联网是如何工作的？VPN、SSR、V2ray翻墙是什么原理？ [啃芝士](https://www.youtube.com/watch?v=iidqJ7p7ln4)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 【[司波图](https://www.youtube.com/watch?v=rj1yxHQj8G0)】基于Wireguard组网技术的内网穿透教程                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
