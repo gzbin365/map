@@ -1,10 +1,10 @@
 # 法律
 
-|                                        |   |
-| -------------------------------------- | - |
-| [中国裁判文书网](https://wenshu.court.gov.cn) |   |
-|                                        |   |
-|                                        |   |
+|                                         |   |
+| --------------------------------------- | - |
+| [中国裁判文书网](https://wenshu.court.gov.cn/) |   |
+|                                         |   |
+|                                         |   |
 
 |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 |                                                                                                                                        | 大连沈律师 抖音号： [338858505](https://www.douyin.com/user/MS4wLjABAAAASseGqBZX6Ifei3Lqn1iQRNP1tNIvjOaDLmIX5zy2ImI)                                                                                                                                                                                                                                       |
 | 龙飞律师 抖音号： [PuFa1314](https://www.douyin.com/user/MS4wLjABAAAA2rxtVGwx98EnrJDhjuWlPyQD8frzAIEY5MIWsiTNVzM)                              | 晨辉律师　抖音号： [chenhuilawyer1](https://www.douyin.com/user/MS4wLjABAAAASuOSksJ0OwmHuuSRFA-rnL4rjhLW9RdL9wS56JOFLSY)                                                                                                                                                                                                                                   |
 |                                                                                                                                        | 罗欢平律师团队直播号 抖音号： [123456huan123456](https://www.douyin.com/user/MS4wLjABAAAAuw1LNVEZ8khSrxYDfNvvV1zpM85QkyBIAmVdg5Y5lbY)                                                                                                                                                                                                                           |
-|                                                                                                                                        | 李昱晓 抖音号： [615000200](https://www.douyin.com/user/MS4wLjABAAAAFS\_6jVGulPslD22DWlKRJvOX\_wdGhQTvZOpblushq9g)                                                                                                                                                                                                                                       |
+| 袁啸（股权与哲学思考者） 抖音号：[355742355](https://www.douyin.com/user/MS4wLjABAAAArkkCk-qXor6yFfPj06TgpHv8Jeu9qia99qUA5gySCyw)                      | 李昱晓 抖音号： [615000200](https://www.douyin.com/user/MS4wLjABAAAAFS\_6jVGulPslD22DWlKRJvOX\_wdGhQTvZOpblushq9g)                                                                                                                                                                                                                                       |
 
 | 罗翔                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,3 +35,8 @@
 | 《追寻法治之光》罗永浩专访罗翔 [KoalaTV](https://www.youtube.com/watch?v=oxYuRZqm8UY)                                                                                                                                                                                                                               |
 | 刑法学讲义                                                                                                                                                                                                                                                                                                |
 
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| 中华人民共和国宪法 [gov](http://www.gov.cn/guoqing/2018-03/22/content\_5276318.htm) |
+|                                                                            |
+|                                                                            |

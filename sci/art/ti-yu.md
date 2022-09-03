@@ -2,14 +2,6 @@
 
 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)
 
-## 斗地主
-
-|                                                                        |   |   |
-| ---------------------------------------------------------------------- | - | - |
-| 欢乐斗地主 [u](https://www.youtube.com/channel/UCx\_\_RZbs87HJyt9cin\_aFZg) |   |   |
-|                                                                        |   |   |
-|                                                                        |   |   |
-
 ## 围棋
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -35,10 +27,10 @@
 
 ## 武术
 
-|                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| 《局面》經典節目:王局專訪太極掌門馬保國; [王志安](https://www.youtube.com/watch?v=ZapTCgZzVec)                                                             |
-| 龙泉市登峰剑铺 抖音号：[46808004018](https://www.douyin.com/user/MS4wLjABAAAAJTA5Y-YeMYTCWZsPy\_siPcV5Xndod8zg8vtpG5Ul7JDIWKrl0eMw5IFQMFmeocIO) |
-|                                                                                                                                      |
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| 《局面》經典節目:王局專訪太極掌門馬保國; [王志安](https://www.youtube.com/watch?v=ZapTCgZzVec) |
+|                                                                          |
+|                                                                          |
 
 ## 其他
