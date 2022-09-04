@@ -10,11 +10,12 @@
 
 ## 设计
 
-| 设计导航                                    |                                                  |
-| --------------------------------------- | ------------------------------------------------ |
-| [设计导航](https://hao.shejidaren.com/)     | [设计师导航](https://nice001.com/)                    |
-| [设计星球](https://convenient.work/design/) | [万达设计](http://www.wandasheji.com/)               |
-| [时刻设计导航](https://hao.sicoll.com/)       | 墨鱼设计学院 [B](https://space.bilibili.com/480420117) |
+| 设计导航                                    |                                                                                                    |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [设计导航](https://hao.shejidaren.com/)     | [设计师导航](https://nice001.com/)                                                                      |
+| [设计星球](https://convenient.work/design/) | [万达设计](http://www.wandasheji.com/)                                                                 |
+| [时刻设计导航](https://hao.sicoll.com/)       | 墨鱼设计学院 [B](https://space.bilibili.com/480420117)                                                   |
+|                                         | x14studio [u](https://www.youtube.com/channel/UCPSSbBEd8fxExDAWbUTIIJA/videos) Modern House Design |
 
 |                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -132,9 +133,10 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 ### 3Dmax
 
-|                                                                                       |                                                                                       |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9) | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
+|                                                                                                                                        |                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9)                                                  | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
+| 3D游戏建模师卡尔 抖音号：[26898689969](https://www.douyin.com/user/MS4wLjABAAAArsbRrnf5Ut9GR4IlRopOr1JO1ICDl7oNNvaYo62R9T3rvuFyI\_81nxBErRy26RDH) | 3D建模教学 [u](https://www.youtube.com/channel/UCqNCv7rltsMGxR3kxGcBrfg)                  |
 
 |                                                                                |                                                                                |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -154,7 +156,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                     |
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                           |
 | Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                        |
-| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)                                                                                |
+| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)   Polygon Runway [u](https://www.youtube.com/c/PolygonRunway)                  |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                     |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                            |
 | Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                        |
@@ -217,5 +219,5 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |                                                                                                            |   |
 | ---------------------------------------------------------------------------------------------------------- | - |
 | 天合后期老毛 抖音号： [hqlm999](https://www.douyin.com/user/MS4wLjABAAAAgFU11AaduuCNSEoE8vlgeCyy24wKI1xCeoasDVo7CPU) |   |
-|                                                                                                            |   |
+| 特效小哥的神之操作，假的不光可以是背景～ [冥天游戏带你飞](https://www.douyin.com/video/7130480600233905415)                           |   |
 |                                                                                                            |   |
