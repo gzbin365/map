@@ -403,7 +403,6 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 | Selenium自动化测试实战 [极客时间](https://time.geekbang.org/course/intro/100055601)                                                                                               |
 | 【python】selenium 网页自动化、网路爬虫 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=ximjGyZ93YQ)                                                                           |
 | Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=j7VZsCCnptM)                  |
-| Selenium Browser Automation in Python [NeuralNine](https://www.youtube.com/watch?v=SPM1tm2ZdK4)                                                                        |
 | How To Hack The Google Chrome Dinosaur Game \[PYTHON] \| Only 10 Lines Of Coding \| Pyautogui \| Numpy [Know-How](https://www.youtube.com/watch?v=QAAd9KyvclY)         |
 | How to make advanced image recognition bots using python [Kian Brose](https://www.youtube.com/watch?v=YRAIUA-Oc1Y)                                                     |
 | How to convert image to text using python [Kian Brose](https://www.youtube.com/watch?v=fFOdqjBnSBw)                                                                    |
@@ -479,7 +478,6 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | <p>How To Create A Desktop Application Using Python And Tkinter</p><p><a href="https://medium.com/analytics-vidhya/how-to-create-a-desktop-application-using-python-and-tkinter-25b6347cf845">Mohammed El Amine Mokhtari</a></p> |
 | Build a Weather app with Python and Tkinter [DevUpskill net](https://www.youtube.com/watch?v=7JoMTQgdxg0)                                                                                                                        |
 | Create GUI App with Tkinter and SQLite - Step by Step Python Tutorial for Beginners [Python Simplified](https://www.youtube.com/watch?v=5qOnzF7RsNA)                                                                             |
-| Tkinter Beginner Course - Python GUI Development [NeuralNine](https://www.youtube.com/watch?v=ibf5cx221hk)                                                                                                                       |
 
 | PyQt                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -766,7 +764,6 @@ Python高性能编程
 | Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                      |
 | Python+Django网站开发系列 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tH1E0\_0d1\_kweQKpJzhw\_z9)                                            |
 | Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                 |
-| PyScript is Python in Your Browser [NeuralNine](https://www.youtube.com/watch?v=MJvCeKwr4z4)                                                              |
 | Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                          |
 |                                                                                                                                                           |
 
@@ -852,8 +849,6 @@ Python网络编程 [Shadowalker](https://www.youtube.com/playlist?list=PLpu5MZcF
 | How to Convert HTML to PDF using Python [buckmasterinstitute](https://www.youtube.com/watch?v=9DP5Nkw7LEY)    |
 | JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit)  HTML to PDF wrapper                      |
 | wmjordan/[PDFPatcher](https://github.com/wmjordan/PDFPatcher) PDF补丁丁 [s](https://www.cnblogs.com/pdfpatcher/) |
-| Merge PDF Files in Python [NeuralNine](https://www.youtube.com/watch?v=4gZgWXJpX-w)                           |
-| Extract PDF Content with Python [NeuralNine](https://www.youtube.com/watch?v=w2r2Bg42UPY)                     |
 |                                                                                                               |
 
 ### CSV
