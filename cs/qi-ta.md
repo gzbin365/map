@@ -432,7 +432,7 @@
 | 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                   |
 | Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
 | ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                           |
-|                                                                                                                                                                                                              |
+| VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                   |
 
 ## 架构
 
