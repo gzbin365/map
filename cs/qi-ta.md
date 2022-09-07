@@ -296,6 +296,7 @@
 | Unreal Engine & C++ Tutorial - 1st Person Shooter Game [freeCodeCamp](https://www.youtube.com/watch?v=4HoJIgyclZ4)                                                       |
 | Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)                                                                                                                |
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
+| MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 
 ## 3D Graphics Engine
 
@@ -432,7 +433,7 @@
 | 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                   |
 | Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
 | ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                           |
-|                                                                                                                                                                                                              |
+| VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                   |
 
 ## 架构
 
