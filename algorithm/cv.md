@@ -285,7 +285,7 @@ import cv2
 | Talk \| 香港中文大学（深圳）计算机信息工程在读博士生郑超达：以运动为导向的点云单目标跟踪 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=epA4WZ17SEc)                                                                |
 | Object Tracking from scratch with OpenCV and Python [Pysource](https://www.youtube.com/watch?v=GgGro5IV-cs)                                                                    |
 | Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
-|                                                                                                                                                                                |
+| YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
 
 ### Visual Recognition
 

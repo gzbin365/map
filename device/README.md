@@ -230,13 +230,13 @@ description: 硬件设备
 | -------------------------------------------------------------------------- | - |
 | 最新掌上型主機 Steam Deck [Sky game](https://www.youtube.com/watch?v=O40Amrc6Yho) |   |
 
-## 主机
+## PC主机
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| New Machine for the Sentdex Fleet: The Puget [sentdex](https://www.youtube.com/watch?v=sUbTomWUvZk) |
-| 【Huan】 我用2500元組了一台6核心的剪輯電腦! [Huan](https://www.youtube.com/watch?v=jIV1k5OHkQk)                     |
-|                                                                                                     |
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| New Machine for the Sentdex Fleet: The Puget [sentdex](https://www.youtube.com/watch?v=sUbTomWUvZk)                                 |
+| 【Huan】 我用2500元組了一台6核心的剪輯電腦! [Huan](https://www.youtube.com/watch?v=jIV1k5OHkQk)                                                     |
+| The Quad Socket 64 Core Opteron Monster – The Most Insane Desktop PC [Fully Buffered](https://www.youtube.com/watch?v=HvZU\_-ybpgg) |
 
 ## ITX主机
 
@@ -267,13 +267,13 @@ description: 硬件设备
 | ROG 枪神6Plus超竞版评测: 2022旗舰级处理器+双液金散热！\| [笔吧评测室](https://www.youtube.com/watch?v=lfCuabADWaM)                                                        |
 | 旧笔记本改造再利用，教你DIY爆改平板电脑！！旧笔记本更换电池，超详细教程小白也会做\~真香 [BIG的梦想](https://www.youtube.com/watch?v=4DU8CcOuAEI)                                              |
 
-## 平板 Tablet
+## 平板 Tablet, Pad
 
-|                                                                                            |   |
-| ------------------------------------------------------------------------------------------ | - |
-| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) |   |
-|                                                                                            |   |
-| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                        |   |
+|                                                                                            |                                                                                          |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) | 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享 |
+|                                                                                            |                                                                                          |
+| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                        |                                                                                          |
 
 ## Drone / UAV
 
