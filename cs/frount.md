@@ -268,12 +268,17 @@
 
 HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.youtube.com/watch?v=PlxWf493en4)
 
+HTML Tutorial for Beginners: HTML Crash Course [Programming with Mosh](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+
+HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
+
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
 ### CSS
 
 |                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CSS for Beginners 🎨 [Bro Code](https://www.youtube.com/watch?v=wRNinF7YQqQ)                                                                                                               |
 | 麦子学院-利用Sass编写高质量CSS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbNkUTsKNXovhiN0iPXCzTO) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx3QnzKg5uCIKz4BMb9fBQd) |
 | Sass Tutorial for Beginners - CSS With Superpowers [freeCodeCamp](https://www.youtube.com/watch?v=\_a5j7KoflTs)                                                                            |
 | CSS [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SeTVVqMM3kySJx0RPSsc9Mn)                                                                                                 |
@@ -289,7 +294,7 @@ HTML Tutorial - How to Make a Super Simple Website [freeCodeCamp](https://www.yo
 | Create a Design System with CSS - Web Development Course [freeCodeCamp](https://www.youtube.com/watch?v=lRaL-8qZ0mM)                                                                       |
 | CSS Full Course \| CSS Tutorial For Beginners \| CSS Interview Questions And Answers \| [Simplilearn](https://www.youtube.com/watch?v=J5KxiOnIrKg)                                         |
 | Can I Create A Deck Of Cards With CSS? Web Dev [Simplified](https://www.youtube.com/watch?v=iEPK5fppX8w)                                                                                   |
-|                                                                                                                                                                                            |
+| How To Make Website Using HTML CSS \| Crete Full Website Step by Step Tutorial [Easy Tutorials](https://www.youtube.com/watch?v=lBfshkPlMW8)                                               |
 
 ## JavaScript
 
