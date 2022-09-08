@@ -68,11 +68,11 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
 | Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                     |
 | Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                            |
-|                                                                                                                                                                                                                                             |
+| 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                                   |
 
-| pillow                                                             |                                                 |   |   |
-| ------------------------------------------------------------------ | ----------------------------------------------- | - | - |
-| [doc](https://pillow.readthedocs.io/en/latest/handbook/index.html) | [git](https://github.com/python-pillow/Pillow/) |   |   |
+| pillow                                                             |                                                 |   |
+| ------------------------------------------------------------------ | ----------------------------------------------- | - |
+| [doc](https://pillow.readthedocs.io/en/latest/handbook/index.html) | [git](https://github.com/python-pillow/Pillow/) |   |
 
 ### Mediapipe
 
