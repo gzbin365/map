@@ -33,6 +33,14 @@ description: 好好睡觉 好好干饭
 | 人脑神经网络的那些bug们 [技术喵](https://www.youtube.com/watch?v=trpBt6Kj8Z4)                                            |
 |                                                                                                             |
 
+### 植物
+
+|                                                                                                                                     |   |   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| 水果猎人杨晓洋 抖音号：[81549622105](https://www.douyin.com/user/MS4wLjABAAAAvVwfkKT3Fn8soFrqSffBPTcJK83m0nfmxbmgCF8kOPhWsPPoX2OQziJh23lMQ1pf) |   |   |
+|                                                                                                                                     |   |   |
+|                                                                                                                                     |   |   |
+
 ### 宠物
 
 |                                                                                                               |   |

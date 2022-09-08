@@ -672,26 +672,25 @@ System on Chip, 系统级芯片
 |                                                                                                            |
 |                                                                                                            |
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
-| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
-| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                        |
-| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                             |
-| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                                |
-| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)      |
-| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                                  |
-| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                                  |
-| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                         |
-| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                                  |
-| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                 |
-| NAS挂载到外网 异地备份 多重冗余                                                                                                      |
-| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                          |
-| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                    |
-| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                         |
-| 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB |
-| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)                    |
-| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                             |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                             |
+| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                     |
+| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                   |
+| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                        |
+| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                           |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc) |
+| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                             |
+| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                             |
+| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                    |
+| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                             |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                            |
+| NAS挂载到外网 异地备份 多重冗余                                                                                                 |
+| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                     |
+| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)               |
+| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                    |
+| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)               |
+| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                        |
 
 ## 数据恢复
 

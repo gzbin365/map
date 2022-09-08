@@ -545,8 +545,6 @@
 | Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
 | How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
 | GFKDW-3TWB7-3D3C4-37B7M-KFTFC [s](http://www.qiteb.com/17080.html)                                                                                                |
-| 给手机装Windows11！还能玩大型游戏？！ [极客湾Geekerwan](https://www.youtube.com/watch?v=4QnVNkZVnfc)                                                                               |
-| 【[Fun科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE)】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？                                                                      |
 
 ### Edge
 
