@@ -27,7 +27,7 @@
 | 课程-篆刻、书法、水墨画体验与欣赏 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9yJesypR9H3nVTCwaPqL51d)                                                                                                                                                                                                              |
 | 闻诌诌 抖音号： [175881061](https://www.douyin.com/user/MS4wLjABAAAA5Y9kUBVYSY0JhRML9ThF9GJ6kIPhDJ4BjaOxMokkIOo?author\_id=82737222114\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7011518862508313892\&group\_id=7011518862508313892\&log\_pb=%7B%22impr\_id%22%3A%222021100906594801021206119917134B58%22%7D) |
 | 神棋书店　抖音号： [gaoxiaolianzi](https://www.douyin.com/user/MS4wLjABAAAAe-Dmb5OPpi10pwseFqbu9G0shWfXLw2OvGovphOlMNWmoRBm2cU8VIPVDlAgVAzz)                                                                                                                                                                                            |
-| Qi momo 祁么么 [u](https://www.youtube.com/channel/UC5zVjJwX68xUieT-I3JG1fQ)                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                |
 
@@ -37,14 +37,6 @@
 | --------------------------------------------------------------------------- | - |
 | Sadhguru 繁體中文 [u](https://www.youtube.com/channel/UCSaNMML9AAXTN4142jD-dxw) |   |
 
-## 道
-
-|                                                                                                             |   |   |
-| ----------------------------------------------------------------------------------------------------------- | - | - |
-| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w) |   |   |
-|                                                                                                             |   |   |
-|                                                                                                             |   |   |
-
 ## 佛
 
 |                                                                                                                                                                                                                                                                                                                                                                           |
@@ -53,13 +45,6 @@
 | 深扒佛媛：从高小凤迷倒高育良，看如今的佛媛一边露大腿，一边逛寺庙，恶臭蹭流量 [人性洞察室](https://www.youtube.com/watch?v=6hGE7ol1xts)                                                                                                                                                                                                                                                                               |
 | 《釋迦牟尼佛的故事》第一部：發無上願五百大願 01至20集連播 [v](https://www.youtube.com/watch?v=BEE-f8aWr6Q)                                                                                                                                                                                                                                                                                          |
 | 【 佛典故事】動漫 1\~27 合輯 [v](https://www.youtube.com/watch?v=UdhU72zQAN4)                                                                                                                                                                                                                                                                                                       |
-| 【般若波罗蜜多心经 -梵文版】-般禅梵唱妙音组 (Prajñāpāramitāhṛdaya) [螭CHIMUSIC](https://www.youtube.com/watch?v=bDOcp6uk584)                                                                                                                                                                                                                                                                   |
-| 观音大悲願 [佛緣人](https://www.youtube.com/watch?v=dvVwGvU4wms)                                                                                                                                                                                                                                                                                                                  |
-| 大慈大悲观世音 (好听版本) [佛緣人](https://www.youtube.com/watch?v=lSs07DZSQNk)                                                                                                                                                                                                                                                                                                         |
-| 六字大明咒 (梵唱 藏音修行版 嗡 嘛 呢 唄 美 吽) [萧蔓萱 - 主题](https://www.youtube.com/watch?v=73rg2O71GZw)                                                                                                                                                                                                                                                                                      |
-| 大悲咒 (高音质悦耳版) (珍藏精选版) [robert loh](https://www.youtube.com/watch?v=3l5Ag1ovRFY)                                                                                                                                                                                                                                                                                            |
-| [心经](https://www.youtube.com/watch?v=IHdHdHw1xV4) The Heart Sutra                                                                                                                                                                                                                                                                                                         |
-| 準提咒 [人間正道](https://www.youtube.com/watch?v=6F7wTOsCf-4)                                                                                                                                                                                                                                                                                                                   |
 
 ## 国学
 
@@ -67,7 +52,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                  |
 |                                                                                                                                  |
-| 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
+|                                                                                                                                  |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
 |                                                                                                                                  |

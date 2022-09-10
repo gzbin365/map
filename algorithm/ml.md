@@ -1183,7 +1183,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | How to run Google Colab or Kaggle notebooks on VSCODE (My experience running example code on GPU) [convergeML](https://www.youtube.com/watch?v=DuhpUatEaL0) |
 | Deploying production ML models with TensorFlow Serving overview [TensorFlow](https://www.youtube.com/watch?v=1d4BzR\_7Nbc)                                  |
 
-## Diffusion models
+## 扩散模型 Diffusion models
 
 |                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1193,6 +1193,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Diffusion models [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh\_5Wx-O)                                                     |
 | Exploring the NEW Hugging Face Diffusers Package \| Diffusion Models w/ Python [Nicholas Renotte](https://www.youtube.com/watch?v=P-rzgaIfZCo)                    |
 | Stable Diffusion - What, Why, How? [Edan Meyer](https://www.youtube.com/watch?v=ltLNYA3lWAQ)                                                                      |
+| 由浅入深了解Diffusion Model [ewrfcas](https://zhuanlan.zhihu.com/p/525106459)                                                                                           |
 
 ## 基础模型 Foundation Models
 
