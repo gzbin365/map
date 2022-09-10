@@ -45,7 +45,6 @@
 | 柏格醫生中文 健康知識 [u](https://www.youtube.com/c/%E6%9F%8F%E6%A0%BC%E9%86%AB%E7%94%9F%E4%B8%AD%E6%96%87%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98)   柏格医生简体中文 官方頻道 [u](https://www.youtube.com/channel/UCYSItFshvgtcr-Os2-bhDRQ)                                                                                                                                                                       |
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
-| 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
 
 ### 生酮饮食
 
