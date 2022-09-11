@@ -380,6 +380,7 @@ import cv2
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 | NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
 | BARF 🤮: Bundle-Adjusting Neural Radiance Fields (ICCV 2021 oral) [Chen-Hsuan Lin](https://www.youtube.com/watch?v=dCmCZs2Hpi0)                                                                                                             |
+| Google’s New AI: Fly INTO Photos! 🐦 [Two Minute Papers](https://www.youtube.com/watch?v=\_Y1-KlTEmwk)                                                                                                                                      |
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |

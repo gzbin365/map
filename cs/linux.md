@@ -308,7 +308,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ubuntu docker-nvidia 安装 [zh](https://zhuanlan.zhihu.com/p/345972434) |
 |                                                                      |
 
-## K8S
+## Kubernetes, K8S
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -331,6 +331,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Learning Docker and Kubernetes by Practice [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AF-4IUpHZaEdlQOkkVt-0D)                                    |
 | 通过Google Cloud学习Kubernetes [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AYnAP3q9OwNmB0V7uG759p)                                                    |
 | Crazy fast Kubernetes Automation with Terraform [The Digital Life](https://www.youtube.com/watch?v=kFt0OGd\_LhI)                                                |
+| Kubernetes Used As A Go Package [The Ape Machine](https://www.youtube.com/watch?v=xWFk5oqScJ0)                                                                  |
 
 ## GNOME
 
