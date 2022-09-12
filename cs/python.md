@@ -876,7 +876,7 @@ Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files [Corey Sch
 | Python Tutorial: Working with JSON Data using the json Module [Corey Schafer](https://www.youtube.com/watch?v=9N6a-VLBa2I) |
 | Learn JSON in 10 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=iiADhChRriM)                                 |
 | What is JSON ? [Telusko](https://www.youtube.com/watch?v=JuFdz8f-cT4)                                                      |
-|                                                                                                                            |
+| JsonCrack [v](https://www.douyin.com/video/7141651379923225869)                                                            |
 
 ## **Auto Download of Videos & Images**
 

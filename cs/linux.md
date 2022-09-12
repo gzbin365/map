@@ -410,7 +410,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ---------------------------------------------------------------------------------------------------------------------------------- |
 | search\_query=[tmux+教程](https://www.youtube.com/results?search\_query=tmux+%E6%95%99%E7%A8%8B)                                     |
 | Run Multiple Command Line Apps at once Using Tmux Terminal Multiplexer [Brian Schell](https://www.youtube.com/watch?v=srakeCXCITw) |
-|                                                                                                                                    |
+| 手机也能学编程 Termux [小刘不是程序员](https://www.douyin.com/video/7142370126199786791)                                                         |
 
 ## NetHack
 

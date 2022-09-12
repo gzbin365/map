@@ -166,9 +166,11 @@ description: 硬件设备
 
 ## 单片机
 
-|                                                                                               |   |
-| --------------------------------------------------------------------------------------------- | - |
-| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k) |   |
+|                                                                                               |                                                                                                                                  |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k) | 宇凡微单片机 抖音号：[yufanwei](https://www.douyin.com/user/MS4wLjABAAAAJdUiTpvXaNzoRSdle2j5BWgblGhMFI0xOPWANPccmHxfw4fCeCl\_lel4FmJNJ-SE) |
+| 一个合格的硬件工程师需要具备哪些能力 [宇凡微单片机](https://www.douyin.com/video/7136118453278149925)                 |                                                                                                                                  |
+| [硬件工程师](https://www.douyin.com/search/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)          |                                                                                                                                  |
 
 ## NVIDIA Jetson
 
