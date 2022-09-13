@@ -478,7 +478,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Calculus II (Integration Methods, Series, Parametric/Polar, Vectors) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)                                                                                                                                |
 | Calculus III: Multivariable Calculus (Vectors, Curves,  Partial Derivatives, Multiple Integrals, Optimization, etc) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc\_CvEy7xBKRQr6I214QJcd)                                                                                |
 | Calculus IV: Vector Calculus (Line Integrals, Surface Integrals, Vector Fields, Greens' Thm, Divergence Thm, Stokes Thm, etc) Full Course [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)                                                                       |
-| 流形上的微积分 [jd](https://item.jd.com/13264401.html)                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                               |
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
 | YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                                                                                                                                                                                          |
 | PreCalculus Full Course For Beginners　[Geek's Lesson](https://www.youtube.com/watch?v=9IOTI9ViExg)                                                                                                                                                                                                            |
@@ -794,12 +794,6 @@ $$
 | 向量分析/微分幾何 [鍾孟岳](https://www.youtube.com/playlist?list=PLNDrgrPFAMKrBUJ8jd8o8OveI6k2RHYGf)                                   |
 
 ### 分形几何 Fractal Geometry
-
-|                                                                            |   |   |
-| -------------------------------------------------------------------------- | - | - |
-| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q) |   |   |
-|                                                                            |   |   |
-|                                                                            |   |   |
 
 ### 黎曼几何
 
@@ -1118,7 +1112,6 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | Dynamical Systems And Chaos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)  |
 | This equation will change how you see the world (the logistic map) [Veritasium](https://www.youtube.com/watch?v=ovJcsL7vyrk) |
 | Chaos: The Science of the Butterfly Effect [Veritasium](https://www.youtube.com/watch?v=fDek6cYijxI)                         |
-| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                                   |
 
 ## 控制论 Control Theory
 
@@ -1215,7 +1208,6 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                     |
 | 数学\_质数与RSA密码算法一 [PengTitus](https://www.youtube.com/watch?v=TqX0AHHwRYQ)                                                                       |
 | 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                       |
-| RSA Private & Public Key Encryption in Python [NeuralNine](https://www.youtube.com/watch?v=n0uJsqFGO4k)                                        |
 
 ### 哈希
 
@@ -1304,9 +1296,6 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | Millennium Problems [UHCL Math Center](https://www.youtube.com/playlist?list=PLr1ycqeEZMLtDUNUjWId-1WKl4ZzTKOEL)                                                                                                                                                                                                                                             |
 | 【黎曼】为数学而生的天才！极富才华和创造力，留下黎曼猜想价值百万美金！【[天才简史](https://www.youtube.com/watch?v=kgsDeWjppYU)】                                                                                                                                                                                                                                                                     |
 | <p><a href="https://www.claymath.org/millennium-problems">七大数学难题</a> Millennium Problems <a href="https://www.claymath.org/">美国克雷数学研究所</a> 2000 <a href="https://www.youtube.com/watch?v=vO8q_MymDhw&#x26;t=11s">v</a></p><p>杨-米尔斯存在性和质量缺口</p><p>黎曼假设/黎曼猜想？</p><p>NP完全问题</p><p>纳卫尔-斯托可方程的存在性与光滑性</p><p>霍奇猜想</p><p>庞加莱猜想</p><p>Birch 和 Swinnerton-Dyer 猜想</p> |
-| 千年难题：七个悬赏1000000美元的数学问题 [jd](https://item.jd.com/12493185.html) [pdf](http://muchong.com/html/201710/5127133.html) [v](https://www.douyin.com/video/7130897521542548743)                                                                                                                                                                                     |
-| The millennium prize problems [pdf](http://library.lol/main/63C896287AB0A9180ADB57AAEBC49871)                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                              |
 
 ### NP完全问题 NP Hard
 
@@ -1316,7 +1305,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 如何证明一个问题是NP-Hard或NP-Complete? [小杰](https://zhuanlan.zhihu.com/p/53085012)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | search?q=[怎么判断一个问题是不是nphard问题](https://www.google.com.hk/search?q=%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%8D%E6%98%AFnphard%E9%97%AE%E9%A2%98\&newwindow=1\&sxsrf=APq-WBv\_z1MI3S2g2REDTh1kB\_CdeWR4pQ%3A1649033655701\&source=hp\&ei=t0FKYtywKZaa-Abe-7CQCA\&iflsig=AHkkrS4AAAAAYkpPx6oIqHq4iVH6ZyZ8\_oZJnqA4qrOf\&ved=0ahUKEwic6JOKmfn2AhUWDd4KHd49DIIQ4dUDCAc\&uact=5\&oq=%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%8D%E6%98%AFnphard%E9%97%AE%E9%A2%98\&gs\_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BAgjECc6BQgAEIAEOgUILhCABFDgD1i-a2D2bGgBcAB4AIABswGIAZcLkgEDMi45mAEAoAEBsAEK\&sclient=gws-wiz) |
 | <p>16.Complexity: P, NP, NP-completeness, Reductions <a href="https://www.youtube.com/watch?v=eHZifpgyH_4">MIT OpenCourseWare</a></p><p>MIT 6.046J Design and Analysis of Algorithms, Spring 2015</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| The millennium prize problems [pdf](http://library.lol/main/63C896287AB0A9180ADB57AAEBC49871)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## 数学家/名人

@@ -308,14 +308,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ubuntu docker-nvidia 安装 [zh](https://zhuanlan.zhihu.com/p/345972434) |
 |                                                                      |
 
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| windows使用docker 调用gpu                                                                                                                                 |
-| Docker Desktop 中使用GPU [csdn](https://blog.csdn.net/chenxizhan1995/article/details/117855448)                                                          |
-| [官方文档](https://docs.nvidia.com/cuda/wsl-user-guide/index.html) CUDA on WSL User Guide [s](https://blog.csdn.net/yangyin007/article/details/119545862) |
-| Docker容器如何优雅使用NVIDIA GPU [s](https://cloud.tencent.com/developer/article/1924792)                                                                     |
-| Win10 Docker 通过 WSL 2 使用 GPU [s](https://blog.zackzhou.com/win10-docker-wsl2-gpu)                                                                     |
-
 ## Kubernetes, K8S
 
 |                                                                                                                                                                 |
