@@ -659,11 +659,11 @@ System on Chip, 系统级芯片
 
 ## 硬盘
 
-|                                                                                           |   |   |
-| ----------------------------------------------------------------------------------------- | - | - |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s) |   |   |
-|                                                                                           |   |   |
-|                                                                                           |   |   |
+|                                                                                           |                                                                |   |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------- | - |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s) | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc) |   |
+|                                                                                           |                                                                |   |
+|                                                                                           |                                                                |   |
 
 ## NAS
 

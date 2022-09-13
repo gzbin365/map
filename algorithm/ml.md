@@ -690,6 +690,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 算法：线性回归算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha8W8vunYVg-OroC\_yFgdHC)                                                                                 |
 | 案例实战 信用卡欺诈检测 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha3Cdq0bj8gNzFtLvJcteGK)                                                                               |
 | 线性回归　[Ouyang Ruofei](https://www.youtube.com/watch?v=IXuHkRYSAQY)　git                                                                                                        |
+| How to implement Linear Regression from scratch with Python [AssemblyAI](https://www.youtube.com/watch?v=ltXSoduiVwY)                                                        |
 | 高斯过程　[v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                                                                      |
 | Lasso Regression [Udacity](https://www.youtube.com/watch?v=qU1\_cj4LfLY)                                                                                                     |
 | Lecture 21: LASSO [Anders Munk-Nielsen](https://www.youtube.com/watch?v=y1JuX5IsIuE)                                                                                         |

@@ -477,7 +477,7 @@
 | FAANG System Design Interview: Design A Location Based Service (Yelp, Google Places) [ByteByteGo](https://www.youtube.com/watch?v=M4lR\_Va97cQ) |
 |                                                                                                                                                 |
 
-## 低代码 白码 Low-Code
+## 低代码 白码 Low-Code NoCode
 
 |                                                                                                              |   |
 | ------------------------------------------------------------------------------------------------------------ | - |
@@ -489,7 +489,7 @@
 | -------------------------------------------------------------------------------------------------------------------- |
 | 几分钟就能开发一个小程序，是真是假？[程序员鱼皮](https://www.douyin.com/video/6913484511586127104)                                          |
 | Low-Code for Freelance Developers & Startups – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=hDzgO2FB\_ms) |
-|                                                                                                                      |
+| NoCode: The New Software Paradigm Data [Slayer](https://www.youtube.com/watch?v=WAi2zzPYFkM)                         |
 
 ## Mac
 
@@ -545,6 +545,8 @@
 | Scott Hanselman - Developing for Linux on Windows - NDC Porto 2022 [NDC Conferences](https://www.youtube.com/watch?v=tuhzVDc0Slg)                                 |
 | How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead? [Scott Hanselman](https://www.youtube.com/watch?v=j0PPcUUtHlw) |
 | GFKDW-3TWB7-3D3C4-37B7M-KFTFC [s](http://www.qiteb.com/17080.html)                                                                                                |
+| 给手机装Windows11！还能玩大型游戏？！ [极客湾Geekerwan](https://www.youtube.com/watch?v=4QnVNkZVnfc)                                                                               |
+| 【[Fun科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE)】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？                                                                      |
 
 ### Edge
 

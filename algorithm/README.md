@@ -43,7 +43,7 @@ The Bibites: Digital Life [u](https://www.youtube.com/c/TheBibitesDigitalLife/vi
 
 Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344135/video)
 
-人工智能导论实验演示 - 14. 蚁群算法求解最短路径问题　[跨象乘云](https://www.bilibili.com/video/BV1Yh411q72F)
+人工智能导论实验演示 - 14. 蚁群算法求解最短路径问题　[跨象乘云](https://www.bilibili.com/video/BV1Yh411q72F)   微信小程序【跨象乘云AI补习社】
 
 【数之道 04】解决最优路径问题的妙招-蚁群ACO算法　[FunInCode](https://www.bilibili.com/video/BV1vp4y1p78R)
 
@@ -61,3 +61,10 @@ Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344
 
 病毒为何不停变异？旅行推销员问题和遗传算法 [李永乐老师](https://www.youtube.com/watch?v=iM-VKHWd\_JE)
 
+## 旅行商问题, TSP
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| The Hardest Problem in Computer Science [Reducible](https://www.youtube.com/watch?v=GiDsjIBOVoA) |
+|                                                                                                  |
+|                                                                                                  |

@@ -74,7 +74,7 @@ description: 在自己的领域里持续探索，衣带渐宽终不悔，为伊�
 | 跟李沐学AI [u](https://www.youtube.com/channel/UCef6AUosRYdnnakdCa\_4r6Q/videos) Mu Li [u](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw)                                   | 刘先生 [u](https://www.youtube.com/channel/UCSLu69bUHXOZ0hPvyNLv-gw/playlists)                                  |
 | 技术喵 [u](https://www.youtube.com/channel/UCEgMY-alE5NYe6wA2eagqCA)                                                                                                                  | 深度之眼 [B](https://space.bilibili.com/365093772)                                                               |
 | 稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA) [B](https://space.bilibili.com/20259914)                                                                         | Hung-yi Lee [u](https://www.youtube.com/c/HungyiLeeNTU)                                                      |
-|                                                                                                                                                                                    | C鱼 [u](https://www.youtube.com/channel/UCGj-3RuJeNdzTsACq8beDRg)                                             |
+| 跨象乘云AI补习社 [u](https://www.youtube.com/channel/UCuaxh\_Zcvyf-5Hbi6dBoatQ/playlists) 小程序                                                                                             | C鱼 [u](https://www.youtube.com/channel/UCGj-3RuJeNdzTsACq8beDRg)                                             |
 
 ## 工具
 

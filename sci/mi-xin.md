@@ -22,20 +22,30 @@
 
 ## 书法
 
-|                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 课程-篆刻、书法、水墨画体验与欣赏 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9yJesypR9H3nVTCwaPqL51d)                                                                                                                                                                                                              |
-| 闻诌诌 抖音号： [175881061](https://www.douyin.com/user/MS4wLjABAAAA5Y9kUBVYSY0JhRML9ThF9GJ6kIPhDJ4BjaOxMokkIOo?author\_id=82737222114\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7011518862508313892\&group\_id=7011518862508313892\&log\_pb=%7B%22impr\_id%22%3A%222021100906594801021206119917134B58%22%7D) |
-| 神棋书店　抖音号： [gaoxiaolianzi](https://www.douyin.com/user/MS4wLjABAAAAe-Dmb5OPpi10pwseFqbu9G0shWfXLw2OvGovphOlMNWmoRBm2cU8VIPVDlAgVAzz)                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 课程-篆刻、书法、水墨画体验与欣赏 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9yJesypR9H3nVTCwaPqL51d)                                                                                                                                                                                                                                                                                                                                                                        |
+| 闻诌诌 抖音号： [175881061](https://www.douyin.com/user/MS4wLjABAAAA5Y9kUBVYSY0JhRML9ThF9GJ6kIPhDJ4BjaOxMokkIOo?author\_id=82737222114\&enter\_from=video\_detail\&enter\_method=video\_title\&from\_gid=7011518862508313892\&group\_id=7011518862508313892\&log\_pb=%7B%22impr\_id%22%3A%222021100906594801021206119917134B58%22%7D)                                                                                                                                                           |
+| 神棋书店　抖音号： [gaoxiaolianzi](https://www.douyin.com/user/MS4wLjABAAAAe-Dmb5OPpi10pwseFqbu9G0shWfXLw2OvGovphOlMNWmoRBm2cU8VIPVDlAgVAzz)                                                                                                                                                                                                                                                                                                                                                      |
+| Qi momo 祁么么 [u](https://www.youtube.com/channel/UC5zVjJwX68xUieT-I3JG1fQ)                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 行书                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 九九高效练字 [u](https://www.youtube.com/c/%E9%AB%98%E6%95%88%E7%BB%83%E5%AD%97%E4%B9%9D%E4%B9%9D/playlists)   墨界 [u](https://www.youtube.com/channel/UCx8phnnPno9vvmrcMydGnfQ/videos)   墨芽堂 [u](https://www.youtube.com/channel/UCw1-6UBouMUr7W58m7mQJBQ/playlists)   Ken Tse [u](https://www.youtube.com/user/kentsekimming/playlists)   ming Cheng [u](https://www.youtube.com/channel/UCX8ZJA-EIOESJDoR4Mj1New/videos)   Lilian Si [u](https://www.youtube.com/user/sunshine110322/videos) |
+| 常老说书法 [u](https://www.youtube.com/channel/UC6C2--iKyfCw6fh45XhP2fQ/playlists)   方块先生Mr.diamond [u](https://www.youtube.com/channel/UCzVor39ETUi6kMI6FFXrD0g/playlists)                                                                                                                                                                                                                                                                                                                   |
+| 硬笔书法入门课 [方块先生Mr.diamond](https://www.youtube.com/playlist?list=PLsHIcIY91b4DNqAinR7fXOOw2z1qVdckM)                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## 瑜伽
 
 |                                                                             |   |
 | --------------------------------------------------------------------------- | - |
 | Sadhguru 繁體中文 [u](https://www.youtube.com/channel/UCSaNMML9AAXTN4142jD-dxw) |   |
+
+## 道
+
+|                                                                                                                                                  |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
+| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w)                                      |   |   |
+|                                                                                                                                                  |   |   |
+| 道家内丹修炼的入门奇书，「炁体源流」究竟有多神奇？现代“陆地神仙”，师承老子、吕祖，竟然就隐居在你我身边？！\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=00Vckb6MP2s) |   |   |
 
 ## 佛
 
@@ -45,6 +55,14 @@
 | 深扒佛媛：从高小凤迷倒高育良，看如今的佛媛一边露大腿，一边逛寺庙，恶臭蹭流量 [人性洞察室](https://www.youtube.com/watch?v=6hGE7ol1xts)                                                                                                                                                                                                                                                                               |
 | 《釋迦牟尼佛的故事》第一部：發無上願五百大願 01至20集連播 [v](https://www.youtube.com/watch?v=BEE-f8aWr6Q)                                                                                                                                                                                                                                                                                          |
 | 【 佛典故事】動漫 1\~27 合輯 [v](https://www.youtube.com/watch?v=UdhU72zQAN4)                                                                                                                                                                                                                                                                                                       |
+| 【般若波罗蜜多心经 -梵文版】-般禅梵唱妙音组 (Prajñāpāramitāhṛdaya) [螭CHIMUSIC](https://www.youtube.com/watch?v=bDOcp6uk584)                                                                                                                                                                                                                                                                   |
+| 观音大悲願 [佛緣人](https://www.youtube.com/watch?v=dvVwGvU4wms)                                                                                                                                                                                                                                                                                                                  |
+| 大慈大悲观世音 (好听版本) [佛緣人](https://www.youtube.com/watch?v=lSs07DZSQNk)                                                                                                                                                                                                                                                                                                         |
+| 六字大明咒 (梵唱 藏音修行版 嗡 嘛 呢 唄 美 吽) [萧蔓萱 - 主题](https://www.youtube.com/watch?v=73rg2O71GZw)                                                                                                                                                                                                                                                                                      |
+| 大悲咒 (高音质悦耳版) (珍藏精选版) [robert loh](https://www.youtube.com/watch?v=3l5Ag1ovRFY)                                                                                                                                                                                                                                                                                            |
+| [心经](https://www.youtube.com/watch?v=IHdHdHw1xV4) The Heart Sutra                                                                                                                                                                                                                                                                                                         |
+| 準提咒 [人間正道](https://www.youtube.com/watch?v=6F7wTOsCf-4)                                                                                                                                                                                                                                                                                                                   |
+| 文殊菩萨心咒 [人間正道](https://www.youtube.com/watch?v=opPeoWdxuKo)                                                                                                                                                                                                                                                                                                                |
 
 ## 国学
 
@@ -52,7 +70,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                  |
 |                                                                                                                                  |
-|                                                                                                                                  |
+| 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
 |                                                                                                                                  |
@@ -81,8 +99,8 @@
 
 ## 其他
 
-|                                                            |
-| ---------------------------------------------------------- |
-| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw) |
-|                                                            |
-|                                                            |
+|                                                                                |
+| ------------------------------------------------------------------------------ |
+| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                     |
+| 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists) |
+|                                                                                |

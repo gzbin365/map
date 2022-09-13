@@ -45,6 +45,7 @@
 | 柏格醫生中文 健康知識 [u](https://www.youtube.com/c/%E6%9F%8F%E6%A0%BC%E9%86%AB%E7%94%9F%E4%B8%AD%E6%96%87%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98)   柏格医生简体中文 官方頻道 [u](https://www.youtube.com/channel/UCYSItFshvgtcr-Os2-bhDRQ)                                                                                                                                                                       |
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
+| 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
 
 ### 生酮饮食
 
@@ -101,3 +102,4 @@
 | <p>黑巧克力的7大健康益处！为何我每天都吃黑巧克力？<a href="https://www.youtube.com/watch?v=MLvXivpgpHg">莎啦沒問題Sara's Moments</a></p><p>营养密度高</p><p>富含抗氧化物</p><p>降低血压</p><p>提高好的胆固醇(HDL)</p><p>降低心脏病风险</p><p>防止晒伤</p><p>改善大脑功能</p><p>90%以上的黑巧克力, 瑞士莲</p> |
 | 防失智、強健心血管，100%純黑巧克力健康大揭密【[早安健康](https://www.youtube.com/watch?v=g5ihom7YHzA)】                                                                                                                                                   |
 | 【[Joeman](https://www.youtube.com/watch?v=ihpfkmtqulU)】濃度100%的巧克力吃起來竟然跟土一樣？ft.咪妃                                                                                                                                                |
+| 烹飪 [健康2.0](https://www.youtube.com/playlist?list=PL2-vrSQ4vcNiJu0SzIYvvXlyJfQ\_QAutV)                                                                                                                                           |
