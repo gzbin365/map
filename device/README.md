@@ -181,12 +181,12 @@ description: 硬件设备
 
 ## 手机
 
-|                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a></p> |
-| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                                                       |
-| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                            |
-|                                                                                                                                                           |
+|                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a> termux   内网穿透 cpolar <a href="https://www.cpolar.com/">s</a>   $ uname -a,   dsutil,   curl</p> |
+| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                                                                                                                                                   |
+| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                                                                                                                        |
+| 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                                                                                                                                                      |
 
 ## 手表
 

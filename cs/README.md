@@ -116,7 +116,7 @@ Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeC
 
 AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
 
-
+最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
 
 </details>
 
@@ -470,6 +470,12 @@ Computer Components？Computer Architecture？
 | 互联网是如何工作的？VPN、SSR、V2ray翻墙是什么原理？ [啃芝士](https://www.youtube.com/watch?v=iidqJ7p7ln4)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+| 内网穿透                                                                                                                                                                       |                                                                                             |   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | - |
+| 【[司波图](https://www.youtube.com/watch?v=rj1yxHQj8G0)】基于Wireguard组网技术的内网穿透教程                                                                                                 | 教你搭建属于自己的内网穿透服务器（基于frp与zerotier moon服务器） [司波图](https://www.youtube.com/watch?v=rj8vhniGrwA) |   |
+| cpolar [s](https://www.cpolar.com/) [s](https://dashboard.cpolar.com/get-started) [doc](https://www.cpolar.com/docs) [v](https://www.douyin.com/video/7131701871365852452) |                                                                                             |   |
+|                                                                                                                                                                            |                                                                                             |   |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
