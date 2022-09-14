@@ -175,11 +175,11 @@ LDA 文档聚类 plsa lsa
 
 ### 词向量
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學 |
-|                                                                                         |
-|                                                                                         |
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學         |
+| Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U) |
+|                                                                                                 |
 
 ### 文本分类
 
@@ -219,6 +219,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 |                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Indently [u](https://www.youtube.com/c/Indently)                                                                                                                                                                                                                                               |
+| How To Create Chatbox With HTML CSS And Javascript [Fajar Std](https://www.youtube.com/watch?v=vZnBFZNozlc\&list=PL81ZyHpd1P80boagzd6FSjpYhZgztBEdc\&index=14)                                                                                                                                 |
 | [#pythonchatbot](https://www.youtube.com/hashtag/pythonchatbot)   [#chatbot](https://www.youtube.com/hashtag/chatbot) github /topics/[chatbot](https://github.com/topics/chatbot)  /topics/[bot](https://github.com/topics/bot) /topics/[telegram-bot](https://github.com/topics/telegram-bot) |
 | youtube search\_query=如[何打造你自己的聊天机器人](https://www.youtube.com/results?search\_query=%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)                                                                                     |
 | Build Your Own Chatbot Using Python [Computer Science](https://www.youtube.com/watch?v=FFT4p6me2g0) using NLTK                                                                                                                                                                                 |
@@ -255,6 +257,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 很有可能被刪掉的一期，盡快看吧 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=1rmPnO1eqL4)                                                                                                                                                                                                           |
 | LaMDA！Google工程師說：人工智慧有意識？他暈船了！？還是中了什麼圈套？ [曲博科技教室 Dr. J Class](https://www.youtube.com/watch?v=lqVWy96KI0o)                                                                                                                                                                                     |
 | DeepPavlov Seminars: Goal-aware Dialogue Management [DeepPavlov](https://www.youtube.com/watch?v=aD-MNhq3Gqs)                                                                                                                                                                                  |
+| I created a talking BOT with Javascript \|\| Javascript Project\|HTML CSS JS Mini Project For Beginners [KadirMedia](https://www.youtube.com/watch?v=9o2rSxHiv9w)                                                                                                                              |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -387,11 +390,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA) |
-|                                                                                                          |
-|                                                                                                          |
+|                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA)                              |
+| How to Transcribe Multiple Languages \| Spanish, German, Japanese and more! [AssemblyAI](https://www.youtube.com/watch?v=DwxmKKD8c3s) |
+| 亲爱的翻译官 抖音号：[dyx234t8wnfi](https://www.douyin.com/user/MS4wLjABAAAA5ue9TxnJBVb3yjl6VAmTwZMyXw0gw1BqSqeNmXcCwu7cRPX1P3pb2rE\_EqWjflos)  |
+| 田哥懂翻译 抖音号：[tianhongChina](https://www.douyin.com/user/MS4wLjABAAAARHHa6w4dCeLMyf3G208cVbpFx6pe1cr-SVCCyKogauzvoDp3SkPq0HhX3N7BYmt5)   |
+|                                                                                                                                       |
 
 ### Attention
 
@@ -439,6 +444,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Checking out the WORLD's LARGEST Open Multilingual Language Model - BLOOM [Nicholas Renotte](https://www.youtube.com/watch?v=SPf81FEoihM)                            |
 | \[ML News] BLOOM: 176B Open-Source \| Chinese Brain-Scale Computer \| Meta AI: No Language Left Behind [Yannic Kilcher](https://www.youtube.com/watch?v=W3mrgqtm5R4) |
+| Google's New Model Solves College-Level Math Problems [Edan Meyer](https://www.youtube.com/watch?v=jJDi\_Oqs30E)                                                     |
+| $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                    |
+|                                                                                                                                                                      |
 |                                                                                                                                                                      |
 
 ### Causal Inference
@@ -456,15 +464,17 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
 | CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                          |
+| 【[苏星河短评](https://www.douyin.com/video/7126161576586906910)】你看过的许多文章，可能根本不是人类写的                                                                                       |
 
 ### 代码生成
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                    |
-| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)               |
-| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs) |
-|                                                                                                 |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenAI Codex 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=oZriUGkQSNM)                                                                    |
+| DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)                                                               |
+| 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs)                                                 |
+| \[ML News] AI models that write code (Copilot, CodeWhisperer, Pangu-Coder, etc.) [Yannic Kilcher](https://www.youtube.com/watch?v=\_9aN1-0T8hg) |
+|                                                                                                                                                 |
 
 #### OpenAI Codex
 
