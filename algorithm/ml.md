@@ -779,7 +779,6 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                                 |
 | The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                         |
 | Illustrated Guide to Deep Learning [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NqKCWYjCnIiLf4cTthmWSGX) |
-| How are memories stored in neural networks? \| The Hopfield Network #SoME2 [Layerwise Lectures](https://www.youtube.com/watch?v=piF6D6CQxUw) |
 
 ### RNN Recurrent Neural Networks
 
@@ -1000,7 +999,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)      |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)    |
 | 【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型 [Hung-yi Lee](https://www.youtube.com/watch?v=yHoAq1IT\_og) |
-| Attention in Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=W2rWgXJBZhU)                 |
 |                                                                                                          |
 
 ### 损失函数
