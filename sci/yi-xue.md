@@ -46,7 +46,6 @@
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 | 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
-| 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
 
 ### 生酮饮食
 
