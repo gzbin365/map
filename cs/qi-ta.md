@@ -513,7 +513,6 @@
 | PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
 | Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                                                                                                                                                                                                                                                                                          |
 | <p>将windows装到口袋里（上）--- Windows To Go的制作 <a href="https://www.youtube.com/watch?v=M5gHpm-pzgY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">Cool Play</a></p><p>将windows装到口袋里（<a href="https://www.youtube.com/watch?v=ak0rzszBOGY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">下</a>） - Mac虚拟机引导Windows To Go （Parallels， VirtualBox， VMware Fusion）</p> |
-| 如何在 USB、移动硬盘上运行 Windows 10 / 11 系统 [零度解说](https://www.youtube.com/watch?v=ILQ8H5K3w-o)                                                                                                                                                                                                                                                                                              |
 
 ### 镜像
 
