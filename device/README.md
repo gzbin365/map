@@ -181,12 +181,12 @@ description: 硬件设备
 
 ## 手机
 
-|                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a> termux   内网穿透 cpolar <a href="https://www.cpolar.com/">s</a>   $ uname -a,   dsutil,   curl</p> |
-| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                                                                                                                                                   |
-| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                                                                                                                        |
-| 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                                                                                                                                                      |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 教你从0到1升级自己的旧手机，让你家里成为云服务中心 [程序员阿灏](https://www.douyin.com/video/7131701871365852452) |
+| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                  |
+|                                                                                      |
+|                                                                                      |
 
 ## 手表
 
@@ -753,7 +753,6 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
 | [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
