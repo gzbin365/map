@@ -46,7 +46,6 @@
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 | 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
-| 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
 
 ### 生酮饮食
 
@@ -89,7 +88,6 @@
 
 |                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 段小段 抖音号：[96792116984](https://www.douyin.com/user/MS4wLjABAAAAStLWq\_tfraR4qw9A3nlsP4KrBm5IL0AMKwYn\_btKHaEw\_3nybmXv3LWDBerecftn)                                                                                              |
 | 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)                                                                                                    |
 | 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW)                                                                                               |
 | 彩虹星球安全食材　抖音号： [CaiHongXinQiu](https://www.douyin.com/user/MS4wLjABAAAA6o-kxl5M7JsjITv7a-kx6l8ede-okx\_ZtIwpSS1RMISE9EKAYoCHERaO9GuUwOjA)　有黑历史                                                                                   |
