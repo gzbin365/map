@@ -217,9 +217,6 @@
 
 |                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Learn HTML & CSS – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=a\_iQb1lnAEQ)                                                                                             |
-| HTML / CSS Tutorial – Create an Order Summary Component [freeCodeCamp](https://www.youtube.com/watch?v=SR5GxoFhIAU)                                                                                   |
-| 10 HTML, CSS & JAVASCRIPT Projects For BEGINNER (Road to PRO LEVEL) [ProgrammingWithSingh](https://www.youtube.com/watch?v=XQpDfZE3SUM)                                                               |
 | SpaceX Website Clone - HTML, CSS & JavaScript [Traversy Media](https://www.youtube.com/watch?v=wryPX7KSwSc)                                                                                           |
 | 5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc [Traversy Media](https://www.youtube.com/watch?v=HtunPQtr-Xw)                                                |
 | Create A Responsive Website Using HTML, CSS And Bootstrap 4 In Hindi [CodeWithHarry](https://www.youtube.com/watch?v=o5vKJmqXO\_g)                                                                    |
@@ -303,11 +300,6 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JavaScript King [u](https://www.youtube.com/c/JavaScriptKing)                                                                                                                                |
-| Multi-Step Login Form using HTML , CSS & JS [Anunay Bhaiyaa](https://www.youtube.com/watch?v=DdSi9vJ1Aus)                                                                                    |
-| How to build Jarvis with javascript [The Enthusiastic Dev](https://www.youtube.com/playlist?list=PLWqtZHJOTN49HtkbGvjM8DcsrytltF1kP)                                                         |
-| 3d robot with html, css and js [Funny web](https://www.youtube.com/watch?v=Z\_cjaiJwAvI)                                                                                                     |
-| I created a talking BOT with Javascript \|\| Javascript Project\|HTML CSS JS Mini Project For Beginners [KadirMedia](https://www.youtube.com/watch?v=9o2rSxHiv9w)                            |
 | Low Level JavaScript [u](https://www.youtube.com/c/LowLevelJavaScript)                                                                                                                       |
 | JavaScript Full Course 🌐 -Learn to code today-【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=8dWL3wF\_OMw)                                                                           |
 | JavaScript DOM Manipulation – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)                                                                          |

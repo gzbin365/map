@@ -5,9 +5,6 @@
 | 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos)               | [计时器](https://naozhong.net.cn/jishiqi/)                                  |
 | 工具大师i [u](https://www.youtube.com/c/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88i)              | 止吾说 [u](https://www.youtube.com/c/%E6%AD%A2%E5%90%BE%E8%AF%B4/playlists) |
 | [knowledge](https://wiki.nikiv.dev/) [git](https://github.com/nikitavoloboev/knowledge) | [4download](https://4download.net/)                                      |
-| 蚂蚱资源网 [s](http://www.qiteb.com/sort/17)                                                 |                                                                          |
-
-
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,13 +40,7 @@
 |                                |                                  |                                  |
 |                                |                                  |                                  |
 
-### 安卓模拟器, emulator
-
-|                                                                                                      |   |   |
-| ---------------------------------------------------------------------------------------------------- | - | - |
-| 【[Huan](https://www.youtube.com/watch?v=ZoURL5INFvE)】 手遊模擬器多開需要怎樣的電腦配備? PC電腦玩手遊: RO仙境傳說:愛如初見   夜神模拟器 |   |   |
-|                                                                                                      |   |   |
-|                                                                                                      |   |   |
+### 安卓模拟器
 
 | bluestacks                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,8 +81,6 @@
 | Android VM                                                                                                              |   |
 | Android VM - The best Android X86 VM for Gaming Performance! [Linux Leech](https://www.youtube.com/watch?v=bz8FugjsHs8) |   |
 
-## 网盘
-
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                 |
@@ -115,7 +104,6 @@
 |                                |                                  |
 | ------------------------------ | -------------------------------- |
 | [城通网盘](https://www.ctfile.com) | [123云盘](https://www.123pan.com/) |
-| [夸克网盘](https://pan.quark.cn/)  | [蓝奏云](https://www.lanzouh.com/)  |
 
 | 谷歌搜索技巧                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -131,7 +119,6 @@
 | [#remote-desktop](https://github.com/topics/remote-desktop)  [#teamviewer](https://github.com/topics/teamviewer)                                             |
 | 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
 | Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                                    |
-| Pi-Hosted : Must Have Tool For System Admins - Rust Desk Open Source Remote Desktop Software [Novaspirit Tech](https://www.youtube.com/watch?v=PDnqFnnbVHg)  |
 
 ## utools
 
