@@ -584,13 +584,12 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 **Dijkstra's Algorithm(**[**v**](https://www.youtube.com/watch?v=GazC3A4OQTE)**, )**
 
-|                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **XGBoost 中文文档(**[**书栈**](https://www.bookstack.cn/books/xgboost-doc-zh)**, )**                                                                                             |
-| XGBoost [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ)                                                             |
-| 算法：Xgboost提升算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)                                                                            |
-| XGBoost与LightGBM 数据科学家常用工具大PK——性能与结构 [Data Application Lab](https://www.youtube.com/watch?v=dOwKbwQ97tI)                                                                    |
-| Time Series Forecasting with XGBoost - Use python and machine learning to predict energy consumption [Medallion Data Science](https://www.youtube.com/watch?v=vV12dGe\_Fho) |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| **XGBoost 中文文档(**[**书栈**](https://www.bookstack.cn/books/xgboost-doc-zh)**, )**                                 |
+| XGBoost [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ) |
+| 算法：Xgboost提升算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)                |
+| XGBoost与LightGBM 数据科学家常用工具大PK——性能与结构 [Data Application Lab](https://www.youtube.com/watch?v=dOwKbwQ97tI)        |
 
 ### 极客学院机器学习训练营
 
@@ -747,7 +746,6 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | 181 - Multivariate time series forecasting using LSTM [DigitalSreeni](https://www.youtube.com/watch?v=tepxdcepTbY)                                                                                                     |
 | Time Series Analysis (ARIMA) using Python [Tathya Bislesan](https://www.youtube.com/watch?v=hNkI7opf5YM)                                                                                                               |
 | Time Series Analysis For Rainfall Prediction Using LSTM Model - Explained For Beginners [AI Sciences](https://www.youtube.com/watch?v=fHi7RN54mZA)                                                                     |
-| Time Series Forecasting with XGBoost - Use python and machine learning to predict energy consumption [Medallion Data Science](https://www.youtube.com/watch?v=vV12dGe\_Fho)                                            |
 
 ### 支持向量机 SVM
 
@@ -781,7 +779,6 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                                 |
 | The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                         |
 | Illustrated Guide to Deep Learning [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NqKCWYjCnIiLf4cTthmWSGX) |
-| How are memories stored in neural networks? \| The Hopfield Network #SoME2 [Layerwise Lectures](https://www.youtube.com/watch?v=piF6D6CQxUw) |
 
 ### RNN Recurrent Neural Networks
 
@@ -1002,7 +999,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)      |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)    |
 | 【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型 [Hung-yi Lee](https://www.youtube.com/watch?v=yHoAq1IT\_og) |
-| Attention in Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=W2rWgXJBZhU)                 |
 |                                                                                                          |
 
 ### 损失函数
