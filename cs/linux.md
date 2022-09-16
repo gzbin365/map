@@ -301,6 +301,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | docker入门：docker 安装，以及镜像操作（获取 列出 运行 删除），容器操作（启动 终止 守护态运行 删除） [Baymax 小白笔记](https://www.youtube.com/watch?v=8aGw4ANEhOQ)                                    |
 | Docker networking is CRAZY!! (you NEED to learn it) [NetworkChuck](https://www.youtube.com/watch?v=bKFMS5C4CG0)                                           |
 | docker搭建一款开源轻量化的网页版便签备忘录 [有云转晴](https://www.youtube.com/watch?v=AkEdBYwP4fk)                                                                              |
+| Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=f4idgaq2VqA)              |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
