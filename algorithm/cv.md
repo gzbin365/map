@@ -265,6 +265,8 @@ import cv2
 | 283 - What is Mask R-CNN? [DigitalSreeni](https://www.youtube.com/watch?v=NEl9RPyMgzY)                                                                                                                                                                                                   |
 | 284 - Installing Mask RCNN and troubleshooting errors [DigitalSreeni](https://www.youtube.com/watch?v=Fu\_km7FXyaU)                                                                                                                                                                      |
 | 286 - Object detection using Mask RCNN: end-to-end from annotation to prediction [DigitalSreeni](https://www.youtube.com/watch?v=QntADriNHuk)                                                                                                                                            |
+| 只要你在社交平台发了照片，这个AI就能利用开放式摄像头找到你摆拍的全过程 [量子位](https://www.douyin.com/video/7143923762381999390)                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
 
@@ -380,6 +382,7 @@ import cv2
 | Como instalar NERF en Windows + Tutorial + Ejemplos + Recomendaciones [adriabama06](https://www.youtube.com/watch?v=Ls6d3bygHNM)                                                                                                            |
 | NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
 | BARF 🤮: Bundle-Adjusting Neural Radiance Fields (ICCV 2021 oral) [Chen-Hsuan Lin](https://www.youtube.com/watch?v=dCmCZs2Hpi0)                                                                                                             |
+| Google’s New AI: Fly INTO Photos! 🐦 [Two Minute Papers](https://www.youtube.com/watch?v=\_Y1-KlTEmwk)                                                                                                                                      |
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |
