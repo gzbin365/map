@@ -40,6 +40,7 @@
   * [GPU](device/gpu.md)
   * [TPU](device/tpu.md)
   * [Android/IOS](device/android.md)
+  * [鸿蒙](device/HarmonyOS.md)
   * [物联网](device/wu-lian-wang.md)
 * [科学Sci](sci/README.md)
   * [物理](sci/physics.md)
