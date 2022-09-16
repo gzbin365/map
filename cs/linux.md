@@ -308,6 +308,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ubuntu docker-nvidia 安装 [zh](https://zhuanlan.zhihu.com/p/345972434) |
 |                                                                      |
 
+|                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| windows使用docker 调用gpu                                                                                                                                 |
+| Docker Desktop 中使用GPU [csdn](https://blog.csdn.net/chenxizhan1995/article/details/117855448)                                                          |
+| [官方文档](https://docs.nvidia.com/cuda/wsl-user-guide/index.html) CUDA on WSL User Guide [s](https://blog.csdn.net/yangyin007/article/details/119545862) |
+| Docker容器如何优雅使用NVIDIA GPU [s](https://cloud.tencent.com/developer/article/1924792)                                                                     |
+| Win10 Docker 通过 WSL 2 使用 GPU [s](https://blog.zackzhou.com/win10-docker-wsl2-gpu)                                                                     |
+
 ## Kubernetes, K8S
 
 |                                                                                                                                                                 |
@@ -411,6 +419,16 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | search\_query=[tmux+教程](https://www.youtube.com/results?search\_query=tmux+%E6%95%99%E7%A8%8B)                                     |
 | Run Multiple Command Line Apps at once Using Tmux Terminal Multiplexer [Brian Schell](https://www.youtube.com/watch?v=srakeCXCITw) |
 | 手机也能学编程 Termux [小刘不是程序员](https://www.douyin.com/video/7142370126199786791)                                                         |
+
+## Termux
+
+|                                                                                                                                                                              |                                                                                                                                    |                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://termux.dev/en/)   [git](https://github.com/termux)   [doc](https://wiki.termux.com/wiki/Main\_Page)                                                              | [search](https://www.youtube.com/results?search\_query=Termux)                                                                     |                                                                                                                                                                                       |
+| Full Termux Tutorial \| How To Use Termux \| Termux Tutorial For Beginners [AmanBytes](https://www.youtube.com/watch?v=3I1LmWhY9Ig)                                          | Full Termux Tutorial [AmanBytes](https://www.youtube.com/playlist?list=PLXIDHr1YZnmFgj-73FxRcpOtA6qzKrfLF)                         | What is Termux \| 10 Things to do after install Termux \| Video#1 \| 2020 [Hack N Win](https://www.youtube.com/watch?v=vVDkldJ5yPw)                                                   |
+| Kali Linux NetHunter Android install in 5 minutes (rootless) [David Bombal](https://www.youtube.com/watch?v=KxOGyuGq0Ts\&list=PLhfrWIlLOoKPqmsoVb0STYzw4IaTe1fxn\&index=101) | Termux Tutorial for Absolute Beginners [Advanced Coding](https://www.youtube.com/playlist?list=PLpWoOAg0w29y4fsvI68NfYGxDfWadMXOH) | Chat Secretly with Anyone on Termux !!! [Swapnil Srivastava](https://www.youtube.com/watch?v=ThGGotMwJiQ)                                                                             |
+| 10 Secret & Cool Commands of Termux App on Any Android Phone..!!!! [Swapnil Srivastava](https://www.youtube.com/watch?v=1pmEQQW3fus)                                         | how to install brutex in termux [Termux tips](https://www.youtube.com/watch?v=vtPMmIwJpcQ)                                         | Termux sinhala - How to install packages correctly - sinhala [KNOiT (Sky Production)](https://www.youtube.com/watch?v=AUIZ3kwVewE\&list=PLWKVLn7tx6ZUMHt6DZgHmM6VyoMyEcQIz\&index=10) |
+|                                                                                                                                                                              |                                                                                                                                    | Termux android hacking @Powerknack [Cyber knack](https://www.youtube.com/playlist?list=PLUeTsw5\_MOKhKkqDqomO5FMmD3Ld59fhu)                                                           |
 
 ## NetHack
 

@@ -4,7 +4,7 @@
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                     |
 | **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) |
-| Android 开发者 [s](https://developer.android.com/)                                     |                                                                                                                 |
+| Android 开发者 [s](https://developer.android.com/)                                     | Philipp Lackner [u](https://www.youtube.com/c/PhilippLackner/playlists)                                         |
 
 ## Android
 
@@ -86,6 +86,7 @@
 | 麦子学院-敏捷开发软件工程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwLQBpav1PiuqnhoTUIzToD)                                                                                       |
 | How To Create A Video Chat App With WebRTC [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)                                                                             |
 | Low-Code Tutorial – Build 3 Financial Apps (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=skq7E2xS1Bo)                                                                     |
+| Android Chat App With Ktor [Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSHLKOwFeFvA7XlAGXYa\_y0)                                                                  |
 
 |                                                                                                                                                                                                                                                                                           |   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -126,3 +127,4 @@
 | Implementing complex UI with Flutter - Marcin Szałek \| [Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8)                               |
 | Responsive Admin Panel or Dashboard - Flutter UI - Speed Code [The Flutter Way](https://www.youtube.com/watch?v=\_uOgXpEHNbc)                       |
 | Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart [Academind](https://www.youtube.com/watch?v=GLSG\_Wh\_YWc) |
+| Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=ylJz7N-dv1E)    |
