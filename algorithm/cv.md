@@ -142,6 +142,14 @@ import cv2
 
 
 
+## HALCON
+
+|                                                                                                            |   |   |
+| ---------------------------------------------------------------------------------------------------------- | - | - |
+| HALCON Tutorials [mvtecsoftware](https://www.youtube.com/playlist?list=PLWlTGc1Igzx9uOrz3-NDIULXCLGcSuorb) |   |   |
+|                                                                                                            |   |   |
+|                                                                                                            |   |   |
+
 ## 图像合成
 
 |                                                                                                                   |
