@@ -123,6 +123,7 @@ description: 硬件设备
 | Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                                                        |
 | Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                                                  |
 | Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                                                                  |
+| Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                                                           |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
@@ -174,11 +175,21 @@ description: 硬件设备
 
 ## NVIDIA Jetson
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)                                       |
-| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4)                                   |
-| Jetson Xavier NX Developer Kit: The Next Leap in Edge Computing [NVIDIA Developer](https://www.youtube.com/watch?v=ihRG6Ej9PTM) |
+|                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)                                                                                          |
+| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4)                                                                                      |
+| Jetson Xavier NX Developer Kit: The Next Leap in Edge Computing [NVIDIA Developer](https://www.youtube.com/watch?v=ihRG6Ej9PTM)                                                    |
+| AI for Makers - Learn with JetBot [NVIDIA Developer](https://www.youtube.com/watch?v=zOCSRzDUI-Y)                                                                                  |
+| Jetson Xavier NX Lesson 1: Introduction and First Boot for Beginners [Paul McWhorter](https://www.youtube.com/watch?v=LuWYXKrQcJ8)                                                 |
+| NVIDIA Jetson Xavier NX Developer Kit [JetsonHacks](https://www.youtube.com/watch?v=aUz1bNGm04w)                                                                                   |
+| Embedded Deep Learning with NVIDIA Jetson [NVIDIA Developer](https://www.youtube.com/watch?v=\_4tzlXPQWb8)                                                                         |
+| NVIDIA JetBot: Jetson Nano Vision-Controlled AI Robot [ExplainingComputers](https://www.youtube.com/watch?v=wKMWjIKaU68)                                                           |
+| Building an AI Robot that can be trained! \|\| Using an NVIDIA single board computer [GreatScott!](https://www.youtube.com/watch?v=EvK2ZQbMn8o)                                    |
+| Autonomous Navigation Mobile Robot using ROS \| Jetson Nano \| RPLidar \| Differential Drive Kinematics [Robotics and ROS Learning](https://www.youtube.com/watch?v=Uz\_i\_sjVhIM) |
+|                                                                                                                                                                                    |
+|                                                                                                                                                                                    |
+|                                                                                                                                                                                    |
 
 ## 手机
 
@@ -760,6 +771,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                           |
 | Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
 | [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
@@ -776,6 +788,7 @@ System on Chip, 系统级芯片
 | I made a cute mini desktop robot ! [稚晖君](https://www.youtube.com/watch?v=FmKTiH5Lca4)                                                                     |
 | I Built a Military Robot from Scratch! [Engineering Juice](https://www.youtube.com/watch?v=5bgXjKqfwAk)                                                   |
 | AMAZING ROBOTIC ANIMALS YOU MUST SEE! [TechZone](https://www.youtube.com/watch?v=ZSNwrIQiod4)                                                             |
+| How to start making AUTONOMOUS ROBOT with the ATTLER [stepbystep-robotics](https://www.youtube.com/watch?v=jlrUUotkIlk)                                   |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |
@@ -825,12 +838,14 @@ System on Chip, 系统级芯片
 
 ### ROS
 
-|                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ |
-| ROS Courses [电子工程世界](http://training.eeworld.com.cn/course/5215) 共13课时 3小时12分50秒                                   |
-| ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB) |
-| ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                           |
-| ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                              |
+|                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ROS Courses [电子工程世界](http://training.eeworld.com.cn/course/5215) 共13课时 3小时12分50秒                                                                                                   |
+| ROS机器人操作系统入门 中国大学MOOC [Albert Einstein](https://www.youtube.com/playlist?list=PLJE-x\_JrJ3OJ97FTBIkUhFwdr3bTOVvIB)                                                                 |
+| ROS教學 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFprxJW18z1Nu9P2bnWCK4KmC)                                                                                           |
+| ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                                                                                              |
+| Autonomous Navigation Mobile Robot using ROS \| Jetson Nano \| RPLidar \| Differential Drive Kinematics [Robotics and ROS Learning](https://www.youtube.com/watch?v=Uz\_i\_sjVhIM) |
+| Visual and LIDAR based SLAM with ROS using Bittle and Raspberry Pi [Hardware.ai](https://www.youtube.com/watch?v=uXpQUIF\_Jyk)                                                     |
 
 ## 乐高 Lego
 

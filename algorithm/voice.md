@@ -68,7 +68,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | <p>Lecture 9 - Speech Recognition (ASR) [Andrew Senior] <a href="https://www.youtube.com/watch?v=HyUtT_z-cms">Zafarullah Mahmood</a></p><p>Deep Learning for NLP at Oxford with Deep Mind 2017 <a href="https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm">Zafarullah Mahmood</a></p> |
 | Python Speech Recognition Project Series [AssemblyAI](https://www.youtube.com/playlist?list=PLcWfeUsAys2nb0i79L\_LqYVfwOWEYA4eD)                                                                                                                                                                             |
 | Speech Recognition in Python Tutorial – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=mYUyaKmvu6Y)                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                              |
+| Build your own real-time voice command recognition model with TensorFlow [AssemblyAI](https://www.youtube.com/watch?v=m-JzldXm9bQ)                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                              |
 
 ### **NVIDIA JARVIS**
@@ -146,6 +146,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant)                              |
 | Assistente Vocale Python - Riconoscimento Vocale con Speech Recognition e Pyttsx3 [PitoneProgrammatore](https://www.youtube.com/watch?v=kXiIK1qahsg) |
 | Build an AI Voice Assistant with PyTorch [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW)   |
+| Build A Python Speech Assistant App [Traversy Media](https://www.youtube.com/watch?v=x8xjj6cR9Nc)                                                    |
+| Intelligent Voice Assistant in Python [NeuralNine](https://www.youtube.com/watch?v=SXsyLdKkKX0)                                                      |
 
 <details>
 

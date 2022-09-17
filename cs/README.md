@@ -116,7 +116,7 @@ Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeC
 
 AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
 
-最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
+
 
 </details>
 
@@ -471,12 +471,6 @@ Computer Components？Computer Architecture？
 | VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-| 内网穿透                                                                                                                                                                       |                                                                                                     |                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 【[司波图](https://www.youtube.com/watch?v=rj1yxHQj8G0)】基于Wireguard组网技术的内网穿透教程                                                                                                 | 教你搭建属于自己的内网穿透服务器（基于frp与zerotier moon服务器） [司波图](https://www.youtube.com/watch?v=rj8vhniGrwA)         | 【278】如何随时随地访问家中的软路由和其他设备？远程访问端口转发保姆级教程丨CloudFlare设置动态DNS 域名解析 URL转发 [BIGDONGDONG](https://www.youtube.com/watch?v=Y0HGp94eHGU) |
-| cpolar [s](https://www.cpolar.com/) [s](https://dashboard.cpolar.com/get-started) [doc](https://www.cpolar.com/docs) [v](https://www.douyin.com/video/7131701871365852452) | 大型公司内网和外网是如何透传的？ [超有趣学网络](https://www.youtube.com/watch?v=ErEaftiEO-0)                              | 超轻量级NPS内网穿透自带后台设置界面，超好用FRP可以下台了。[ Vedio Talk](https://www.youtube.com/watch?v=jdVQQQacPj4)                                     |
-| 【硬核】外网访问？内网穿透！零经验上手！ [科技宅小明](https://www.youtube.com/watch?v=nL0-UZSW\_24) ZeroTier                                                                                        | 外网访问 \| 内网穿透 \| 端口映射 \| 全网最简单的端口映射方案 \| SSH虚拟隧道 [大咖mt](https://www.youtube.com/watch?v=4kCQICjI298) |                                                                                                                                |
-
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Traceroute (tracert) Explained - Network Troubleshooting [PowerCert Animated Videos](https://www.youtube.com/watch?v=up3bcBLZS74) |
@@ -594,12 +588,11 @@ Computer Components？Computer Architecture？
 
 ## 计算机竞赛
 
-|                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189)                                                                                                       |
-| Kaggle Tips for Feature Engineering and Selection \| by Gilberto Titericz \| Kaggle Days Meetup Madrid [Kaggle Days Meetup Spain](https://www.youtube.com/watch?v=RtqtM1UJfZc) |
-| Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
-|                                                                                                                                                                                |
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189) |
+|                                                                          |
+|                                                                          |
 
 ## 项目
 

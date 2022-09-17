@@ -1,11 +1,11 @@
 # 搜索
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)     |
-| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2) |
-| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)               |
-|                                                                                                             |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)                |
+| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)            |
+| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)                          |
+| Working with Google Custom Search Engine using Python [Indian Pythonista](https://www.youtube.com/watch?v=IBhdLRheKyM) |
 
 | 搜索技巧                                                                 |
 | -------------------------------------------------------------------- |
