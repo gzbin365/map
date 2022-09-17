@@ -174,19 +174,20 @@ description: 硬件设备
 
 ## NVIDIA Jetson
 
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)     |
-| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4) |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| NVIDIA Jetson on Battery Power [JetsonHacks](https://www.youtube.com/watch?v=B4afWen1CsY)                                       |
+| 【閣樓社聚】Nvidia Jetson Nano 開箱 & 介紹 ft. 創客萊吧 [亞堤教育](https://www.youtube.com/watch?v=-Ra0Jb7Tyl4)                                   |
+| Jetson Xavier NX Developer Kit: The Next Leap in Edge Computing [NVIDIA Developer](https://www.youtube.com/watch?v=ihRG6Ej9PTM) |
 
 ## 手机
 
-|                                                                                      |
-| ------------------------------------------------------------------------------------ |
-| 教你从0到1升级自己的旧手机，让你家里成为云服务中心 [程序员阿灏](https://www.douyin.com/video/7131701871365852452) |
-| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                  |
-|                                                                                      |
-|                                                                                      |
+|                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a> termux   内网穿透 cpolar <a href="https://www.cpolar.com/">s</a>   $ uname -a 查看手机型号,   dsutil dsutils 文件传输,   curl,</p><p>unzip</p> |
+| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                                                                                                                                                                                    |
+| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                                                                                                                                                         |
+| 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                                                                                                                                                                                       |
 
 ## 手表
 
@@ -268,6 +269,10 @@ description: 硬件设备
 | M2 芯片 MacBook Pro 13 寸评测：为什么说这是学生本？[钟文泽](https://www.youtube.com/watch?v=3KLH3FVVrHY)                                                             |
 | ROG 枪神6Plus超竞版评测: 2022旗舰级处理器+双液金散热！\| [笔吧评测室](https://www.youtube.com/watch?v=lfCuabADWaM)                                                        |
 | 旧笔记本改造再利用，教你DIY爆改平板电脑！！旧笔记本更换电池，超详细教程小白也会做\~真香 [BIG的梦想](https://www.youtube.com/watch?v=4DU8CcOuAEI)                                              |
+| 【[Huan](https://www.youtube.com/watch?v=pV6LQqTNt0E)】 你有見過螢幕可以「折」的筆電嗎? ASUS Zenbook 17 Fold OLED開箱                                                |
+|                                                                                                                                                   |
+|                                                                                                                                                   |
+|                                                                                                                                                   |
 
 ## 平板 Tablet, Pad
 
@@ -517,6 +522,7 @@ description: 硬件设备
 | <p>硬件茶谈</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=P91wpwVGH6M">00</a>期——什么是MOSFET</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=bk1-KqUq4gQ">01</a>期——什么是逻辑门</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=XXIf5_KDjxw">02</a>期——CPU是怎么计算加法的（上）</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=0KIyBXOIuPA">03</a>期——CPU是怎么计算加法的（下）</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=TIMXv79w7ho">04</a>期——CPU是怎么计算减法的</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=8T6O0MHrHVQ">05</a>期——CPU是怎么计算乘法的</p> |
 | cpu是如何计算加法的 [掌芝士](https://www.youtube.com/watch?v=d1CGJ-Y9BFk)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 1936年,艾伦・图灵提出了图灵计算机模型。1971年，cpu在1971年在Intel公司诞生,名为微处理器4004。这中间是科技飞速腾飞的35年 [立创商城](https://www.douyin.com/video/7130834767385300258)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| CPU如何工作 [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 | CPU超频                                                                                  |
 | -------------------------------------------------------------------------------------- |
@@ -676,6 +682,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
+| 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)  |
 | UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
 | 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
 | 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                        |
@@ -753,6 +760,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
 | [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
@@ -897,7 +905,7 @@ System on Chip, 系统级芯片
 | Dave2D [u](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)                                                               | **二斤自制(**[**u**](https://www.youtube.com/channel/UCfZfoX8cqde6Bknw8t8\_rRQ/featured)**, )**                                                         | **Samsung US(**[**u**](https://www.youtube.com/c/SamsungUS/featured)**, )**                                                          |
 | TheRelaxingEnd [u](https://www.youtube.com/c/TheRelaxingEnd/playlists)                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
 | 悦宇搞机　抖音号： [yueyugaoji](https://www.douyin.com/user/MS4wLjABAAAA5mPBa5ZWrVeNwLx6Z9yzW8BUaXR3\_gtBkTNlXDZJ\_mbFhxcllnTXki4o7SQJI1ED) | 机品社　抖音号： [jipinshe](https://www.douyin.com/user/MS4wLjABAAAAJAwIVnSTGVtAV1tZ94nEz3dCzHoqdopiwsPxA-ERbNE)                                            | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
-|                                                                                                                                    | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                                                                                  | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
+| 90后科技说 抖音号：[69140729](https://www.douyin.com/user/MS4wLjABAAAArEguk4UmgcNDiCSPKjfA7kAL5HIvZDp1XaTU8uTMDis)                         | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                                                                                  | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
