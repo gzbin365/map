@@ -265,7 +265,6 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch Transfer Learning with a ResNet - Tutorial [langfab](https://www.youtube.com/watch?v=t6oHGXt04ik)                                                                                                                                                        |
 | How to Install PyTorch GPU for Mac M1/M2 with Conda [Jeff Heaton](https://www.youtube.com/watch?v=VEDy-c5Sk8Y)                                                                                                                                                   |
 | Saving and Loading a PyTorch Neural Network (3.3) [Jeff Heaton](https://www.youtube.com/watch?v=NkG8w\_Ua2Yo)                                                                                                                                                    |
-| I Built an A.I. Voice Assistant using PyTorch - part 1, Wake Word Detection [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=ob0p7G2QoHA)                                                                                                         |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -331,7 +330,6 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 【机器学习 \| 理论与实战】 编程 / Python（[文刀](https://www.youtube.com/playlist?list=PL\_iBl5c4lkzpgB9ixAcHBZTwaupKSdb1i)出品）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Complete Machine Learning and Data Science Courses [Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | MIT 16.412J Cognitive Robotics, Spring 2016 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ARTIFICIAL INTELLIGENCE [Crack Concepts](https://www.youtube.com/playlist?list=PLtPFQl\_0853pZF0lAd8sbv3YW\_n2RIwy1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -479,7 +477,6 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NVIDIA Deep Learning Course [NVIDIA](https://www.youtube.com/watch?v=6eBpjEdgSm0)                                                                                                                             |
 | 2022 人人有功練：資料科學深度學習 [茶米老師教室](https://www.youtube.com/playlist?list=PLExLEp0NoLtjXnlqD-kfd9F7g4bALrvRd)                                                                                                        |
 | Deep Learning [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfau\_eJKVhiaLaqIXCT0F-\_)                                                                                              |
 | Learn TensorFlow and Deep Learning (beginner friendly code-first introduction) [**Daniel Bourke**](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)                                  |
@@ -587,13 +584,12 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 **Dijkstra's Algorithm(**[**v**](https://www.youtube.com/watch?v=GazC3A4OQTE)**, )**
 
-|                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **XGBoost 中文文档(**[**书栈**](https://www.bookstack.cn/books/xgboost-doc-zh)**, )**                                                                                             |
-| XGBoost [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ)                                                             |
-| 算法：Xgboost提升算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)                                                                            |
-| XGBoost与LightGBM 数据科学家常用工具大PK——性能与结构 [Data Application Lab](https://www.youtube.com/watch?v=dOwKbwQ97tI)                                                                    |
-| Time Series Forecasting with XGBoost - Use python and machine learning to predict energy consumption [Medallion Data Science](https://www.youtube.com/watch?v=vV12dGe\_Fho) |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| **XGBoost 中文文档(**[**书栈**](https://www.bookstack.cn/books/xgboost-doc-zh)**, )**                                 |
+| XGBoost [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ) |
+| 算法：Xgboost提升算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)                |
+| XGBoost与LightGBM 数据科学家常用工具大PK——性能与结构 [Data Application Lab](https://www.youtube.com/watch?v=dOwKbwQ97tI)        |
 
 ### 极客学院机器学习训练营
 
@@ -709,9 +705,6 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Linear Regression From Scratch in Python (Mathematical) [NeuralNine](https://www.youtube.com/watch?v=VmbA0pi2cRQ)                                                            |
 | 简单线性回归简介（simple linear regression ）Python统计66——Python程序设计系列169 [Andrew 程序设计](https://www.youtube.com/watch?v=dBpteB5F0Pk\&list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD\&index=64) |
 | 11 1 简单线性回归的统计描述 11 [医学统计学-郝元涛（中山大学）](https://www.youtube.com/watch?v=pMqrpZaUvOQ\&list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6\&index=53)                                       |
-| Bayesian Linear Regression: Simple Linear Regression Review [Lazy Programmer](https://www.youtube.com/watch?v=ef2f\_MUdJ3Y)                                                  |
-| Bayesian Linear Regression: Distribution of Parameter Estimate [Lazy Programmer](https://www.youtube.com/watch?v=zS6KpzrV6Xc)                                                |
-|                                                                                                                                                                              |
 
 ### KNN
 
@@ -753,7 +746,6 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | 181 - Multivariate time series forecasting using LSTM [DigitalSreeni](https://www.youtube.com/watch?v=tepxdcepTbY)                                                                                                     |
 | Time Series Analysis (ARIMA) using Python [Tathya Bislesan](https://www.youtube.com/watch?v=hNkI7opf5YM)                                                                                                               |
 | Time Series Analysis For Rainfall Prediction Using LSTM Model - Explained For Beginners [AI Sciences](https://www.youtube.com/watch?v=fHi7RN54mZA)                                                                     |
-| Time Series Forecasting with XGBoost - Use python and machine learning to predict energy consumption [Medallion Data Science](https://www.youtube.com/watch?v=vV12dGe\_Fho)                                            |
 
 ### 支持向量机 SVM
 
@@ -787,8 +779,6 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                                 |
 | The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                         |
 | Illustrated Guide to Deep Learning [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NqKCWYjCnIiLf4cTthmWSGX) |
-| How are memories stored in neural networks? \| The Hopfield Network #SoME2 [Layerwise Lectures](https://www.youtube.com/watch?v=piF6D6CQxUw) |
-| Talk \| FAIR研究科学家刘壮：高效和可扩展的视觉神经网络架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=VGewJ8ol26k)                                           |
 
 ### RNN Recurrent Neural Networks
 
@@ -1009,7 +999,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)      |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)    |
 | 【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型 [Hung-yi Lee](https://www.youtube.com/watch?v=yHoAq1IT\_og) |
-| Attention in Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=W2rWgXJBZhU)                 |
 |                                                                                                          |
 
 ### 损失函数
@@ -1208,8 +1197,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Exploring the NEW Hugging Face Diffusers Package \| Diffusion Models w/ Python [Nicholas Renotte](https://www.youtube.com/watch?v=P-rzgaIfZCo)                    |
 | Stable Diffusion - What, Why, How? [Edan Meyer](https://www.youtube.com/watch?v=ltLNYA3lWAQ)                                                                      |
 | 由浅入深了解Diffusion Model [ewrfcas](https://zhuanlan.zhihu.com/p/525106459)                                                                                           |
-| Creating Stable Diffusion Interpolation Videos [sentdex](https://www.youtube.com/watch?v=275\_oeBw3vY)                                                            |
-| midjourney [v](https://www.douyin.com/video/7143131371261791496)                                                                                                  |
 
 ## 基础模型 Foundation Models
 
