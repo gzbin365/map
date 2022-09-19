@@ -6,7 +6,7 @@
 | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                   | Florin Pop [u](https://www.youtube.com/c/FlorinPop/playlists)                                 |
 | 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) | 野生IT散修 [u](https://www.youtube.com/channel/UCLH9ADYJh3UaqYI554Lm84w/playlists)                |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                 | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)            |
-|                                                                                              | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
+| Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)         | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
 |                                                                                              |                                                                                               |
 |                                                                                              |                                                                                               |
 |                                                                                              |                                                                                               |
@@ -121,6 +121,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
 | Create 3D Site with Spline and React - Full Course [DesignCode](https://www.youtube.com/watch?v=EJxeMbDTkVI)                                                             |
 | Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More [JavaScript Mastery](https://www.youtube.com/watch?v=jx5hdo50a2M)   |
@@ -178,6 +179,8 @@
 | Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE) |
 | Next.js for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I)                                                          |
 | 🔴 Build Modern Portfolio with NextJS, TypeScript, SSR, and CMS [Clever Programmer](https://www.youtube.com/watch?v=Ym6RYyRBPaA)                         |
+| Next.js 12.3 Overview: Improved Fast Refresh, TypeScript Auto-Install, and more. [Vercel](https://www.youtube.com/watch?v=3UD7Y02AcN4)                   |
+| The Story of Next.js [uidotdev](https://www.youtube.com/watch?v=BILxV\_vrZO0)                                                                            |
 
 ## Node
 
@@ -352,6 +355,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
+| Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 
 ### TypeScript
 

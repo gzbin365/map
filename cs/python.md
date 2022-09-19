@@ -85,6 +85,8 @@
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python FULL Crash Course For ABSOLUTE Beginners [Austin Davis](https://www.youtube.com/watch?v=F82YA7R6yDc)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Python for Beginners – Full Course \[Programming Tutorial] [freeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 老男孩教育 Python全栈开发第3期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCKnY9w--w1fT8Z9BT0JEa4e)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 听说学 Python 找不到工作？试试这个学习路线！【[程序员鱼皮](https://www.youtube.com/watch?v=fCeKVVuJAbI)】                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Programming Terms [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsnP0Nl1UDY8VZAlHu1m\_MQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -614,6 +616,22 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | PyCharm Version Control w/ Git & GitHub \| Basics in 12 Minutes \| Updated 2022 [Max teaches Tech](https://www.youtube.com/watch?v=8ZEssR8VTKo) |   |   |
 |                                                                                                                                                 |   |   |
 |                                                                                                                                                 |   |   |
+
+## Lapce
+
+|                                                                                                  |   |   |
+| ------------------------------------------------------------------------------------------------ | - | - |
+| Lapce - Powerful New Code Editor [Gamefromscratch](https://www.youtube.com/watch?v=\_52ZUg-QmW0) |   |   |
+|                                                                                                  |   |   |
+|                                                                                                  |   |   |
+
+## XCode
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ## 高性能计算
 

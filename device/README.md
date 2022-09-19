@@ -124,6 +124,7 @@ description: 硬件设备
 | Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                                                  |
 | Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                                                                  |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                                                           |
+| The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                                                     |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
