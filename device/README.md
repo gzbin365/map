@@ -481,6 +481,7 @@ description: 硬件设备
 | 【Huan】 我見證了一張主機板的誕生 [Huan](https://www.youtube.com/watch?v=iOPZSkBy964)                                                |
 | I've Made a Powerful COILGUN \| Separate Stages PCB [Electronoobs](https://www.youtube.com/watch?v=id90kjYh-Qw)        |
 | 入侵 保护                                                                                                                  |
+| What are PCBs? \|\| How do PCBs Work? [Branch Education](https://www.youtube.com/watch?v=Z2LgmIGE2nI)                  |
 
 ## Xilinx
 
@@ -992,8 +993,8 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 
 ## 维修
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) |   |
-|                                                                                                              |   |
-|                                                                                                              |   |
+|                                                                                                              |                                                                      |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
+|                                                                                                              |                                                                      |
+|                                                                                                              |                                                                      |

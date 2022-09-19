@@ -531,6 +531,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | VSCodium -- Visual Studio Code without the Microsoft [Gamefromscratch](https://www.youtube.com/watch?v=rSPpf1zjHG4)                                                                                                                                                                                                               |
 | remote-ssh [v](https://www.youtube.com/watch?v=UIAj8zy1kio) 2:15                                                                                                                                                                                                                                                                  |
 | CS50P - Visual Studio Code for [CS50](https://www.youtube.com/watch?v=Oi1lvJS4uS8)                                                                                                                                                                                                                                                |
+| Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks [Lama Dev](https://www.youtube.com/watch?v=jsZoR1kkq6s)                                                                                                                                                                                                               |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 
@@ -911,46 +912,54 @@ Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/
 | 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg)    |
 | Python 函数装饰器 [runoob](https://www.runoob.com/w3cnote/python-func-decorators.html) |
 
-|                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Reuven M. Lerner -** [**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY) **- PyCon 2019**                       |
-| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                          |
-| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                    |
-| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                         |
-| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                     |
-| Stardew Valley Game Clone with Python and Pygame – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=R9apl6B\_ZgI)           |
-| Creating a Stardew Valley inspired game in Python [Clear Code](https://www.youtube.com/watch?v=T4IX36sP\_0c)                          |
-| Drum Machine with Python and Pygame – Full Project Course [freeCodeCamp](https://www.youtube.com/watch?v=F3J3PZj0zi0)                 |
-| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)            |
-| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                    |
-| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)                |
-| Pygame in 90 Minutes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)                                     |
-| Pygame Tutorial - Creating Space Invaders [Tech With Tim](https://www.youtube.com/watch?v=Q-\_\_8Xw9KTM)                              |
-| Pygame Car Racing Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)                  |
-| Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5) |
-| Zelda in Python [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)                                                             |
-| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)     |
-| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                                 |
-| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                         |
-| Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                      |
-| Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                      |
-| jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                 |
-| [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)  |
-| 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                             |
-| Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                  |
-| 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                          |
-| \[程序员小飞]Python如何定时发送邮件｜Python定时器\|SMTP POP3 [程序员小飞](https://www.youtube.com/watch?v=hypAlCKLyR0)                                      |
-| Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                    |
-| Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                     |
-| 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                    |
-| Physics Simulations With Python and PyMunk [Tech With Tim](https://www.youtube.com/watch?v=tLsi2DeUsak)                               |
-| Why Random Numbers Aren't Random [Tech With Tim](https://www.youtube.com/watch?v=Nm8NF9i9vsQ)                                         |
-| Counters in Python Simply Explained [NeuralNine](https://www.youtube.com/watch?v=yrV\_\_XKaFn8)                                       |
-| Python之禅Python 中《import this》背后的故事 [刘志军](https://juejin.cn/post/6844903488216891405)                                                  |
-| 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                    |
-| Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                      |
-| Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)             |
-|                                                                                                                                       |
+|                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Reuven M. Lerner -** [**Practical decorators**](https://www.youtube.com/watch?v=MjHpMCIvwsY) **- PyCon 2019**                                                        |
+| Spinning ASCII Donut in Python 🍩 [Make Things](https://www.youtube.com/watch?v=D26bLJ9ut88)                                                                           |
+| Donut-shaped C code that generates a 3D spinning donut [Lex Fridman](https://www.youtube.com/watch?v=DEqXNfs\_HhY)                                                     |
+| PySpark Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=\_C8kWso4ne4)                                                                                          |
+| pygame 3小时制作一个游戏 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=61eX0bFAsYs)                                                                                      |
+| Stardew Valley Game Clone with Python and Pygame – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=R9apl6B\_ZgI)                                            |
+| Creating a Stardew Valley inspired game in Python [Clear Code](https://www.youtube.com/watch?v=T4IX36sP\_0c)                                                           |
+| Drum Machine with Python and Pygame – Full Project Course [freeCodeCamp](https://www.youtube.com/watch?v=F3J3PZj0zi0)                                                  |
+| Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                             |
+| 2D Game Development \| Pygame [Pyathlon](https://www.youtube.com/playlist?list=PL4U0724Jn5ZxvILgwV1A786Aqg92wHSEQ)                                                     |
+| Pygame Programming Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)                                                 |
+| Pygame in 90 Minutes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)                                                                      |
+| Pygame Tutorial - Creating Space Invaders [Tech With Tim](https://www.youtube.com/watch?v=Q-\_\_8Xw9KTM)                                                               |
+| Pygame Car Racing Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)                                                   |
+| Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5)                                  |
+| Zelda in Python [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)                                                                                              |
+| Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)                                      |
+| 3D Animation in Python Tutorial [Mandaw](https://www.youtube.com/watch?v=fP03zasnzcA)                                                                                  |
+| PYTHON:How to access mobile camera to PC monitor [Cyber Monster](https://www.youtube.com/watch?v=iqZKdKuoePI)                                                          |
+| Python's staticmethod and classmethod, what are they for? [mCoding](https://www.youtube.com/watch?v=SXApHXsDe8I)                                                       |
+| Jupyter Notebook Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)                                                       |
+| jupyter 数据应用课程直播 [Min Yuan](https://www.youtube.com/playlist?list=PLNhCjSmDNXJvquv9AhEeF8Rz1Qd0yKqa6)                                                                  |
+| [porth](https://gitlab.com/tsoding/porth) I don't use Python anymore... [Tsoding Daily](https://www.youtube.com/watch?v=wqyYU4aQGQ8)                                   |
+| 发布一个Python包，你需要做哪些事？ [小旭学长](https://www.youtube.com/watch?v=No\_PbOcM0n8)                                                                                              |
+| Compiling & Decompiling Python Scripts [NeuralNine](https://www.youtube.com/watch?v=UFz5kNTRk3g) 反编译                                                                   |
+| 用Python实现自动发送邮件 [朱卫军](https://zhuanlan.zhihu.com/p/89868804)                                                                                                           |
+| Create email and text message SMS alerts with Python! [ClarityCoders](https://www.youtube.com/watch?v=B1IsCbXp0uE)                                                     |
+| How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More [Corey Schafer](https://www.youtube.com/watch?v=JRCJ6RtE3xU)                   |
+| How to Automate Emails with Python \[New Method 2022] [Frank Andrade](https://www.youtube.com/watch?v=g\_j6ILT-X0k)                                                    |
+| Send Emails using Python \| HTML Formatting \| HTML Tables \| Emails with Attachments \| HTML Templates [BI Insights Inc](https://www.youtube.com/watch?v=cKsTNnVMKt8) |
+| How to send HTML Emails using Python \|\| smtplib [Fun With Code](https://www.youtube.com/watch?v=0N5BxEHnvuc)                                                         |
+| Send sms with python - hacking using sms [Hybrid technology](https://www.youtube.com/watch?v=dSdBRrozFBc)                                                              |
+| How to Send an Email with Python [Tech With Tim](https://www.youtube.com/watch?v=YJagw7GfZcE)                                                                          |
+| \[程序员小飞]Python如何定时发送邮件｜Python定时器\|SMTP POP3 [程序员小飞](https://www.youtube.com/watch?v=hypAlCKLyR0)                                                                       |
+| Whatsapp Automation - Send Attachments - using Python [Get Set Python](https://www.youtube.com/watch?v=x85ba0VYsYo)                                                    |
+| Bandwidth Monitor in Python [NeuralNine](https://www.youtube.com/watch?v=O76lnYFvbTU) 带宽监视器 psutil                                                                     |
+| Password Manager in Python [NeuralNine](https://www.youtube.com/watch?v=O8596GPSJV4) cryptography                                                                      |
+| 一节课教你用Python打造一个简单的信息管理系统 [Python学习者](https://www.youtube.com/watch?v=FoHMhlX2l8E)                                                                                     |
+| Physics Simulations With Python and PyMunk [Tech With Tim](https://www.youtube.com/watch?v=tLsi2DeUsak)                                                                |
+| Why Random Numbers Aren't Random [Tech With Tim](https://www.youtube.com/watch?v=Nm8NF9i9vsQ)                                                                          |
+| Counters in Python Simply Explained [NeuralNine](https://www.youtube.com/watch?v=yrV\_\_XKaFn8)                                                                        |
+| Python之禅Python 中《import this》背后的故事 [刘志军](https://juejin.cn/post/6844903488216891405)                                                                                   |
+| 有趣的Python之import this [大蟒蛇](https://zhuanlan.zhihu.com/p/87090213)                                                                                                     |
+| Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                                                       |
+| Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)                                              |
+|                                                                                                                                                                        |
 
 <details>
 
