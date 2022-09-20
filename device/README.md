@@ -124,6 +124,7 @@ description: 硬件设备
 | Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                                                  |
 | Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                                                                  |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                                                           |
+| The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                                                     |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
@@ -481,6 +482,7 @@ description: 硬件设备
 | 【Huan】 我見證了一張主機板的誕生 [Huan](https://www.youtube.com/watch?v=iOPZSkBy964)                                                |
 | I've Made a Powerful COILGUN \| Separate Stages PCB [Electronoobs](https://www.youtube.com/watch?v=id90kjYh-Qw)        |
 | 入侵 保护                                                                                                                  |
+| What are PCBs? \|\| How do PCBs Work? [Branch Education](https://www.youtube.com/watch?v=Z2LgmIGE2nI)                  |
 
 ## Xilinx
 
@@ -879,6 +881,7 @@ System on Chip, 系统级芯片
 | Jim Keller: The Future of Computing, AI, Life, and Consciousness \| [Lex Fridman](https://www.youtube.com/watch?v=G4hL5Om4IJ4) Podcast #162 |
 | 不要太在意人口数量，挖掘人口深度 [九边](https://www.douyin.com/video/7056037049886838047)                                                                     |
 | tsmc                                                                                                                                        |
+| TSMC's Renegade Genius [Asianometry](https://www.youtube.com/watch?v=-W0YdacKwUo) 梁孟松                                                       |
 | 以絕對的技術壟斷世界半導體界, 獨力撐起半個台灣的護國神山 - 台積電 (TSMC) [窮奢極欲](https://www.youtube.com/watch?v=rUUVW\_PPaoE) 3:50                                        |
 | 半導體奇妙的旅程—從原子結構的量子探索到人工智慧的開花結果｜盧志遠院士 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=xWOr0qqHvTI)                                     |
 | 性能至上？聊聊人工智能芯片的5个评价标准 [老石谈芯](https://www.youtube.com/watch?v=KICKrJZMoKA)                                                                    |
@@ -921,6 +924,7 @@ System on Chip, 系统级芯片
 | TheRelaxingEnd [u](https://www.youtube.com/c/TheRelaxingEnd/playlists)                                                             | CNET Highlights([u](https://www.youtube.com/channel/UCmKtn\_HvpfbTu3QV4lhJIMw/playlists), )                                                         | The Friday Checkout [u](https://www.youtube.com/c/TheFridayCheckout/videos)                                                          |
 | 悦宇搞机　抖音号： [yueyugaoji](https://www.douyin.com/user/MS4wLjABAAAA5mPBa5ZWrVeNwLx6Z9yzW8BUaXR3\_gtBkTNlXDZJ\_mbFhxcllnTXki4o7SQJI1ED) | 机品社　抖音号： [jipinshe](https://www.douyin.com/user/MS4wLjABAAAAJAwIVnSTGVtAV1tZ94nEz3dCzHoqdopiwsPxA-ERbNE)                                            | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
 | 90后科技说 抖音号：[69140729](https://www.douyin.com/user/MS4wLjABAAAArEguk4UmgcNDiCSPKjfA7kAL5HIvZDp1XaTU8uTMDis)                         | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                                                                                  | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
+| Gamers Nexus [u](https://www.youtube.com/c/GamersNexus)                                                                            |                                                                                                                                                     |                                                                                                                                      |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -992,8 +996,8 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 
 ## 维修
 
-|                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------ | - |
-| 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) |   |
-|                                                                                                              |   |
-|                                                                                                              |   |
+|                                                                                                              |                                                                      |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
+|                                                                                                              |                                                                      |
+|                                                                                                              |                                                                      |
