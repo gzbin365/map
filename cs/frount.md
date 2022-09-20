@@ -6,7 +6,7 @@
 | **Ben Awad(**[**u**](https://www.youtube.com/c/BenAwad97/playlists)**, )**                   | Florin Pop [u](https://www.youtube.com/c/FlorinPop/playlists)                                 |
 | 布魯斯前端 [u](https://www.youtube.com/c/%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF/playlists) | 野生IT散修 [u](https://www.youtube.com/channel/UCLH9ADYJh3UaqYI554Lm84w/playlists)                |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                 | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)            |
-|                                                                                              | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
+| Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)         | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
 |                                                                                              |                                                                                               |
 |                                                                                              |                                                                                               |
 |                                                                                              |                                                                                               |
@@ -111,6 +111,7 @@
 | <p>Vue.js：纪录片 <a href="https://www.youtube.com/watch?v=OrxmtDw4pVI">Honeypot</a></p><p>Vue.js: The Documentary</p>                                           |
 | Vue.js Course for Beginners \[2021 Tutorial] [freeCodeCamp](https://www.youtube.com/watch?v=FXpIoQ\_rT\_c)                                                   |
 | Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows　[freeCodeCamp](https://www.youtube.com/watch?v=la-0ulfn0\_M) |
+| PanJiaChen/[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) [v](https://www.douyin.com/video/7144685614561086728)                        |
 
 ## React
 
@@ -120,6 +121,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
 | Create 3D Site with Spline and React - Full Course [DesignCode](https://www.youtube.com/watch?v=EJxeMbDTkVI)                                                             |
 | Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More [JavaScript Mastery](https://www.youtube.com/watch?v=jx5hdo50a2M)   |
@@ -177,6 +179,8 @@
 | Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE) |
 | Next.js for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I)                                                          |
 | 🔴 Build Modern Portfolio with NextJS, TypeScript, SSR, and CMS [Clever Programmer](https://www.youtube.com/watch?v=Ym6RYyRBPaA)                         |
+| Next.js 12.3 Overview: Improved Fast Refresh, TypeScript Auto-Install, and more. [Vercel](https://www.youtube.com/watch?v=3UD7Y02AcN4)                   |
+| The Story of Next.js [uidotdev](https://www.youtube.com/watch?v=BILxV\_vrZO0)                                                                            |
 
 ## Node
 
@@ -217,6 +221,9 @@
 
 |                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learn HTML & CSS – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=a\_iQb1lnAEQ)                                                                                             |
+| HTML / CSS Tutorial – Create an Order Summary Component [freeCodeCamp](https://www.youtube.com/watch?v=SR5GxoFhIAU)                                                                                   |
+| 10 HTML, CSS & JAVASCRIPT Projects For BEGINNER (Road to PRO LEVEL) [ProgrammingWithSingh](https://www.youtube.com/watch?v=XQpDfZE3SUM)                                                               |
 | SpaceX Website Clone - HTML, CSS & JavaScript [Traversy Media](https://www.youtube.com/watch?v=wryPX7KSwSc)                                                                                           |
 | 5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc [Traversy Media](https://www.youtube.com/watch?v=HtunPQtr-Xw)                                                |
 | Create A Responsive Website Using HTML, CSS And Bootstrap 4 In Hindi [CodeWithHarry](https://www.youtube.com/watch?v=o5vKJmqXO\_g)                                                                    |
@@ -300,6 +307,13 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| mrdoob/[three.js](https://github.com/mrdoob/three.js/)/   JavaScript 3D Library. [v](https://www.douyin.com/video/7145082792458620168)                                                       |
+| JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                             |
+| JavaScript King [u](https://www.youtube.com/c/JavaScriptKing)                                                                                                                                |
+| Multi-Step Login Form using HTML , CSS & JS [Anunay Bhaiyaa](https://www.youtube.com/watch?v=DdSi9vJ1Aus)                                                                                    |
+| How to build Jarvis with javascript [The Enthusiastic Dev](https://www.youtube.com/playlist?list=PLWqtZHJOTN49HtkbGvjM8DcsrytltF1kP)                                                         |
+| 3d robot with html, css and js [Funny web](https://www.youtube.com/watch?v=Z\_cjaiJwAvI)                                                                                                     |
+| I created a talking BOT with Javascript \|\| Javascript Project\|HTML CSS JS Mini Project For Beginners [KadirMedia](https://www.youtube.com/watch?v=9o2rSxHiv9w)                            |
 | Low Level JavaScript [u](https://www.youtube.com/c/LowLevelJavaScript)                                                                                                                       |
 | JavaScript Full Course 🌐 -Learn to code today-【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=8dWL3wF\_OMw)                                                                           |
 | JavaScript DOM Manipulation – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)                                                                          |
@@ -342,6 +356,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
+| Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 
 ### TypeScript
 
@@ -416,6 +431,8 @@ Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fire
 ### Bootstrap
 
 Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)
+
+termux用的bootstrap?
 
 ## 用户体验 UX User Experience
 
