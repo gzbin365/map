@@ -739,6 +739,7 @@ System on Chip, 系统级芯片
 | 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                      |
 | 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                  |
 | 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                      |
+| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                   |
 |                                                                                                                                                 |
 
 ## 手工, DIY

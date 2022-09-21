@@ -116,20 +116,19 @@ Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeC
 
 AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
 
-最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
+
 
 </details>
 
 ### Nvidia
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| [s](https://www.nvidia.cn/)                                                                                |
-| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25) |
-| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)      |
-| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                |
-| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)        |
-| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)                   |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| [s](https://www.nvidia.cn/)                                                                           |
+| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/) |
+| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                           |
+| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)   |
+| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)              |
 
 ### Facebook
 
@@ -470,14 +469,7 @@ Computer Components？Computer Architecture？
 | <p>掌简单说网络1-计算机是如何通信的？IP地址与mac地址是什么？dhcp与arp又是什么？ <a href="https://www.youtube.com/watch?v=DM1owMey-nQ">掌芝士</a></p><p>交换机和路由器有什么区别？网关和路由又是什么意思？简单说网络 <a href="https://www.youtube.com/watch?v=HmscVF3vKQs">掌芝士</a></p><p>家庭网络如何通过路由器上网？源地址转换和目标地址转换时什么？ <a href="https://www.youtube.com/watch?v=N-7mHEMHH-A">掌芝士</a></p><p>一条视频讲清楚TCP协议与UDP协议-什么是三次握手与四次挥手? <a href="https://www.youtube.com/watch?v=Iuvjwrm_O5g">掌芝士</a></p><p>隧道网络-VPN-小火箭 一条视频讲清楚 <a href="https://www.youtube.com/watch?v=YhASZ2ay4rA">掌芝士</a></p> |
 | 互联网是如何工作的？VPN、SSR、V2ray翻墙是什么原理？ [啃芝士](https://www.youtube.com/watch?v=iidqJ7p7ln4)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 29丨网络故障排除命令 [M Max](https://www.youtube.com/watch?v=27CuaVTApx4)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 家庭组网之如何开启IPv6? [韩风Talk](https://www.youtube.com/watch?v=xj3bJRPzr8Y)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-
-| 内网穿透                                                                                                                                                                       |                                                                                                     |                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 【[司波图](https://www.youtube.com/watch?v=rj1yxHQj8G0)】基于Wireguard组网技术的内网穿透教程                                                                                                 | 教你搭建属于自己的内网穿透服务器（基于frp与zerotier moon服务器） [司波图](https://www.youtube.com/watch?v=rj8vhniGrwA)         | 【278】如何随时随地访问家中的软路由和其他设备？远程访问端口转发保姆级教程丨CloudFlare设置动态DNS 域名解析 URL转发 [BIGDONGDONG](https://www.youtube.com/watch?v=Y0HGp94eHGU) |
-| cpolar [s](https://www.cpolar.com/) [s](https://dashboard.cpolar.com/get-started) [doc](https://www.cpolar.com/docs) [v](https://www.douyin.com/video/7131701871365852452) | 大型公司内网和外网是如何透传的？ [超有趣学网络](https://www.youtube.com/watch?v=ErEaftiEO-0)                              | 超轻量级NPS内网穿透自带后台设置界面，超好用FRP可以下台了。[ Vedio Talk](https://www.youtube.com/watch?v=jdVQQQacPj4)                                     |
-| 【硬核】外网访问？内网穿透！零经验上手！ [科技宅小明](https://www.youtube.com/watch?v=nL0-UZSW\_24) ZeroTier                                                                                        | 外网访问 \| 内网穿透 \| 端口映射 \| 全网最简单的端口映射方案 \| SSH虚拟隧道 [大咖mt](https://www.youtube.com/watch?v=4kCQICjI298) |                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -596,12 +588,11 @@ Computer Components？Computer Architecture？
 
 ## 计算机竞赛
 
-|                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189)                                                                                                       |
-| Kaggle Tips for Feature Engineering and Selection \| by Gilberto Titericz \| Kaggle Days Meetup Madrid [Kaggle Days Meetup Spain](https://www.youtube.com/watch?v=RtqtM1UJfZc) |
-| Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
-|                                                                                                                                                                                |
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189) |
+|                                                                          |
+|                                                                          |
 
 ## 项目
 

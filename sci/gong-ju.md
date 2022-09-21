@@ -5,19 +5,24 @@
 | 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos)               | [计时器](https://naozhong.net.cn/jishiqi/)                                  |
 | 工具大师i [u](https://www.youtube.com/c/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88i)              | 止吾说 [u](https://www.youtube.com/c/%E6%AD%A2%E5%90%BE%E8%AF%B4/playlists) |
 | [knowledge](https://wiki.nikiv.dev/) [git](https://github.com/nikitavoloboev/knowledge) | [4download](https://4download.net/)                                      |
+| 蚂蚱资源网 [s](http://www.qiteb.com/sort/17)                                                 |                                                                          |
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)                   |
-| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                |
-| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA)        |
-| My favorite LaTeX packages for writing beautiful math documents　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=331YxgOJUGw) |
-| How I make beautiful GRAPHS and PLOTS using LaTeX [Dr. Trefor Bazett](https://www.youtube.com/watch?v=5jmIHOWpEg0)               |
-| Overleaf                                                                                                                         |
-| 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)              |
-| results?search\_query=[colab+latex](https://www.youtube.com/results?search\_query=colab+latex)                                   |
-| LaTex Tutorial for Beginners Full Course [Academic Lesson](https://www.youtube.com/watch?v=fCzF5gDy60g)                          |
-|                                                                                                                                  |
+
+
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)                            |
+| LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                         |
+| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA)                 |
+| My favorite LaTeX packages for writing beautiful math documents　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=331YxgOJUGw)          |
+| How I make beautiful GRAPHS and PLOTS using LaTeX [Dr. Trefor Bazett](https://www.youtube.com/watch?v=5jmIHOWpEg0)                        |
+| Overleaf                                                                                                                                  |
+| 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)                       |
+| results?search\_query=[colab+latex](https://www.youtube.com/results?search\_query=colab+latex)                                            |
+| LaTex Tutorial for Beginners Full Course [Academic Lesson](https://www.youtube.com/watch?v=fCzF5gDy60g)                                   |
+| zotero [s](https://www.zotero.org/) Your personal research assistant                                                                      |
+| 小绿鲸SCI阅读器 [s](https://www.xljsci.com/) [v](https://www.douyin.com/video/7132483802345000222) [zh](https://zhuanlan.zhihu.com/p/398700230) |
+|                                                                                                                                           |
 
 | Short link                                                |
 | --------------------------------------------------------- |
@@ -40,7 +45,13 @@
 |                                |                                  |                                  |
 |                                |                                  |                                  |
 
-### 安卓模拟器
+### 安卓模拟器, emulator
+
+|                                                                                                      |   |   |
+| ---------------------------------------------------------------------------------------------------- | - | - |
+| 【[Huan](https://www.youtube.com/watch?v=ZoURL5INFvE)】 手遊模擬器多開需要怎樣的電腦配備? PC電腦玩手遊: RO仙境傳說:愛如初見   夜神模拟器 |   |   |
+|                                                                                                      |   |   |
+|                                                                                                      |   |   |
 
 | bluestacks                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,6 +92,8 @@
 | Android VM                                                                                                              |   |
 | Android VM - The best Android X86 VM for Gaming Performance! [Linux Leech](https://www.youtube.com/watch?v=bz8FugjsHs8) |   |
 
+## 网盘
+
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                 |
@@ -104,6 +117,7 @@
 |                                |                                  |
 | ------------------------------ | -------------------------------- |
 | [城通网盘](https://www.ctfile.com) | [123云盘](https://www.123pan.com/) |
+| [夸克网盘](https://pan.quark.cn/)  | [蓝奏云](https://www.lanzouh.com/)  |
 
 | 谷歌搜索技巧                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -119,6 +133,7 @@
 | [#remote-desktop](https://github.com/topics/remote-desktop)  [#teamviewer](https://github.com/topics/teamviewer)                                             |
 | 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
 | Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                                    |
+| Pi-Hosted : Must Have Tool For System Admins - Rust Desk Open Source Remote Desktop Software [Novaspirit Tech](https://www.youtube.com/watch?v=PDnqFnnbVHg)  |
 
 ## utools
 

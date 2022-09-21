@@ -307,6 +307,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                              |
 | mrdoob/[three.js](https://github.com/mrdoob/three.js/)/   JavaScript 3D Library. [v](https://www.douyin.com/video/7145082792458620168)                                                       |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                             |
 | JavaScript King [u](https://www.youtube.com/c/JavaScriptKing)                                                                                                                                |
@@ -357,6 +358,8 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 | Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
+| Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) [freeCodeCamp](https://www.youtube.com/watch?v=zJSY8tbf\_ys)                                                                |
+|                                                                                                                                                                                              |
 
 ### TypeScript
 

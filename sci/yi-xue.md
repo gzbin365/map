@@ -46,6 +46,7 @@
 | 中国居民膳食指南                                                                                                                                                                                                                                                                                                                                                                                  |
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 | 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
+| 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
 
 ### 生酮饮食
 
@@ -76,23 +77,25 @@
 | 營養健身葛格Peeta [u](https://www.youtube.com/channel/UCSSjn1X6yMBC3AyJ2azeG7A)                                                                                                                                                                                                                                               |                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                         |                                                                                                                   |
 
-### 大体重减肥
+### 减肥
 
 |                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>大体重大基数减肥黄金动作  <a href="https://www.douyin.com/video/7024326189460327688">250斤汉堡要逆袭</a></p><p>１　开合并步　４组　３０个／组　开合跳的简易版</p><p>２　跨下击掌　４组　４０个／组　高效燃脂瘦肚子</p><p>３　顶膝下压　４组　４０个／组　有效收紧小腹部</p> |
-|                                                                                                                                                                                         |
+| 不爱减肥的郭飞 抖音号：[95662447027](https://www.douyin.com/user/MS4wLjABAAAAPFsyld-\_Kq1YRCMaUsK3U4prCBNaDavUKoT7GBQv2jkQ-eKAPV84LBWYrDILaa\_B)                                                   |
 |                                                                                                                                                                                         |
 
 ## 食品
 
 |                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 段小段 抖音号：[96792116984](https://www.douyin.com/user/MS4wLjABAAAAStLWq\_tfraR4qw9A3nlsP4KrBm5IL0AMKwYn\_btKHaEw\_3nybmXv3LWDBerecftn)                                                                                              |
 | 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)                                                                                                    |
 | 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW)                                                                                               |
 | 彩虹星球安全食材　抖音号： [CaiHongXinQiu](https://www.douyin.com/user/MS4wLjABAAAA6o-kxl5M7JsjITv7a-kx6l8ede-okx\_ZtIwpSS1RMISE9EKAYoCHERaO9GuUwOjA)　有黑历史                                                                                   |
 | 刘左飞 抖音号： [NCzuofei666](https://www.douyin.com/user/MS4wLjABAAAAcZpV\_XHGPjt\_OVXwdx6mGiD98GKWVFFgcsP\_lV0-eXE)  饮料相关                                                                                                            |
 | 由米由家生态农业 抖音号： [youmiyoujia](https://www.douyin.com/user/MS4wLjABAAAAbnC\_m6I-lJNhHxkpI6moPVOUHNI13FyCa4lZoy8-Hpx88Qgp1ey5j6FRmcvRbUoU)                                                                                          |
+| 辛吉飞 抖音号：[KmjAF](https://www.douyin.com/user/MS4wLjABAAAAEJQhsV2XehwvEi62fy1JEqMiFQ3P6lMXbaSyZc-rUYA)                                                                                                                            |
 | 莎啦沒問題Sara's Moments [u](https://www.youtube.com/channel/UCytM06C\_eAilnTLRdMDwf7Q)                                                                                                                                              |
 | [吃得安心](https://www.douyin.com/video/7034773666026081568) 农科院　零食大全                                                                                                                                                               |
 | <p>十大超级健康食物　<a href="https://www.douyin.com/video/7034825604071558411">柳老师的日常健康</a></p><p>10卷心菜 9洋葱 8石榴 7糙米 6红薯 5香蕉 4西兰花 3蓝莓 2菠菜 1番茄</p>                                                                                        |
