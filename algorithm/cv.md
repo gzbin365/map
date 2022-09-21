@@ -38,6 +38,8 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 
 |                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 李飞飞: 我们怎么教计算机理解图片？ [TED](https://www.youtube.com/watch?v=40riCqvRoMs)                                                                                                                                                                       |
+| How computers learn to recognize objects instantly \| Joseph Redmon [TED](https://www.youtube.com/watch?v=Cgxsv1riJhI)                                                                                                                      |
 | 机器视觉-2020北邮远程课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RQ6tTu-c2ZFFrMxtSIhztC) [git](https://github.com/CV-xueba/A01\_cvclass\_basic)                                                                                      |
 | **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                                               |
 | CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)    2017 [Mansoor Mughal](https://www.youtube.com/playlist?list=PLf7L7Kg8\_FNxHATtLwDceyh72QQL9pvpQ)  Stanford University School of Engineering |
@@ -142,6 +144,14 @@ import cv2
 
 
 
+## HALCON
+
+|                                                                                                            |   |   |
+| ---------------------------------------------------------------------------------------------------------- | - | - |
+| HALCON Tutorials [mvtecsoftware](https://www.youtube.com/playlist?list=PLWlTGc1Igzx9uOrz3-NDIULXCLGcSuorb) |   |   |
+|                                                                                                            |   |   |
+|                                                                                                            |   |   |
+
 ## 图像合成
 
 |                                                                                                                   |
@@ -221,7 +231,7 @@ import cv2
 | -------------------------------------------------------------------------- |
 | facebookresearch/[faiss](https://github.com/facebookresearch/faiss)        |
 | 通过截图找片子！好多人在寻找的搜索方法！\| [零度解说](https://www.youtube.com/watch?v=tERFkMjRGaE) |
-|                                                                            |
+| gettyimages [s](https://www.gettyimages.com/)                              |
 
 ## Detection and Segmentation
 
@@ -288,6 +298,7 @@ import cv2
 | Object Tracking from scratch with OpenCV and Python [Pysource](https://www.youtube.com/watch?v=GgGro5IV-cs)                                                                    |
 | Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
 | YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
+| I Built an AI That Shoots Me in the Face When I Get Distracted [ForrestKnight](https://www.youtube.com/watch?v=A8eegxL82PI)                                                    |
 
 ### Visual Recognition
 

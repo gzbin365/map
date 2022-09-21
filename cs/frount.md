@@ -285,6 +285,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CSS Crash Course For Absolute Beginners [Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI)                                                                                      |
 | CSS for Beginners 🎨 [Bro Code](https://www.youtube.com/watch?v=wRNinF7YQqQ)                                                                                                               |
 | 麦子学院-利用Sass编写高质量CSS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbNkUTsKNXovhiN0iPXCzTO) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx3QnzKg5uCIKz4BMb9fBQd) |
 | Sass Tutorial for Beginners - CSS With Superpowers [freeCodeCamp](https://www.youtube.com/watch?v=\_a5j7KoflTs)                                                                            |
@@ -433,9 +434,19 @@ Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fire
 
 ### Bootstrap
 
-Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)
+|                                                                                            |                    |   |
+| ------------------------------------------------------------------------------------------ | ------------------ | - |
+| Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)                   | termux用的bootstrap? |   |
+| Bootstrap 5 Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=Jyvffr3aCp0) |                    |   |
+|                                                                                            |                    |   |
 
-termux用的bootstrap?
+## Prisma
+
+|                                                                                              |                                                                                                                                        |   |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Next-generation Node.js and TypeScript ORM                                                   | [s](https://www.prisma.io/)   [Doc](https://www.prisma.io/docs/)   [Quickstart](https://www.prisma.io/docs/getting-started/quickstart) |   |
+| Learn Prisma In 60 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=RebA5J-rlwg) | Build a RESTful API with Fastify, Prisma & TypeScript [TomDoesTech](https://www.youtube.com/watch?v=LMoMHP44-xM)                       |   |
+|                                                                                              |                                                                                                                                        |   |
 
 ## 用户体验 UX User Experience
 
