@@ -360,6 +360,8 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 | Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 | Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) [freeCodeCamp](https://www.youtube.com/watch?v=zJSY8tbf\_ys)                                                                |
+| How To Create Responsive Popup Chat Window \| HTML - CSS - JS [Practical Code Academy](https://www.youtube.com/watch?v=C3JKS3a4R5Y)                                                          |
+|                                                                                                                                                                                              |
 |                                                                                                                                                                                              |
 
 ### TypeScript

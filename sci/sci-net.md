@@ -26,7 +26,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | **Qv2ray(**[**site**](https://qv2ray.net)**,** [**v**](https://www.youtube.com/watch?v=fyLFgycALj0)**,** [**书童**](https://xugaoxiang.com/2020/10/17/qv2ray/)**,** [**d**](https://github.com/Qv2ray/Qv2ray/releases/)**,** [**d**](https://github.com/v2fly/v2ray-core/releases)**) 已废弃**                           | 上网工具, 需要提前在机场购买服务 |
 | Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI\&t=329s) [s](https://gogoo.club/user/tutorial?os=linux\&client=clash) [v](https://www.youtube.com/watch?v=9Ice-qMePQk) [面板](http://clash.razord.top/#/connections) |                   |
-| ClashN [v](https://www.youtube.com/watch?v=-H-fzgw6A4M)                                                                                                                                                                                                                                                             |                   |
 
 ## 插件
 
@@ -39,7 +38,6 @@
 |                                                                                 |                                                                              |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 阿雷科技([u](https://www.youtube.com/channel/UCiLtBk8dChPldOho8uTZHhQ/playlists), ) | 冰河圈子 [u](https://www.youtube.com/channel/UCNAJdckJwmOquDon17juK3w/playlists) |
-| 不良林 [u](https://www.youtube.com/c/%E4%B8%8D%E8%89%AF%E6%9E%97/playlists)        |                                                                              |
 
 |                                                                                                                                                                                                              | 使用情况 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
