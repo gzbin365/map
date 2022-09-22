@@ -550,6 +550,7 @@
 | Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
 | PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
 | PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
+| PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
 
 ### Windows 11
 

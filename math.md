@@ -180,7 +180,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
 | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                          | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
-|                                                                                                                                       |                                                                                                                |
+| 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         |                                                                                                                |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -1181,6 +1181,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | **Coding Math: Episode 20 - More on Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=2hL1LGMVnVM)**)** |
 | **Bezier Curves Explained(**[**Guidev**](https://www.youtube.com/watch?v=pnYccz1Ha34)**)**                              |
 | The Beauty of Bézier Curves [Freya Holmér](https://www.youtube.com/watch?v=aVwxzDHniEw)                                 |
+| 一条曲线的诞生 [太阳鸽鸽](https://www.douyin.com/video/7134261433939791118)                                                        |
 
 
 
@@ -1377,6 +1378,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | Mathematics named after Leonhard Euler [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz10-nb0KnjTBDGq0N7do-d) |
 | Problem Solving Techniques [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxFTu1o4\_baJ-N0eqTXkGMJ)            |
 | CRC（循环冗余校验）如何工作？[Ben Eater](https://www.youtube.com/watch?v=izG7qT0EpBw)                                                        |
+| Math in Real Life [TED-Ed](https://www.youtube.com/playlist?list=PLE3376FF44087B17B)                                            |
 
 {% file src=".gitbook/assets/10.1007_978-3-030-61541-3.pdf" %}
 Algebra and Geometry with Python

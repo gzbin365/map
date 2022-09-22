@@ -121,6 +121,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 \| RapidAPI [JavaScript Mastery](https://www.youtube.com/watch?v=FHTbsZEJspU)         |
 | Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
 | Create 3D Site with Spline and React - Full Course [DesignCode](https://www.youtube.com/watch?v=EJxeMbDTkVI)                                                             |
@@ -308,7 +309,9 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                              |
+| How To Make Form (Multi-Step) Using HTML CSS & JS \| Create Form With HTML & CSS [Easy Tutorials](https://www.youtube.com/watch?v=T76bbMVMX6M)                                               |
+| How to create a Messenger Style ChatBot with JavaScript Tutorial (Part 1) \| Best JavaScript Project [CodeWellTech](https://www.youtube.com/watch?v=C2bKXt1yuPE)                             |
+| Chat Bot on JavaScript \| HTML \| CSS [STAPE](https://www.youtube.com/watch?v=J4RObRyfmkM)                                                                                                   |
 | mrdoob/[three.js](https://github.com/mrdoob/three.js/)/   JavaScript 3D Library. [v](https://www.douyin.com/video/7145082792458620168)                                                       |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                             |
 | JavaScript King [u](https://www.youtube.com/c/JavaScriptKing)                                                                                                                                |

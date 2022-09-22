@@ -393,15 +393,15 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 
 ### Streamlit
 
-|                                                                                                                                       |   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| [s](https://streamlit.io/) [doc](https://docs.streamlit.io/) [git](https://github.com/streamlit/streamlit)                            |   |   |
-| Create Dashboard with Folium Map, Streamlit and Python - Full Course [Zakaria Chowdhury](https://www.youtube.com/watch?v=uXj76K9Lnqc) |   |   |
-| Image Classification with CNN and UI with Streamlit [Thursday Content](https://www.youtube.com/watch?v=7eF-xhv1guw)                   |   |   |
-| Creating Interactive Maps with Python [Auth0](https://www.youtube.com/watch?v=FdqDgoG-SFM)                                            |   |   |
-|                                                                                                                                       |   |   |
-|                                                                                                                                       |   |   |
-|                                                                                                                                       |   |   |
+|                                                                                                                                                              |                                                                                                      |                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [s](https://streamlit.io/) [doc](https://docs.streamlit.io/) [git](https://github.com/streamlit/streamlit)                                                   |                                                                                                      |                                                                                                               |
+| Create Dashboard with Folium Map, Streamlit and Python - Full Course [Zakaria Chowdhury](https://www.youtube.com/watch?v=uXj76K9Lnqc)                        |                                                                                                      |                                                                                                               |
+| Image Classification with CNN and UI with Streamlit [Thursday Content](https://www.youtube.com/watch?v=7eF-xhv1guw)                                          |                                                                                                      |                                                                                                               |
+| Creating Interactive Maps with Python [Auth0](https://www.youtube.com/watch?v=FdqDgoG-SFM)                                                                   | Streamlit Python Tutorial (Crash Course) [JCharisTech](https://www.youtube.com/watch?v=\_9WiB2PDO7k) | Streamlit Tutorials [Coding Is Fun](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n) |
+| Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn \| Python Tutorial [Python Engineer](https://www.youtube.com/watch?v=Klqn--Mu2pE) |                                                                                                      |                                                                                                               |
+|                                                                                                                                                              |                                                                                                      |                                                                                                               |
+|                                                                                                                                                              |                                                                                                      |                                                                                                               |
 
 ### 自动化
 

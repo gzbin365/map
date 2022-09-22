@@ -638,6 +638,14 @@ System on Chip, 系统级芯片
 |                                                                                                |
 |                                                                                                |
 
+## HUD, Head-Up Display
+
+|                                              |   |   |
+| -------------------------------------------- | - | - |
+| HUDWAY [u](https://www.youtube.com/c/HUDWAY) |   |   |
+|                                              |   |   |
+|                                              |   |   |
+
 ## 投影仪
 
 |                                                                                                   |
@@ -771,9 +779,12 @@ System on Chip, 系统级芯片
 | 机甲学院 抖音号： [RoboMentor](https://www.douyin.com/user/MS4wLjABAAAAM9-5OIkkWb9NX0PTOUdNTLHGlWGsD-LfZvsRoTCvDoU)                                                                                                                                                                                                                           | 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5)                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                       | 斯坦福机器人庞博士Leo  抖音号： [StanfordRobotics](https://www.douyin.com/user/MS4wLjABAAAAzyPooiuJH3y5Vq7hbszMVtldCebUpKFz6e0HVUcwh9A)                                                                                                                                                                                                                                                   |
 | Arx Mechanica - Robotics [u](https://www.youtube.com/channel/UCmzvCu9xpKVJguiTmxV\_2Zg)                                                                                                                                                                                                                                               | Boston Dynamics [s](https://www.bostondynamics.com/) [u](https://www.youtube.com/user/BostonDynamics) [git](https://github.com/search?q=Boston+Dynamics)                                                                                                                                                                                                                     |
+| 耀司 抖音号：[601104841](https://www.douyin.com/user/MS4wLjABAAAA0nq3XXPjGGlyTGaQ\_4eb3DVTkz4eKvQ04lmTRbilbtY)                                                                                                                                                                                                                              | 机械师哥 抖音号：[jixieshi1989](https://www.douyin.com/user/MS4wLjABAAAAs4P-IeUGwafwFXLBxDB09asEKV0umhbByBUE28P4Lbo)                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                       | JetsonHacks [u](https://www.youtube.com/c/JetsonHacks/playlists)                                                                                                                                                                                                                                                                                                             |
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Just Put an A.I. Brain in a Robot \[Research Breakthrough] [ColdFusion](https://www.youtube.com/watch?v=Jy3zjXK4ao4)                               |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                           |
 | Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
 | [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
@@ -1000,5 +1011,5 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 |                                                                                                              |                                                                      |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
-|                                                                                                              |                                                                      |
+| 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                         |                                                                      |
 |                                                                                                              |                                                                      |

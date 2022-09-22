@@ -38,6 +38,8 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 
 |                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 李飞飞: 我们怎么教计算机理解图片？ [TED](https://www.youtube.com/watch?v=40riCqvRoMs)                                                                                                                                                                       |
+| How computers learn to recognize objects instantly \| Joseph Redmon [TED](https://www.youtube.com/watch?v=Cgxsv1riJhI)                                                                                                                      |
 | 机器视觉-2020北邮远程课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RQ6tTu-c2ZFFrMxtSIhztC) [git](https://github.com/CV-xueba/A01\_cvclass\_basic)                                                                                      |
 | **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                                               |
 | CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)    2017 [Mansoor Mughal](https://www.youtube.com/playlist?list=PLf7L7Kg8\_FNxHATtLwDceyh72QQL9pvpQ)  Stanford University School of Engineering |
@@ -142,6 +144,22 @@ import cv2
 
 
 
+## HALCON
+
+|                                                                                                            |   |   |
+| ---------------------------------------------------------------------------------------------------------- | - | - |
+| HALCON Tutorials [mvtecsoftware](https://www.youtube.com/playlist?list=PLWlTGc1Igzx9uOrz3-NDIULXCLGcSuorb) |   |   |
+|                                                                                                            |   |   |
+|                                                                                                            |   |   |
+
+## Image Classification
+
+|                                                                                                                           |   |   |
+| ------------------------------------------------------------------------------------------------------------------------- | - | - |
+| Multi Class Image Classification [Kan Fusheng](https://www.youtube.com/playlist?list=PLgMMlswT2msf\_ysGr9jd02E0KCf-Ay0wL) |   |   |
+|                                                                                                                           |   |   |
+|                                                                                                                           |   |   |
+
 ## 图像合成
 
 |                                                                                                                   |
@@ -221,7 +239,7 @@ import cv2
 | -------------------------------------------------------------------------- |
 | facebookresearch/[faiss](https://github.com/facebookresearch/faiss)        |
 | 通过截图找片子！好多人在寻找的搜索方法！\| [零度解说](https://www.youtube.com/watch?v=tERFkMjRGaE) |
-|                                                                            |
+| gettyimages [s](https://www.gettyimages.com/)                              |
 
 ## Detection and Segmentation
 
@@ -230,7 +248,7 @@ import cv2
 | **Detectron2(**[**git**](https://github.com/facebookresearch/detectron2)**,** [**Model Zoo and Baselines**](https://github.com/facebookresearch/detectron2/blob/master/MODEL\_ZOO.md)**, )** |
 | **MaskRcnn-benchmark(**[**git**](https://github.com/facebookresearch/maskrcnn-benchmark/)**, )**                                                                                             |
 
-### 分割
+### 分割 Segmentation
 
 |                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -243,6 +261,7 @@ import cv2
 | U-net for image segmentation [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)                                                                                                |
 | 280 - Custom object segmentation using StarDist library in python [DigitalSreeni](https://www.youtube.com/watch?v=F6sfm1i8OfY)                                                                                        |
 | 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
+| PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby [Aladdin Persson](https://www.youtube.com/watch?v=IHq1t7NxS8k)                                                                           |
 
 ### 目标检测 Object Detection
 
@@ -288,6 +307,7 @@ import cv2
 | Object Tracking from scratch with OpenCV and Python [Pysource](https://www.youtube.com/watch?v=GgGro5IV-cs)                                                                    |
 | Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
 | YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
+| I Built an AI That Shoots Me in the Face When I Get Distracted [ForrestKnight](https://www.youtube.com/watch?v=A8eegxL82PI)                                                    |
 
 ### Visual Recognition
 
