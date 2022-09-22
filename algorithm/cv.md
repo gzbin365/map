@@ -415,7 +415,7 @@ import cv2
 |                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
-|                                                                                                                                                                |
+| 【GPU】NVIDIA RTX40專有技術，DLSS3.0技術解析！ [可見TV](https://www.youtube.com/watch?v=fw\_4aEp5Kl4)                                                                        |
 |                                                                                                                                                                |
 
 ## 视频理解
