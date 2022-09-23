@@ -487,6 +487,6 @@ MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1c
 
 ## 其他
 
-|                                                                                                  |   |
-| ------------------------------------------------------------------------------------------------ | - |
-| ecshop独立网店二次开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ5p4Q98r30CjVsIYDi1iA7) |   |
+|                                                                                                  |                                                                                                                           |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| ecshop独立网店二次开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ5p4Q98r30CjVsIYDi1iA7) | bytedance/[IconPark](https://github.com/bytedance/IconPark) 字节前端图标库 [v](https://www.douyin.com/video/7146171511613820174) |

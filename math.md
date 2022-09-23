@@ -1358,27 +1358,27 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## 其他
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| **快速平方根逆— Quake III算法(**[**Nemean**](https://www.youtube.com/watch?v=p8u\_k2LIZyo)**)**                                         |
-| [**二进制搜索-不同的角度**](https://www.youtube.com/watch?v=tgVSkMA8joQ)                                                                  |
-| 10701 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-WKZo-xHK3NhBsJ4JX-ESp1)                                       |
-| 10601 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VTdXuvm2heF7fPjDizKAXJ)                                       |
-| **Learn Mathematics from START to FINISH(**[**The Math Sorcerer**](https://www.youtube.com/watch?v=pTnEG\_WGd2Q)**)**           |
-| [数学地图](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)(DoS - Domain of Science)                                                    |
-| 神奇的零知识证明！既能保守秘密，又让别人信你！([李永乐老师](https://www.youtube.com/watch?v=FuKEpOhiVPg\&t=1s))                                             |
-| Computer Scientist Explains One Concept in 5 Levels of Difficulty \| [WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)       |
-| [Intuitive maths](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmwxSL\_xZKNq6MSEjAMKcmT) Yinan Zuo                         |
-| [【万门大学】五分钟数学漫谈](https://www.youtube.com/playlist?list=PL0GyqFMD-UCEHjnq0cwgI2XFBf7bEcI8K)                                       |
-| 数学家研究了几百年的问题：[悬链线](https://www.youtube.com/watch?v=l6CUgVc-fZg)   [v](https://www.youtube.com/watch?v=1sr6NlbDVig)              |
-| 密铺问题 什么形状的地板可以铺满整个房间？数学家研究了100年 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2GmJw6hf1ms)                                     |
-| <p>如何摆放橘子最节省空间？400年时间数学家终于解决了<a href="https://www.youtube.com/watch?v=POArm5fZbR8">开普勒猜想</a> 妈咪说MommyTalk</p><p>蜂窝猜想?</p>       |
-| 515本数学书　[book](https://onedrive.live.com/?id=EC227156E4CAD4AB%21117\&cid=EC227156E4CAD4AB)                                      |
-| <p>11年前，选择出家的北大才子柳智宇，后来怎么样了？真的还俗了吗？【人物】</p><p><a href="https://www.youtube.com/watch?v=K4l9xbVfKvY">Your Studio有耳工作室</a></p>    |
-| Mathematics named after Leonhard Euler [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz10-nb0KnjTBDGq0N7do-d) |
-| Problem Solving Techniques [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxFTu1o4\_baJ-N0eqTXkGMJ)            |
-| CRC（循环冗余校验）如何工作？[Ben Eater](https://www.youtube.com/watch?v=izG7qT0EpBw)                                                        |
-| Math in Real Life [TED-Ed](https://www.youtube.com/playlist?list=PLE3376FF44087B17B)                                            |
+|                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **快速平方根逆— Quake III算法(**[**Nemean**](https://www.youtube.com/watch?v=p8u\_k2LIZyo)**)**                                                                                                                                                                                      |
+| [**二进制搜索-不同的角度**](https://www.youtube.com/watch?v=tgVSkMA8joQ)                                                                                                                                                                                                               |
+| 10701 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-WKZo-xHK3NhBsJ4JX-ESp1)                                                                                                                                                                                    |
+| 10601 [數學導論演習課](https://www.youtube.com/playlist?list=PLXaxdCYxDh-VTdXuvm2heF7fPjDizKAXJ)                                                                                                                                                                                    |
+| **Learn Mathematics from START to FINISH(**[**The Math Sorcerer**](https://www.youtube.com/watch?v=pTnEG\_WGd2Q)**)**                                                                                                                                                        |
+| [数学地图](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)(DoS - Domain of Science)                                                                                                                                                                                                 |
+| 神奇的零知识证明！既能保守秘密，又让别人信你！([李永乐老师](https://www.youtube.com/watch?v=FuKEpOhiVPg\&t=1s))                                                                                                                                                                                          |
+| Computer Scientist Explains One Concept in 5 Levels of Difficulty \| [WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)                                                                                                                                                    |
+| [Intuitive maths](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDmwxSL\_xZKNq6MSEjAMKcmT) Yinan Zuo                                                                                                                                                                      |
+| [【万门大学】五分钟数学漫谈](https://www.youtube.com/playlist?list=PL0GyqFMD-UCEHjnq0cwgI2XFBf7bEcI8K)                                                                                                                                                                                    |
+| 数学家研究了几百年的问题：[悬链线](https://www.youtube.com/watch?v=l6CUgVc-fZg)   [v](https://www.youtube.com/watch?v=1sr6NlbDVig)                                                                                                                                                           |
+| 密铺问题 什么形状的地板可以铺满整个房间？数学家研究了100年 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2GmJw6hf1ms)                                                                                                                                                                                  |
+| <p>如何摆放橘子最节省空间？400年时间数学家终于解决了<a href="https://www.youtube.com/watch?v=POArm5fZbR8">开普勒猜想</a> 妈咪说MommyTalk</p><p>蜂窝猜想?</p>                                                                                                                                                    |
+| 515本数学书　[book](https://onedrive.live.com/?id=EC227156E4CAD4AB%21117\&cid=EC227156E4CAD4AB)                                                                                                                                                                                   |
+| <p>11年前，选择出家的北大才子柳智宇，后来怎么样了？真的还俗了吗？【人物】</p><p><a href="https://www.youtube.com/watch?v=K4l9xbVfKvY">Your Studio有耳工作室</a>   柳智宇的分享 抖音号：<a href="https://www.douyin.com/user/MS4wLjABAAAALyFGKbfcNAIAmYOv83E2RGaDB9i2GdYwja8vh16XfGffRcpV6tljfPx62PCq3FtK">81075527889</a></p> |
+| Mathematics named after Leonhard Euler [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz10-nb0KnjTBDGq0N7do-d)                                                                                                                                              |
+| Problem Solving Techniques [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxFTu1o4\_baJ-N0eqTXkGMJ)                                                                                                                                                         |
+| CRC（循环冗余校验）如何工作？[Ben Eater](https://www.youtube.com/watch?v=izG7qT0EpBw)                                                                                                                                                                                                     |
+| Math in Real Life [TED-Ed](https://www.youtube.com/playlist?list=PLE3376FF44087B17B)                                                                                                                                                                                         |
 
 {% file src=".gitbook/assets/10.1007_978-3-030-61541-3.pdf" %}
 Algebra and Geometry with Python

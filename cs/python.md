@@ -339,6 +339,9 @@
 | Julie Michelman - Pandas, Pipelines, and Custom Transformers [PyData](https://www.youtube.com/watch?v=BFaadIqWlAg)                                              |
 | Python程序设计系列之利用Pandas处理数据 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tG9Vhhpimd5Zxa6OOUJkxfR)                                               |
 | Swifter Speeds Up Pandas DataFrames [NeuralNine](https://www.youtube.com/watch?v=UpZf1uIo1M4)                                                                   |
+| 25 Nooby Pandas Coding Mistakes You Should Avoid [Medallion Data Science](https://www.youtube.com/watch?v=\_gaAoJBMJ\_Q)                                        |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -858,6 +861,10 @@ Python高性能编程
 | Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive                                  |
 | 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive                                  |
 | keenwon/[antcolony](https://github.com/keenwon/antcolony)   Nodejs实现的一个磁力链接爬虫 [文章介绍](https://keenwon.com/1436.html) [blog](https://keenwon.com/) |
+| Python 網路爬蟲 Web Crawler 基本教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=9Z9xKWfNo7k\&list=PL-g0fdC5RMboYEyt6QS2iLb\_1m7QcgfHk\&index=19)      |
+| 網路爬蟲實戰教學 [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)                                                    |
+| XPath Crash Course For Python Web Scraping [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)                                             |
+|                                                                                                                                                  |
 
 ## 网络编程
 

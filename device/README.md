@@ -260,6 +260,7 @@ description: 硬件设备
 | 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评 |
 | 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                  |
 | 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                               |
+| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                     |
 
 ## 笔记本
 
@@ -728,7 +729,7 @@ System on Chip, 系统级芯片
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
 | 误删文件后居然还能恢复？详解磁盘数据恢复原理与固态硬盘TRIM回收指令 [硬件茶谈](https://www.youtube.com/watch?v=04r-ZAgXIyo) |
-|                                                                                         |
+| 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)               |
 |                                                                                         |
 
 ## 路由器 软路由

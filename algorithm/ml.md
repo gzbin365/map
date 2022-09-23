@@ -1201,18 +1201,20 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## 扩散模型 Diffusion models
 
-|                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                       |
-| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ)    |
-| Ultimate Guide to Diffusion Models \| ML Coding Series \| Denoising Diffusion Probabilistic Models [The AI Epiphany](https://www.youtube.com/watch?v=y7J6sSO1k50) |
-| Diffusion models [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh\_5Wx-O)                                                     |
-| Exploring the NEW Hugging Face Diffusers Package \| Diffusion Models w/ Python [Nicholas Renotte](https://www.youtube.com/watch?v=P-rzgaIfZCo)                    |
-| Stable Diffusion - What, Why, How? [Edan Meyer](https://www.youtube.com/watch?v=ltLNYA3lWAQ)                                                                      |
-| 由浅入深了解Diffusion Model [ewrfcas](https://zhuanlan.zhihu.com/p/525106459)                                                                                           |
-| Creating Stable Diffusion Interpolation Videos [sentdex](https://www.youtube.com/watch?v=275\_oeBw3vY)                                                            |
-| midjourney [v](https://www.douyin.com/video/7143131371261791496)                                                                                                  |
-| \[ML News] Stable Diffusion Takes Over! (Open Source AI Art) [Yannic Kilcher](https://www.youtube.com/watch?v=xbxe-x6wvRw)                                        |
+|                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Diffusion models explained in 4-difficulty levels [AssemblyAI](https://www.youtube.com/watch?v=yTAMrHVG1ew)                                                                                                                                                                                           |
+| DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=W-O7AZNzbzQ)                                                                                                                                        |
+| Ultimate Guide to Diffusion Models \| ML Coding Series \| Denoising Diffusion Probabilistic Models [The AI Epiphany](https://www.youtube.com/watch?v=y7J6sSO1k50)                                                                                                                                     |
+| Diffusion models [The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh\_5Wx-O)                                                                                                                                                                                         |
+| Exploring the NEW Hugging Face Diffusers Package \| Diffusion Models w/ Python [Nicholas Renotte](https://www.youtube.com/watch?v=P-rzgaIfZCo)                                                                                                                                                        |
+| Stable Diffusion - What, Why, How? [Edan Meyer](https://www.youtube.com/watch?v=ltLNYA3lWAQ)                                                                                                                                                                                                          |
+| 由浅入深了解Diffusion Model [ewrfcas](https://zhuanlan.zhihu.com/p/525106459)                                                                                                                                                                                                                               |
+| Creating Stable Diffusion Interpolation Videos [sentdex](https://www.youtube.com/watch?v=275\_oeBw3vY)                                                                                                                                                                                                |
+| midjourney [v](https://www.douyin.com/video/7143131371261791496)                                                                                                                                                                                                                                      |
+| \[ML News] Stable Diffusion Takes Over! (Open Source AI Art) [Yannic Kilcher](https://www.youtube.com/watch?v=xbxe-x6wvRw)                                                                                                                                                                            |
+| <p>Stable Diffusion AI画图 <a href="https://www.youtube.com/watch?v=XbS3HlKdJ_c">LKs OFFICIAL CHANNEL</a> <a href="https://lkssite.vip/">s</a></p><p>ERNIE-ViLG <a href="https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG">s</a> <a href="https://github.com/PaddlePaddle/PaddleHub">git</a> s</p> |
+|                                                                                                                                                                                                                                                                                                       |
 
 ## 基础模型 Foundation Models
 
