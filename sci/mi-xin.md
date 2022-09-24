@@ -32,6 +32,7 @@
 | 九九高效练字 [u](https://www.youtube.com/c/%E9%AB%98%E6%95%88%E7%BB%83%E5%AD%97%E4%B9%9D%E4%B9%9D/playlists)   墨界 [u](https://www.youtube.com/channel/UCx8phnnPno9vvmrcMydGnfQ/videos)   墨芽堂 [u](https://www.youtube.com/channel/UCw1-6UBouMUr7W58m7mQJBQ/playlists)   Ken Tse [u](https://www.youtube.com/user/kentsekimming/playlists)   ming Cheng [u](https://www.youtube.com/channel/UCX8ZJA-EIOESJDoR4Mj1New/videos)   Lilian Si [u](https://www.youtube.com/user/sunshine110322/videos) |
 | 常老说书法 [u](https://www.youtube.com/channel/UC6C2--iKyfCw6fh45XhP2fQ/playlists)   方块先生Mr.diamond [u](https://www.youtube.com/channel/UCzVor39ETUi6kMI6FFXrD0g/playlists)                                                                                                                                                                                                                                                                                                                   |
 | 硬笔书法入门课 [方块先生Mr.diamond](https://www.youtube.com/playlist?list=PLsHIcIY91b4DNqAinR7fXOOw2z1qVdckM)                                                                                                                                                                                                                                                                                                                                                                                       |
+| 陳忠建 [u](https://www.youtube.com/c/%E9%99%B3%E5%BF%A0%E5%BB%BA%E6%9B%B8%E6%B3%95)                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 瑜伽
 
@@ -41,11 +42,11 @@
 
 ## 道
 
-|                                                                                                                                                  |   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
-| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w)                                      |   |   |
-|                                                                                                                                                  |   |   |
-| 道家内丹修炼的入门奇书，「炁体源流」究竟有多神奇？现代“陆地神仙”，师承老子、吕祖，竟然就隐居在你我身边？！\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=00Vckb6MP2s) |   |   |
+|                                                                                                                                                  |                                                                |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | - |
+| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w)                                      |                                                                |   |
+|                                                                                                                                                  | 中國道教1988年的紀錄片 [v](https://www.youtube.com/watch?v=H437rSbjniM) |   |
+| 道家内丹修炼的入门奇书，「炁体源流」究竟有多神奇？现代“陆地神仙”，师承老子、吕祖，竟然就隐居在你我身边？！\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=00Vckb6MP2s) |                                                                |   |
 
 ## 佛
 
@@ -99,8 +100,8 @@
 
 ## 其他
 
-|                                                                                |
-| ------------------------------------------------------------------------------ |
-| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                     |
-| 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists) |
-|                                                                                |
+|                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                                                                                                                                   |
+| 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists)   子轩鉴宝 抖音号：[374624671](https://www.douyin.com/user/MS4wLjABAAAAsMo5iLPL3m1QCGKL\_SGX8W\_0jkvYbEEiqI26ZehrXcQ) |
+|                                                                                                                                                                                              |

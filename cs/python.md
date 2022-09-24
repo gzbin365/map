@@ -339,6 +339,9 @@
 | Julie Michelman - Pandas, Pipelines, and Custom Transformers [PyData](https://www.youtube.com/watch?v=BFaadIqWlAg)                                              |
 | Python程序设计系列之利用Pandas处理数据 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tG9Vhhpimd5Zxa6OOUJkxfR)                                               |
 | Swifter Speeds Up Pandas DataFrames [NeuralNine](https://www.youtube.com/watch?v=UpZf1uIo1M4)                                                                   |
+| 25 Nooby Pandas Coding Mistakes You Should Avoid [Medallion Data Science](https://www.youtube.com/watch?v=\_gaAoJBMJ\_Q)                                        |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 | sklearn                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -393,15 +396,24 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 
 ### Streamlit
 
-|                                                                                                                                                              |                                                                                                      |                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [s](https://streamlit.io/) [doc](https://docs.streamlit.io/) [git](https://github.com/streamlit/streamlit)                                                   |                                                                                                      |                                                                                                               |
-| Create Dashboard with Folium Map, Streamlit and Python - Full Course [Zakaria Chowdhury](https://www.youtube.com/watch?v=uXj76K9Lnqc)                        |                                                                                                      |                                                                                                               |
-| Image Classification with CNN and UI with Streamlit [Thursday Content](https://www.youtube.com/watch?v=7eF-xhv1guw)                                          |                                                                                                      |                                                                                                               |
-| Creating Interactive Maps with Python [Auth0](https://www.youtube.com/watch?v=FdqDgoG-SFM)                                                                   | Streamlit Python Tutorial (Crash Course) [JCharisTech](https://www.youtube.com/watch?v=\_9WiB2PDO7k) | Streamlit Tutorials [Coding Is Fun](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n) |
-| Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn \| Python Tutorial [Python Engineer](https://www.youtube.com/watch?v=Klqn--Mu2pE) |                                                                                                      |                                                                                                               |
-|                                                                                                                                                              |                                                                                                      |                                                                                                               |
-|                                                                                                                                                              |                                                                                                      |                                                                                                               |
+|                                                                                                                                                              |                                                                                                                 |                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://streamlit.io/) [doc](https://docs.streamlit.io/) [git](https://github.com/streamlit/streamlit)                                                   |                                                                                                                 |                                                                                                                                          |
+| Create Dashboard with Folium Map, Streamlit and Python - Full Course [Zakaria Chowdhury](https://www.youtube.com/watch?v=uXj76K9Lnqc)                        |                                                                                                                 | Python dashboard libraries: exploring interaction voila, dash, and streamlit [Michael Chow](https://www.youtube.com/watch?v=mZOIeOeswB0) |
+| Image Classification with CNN and UI with Streamlit [Thursday Content](https://www.youtube.com/watch?v=7eF-xhv1guw)                                          | Plotting Choropleth Maps using Python (Plotly) [Indian Pythonista](https://www.youtube.com/watch?v=aJmaw3QKMvk) | Create Data Visualization Web App: File Upload using Streamlit [The Fullstack Ninja](https://www.youtube.com/watch?v=w2PwerViVbA)        |
+| Creating Interactive Maps with Python [Auth0](https://www.youtube.com/watch?v=FdqDgoG-SFM)                                                                   | Streamlit Python Tutorial (Crash Course) [JCharisTech](https://www.youtube.com/watch?v=\_9WiB2PDO7k)            | Streamlit Tutorials [Coding Is Fun](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)                            |
+| Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn \| Python Tutorial [Python Engineer](https://www.youtube.com/watch?v=Klqn--Mu2pE) |                                                                                                                 |                                                                                                                                          |
+|                                                                                                                                                              |                                                                                                                 | LEARN PLOTLY - CREATING MAPS [Art of Visualization](https://www.youtube.com/watch?v=D35m2CdMhVs)                                         |
+|                                                                                                                                                              |                                                                                                                 | Introduction to Plotly Data Visualization [Charming Data](https://www.youtube.com/watch?v=\_b2KXL0wHQg)                                  |
+|                                                                                                                                                              |                                                                                                                 |                                                                                                                                          |
+
+### GeoPandas
+
+|                                                                                                               |   |                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| An Absolute Beginner's Guide to Python GeoPandas [GeoDelta Labs](https://www.youtube.com/watch?v=t7lliJXFt8w) |   |                                                                                                                                                                     |
+|                                                                                                               |   | Combine Pandas + GeoPandas + Folium to Create Interactive Map - Full Tutorial on Real Example [Learn Python with Rune](https://www.youtube.com/watch?v=uWvLida5wcM) |
+|                                                                                                               |   |                                                                                                                                                                     |
 
 ### 自动化
 
@@ -433,6 +445,12 @@ Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, an
 | Unit Testing in Python with pytest [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)                                      |
 | Automate with Python – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)                                                           |
 |                                                                                                                                                                        |
+
+| Automa                                                                            |   |   |
+| --------------------------------------------------------------------------------- | - | - |
+| [s](https://www.automa.site/) [git](https://github.com/AutomaApp/automa)          |   |   |
+| Automa 是用于浏览器自动化的浏览器扩展 [小明1994](https://www.douyin.com/video/7145715385973755143) |   |   |
+|                                                                                   |   |   |
 
 {% tabs %}
 {% tab title="pyautogui" %}
@@ -858,6 +876,10 @@ Python高性能编程
 | Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive                                  |
 | 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive                                  |
 | keenwon/[antcolony](https://github.com/keenwon/antcolony)   Nodejs实现的一个磁力链接爬虫 [文章介绍](https://keenwon.com/1436.html) [blog](https://keenwon.com/) |
+| Python 網路爬蟲 Web Crawler 基本教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=9Z9xKWfNo7k\&list=PL-g0fdC5RMboYEyt6QS2iLb\_1m7QcgfHk\&index=19)      |
+| 網路爬蟲實戰教學 [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)                                                    |
+| XPath Crash Course For Python Web Scraping [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)                                             |
+|                                                                                                                                                  |
 
 ## 网络编程
 

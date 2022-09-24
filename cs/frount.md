@@ -39,6 +39,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Web 开发必备常识 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj7BxYFryNVGgAVD7nTzfSoA)                                                                                                      |
 | Backend web development - a complete overview (2021) [SuperSimpleDev](https://www.youtube.com/watch?v=XBu54nfzxAQ)                                                                               |
 | Build and Deploy a Modern Full Stack ECommerce Application with Stripe [JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU)                                                         |
 | 用 Eleventy 做一个静态博客只要 10 分钟 [Randy Music](https://www.youtube.com/watch?v=epikKwnhvSs)                                                                                                            |
