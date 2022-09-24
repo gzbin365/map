@@ -41,11 +41,11 @@
 
 ## 道
 
-|                                                                                                                                                  |                                                                |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | - |
-| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w)                                      |                                                                |   |
-|                                                                                                                                                  | 中國道教1988年的紀錄片 [v](https://www.youtube.com/watch?v=H437rSbjniM) |   |
-| 道家内丹修炼的入门奇书，「炁体源流」究竟有多神奇？现代“陆地神仙”，师承老子、吕祖，竟然就隐居在你我身边？！\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=00Vckb6MP2s) |                                                                |   |
+|                                                                                                                                                  |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
+| 法辰洞見 抖音号：[chenfachen1](https://www.douyin.com/user/MS4wLjABAAAA6Uwa9r6tRlnZmZqpJGkLe7aNrxzmLSGsFdCMpjjT08w)                                      |   |   |
+|                                                                                                                                                  |   |   |
+| 道家内丹修炼的入门奇书，「炁体源流」究竟有多神奇？现代“陆地神仙”，师承老子、吕祖，竟然就隐居在你我身边？！\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=00Vckb6MP2s) |   |   |
 
 ## 佛
 
@@ -99,8 +99,8 @@
 
 ## 其他
 
-|                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                                                                                                                                   |
-| 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists)   子轩鉴宝 抖音号：[374624671](https://www.douyin.com/user/MS4wLjABAAAAsMo5iLPL3m1QCGKL\_SGX8W\_0jkvYbEEiqI26ZehrXcQ) |
-|                                                                                                                                                                                              |
+|                                                                                |
+| ------------------------------------------------------------------------------ |
+| 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                     |
+| 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists) |
+|                                                                                |
