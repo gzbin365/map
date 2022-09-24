@@ -19,7 +19,7 @@
 | [**I Challenged The CSS King To A CSS Battle**](https://www.youtube.com/watch?v=-QgJgZCJvo4)                                                   | 小闪电 - [JsRun](https://jsrun.net/) 可以用手机写代码的JS在线编辑器网站 [v](https://www.douyin.com/video/7045256496048885005)                                                                                                                                                                                                                                                        |
 | [CodePen](https://codepen.io/): Online Code Editor and Front End Web Developer Community [v](https://www.douyin.com/video/7045256496048885005) |                                                                                                                                                                                                                                                                                                                                                                   |
 | [Gitpod](https://www.gitpod.io/) - Always ready to code [v](https://www.douyin.com/video/7045256496048885005)                                  | [JSFiddle](https://jsfiddle.net/) - Code Playground [v](https://www.douyin.com/video/7045256496048885005)                                                                                                                                                                                                                                                         |
-| **Coding Addict(**[**u**](https://www.youtube.com/c/CodingAddict/playlists)**, )**                                                             | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                                                                                                                                                                                                                                              |
+| **Coding Addict**[ **u**](https://www.youtube.com/c/CodingAddict/playlists)                                                                    | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                                                                                                                                                                                                                                              |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -187,6 +187,7 @@
 
 | node                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Node.js 教程 [菜鸟教程](https://www.runoob.com/nodejs/nodejs-tutorial.html)   NPM 使用介绍 [菜鸟教程](https://www.runoob.com/nodejs/nodejs-npm.html)                                                                   |
 | **一起学 Node.js(**[**书栈**](https://www.bookstack.cn/books/N-blog)**, )**                                                                                                                                   |
 | **Node.js Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)**)**                                                                              |
 | node js上最新HTML5开发框架 Meteor [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaba39ov73zbIgLCUErUZNf)                                                                                             |
@@ -217,6 +218,8 @@
 | Express [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYtyErKbbNlADtecXVJgNDT)                        |
 | **Node and Express Tutorial(**[**u**](https://www.youtube.com/watch?v=TNV0\_7QRDwY)**, )**                       |
 | Gulp+Angular+Express实现简易任务管理系统 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYUdJkNhxhorb3PiNDUr4zb) |
+
+
 
 ## HTML5 and CSS3
 
@@ -309,6 +312,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HTML、CSS、JavaScript [網頁前端工程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                      |
 | How To Make Form (Multi-Step) Using HTML CSS & JS \| Create Form With HTML & CSS [Easy Tutorials](https://www.youtube.com/watch?v=T76bbMVMX6M)                                               |
 | How to create a Messenger Style ChatBot with JavaScript Tutorial (Part 1) \| Best JavaScript Project [CodeWellTech](https://www.youtube.com/watch?v=C2bKXt1yuPE)                             |
 | Chat Bot on JavaScript \| HTML \| CSS [STAPE](https://www.youtube.com/watch?v=J4RObRyfmkM)                                                                                                   |
@@ -364,7 +368,8 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 | Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) [freeCodeCamp](https://www.youtube.com/watch?v=zJSY8tbf\_ys)                                                                |
 | How To Create Responsive Popup Chat Window \| HTML - CSS - JS [Practical Code Academy](https://www.youtube.com/watch?v=C3JKS3a4R5Y)                                                          |
-|                                                                                                                                                                                              |
+| JavaScript Fundamentals For Beginners [Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8)                                                                                          |
+| JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022) [Clever Programmer](https://www.youtube.com/watch?v=lI1ae4REbFM)                                                          |
 |                                                                                                                                                                                              |
 
 ### TypeScript
@@ -439,11 +444,11 @@ Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fire
 
 ### Bootstrap
 
-|                                                                                            |                    |   |
-| ------------------------------------------------------------------------------------------ | ------------------ | - |
-| Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)                   | termux用的bootstrap? |   |
-| Bootstrap 5 Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=Jyvffr3aCp0) |                    |   |
-|                                                                                            |                    |   |
+|                                                                                                                       |                    |   |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------ | - |
+| Build fast, responsive sites with [Bootstrap](https://getbootstrap.com/)                                              | termux用的bootstrap? |   |
+| Bootstrap 5 Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=Jyvffr3aCp0)                            |                    |   |
+| Complete Guide to Bootstrap Dashboard Apps - Dash Plotly [Charming Data](https://www.youtube.com/watch?v=0mfIK8zxUds) |                    |   |
 
 ## Prisma
 
@@ -487,6 +492,6 @@ MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1c
 
 ## 其他
 
-|                                                                                                  |   |
-| ------------------------------------------------------------------------------------------------ | - |
-| ecshop独立网店二次开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ5p4Q98r30CjVsIYDi1iA7) |   |
+|                                                                                                  |                                                                                                                           |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| ecshop独立网店二次开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ5p4Q98r30CjVsIYDi1iA7) | bytedance/[IconPark](https://github.com/bytedance/IconPark) 字节前端图标库 [v](https://www.douyin.com/video/7146171511613820174) |
