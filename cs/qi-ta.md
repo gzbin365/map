@@ -78,7 +78,7 @@
 | Calling C++ from C# // Game Engine series [Cherno Unplugged](https://www.youtube.com/watch?v=J7sWEsVVaAA)                                                                     |
 | C# Fundamentals for Beginners [Microsoft Developer](https://www.youtube.com/watch?v=0QUgvfuKvWU)                                                                              |
 | Creating a C# Application: From idea to finished product [IAmTimCorey](https://www.youtube.com/watch?v=YxewTI4H2mY)                                                           |
-| How to connect C# to SQL (the easy way) IAmTimCorey                                                                                                                           |
+| How to connect C# to SQL (the easy way) [IAmTimCorey](https://www.youtube.com/watch?v=Et2khGnrIqc)                                                                            |
 
 ## php
 

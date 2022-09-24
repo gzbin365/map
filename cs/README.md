@@ -172,8 +172,6 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=LLKza5oULAA)        |
 | Binod Suman Academy [u](https://www.youtube.com/channel/UCIZ3CSNL-8mBHfFZLic1-aQ/playlists)                                                        |
 | Learn Microsoft Active Directory (ADDS) in 30mins [Andy Malone MVP](https://www.youtube.com/watch?v=85-bp7XxWDQ)                                   |
-| Azure Developer Associate (AZ-204) — Full Course Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=jZx8PMQjobk)                        |
-|                                                                                                                                                    |
 |                                                                                                                                                    |
 
 ### 百度
@@ -183,7 +181,6 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | 百度云智教育 [s](https://abcxueyuan.baidu.com/)                                             |
 | PaddlePaddle [git](https://github.com/PaddlePaddle)                                   |
 | 谷歌colab上安装百度paddlepaddle框架 [腾讯云](https://cloud.tencent.com/developer/article/1686103) |
-| PaddleHub [s](https://www.paddlepaddle.org.cn/hub)                                    |
 |                                                                                       |
 
 | 百度AI studio                                                                                                                                                    |
@@ -619,7 +616,6 @@ Computer Components？Computer Architecture？
 | lTbgykio/[Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books)                                                                                                               |
 | danistefanovic/[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)   [v](https://www.douyin.com/video/7059730400473550088)   Build your own (insert technology here) |
 | sindresorhus/[awesome](https://github.com/sindresorhus/awesome)    Awesome lists about all kinds of interesting topics                                                                  |
-| 程序员必备开源项目 [🌈程序员长江哥](https://www.douyin.com/video/6990893121781517605)                                                                                                                  |
 
 ## 沙雕项目
 

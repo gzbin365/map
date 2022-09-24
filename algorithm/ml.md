@@ -1214,7 +1214,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | midjourney [v](https://www.douyin.com/video/7143131371261791496)                                                                                                                                                                                                                                      |
 | \[ML News] Stable Diffusion Takes Over! (Open Source AI Art) [Yannic Kilcher](https://www.youtube.com/watch?v=xbxe-x6wvRw)                                                                                                                                                                            |
 | <p>Stable Diffusion AI画图 <a href="https://www.youtube.com/watch?v=XbS3HlKdJ_c">LKs OFFICIAL CHANNEL</a> <a href="https://lkssite.vip/">s</a></p><p>ERNIE-ViLG <a href="https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG">s</a> <a href="https://github.com/PaddlePaddle/PaddleHub">git</a> s</p> |
-|                                                                                                                                                                                                                                                                                                       |
+| CompVis/[stable-diffusion](https://github.com/CompVis/stable-diffusion)   [v](https://www.douyin.com/video/7141002284070178062)   [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4)                                                                                                |
 
 ## 基础模型 Foundation Models
 

@@ -347,21 +347,15 @@ import cv2
 | Face Alignment - How MSQRD, Snow, Snapchat works - Part 2/2 [Boyi Zhang](https://www.youtube.com/watch?v=OWNSc57k5Gc)      |
 | Python Computer Vision OpenCV - Find Face Landmarks using DLIB [Rajeev Ratan](https://www.youtube.com/watch?v=ujYc-3na6XU) |
 
-### OCR, Optical Character Recognition
+### OCR
 
-|                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                                                 |
-| MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch)                   |
-| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w) Tesseract                                                                   |
-| Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                                             |
-| How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                                   |
-| Automatic OCR Receipt & Invoice Parsing in Python [NeuralNine](https://www.youtube.com/watch?v=dSCJ7DImGdA)                                                                     |
-| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w)                                                                             |
-| Basic OCR bill detection system \| Pytesseract \| Python \| Data Analysis Cherry’s Project                                                                                      |
-| Optical Character Recognition Project \| Find Text inside the images/Videos Machine Learning \| OCR [Data Magic (by Sunny Kusawa)](https://www.youtube.com/watch?v=kpzzkW5Y3Kc) |
-| Optical Character Recognition From Beginner to Expert Using Python \| Tesseract - Complete Tutorial [The Sineth](https://www.youtube.com/watch?v=7XP5WiKw56Y)                   |
-|                                                                                                                                                                                 |
+|                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                               |
+| MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch) |
+| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w) Tesseract                                                 |
+| Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                           |
+| How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                 |
 
 ### 表格识别
 

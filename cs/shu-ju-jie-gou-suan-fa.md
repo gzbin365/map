@@ -59,7 +59,10 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 | Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
 | Dynamic Programming - Level 1 [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)                                                                                                                                |
-| Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners [NeetCode](https://www.youtube.com/watch?v=mBNrRy2\_hVs)                                                                                                                  |
+| Dynamic Programming [NeetCode](https://www.youtube.com/playlist?list=PLot-Xpze53lcvx\_tjrr\_m2lgD2NsRHlNO)                                                                                                                                         |
+|                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |
 
 ## Recurisive
 
