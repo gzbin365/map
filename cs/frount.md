@@ -39,6 +39,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| baidu/[amis](https://github.com/baidu/amis)   前端低代码框架，通过 JSON 配置就能生成各种页面。  [v](https://www.douyin.com/video/7146905674667052318)                                                                 |
 | Web 开发必备常识 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj7BxYFryNVGgAVD7nTzfSoA)                                                                                                      |
 | Backend web development - a complete overview (2021) [SuperSimpleDev](https://www.youtube.com/watch?v=XBu54nfzxAQ)                                                                               |
 | Build and Deploy a Modern Full Stack ECommerce Application with Stripe [JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU)                                                         |

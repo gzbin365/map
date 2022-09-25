@@ -20,9 +20,9 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 
 ## 平台
 
-|                                                   |   |
-| ------------------------------------------------- | - |
-| algoexpert([s](https://www.algoexpert.io/team), ) |   |
+|                                                   |                                                                            |
+| ------------------------------------------------- | -------------------------------------------------------------------------- |
+| algoexpert([s](https://www.algoexpert.io/team), ) | Vivian NTU MiuLab [u](https://www.youtube.com/c/VivianNTUMiuLab/playlists) |
 
 ## Uper
 
@@ -59,7 +59,10 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 | Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
 | Dynamic Programming - Level 1 [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)                                                                                                                                |
-| Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners [NeetCode](https://www.youtube.com/watch?v=mBNrRy2\_hVs)                                                                                                                  |
+| Dynamic Programming [NeetCode](https://www.youtube.com/playlist?list=PLot-Xpze53lcvx\_tjrr\_m2lgD2NsRHlNO)                                                                                                                                         |
+|                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                    |
 
 ## Recurisive
 
@@ -116,6 +119,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Solve Coding Interview Backtracking回溯 Problems - Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=A80YzvNwqXA) [回溯法](https://zh.wikipedia.org/zh-hans/%E5%9B%9E%E6%BA%AF%E6%B3%95)                                                                                                                                                         |
 | Data Structures and Algorithms Full Tutorial in 9 Hours \| \[Complete Course] Beginner to Advance [WsCube Tech](https://www.youtube.com/watch?v=hCrO\_cR7kno)                                                                                                                                                                                         |
 | Data Structures and Algorithms in Python - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=pkYVOmU3MgA)                                                                                                                                                                                                                      |
+| Algorithms in Python – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=fW\_OS3LGB9Q)                                                                                                                                                                                                                                         |
 | 数据结构和算法可视化学习平台 [v](https://www.douyin.com/video/7013277522842471687?count=10\&cursor=1633021396000\&modeFrom=userLike\&pre\_vid=6981768881610312992\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF\&fir\_previous\_page=personal\_homepage) [s](https://visualgo.net/en) visualgo |
 | 你一定要掌握的8大#数据结构 [v](https://www.douyin.com/video/7006239727774944542)                                                                                                                                                                                                                                                                                  |
 | 算法学习知识汇总 [v](https://www.douyin.com/video/6994340509292563720)                                                                                                                                                                                                                                                                                        |
@@ -149,12 +153,16 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 
 ## 排序算法 Sorting Algorithms
 
-|                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                    |
-| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                        |
-| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc/) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm) |
-| Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)          |
+|                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sorting Algorithms [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcXjTkoI9\_6zev-yU04vol1)                                      |
+| Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                          |
+| 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc/) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm)   |
+| Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)            |
+| Getting Sorted & Big O Notation - [Computerphile](https://www.youtube.com/watch?v=kgBjXUE\_Nwc)                                                       |
+| Learn Big O Notation In 12 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)                                                  |
+| Deeply Understanding Logarithms In Time Complexities & Their Role In Computer Science [Back To Back SWE](https://www.youtube.com/watch?v=M4ubFru2O80) |
+|                                                                                                                                                       |
 
 ### 插入排序 Insertion Sort
 
