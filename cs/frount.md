@@ -315,6 +315,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JavaScript Full Course for Beginners \| Complete All-in-One Tutorial \| 8 Hours [Dave Gray](https://www.youtube.com/watch?v=EfAl9bwzVZk)                                                     |
 | HTML、CSS、JavaScript [網頁前端工程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                      |
 | How To Make Form (Multi-Step) Using HTML CSS & JS \| Create Form With HTML & CSS [Easy Tutorials](https://www.youtube.com/watch?v=T76bbMVMX6M)                                               |
 | How to create a Messenger Style ChatBot with JavaScript Tutorial (Part 1) \| Best JavaScript Project [CodeWellTech](https://www.youtube.com/watch?v=C2bKXt1yuPE)                             |

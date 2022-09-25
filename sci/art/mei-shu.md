@@ -136,6 +136,8 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 [v](https://www.douyin.com/video/7143876985016552719)   樱花兔 抖音号：[Sakura\_Rabbit](https://www.douyin.com/user/MS4wLjABAAAAyUaKHvjkO0qoYsLc7yOND4OcPiat3HAjEnr\_y0duWxg)   3D模型师—小欣 抖音号：[73564782033](https://www.douyin.com/user/MS4wLjABAAAA599wmHo6FsAcn15JRr1bZWCjCBnoEmWF38d1s6gFilYh1hq-UvFutdxSW9GuuA\_8)
 
+云艺术馆长 抖音号：[60068961953](https://www.douyin.com/user/MS4wLjABAAAAYHCD5idUOBDq75bHWsrjpcWcPncsn3Lmo3y2kCPXm9WcPxUMdsUO7RYSlYu0H33q)
+
 ### 3Dmax
 
 |                                                                                                                                        |                                                                                       |
