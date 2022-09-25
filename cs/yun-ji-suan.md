@@ -18,6 +18,7 @@
 | 云计算，IaaS, PaaS, SaaS [老科谈科技股](https://www.youtube.com/playlist?list=PL1G1h\_uas-LGGQJ5Tilu867zv2RB\_oh1-)                                                                          |
 | 第100期：云计算的行业格局是什么？IaaS，PaaS，SaaS，公有云，私有云，混合云是什么？如何投资云计算？ / 雲計算及其行業格局(繁体字幕点cc) [老科谈科技股](https://www.youtube.com/watch?v=WvSbNE-d5yw)                                                |
 | 边缘计算统一管控方案思考与实践 Thinking and Practice of the unified control and management scheme in Edge Computing [Open Infrastructure Foundation](https://www.youtube.com/watch?v=piLK9o6vKJU) |
+| How I Coded a SaaS [NeetCode](https://www.youtube.com/watch?v=4G5t1HwHQD4)                                                                                                         |
 |                                                                                                                                                                                    |
 
 | Terraform                                                                         |
@@ -27,10 +28,19 @@
 | 基础架构即代码                                                                           |
 |                                                                                   |
 
+## 服务器
+
+|                                                                                                            |                                                                                                 |                                                                                    |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Building a Gaming server with Proxmox Part 1 [Stradex Gaming](https://www.youtube.com/watch?v=kP7MKrd8Tqg) | 可被自由定义的x86迷你服务器 Docker系统很好用｜玩法超丰富｜超硬核 [TuTu生活志](https://www.youtube.com/watch?v=hb6Y2XnM0cc)    | VMware官推超融合——戴尔VxRail，到底有几把刷子？ [无情开评](https://www.youtube.com/watch?v=edWJYp4T9vg) |
+| 你理解不了的快乐——从零配置刀片服务器 [无情开评](https://www.youtube.com/watch?v=fZma8YO5ewc)                                    | 服务器专题 [Bill Mike比尔迈克](https://www.youtube.com/playlist?list=PLXTs8LYpISQjsGFzIK6jR8qBzHlZnFOwm) | 2 5 1 自己组装一台1U服务器 [Justin Wang](https://www.youtube.com/watch?v=jjKcJItH3XE)       |
+| 参数服务器（Parameter Server）逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=xt-AwUrDxQk)                     |                                                                                                 |                                                                                    |
+| 计划用1万元买两台Ubuntu绘图仪 [a说科技](https://www.douyin.com/video/7146946442207186183)                                |                                                                                                 |                                                                                    |
+
 ## 数据中心
 
 |                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 第101期: 数据中心关键技术和行业格局是什么？数据中心和云计算是什么关系？如何投资数据中心？(繁體字幕點cc) /資料中心關鍵技術和行業格局/Data Centre Investment [老科谈科技股](https://www.youtube.com/watch?v=q-jA0v1fl7M) |
-|                                                                                                                                                      |
+| Cloud Ninjas [u](https://www.youtube.com/channel/UCWrZIsFG0pwuuS7IE13LQNQ/playlists)                                                                 |
 |                                                                                                                                                      |

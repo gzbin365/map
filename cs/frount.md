@@ -39,6 +39,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| baidu/[amis](https://github.com/baidu/amis)   前端低代码框架，通过 JSON 配置就能生成各种页面。  [v](https://www.douyin.com/video/7146905674667052318)                                                                 |
 | Web 开发必备常识 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj7BxYFryNVGgAVD7nTzfSoA)                                                                                                      |
 | Backend web development - a complete overview (2021) [SuperSimpleDev](https://www.youtube.com/watch?v=XBu54nfzxAQ)                                                                               |
 | Build and Deploy a Modern Full Stack ECommerce Application with Stripe [JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU)                                                         |
@@ -286,10 +287,11 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
-### CSS
+### CSS, Cascading Style Sheets
 
 |                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CSS Full Course for Beginners \| Complete All-in-One Tutorial \| 11 Hours [Dave Gray](https://www.youtube.com/watch?v=n4R2E7O-Ngo)                                                         |
 | CSS Crash Course For Absolute Beginners [Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI)                                                                                      |
 | CSS for Beginners 🎨 [Bro Code](https://www.youtube.com/watch?v=wRNinF7YQqQ)                                                                                                               |
 | 麦子学院-利用Sass编写高质量CSS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbNkUTsKNXovhiN0iPXCzTO) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx3QnzKg5uCIKz4BMb9fBQd) |
