@@ -1,12 +1,11 @@
 # 工具
 
-|                                                                                         |                                                                                       |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos)               | [计时器](https://naozhong.net.cn/jishiqi/)                                               |
-| 工具大师i [u](https://www.youtube.com/c/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88i)              | 止吾说 [u](https://www.youtube.com/c/%E6%AD%A2%E5%90%BE%E8%AF%B4/playlists)              |
-| [knowledge](https://wiki.nikiv.dev/) [git](https://github.com/nikitavoloboev/knowledge) | [4download](https://4download.net/)                                                   |
-| 蚂蚱资源网 [s](http://www.qiteb.com/sort/17)                                                 | 觸動世界 gettyimages [hk](https://www.gettyimages.hk/) [en](https://www.gettyimages.com/) |
-| 幕布 [s](https://mubu.com/home) 一键生成思维导图                                                  |                                                                                       |
+|                                                                                         |                                                                          |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 尼玛分享 [u](https://www.youtube.com/channel/UCdbL8iVp3jiBCOMbG3RM9tA/videos)               | [计时器](https://naozhong.net.cn/jishiqi/)                                  |
+| 工具大师i [u](https://www.youtube.com/c/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88i)              | 止吾说 [u](https://www.youtube.com/c/%E6%AD%A2%E5%90%BE%E8%AF%B4/playlists) |
+| [knowledge](https://wiki.nikiv.dev/) [git](https://github.com/nikitavoloboev/knowledge) | [4download](https://4download.net/)                                      |
+| 蚂蚱资源网 [s](http://www.qiteb.com/sort/17)                                                 |                                                                          |
 
 
 
@@ -39,12 +38,12 @@
 
 ### 其他导航
 
-|                                                                                                   |                                  |                                  |
-| ------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
-| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/) | Cilici[li](https://cilicili.cn/) |
-| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) |                                  |                                  |
-|                                                                                                   |                                  |                                  |
-|                                                                                                   |                                  |                                  |
+|                                |                                  |                                  |
+| ------------------------------ | -------------------------------- | -------------------------------- |
+| [某柠檬](https://www.moulem.com/) | [A5创业网](https://www.admin5.com/) | Cilici[li](https://cilicili.cn/) |
+|                                |                                  |                                  |
+|                                |                                  |                                  |
+|                                |                                  |                                  |
 
 ### 安卓模拟器, emulator
 
@@ -113,7 +112,7 @@
 | 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                            |
 | 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                            |
 | [filez](https://www.filez.com/)   企业网盘                                                                                       |
-| Antdownload [s](https://antdownloadmanager.com/)                                                                             |
+|                                                                                                                              |
 
 |                                |                                  |
 | ------------------------------ | -------------------------------- |

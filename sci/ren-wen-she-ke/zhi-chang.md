@@ -9,8 +9,8 @@
 | 王新宇管理识人学 抖音号：[bosumqwg](https://www.douyin.com/user/MS4wLjABAAAAvDjICdtYGFiwWW35tgCbU7VQns1snVL9hUqhHsh\_BTravkC3YpTbU14sRworQ0Vp) | 有个同事叫老张 抖音号：[DXCM0007](https://www.douyin.com/user/MS4wLjABAAAAclyMtx\_KWWfqkn5k\_XEZniNfFc3T9Gz-eISkVhTaGiE)                               |
 | 任先生 抖音号：[Renyi2022](https://www.douyin.com/user/MS4wLjABAAAAGAl9Ujo42myR74YR26euOsnAos-O0zxoR6OPOl8qM1E)                           | 老四的快乐生活 抖音号：[laosi5881](https://www.douyin.com/user/MS4wLjABAAAA7gdVQLJr7WPYgx3YO90RZw9SU9DoJCgFVbvAwbd6kkQ)                                |
 | 马力在知群 抖音号：[48479806306](https://www.douyin.com/user/MS4wLjABAAAAfgtDMrszkJL6elz6G9g\_C0PBVKnxx0PgnbLNj9OLyMm9xfRHBD-WlvgbinUGoH8v) | 小一历险记 抖音号：[25372846436](https://www.douyin.com/user/MS4wLjABAAAAeYs5Oiyc\_WKoqde8qFw2KD\_TTgSl3AGKVhQzh\_zrDcQ)                             |
-| 辰涛 抖音号：[1314ryxc](https://www.douyin.com/user/MS4wLjABAAAA4-VCLc\_vCkGaz0IYBoXMo1764CJTQZjrGIvYDm\_Q2PE?vid=7120462275114224931)   | 奥大大面试 抖音号：[LIETOU.AO](https://www.douyin.com/user/MS4wLjABAAAAObey7E8txYmTKN0oRveDSTZjuOZMjHDLUMdUyGcOKvt0JGMA4ZlMd-k7vE-ozPr9)             |
-| 马ray 抖音号：[74332198824](https://www.douyin.com/user/MS4wLjABAAAA-MJijam0o2NfXlIn\_9PUcEQ\_DAFoYK3SEGnfEntkZCqrL88I-AkPZFZlpM6cbr5j) | 疯狂下属 抖音号：[60386946506](https://www.douyin.com/user/MS4wLjABAAAAC8EIq0OGVgXPqiVGAhXCKy29G1V8JjEIVCntTOz4pA0ry5ybJcw1-bQ8CRuAJNAe)            |
+| 辰涛 抖音号：[1314ryxc](https://www.douyin.com/user/MS4wLjABAAAA4-VCLc\_vCkGaz0IYBoXMo1764CJTQZjrGIvYDm\_Q2PE?vid=7120462275114224931)   | 奥大大面试 抖音号：LIETOU.AO                                                                                                                         |
+|                                                                                                                                    |                                                                                                                                             |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -81,5 +81,5 @@ Learn to Code [git](https://github.com/collections/learn-to-code)
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |
 | 我们为什么不喜欢上班？ [冷比特er](https://www.yuque.com/birfrozen/00/zeivnz)   [zh](https://www.zhihu.com/people/imwebson) |
-| 竞业限制 [v](https://www.douyin.com/video/7146927660478827809) 不用本名 不留以前手机号码 不收取快递                               |
+|                                                                                                              |
 |                                                                                                              |

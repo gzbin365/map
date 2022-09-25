@@ -12,8 +12,6 @@
 | **MongoDB**                                                                                             |
 | ------------------------------------------------------------------------------------------------------- |
 | **The Little MongoDB Book 中文版(**[**书栈**](https://www.bookstack.cn/books/the-little-MongoDB-Book)**, )** |
-| MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
-|                                                                                                         |
 
 ## Ruby
 
@@ -77,8 +75,6 @@
 | C# Full Course 🎮【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=wxznTygnRfQ)                                                                                           |
 | Calling C++ from C# // Game Engine series [Cherno Unplugged](https://www.youtube.com/watch?v=J7sWEsVVaAA)                                                                     |
 | C# Fundamentals for Beginners [Microsoft Developer](https://www.youtube.com/watch?v=0QUgvfuKvWU)                                                                              |
-| Creating a C# Application: From idea to finished product [IAmTimCorey](https://www.youtube.com/watch?v=YxewTI4H2mY)                                                           |
-| How to connect C# to SQL (the easy way) [IAmTimCorey](https://www.youtube.com/watch?v=Et2khGnrIqc)                                                                            |
 
 ## php
 
@@ -127,32 +123,29 @@
 | Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/) |
 |                                                 |
 
-## DotNet, .NET
+## DotNet .NET
 
-| dotNET [u](https://www.youtube.com/c/dotNET)                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **DotNet 资源大全（中文） (**[**书栈**](https://www.bookstack.cn/books/awesome-dotnet-cn)**, )**                                                                              |
-| Programming with VB.NET for Beginners [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshpremSFQxYM4L0p4Q6hR-4e4J)                                  |
-| Programming with VB.NET Intermediate [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprdTOKv9JR0jWd6MwEyfZsAl)                                   |
-| ASP.NET Core 3.0 入门视频（完结） [小文](https://www.youtube.com/playlist?list=PLHl06E33t4Oqn806JNEQaSwuwKFI9x9XT)                                                            |
-| 软谋.Net高级班第11期完整版 [小文](https://www.youtube.com/playlist?list=PLHl06E33t4OpPge\_hN167P5-Qe09VqmUz)                                                                    |
-| Blazor - Next Generation UI with .NET 6 [Microsoft Developer](https://www.youtube.com/watch?v=1qOXCpCwmJ4)                                                          |
-| .NET 5 REST API Tutorial - Build From Scratch With C# [freeCodeCamp](https://www.youtube.com/watch?v=ZXdFisA\_hOY)                                                  |
-| ASP.NET Core Crash Course - C# App in One Hour [freeCodeCamp](https://www.youtube.com/watch?v=BfEjDD8mWYg)                                                          |
-| 8 await async mistakes that you SHOULD avoid in .NET [Nick Chapsas](https://www.youtube.com/watch?v=lQu-eBIIh-w)                                                    |
-| .NET Microservices – Full Course [Les Jackson](https://www.youtube.com/watch?v=DgVjEo3OGBI)                                                                         |
-| Learn ASP.NET Core MVC (.NET 6) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hZ1DASYd9rk)                                                           |
-| Razor Pages for ASP.NET Core - Full Course (.NET 6) [freeCodeCamp](https://www.youtube.com/watch?v=eru2emiqow0)                                                     |
-| .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                                                         |
-| .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                                                          |
-| Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                                                       |
-| Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                                                   |
-| .NET Core [Anduin Xue](https://www.youtube.com/playlist?list=PLkjO-gN54obCIaFAy-HNL44mO-DjSk7tA)                                                                    |
-| Industry Level REST API using .NET 6 – Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PmDJIooZjBE)                                           |
-| Intro to Web API in .NET 6 - Including Minimal APIs, Swagger, and more [IAmTimCorey](https://www.youtube.com/watch?v=87oOF9Ve-KA)                                   |
-| Learn .NET MAUI - Full Course for Beginners \| Build cross-platform apps in C# [James Montemagno](https://www.youtube.com/watch?v=DuNLR\_NJv8U)                     |
-| Build a C# .NET Application in 60 Minutes [Traversy Media](https://www.youtube.com/watch?v=GcFJjpMFJvI)                                                             |
-| What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? [Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE) |
+| dotNET [u](https://www.youtube.com/c/dotNET)                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| **DotNet 资源大全（中文） (**[**书栈**](https://www.bookstack.cn/books/awesome-dotnet-cn)**, )**                                             |
+| Programming with VB.NET for Beginners [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshpremSFQxYM4L0p4Q6hR-4e4J) |
+| Programming with VB.NET Intermediate [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprdTOKv9JR0jWd6MwEyfZsAl)  |
+| ASP.NET Core 3.0 入门视频（完结） [小文](https://www.youtube.com/playlist?list=PLHl06E33t4Oqn806JNEQaSwuwKFI9x9XT)                           |
+| 软谋.Net高级班第11期完整版 [小文](https://www.youtube.com/playlist?list=PLHl06E33t4OpPge\_hN167P5-Qe09VqmUz)                                   |
+| Blazor - Next Generation UI with .NET 6 [Microsoft Developer](https://www.youtube.com/watch?v=1qOXCpCwmJ4)                         |
+| .NET 5 REST API Tutorial - Build From Scratch With C# [freeCodeCamp](https://www.youtube.com/watch?v=ZXdFisA\_hOY)                 |
+| ASP.NET Core Crash Course - C# App in One Hour [freeCodeCamp](https://www.youtube.com/watch?v=BfEjDD8mWYg)                         |
+| 8 await async mistakes that you SHOULD avoid in .NET [Nick Chapsas](https://www.youtube.com/watch?v=lQu-eBIIh-w)                   |
+| .NET Microservices – Full Course [Les Jackson](https://www.youtube.com/watch?v=DgVjEo3OGBI)                                        |
+| Learn ASP.NET Core MVC (.NET 6) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hZ1DASYd9rk)                          |
+| Razor Pages for ASP.NET Core - Full Course (.NET 6) [freeCodeCamp](https://www.youtube.com/watch?v=eru2emiqow0)                    |
+| .NET Microservices Basics Course [Julio Casal](https://www.youtube.com/watch?v=ByYyk8eMG6c)                                        |
+| .NET Microservices – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=CqCDOosvZIk)                         |
+| Visual Basic (VB.NET) – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=HFWQdGn5DaU)                      |
+| Full ASP.NET Core Application with Rest API and CHARTS [tutorialsEU](https://www.youtube.com/watch?v=uq1UBHwyNTA)                  |
+| .NET Core [Anduin Xue](https://www.youtube.com/playlist?list=PLkjO-gN54obCIaFAy-HNL44mO-DjSk7tA)                                   |
+| Industry Level REST API using .NET 6 – Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PmDJIooZjBE)          |
+| Intro to Web API in .NET 6 - Including Minimal APIs, Swagger, and more [IAmTimCorey](https://www.youtube.com/watch?v=87oOF9Ve-KA)  |
 
 ## HTTP
 
@@ -430,7 +423,7 @@
 | --------------------------------------------------------------------------- |
 | 顶级互联网工程师的计算机思维课 [极客队长GeekLead](https://www.bilibili.com/cheese/play/ep6873) |
 
-## 正则表达式, Regular Expressions, Regex
+## 正则表达式 Regular Expressions
 
 |                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -506,12 +499,11 @@
 |                                                                                                              |   |
 |                                                                                                              |   |
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| 几分钟就能开发一个小程序，是真是假？[程序员鱼皮](https://www.douyin.com/video/6913484511586127104)                                                      |
-| Low-Code for Freelance Developers & Startups – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=hDzgO2FB\_ms)             |
-| NoCode: The New Software Paradigm Data [Slayer](https://www.youtube.com/watch?v=WAi2zzPYFkM)                                     |
-| baidu/[amis](https://github.com/baidu/amis)   前端低代码框架，通过 JSON 配置就能生成各种页面。  [v](https://www.douyin.com/video/7146905674667052318) |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 几分钟就能开发一个小程序，是真是假？[程序员鱼皮](https://www.douyin.com/video/6913484511586127104)                                          |
+| Low-Code for Freelance Developers & Startups – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=hDzgO2FB\_ms) |
+| NoCode: The New Software Paradigm Data [Slayer](https://www.youtube.com/watch?v=WAi2zzPYFkM)                         |
 
 ## Mac
 
