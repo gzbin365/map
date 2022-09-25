@@ -8,7 +8,6 @@
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                              | 刘冠老师 抖音号： [60640459190](https://www.douyin.com/user/MS4wLjABAAAAW-XIzmOJbtzmY0nJx8Ypd7l2Se7hwf4Qtn\_4GEvPw-BWagVtODGfRXvf7-3GQaz0) |
 | 名画油画网 [s](http://www.ashoucang.com/)                                                                                                                                                                            | PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                   |
 | 𝑀𝑅. 𝐴𝑅𝑇✨ 抖音号：[43242566718](https://www.douyin.com/user/MS4wLjABAAAAG3hPZ98CjbFF9dNjeFNOyi0DYNEI69DdSWCuDlkcV7rm99h-muJHKoIo5-IModFR)                                                                       | 吕宸 抖音号：[jokerlyu](https://www.douyin.com/user/MS4wLjABAAAAO\_DyrNrdtohpPRv-ujOWyvCS63Mf70YRB32epZ\_cBBc)                           |
-|                                                                                                                                                                                                                 | 日出东方 抖音号：[1696303153](https://www.douyin.com/user/MS4wLjABAAAAIaOfG5EVpH8vPO\_MtNDUlewjIWqLSbJeDNJdt1gikZ0)                        |
 
 ## 设计
 
@@ -135,8 +134,6 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 ## 3D 建模
 
 [v](https://www.douyin.com/video/7143876985016552719)   樱花兔 抖音号：[Sakura\_Rabbit](https://www.douyin.com/user/MS4wLjABAAAAyUaKHvjkO0qoYsLc7yOND4OcPiat3HAjEnr\_y0duWxg)   3D模型师—小欣 抖音号：[73564782033](https://www.douyin.com/user/MS4wLjABAAAA599wmHo6FsAcn15JRr1bZWCjCBnoEmWF38d1s6gFilYh1hq-UvFutdxSW9GuuA\_8)
-
-云艺术馆长 抖音号：[60068961953](https://www.douyin.com/user/MS4wLjABAAAAYHCD5idUOBDq75bHWsrjpcWcPncsn3Lmo3y2kCPXm9WcPxUMdsUO7RYSlYu0H33q)
 
 ### 3Dmax
 

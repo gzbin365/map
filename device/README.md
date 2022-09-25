@@ -665,11 +665,11 @@ System on Chip, 系统级芯片
 | DIY 72v 60Ah Battery Pack For 2000W Electric Bike [Creative Etc.](https://www.youtube.com/watch?v=Oy8EHGsOhcQ)                            |
 |                                                                                                                                           |
 
-| 户外电源                                                                                                    |
-| ------------------------------------------------------------------------------------------------------- |
-| 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU) |
-|                                                                                                         |
-|                                                                                                         |
+| 户外电源                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU)                                     |
+| 百克龙E1500pro户外应急电源 家庭应急 户外作业 [天哥爱生活](https://www.douyin.com/video/7144611933163883813)  [旗客试验室](https://www.youtube.com/watch?v=bOg2o6yYoBA) |
+|                                                                                                                                             |
 
 ## 充电宝
 
