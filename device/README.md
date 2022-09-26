@@ -61,7 +61,6 @@ description: 硬件设备
 | 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                |
 | THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
 | TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                    |
-| How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                          |
 
 ## **Raspberry Pi**
 
@@ -261,7 +260,6 @@ description: 硬件设备
 | 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评 |
 | 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                  |
 | 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                               |
-| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                     |
 
 ## 笔记本
 
@@ -626,7 +624,6 @@ System on Chip, 系统级芯片
 | 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                   |
 | 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗？ [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM)         |
 | 【科普】DP接口是什么？对比HDMI有哪些优劣？DisplayPort简单科普 [徕笙Channel](https://www.youtube.com/watch?v=qGpe5AhV0Dk)      |
-| 【硬件科普】一个视频带你了解LCD OLED QLED mini-LED等显示技术的区别 [硬件茶谈](https://www.youtube.com/watch?v=wHdSGmqLne0)      |
 |                                                                                                       |
 
 | 墨水屏                                                                                            |
@@ -665,19 +662,11 @@ System on Chip, 系统级芯片
 | DIY 72v 60Ah Battery Pack For 2000W Electric Bike [Creative Etc.](https://www.youtube.com/watch?v=Oy8EHGsOhcQ)                            |
 |                                                                                                                                           |
 
-| 户外电源                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU)                                     |
-| 百克龙E1500pro户外应急电源 家庭应急 户外作业 [天哥爱生活](https://www.douyin.com/video/7144611933163883813)  [旗客试验室](https://www.youtube.com/watch?v=bOg2o6yYoBA) |
-|                                                                                                                                             |
-
-## 充电宝
-
-|                                                                                |   |   |
-| ------------------------------------------------------------------------------ | - | - |
-| 充电宝宇宙，漫威看了都说牛【值不值得买第571期】 [TESTV](https://www.youtube.com/watch?v=WjQ6VXb1900) |   |   |
-|                                                                                |   |   |
-|                                                                                |   |   |
+| 户外电源                                                                                                    |
+| ------------------------------------------------------------------------------------------------------- |
+| 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU) |
+|                                                                                                         |
+|                                                                                                         |
 
 ## 虚拟现实 VR
 
@@ -739,7 +728,7 @@ System on Chip, 系统级芯片
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
 | 误删文件后居然还能恢复？详解磁盘数据恢复原理与固态硬盘TRIM回收指令 [硬件茶谈](https://www.youtube.com/watch?v=04r-ZAgXIyo) |
-| 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)               |
+|                                                                                         |
 |                                                                                         |
 
 ## 路由器 软路由
@@ -765,7 +754,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)   玩模堂 抖音号：[wmt688](https://www.douyin.com/user/MS4wLjABAAAAoxSTgeJ3onVDGUx4Hc5CgS-\_xC1MdChwm\_ae8khq\_PQ)                                                                                                                                                                         |
+| Adam Savage’s Tested [u](https://www.youtube.com/c/tested)                                                                                                                                                                                                                                                                                    |
 | S-DiY [u](https://www.youtube.com/c/SDiYchannel01)   Creative Etc. [u](https://www.youtube.com/channel/UCRIjrwanAvO0pbTASCOKYGg)   Tom Stanton [u](https://www.youtube.com/watch?v=g2p4P36VtQE)   EbikeSchool.com [u](https://www.youtube.com/watch?v=YwyQohkELEU)   Yanko Alexandrov [u](https://www.youtube.com/user/superactro/playlists)  |
 | Electronoobs [u](https://www.youtube.com/c/ELECTRONOOBS/playlists)   Raz Shifrin [u](https://www.youtube.com/c/RazShifrin)   Creative Think [u](https://www.youtube.com/channel/UCFIvBqiuewh8L41QLTn0rcQ)   Hyperspace Pirate [u](https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA)   NDA Hack [u](https://www.youtube.com/c/NDAHack) |
 | GBLynden's RC [u](https://www.youtube.com/user/GBLynden)   稚晖君 [u](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)   BigWR\_永恒跳动的火焰 [u](https://www.youtube.com/channel/UCC1BtcXER\_5xRVIV3wcJv7w)   D. Creative [u](https://www.youtube.com/user/Wuzun1984)   Cgit Einsteins [u](https://www.youtube.com/c/CgitEinstens)           |
@@ -985,7 +974,6 @@ System on Chip, 系统级芯片
 | 使用Python控制游戏手柄 [王跃恒](https://zhuanlan.zhihu.com/p/444431769) Xbox Series X                             |
 | How To Use Joysticks & Controllers in PyGame [NeuralNine](https://www.youtube.com/watch?v=ax3E0pjXVKs) |
 | 控制器输入 - Pygame 教程 [大蓬松土豆](https://www.youtube.com/watch?v=Hp0M8iExfDc)                                 |
-| Pygame Tutorial - Controller Support [ScriptLine Studios](https://www.youtube.com/watch?v=C0rc2wcRoGU) |
 |                                                                                                        |
 
 ### 耳机
@@ -1022,7 +1010,6 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 
 |                                                                                                              |                                                                      |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| 80小陈 [u](https://www.youtube.com/channel/UCgXuxCSCGyxx\_BPxZJh6uVA)                                          |                                                                      |
 | 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
 | 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                         |                                                                      |
 |                                                                                                              |                                                                      |
