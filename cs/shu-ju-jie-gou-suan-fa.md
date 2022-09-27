@@ -210,6 +210,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 算法复杂度速查表 [s](https://www.cnblogs.com/martini-d/p/fu-za-du.html)                                                                                                                               |
 | Big O Complexity [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5)                                                                                 |
 | Big O Notation - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)                                                                                                      |
+| <p>BigO Notation &#x26; Time Complexity Tutorial (Code Efficiency &#x26; Algorithm Analysis)</p><p><a href="https://www.youtube.com/watch?v=goWkNKHXkMg">Tech With Tim</a></p>                |
 | Big O Notation & Time Complexity Analysis Tutorial [Tech With Tim](https://www.youtube.com/watch?v=6aDHWSNKlVw)                                                                               |
 | BigO = Performance! And other lies programmers tell themselves!! [GamesWithGabe](https://www.youtube.com/watch?v=o4-zpAI7qBc)                                                                 |
 | Big O: How Code Slows as Data Grows [freeCodeCamp](https://www.youtube.com/watch?v=Ee0HzlnIYWQ)                                                                                               |
