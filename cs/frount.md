@@ -123,6 +123,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021 [Clever Programmer](https://www.youtube.com/watch?v=RDV3Z1KCBvo)     |
 | Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 \| RapidAPI [JavaScript Mastery](https://www.youtube.com/watch?v=FHTbsZEJspU)         |
 | Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
