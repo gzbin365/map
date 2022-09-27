@@ -4,6 +4,12 @@ description: Self-Driving
 
 # 自动驾驶
 
+|                                                                         |   |   |
+| ----------------------------------------------------------------------- | - | - |
+| Tesla [s](https://www.tesla.com/) [git](https://github.com/teslamotors) |   |   |
+|                                                                         |   |   |
+|                                                                         |   |   |
+
 |                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars \| Lex Fridman Podcast #322 [Lex Fridman](https://www.youtube.com/watch?v=36\_rM7wpN5A) Podcast |
