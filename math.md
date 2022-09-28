@@ -161,7 +161,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | --------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 | Math3D会动的数学 抖音号：[84616132679](https://www.douyin.com/user/MS4wLjABAAAA1Hs9scl3xk6RAQxEZClE28ZbOh6DYKBNy8gM3dVllM8dwXoWncqvzevibNAq2CtY) |   |   |
 |                                                                                                                                         |   |   |
-| 细无声 抖音号：[Xiws](https://www.douyin.com/user/MS4wLjABAAAAEtF-S7\_4V598u9z4GowlyzovCl15LvU-4YO5l1mtyxM)                                    |   |   |
+|                                                                                                                                         |   |   |
 
 ## 小学
 

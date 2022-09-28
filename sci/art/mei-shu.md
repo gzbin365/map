@@ -13,14 +13,13 @@
 
 ## 设计
 
-| 设计导航                                                                                                                               |                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [设计导航](https://hao.shejidaren.com/)                                                                                                | [设计师导航](https://nice001.com/)                                                                                    |
-| [设计星球](https://convenient.work/design/)                                                                                            | [万达设计](http://www.wandasheji.com/)                                                                               |
-| [时刻设计导航](https://hao.sicoll.com/)                                                                                                  | 墨鱼设计学院 [B](https://space.bilibili.com/480420117)                                                                 |
-| 大东设计 抖音号：[dadongsheji](https://www.douyin.com/user/MS4wLjABAAAATB-n--sh814SXzHtp\_zBzpaBJ9H1xexpKuq6O0NkAkK2TSr-XREUSlMhu\_HqSe4Y) | x14studio [u](https://www.youtube.com/channel/UCPSSbBEd8fxExDAWbUTIIJA/videos) Modern House Design               |
-| 赫华啊｜且曼 抖音号：[1138839790](https://www.douyin.com/user/MS4wLjABAAAAbfDTcXOpJbAr\_sq9XfdupsJiYVQINPOrwkml2D\_fRsg)                     | 色卡                                                                                                               |
-|                                                                                                                                    | 六萌星画画｜且曼学院 抖音号：[Six\_meng](https://www.douyin.com/user/MS4wLjABAAAAeF1A1WplgX7xplZ900XFtlcVYdt8gixAvU\_WYhJsqQ0) |
+| 设计导航                                                                                                                               |                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [设计导航](https://hao.shejidaren.com/)                                                                                                | [设计师导航](https://nice001.com/)                                                                      |
+| [设计星球](https://convenient.work/design/)                                                                                            | [万达设计](http://www.wandasheji.com/)                                                                 |
+| [时刻设计导航](https://hao.sicoll.com/)                                                                                                  | 墨鱼设计学院 [B](https://space.bilibili.com/480420117)                                                   |
+| 大东设计 抖音号：[dadongsheji](https://www.douyin.com/user/MS4wLjABAAAATB-n--sh814SXzHtp\_zBzpaBJ9H1xexpKuq6O0NkAkK2TSr-XREUSlMhu\_HqSe4Y) | x14studio [u](https://www.youtube.com/channel/UCPSSbBEd8fxExDAWbUTIIJA/videos) Modern House Design |
+| 赫华啊｜且曼 抖音号：[1138839790](https://www.douyin.com/user/MS4wLjABAAAAbfDTcXOpJbAr\_sq9XfdupsJiYVQINPOrwkml2D\_fRsg)                     | 色卡                                                                                                 |
 
 |                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
