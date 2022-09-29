@@ -19,11 +19,11 @@
 
 ## 面试
 
-|                                                                                                           |                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 牛客网 抖音号： [606602941](https://www.douyin.com/user/MS4wLjABAAAAQkElu1uG4mU6kGNgxseQJ4Bdst-KnGpiCfXwGObwZRc) | 奥式面试技巧 抖音号： [lietou.Ao](https://www.douyin.com/user/MS4wLjABAAAAObey7E8txYmTKN0oRveDSTZjuOZMjHDLUMdUyGcOKvt0JGMA4ZlMd-k7vE-ozPr9) |
-|                                                                                                           |                                                                                                                                   |
-|                                                                                                           |                                                                                                                                   |
+|                                                                                                                   |                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 牛客网 抖音号： [606602941](https://www.douyin.com/user/MS4wLjABAAAAQkElu1uG4mU6kGNgxseQJ4Bdst-KnGpiCfXwGObwZRc)         | 奥式面试技巧 抖音号： [lietou.Ao](https://www.douyin.com/user/MS4wLjABAAAAObey7E8txYmTKN0oRveDSTZjuOZMjHDLUMdUyGcOKvt0JGMA4ZlMd-k7vE-ozPr9) |
+| CTO段王爷 抖音号：[taibaishangxian](https://www.douyin.com/user/MS4wLjABAAAAcrAPpoKGpTzWSdlcWjZkxbwBCN6BEiu8LL6xmJR63T4) |                                                                                                                                   |
+|                                                                                                                   |                                                                                                                                   |
 
 lengyue1024/[BAT\_interviews](https://github.com/lengyue1024/BAT\_interviews)
 
@@ -53,6 +53,9 @@ Learn to Code [git](https://github.com/collections/learn-to-code)
 | 面试招聘我们应该提什么样的问题，才能更快更专业的了解面试者 [赵玉平老师讲国学](https://www.douyin.com/video/7035554413209062670)                                                              |
 | How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)　[The AI Epiphany](https://www.youtube.com/watch?v=SgaN-4po\_cA) |
 | 一招识别割韭菜的职业技能证书 [薅知识](https://www.douyin.com/video/7119866233327045919)                                                                                  |
+| CTO点评在阿里云工作过的简历 [CTO段王爷](https://www.douyin.com/video/7148727037685943582)                                                                              |
+|                                                                                                                                                         |
+|                                                                                                                                                         |
 
 ## 社保
 
