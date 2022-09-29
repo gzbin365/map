@@ -319,11 +319,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                    |
 |                                                                                                                                    |
 
-| Discord Bot                                                                                         |
-| --------------------------------------------------------------------------------------------------- |
-| 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)           |
-| Discord Bot全教學 [狗勾ニオわんわん](https://www.youtube.com/playlist?list=PLOEbl4-1QPZZzG9UHV07oDzcjlSLqsNvR) |
-|                                                                                                     |
+| Discord Bot                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- |
+| 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)                   |
+| Discord Bot全教學 [狗勾ニオわんわん](https://www.youtube.com/playlist?list=PLOEbl4-1QPZZzG9UHV07oDzcjlSLqsNvR)         |
+| Deploy Your Discord Python Bot For Free [NeuralNine](https://www.youtube.com/watch?v=SVKhbjcH6WQ)           |
+| Discord.py Bot Tutorials [sanamo](https://www.youtube.com/playlist?list=PLuwK012tUglquEYi64dm6FtMRmXx9SpfJ) |
+|                                                                                                             |
 
 | **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
