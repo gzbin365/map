@@ -24,6 +24,7 @@
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 网站，值得前端工程师收藏 [v](https://www.douyin.com/video/7002896729465048331)                                                                    |
+| 前端、後端、資料庫是什麼？它們如何溝通？實際範例解說 [走歪的工程師James](https://www.youtube.com/watch?v=G-Ks1XYGyaY)                                                 |
 | App/小程序开发怎么选择跨端技术开发框架 [写代码的产品兔](https://www.douyin.com/video/7032020021471628574)                                                     |
 | Micro-Frontends Course - Beginner to Expert [freeCodeCamp](https://www.youtube.com/watch?v=lKKsjpH09dU)                               |
 | codepen [s](https://codepen.io/) 构建、测试和发现前端代码的最佳场所。[eg](https://codepen.io/Ma5a/full/jOBWBYw)                                         |
@@ -123,6 +124,7 @@
 
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021 [Clever Programmer](https://www.youtube.com/watch?v=RDV3Z1KCBvo)     |
 | Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 \| RapidAPI [JavaScript Mastery](https://www.youtube.com/watch?v=FHTbsZEJspU)         |
 | Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
