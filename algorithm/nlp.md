@@ -56,7 +56,7 @@ description: 自然语言处理
 | CS25 I Stanford Seminar - Transformers United: DL Models that have revolutionized NLP, CV, RL [Stanford Online](https://www.youtube.com/watch?v=P127jhj-8-Y)       |
 | Stanford CS25 - Transformers United [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR\_Z27CM)                                   |
 | Transformer: Concepts, Building Block, Attention, Sample Implementation in PyTorch [Rowel Atienza](https://www.youtube.com/watch?v=6PmIoCnqcFU)                    |
-|                                                                                                                                                                    |
+| AI论文搬砖学姐 抖音号：[21918745608](https://www.douyin.com/user/MS4wLjABAAAA0HK5iY9\_CAQBUud11RiSqBbaQX1DEl7hwvs\_A35O92m5celNHqgK7g5lAMBvzHXP)                             |
 |                                                                                                                                                                    |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
 | Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
@@ -319,11 +319,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                    |
 |                                                                                                                                    |
 
-| Discord Bot                                                                                         |
-| --------------------------------------------------------------------------------------------------- |
-| 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)           |
-| Discord Bot全教學 [狗勾ニオわんわん](https://www.youtube.com/playlist?list=PLOEbl4-1QPZZzG9UHV07oDzcjlSLqsNvR) |
-|                                                                                                     |
+| Discord Bot                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- |
+| 【discord】用discord聊天工具创建自己的聊天机器人 [FreeCoder](https://www.youtube.com/watch?v=JY1\_8yoN5AE)                   |
+| Discord Bot全教學 [狗勾ニオわんわん](https://www.youtube.com/playlist?list=PLOEbl4-1QPZZzG9UHV07oDzcjlSLqsNvR)         |
+| Deploy Your Discord Python Bot For Free [NeuralNine](https://www.youtube.com/watch?v=SVKhbjcH6WQ)           |
+| Discord.py Bot Tutorials [sanamo](https://www.youtube.com/playlist?list=PLuwK012tUglquEYi64dm6FtMRmXx9SpfJ) |
+|                                                                                                             |
 
 | **DialoGPT**                                                                                                                                                                                                                                                                                                          |                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
