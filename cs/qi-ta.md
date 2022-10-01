@@ -457,7 +457,6 @@
 | ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                           |
 | VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                   |
 | How to Install Kali Linux 2022.3 in VirtualBox on windows [CS Malik](https://www.youtube.com/watch?v=TbQQpRe2-7s)                                                                                            |
-| VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                 |
 
 ## 架构
 
