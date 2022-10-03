@@ -155,6 +155,7 @@
 | React JS Course for Beginners - 2021 Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)                                                                |
 | Full Stack React & Firebase Tutorial - Build a social media app [freeCodeCamp](https://www.youtube.com/watch?v=m\_u6P5k0vP0)                                             |
 | Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js) [freeCodeCamp](https://www.youtube.com/watch?v=7CqJlxBYj-M)                                      |
+| MERN Stack Full Tutorial & Project \| Complete All-in-One Course \| 8 Hours [Dave Gray](https://www.youtube.com/watch?v=CvCiNeLnZ00)                                     |
 | React JS - React Tutorial for Beginners [Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)                                                             |
 | React JS Crash Course for Beginners - Build 4 Apps in 12 Hours (Redux, Firebase, Auth + More) \[2021] [Sonny Sangha](https://www.youtube.com/watch?v=tbvguOj8C-o)        |
 | React JS Crash Course 2021 [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                                                                 |
