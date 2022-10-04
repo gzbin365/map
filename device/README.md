@@ -363,13 +363,13 @@ description: 硬件设备
 
 ### FPV
 
-|                                                                                                             |                                                                                         |                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT)                                                 | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                                                                          |
-| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)                                                            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                                                                          |
-| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0)                                                 | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague)                                                        |
-| NURK FPV [u](https://www.youtube.com/c/NURKFPV)                                                             | 自目THEMODE [B](https://space.bilibili.com/409193927/)                                    | 穿越机自学教程 抖音号：[FPVGUO](https://www.douyin.com/user/MS4wLjABAAAAdhOzdSgFGdGdFyDuTTJ5CTk-vg0xZ5gEhmzEQL7TuLnk-JIhOBbLVnT3LcolJQLK) |
-| 影像大舌头 抖音号：[1279543430](https://www.douyin.com/user/MS4wLjABAAAAeLdSMnVIDFFznMVcRXGpVfJDAZ7RDuBg2INPcCBpE8Y) |                                                                                         | 白城夏树 抖音号：[61966967](https://www.douyin.com/user/MS4wLjABAAAA5nc8WmniVKdhl7y0kWOLqb7\_L2bVqrynlX1WtLE9iB0)                      |
+|                                                             |                                                                                         |                                                                                                                                |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Craft Channel [u](https://www.youtube.com/c/CraftChannelYT) | Isaac Lanier [u](https://www.youtube.com/channel/UClRab5p\_XY\_jaVxfLU-QSsA)            | TRONCAT FPV [u](https://www.youtube.com/c/TRONCATFPV)                                                                          |
+| RCLifeOn [u](https://www.youtube.com/c/RcLifeOn)            | Spud Nick [u](https://www.youtube.com/playlist?list=PLhJ58x9x9E2R-5MHvK95C0qvQXvq7c17K) | IronMan FPV [u](https://www.youtube.com/c/IronManFPV)                                                                          |
+| Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0) | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague)                                                        |
+| NURK FPV [u](https://www.youtube.com/c/NURKFPV)             | 自目THEMODE [B](https://space.bilibili.com/409193927/)                                    | 穿越机自学教程 抖音号：[FPVGUO](https://www.douyin.com/user/MS4wLjABAAAAdhOzdSgFGdGdFyDuTTJ5CTk-vg0xZ5gEhmzEQL7TuLnk-JIhOBbLVnT3LcolJQLK) |
+|                                                             |                                                                                         | 白城夏树 抖音号：[61966967](https://www.douyin.com/user/MS4wLjABAAAA5nc8WmniVKdhl7y0kWOLqb7\_L2bVqrynlX1WtLE9iB0)                      |
 
 ### Nano
 
@@ -699,11 +699,11 @@ System on Chip, 系统级芯片
 
 ## 硬盘
 
-|                                                                                                  |                                                                |   |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | - |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)        | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc) |   |
-| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q) |                                                                |   |
-|                                                                                                  |                                                                |   |
+|                                                                                           |                                                                |   |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------- | - |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s) | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc) |   |
+|                                                                                           |                                                                |   |
+|                                                                                           |                                                                |   |
 
 ## NAS
 
