@@ -1321,6 +1321,12 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | The millennium prize problems [pdf](http://library.lol/main/63C896287AB0A9180ADB57AAEBC49871)                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                              |
 
+| 冰雹猜想                                                  |   |   |
+| ----------------------------------------------------- | - | - |
+| [v](https://www.douyin.com/video/7149195471599275278) |   |   |
+|                                                       |   |   |
+|                                                       |   |   |
+
 ### NP完全问题 NP Hard
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
