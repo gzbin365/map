@@ -721,15 +721,17 @@ $$
 
 ### 随机游走 Random Walk
 
-|                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| 随机游走 (Random Walk) [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_bYPgQZgkNy5caDgeDt8Q-X) |
-| 金融数学基础 资产价格随机游走 [金刚钻club](https://www.youtube.com/watch?v=p\_uqieLfdoc\&t=4s)                                                   |
-| 进化经济学：随机游走和预测的关系 [泽熙长信](https://www.youtube.com/watch?v=\_HSjCyFKIhU)                                                           |
-| Random Walks Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQrm1zjRtEzh1Z5OtkN90lu)           |
-| 统计学(Statistics) [Learn It Fast 学快点](https://www.youtube.com/playlist?list=PL56quC9zo3uaVTjisFqSZzuwt0moL6Yrb)                   |
-| 醉汉回到家的概率是多少？用随机游走阐述科学家精神 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2xOcz4j1yjQ)                                            |
-|                                                                                                                                 |
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 随机游走 (Random Walk) [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_bYPgQZgkNy5caDgeDt8Q-X)           |
+| 金融数学基础 资产价格随机游走 [金刚钻club](https://www.youtube.com/watch?v=p\_uqieLfdoc\&t=4s)                                                             |
+| 进化经济学：随机游走和预测的关系 [泽熙长信](https://www.youtube.com/watch?v=\_HSjCyFKIhU)                                                                     |
+| Random Walks Tutorial [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQrm1zjRtEzh1Z5OtkN90lu)                     |
+| 统计学(Statistics) [Learn It Fast 学快点](https://www.youtube.com/playlist?list=PL56quC9zo3uaVTjisFqSZzuwt0moL6Yrb)                             |
+| 醉汉回到家的概率是多少？用随机游走阐述科学家精神 [妈咪说MommyTalk](https://www.youtube.com/watch?v=2xOcz4j1yjQ)                                                      |
+| Random walks in 2D and 3D are fundamentally different (Markov chains approach) [Mathemaniac](https://www.youtube.com/watch?v=iH2kATv49rc) |
+| Explicit calculation: why random walk is recurrent for 2D, but not 3D [2maniac](https://www.youtube.com/watch?v=KnWK7xYuy00)              |
+|                                                                                                                                           |
 
 ### 有限元分析 Finite Element Analysis
 
@@ -1164,11 +1166,12 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | 模糊專家系統 1 [Jong yih Kuo](https://www.youtube.com/watch?v=dvUNlHFjdNo)                                                                              |
 |                                                                                                                                                   |
 
-## 小波理论
+## 小波理论 Wavelets
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |
 | 小波理论及应用(冉启文)(哈尔滨工业大学)(67讲) [wi nd](https://www.youtube.com/playlist?list=PLUjcZXQwHFGb2ijHwApEQPj4YlKi13qF4) |
+| Wavelets: a mathematical microscope [Artem Kirsanov](https://www.youtube.com/watch?v=jnxqHcObNK4)            |
 
 ## 贝塞尔曲线 Bézier Curve **Bezier Curve**
 
@@ -1320,6 +1323,12 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 千年难题：七个悬赏1000000美元的数学问题 [jd](https://item.jd.com/12493185.html) [pdf](http://muchong.com/html/201710/5127133.html) [v](https://www.douyin.com/video/7130897521542548743)                                                                                                                                                                                     |
 | The millennium prize problems [pdf](http://library.lol/main/63C896287AB0A9180ADB57AAEBC49871)                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                              |
+
+| 冰雹猜想                                                  |   |   |
+| ----------------------------------------------------- | - | - |
+| [v](https://www.douyin.com/video/7149195471599275278) |   |   |
+|                                                       |   |   |
+|                                                       |   |   |
 
 ### NP完全问题 NP Hard
 
