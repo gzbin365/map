@@ -79,6 +79,7 @@
 | C# Fundamentals for Beginners [Microsoft Developer](https://www.youtube.com/watch?v=0QUgvfuKvWU)                                                                              |
 | Creating a C# Application: From idea to finished product [IAmTimCorey](https://www.youtube.com/watch?v=YxewTI4H2mY)                                                           |
 | How to connect C# to SQL (the easy way) [IAmTimCorey](https://www.youtube.com/watch?v=Et2khGnrIqc)                                                                            |
+| C# Full Course - Learn C# 10 and .NET 6 in 7 hours [tutorialsEU](https://www.youtube.com/watch?v=q\_F4PyW8GTg)                                                                |
 
 ## php
 
@@ -457,6 +458,7 @@
 | ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                           |
 | VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                   |
 | How to Install Kali Linux 2022.3 in VirtualBox on windows [CS Malik](https://www.youtube.com/watch?v=TbQQpRe2-7s)                                                                                            |
+| VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                 |
 
 ## 架构
 
@@ -528,6 +530,7 @@
 | Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                          |
 | 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
 | 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                       |
+| 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                        |
 
 ## Windows
 
