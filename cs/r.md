@@ -15,6 +15,7 @@
 | Introduction to Network Analysis in R [Veronica Red](https://www.youtube.com/watch?v=-0DrlPqit9M)                                                                     |
 | 教育統計學 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRCD6BGbDyCrf0mZm1hHJEl)                                                                                 |
 | 基礎統計概論含R實作 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQYj2KFUus-Z3scvBPDpWgk)                                                                            |
+| Use Python Inside of R [NeuralNine](https://www.youtube.com/watch?v=Rtipj7OaB2k)                                                                                      |
 |                                                                                                                                                                       |
 
 | Google Colab with R                                                                                                         |
