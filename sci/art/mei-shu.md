@@ -140,6 +140,8 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 云艺术馆长 抖音号：[60068961953](https://www.douyin.com/user/MS4wLjABAAAAYHCD5idUOBDq75bHWsrjpcWcPncsn3Lmo3y2kCPXm9WcPxUMdsUO7RYSlYu0H33q)
 
+Avatars全新升级给动画人带来了什么 [周丛卫](https://www.douyin.com/video/7152060250672205090)
+
 ### 3Dmax
 
 |                                                                                                                                        |                                                                                       |
