@@ -108,7 +108,7 @@
 | Laravel PHP Framework Tutorial - Full Course for Beginners (2019) [freeCodeCamp](https://www.youtube.com/watch?v=ImtZ5yENzgE)                                                             |
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                        |
 | 跟兄弟连学PHP新版视频教程 - PHP篇 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7f1IGdk6b4B7NXKQ0OcmlKx)                                                                                 |
-| PHP Tutorial for Beginners \| Full Course to Learn What is PHP in Hindi With Projects [WsCube Tech](https://www.youtube.com/watch?v=EJWw1bd0-C0)                                          |
+|                                                                                                                                                                                           |
 |                                                                                                                                                                                           |
 
 ## lua
@@ -441,7 +441,6 @@
 | Learn Regular Expressions In 20 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=rhzKDrUiJVk)                                    |
 | Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) [Corey Schafer](https://www.youtube.com/watch?v=K8L6KVGG-7o) |
 | Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text [Corey Schafer](https://www.youtube.com/watch?v=sa-TUpSx1JA)          |
-| any-rule 正则大全 支持web在线 / vscode / idea / Alfred Workflow多平台 [小明1994](https://www.douyin.com/video/7150926812510555405)                        |
 
 ## 虚拟机
 

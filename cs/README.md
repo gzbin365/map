@@ -173,7 +173,7 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | Binod Suman Academy [u](https://www.youtube.com/channel/UCIZ3CSNL-8mBHfFZLic1-aQ/playlists)                                                        |
 | Learn Microsoft Active Directory (ADDS) in 30mins [Andy Malone MVP](https://www.youtube.com/watch?v=85-bp7XxWDQ)                                   |
 | Azure Developer Associate (AZ-204) — Full Course Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=jZx8PMQjobk)                        |
-| Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=P3qmqUZJ7l0)          |
+|                                                                                                                                                    |
 |                                                                                                                                                    |
 
 ### 百度
