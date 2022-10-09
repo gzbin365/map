@@ -22,6 +22,7 @@
 | 大东设计 抖音号：[dadongsheji](https://www.douyin.com/user/MS4wLjABAAAATB-n--sh814SXzHtp\_zBzpaBJ9H1xexpKuq6O0NkAkK2TSr-XREUSlMhu\_HqSe4Y) | x14studio [u](https://www.youtube.com/channel/UCPSSbBEd8fxExDAWbUTIIJA/videos) Modern House Design               |
 | 赫华啊｜且曼 抖音号：[1138839790](https://www.douyin.com/user/MS4wLjABAAAAbfDTcXOpJbAr\_sq9XfdupsJiYVQINPOrwkml2D\_fRsg)                     | 色卡                                                                                                               |
 | 画了画了Stone 抖音号：[Stone.hua](https://www.douyin.com/user/MS4wLjABAAAAKM11dO6WJPb4aIIMy5\_1OhPMlGYQcpExYPPjmcr2kMg)                    | 六萌星画画｜且曼学院 抖音号：[Six\_meng](https://www.douyin.com/user/MS4wLjABAAAAeF1A1WplgX7xplZ900XFtlcVYdt8gixAvU\_WYhJsqQ0) |
+| BUKA设计师 \| 且曼 抖音号：[blowcat](https://www.douyin.com/user/MS4wLjABAAAAk8Xr68fP3BpQggtTH9MU3\_6nPwjmLTces0iBw4rQsUA)                  |                                                                                                                  |
 
 |                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

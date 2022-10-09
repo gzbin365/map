@@ -71,6 +71,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                     |
 | Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                            |
 | 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                                   |
+| Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                        |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -134,7 +135,7 @@ import cv2
 | Hand Distance Measurement with Normal Webcam + Game \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=NGQgRH2\_kq8)                                                                                       |
 | 35行python代码100万？人工智能光速入门 [小波说xiaoboswift](https://www.youtube.com/watch?v=7Vc71\_DlnvU)                                                                                                                                                         |
 | Using OpenCV with MFC [s](https://www.lund.gl/ImageProcess/OpenCV.html) [search](https://www.google.com.hk/search?q=opencv+mfc+tutorial\&oq=opencv+mfc\&aqs=chrome.0.0i512j69i57j0i22i30l8.2702j0j15\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) |
-|                                                                                                                                                                                                                                                 |
+| OpenCV and Python [ibrahimokdadov](https://www.youtube.com/playlist?list=PL-cS6ZwDCr6rnUfSO2Wc5iR-UPKyMHCsn)                                                                                                                                    |
 
 
 
@@ -285,6 +286,7 @@ import cv2
 | 284 - Installing Mask RCNN and troubleshooting errors [DigitalSreeni](https://www.youtube.com/watch?v=Fu\_km7FXyaU)                                                                                                                                                                      |
 | 286 - Object detection using Mask RCNN: end-to-end from annotation to prediction [DigitalSreeni](https://www.youtube.com/watch?v=QntADriNHuk)                                                                                                                                            |
 | 只要你在社交平台发了照片，这个AI就能利用开放式摄像头找到你摆拍的全过程 [量子位](https://www.douyin.com/video/7143923762381999390)                                                                                                                                                                                             |
+| Coding an Object Detection App in 15 mins [Nicholas Renotte](https://www.youtube.com/watch?v=msGOrJIMGy8)                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
