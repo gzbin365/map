@@ -39,6 +39,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Talk \| 字节跳动研究员董倩倩：基于单调切分的端到端同传 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=uv\_4sRg47hk)                                                                                                                                                                                                              |
 | How to do entity detection on audio files with Python [AssemblyAI](https://www.youtube.com/watch?v=7jrs3DrMVJQ)                                                                                                                                                                                              |
 | Audio Feature Extraction using Python [Prabhjot Gosal](https://www.youtube.com/watch?v=PYlr8ayHb4g)                                                                                                                                                                                                          |
+| oscilloscope [search](https://www.douyin.com/search/oscilloscope)                                                                                                                                                                                                                                            |
 
 ***
 
@@ -112,6 +113,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 一款采用人工智能黑科技文字转流畅自然配音软件配音神器 [廉飞](https://www.youtube.com/watch?v=jd1WOkBIOTQ)                                                                                    |
 | 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                 |
 | Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                   |
+| I secretly used AI to clone my favourite Rapper [Nicholas Renotte](https://www.youtube.com/watch?v=HoMZxHNpM84)                                                 |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
