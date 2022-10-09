@@ -10,6 +10,7 @@
 | 𝑀𝑅. 𝐴𝑅𝑇✨ 抖音号：[43242566718](https://www.douyin.com/user/MS4wLjABAAAAG3hPZ98CjbFF9dNjeFNOyi0DYNEI69DdSWCuDlkcV7rm99h-muJHKoIo5-IModFR)                                                                       | 吕宸 抖音号：[jokerlyu](https://www.douyin.com/user/MS4wLjABAAAAO\_DyrNrdtohpPRv-ujOWyvCS63Mf70YRB32epZ\_cBBc)                           |
 | dP Art Drawing [u](https://www.youtube.com/c/dPArtDrawing)                                                                                                                                                      | 日出东方 抖音号：[1696303153](https://www.douyin.com/user/MS4wLjABAAAAIaOfG5EVpH8vPO\_MtNDUlewjIWqLSbJeDNJdt1gikZ0)                        |
 | Mr Doodle 抖音号：[Mrdoodle](https://www.douyin.com/user/MS4wLjABAAAAoiMFKYh\_uQ5rDNa4tB4j2UljvO\_8UPVRradgJOP7r7I)                                                                                                 | 张连文★肖像 抖音号：[wenart666](https://www.douyin.com/user/MS4wLjABAAAAF4zZkcnmLy\_537\_CZbdgTecmDly-EXD64scTLnNL7Q4)                      |
+|                                                                                                                                                                                                                 | 空罐王CankingSketch [u](https://www.youtube.com/c/a12710xxx)                                                                          |
 
 ## 设计
 
