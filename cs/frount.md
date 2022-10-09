@@ -155,6 +155,7 @@
 | React JS Course for Beginners - 2021 Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)                                                                |
 | Full Stack React & Firebase Tutorial - Build a social media app [freeCodeCamp](https://www.youtube.com/watch?v=m\_u6P5k0vP0)                                             |
 | Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js) [freeCodeCamp](https://www.youtube.com/watch?v=7CqJlxBYj-M)                                      |
+| MERN Stack Full Tutorial & Project \| Complete All-in-One Course \| 8 Hours [Dave Gray](https://www.youtube.com/watch?v=CvCiNeLnZ00)                                     |
 | React JS - React Tutorial for Beginners [Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)                                                             |
 | React JS Crash Course for Beginners - Build 4 Apps in 12 Hours (Redux, Firebase, Auth + More) \[2021] [Sonny Sangha](https://www.youtube.com/watch?v=tbvguOj8C-o)        |
 | React JS Crash Course 2021 [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                                                                 |
@@ -317,6 +318,8 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JavaScript Talking Avatar with Face Tracking (no libraries and no internet help 😂) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=U88NM8ScsPY)                                     |
+| Sorting Visualizer with Sound (JavaScript Tutorial) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=\_AwSlHlpFuc)                                                                    |
 | JavaScript Full Course for Beginners \| Complete All-in-One Tutorial \| 8 Hours [Dave Gray](https://www.youtube.com/watch?v=EfAl9bwzVZk)                                                     |
 | HTML、CSS、JavaScript [網頁前端工程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                      |
 | How To Make Form (Multi-Step) Using HTML CSS & JS \| Create Form With HTML & CSS [Easy Tutorials](https://www.youtube.com/watch?v=T76bbMVMX6M)                                               |
