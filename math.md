@@ -1068,6 +1068,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | 作业讲解的视频 [B](https://www.bilibili.com/video/av85118120)                                                                                                          |
 | 整数规划 整數規劃 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFv\_vgL-Ic13qrxy-zD-bga5)                                                                 |
 | 使用Python做线性规划求解 [灰度倒走](https://www.youtube.com/watch?v=hv9euf7myg4)                                                                                             |
+| 数学建模\_西北工业大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDwS-XjfPbN4IGAPuxQrXI8p)                                                                 |
 
 ### 生命游戏 Game Of Life
 

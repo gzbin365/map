@@ -1,10 +1,10 @@
 # 哲学
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| 思想道德修养与法律基础 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyixmqoppuvNpQQoc6JgGi9)         |
+| 中国近现代史纲要\_北京大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDxpoMwnisy3nAC\_B8ZmpuuP)     |
+| 毛泽东思想和中国特色社会主义理论体系 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzZ3J9SGcGAlXfW5om\_sF-w) |
 
 |                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -120,6 +120,6 @@ Nietzsche : L'oeuvre philosophique expliquée (Un cours particulier de [Luc Ferr
 | <p>社会主义核心价值观         <a href="http://www.mod.gov.cn/jmsd/2019-12/01/content_4856014.htm">中华人民共和国国防部</a></p><p>富强、民主、文明、和谐，</p><p>自由、平等、公正、法治，</p><p>爱国、敬业、诚信、友善.</p>   |
 | [共产党员网](https://www.12371.cn/)\_中共中央组织部                                                                                                                                |
 | 镰刀锤子 [v](https://www.douyin.com/video/7110142886057938212) [v](https://www.douyin.com/video/7083812775654427916) [v](https://www.douyin.com/video/7083723256548642080) |
-|                                                                                                                                                                        |
+| 复旦大学公开课：《共产党宣言》导读（张双利教授） [Jegvar](https://www.bilibili.com/video/BV11t411C7Lk/)                                                                                        |
 |                                                                                                                                                                        |
 

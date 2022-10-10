@@ -73,6 +73,12 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 力学
 
+|                                                                                                  |                                                                                                 |                                                                                                 |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 结构力学\_华中科技大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyton4eUS8EMk2rCr2pT7\_s) | 理论力学\_北京师范大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzpc6hPF2UZXUwqXQFhfd1F) | 流体力学\_上海交通大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDz4T4caNx283Qzu7Fer3sBg) |
+| 材料力学\_中南大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDynA01n4ofUjO0XRTgKu3FX)    |                                                                                                 |                                                                                                 |
+|                                                                                                  |                                                                                                 |                                                                                                 |
+
 ### 一般力学与力学基础
 
 |                                                                                                                  |
