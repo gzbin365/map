@@ -237,6 +237,7 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 | How Computers Draw Weird Shapes (Marching Squares) [Reducible](https://www.youtube.com/watch?v=6oMZb3yP\_H8)         |
 | Coding Adventure: Marching Cubes [Sebastian Lague](https://www.youtube.com/watch?v=M3iI2l0ltbE)                      |
 | Coding Adventures [Sebastian Lague](https://www.youtube.com/playlist?list=PLFt\_AvWsXl0ehjAfLFsp1PGaatzAwo0uK)       |
+| How to make: AI Animations [XR MOTION](https://www.youtube.com/watch?v=w\_sxuDMt\_V0)                                |
 
 ## 后期
 
