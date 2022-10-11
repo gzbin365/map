@@ -424,7 +424,8 @@ import cv2
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
 | 【GPU】NVIDIA RTX40專有技術，DLSS3.0技術解析！ [可見TV](https://www.youtube.com/watch?v=fw\_4aEp5Kl4)                                                                        |
-|                                                                                                                                                                |
+| DLSS 3 RTX4090：性能新标杆，不只是打游戏 [林亦LYi](https://www.youtube.com/watch?v=rkv47icj1Jk)                                                                               |
+| 【Huan】 無庸置疑的強大。 NVIDIA GeForce RTX 4090性能實測 [Huan](https://www.youtube.com/watch?v=vEBGCuf7rOU)                                                                |
 
 ## 视频理解
 
@@ -433,6 +434,7 @@ import cv2
 | I3D 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=9lIkKiAn6uE)                                                                                          |
 | 双流网络论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=vuqwKP2iDe0)                                                                                        |
 | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=oz5yZc9ULAc) |
+|                                                                                                                                                              |
 
 ## 实战
 

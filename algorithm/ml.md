@@ -484,6 +484,10 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)                                                                             |
+| 2022 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7JWXyj9lvyOJXJ1aD40qfX)                                                                           |
+| 2021 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5\_9qzD7\_1TzADthNSBf8\_z)                                                                        |
+| 2020 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V4iTh0XRB\_-EHNktK\_ai7kl)                                                                         |
 | NVIDIA Deep Learning Course [NVIDIA](https://www.youtube.com/watch?v=6eBpjEdgSm0)                                                                                                                             |
 | 2022 人人有功練：資料科學深度學習 [茶米老師教室](https://www.youtube.com/playlist?list=PLExLEp0NoLtjXnlqD-kfd9F7g4bALrvRd)                                                                                                        |
 | Deep Learning [Binod Suman Academy](https://www.youtube.com/playlist?list=PLIRnO\_sdVuEfau\_eJKVhiaLaqIXCT0F-\_)                                                                                              |
