@@ -543,4 +543,5 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | dongrixinyu/[JioNLP](https://github.com/dongrixinyu/JioNLP)   中文 NLP 预处理、解析工具包                                |
 | AimeeLee77/[wiki\_zh\_word2vec](https://github.com/AimeeLee77/wiki\_zh\_word2vec)   利用Python构建Wiki中文语料词向量模型试验 |
 | Roshanson/[TextInfoExp](https://github.com/Roshanson/TextInfoExp)   自然语言处理实验（sougou数据集）等                      |
+| murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools)   中文文本分析工具包               |
 |                                                                                                               |
