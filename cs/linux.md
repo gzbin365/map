@@ -198,6 +198,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 嵌入式C语言高级 内存空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAZA0qlSrhDXi3ONB2rVj6)                                    |
 | 嵌入式C语言高级 函数空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZFxpKta3ZtBkuvBiGIPU\_3)                                   |
 | 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5) |
+| 国信安教育 抖音号：[2176970384](https://www.douyin.com/user/MS4wLjABAAAA15Zx\_NigGboxmlqXGHoTNy34YJNqU6deXvOruievvis)                       |
 
 ## **Git & Github**
 
