@@ -22,6 +22,7 @@
 | 萌萌战队 抖音号：[dy86hx32jjsy](https://www.douyin.com/user/MS4wLjABAAAAYz4lQFKTuSyGMvL1xs1Y-UD9OJS8EIQH\_IVQpSI7\_DU)                                                                        | 道可道Science 抖音号：[daokedaoChina](https://www.douyin.com/user/MS4wLjABAAAABIHQVYf1pc1YTHytkj1kSc3GKs5K-6lGNBnLo2TvrF8)                    |
 | 佑来了生活科学 抖音号：[YoulaileSTEM](https://www.douyin.com/user/MS4wLjABAAAAyL0n5s56zMXCinGDvpmYMo6RPatrbMBg9kyBJVH7GmeucuV568RLYIHwPKa2xvHw)                                                  | 张朝阳的物理课 抖音号：[Charlesphysics](https://www.douyin.com/user/MS4wLjABAAAApIEQAQbDECJWlDDvDKCwpvpLAskFmeUxnIIrAAL9mNoDBYxAJxED5RCBTISu7zcY) |
 | 弓弓沐梓（科普）抖音号：[366411781](https://www.douyin.com/user/MS4wLjABAAAAKz5dhoOrFQaRVgzLsCdnmp53dj8uCarcQ9pU5mjwWoo)                                                                          | 爆炸实验室 抖音号：[BBoomLab](https://www.douyin.com/user/MS4wLjABAAAAffYZr3gSkDlT15ksTdm5xexwA0d-npfK1fFJLMOCQAU)                              |
+|                                                                                                                                                                                       | 传感器玩镓 抖音号：[23109939421](https://www.douyin.com/user/MS4wLjABAAAANc-oVfpiI\_l\_MAPwlQOkltg1jHlbs9UQEIugWD5NHKm\_N8SlDlNTc66hDkLpbCbI)   |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
