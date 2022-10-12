@@ -282,6 +282,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 |                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Docker Containers and Kubernetes Fundamentals – Full Hands-On Course [freeCodeCamp](https://www.youtube.com/watch?v=kTp5xUtcalw)                                                                                                         |
 | **Docker 手册（Docker Handbook）(**[**书栈**](https://www.bookstack.cn/books/docker-handbook)**, )**                                                                                                                                           |
 | Docker Tutorial for Beginners \[2021]\([Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI))                                                                                                                             |
 | Learn Docker in 12 Minutes 🐳([Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24))                                                                                                                                                |

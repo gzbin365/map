@@ -1226,6 +1226,8 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | AI艺术 抖音号： [1764700788](https://www.douyin.com/user/MS4wLjABAAAAsK\_liaT9h4BppVfbR\_Sq6hBVCkCltQcMa07mG-bW6sk)   askNK [u](https://www.youtube.com/c/askNK/playlists)                                                                                                                                  |
 | Google's AI: Stable Diffusion On Steroids! 💪 [Two Minute Papers](https://www.youtube.com/watch?v=XW\_nO2NMH\_g)                                                                                                                                                                                      |
 | 30年前游戏角色画风一键升级！从粗糙像素风变成高清建模画风 [量子位](https://www.douyin.com/video/7153199443221761291)                                                                                                                                                                                                                 |
+| Diffusion Models \| Paper Explanation \| Math Explained [Outlier](https://www.youtube.com/watch?v=HoKDTa5jHvg)                                                                                                                                                                                        |
+| Diffusion models from scratch in PyTorch [DeepFindr](https://www.youtube.com/watch?v=a4Yfz2FxXiY)                                                                                                                                                                                                     |
 
 ## 基础模型 Foundation Models
 

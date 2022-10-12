@@ -40,6 +40,7 @@
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| How To Make A Website \~ 2022 \~ A Website Tutorial For Beginners [WebYoda](https://www.youtube.com/watch?v=MbKpfDyRMyo)                                                                         |
 | baidu/[amis](https://github.com/baidu/amis)   前端低代码框架，通过 JSON 配置就能生成各种页面。  [v](https://www.douyin.com/video/7146905674667052318)                                                                 |
 | Web 开发必备常识 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj7BxYFryNVGgAVD7nTzfSoA)                                                                                                      |
 | Backend web development - a complete overview (2021) [SuperSimpleDev](https://www.youtube.com/watch?v=XBu54nfzxAQ)                                                                               |
