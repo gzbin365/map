@@ -127,6 +127,7 @@ description: 硬件设备
 | Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                                                                  |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                                                           |
 | The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                                                     |
+| 树莓派驱动开发实战 [Philon](https://ixx.life/categories/%E6%A0%91%E8%8E%93%E6%B4%BE%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/)                                                                                                        |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico

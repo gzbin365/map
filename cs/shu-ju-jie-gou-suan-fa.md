@@ -261,6 +261,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 常见笔试算法题分析记录 [csdn](https://blog.csdn.net/qq\_37375427/category\_7570110.html)                                                                                                                           |
 | 十六分鐘略懂刷題面試 [jasonmel](https://www.youtube.com/watch?v=sAjkAz75jis)                                                                                                                                      |
 | [上岸算法](https://www.youtube.com/playlist?list=PLQ3hu6barmd6nPNQu2svMEw4OgrhbXfuU)公开课2022春招必备版                                                                                                            |
+| LeetCode刷题 [Philon](https://ixx.life/leetcode/)                                                                                                                                                         |
 
 ## 其他
 
