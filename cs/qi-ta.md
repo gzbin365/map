@@ -15,10 +15,6 @@
 | MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
 |                                                                                                         |
 
-## rust
-
-
-
 ## Ruby
 
 | **Ruby**                                                                                             |
