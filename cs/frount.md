@@ -31,6 +31,7 @@
 | FrontEndGitHub/[FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) GitHub最全的前端资源汇总仓库 [前端导航](https://www.kwgg2020.com/) |
 | strikingly [s](https://cn.strikingly.com/) 几分钟制作一个网站                                                                                  |
 | [Webflow](https://webflow.com/): Create a custom website \| No-code website builder                                                   |
+| 前端样式命名规范BEM [程序员蒙德伊彼](https://www.douyin.com/video/7155418032012135716)                                                               |
 
 ## web 开发
 

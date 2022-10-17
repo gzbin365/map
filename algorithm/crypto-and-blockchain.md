@@ -77,4 +77,4 @@ description: Blockchain & Cryptocurrency
 | Learn Web3 programming and how to build dapps on the Internet Computer (preview) [London App Brewery](https://www.youtube.com/watch?v=o0\_ihmpBbic)       |
 | 基础设施板块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCF-a6Yjf3oC4VDEOUOG3S9)                                                   |
 | Web3 版块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCxQdPiI4Lgnhu6QO7CROcg)                                                  |
-|                                                                                                                                                           |
+| Stanford Seminar - Evolution of a Web3 Company [Stanford Online](https://www.youtube.com/watch?v=KvhgJEBskgg)                                             |
