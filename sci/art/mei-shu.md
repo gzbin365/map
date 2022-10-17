@@ -133,7 +133,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 |                                                                                              |
 | -------------------------------------------------------------------------------------------- |
 | adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE) |
-|                                                                                              |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                             |
 |                                                                                              |
 
 ## 3D 建模
@@ -150,7 +150,7 @@ Avatars全新升级给动画人带来了什么 [周丛卫](https://www.douyin.co
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 3Dmax [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDdlvescUZRdtztw1-ah1uT9)                                                  | GreatOnlineTutorials [u](https://www.youtube.com/user/GreatOnlineTutorials/playlists) |
 | 3D游戏建模师卡尔 抖音号：[26898689969](https://www.douyin.com/user/MS4wLjABAAAArsbRrnf5Ut9GR4IlRopOr1JO1ICDl7oNNvaYo62R9T3rvuFyI\_81nxBErRy26RDH) | 3D建模教学 [u](https://www.youtube.com/channel/UCqNCv7rltsMGxR3kxGcBrfg)                  |
-|                                                                                                                                        |                                                                                       |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                       |                                                                                       |
 
 |                                                                                |                                                                                |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -190,7 +190,7 @@ Avatars全新升级给动画人带来了什么 [周丛卫](https://www.douyin.co
 | Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                                                       |
 | Blender 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll\_w2kSk0JfZLtK3)                                                                                |
 | Blender [Kris Occhipinti](https://www.youtube.com/playlist?list=PLB52346825714AC31)                                                                                                  |
-|                                                                                                                                                                                      |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                                                                     |
 
 |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
