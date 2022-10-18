@@ -50,6 +50,7 @@ description: Generative Adversarial Network (GAN)
 | \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
 | 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
+| NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)                                                                                         |
 
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
