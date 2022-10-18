@@ -21,6 +21,8 @@
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 老盖讲C/C++，C语言程序设计入门教学，C++编程语言基础教程 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTnIcF21aB-EUO2DRj5nRA1)                                               |
+| C++ Tutorial for Beginners - Learn C++ in 1 Hour [Programming with Mosh](https://www.youtube.com/watch?v=ZzaPdXTrSb8)                                            |
 | C++ Programming Course - Beginner to Advanced [freeCodeCamp](https://www.youtube.com/watch?v=8jLOx1hD3\_o)                                                       |
 | C++ Programming Tutorial for Beginners (For Absolute Beginners) [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) |
 | [**Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework)** ](https://www.youtube.com/watch?v=i\_Iq4\_Kd7Rc)**freeCodeCamp 5:03:46**                   |
@@ -68,13 +70,27 @@
 | A Case-study in Rewriting a Legacy GUI Library for Real-time Audio Software in Modern C++ [CppCon](https://www.youtube.com/watch?v=90I0hH5-r5A)                  |
 | Multi Threading Model in Paradox Games: Past, Present and Future - Mathieu Ropert - CppCon 2021 [CppCon](https://www.youtube.com/watch?v=e\_2z7uWouuk)           |
 | C++内存管理 \| 侯捷 [aizhi li](https://www.youtube.com/playlist?list=PLTcwR9j5y6W2eH37R2\_4oEO4Y0tksot56)                                                              |
+| \[C++高级教程]从零开始开发服务器框架(sylar) [sylar yin](https://www.youtube.com/playlist?list=PLaHCpB\_SlHdNI4Uc43mL3Sh8ZJgiAe-cy)                                              |
+| Pointers in C++ [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGlKR4UFJjy8qZJQWvnHRZ1)                                                            |
 |                                                                                                                                                                  |
+
+
+
+
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | ASCII Ray Casting Engine Demonstration - Made in C++ with Fazen2d library [AeiDeeVie](https://www.youtube.com/watch?v=6Zn\_nVkFaF8) |
 |                                                                                                                                     |
 |                                                                                                                                     |
+
+### Makefile
+
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| Makefiles Make Your Life Easier [NeuralNine](https://www.youtube.com/watch?v=yWLkyN\_Satk) |
+| GUN-MakeFile [pdf](http://maxwell.ysepan.com/)                                             |
+|                                                                                            |
 
 ### 设计模式
 
@@ -90,6 +106,7 @@
 
 |                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie) [freeCodeCamp](https://www.youtube.com/watch?v=j-\_s8f5K30I)                          |
 | [**程序设计入门-C语言-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZkpQeqWMm-DlGWfKfc6GUC)**中国大学MOOC-慕课**                                                     |
 | [**C语言程序设计进阶-翁恺（浙江大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SadB8PbmUtKXqAxdkXs9l8j)**中国大学MOOC-慕课**                                                      |
 | 浙江大学—C语言程序设计 [North-Sea Lord](https://www.youtube.com/playlist?list=PLfr1I1bhn8OKszKcc9mPzVcoDhnRPYYu0)                                                                |
@@ -102,6 +119,9 @@
 | Using C instead of Bash [Tsoding Daily](https://www.youtube.com/watch?v=assDDVG0PEo)                                                                                   |
 | C Full Course 🕹️ (𝙁𝙧𝙚𝙚) [Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)                                                                                   |
 | 你所不知道的 C 語言 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpqAHXlqoH2JpvOSmku7WjRU)                                                                         |
+| C Programming Language - Intro to Computer Science - Harvard's CS50 (2018) [freeCodeCamp](https://www.youtube.com/watch?v=ix5jPkxsr7M)                                 |
+| 用链表实现管理系统                                                                                                                                                              |
+| C语言编程参考 嵌入式C语言进阶之道(C语言编程风格).[pdf](http://maxwell.ysepan.com/)                                                                                                          |
 
 ## Book
 

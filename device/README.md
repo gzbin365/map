@@ -740,11 +740,12 @@ System on Chip, 系统级芯片
 
 ## 数据恢复
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| 误删文件后居然还能恢复？详解磁盘数据恢复原理与固态硬盘TRIM回收指令 [硬件茶谈](https://www.youtube.com/watch?v=04r-ZAgXIyo) |
-| 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)               |
-|                                                                                         |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| 误删文件后居然还能恢复？详解磁盘数据恢复原理与固态硬盘TRIM回收指令 [硬件茶谈](https://www.youtube.com/watch?v=04r-ZAgXIyo)                            |
+| 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)                                          |
+| 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)   |
+| 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
 
 ## 路由器 软路由
 
