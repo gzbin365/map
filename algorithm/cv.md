@@ -276,6 +276,7 @@ import cv2
 | facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                                                                                                                                                          |
 | YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                                                                                                                                                       |
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)   [v](https://www.youtube.com/watch?v=cQqvrJoue-I)                                                                                                                                               |
+| YOLO [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM)                                                                                                                                                                                                |
 | Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                             |
 | Gilbert Tanner [u](https://www.youtube.com/c/GilbertTanner/playlists)                                                                                                                                                                                                                    |
 | 【论文推荐】《目标检测》必看的8篇论文【附pdf】[深度之眼](https://mp.weixin.qq.com/s?\_\_biz=MzU0NjczNTg2NQ==\&mid=2247504772\&idx=1\&sn=a4c5d509f2a9c0bb23ea995ccd8b169b\&chksm=fb5b8012cc2c09044ea2a739faefd3ca04b151a4ca98aa36dcde8c57117d366a08728e39998f\&mpshare=1\&scene=1\&srcid=0623GII8gt9DaN40J4EKFIX9) |
@@ -285,6 +286,7 @@ import cv2
 | 283 - What is Mask R-CNN? [DigitalSreeni](https://www.youtube.com/watch?v=NEl9RPyMgzY)                                                                                                                                                                                                   |
 | 284 - Installing Mask RCNN and troubleshooting errors [DigitalSreeni](https://www.youtube.com/watch?v=Fu\_km7FXyaU)                                                                                                                                                                      |
 | 286 - Object detection using Mask RCNN: end-to-end from annotation to prediction [DigitalSreeni](https://www.youtube.com/watch?v=QntADriNHuk)                                                                                                                                            |
+| Mask RCNN [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg)                                                                                                                                                                                           |
 | 只要你在社交平台发了照片，这个AI就能利用开放式摄像头找到你摆拍的全过程 [量子位](https://www.douyin.com/video/7143923762381999390)                                                                                                                                                                                             |
 | Coding an Object Detection App in 15 mins [Nicholas Renotte](https://www.youtube.com/watch?v=msGOrJIMGy8)                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                          |
@@ -348,6 +350,14 @@ import cv2
 | 人脸对齐(Face Alignment) - MSQRD, Snow, Snapchat的原理 - 上 [Boyi Zhang](https://www.youtube.com/watch?v=qzmcU2XZmXI)              |
 | Face Alignment - How MSQRD, Snow, Snapchat works - Part 2/2 [Boyi Zhang](https://www.youtube.com/watch?v=OWNSc57k5Gc)      |
 | Python Computer Vision OpenCV - Find Face Landmarks using DLIB [Rajeev Ratan](https://www.youtube.com/watch?v=ujYc-3na6XU) |
+
+### 姿势估计(Pose Estimation)
+
+|                                                                                                      |   |   |
+| ---------------------------------------------------------------------------------------------------- | - | - |
+| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR) |   |   |
+|                                                                                                      |   |   |
+|                                                                                                      |   |   |
 
 ### OCR, Optical Character Recognition
 

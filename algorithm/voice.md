@@ -40,6 +40,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | How to do entity detection on audio files with Python [AssemblyAI](https://www.youtube.com/watch?v=7jrs3DrMVJQ)                                                                                                                                                                                              |
 | Audio Feature Extraction using Python [Prabhjot Gosal](https://www.youtube.com/watch?v=PYlr8ayHb4g)                                                                                                                                                                                                          |
 | oscilloscope [search](https://www.douyin.com/search/oscilloscope)                                                                                                                                                                                                                                            |
+| Audio Spectrum Analyzer [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQVsrldsQdtKmeTygurKiuS)                                                                                                                                                                                                 |
 
 ***
 

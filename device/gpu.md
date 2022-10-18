@@ -22,11 +22,11 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ## eGPU
 
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0) |
-|                                                                                               |
-|                                                                                               |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                          |
+| ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j) |
+|                                                                                                                        |
 
 ## **CUDA**
 
