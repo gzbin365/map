@@ -15,10 +15,6 @@
 | MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
 |                                                                                                         |
 
-## rust
-
-
-
 ## Ruby
 
 | **Ruby**                                                                                             |
@@ -446,7 +442,6 @@
 | Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) [Corey Schafer](https://www.youtube.com/watch?v=K8L6KVGG-7o) |
 | Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text [Corey Schafer](https://www.youtube.com/watch?v=sa-TUpSx1JA)          |
 | any-rule 正则大全 支持web在线 / vscode / idea / Alfred Workflow多平台 [小明1994](https://www.douyin.com/video/7150926812510555405)                        |
-| 老盖讲正则，正则表达式语法教程，搜索查找替换文本字符串 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRCcX\_ZGFRMcyKoskc7CCma)                               |
 
 ## 虚拟机
 
@@ -552,17 +547,14 @@
 | 唯一有效禁止Windows更新的方法 [袋装资源](https://www.douyin.com/video/7138689467509935368)                                                                                                                                                                                                                                                                                                         |
 | What is the Windows API? What is Windows.h? [Guided Hacking](https://www.youtube.com/watch?v=S4lQwJawOzI)                                                                                                                                                                                                                                                                           |
 | AR 4789 [u](https://www.youtube.com/c/AR4789/videos)                                                                                                                                                                                                                                                                                                                                |
-| 老盖讲DOS，windows批处理教学，bat脚本语言学习，dos命令教程 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQiYq-rt6Q6XnYyv6zRtRhI)                                                                                                                                                                                                                                                             |
-| 老盖讲系统，电脑windows设置选项经验，计算机入门基础教程心得 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTgNAJDmjypoFhNIBS9cmmE)                                                                                                                                                                                                                                                                 |
-| 老盖聊软件，分享各种实用软件工具，介绍好用的软件技巧知识。 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRUYWCgu9I\_GVyqU-t2Onuq)                                                                                                                                                                                                                                                                    |
 
 ### 镜像
 
-|                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- |
-| HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051)                      |
-| 老盖聊装系统，制作U盘启动盘，安装winpe优盘ghost工具备份恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTUxY0tEEyQUPfkfarLbNFa) |
-|                                                                                                                       |
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051) |
+|                                                                                                  |
+|                                                                                                  |
 
 ### Windows 10
 
