@@ -115,6 +115,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | In Search for the BEST Wireless Power Coil! (Experiment) My Coils can act like Capacitors? [GreatScott!](https://www.youtube.com/watch?v=S3mLHpzzcTU) |
 | Free Energy BS! \|\| Magnet PC Fan, Bedini Motor [GreatScott!](https://www.youtube.com/watch?v=g4tO0kBOzqk)                                           |
 | Free Energy Devices Build and Science [ElectroBOOM](https://www.youtube.com/watch?v=15V0gUXUPko)                                                      |
+| 亿图图示 抖音号：[EdrawMax](https://www.douyin.com/user/MS4wLjABAAAAj5JiKQaA8qrVSMcm\_aWK0swOAGeyeMhrOp9zznWo9kw)  制图绘图软件 电路图                                 |
 
 ## 微波 Microwave
 
