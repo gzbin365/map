@@ -767,6 +767,7 @@ $$
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 几何瑰宝：平面几何500名题暨1000条定理 [bdy](https://pan.baidu.com/s/13AMrmyFqZBcKXMVaoFQ4dw#list/path=%2F)                                                  |
 | 双曲几何 Why Hyperbolic Geometry? \| A Case Study in Linear Fractional Transformations [Two Angles](https://www.youtube.com/watch?v=udF8WHOZJYE) |
+| 泰森多边形是什么构成原理 [40Hours参数化](https://www.douyin.com/video/7153654453739064589)                                                                  |
 |                                                                                                                                              |
 
 ### 立体几何
