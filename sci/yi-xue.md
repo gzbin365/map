@@ -50,11 +50,11 @@
 | 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
 | 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
 
-|                                                                      |   |   |
-| -------------------------------------------------------------------- | - | - |
-| 让你年轻的秘密 [柳老师的日常健康](https://www.douyin.com/video/7152091492687875332) |   |   |
-|                                                                      |   |   |
-|                                                                      |   |   |
+|                                                                      |                                                                                                                                                                       |   |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| 让你年轻的秘密 [柳老师的日常健康](https://www.douyin.com/video/7152091492687875332) | 哈佛医学院官方期刊发表12个#超级食物 [中国食品观察](https://www.douyin.com/video/7155774635043245325) [s](https://www.health.harvard.edu/staying-healthy/12-superfoods-you-should-be-eating) |   |
+|                                                                      |                                                                                                                                                                       |   |
+|                                                                      |                                                                                                                                                                       |   |
 
 ### 生酮饮食
 
@@ -97,6 +97,7 @@
 
 |                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中国食品观察 抖音号：[zgspaqwhwjx](https://www.douyin.com/user/MS4wLjABAAAAO6uwngP3NLcdlmvXLMr1JDkujhXw9UQG1iM-03J0qJHcf3YC7\_9xwXTBCTz0yUA5)                                                                                                                                                           |
 | 段小段 抖音号：[96792116984](https://www.douyin.com/user/MS4wLjABAAAAStLWq\_tfraR4qw9A3nlsP4KrBm5IL0AMKwYn\_btKHaEw\_3nybmXv3LWDBerecftn)                                                                                                                                                            |
 | 中国食品网 抖音号： [zgspw](https://www.douyin.com/user/MS4wLjABAAAAcSVtOFeHUcAcHqRdc5th6y97i5C4ON1nb9RYn46JCbqxCGaEQCpAHWbc4YiFqc2P)                                                                                                                                                                  |
 | 三餐食客 抖音号： [sancanshike](https://www.douyin.com/user/MS4wLjABAAAAySbUQiQ1eOqTB-c2hIyJeE7GY-7xQcosE3Qu508uMyK3-qsphggKLuVX2SN0SsaW)                                                                                                                                                             |

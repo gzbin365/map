@@ -72,6 +72,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                            |
 | 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                                   |
 | Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                        |
+| Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                        |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -101,9 +102,10 @@ pip install opencv-python
 
 import cv2
 
-|                                                                                         |                                                                                                               |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )** | [doc](https://docs.opencv.org/2.4/index.html)   [4.x](https://docs.opencv.org/4.x/d9/df8/tutorial\_root.html) |
+|                                                                                           |                                                                                                                                          |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )**   | doc [2.4](https://docs.opencv.org/2.4/index.html)  [4.x](https://docs.opencv.org/4.x/d9/df8/tutorial\_root.html) OpenCV-Python Tutorials |
+| [doc](https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html) OpenCV-Python Tutorials | Introduction to OpenCV-Python Tutorials [doc](https://docs.opencv.org/4.x/d0/de3/tutorial\_py\_intro.html)                               |
 
 [**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
 

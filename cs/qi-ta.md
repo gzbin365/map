@@ -15,6 +15,10 @@
 | MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
 |                                                                                                         |
 
+## rust
+
+
+
 ## Ruby
 
 | **Ruby**                                                                                             |
@@ -442,6 +446,7 @@
 | Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) [Corey Schafer](https://www.youtube.com/watch?v=K8L6KVGG-7o) |
 | Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text [Corey Schafer](https://www.youtube.com/watch?v=sa-TUpSx1JA)          |
 | any-rule 正则大全 支持web在线 / vscode / idea / Alfred Workflow多平台 [小明1994](https://www.douyin.com/video/7150926812510555405)                        |
+| 老盖讲正则，正则表达式语法教程，搜索查找替换文本字符串 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRCcX\_ZGFRMcyKoskc7CCma)                               |
 
 ## 虚拟机
 
@@ -464,36 +469,37 @@
 
 ## 架构
 
-| 老男孩高级架构师体系                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)                |
-| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)             |
-| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                    |
-| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)            |
-| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)            |
-| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                     |
-| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)            |
-| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)            |
-| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)               |
-| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)              |
-| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)             |
-| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)               |
-| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)              |
-| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)           |
-| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                   |
-| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)        |
-| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq)    |
-| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)          |
-| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)          |
-| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)          |
-| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                     |
-| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                    |
-| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)                 |
-| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                      |
-| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8) |
+| 老男孩高级架构师体系                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| L001-老男孩高级架构师体系-运维与自动化运维发展 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwF9zIt0svJJ1Nyf0TDAhOk)             |
+| L002-老男孩高级架构师体系-自动化运维之自动化安装实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzHxM5UroBxtus5JK9a-sQx)          |
+| L003-老男孩高级架构师体系-多维监控体系 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzJchNGPdeVhCnqBusaUXR)                 |
+| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)         |
+| L005-老男孩高级架构师体系-Saltstack自动化运维 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR5Oc1RcN9hsrwaCenzIGW)         |
+| L006-老男孩高级架构师体系-DNS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzI4psgUeQkp9klgf7p2B7-)                  |
+| L007-老男孩高级架构师体系-Saltstack实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwW6PHFRK6B99zZVItvEdnX)         |
+| L008-老男孩高级架构师体系-Saltstack实战(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxr-vyLgG4IL01yFUHXsVeY)         |
+| L009-老男孩高级架构师体系-GlusterFS实战 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUUgfVulGiULmwTiMQSoo8)            |
+| L010-老男孩高级架构师体系-持续集成与自动化部署1 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwTkkhPV61bVKLSzWGDkM\_k)           |
+| L011-老男孩高级架构师体系-持续集成与自动化部署2 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoYj4Md9Uy-U8jnzd\_uI\_s)          |
+| L012-老男孩高级架构师体系-ELKStack-8节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyf4RXmAonYokeHRDMj8a6S)            |
+| L013-老男孩高级架构师体系-ELKStack深入完结 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxvYjWf69K6Fg79XTtOfVqh)           |
+| L014-老男孩高级架构师体系-云计算初步与KVM虚拟化实践 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzX19C3XS\_4wFI1dz2dJOzX)        |
+| L015-老男孩高级架构师体系-docker [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyfPkqd4dmg30OYz2J\_HbZt)                |
+| L016-老男孩高级架构师体系-Cloudstack云平台实战(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTy5TNBvWTpDTQ9U3CEuCpPJ)     |
+| L017-老男孩高级架构师体系-Cloudstack云平台实战(2)-10节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTynGpUnPQzLDHdU4YOdD4sq) |
+| L018-老男孩高级架构师体系-OpenStack实战开发(1) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCCEKVMPDbH4IyT-44VFys)       |
+| L019-老男孩高级架构师体系-OpenStack实战开发(2) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzAxz6OIp5MYjwvXtFCZqeL)       |
+| L020-老男孩高级架构师体系-OpenStack实战开发(3) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzsnBmmbEYnGDOEVHEJ2c3j)       |
+| L021-老男孩高级架构师体系-单机时代 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyMHVr75VFON6dJQ82UV\_5A)                  |
+| L022-老男孩高级架构师体系-集群实战开发 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyw9dHl2m4ZxqUqdFwwXlNg)                 |
+| L023-老男孩高级架构师体系-Redis深入讲解 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwA1ObHHAvlz8zg8WeSrDD-)              |
+| L024-老男孩高级架构师体系-数据存储 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyFNPMonJOJdk5Zb64bCLL6)                   |
+|                                                                                                                             |
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8)                  |
 | 运维架构师企业级运维Prometheus监控实践\_基于K8s搭建Prometheus集群详解课程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz\_QAdkXIsEmHMa3RmTPXE4)         |
 | Architecture [JimmyCoding](https://www.youtube.com/playlist?list=PLH2FEKHrTKDTVR9AnIr3df6kRGLuzkq8o)                                            |
 | 九分鐘略懂系統設計面試 [jasonmel](https://www.youtube.com/watch?v=Y93BGebBwEE)                                                                             |
@@ -503,7 +509,7 @@
 | Architecture All Access [Season 1](https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj) Intel Technology                   |
 | FAANG System Design Interview: Design A Location Based Service (Yelp, Google Places) [ByteByteGo](https://www.youtube.com/watch?v=M4lR\_Va97cQ) |
 | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                            |
-|                                                                                                                                                 |
+| 负载均衡 Load balancing [wiki](https://en.wikipedia.org/wiki/Load\_balancing\_\(computing\))                                                        |
 
 ## 低代码 白码 Low-Code NoCode
 
@@ -547,14 +553,17 @@
 | 唯一有效禁止Windows更新的方法 [袋装资源](https://www.douyin.com/video/7138689467509935368)                                                                                                                                                                                                                                                                                                         |
 | What is the Windows API? What is Windows.h? [Guided Hacking](https://www.youtube.com/watch?v=S4lQwJawOzI)                                                                                                                                                                                                                                                                           |
 | AR 4789 [u](https://www.youtube.com/c/AR4789/videos)                                                                                                                                                                                                                                                                                                                                |
+| 老盖讲DOS，windows批处理教学，bat脚本语言学习，dos命令教程 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQiYq-rt6Q6XnYyv6zRtRhI)                                                                                                                                                                                                                                                             |
+| 老盖讲系统，电脑windows设置选项经验，计算机入门基础教程心得 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTgNAJDmjypoFhNIBS9cmmE)                                                                                                                                                                                                                                                                 |
+| 老盖聊软件，分享各种实用软件工具，介绍好用的软件技巧知识。 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRUYWCgu9I\_GVyqU-t2Onuq)                                                                                                                                                                                                                                                                    |
 
 ### 镜像
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051) |
-|                                                                                                  |
-|                                                                                                  |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051)                      |
+| 老盖聊装系统，制作U盘启动盘，安装winpe优盘ghost工具备份恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTUxY0tEEyQUPfkfarLbNFa) |
+|                                                                                                                       |
 
 ### Windows 10
 

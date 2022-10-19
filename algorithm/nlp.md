@@ -70,6 +70,7 @@ description: 自然语言处理
 | MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
 | Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
+| 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                |
 
 #### Hugging Face
 
@@ -219,6 +220,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 |                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 美团智能问答技术探索与实践 [weixin](https://mp.weixin.qq.com/s/IN-xzbrjjV2XgrGLPS5wRw)                                                                                                                                                                                                                      |
 | 聊天机器人Character AI [8号宇宙](https://www.douyin.com/video/7155679338136947999)                                                                                                                                                                                                                     |
 | ChatBot using Javascript API \| javascript simple AI chatbot [Virtual Art](https://www.youtube.com/watch?v=yXtrlIJzo-A)                                                                                                                                                                        |
 | Indently [u](https://www.youtube.com/c/Indently)                                                                                                                                                                                                                                               |
