@@ -177,6 +177,11 @@
 | Learn React Native Gestures and Animations - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=wEVjaXK4sYQ)                                                        |
 | 2020版React入门到大神【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7u0lzzlFQYx5sJ7GvZkA4i)                                                                     |
 | How To Create An Advanced Shopping Cart With React and TypeScript [Web Dev Simplified](https://www.youtube.com/watch?v=lATafp15HWA)                                      |
+| React Video Chat App \| WebRTC Video Chat Zoom Clone \| Tabnine [JavaScript Mastery](https://www.youtube.com/watch?v=oxFr7we3LC8)                                        |
+| How To Create A Messaging App With Socket.io And React [Web Dev Simplified](https://www.youtube.com/watch?v=tBr-PybP\_9c)                                                |
+| Realtime Chat With Users & Rooms - Socket.io, Node & Express [Traversy Media](https://www.youtube.com/watch?v=jD7FnbI76Hg)                                               |
+|                                                                                                                                                                          |
+|                                                                                                                                                                          |
 
 ### Next.js
 
@@ -215,6 +220,7 @@
 | Node.js Full Course for Beginners \| Complete All-in-One Tutorial \| 7 Hours [Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8)                                                                    |
 | Node.js Tutorials [Dave Gray](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx\_X46avTM1aYw)   [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-Rfqbb786uDGaO8r9atpx1kt3iP)    |
 | Node.js Tutorial \| Node.js Tutorial For Beginners \| Learn Node.js \| NodeJS Tutorial \| [Simplilearn](https://www.youtube.com/watch?v=CELj-DCB0go)                                                     |
+| Node.js & Stripe API - Ebook Sales App & Heroku Deploy [Traversy Media](https://www.youtube.com/watch?v=QT3\_zT97\_1g)                                                                                   |
 
 |   |   |
 | - | - |
@@ -381,6 +387,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | How To Create Responsive Popup Chat Window \| HTML - CSS - JS [Practical Code Academy](https://www.youtube.com/watch?v=C3JKS3a4R5Y)                                                          |
 | JavaScript Fundamentals For Beginners [Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8)                                                                                          |
 | JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022) [Clever Programmer](https://www.youtube.com/watch?v=lI1ae4REbFM)                                                          |
+| Responsive Sidebar Menu in HTML CSS & JavaScript \| Dark/Light Mode [CodingLab](https://www.youtube.com/watch?v=bFvfqUMjvsA)                                                                 |
 |                                                                                                                                                                                              |
 
 ### TypeScript

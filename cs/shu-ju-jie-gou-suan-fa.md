@@ -162,6 +162,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Understanding Sorting Algorithms [freeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)                                                          |
 | 十大经典排序算法 [git](https://github.com/hustcc/JS-Sorting-Algorithm) [s](https://sort.hust.cc/) [书栈](https://www.bookstack.cn/books/JS-Sorting-Algorithm)   |
 | Introduction to Computer Science - Harvard's CS50 [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)            |
+| Harvard CS50 – Full Computer Science University Course [freeCodeCamp](https://www.youtube.com/watch?v=8mAITcNt710)                                    |
 | Getting Sorted & Big O Notation - [Computerphile](https://www.youtube.com/watch?v=kgBjXUE\_Nwc)                                                       |
 | Learn Big O Notation In 12 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)                                                  |
 | Deeply Understanding Logarithms In Time Complexities & Their Role In Computer Science [Back To Back SWE](https://www.youtube.com/watch?v=M4ubFru2O80) |

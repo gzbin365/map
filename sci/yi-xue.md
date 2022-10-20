@@ -49,6 +49,7 @@
 | geekan/[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)   程序员延寿指南                                                                                                                                                                                                                                                                                                             |
 | 一起变美！抗老！健脑！ [知名小号](https://www.douyin.com/video/7141383702478605579)                                                                                                                                                                                                                                                                                                                      |
 | 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
+| 首席灯光师 抖音号：[renzhitupo1000](https://www.douyin.com/user/MS4wLjABAAAAEhELVaj83IziIXbVUDDRTq25b\_Koy4MyocV5-MS0xRM)                                                                                                                                                                                                                                                                          |
 
 |                                                                      |                                                                                                                                                                       |   |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -87,11 +88,11 @@
 
 ### 减肥
 
-|                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>大体重大基数减肥黄金动作  <a href="https://www.douyin.com/video/7024326189460327688">250斤汉堡要逆袭</a></p><p>１　开合并步　４组　３０个／组　开合跳的简易版</p><p>２　跨下击掌　４组　４０个／组　高效燃脂瘦肚子</p><p>３　顶膝下压　４组　４０个／组　有效收紧小腹部</p> |
-| 不爱减肥的郭飞 抖音号：[95662447027](https://www.douyin.com/user/MS4wLjABAAAAPFsyld-\_Kq1YRCMaUsK3U4prCBNaDavUKoT7GBQv2jkQ-eKAPV84LBWYrDILaa\_B)                                                   |
-|                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>大体重大基数减肥黄金动作  <a href="https://www.douyin.com/video/7024326189460327688">250斤汉堡要逆袭</a></p><p>１　开合并步　４组　３０个／组　开合跳的简易版</p><p>２　跨下击掌　４组　４０个／组　高效燃脂瘦肚子</p><p>３　顶膝下压　４组　４０个／组　有效收紧小腹部</p>                                                                  |
+| 不爱减肥的郭飞 抖音号：[95662447027](https://www.douyin.com/user/MS4wLjABAAAAPFsyld-\_Kq1YRCMaUsK3U4prCBNaDavUKoT7GBQv2jkQ-eKAPV84LBWYrDILaa\_B)                                                                                                                    |
+| 医学减肥宝成 抖音号：[81955295877](https://www.douyin.com/user/MS4wLjABAAAAfaXDU\_zsQosB9zMQpGFKvnnVeT6xAftWmHf73O6dOX0)   凌子淼（带你体重管理） 抖音号：[GYMER2019](https://www.douyin.com/user/MS4wLjABAAAAiyoxeoQ-Mc\_JUDZ4AeCaqozXj0sxq7LOdIWZ1IqoJwFztRflBHV06YO8d3AGR\_Tr) |
 
 ## 食品
 

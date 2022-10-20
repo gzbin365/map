@@ -47,7 +47,7 @@ description: 硬件设备
 |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Arduino(**[**u**](https://www.youtube.com/c/Arduino/featured)**, )**                                                                             |
-| Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA)                                                                  |
+| Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA)   Nikodem Bartnik [u](https://www.youtube.com/c/nikodembartnik)  |
 | ESP32 + Arduino [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU)                                       |
 | Arduino Course for Beginners - Open-Source Electronics Platform [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX\_fLU)                       |
 | Arduino Project to Product [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1\_j\_8)                                  |
@@ -63,6 +63,7 @@ description: 硬件设备
 | THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
 | TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                    |
 | How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                          |
+| Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                          |
 
 ## **Raspberry Pi**
 
@@ -298,6 +299,14 @@ description: 硬件设备
 | Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) | 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享 |
 |                                                                                            |                                                                                          |
 | Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                        |                                                                                          |
+
+## Homelab
+
+|                                                                                                 |                                                                                                                  |   |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
+| Automating my Homelab with Ansible [Jeff Geerling](https://www.youtube.com/watch?v=yoFTL0Zm3tw) | Homelab upgrade: New Raspberry Pi Cluster rackmount [Jeff Geerling](https://www.youtube.com/watch?v=akJ97oqmQlU) |   |
+|                                                                                                 |                                                                                                                  |   |
+|                                                                                                 |                                                                                                                  |   |
 
 ## Drone / UAV
 
@@ -1029,7 +1038,7 @@ usb电容麦克风 王者对决Blue yeti X对Rode NT-usb [六成-60PCTV](https:/
 
 podcast器材設備   [NiceChord (好和弦)](https://www.youtube.com/watch?v=QGHUu\_nbmMI)
 
-手机自带的录音就可以 或者用 [WO Mic](https://wolicheng.com/womic/)
+手机自带的录音就可以 或者用 [WO Mic](https://wolicheng.com/womic/), turn your phone to be a microphone for your computer
 
 rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 

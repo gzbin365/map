@@ -109,7 +109,7 @@ import cv2
 
 [**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
 
-[**OpenCV Course - Full Tutorial with Python**](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+
 
 [**LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021)**](https://www.youtube.com/watch?v=2FYm3GOonhk)
 
@@ -138,6 +138,8 @@ import cv2
 | 35行python代码100万？人工智能光速入门 [小波说xiaoboswift](https://www.youtube.com/watch?v=7Vc71\_DlnvU)                                                                                                                                                         |
 | Using OpenCV with MFC [s](https://www.lund.gl/ImageProcess/OpenCV.html) [search](https://www.google.com.hk/search?q=opencv+mfc+tutorial\&oq=opencv+mfc\&aqs=chrome.0.0i512j69i57j0i22i30l8.2702j0j15\&client=ubuntu\&sourceid=chrome\&ie=UTF-8) |
 | OpenCV and Python [ibrahimokdadov](https://www.youtube.com/playlist?list=PL-cS6ZwDCr6rnUfSO2Wc5iR-UPKyMHCsn)                                                                                                                                    |
+| OpenCV Python Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn)                                                                                                                               |
+| OpenCV [Up Degree](https://www.youtube.com/playlist?list=PLwyHr2n-aWLAiUSg9SK9sZhNCYuOjGejN)                                                                                                                                                    |
 
 
 
@@ -154,6 +156,14 @@ import cv2
 | HALCON Tutorials [mvtecsoftware](https://www.youtube.com/playlist?list=PLWlTGc1Igzx9uOrz3-NDIULXCLGcSuorb) |   |   |
 |                                                                                                            |   |   |
 |                                                                                                            |   |   |
+
+## 图像识别, Image Recognition
+
+|                                                                                               |   |   |
+| --------------------------------------------------------------------------------------------- | - | - |
+| 将门创投 \| 微软亚洲研究院胡瀚：图像识别中的非网格化网络 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=jC3IfAFJiX8) |   |   |
+|                                                                                               |   |   |
+|                                                                                               |   |   |
 
 ## Image Classification
 
@@ -184,6 +194,8 @@ import cv2
 | 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                      |
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
 | AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
+| iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab) creating deepfakes                                                                                |
+| Deepfacelab智能换脸 [u](https://www.youtube.com/channel/UCwdM2VqN5JsSYkn8XZbN9NQ/videos)                                                                          |
 
 ### 多帧合成
 
@@ -220,6 +232,14 @@ import cv2
 |                                                                                                                                                                  |
 |                                                                                                                                                                  |
 
+#### 去水印
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 #### **人脸图像复原** Blind Face Restoration
 
 |                                                                                                                |
@@ -234,7 +254,9 @@ import cv2
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180)          |
 | TecoGAN [v](https://www.youtube.com/watch?v=MwCgvYtOLS0) [git](https://github.com/thunil/TecoGAN) [arxiv](https://arxiv.org/abs/1811.09393) |
-|                                                                                                                                             |
+| SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                    |
+| [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                         |
+| Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                          |
 
 ## 以图搜图
 
@@ -355,11 +377,11 @@ import cv2
 
 ### 姿势估计(Pose Estimation)
 
-|                                                                                                      |   |   |
-| ---------------------------------------------------------------------------------------------------- | - | - |
-| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR) |   |   |
-|                                                                                                      |   |   |
-|                                                                                                      |   |   |
+|                                                                                                                                                     |   |   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR)                                                |   |   |
+| 3D Motion Capture using Normal Webcam \| Computer Vision OpenCV [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=BtMs0ysTdkM) |   |   |
+|                                                                                                                                                     |   |   |
 
 ### OCR, Optical Character Recognition
 
@@ -412,6 +434,14 @@ import cv2
 | --------------------------------------------------------------------------------------------------------------- |
 | **基于深度学习和行人重识别(**[**git**](https://github.com/michuanhaohao/ReID\_tutorial\_slides)**, )**                      |
 | **Person\_reID\_baseline\_pytorch(**[**git**](https://github.com/layumi/Person\_reID\_baseline\_pytorch)**, )** |
+
+## 3D点云, 3D Point Cloud
+
+|                                                                                                                                                      |                                                                                             |                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 3D Point Cloud Classification in Python - PointNet Concept and Implementation [Lights, Camera, Vision!](https://www.youtube.com/watch?v=HIRj5pH2t-Y) |                                                                                             |                                                                                                             |
+| 中科院自动化所在读博士刘永成：深度学习在3D点云处理中的探索 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=3bg0tu\_cPg8)                                                       | Talk \| 牛津大学胡庆拥：大场景三维点云语义理解Ⅱ [将门-TechBeat技术社区](https://www.youtube.com/watch?v=iUpw5jE3epk) | 将门创投 \| 斯坦福大学在读博士生祁芮中台：点云上的深度学习及其在三维场景理解中的应用 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=Ew24Rac8eYE) |
+| 3D Deep Learning Tutorial [SU Lab UC San Diego](https://www.youtube.com/watch?v=vfL6uJYFrp4)                                                         |                                                                                             |                                                                                                             |
 
 ## 3D重建 3d-reconstruction
 

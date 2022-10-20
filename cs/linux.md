@@ -309,6 +309,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Docker networking is CRAZY!! (you NEED to learn it) [NetworkChuck](https://www.youtube.com/watch?v=bKFMS5C4CG0)                                                                                                                          |
 | docker搭建一款开源轻量化的网页版便签备忘录 [有云转晴](https://www.youtube.com/watch?v=AkEdBYwP4fk)                                                                                                                                                             |
 | <p>Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course) <a href="https://www.youtube.com/watch?v=f4idgaq2VqA">freeCodeCamp</a><em></em></p><p><em></em></p><p><em>Jenkins是</em>一个开源的、提供友好操作界面的持续集成(CI)工具</p> |
+| Docker [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B571llfq1pW0UDYFYVGveJz)                                                                                                                                    |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -420,6 +421,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Neovim as a Personal Development Environment - SGVLUG Feb 2022 [San Gabriel Valley Linux Users Group (SGVLUG)](https://www.youtube.com/watch?v=IK\_-C0GXfjo) |
 | Helix Text Editor: Better than Neovim? [DevOnDuty](https://www.youtube.com/watch?v=9Zj-wiQ9\_Xw)                                                             |
 | Neovim [DevOnDuty](https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW)                                                                 |
+| I switched from VSCode to Neovim [System Coding](https://www.youtube.com/watch?v=clFR9NfObvc)                                                                |
 
 ## tmux
 

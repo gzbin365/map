@@ -822,11 +822,12 @@ $$
 
 ### 分形几何 Fractal Geometry
 
-|                                                                            |   |   |
-| -------------------------------------------------------------------------- | - | - |
-| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q) |   |   |
-|                                                                            |   |   |
-|                                                                            |   |   |
+|                                                                                                           |                                                                                                          |                                                                                   |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                |                                                                                                          |                                                                                   |
+| Make Fractal Art With Python! [Tech With Tim](https://www.youtube.com/watch?v=\_ABdBoW4DV8)               | Mandelbrot set in Python [ComputationalScientist](https://www.youtube.com/watch?v=gECmGwD0DaI)           | Mandalbrot Set Using Python [Auctux](https://www.youtube.com/watch?v=uEYl7BXlAIc) |
+| Mandelbrot Set in GeoGebra [Kornél Rokolya](https://www.youtube.com/watch?v=9\_0c4nA8HgI)                 |                                                                                                          |                                                                                   |
+| Lorenz Attractor - In Python with Pygame [QuantitativeBytes](https://www.youtube.com/watch?v=VxrnmFitxhg) | How To Make Amazing Art With The Mandelbrot Set [DawraMath](https://www.youtube.com/watch?v=QOcoO3KcPos) |                                                                                   |
 
 ### 黎曼几何
 

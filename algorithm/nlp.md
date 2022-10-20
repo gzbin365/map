@@ -4,11 +4,12 @@ description: 自然语言处理
 
 # NLP
 
-|                                                               |                                                                                                         |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| nltk([s](http://www.nltk.org), )                              | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
-| github /topics/[synonyms](https://github.com/topics/synonyms) | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
-|                                                               | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
+|                                                                                                                                                                                  |                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| nltk([s](http://www.nltk.org), )                                                                                                                                                 | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
+| github /topics/[synonyms](https://github.com/topics/synonyms)                                                                                                                    | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
+| <p>fighting41love/<a href="https://github.com/fighting41love/funNLP">funNLP</a> 中文NLP资源库</p><p>机器学习小知识 <a href="https://zhuanlan.zhihu.com/yangyangfuture">mountain blue</a></p> | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
+| isnowfy/[snownlp](https://github.com/isnowfy/snownlp) 处理中文文本内容                                                                                                                   |                                                                                                         |
 
 ## 平台
 
@@ -220,6 +221,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 |                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Facebook: 会话机器人最新进展 [mountain blue](https://zhuanlan.zhihu.com/p/77259204)                                                                                                                                                                                                                     |
 | 美团智能问答技术探索与实践 [weixin](https://mp.weixin.qq.com/s/IN-xzbrjjV2XgrGLPS5wRw)                                                                                                                                                                                                                      |
 | 聊天机器人Character AI [8号宇宙](https://www.douyin.com/video/7155679338136947999)                                                                                                                                                                                                                     |
 | ChatBot using Javascript API \| javascript simple AI chatbot [Virtual Art](https://www.youtube.com/watch?v=yXtrlIJzo-A)                                                                                                                                                                        |
@@ -471,6 +473,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
 | CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                          |
 | 【[苏星河短评](https://www.douyin.com/video/7126161576586906910)】你看过的许多文章，可能根本不是人类写的                                                                                       |
+| the-good-ai [s](https://www.the-good-ai.com/)                                                                                                                        |
 
 ### 代码生成
 
@@ -498,6 +501,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | Competitive programming with AlphaCode [Coding Epocs](https://www.youtube.com/watch?v=Z57qqHwQi5Q)                                                                                                                                                  |
 | AlphaCode Explained: AI Code Generation [Edan Meyer](https://www.youtube.com/watch?v=t3Yh56efKGI)                                                                                                                                                   |
 | Generating Python code with GPT [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdKvPge9PXQtFzvhMRyFPhW)                                                                                                                                 |
+| AlphaCode Explained: AI Code Generation [Edan Meyer](https://www.youtube.com/watch?v=t3Yh56efKGI)                                                                                                                                                   |
 
 ## 知识点
 

@@ -7,7 +7,7 @@ description: Generative Adversarial Network (GAN)
 |                                                                                                   |
 | ------------------------------------------------------------------------------------------------- |
 | Random Face Generator (This Person Does Not Exist) [s](https://this-person-does-not-exist.com/zh) |
-|                                                                                                   |
+| Talk \| 微软亚洲研究院杨蛟龙：高质量三维图像对抗生成学习 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7WPJxLGf\_jA)  |
 |                                                                                                   |
 
 |                                                                                                                                                                              |
@@ -24,6 +24,8 @@ description: Generative Adversarial Network (GAN)
 | GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g\_0HtlrLiDo)                                                                                                         |
 | GAN的现状与未来 马波 [青云QingCloud](https://www.youtube.com/watch?v=v7rsHn4ziZ4)                                                                                                      |
 | Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects [Nicholas Renotte](https://www.youtube.com/watch?v=AALBGpLbj6Q)           |
+| StyleGANv2 Explained! [Connor Shorten](https://www.youtube.com/watch?v=u8qPvzk0AfY)                                                                                          |
+| StyleGAN2 explained - AI generated faces, cars and cats! [AI Bites](https://www.youtube.com/watch?v=841UAo7Ax5w)                                                             |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,6 +51,7 @@ description: Generative Adversarial Network (GAN)
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
+| Google’s New AI: DALL-E, But Now In 3D! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=L3G0dx1Q0R8)                                              |
 | 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
 | NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)                                                                                         |
 
