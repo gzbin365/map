@@ -393,6 +393,7 @@ Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | J
 
 |                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 程序员计算机编程入门基础知识（ 计算机组成原理／操作系统／计算机网络）计算机基础／编程入门 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKl1uTYq11gCFJ6I\_\_wYRXsX)                                                             |
 | 一门编程语言是如何被创造出来的？[zh](https://www.zhihu.com/question/20046490)                                                                                                                                     |
 | Think Like a Computer Science Professor [freeCodeCamp](https://www.youtube.com/watch?v=OIc7urJC0zY)                                                                                               |
 | **Programming Loops vs Recursion - Computerphile(**[**u**](https://www.youtube.com/watch?v=HXNhEYqFo0o)**, )**                                                                                    |

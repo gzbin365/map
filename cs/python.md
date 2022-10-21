@@ -276,13 +276,21 @@
 | 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)     |
 | How to Schedule Tasks with Python using Schedule [JCharisTech](https://www.youtube.com/watch?v=zF\_DroDICaM) |
 
-| Matplotlib                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------- |
-| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                     |
-| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                           |
-| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                   |
-| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk) |
-| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                              |
+| Matplotlib                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Matplotlib 用户指南 ([书栈](https://www.bookstack.cn/books/MatplotlibUserGuide), )                                                                                                                                                                                  |
+| Matplotlib 入门教程 ([书栈](https://www.bookstack.cn/books/py-ds-intro-tut-zh-matplotlib), )                                                                                                                                                                        |
+| **亚斯特拉的索哥(**[**u**](https://www.youtube.com/channel/UC6F7TKhp26EZOPrQg9hCZaQ/playlists)**, )**                                                                                                                                                                |
+| 麦子学院 Python数据可视化分析 matplotlib [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ0MHpfbe\_1m6aM20zbn6Nk)                                                                                                                                              |
+| Matplotlib Crash Course [freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)                                                                                                                                                                           |
+| Professional 3D Plotting in Matplotlib [NeuralNine](https://www.youtube.com/watch?v=fAztJg9oi7s)                                                                                                                                                              |
+| Matplotlib Tips [Kimberly Fessel](https://www.youtube.com/playlist?list=PLtPIclEQf-3dJmAj3IsSRwRoLbX-n3J81) [doc](https://matplotlib.org/stable/index.html)                                                                                                   |
+| MATPLOTLIB 3D PLOTS including Scatter 3D and Surface Plots for Matplotlib Python \|\| Matplotlib Tips [Kimberly Fessel](https://www.youtube.com/watch?v=gqoLLGgbeAE) [git](https://github.com/kimfetti/Videos/blob/master/Matplotlib\_Tips/12\_3Dplots.ipynb) |
+| Python Data Science Tutorial #11 - 3D Plotting with Matplotlib [NeuralNine](https://www.youtube.com/watch?v=eHd8JsJQ6AA)                                                                                                                                      |
+| Matplotlib Tutorial (2021): For Physicists, Engineers, and Mathematicians [Mr. P Solver](https://www.youtube.com/watch?v=cTJBJH8hacc)                                                                                                                         |
+| Plotting Graphs in Python (MatPlotLib and PyPlot) [Max teaches Tech](https://www.youtube.com/watch?v=yf-R1cvJllE)                                                                                                                                             |
+|                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                               |
 
 |                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -971,7 +979,123 @@ topics/[jupyter-notebook](https://github.com/topics/jupyter-notebook)
 
 Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)
 
+<details>
 
+<summary>Jupyter</summary>
+
+topics/[jupyter-notebook](https://github.com/topics/jupyter-notebook)
+
+[git](https://github.com/jupyter/jupyter) [wiki](https://github.com/jupyter/jupyter/wiki)
+
+Dockerizing Jupyter Projects [towardsdatascience](https://towardsdatascience.com/dockerizing-jupyter-projects-39aad547484a)
+
+Reproducible Data Analysis in Jupyter [Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)
+
+bqplot Seamless Interactive Visualizations and Dashboards in the Jupyter Notebook | [SciPy 2018](https://www.youtube.com/watch?v=Dmxa2Kyfzxk)
+
+Building Interactive Applications and Dashboards in the Jupyter Notebook [O'Reilly](https://www.youtube.com/watch?v=i40d8-Hu4vM)
+
+Dashboarding with Jupyter Notebooks, Voila and Widgets | SciPy 2019 | M. Breddels and M. Renou [Enthought](https://www.youtube.com/watch?v=VtchVpoSdoQ)
+
+Jupyter widgets- Maarten Breddels (Maarten Breddels), Sylvain Corlay (QuantStack) [O'Reilly](https://www.youtube.com/watch?v=wb--ASnSVuc)
+
+Jakub Czakon: 10 things you should know about Jupyter Notebooks | [PyData](https://www.youtube.com/watch?v=FwUcJFSAfQw) Warsaw 2017
+
+The Jupyter Interactive Widget Ecosystem | [SciPy 2018](https://www.youtube.com/watch?v=NBZBjEjN-rU) Tutorial | Matt Craig
+
+Jupyter Tips and Tricks [Google Cloud Tech](https://www.youtube.com/watch?v=2eCHD6f\_phE)
+
+Geographical Data Visualization in Jupyter Notebook (ipyleaflet Tutorial Starts from 11'45") [Data Science Show](https://www.youtube.com/watch?v=PuJ\_JUkahXQ)
+
+[JupyterLab](https://jupyter.org/): A Next-Generation Notebook Interface [doc](https://jupyterlab.readthedocs.io/en/stable/) [git](https://github.com/jupyterlab/jupyterlab)
+
+JupyterLab: The Next Generation Jupyter Web Interface [InfoQ](https://www.youtube.com/watch?v=ctOM-Gza04Y)
+
+STOP Using Jupyter Notebook! Here's the Better Tool [Thu Vu data analytics](https://www.youtube.com/watch?v=zai2pLUD9FA) JupyterLab
+
+pandas Installation JupyterLab [s](https://pandas.pydata.org/getting\_started.html)
+
+Getting Started with Plotly and Jupyter! [Mark Jay](https://www.youtube.com/watch?v=XUNaGFa9xCM)
+
+Learn Jupyter Notebooks [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wSbNmRK1jWQwtIXh-fvIiRI)
+
+3D interactive Graph Animation in Jupyter Notebook [mechanical coder](https://www.youtube.com/watch?v=yHyn8AyO6H4) [engineerknow](https://www.engineerknow.com/2021/09/3d-interactive-graph-animation-in.html)
+
+Jupyter Widgets [doc](https://ipywidgets.readthedocs.io/en/stable/) [examples](https://github.com/jupyter-widgets/ipywidgets/tree/1f9917d739a0f7cffa4d70a39e66f5c8809eb2e0/docs/source/examples) [git](https://github.com/jupyter-widgets/ipywidgets)
+
+搭建 ipython/jupyter notebook 服务器 [Ming's Blog](https://bitmingw.com/2017/07/09/run-jupyter-notebook-server/)
+
+Introduction to Jupyter notebook and Python [Serena Bonaretti](https://www.youtube.com/playlist?list=PLj8QFvBykB7fGEH274TlqhToqGd\_Qxt1H)
+
+Step-by-step tutorials for transparent research [Serena Bonaretti](https://www.youtube.com/playlist?list=PLj8QFvBykB7dtTd\_HiOTbctHvU6pbGC0i)
+
+Jupyter Notebook (Tips, Tricks and Hacks) [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSDhIfHn6LZkCICnx5numsRE)
+
+Jupyter notebooks are more powerful than you think [CodeEmporium](https://www.youtube.com/watch?v=k6VYEsmLLkg)
+
+The Best Jupyterlab Extension That You Didn't Know Existed! [Thu Vu data analytics](https://www.youtube.com/watch?v=fClT4PWlGoA)
+
+IPython [s](https://ipython.org/) [Documentation](https://ipython.readthedocs.io/en/stable/index.html)
+
+[nbviewer](https://nbviewer.org/) A simple way to share Jupyter Notebooks
+
+Jupyter Notebook Viewer [nbviewer](https://nbviewer.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
+
+</details>
+
+### Binder
+
+<details>
+
+<summary>Binder</summary>
+
+Binder [Documentation](https://mybinder.readthedocs.io/en/latest/)
+
+How to share a Jupyter notebook with Binder? [Serena Bonaretti](https://www.youtube.com/watch?v=owSGVOov9pQ)
+
+BinderHub [search](https://www.youtube.com/results?search\_query=BinderHub)
+
+Binder 2.0: Next Gen of Reproducible Scientific Environments w/ repo2docker & BinderH | SciPy 2018 [Enthought](https://www.youtube.com/watch?v=KcC0W5LP9GM)
+
+</details>
+
+## Plotly
+
+<details>
+
+<summary>Plotly</summary>
+
+Plotly Python [s](https://plotly.com/python/)
+
+Getting Started with Plotly and Jupyter! [Mark Jay](https://www.youtube.com/watch?v=XUNaGFa9xCM) [git](https://github.com/markjay4k/fourier-transform)
+
+LEARN PLOTLY [Art of Visualization](https://www.youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94)
+
+Using Plotly and iPython for Scientific Graphing #MP41 [Montreal-Python](https://www.youtube.com/watch?v=zG8FYPFU9n4)
+
+Python Hacks : Data Visualization using Plotly - Introduction [Fluidic Colours](https://www.youtube.com/watch?v=lb9QSP7NCd8)
+
+Plotly For Web Based Data Visualization - Basic Charts Using Plotly, Pandas & Matplotlib In Python [TheEngineeringWorld](https://www.youtube.com/watch?v=B911tZFuaOM)
+
+Introduction to Dash Plotly - Data Visualization in Python  [Charming Data](https://www.youtube.com/watch?v=hSPmj7mK6ng)
+
+</details>
+
+## Geospatial
+
+<details>
+
+<summary>Geospatial</summary>
+
+&#x20;Geospatial Analysis with Python [Rogue Hogue](https://www.youtube.com/watch?v=qvHXRuGPHl0)
+
+Introduction to Geospatial Data Analysis with Python | [SciPy 2018](https://www.youtube.com/watch?v=kJXUUO5M4ok) Tutorial | Serge Rey
+
+[EuroSciPy 2017](https://www.youtube.com/watch?v=bWsA2R707BM): GeoPandas - geospatial data in Python made easy
+
+Python: OpenStreetMap API - add Longitudes and Latitudes by using Geopy module [Data Science Garage](https://www.youtube.com/watch?v=0IjdfgmWzMk)
+
+</details>
 
 ## **其他**
 
