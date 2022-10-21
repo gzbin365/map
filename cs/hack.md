@@ -13,6 +13,7 @@
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ethical Network Hacking for Idiots [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                                              |
 | How the Best Hackers Learn Their Craft [RSA Conference](https://www.youtube.com/watch?v=6vj96QetfTg)                                                                                      |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                          |
 | 看完你就拥有了黑客意识！——迈克教你网关，端口，防火墙，节点，肉鸡，社会工程学，公开课第三讲 [Bill Mike比尔迈克](https://www.youtube.com/watch?v=xIY-JtKa8Ms)                                                                               |

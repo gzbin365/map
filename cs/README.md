@@ -201,6 +201,10 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 |                                       |
 |                                       |
 
+### 美团
+
+
+
 ### 京东
 
 |                                                    |
@@ -208,6 +212,14 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | 京东云-开发者社区 [s](https://developer.jdcloud.com/)      |
 | NeuHub京东人工智能开放平台 [s](https://neuhub.jd.com/) 京东智联云 |
 |                                                    |
+
+### 苹果 Apple
+
+|                                               |                                                                     |                                                                                           |
+| --------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Apple [u](https://www.youtube.com/user/Apple) | AppleProgramming [u](https://www.youtube.com/user/AppleProgramming) | apple/[darwin-xnu](https://github.com/apple/darwin-xnu)   [git](https://github.com/apple) |
+|                                               |                                                                     |                                                                                           |
+|                                               |                                                                     |                                                                                           |
 
 ## UP主
 
@@ -481,6 +493,7 @@ Computer Components？Computer Architecture？
 | VPS VPN SSR 到底是什么 [王小超](https://www.youtube.com/watch?v=Bp0kUAdXGxA)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 29丨网络故障排除命令 [M Max](https://www.youtube.com/watch?v=27CuaVTApx4)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 家庭组网之如何开启IPv6? [韩风Talk](https://www.youtube.com/watch?v=xj3bJRPzr8Y)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| How To Become Invisible Online [Kalle Hallden](https://www.youtube.com/watch?v=S4E4yAktjug)                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 | 内网穿透                                                                                                                                                                       |                                                                                                     |                                                                                                                                |

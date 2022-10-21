@@ -4,11 +4,11 @@ description: 好好睡觉 好好干饭
 
 # 生物
 
-|                                                                                                          |                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 一粒小米 抖音号： [Fmo827](https://www.douyin.com/user/MS4wLjABAAAAZhohR1ukACKQcgiJ7\_jAN7vktsGvOqL6hjz8dVhCWw8) | 鹅膏哥（蘑菇分类学专业） 抖音号： [egaoge](https://www.douyin.com/user/MS4wLjABAAAAzrWWaCi4b3dBc\_vNawn-CZIHyE4RBcesCZGEz9Vx29s) |
-|                                                                                                          |                                                                                                                  |
-|                                                                                                          |                                                                                                                  |
+|                                                                                                                                               |                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 一粒小米 抖音号： [Fmo827](https://www.douyin.com/user/MS4wLjABAAAAZhohR1ukACKQcgiJ7\_jAN7vktsGvOqL6hjz8dVhCWw8)                                      | 鹅膏哥（蘑菇分类学专业） 抖音号： [egaoge](https://www.douyin.com/user/MS4wLjABAAAAzrWWaCi4b3dBc\_vNawn-CZIHyE4RBcesCZGEz9Vx29s) |
+| 无穷小亮的科普日常 抖音号： [wuqiongxiaoliang](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2\_neQsQy\_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca) |                                                                                                                  |
+|                                                                                                                                               |                                                                                                                  |
 
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,6 +24,14 @@ description: 好好睡觉 好好干饭
 | 大腦與認知科學 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvVm2ygVpkUJRYA4b1zNFq7)                                                            |
 | 中国科学家用CO₂人工合成淀粉！原理是什么？能得诺贝尔奖吗？ [李永乐老师](https://www.youtube.com/watch?v=0i8tqtudhZQ)                                                                     |
 | Origins of Life [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznS5m3hcoV\_JIcsYJiQ7L2\_R)                                       |
+
+### 基因
+
+|                                                                                                                    |   |   |
+| ------------------------------------------------------------------------------------------------------------------ | - | - |
+| 董子平 抖音号：[2000803959](https://www.douyin.com/user/MS4wLjABAAAAE\_NBAlbv4sgLGCKeKINDnrOwcNRxreIgJ1wQXpd355I)   基因科学家 |   |   |
+|                                                                                                                    |   |   |
+|                                                                                                                    |   |   |
 
 ### 脑科学 脑神经科学
 

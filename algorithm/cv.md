@@ -287,6 +287,7 @@ import cv2
 | 280 - Custom object segmentation using StarDist library in python [DigitalSreeni](https://www.youtube.com/watch?v=F6sfm1i8OfY)                                                                                        |
 | 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
 | PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby [Aladdin Persson](https://www.youtube.com/watch?v=IHq1t7NxS8k)                                                                           |
+| I tried building an ML Cancer Segmentation API in 15 Minutes [Nicholas Renotte](https://www.youtube.com/watch?v=aMldpZF6GBU)                                                                                          |
 
 ### 目标检测 Object Detection
 
@@ -313,6 +314,7 @@ import cv2
 | Mask RCNN [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg)                                                                                                                                                                                           |
 | 只要你在社交平台发了照片，这个AI就能利用开放式摄像头找到你摆拍的全过程 [量子位](https://www.douyin.com/video/7143923762381999390)                                                                                                                                                                                             |
 | Coding an Object Detection App in 15 mins [Nicholas Renotte](https://www.youtube.com/watch?v=msGOrJIMGy8)                                                                                                                                                                                |
+| DETR: End-to-End Object Detection with Transformers (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=T35ba\_VXkMY)                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
@@ -453,6 +455,7 @@ import cv2
 | NeRF (Neural Radiance Fields) [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV)                                                                                                                               |
 | BARF 🤮: Bundle-Adjusting Neural Radiance Fields (ICCV 2021 oral) [Chen-Hsuan Lin](https://www.youtube.com/watch?v=dCmCZs2Hpi0)                                                                                                             |
 | Google’s New AI: Fly INTO Photos! 🐦 [Two Minute Papers](https://www.youtube.com/watch?v=\_Y1-KlTEmwk)                                                                                                                                      |
+| NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ML Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=CRlN-cYFxTk)                                                                          |
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |

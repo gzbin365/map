@@ -100,7 +100,7 @@ description: 探索神秘的数学, 用数学充实人生
 
 
 
-### Lingo Lindo
+### Lingo / Lindo
 
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
@@ -125,11 +125,13 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### Octave
 
-|                                                                                                                       |                                                                                                                                                                                                                                                                                     |   |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| [Oct2Py](https://blink1073.github.io/oct2py/): Python to GNU Octave Bridge [git](https://github.com/blink1073/oct2py) | Octave [pypi](https://pypi.org/project/octave-kernel/)                                                                                                                                                                                                                              |   |
-| Calysto/[octave\_kernel](https://github.com/Calysto/octave\_kernel)                                                   | <p>octavemagic: Octave inside IPython <a href="https://nbviewer.org/github/blink1073/oct2py/blob/main/example/octavemagic_extension.ipynb">ipynb</a></p><p>Jupyter Notebook Viewer <a href="https://nbviewer.org/github/ipython/ipython/tree/1.x/examples/notebooks/">ipynb</a></p> |   |
-|                                                                                                                       |                                                                                                                                                                                                                                                                                     |   |
+|                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                     |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| GNU Octave    [s](https://www.gnu.org/software/octave/)    [社区新闻](https://www.gnu.org/software/octave/community-news.html)    [帮助](https://www.gnu.org/software/octave/support.html)   文档   [html](https://octave.org/doc/v6.3.0/index.html)   [pdf](https://www.gnu.org/software/octave/octave.pdf) |                                                                                                                                                                                                                                                                                     |   |
+|                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                     |   |
+| [Oct2Py](https://blink1073.github.io/oct2py/): Python to GNU Octave Bridge [git](https://github.com/blink1073/oct2py)                                                                                                                                                                                | Octave [pypi](https://pypi.org/project/octave-kernel/)                                                                                                                                                                                                                              |   |
+| Calysto/[octave\_kernel](https://github.com/Calysto/octave\_kernel)                                                                                                                                                                                                                                  | <p>octavemagic: Octave inside IPython <a href="https://nbviewer.org/github/blink1073/oct2py/blob/main/example/octavemagic_extension.ipynb">ipynb</a></p><p>Jupyter Notebook Viewer <a href="https://nbviewer.org/github/ipython/ipython/tree/1.x/examples/notebooks/">ipynb</a></p> |   |
+|                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                     |   |
 
 ### Manim
 
@@ -204,7 +206,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
 | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                          | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
-| 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         |                                                                                                                |
+| 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         | 初中数学竞赛 [u](https://www.youtube.com/channel/UCCNQgGoCEDqx51Fy3g9bDGw)                                           |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -220,7 +222,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | ------------------------------------------------------------------------------------------------------------------------ |
 | 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                           |
 | 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P\_sRLUXvx9ViyU8Qu9sFn6qo4w)   老于数学之家 |
-|                                                                                                                          |
+| 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA)                                                    |
 
 ## 竞赛
 
@@ -1235,22 +1237,24 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 
 ## 密码学 Cryptography
 
-|                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [密码学](https://www.youtube.com/watch?v=91h0tqQVLyE) 钱场                                                                                          |
-| [非对称加密原理及Python实现](https://www.youtube.com/watch?v=OKIfTOEo7P0) wxnacy [code](https://github.com/wxnacy/study/tree/master/python/crypto\_demo) |
-| [图书推荐 Python密码学编程](https://www.youtube.com/watch?v=AtTY3IW4iGg)                                                                                |
-| Foundations of Cryptography [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8POwvUWM9czl566PCcpNef)                         |
-| Cryptography - Christof Paar [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3gN6P13YQLb-JxiwDWsFs8)                        |
-| 信息安全概论（密码学）[电子工程世界](http://training.eeworld.com.cn/course/4080) 共48课时 1天10小时44分43秒                                                             |
-| Cryptography [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUyoyOQ\_2dCvr5GPi5w\_T7)                                    |
-| 实用密码学 [极客时间](https://time.geekbang.org/column/intro/369)                                                                                       |
-| 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                  |
-| Predicting Crypto Prices in Python [NeuralNine](https://www.youtube.com/watch?v=GFSiL6zEZF0)                                                   |
-| 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                     |
-| 数学\_质数与RSA密码算法一 [PengTitus](https://www.youtube.com/watch?v=TqX0AHHwRYQ)                                                                       |
-| 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                       |
-| RSA Private & Public Key Encryption in Python [NeuralNine](https://www.youtube.com/watch?v=n0uJsqFGO4k)                                        |
+|                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [密码学](https://www.youtube.com/watch?v=91h0tqQVLyE) 钱场                                                                                                                                                                                                                                                                   |
+| [非对称加密原理及Python实现](https://www.youtube.com/watch?v=OKIfTOEo7P0) wxnacy [code](https://github.com/wxnacy/study/tree/master/python/crypto\_demo)                                                                                                                                                                          |
+| [图书推荐 Python密码学编程](https://www.youtube.com/watch?v=AtTY3IW4iGg)                                                                                                                                                                                                                                                         |
+| Foundations of Cryptography [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8POwvUWM9czl566PCcpNef)                                                                                                                                                                                                  |
+| Cryptography - Christof Paar [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3gN6P13YQLb-JxiwDWsFs8)                                                                                                                                                                                                 |
+| 信息安全概论（密码学）[电子工程世界](http://training.eeworld.com.cn/course/4080) 共48课时 1天10小时44分43秒                                                                                                                                                                                                                                      |
+| Cryptography [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprcUyoyOQ\_2dCvr5GPi5w\_T7)                                                                                                                                                                                                             |
+| 实用密码学 [极客时间](https://time.geekbang.org/column/intro/369)                                                                                                                                                                                                                                                                |
+| 银行密码系统安全吗？质数（素数）到底有啥用？李永乐老师11分钟讲RSA加密算法 [李永乐老师](https://www.youtube.com/watch?v=D\_kMadCtKp8)                                                                                                                                                                                                                           |
+| Predicting Crypto Prices in Python [NeuralNine](https://www.youtube.com/watch?v=GFSiL6zEZF0)                                                                                                                                                                                                                            |
+| 区块链中的密码学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sq1nl4LEka1SkhNk5ZkAf\_)                                                                                                                                                                                                                              |
+| 数学\_质数与RSA密码算法一 [PengTitus](https://www.youtube.com/watch?v=TqX0AHHwRYQ)                                                                                                                                                                                                                                                |
+| 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                                                                                                                                                                                                |
+| RSA Private & Public Key Encryption in Python [NeuralNine](https://www.youtube.com/watch?v=n0uJsqFGO4k)                                                                                                                                                                                                                 |
+| <p>Linux 网络编程与加密 WIP <a href="https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/#/">s</a> <a href="https://github.com/ArchLinuxStudio/LinuxNetworkProgrammingAndEncryption">git</a></p><p>Linux 网络编程的相关知识密码学组建库 mbedtls 以及 sodium 的使用</p><p>如何实现一个 TLS 的网页请求客户端</p><p>将各项网络、密码学技术组合，实现互联网的自由访问</p> |
+|                                                                                                                                                                                                                                                                                                                         |
 
 ### 哈希
 

@@ -660,6 +660,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 | 微软vscode强劲对手JetBrains Fleet　[后盾人](https://www.douyin.com/video/7036281172262915336)                                          |
 | IntelliJ IDEA 13试用手记 [blog](https://www.cnblogs.com/yjmyzz/p/intellij-idea-13-getting-started.html)                          |
 | IntelliJ IDEA \| Full Course \| 2020 [Amigoscode](https://www.youtube.com/watch?v=yefmcX57Eyg)                               |
+| JetBrains 下一代编辑器 Fleet 初探 [小刘不是程序员](https://www.douyin.com/video/7156785102700203267)                                        |
 
 ## PyCharm
 

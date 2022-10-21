@@ -19,7 +19,8 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 痞解般若 抖音号： [bore521](https://www.douyin.com/user/MS4wLjABAAAANBHFpw1rzmj9I3l-m0S3rFj00lXhUj0ERRm-U\_OB1f2oNdNkWBNQPtBarAvO1fcx)                                                                                                                                                                                       | 糖糖社长 抖音号： [youha123](https://www.douyin.com/user/MS4wLjABAAAAMPHg3iBO705cnsQmJ01k41qb3dHrYKc94D1oqKT4oY0?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017823279272480007\&is\_full\_screen=0)                                                                                                                                                   |
 | 傅佩荣  抖音号： [FPRzhexue](https://www.douyin.com/user/MS4wLjABAAAAeWxwC9uGqSxHAOaQadaZgwOiuoXEPsJJ4031EA36LJ4)                                                                                                                                                                                                           | 蒋顾史读书　抖音号： [ptduzhe](https://www.douyin.com/user/MS4wLjABAAAADifNs\_47XftIJVs58dkCkoC1RhGkFAAmThUMOPxKJS4)                                                                                                                                                                                                                                                       |
 | 白九九啊 抖音号： [baijiujiua666](https://www.douyin.com/user/MS4wLjABAAAAx7V3ZV1Ha2pqJNL2z265zLGHLIBNK9QMBSw5tm4LIQw)                                                                                                                                                                                                       | 都靓Amber 抖音号： [bravoamber](https://www.douyin.com/user/MS4wLjABAAAAy-B0V-nt2aK3olCBocokiTT\_UALgoacHA5UmXslZAPR3urAGEgwu3dNzFaDpdcSi)                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                      | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                                                                                                                                                                                                                                                     |
+| 都靓的1001页 抖音号：[windblow](https://www.douyin.com/user/MS4wLjABAAAAKnpc8iJ-mk-6aeiuVppNcelGg2PkbhnOrnBDbQUMgnk)                                                                                                                                                                                                         | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                      | 求职阿渔 抖音号： [wmxz365](https://www.douyin.com/user/MS4wLjABAAAAa2l1UjB11Nqs0S-1Xw5QfaYDEWJQNNbe9r4XTgmbr0XPHzKpnNVK-6KvDU-ITTVp)                                                                                                                                                                                                                                    |
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,6 +35,14 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 痞解论语 [痞解般若](https://www.douyin.com/video/7027294686641540352) |
 |                                                               |
 |                                                               |
+
+## 汉字
+
+|                                                                             |                                                                                         |   |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | - |
+| 72岁美国人首创汉字字源网站 [CMG海外影像节](https://www.douyin.com/video/7137289657561173261) | 走进汉字 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpfvNSwbfof4I0DF6VrL0Jp) |   |
+|                                                                             |                                                                                         |   |
+|                                                                             |                                                                                         |   |
 
 ## 小说
 
@@ -51,6 +60,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 中日美致郁三件套 [v](https://www.douyin.com/video/7000257492508855560)                                                                      |
 | <p>飞雪连天射白鹿，笑书神侠倚碧鸳</p><p>《飞狐外传》《雪山飞狐》《连城诀》《天龙八部》《射雕英雄传》《白马啸西风》</p><p>《鹿鼎记》《笑傲江湖》《书剑恩仇录》《神雕侠侣》《侠客行》《倚天屠龙记》</p><p>《碧血剑》《鸳鸯刀》《越女剑》</p> |
 |                                                                                                                                     |
+| 美国短篇小说选读 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpmYAaulIJ1tBo7vxqUF2Hu)                                         |
 
 ### 有声书
 
@@ -69,7 +79,8 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 喜马讲书 [u](https://www.youtube.com/c/%E5%96%9C%E9%A9%AC%E8%AE%B2%E4%B9%A6youtube/playlists)                      | 维尼读书 [u](https://www.youtube.com/channel/UC4QYUbIvTg0lntnGhqAn8-w/playlists)                                                                                                                                                                                                                  |
 | 芝士份子Cheesy Intellectuals [u](https://www.youtube.com/channel/UCFHfsJRqLK44B7GnAYErv-Q)                         | 有一听书 [u](https://www.youtube.com/channel/UCH-UDbQbO1EK3wJDyVNlOsQ/playlists)                                                                                                                                                                                                                  |
 | 每天听书 Wise AudioBooks [u](https://www.youtube.com/channel/UClCm\_LVCdQ4RP3Veej-hSxw)                            | 流水浮舟 [u](https://www.youtube.com/channel/UCuJIYSvLamhpYM0YCCRb1Ag)                                                                                                                                                                                                                            |
-|                                                                                                                |                                                                                                                                                                                                                                                                                               |
+| 每日一书 [u](https://www.youtube.com/channel/UCQ58rNgEE1Vt3G40E\_NWAsA)                                            | 艺苑风采 [u](https://www.youtube.com/user/CharleYouT)                                                                                                                                                                                                                                             |
+|                                                                                                                | 兔兔故事 [u](https://www.youtube.com/channel/UC4WbawbHRNR-try4gORGnfg/playlists)                                                                                                                                                                                                                  |
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
@@ -99,3 +110,6 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 世界著名的神秘情报机构 [Pisces丶落塵](https://zhuanlan.zhihu.com/p/82643224) |
 |                                                                |
 |                                                                |
+
+## 形容词
+

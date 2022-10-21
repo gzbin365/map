@@ -4,9 +4,9 @@ description: 语音 音频 Voice speech Sound
 
 # Audio
 
+[**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
-
-
+[**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)
 
 [**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) **** [**NEUTRINO**](https://n3utrino.work)
 
@@ -35,8 +35,6 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                                                                                                                      |
 | Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                       |
 | Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                           |
-| Multirate Signal Processing with Python [Guitars AI](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiQmq8PcGvx-EpLFrVmYMOW) [git](https://github.com/GuitarsAI/MRSP\_Notebooks)                                                                                                                           |
-| Python for Beginner: Basics of Digital Audio Processing and Machine Learning using Python [Guitars AI](https://www.youtube.com/playlist?list=PL6QnpHKwdPYi-600wCa4PPIrP2DpgKqFk)                                                                                                                             |
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io/) [s](https://www.zhihu.com/question/266242493)                                                                                                                     |
 | 从语音识别到语音交互 陈伟 [青云QingCloud](https://www.youtube.com/watch?v=AUKycdq6jig)                                                                                                                                                                                                                                     |
 | Talk \| 字节跳动研究员董倩倩：基于单调切分的端到端同传 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=uv\_4sRg47hk)                                                                                                                                                                                                              |
@@ -132,7 +130,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 一款采用人工智能黑科技文字转流畅自然配音软件配音神器 [廉飞](https://www.youtube.com/watch?v=jd1WOkBIOTQ)                                                                                    |
 | 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                 |
 | Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                   |
-| [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                   |
+|                                                                                                                                                                 |
 | How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
 |                                                                                                                                                                 |
 
@@ -146,7 +144,6 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | How to Generate Your Own Voice - Text to Speech [Website Learners](https://www.youtube.com/watch?v=PzBdEW5WNGo)                                                                                                                                                                                                                                                    |
 | Can we CLONE my voice using ML? [Nicholas Renotte](https://www.youtube.com/watch?v=qVD1NBLoOJw)                                                                                                                                                                                                                                                                    |
 | I secretly used AI to clone my favourite Rapper [Nicholas Renotte](https://www.youtube.com/watch?v=HoMZxHNpM84)                                                                                                                                                                                                                                                    |
-| [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                                                                                                                                                                                                |

@@ -244,6 +244,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | 联想拯救者R9000P安装Ubuntu 21.04系统及运行TensorFlow1.X代码 [csdn](https://blog.csdn.net/bkipp/article/details/116810689#44\_\_78)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Tensorflow [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B5PFE9RvKOQ-v74KDjjKF-H)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Google's Machine Learning Virtual Community Day [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzocmvukOQKPVcrkCrUaPAb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| TensorFlow Lite for Edge Devices - Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=OJnaBhCixng)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ### PyTorch
@@ -807,22 +808,25 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 
 ### 神经网络 Neural Networks
 
-|                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Neural Networks [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)                      |
-| Gradient Boost [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)                                                          |
-| Batch Normalization - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=DtEq44FTPM4)                                                 |
-| Optimizers - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=mdKjMPmcWjY)                                                          |
-| Liquid Neural Networks [MITCBMM](https://www.youtube.com/watch?v=IlliqYiRhMU)                                                                |
-| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)     |
-| How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                        |
-| 深度神经网络的工作原理 [Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)                                                                    |
-| Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                                 |
-| The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                         |
-| Illustrated Guide to Deep Learning [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NqKCWYjCnIiLf4cTthmWSGX) |
-| How are memories stored in neural networks? \| The Hopfield Network #SoME2 [Layerwise Lectures](https://www.youtube.com/watch?v=piF6D6CQxUw) |
-| Talk \| FAIR研究科学家刘壮：高效和可扩展的视觉神经网络架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=VGewJ8ol26k)                                           |
-| 深度学习基础介绍 机器学习19 神经网络NN算法 [开发者学堂](https://www.youtube.com/watch?v=YNzLaO5aiQo) [git](https://github.com/leonbehero/Code)                      |
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neural Networks [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)                                          |
+| Gradient Boost [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)                                                                              |
+| Batch Normalization - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=DtEq44FTPM4)                                                                     |
+| Optimizers - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=mdKjMPmcWjY)                                                                              |
+| Liquid Neural Networks [MITCBMM](https://www.youtube.com/watch?v=IlliqYiRhMU)                                                                                    |
+| Neural Networks from Scratch with Python and Opencv [Pysource](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTn3JYaFcfYZyrQOsHKXYP5z)                         |
+| How Deep Neural Networks Work - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dPWYUELwIdM)                                            |
+| 深度神经网络的工作原理 [Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)                                                                                        |
+| Why Neural Networks can learn almost anything [Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)                                                     |
+| The Mathematics of Neural Networks [Art of the Problem](https://www.youtube.com/watch?v=e5xKayCBOeU)                                                             |
+| Illustrated Guide to Deep Learning [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NqKCWYjCnIiLf4cTthmWSGX)                     |
+| How are memories stored in neural networks? \| The Hopfield Network #SoME2 [Layerwise Lectures](https://www.youtube.com/watch?v=piF6D6CQxUw)                     |
+| Talk \| FAIR研究科学家刘壮：高效和可扩展的视觉神经网络架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=VGewJ8ol26k)                                                               |
+| 深度学习基础介绍 机器学习19 神经网络NN算法 [开发者学堂](https://www.youtube.com/watch?v=YNzLaO5aiQo) [git](https://github.com/leonbehero/Code)                                          |
+| Neural Networks are Decision Trees (w/ Alexander Mattick) [Yannic Kilcher](https://www.youtube.com/watch?v=\_okxGdHM5b8)                                         |
+| Visualizing and Understanding Deep Neural Networks by Matt Zeiler [Data Council](https://www.youtube.com/watch?v=ghEmQSxT6tw)                                    |
+| GLOM: How to represent part-whole hierarchies in a neural network (Geoff Hinton's Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=cllFzkvrYmE) |
 
 ### RNN Recurrent Neural Networks
 
@@ -836,7 +840,7 @@ LSTM
 | -------------------------------------------------------------------------------------- |
 | LSTM Networks - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=QciIcRxJvsM) |
 
-###
+
 
 ### 蒙特卡洛 Monte Carlo
 
@@ -1257,6 +1261,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 30年前游戏角色画风一键升级！从粗糙像素风变成高清建模画风 [量子位](https://www.douyin.com/video/7153199443221761291)                                                                                                                                                                                                                 |
 | Diffusion Models \| Paper Explanation \| Math Explained [Outlier](https://www.youtube.com/watch?v=HoKDTa5jHvg)                                                                                                                                                                                        |
 | Diffusion models from scratch in PyTorch [DeepFindr](https://www.youtube.com/watch?v=a4Yfz2FxXiY)                                                                                                                                                                                                     |
+| JEPA - A Path Towards Autonomous Machine Intelligence (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=jSdHmImyUjk)                                                                                                                                                                 |
 
 ## 基础模型 Foundation Models
 

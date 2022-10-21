@@ -72,6 +72,9 @@ description: 自然语言处理
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
 | Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
 | 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                |
+| Introduction to transformer architecture and discussion [MITCBMM](https://www.youtube.com/watch?v=Smav86u60FM)                                                     |
+| Transformers in Vision: From Zero to Hero [AICamp](https://www.youtube.com/watch?v=J-utjBdLCTo)                                                                    |
+|                                                                                                                                                                    |
 
 #### Hugging Face
 
@@ -446,7 +449,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
 
-### Language Model
+### 语言模型, Language Model
 
 |                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -455,6 +458,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Google's New Model Solves College-Level Math Problems [Edan Meyer](https://www.youtube.com/watch?v=jJDi\_Oqs30E)                                                               |
 | $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                              |
 | The spelled-out intro to language modeling: building makemore [Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo\&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\&index=2) |
+| XAI meets Natural Language Models - Larissa Haas \[PyData Südwest / Big Data BBQ] [PyData](https://www.youtube.com/watch?v=Iqs5MkG90TE)                                        |
 |                                                                                                                                                                                |
 
 ### Causal Inference
