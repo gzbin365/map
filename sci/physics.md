@@ -193,6 +193,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 2.5流物理学家朗道的一生 什么是玻色-爱因斯坦凝聚？[妈咪说MommyTalk](https://www.youtube.com/watch?v=0gZXhrQjjqc\&t=14s)                       |
 |                                                                                                                     |
 
+## 空气动力学, Aerodynamics
+
+|                                                                                                                                                 |   |   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| MIT 16.687 Private Pilot Ground School, IAP 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25) |   |   |
+|                                                                                                                                                 |   |   |
+|                                                                                                                                                 |   |   |
+
 ## 核电
 
 |                                                                                                                                                                           |

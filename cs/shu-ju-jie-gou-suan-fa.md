@@ -280,4 +280,3 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | dunwu/[algorithm-tutorial](https://github.com/dunwu/algorithm-tutorial)   算法和数据结构教程                                                                    |
 | **CS-Notes** [**git**](https://github.com/CyC2018/CS-Notes) **** 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计                                                |
 | xiufengcheng/[DATASTRUCTURE](https://github.com/xiufengcheng/DATASTRUCTURE)   数据结构                                                                     |
-| Coding Challenges [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)                                         |
