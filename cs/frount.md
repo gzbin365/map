@@ -20,6 +20,7 @@
 | [CodePen](https://codepen.io/): Online Code Editor and Front End Web Developer Community [v](https://www.douyin.com/video/7045256496048885005) |                                                                                                                                                                                                                                                                                                                                                                   |
 | [Gitpod](https://www.gitpod.io/) - Always ready to code [v](https://www.douyin.com/video/7045256496048885005)                                  | [JSFiddle](https://jsfiddle.net/) - Code Playground [v](https://www.douyin.com/video/7045256496048885005)                                                                                                                                                                                                                                                         |
 | **Coding Addict**[ **u**](https://www.youtube.com/c/CodingAddict/playlists)                                                                    | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                | ❤️程序媛郭襄 抖音号： [31411193181](https://www.douyin.com/user/MS4wLjABAAAA5yOBDpv-Yu5Rsk0TCW6abBy5uHt8bj14FFLjn3TEbPXsfNp1fwY8O6hhyvxNBu-Y)                                                                                                                                                                                                                              |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,6 +96,17 @@
 {% content-ref url="../algorithm/crypto-and-blockchain.md" %}
 [crypto-and-blockchain.md](../algorithm/crypto-and-blockchain.md)
 {% endcontent-ref %}
+
+#### 黑马前端
+
+|                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 黑马程序员Pink老师前端HTML+CSS教程 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7e22Cd0qfD51ceUAL23ObVc) [gitee](https://gitee.com/xiaoqiang001/html\_css\_material) |
+| 黑马程序员Pink老师前端Javascript基础教程（语法篇） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7dkgKBMDfFrgJTG4rxWXiHX)                                                    |
+| 黑马程序员Pink老师前端Javascript进阶教程（ DOM / BOM篇）[ 野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7fB6CEP48ivmmutJ8BWQf8k)                                            |
+| 黑马程序员Pink前端Javascript高阶教程(面向对象+ES6) [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7cSHVUfn3PMPs6tfvsfzkBE)                                                 |
+| 黑马程序员Pink老师前端Jquery教程 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7cP5gz9lU7U\_IobaAGRoO5p)                                                              |
+|                                                                                                                                                                         |
 
 ## Ajax
 
@@ -221,6 +233,10 @@
 | Node.js Tutorials [Dave Gray](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx\_X46avTM1aYw)   [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-Rfqbb786uDGaO8r9atpx1kt3iP)    |
 | Node.js Tutorial \| Node.js Tutorial For Beginners \| Learn Node.js \| NodeJS Tutorial \| [Simplilearn](https://www.youtube.com/watch?v=CELj-DCB0go)                                                     |
 | Node.js & Stripe API - Ebook Sales App & Heroku Deploy [Traversy Media](https://www.youtube.com/watch?v=QT3\_zT97\_1g)                                                                                   |
+| Node.js / Express Course - Build 4 Projects [freeCodeCamp](https://www.youtube.com/watch?v=qwfE7fSVaZM)                                                                                                  |
+|                                                                                                                                                                                                          |
+|                                                                                                                                                                                                          |
+|                                                                                                                                                                                                          |
 
 |   |   |
 | - | - |
