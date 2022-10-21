@@ -12,6 +12,7 @@ description: Self-Driving
 
 |                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 多功能无人驾驶系统，能拉人能运货，灵活调度，自由部署！ [MAX无尽创意](https://www.youtube.com/watch?v=y8b2QoWc0dY)                                                                                 |
 | Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars \| Lex Fridman Podcast #322 [Lex Fridman](https://www.youtube.com/watch?v=36\_rM7wpN5A) Podcast |
 | [comma ai \| George Hotz \| Do openpilot tools work? Let's find out! \| github.com/commaai](https://www.youtube.com/watch?v=ixfAdv9sL30)                           |
 | **Self-Driving Cars Lectures** [**Lex Fridman**](https://www.youtube.com/playlist?list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq)                                         |
