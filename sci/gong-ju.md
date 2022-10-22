@@ -95,25 +95,26 @@
 
 ## 网盘
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                 |
-| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH\_N-9sw7IAiQ\&index=3) |
-| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                              |
-| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                            |
-| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                 |
-| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                             |
-| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                              |
-| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive               |
-| 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                      |
-| 免费创建自己的私人网盘！在家就可以搞定！安全又实用 \| 零[度解说](https://www.youtube.com/watch?v=156s1hphwHg)                                             |
-| 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                     |
-| 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                  |
-| 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)            |
-| 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                            |
-| 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                            |
-| [filez](https://www.filez.com/)   企业网盘                                                                                       |
-| Antdownload [s](https://antdownloadmanager.com/)                                                                             |
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                   |
+| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH\_N-9sw7IAiQ\&index=3)   |
+| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                                |
+| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                              |
+| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                   |
+| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                               |
+| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
+| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive                 |
+| 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                        |
+| 免费创建自己的私人网盘！在家就可以搞定！安全又实用 \| 零[度解说](https://www.youtube.com/watch?v=156s1hphwHg)                                               |
+| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8) |
+| 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                       |
+| 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                    |
+| 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)              |
+| 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                              |
+| 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                              |
+| [filez](https://www.filez.com/)   企业网盘                                                                                         |
+| Antdownload [s](https://antdownloadmanager.com/)                                                                               |
 
 |                                |                                  |
 | ------------------------------ | -------------------------------- |

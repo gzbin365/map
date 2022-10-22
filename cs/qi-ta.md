@@ -132,6 +132,14 @@
 | Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/) |
 |                                                 |
 
+## scratch
+
+|                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>少儿编程从出门到比赛，三本书就够了！scratch书籍推荐 <a href="https://www.douyin.com/video/7093008277063126306">教编程的小土</a></p><p>dk出版社 编程真好玩3.0 pdf 6岁</p><p>动手玩转 scratch 3.0 编程 全部指令 蓝桥杯</p><p>scratch 高手密码 算法</p> |
+|                                                                                                                                                                                                 |
+|                                                                                                                                                                                                 |
+
 ## DotNet, .NET
 
 | dotNET [u](https://www.youtube.com/c/dotNET)                                                                                                                        |
@@ -468,6 +476,7 @@
 | How to Install Kali Linux 2022.3 in VirtualBox on windows [CS Malik](https://www.youtube.com/watch?v=TbQQpRe2-7s)                                                                                            |
 | VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                 |
 | 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                              |
+| Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) [NetworkChuck](https://www.youtube.com/watch?v=\_u8qTN3cCnQ)                                                                                          |
 
 ## 架构
 
@@ -548,6 +557,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 18 CMD Tips, Tricks and Hacks                                                                                                                                                                                                                                                                                                                                                       |
 | WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                                                                                                                                                                                                                                                                                          |
+| Windows 11 runs Graphical Linux Apps out of the box with WSLg [Scott Hanselman](https://www.youtube.com/watch?v=b1YBx1L8op4)                                                                                                                                                                                                                                                        |
 | PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
 | Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                                                                                                                                                                                                                                                                                          |
 | <p>将windows装到口袋里（上）--- Windows To Go的制作 <a href="https://www.youtube.com/watch?v=M5gHpm-pzgY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">Cool Play</a></p><p>将windows装到口袋里（<a href="https://www.youtube.com/watch?v=ak0rzszBOGY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">下</a>） - Mac虚拟机引导Windows To Go （Parallels， VirtualBox， VMware Fusion）</p> |

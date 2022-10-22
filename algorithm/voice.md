@@ -4,9 +4,9 @@ description: 语音 音频 Voice speech Sound
 
 # Audio
 
-[**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
-[**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)
+
+
 
 [**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) **** [**NEUTRINO**](https://n3utrino.work)
 
@@ -35,6 +35,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Desmos Shenanigans [Eric Tao](https://www.youtube.com/playlist?list=PLlYltssWVRe9vOW7BmghfExRg2jPMqiQH)                                                                                                                                                                                                      |
 | Simple Voice Recorder in Python [NeuralNine](https://www.youtube.com/watch?v=av8E8qLZswU) pyaudio wave                                                                                                                                                                                                       |
 | Guitars AI [u](https://www.youtube.com/c/GuitarsAI/playlists) [git](https://github.com/GuitarsAI/)                                                                                                                                                                                                           |
+| Multirate Signal Processing with Python [Guitars AI](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiQmq8PcGvx-EpLFrVmYMOW) [git](https://github.com/GuitarsAI/MRSP\_Notebooks)                                                                                                                           |
+| Python for Beginner: Basics of Digital Audio Processing and Machine Learning using Python [Guitars AI](https://www.youtube.com/playlist?list=PL6QnpHKwdPYi-600wCa4PPIrP2DpgKqFk)                                                                                                                             |
 | speechbrain/[speechbrain](https://github.com/speechbrain/speechbrain)   A PyTorch-based Speech Toolkit [s](https://speechbrain.github.io/) [s](https://www.zhihu.com/question/266242493)                                                                                                                     |
 | 从语音识别到语音交互 陈伟 [青云QingCloud](https://www.youtube.com/watch?v=AUKycdq6jig)                                                                                                                                                                                                                                     |
 | Talk \| 字节跳动研究员董倩倩：基于单调切分的端到端同传 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=uv\_4sRg47hk)                                                                                                                                                                                                              |
@@ -79,7 +81,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Automatic Speech Recognition: Chapter 1 [NEWTON Technologies](https://www.youtube.com/watch?v=vlr\_3kNQZAk)                                                                                                                                                                                                  |
 | <p>Lecture 9 - Speech Recognition (ASR) [Andrew Senior] <a href="https://www.youtube.com/watch?v=HyUtT_z-cms">Zafarullah Mahmood</a></p><p>Deep Learning for NLP at Oxford with Deep Mind 2017 <a href="https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm">Zafarullah Mahmood</a></p> |
 | Python Speech Recognition Project Series [AssemblyAI](https://www.youtube.com/playlist?list=PLcWfeUsAys2nb0i79L\_LqYVfwOWEYA4eD)                                                                                                                                                                             |
-| Speech Recognition in Python Tutorial – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=mYUyaKmvu6Y)                                                                                                                                                                                |
+| <p>Speech Recognition in Python Tutorial – Full Course for Beginners <a href="https://www.youtube.com/watch?v=mYUyaKmvu6Y">freeCodeCamp</a></p><p>Python Speech Recognition Tutorial – Full Course for Beginners</p>                                                                                         |
 | Build your own real-time voice command recognition model with TensorFlow [AssemblyAI](https://www.youtube.com/watch?v=m-JzldXm9bQ)                                                                                                                                                                           |
 | nobody132/[masr](https://github.com/nobody132/masr) 中文语音识别; Mandarin Automatic Speech Recognition;                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                              |
@@ -130,7 +132,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 一款采用人工智能黑科技文字转流畅自然配音软件配音神器 [廉飞](https://www.youtube.com/watch?v=jd1WOkBIOTQ)                                                                                    |
 | 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                 |
 | Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                   |
-|                                                                                                                                                                 |
+| [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                   |
 | How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
 |                                                                                                                                                                 |
 
@@ -144,6 +146,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | How to Generate Your Own Voice - Text to Speech [Website Learners](https://www.youtube.com/watch?v=PzBdEW5WNGo)                                                                                                                                                                                                                                                    |
 | Can we CLONE my voice using ML? [Nicholas Renotte](https://www.youtube.com/watch?v=qVD1NBLoOJw)                                                                                                                                                                                                                                                                    |
 | I secretly used AI to clone my favourite Rapper [Nicholas Renotte](https://www.youtube.com/watch?v=HoMZxHNpM84)                                                                                                                                                                                                                                                    |
+| [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                                                                                                                                                                                                |
@@ -172,15 +175,16 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## Voice Assistant
 
-|                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)                                     |
-| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant                                         |
-| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant)                              |
-| Assistente Vocale Python - Riconoscimento Vocale con Speech Recognition e Pyttsx3 [PitoneProgrammatore](https://www.youtube.com/watch?v=kXiIK1qahsg) |
-| Build an AI Voice Assistant with PyTorch [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW)   |
-| Build A Python Speech Assistant App [Traversy Media](https://www.youtube.com/watch?v=x8xjj6cR9Nc)                                                    |
-| Intelligent Voice Assistant in Python [NeuralNine](https://www.youtube.com/watch?v=SXsyLdKkKX0)                                                      |
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python Voice Assistant [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)                                       |
+| [search\_query](https://www.youtube.com/results?search\_query=Python+Voice+Assistant)=Python+Voice+Assistant                                           |
+| Azure-Samples/[Cognitive-Services-Voice-Assistant](https://github.com/Azure-Samples/Cognitive-Services-Voice-Assistant)                                |
+| Assistente Vocale Python - Riconoscimento Vocale con Speech Recognition e Pyttsx3 [PitoneProgrammatore](https://www.youtube.com/watch?v=kXiIK1qahsg)   |
+| Build an AI Voice Assistant with PyTorch [The A.I. Hacker - Michael Phi](https://www.youtube.com/playlist?list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW)     |
+| Build A Python Speech Assistant App [Traversy Media](https://www.youtube.com/watch?v=x8xjj6cR9Nc)                                                      |
+| Intelligent Voice Assistant in Python [NeuralNine](https://www.youtube.com/watch?v=SXsyLdKkKX0)                                                        |
+| Voice Assistant with Wake Word in Python [NeuralNine](https://www.youtube.com/watch?v=F62wb\_jfUUw\&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-\&index=21) |
 
 <details>
 

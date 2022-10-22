@@ -72,6 +72,9 @@ description: 自然语言处理
 | MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
 | Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
 | 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                |
+| Introduction to transformer architecture and discussion [MITCBMM](https://www.youtube.com/watch?v=Smav86u60FM)                                                     |
+| Transformers in Vision: From Zero to Hero [AICamp](https://www.youtube.com/watch?v=J-utjBdLCTo)                                                                    |
+|                                                                                                                                                                    |
 
 #### Hugging Face
 
@@ -203,6 +206,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 寫個能幹的中文斷詞系統 – PyCon Taiwan 2019 [PyCon Taiwan](https://www.youtube.com/watch?v=nYTpBWwPc4U)               |
 | Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                                           |
 | HanLP：面向生产环境的自然语言处理工具包 [s](https://hanlp.hankcs.com/) hankcs/[pyhanlp](https://github.com/hankcs/pyhanlp) |
+| 【NLP】为什么中文分词比英文分词更难？有哪些常用算法？（附代码）[Datawhale](https://mp.weixin.qq.com/s/q9DgcME8zvVt9jPpb7RrPA)           |
 |                                                                                                           |
 
 ### POS 词性标注
@@ -446,7 +450,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
 |                                                                                                                                                               |
 
-### Language Model
+### 语言模型, Language Model
 
 |                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -455,6 +459,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Google's New Model Solves College-Level Math Problems [Edan Meyer](https://www.youtube.com/watch?v=jJDi\_Oqs30E)                                                               |
 | $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                              |
 | The spelled-out intro to language modeling: building makemore [Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo\&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\&index=2) |
+| XAI meets Natural Language Models - Larissa Haas \[PyData Südwest / Big Data BBQ] [PyData](https://www.youtube.com/watch?v=Iqs5MkG90TE)                                        |
 |                                                                                                                                                                                |
 
 ### Causal Inference
@@ -463,17 +468,18 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ### 文本生成
 
-|                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095)                                                                                               |
-| Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM)                                                                  |
-| Author Interview - Typical Decoding for Natural Language Generation [Yannic Kilcher](https://www.youtube.com/watch?v=AvHLJqtmQkE)                                    |
-| Typical Decoding for Natural Language Generation (Get more human-like outputs from language models!) [Yannic Kilcher](https://www.youtube.com/watch?v=\_EDr3ryrT\_Y) |
-| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                  |
-| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                |
-| CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                          |
-| 【[苏星河短评](https://www.douyin.com/video/7126161576586906910)】你看过的许多文章，可能根本不是人类写的                                                                                       |
-| the-good-ai [s](https://www.the-good-ai.com/)                                                                                                                        |
+|                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [生成问题常用metrics整理](https://cloud.tencent.com/developer/article/1807095)                                                                                                            |
+| Coding a story generator project in python [Code - fi](https://www.youtube.com/watch?v=SfR37WqTXcM)                                                                               |
+| Author Interview - Typical Decoding for Natural Language Generation [Yannic Kilcher](https://www.youtube.com/watch?v=AvHLJqtmQkE)                                                 |
+| Typical Decoding for Natural Language Generation (Get more human-like outputs from language models!) [Yannic Kilcher](https://www.youtube.com/watch?v=\_EDr3ryrT\_Y)              |
+| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                               |
+| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                             |
+| CodeAsPoetry/[RescueMrZhou](https://github.com/CodeAsPoetry/RescueMrZhou)   模仿生成周氏音乐教科书般的歌词                                                                                       |
+| 【[苏星河短评](https://www.douyin.com/video/7126161576586906910)】你看过的许多文章，可能根本不是人类写的                                                                                                    |
+| the-good-ai [s](https://www.the-good-ai.com/)                                                                                                                                     |
+| TensorFlow2学习：RNN生成古诗词 [蒋含竹](https://mp.weixin.qq.com/s?\_\_biz=Mzg4NDQwNTI0OQ==\&mid=2247522934\&idx=1\&sn=9152bf17f701bd7497bd60aa2e17cd8e\&source=41#wechat\_redirect) AI科技大本营 |
 
 ### 代码生成
 
