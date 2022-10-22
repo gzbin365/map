@@ -508,6 +508,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Calculus for Beginners full course \| Calculus for Machine learning [Academic Lesson](https://www.youtube.com/watch?v=8stueNPVl-I)                                                                                                                                                                            |
 | YenTung Chung [u](https://www.youtube.com/channel/UC40p-LVN6\_z6cX7Ao1xm\_QQ/videos)                                                                                                                                                                                                                          |
 | PreCalculus Full Course For Beginners　[Geek's Lesson](https://www.youtube.com/watch?v=9IOTI9ViExg)                                                                                                                                                                                                            |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p>                                                |
 
 |                                                                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------- | - |
@@ -525,29 +526,42 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Multivariable Calculus \| Surface Integrals [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzzQGucq-NmRjD9yXqs\_9i3) |
 | MIT 18.02 Multivariable Calculus, Fall 2007 MIT [OpenCourseWare](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)            |
 
-### 实变函数 Real Analysis
+### 实变函数, Real Analysis, 实分析, 实数分析
 
-|                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| [东北师范大学实变函数](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDn-YdJATxGpU5Vx47XYNDaE) Yinan Zuo                                     |
-| [实变函数 ——上海交大](https://www.youtube.com/playlist?list=PLvg2RutqSPrKufYuFeIFvkIv8R9lQnVbn) Mark Song                                     |
-| NPTEL MOOC - Introductory Course in Real Analysis '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ9BcO-3Qn9SBDW3aneSzhHB) |
-| JAN 2020 - Basic Real Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65cpVtcdj\_5SBEh6VQvC\_BvR)     |
-| Real Analysis [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1\_xaQoS)                               |
+Theory of functions of a real variable
+
+|                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 实变函数论 [wiki](https://zh.wikipedia.org/zh-cn/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E8%AE%BA)                                                                                                                                      |
+| 实变函数的核心是什么？[zh](https://www.zhihu.com/question/27710163)   实变函数有什么用？[zh](https://www.zhihu.com/question/42806968)   实变函数有哪些实际应用? [zh](https://www.zhihu.com/question/26758272)                                                  |
+| 实变函数在什么其他学科里有实际应用吗？[zh](https://www.zhihu.com/question/292506965)                                                                                                                                                               |
+| 实分析 [吾往](https://zhuanlan.zhihu.com/p/94498279)                                                                                                                                                                                 |
+| [东北师范大学实变函数](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDn-YdJATxGpU5Vx47XYNDaE) Yinan Zuo                                                                                                                               |
+| [实变函数 ——上海交大](https://www.youtube.com/playlist?list=PLvg2RutqSPrKufYuFeIFvkIv8R9lQnVbn) Mark Song                                                                                                                               |
+| NPTEL MOOC - Introductory Course in Real Analysis '17 [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ9BcO-3Qn9SBDW3aneSzhHB)                                                                                           |
+| JAN 2020 - Basic Real Analysis [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65cpVtcdj\_5SBEh6VQvC\_BvR)                                                                                               |
+| Real Analysis [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1\_xaQoS)                                                                                                                         |
+| 实变函数与泛函分析2021版视频讲解 [zhangzujin](https://www.bilibili.com/video/BV18W4y167fY/?vd\_source=11c56ae1eb9c057dd925712a9c7d022c) [zh](https://www.zhihu.com/question/42806968)                                                         |
+| 东北师范大学实变函数 [Kioptism](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDn-YdJATxGpU5Vx47XYNDaE)                                                                                                                                |
+| Riemann integral vs. Lebesgue integral [The Bright Side of Mathematics](https://www.youtube.com/watch?v=PGPZ0P1PJfw)                                                                                                            |
+| Riemann vs Lebesgue Integral [Dr Peyam](https://www.youtube.com/watch?v=HAM5MABAH70)                                                                                                                                            |
+| Lebesgue-Integral versus Riemann-Integral [Weitz / HAW Hamburg](https://www.youtube.com/watch?v=uUkDdz48myo)                                                                                                                    |
+| 實分析一 - 臺大數學系 劉豐哲 老師 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLil-R4o6jmGhz0ZC9phrjzAnZwCnzpsgx)   實分析二 - 臺大數學系 劉豐哲 老師 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLil-R4o6jmGjaMgyhoM97MENvFcU9At2e) |
 
 ### 复变函数 Complex Variables
 
-|                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| [2020政大應數複變函數論](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo) Yen-Lung Tsai                   |
-| [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                    |
-| [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star |
-| 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                       |
-| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
-| 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                  |
-| 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                 |
-| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                               |
-|                                                                                                                             |
+|                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2020政大應數複變函數論](https://www.youtube.com/playlist?list=PLpltJwWB6egICQw\_wkdat1XZH2\_r4soAo) Yen-Lung Tsai                                                                                                                                                      |
+| [复变函数论](https://www.youtube.com/playlist?list=PL000FF46663C1B0B9) lisp21                                                                                                                                                                                       |
+| [Electrical Engineering Math Concepts](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN7Mb2aAgqcao2R3s9wbBEr) Zach Star                                                                                                                                    |
+| 虚数的含义！如何理解虚数　[火星课堂](https://www.douyin.com/video/6996314779090554149)                                                                                                                                                                                          |
+| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                                                                                                                                                                  |
+| 复变函数与积分变换 [中国大学MOOC-慕课](https://www.icourse163.org/course/HUST-1001983008)                                                                                                                                                                                     |
+| 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                                                                                                                                                    |
+| How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                                                                                                                                                                  |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
+|                                                                                                                                                                                                                                                                |
 
 | 黎曼猜想                                                                                   |
 | -------------------------------------------------------------------------------------- |
@@ -577,10 +591,15 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### 测度论 Measure Theory
 
-|                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 【测度论/Measure Theory】【IMPA】Measure Theory by Claudio Landim [Octonions](https://www.bilibili.com/video/BV1EW411K7dN/?spm\_id\_from=333.788.recommend\_more\_video.3) |
-| 音乐与测度论 [3Blue1Brown](https://www.youtube.com/watch?v=cyW5z-M2yzw)                                                                                                   |
+|                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【测度论/Measure Theory】【IMPA】Measure Theory by Claudio Landim [Octonions](https://www.bilibili.com/video/BV1EW411K7dN/?spm\_id\_from=333.788.recommend\_more\_video.3)                                                                                              |
+| 音乐与测度论 [3Blue1Brown](https://www.youtube.com/watch?v=cyW5z-M2yzw)                                                                                                                                                                                                |
+| 測度的由來(5min) [王睿麒](https://www.youtube.com/watch?v=GJsHmvou\_z4)                                                                                                                                                                                                  |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p>   |
+| <p>實分析一 - 臺大數學系 劉豐哲 老師 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhz0ZC9phrjzAnZwCnzpsgx">臺大科學教育發展中心CASE</a></p><p>實分析二 - 臺大數學系 劉豐哲 老師 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGjaMgyhoM97MENvFcU9At2e">臺大科學教育發展中心CASE</a></p> |
+|                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                  |
 
 ### 调和分析
 
@@ -619,6 +638,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 教育統計學 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRCD6BGbDyCrf0mZm1hHJEl)                                                                                                                                                                                                                                                                                                  |
 | 多元統計分析(多變量分析/圖形識別) [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrT7WP9-yGVV0ep66y3MPmCv)                                                                                                                                                                                                                                                                                     |
 | 基礎統計概論含R實作 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQYj2KFUus-Z3scvBPDpWgk)                                                                                                                                                                                                                                                                                             |
+| 国防科技大学-概率论与数理统计（国家级精品课） [五味666](https://www.bilibili.com/video/BV1D4411Z7As)                                                                                                                                                                                                                                                                                                           |
 
 ### 概率 Probability
 
@@ -632,6 +652,14 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 统计学中「矩」这个概念是怎么引入的？它为什么被称为矩？它与物理意义上的矩有什么相同与不同？[zh](https://www.zhihu.com/question/19915565)                                                                  |
 | 关于赌博的魔鬼经济学 [脑洞乌托邦](https://www.youtube.com/watch?v=RFY0qeXin3I)                                                                                             |
 |                                                                                                                                                             |
+
+### 高等概率论, Advanced Probability theory
+
+|                                                                                                   |   |   |
+| ------------------------------------------------------------------------------------------------- | - | - |
+| B [search](https://search.bilibili.com/all?keyword=%E9%AB%98%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA) |   |   |
+|                                                                                                   |   |   |
+|                                                                                                   |   |   |
 
 ### 大数定律和中心极限定理
 
@@ -905,10 +933,11 @@ $$
 
 ### 点集拓扑
 
-|                                                                                                    |   |
-| -------------------------------------------------------------------------------------------------- | - |
-| [河北师范大学 点集拓扑](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnxdiBrFwBV4OFJN69VN9gk) Yinan Zuo |   |
-| [【万门大学】点集拓扑](https://www.youtube.com/playlist?list=PL0GyqFMD-UCHtul8dq--pxjtOVc4FDm27)             |   |
+|                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [河北师范大学 点集拓扑](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnxdiBrFwBV4OFJN69VN9gk) Yinan Zuo                                                                                                                                                             |
+| [【万门大学】点集拓扑](https://www.youtube.com/playlist?list=PL0GyqFMD-UCHtul8dq--pxjtOVc4FDm27)                                                                                                                                                                         |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
 
 ### 代数拓扑 algebraic topology
 
@@ -919,6 +948,17 @@ $$
 | [**Algebraic Topology - Wildberger**](https://www.youtube.com/playlist?list=PLZVYR6Rmji0rM-lZRCegNsdeVSg7-tzgC)  **** jbtg                                                                                                                 |
 | Jan 2021 - Introduction to Algebraic Topology (Part- [one](https://www.youtube.com/playlist?list=PLOzRYVm0a65cyFd02L5lWUrgID0Fy27EI) [two](https://www.youtube.com/playlist?list=PLOzRYVm0a65dTikVsI27S7V9JlvRzALJX)) IIT Bombay July 2018 |
 | Algebraic Topology [Insights into Mathematics](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)                                                                                                                                   |
+
+#### 同调论, homology theory
+
+拓扑空间“圈的同调”之直觉几何想法的公理化研究。它可以宽泛地定义为研究拓扑空间的同调理论。
+
+|                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 同调论 [zh](https://www.zhihu.com/topic/20008663/hot)                                                                                                                                                                                                             |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
+|                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                |
 
 ## 应用数学 Applied Math
 
@@ -1048,11 +1088,11 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 
 ### 常微分方程 Ordinary Differential Equations, ODE
 
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh) |
-|                                                                                                        |
-|                                                                                                        |
+|                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh)                                                                                                                                                         |
+| <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
+|                                                                                                                                                                                                                                                                |
 
 ### 拉普拉斯变换 Laplace Transform
 
