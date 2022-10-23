@@ -236,7 +236,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                             |
 | github-actions [s](https://github.com/features/actions) bot                                                                                                            |
 | GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                           |
-|                                                                                                                                                                        |
+| How To Automate Github Using Python \| PyGithub \| Easy Guide [AI Sciences](https://www.youtube.com/watch?v=QaURSdmP0o8)                                               |
 |                                                                                                                                                                        |
 
 | github.dev                                                                                                                                          |

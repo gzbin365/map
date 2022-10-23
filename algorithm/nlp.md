@@ -58,6 +58,7 @@ description: 自然语言处理
 | Stanford CS25 - Transformers United [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR\_Z27CM)                                   |
 | Transformer: Concepts, Building Block, Attention, Sample Implementation in PyTorch [Rowel Atienza](https://www.youtube.com/watch?v=6PmIoCnqcFU)                    |
 | AI论文搬砖学姐 抖音号：[21918745608](https://www.douyin.com/user/MS4wLjABAAAA0HK5iY9\_CAQBUud11RiSqBbaQX1DEl7hwvs\_A35O92m5celNHqgK7g5lAMBvzHXP)                             |
+| 2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)                                  |
 |                                                                                                                                                                    |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
 | Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
