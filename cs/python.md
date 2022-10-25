@@ -311,6 +311,7 @@
 | Image Manipulation with Python and Pillow [PyPros](https://www.youtube.com/playlist?list=PLJ1odve0o6dV0mKl0cwERv9JO1\_eqWmw-)                                                                                                                |
 | Image manipulation with Python & Pillow (2021) [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP)                                                                                                |
 | Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                      |
+| 18 - Image processing using pillow in Python [DigitalSreeni](https://www.youtube.com/watch?v=uDNqNv2N-pY\&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW\&index=3)                                                                                  |
 |                                                                                                                                                                                                                                              |
 
 | sympy                                                                                                                                                                                                                                                                            |
