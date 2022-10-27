@@ -213,6 +213,14 @@
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Getting Started With Netlify [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZXEMQORQ-l29praGOAT-KW) |
 
+### Hexo
+
+|                                                                                                   |   |   |
+| ------------------------------------------------------------------------------------------------- | - | - |
+| Hexo博客安装配置 [迷途小书童的Note](https://www.youtube.com/playlist?list=PLq9fAEr-k3Nx37LC5xRCnmmwTkXRI8V5A) |   |   |
+|                                                                                                   |   |   |
+|                                                                                                   |   |   |
+
 ## **MarkDown**
 
 |                                                                                                               |
