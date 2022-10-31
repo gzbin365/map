@@ -293,28 +293,24 @@
 |                                                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                               |
 
-| pillow                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| python-pillow/[Pillow](https://github.com/python-pillow/Pillow)   [s](https://python-pillow.org/)                                                                                                                                            |
-| pillow [doc](https://pillow.readthedocs.io/en/stable/)9.2.0,[ch](https://www.osgeo.cn/pillow/)8.4.0 [ch](https://pillow-zh-cn.readthedocs.io/zh\_CN/latest/installation.html)3.3.0  [ch](https://pillow-cn.readthedocs.io/zh\_CN/latest/)2.4 |
-| PIL.Image 源代码 [8.4.0](https://www.osgeo.cn/pillow/\_modules/PIL/Image.html)                                                                                                                                                                  |
-| 加[水印](https://www.youtube.com/watch?v=4PK4-70piZY)                                                                                                                                                                                           |
-| Python Pillow [Patrick B](https://www.youtube.com/playlist?list=PLtdTvjcat54p3P9rkHd8uWgdsKfMWVE\_U)                                                                                                                                         |
-| <p>Python Modules and Libraries <a href="https://www.youtube.com/playlist?list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg">Python Simplified</a></p><p>Image Processing with Pillow - a Python Code-Along</p>                                        |
-| Python Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)                                                                                                                                   |
-| Turn any image into ASCII art! (Easy Python PIL Tutorial) [Kite](https://www.youtube.com/watch?v=v\_raWlX7tZY)                                                                                                                               |
-| 【Python】综合知识库 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtHKkZt7eSDMRsuMIUCbxhZ)                                                                                                                                               |
-| Advanced Discord.py Tutorials [Code With Swastik](https://www.youtube.com/playlist?list=PLoFvxwcEPSPhCNdel2XcNgbgmntp4E-CE)                                                                                                                  |
-| Python (Pillow): working with images \| Hindi \| [Tech-Gram Academy](https://www.youtube.com/playlist?list=PLjC8JXsSUrrjtXUDzXqr1mj\_1iYpN2R8S)                                                                                              |
-| Python PIL Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXCayO4KZqSmym2Z\_sn6Pha)                                                                                                                        |
-| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                       |
-| Image Manipulation with Python and Pillow [PyPros](https://www.youtube.com/playlist?list=PLJ1odve0o6dV0mKl0cwERv9JO1\_eqWmw-)                                                                                                                |
-| Image manipulation with Python & Pillow (2021) [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP)                                                                                                |
-| Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                      |
-| 18 - Image processing using pillow in Python [DigitalSreeni](https://www.youtube.com/watch?v=uDNqNv2N-pY\&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW\&index=3)                                                                                  |
-|                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| pillow [doc](https://pillow.readthedocs.io/en/stable/), [水印](https://www.youtube.com/watch?v=4PK4-70piZY), [ch](https://pillow-zh-cn.readthedocs.io/zh\_CN/latest/installation.html) [ch](https://www.osgeo.cn/pillow/) [ch](https://pillow-cn.readthedocs.io/zh\_CN/latest/) |
+| Python Pillow [Patrick B](https://www.youtube.com/playlist?list=PLtdTvjcat54p3P9rkHd8uWgdsKfMWVE\_U)                                                                                                                                                                          |
+| Python Modules and Libraries [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg)                                                                                                                                                    |
+| Python Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)                                                                                                                                                                    |
+| Turn any image into ASCII art! (Easy Python PIL Tutorial) [Kite](https://www.youtube.com/watch?v=v\_raWlX7tZY)                                                                                                                                                                |
+| 【Python】综合知识库 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtHKkZt7eSDMRsuMIUCbxhZ)                                                                                                                                                                                |
+| Advanced Discord.py Tutorials [Code With Swastik](https://www.youtube.com/playlist?list=PLoFvxwcEPSPhCNdel2XcNgbgmntp4E-CE)                                                                                                                                                   |
+| Python (Pillow): working with images \| Hindi \| [Tech-Gram Academy](https://www.youtube.com/playlist?list=PLjC8JXsSUrrjtXUDzXqr1mj\_1iYpN2R8S)                                                                                                                               |
+| Python PIL Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXCayO4KZqSmym2Z\_sn6Pha)                                                                                                                                                         |
+| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                                                        |
+| Image Manipulation with Python and Pillow [PyPros](https://www.youtube.com/playlist?list=PLJ1odve0o6dV0mKl0cwERv9JO1\_eqWmw-)                                                                                                                                                 |
+| Image manipulation with Python & Pillow (2021) [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP)                                                                                                                                 |
+| Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                               |
 
-| sympy                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | sympy([s](https://www.sympy.org/en/index.html), [doc](https://docs.sympy.org/latest/index.html), [git](https://github.com/sympy/sympy), ) [v](https://www.youtube.com/playlist?list=PLsaLbFPkNd56genYTbFN1OLAqfXKosbTz) [v](https://www.youtube.com/results?search\_query=Sympy) |
 | SymPy - Tutorial for Beginners (Python) [MCC Py Tutorials](https://www.youtube.com/watch?v=MGLFA7WjK7M)                                                                                                                                                                          |
@@ -660,7 +656,7 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 |                                                   |                                                                                      |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | AceJump [git](https://github.com/acejump/AceJump) | JetBrains/intellij-community [git](https://github.com/JetBrains/intellij-community/) |
-| [down](https://www.jetbrains.com/idea/download)   | JetBrainsTV [u](https://www.youtube.com/user/JetBrainsTV)                            |
+| [down](https://www.jetbrains.com/idea/download)   |                                                                                      |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -852,7 +848,7 @@ Python高性能编程
 | 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                                               |
 | Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                                         |
 | python Tornado [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb8BGGU7JgaTAZBGHOGAmDa)                                                          |
-|                                                                                                                                                           |
+| Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                                          |
 | Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI)                       |
 | Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)                                   |
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                   |
@@ -883,7 +879,6 @@ Python高性能编程
 
 |                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                                                                                                                                                                                                                                       |
 | 不扯淡Python爬虫学习路线 （2021） [麦叔编程](https://www.youtube.com/watch?v=yKLfMjtTKak)                                                                                                                                                                                                                                                                             |
 | 崔庆才\_Python3爬虫入门到精通课程视频 34课 [true while](https://www.youtube.com/playlist?list=PLc8\_TkmqkE4Pe1P4spQoivMiDwVyYPvR1)                                                                                                                                                                                                                                    |
 | 爬虫基础教学 (Python Scraping 教程) [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cIuXEgV-mvYWRd\_hVC43Akk)                                                                                                                                                                                                                                      |
@@ -926,13 +921,7 @@ Python Sockets Simply Explained [NeuralNine](https://www.youtube.com/watch?v=YwW
 
 File Transfer via Sockets in Python [NeuralNine](https://www.youtube.com/watch?v=qFVoMo6OMsQ)
 
-Using IPv6 Sockets in Python [NeuralNine](https://www.youtube.com/watch?v=BoIDEMerNn0)
-
-TCP vs UDP Sockets in Python [NeuralNine](https://www.youtube.com/watch?v=esLgiMLbRkI)
-
 Android Chat App in Python [NeuralNine](https://www.youtube.com/watch?v=pGolbRsvgnA)
-
-Python For Networking [NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1FwBSNR\_tH7qVbNpYHL4IQs)
 
 Python 3 Basics Tutorial Series [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
