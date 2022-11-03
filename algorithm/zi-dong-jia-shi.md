@@ -29,6 +29,7 @@ description: Self-Driving
 | 自動駕駛課程2-模擬器carla [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JjtrIgqDdgqJzS9aJyKPIc)                                                                   |
 | Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning [freeCodeCamp](https://www.youtube.com/watch?v=Rs\_rAxEsAvI)                        |
 | Self-driving car - Javascript course Radu [Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)                             |
+| Self-driving car - No libraries - JavaScript course \[Full, Live & In Color!] [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=NUjN2Mln\_Gg)                |
 | Tesla的‘向量空间’是怎么实现的？[米斯特老古](https://www.youtube.com/watch?v=Lg0NYdTcTno)                                                                                            |
 | Tesla和自动驾驶 [米斯特老古](https://www.youtube.com/playlist?list=PLUhjfqlpiZ6Sn7ZgRtKJlhnQ6zQ\_jMFwl)                                                                      |
 | 自动驾驶技术是个啥？李永乐老师告诉你靠不靠谱 [李永乐老师](https://www.youtube.com/watch?v=g-LlyjdnjSM)                                                                                        |
