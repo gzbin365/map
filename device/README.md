@@ -901,7 +901,7 @@ System on Chip, 系统级芯片
 | Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) | Brick Technology [u](https://www.youtube.com/c/BrickTechnology)            |
 | Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV)        |
 | NDA Hack [u](https://www.youtube.com/c/NDAHack)                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)                |
-|                                                                                          | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
+| 炒蛋車間長 [u](https://www.youtube.com/channel/UCdiBe17AIxwy6aI2fQ\_-sVQ)                     | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
 
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
@@ -911,10 +911,10 @@ System on Chip, 系统级芯片
 
 ## 芯片Chip 半导体
 
-|                                                                                                                    |                                                                      |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists)     |
-| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) | 炒蛋車間長 [u](https://www.youtube.com/channel/UCdiBe17AIxwy6aI2fQ\_-sVQ) |
+|                                                                                                                    |                                                                  |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists) |
+| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |                                                                  |
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
@@ -1017,6 +1017,14 @@ System on Chip, 系统级芯片
 | 控制器输入 - Pygame 教程 [大蓬松土豆](https://www.youtube.com/watch?v=Hp0M8iExfDc)                                 |
 | Pygame Tutorial - Controller Support [ScriptLine Studios](https://www.youtube.com/watch?v=C0rc2wcRoGU) |
 |                                                                                                        |
+
+### 音箱/音响
+
+|               |   |   |
+| ------------- | - | - |
+| 马歇尔（Marshall） |   |   |
+|               |   |   |
+|               |   |   |
 
 ### 耳机
 
