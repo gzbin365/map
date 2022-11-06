@@ -223,7 +223,6 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                           |
 | 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P\_sRLUXvx9ViyU8Qu9sFn6qo4w)   老于数学之家 |
 | 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA)                                                    |
-| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                             |
 
 ## 竞赛
 
@@ -562,7 +561,6 @@ Theory of functions of a real variable
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                                                                                                                                                    |
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                                                                                                                                                                  |
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
-| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                |
 
 | 黎曼猜想                                                                                   |
@@ -615,16 +613,11 @@ Theory of functions of a real variable
 
 |                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 变分法, 即为泛函的极值问题 [s](https://blog.csdn.net/shenziheng1/article/details/54808173)                                                                                              |
 | 变分法(PengTitus) [Pharaohsxh](https://www.youtube.com/playlist?list=PL090BE404EFE679E9) [Mark Song](https://www.youtube.com/playlist?list=PLvg2RutqSPrLvR7z5B3SdeYUnjWkm2Ygo) |
 | 高等数学\_变分法线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PLC47FEEDB6F5FB460)                                                                             |
 | 变分法基础 [Wenlong Li](https://www.youtube.com/playlist?list=PLsWSH3tyoIE5eKzrzD-y1sPi2BDU2Kzfe)                                                                                |
 | 变分法课程全集 [阿尔伯特oxo爱因斯坦](https://www.bilibili.com/video/BV1Jv41147Q4?from=search\&seid=3721252605974714008) 1：34：44                                                            |
 | Variational Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoN\_6X932U\_-ZlHKdInFrUV)                                                                     |
-| 为什么最速降线是摆线？它和费马原理以及变分法又有啥关系？ [妈咪说MommyTalk](https://www.youtube.com/watch?v=VRLtNLTPFCY)                                                                                    |
-| 数学家有嫉妒心是有多可怕？李永乐老师讲最速降线和伯努利家族“宫斗” [李永乐老师](https://www.youtube.com/watch?v=GKetjzfQG70)                                                                                      |
-| 變分學導論 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFviK2-k7f-XjBLx3\_37BPoP)                                                                                 |
-|                                                                                                                                                                             |
 
 ## 概率 & 统计
 
@@ -1275,12 +1268,10 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 |                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
 | [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J) **** 中国大学MOOC-慕课 |
-| 离散数学概论 - 北京大学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)                   |
 | **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**          |
 | **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**      |
 | [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course                |
 | 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)                |
-|                                                                                                                  |
 
 ##
 
@@ -1430,7 +1421,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | “北大天才”韦东奕：13年前采访视频曝光，个性十足。[莎莎剧场](https://www.youtube.com/watch?v=eh0T4kuw9Io)                                                                                                                                                                                                                                                                                                                                   |
 | <p>拒绝百万奖金的天才数学家 <a href="https://www.douyin.com/video/7015149907686280478">上</a> <a href="https://www.douyin.com/video/7015151440926706957">下</a> 庞家来猜想 俄罗斯传奇数学家</p><p>俄罗斯传奇数学家　格里戈里.佩雷尔曼 Grisha Perelman</p><p>庞家来猜想(实际更广的Thurston几何化猜想)</p><p>拒绝菲尔兹奖，放弃百万美元奖金，只想回乡下当宅男 <a href="https://www.douyin.com/video/6970926855490653476">dy</a> <a href="https://www.youtube.com/watch?v=PGH9JC6br-0">u</a> 天才简史</p> |
 | <p>佩雷尔曼解决了数学百年难题，却拒绝菲尔兹奖和100万美元的奖金 <a href="https://www.youtube.com/watch?v=N6mLOjhildk">世界名人榜</a></p><p>一位數學天才拒絕了1百萬美金，過著每月100美金的生活 <a href="https://www.youtube.com/watch?v=0HpTefBahDk">亮生活 / Bright Side</a></p>                                                                                                                                                                                            |
-| 四大数学家: “数学之神”阿基米德，“经典力学之父”牛顿，“数学英雄”欧拉，“数学王子”高斯                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 天才简史 [u](https://www.youtube.com/channel/UCWUpR9fQRRRdk0HgjqE27tg/videos)   费兹克斯的编年史 抖音号：[polyidiot](https://www.douyin.com/user/MS4wLjABAAAAR7k7VtO72SEgwd7ky\_Xk-byuw34CUrh70PhIy9DltxA)   胡晓闲 抖音号：[1161120920](https://www.douyin.com/user/MS4wLjABAAAAOsswd\_\_SH6U\_oLqj5LrZ8FYcaMTrExMwzkMmoolsCqg)                                                                                                       |
 | 哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？[妈咪说MommyTalk](https://www.youtube.com/watch?v=FVZaOTi6ZbE)                                                                                                                                                                                                                                                                                                                       |
