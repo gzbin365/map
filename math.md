@@ -623,6 +623,8 @@ Theory of functions of a real variable
 | Variational Inference [徐亦达](https://www.youtube.com/playlist?list=PLyAft-JyjIYoN\_6X932U\_-ZlHKdInFrUV)                                                                     |
 | 为什么最速降线是摆线？它和费马原理以及变分法又有啥关系？ [妈咪说MommyTalk](https://www.youtube.com/watch?v=VRLtNLTPFCY)                                                                                    |
 | 数学家有嫉妒心是有多可怕？李永乐老师讲最速降线和伯努利家族“宫斗” [李永乐老师](https://www.youtube.com/watch?v=GKetjzfQG70)                                                                                      |
+| 變分學導論 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFviK2-k7f-XjBLx3\_37BPoP)                                                                                 |
+|                                                                                                                                                                             |
 
 ## 概率 & 统计
 
@@ -1273,10 +1275,12 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 |                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
 | [**离散数学-刘铎（北京交通大学）**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbFoinAoJXoNAAiGRuPLm4J) **** 中国大学MOOC-慕课 |
+| 离散数学概论 - 北京大学 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)                   |
 | **離散數學演習課(**[**陳昭瑋老師**](https://www.youtube.com/playlist?list=PLXaxdCYxDh-Wq9tJADENhl8qisY\_MvAj7)**)**          |
 | **离散数学概论 - 北京大学(**[**刘先生**](https://www.youtube.com/playlist?list=PLFI1Cd4723\_TJCQGLVcykkgXrl8O5-IPR)**)**      |
 | [离散数学 北京大学](https://www.youtube.com/playlist?list=PLgvxkXbWub7iBEq3F7M3oR9uTXL5VR-si) Free Course                |
 | 离散数学导论 [早稻田大学桃子早稻田实验室](https://www.youtube.com/playlist?list=PLCo60G1m\_ibpJgfB4WcGwWybC6sfyawoL)                |
+|                                                                                                                  |
 
 ##
 
