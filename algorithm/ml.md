@@ -240,7 +240,6 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | TensorFlow Lite 视频系列教程 [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwFS5vSa9oV48AOdzfJwxXH)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | TensorFlow 2 Beginner Course [Python Engineer](https://www.youtube.com/playlist?list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Deep Learning for JavaScript Hackers \| Use TensorFlow.js in the Browser [Venelin Valkov](https://www.youtube.com/playlist?list=PLEJK-H61XlwyeHtg7xtg7p32vTex8zFue)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Made with TensorFlow.js [TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | TensorFlow And Keras Tutorial \| Deep Learning With TensorFlow & Keras \| Deep Learning \| [Simplilearn](https://www.youtube.com/watch?v=eK0tvVRMDgw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 联想拯救者R9000P安装Ubuntu 21.04系统及运行TensorFlow1.X代码 [csdn](https://blog.csdn.net/bkipp/article/details/116810689#44\_\_78)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Tensorflow [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B5PFE9RvKOQ-v74KDjjKF-H)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -604,7 +603,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 ## 算法
 
-奥卡姆剃刀原理(ccam's razor) [严伯钧](https://www.douyin.com/video/7035859509524303111) [v](https://www.youtube.com/watch?v=simAaP2QeEI\&list=PLFI1Cd4723\_RYjEyJtPidHKhdvPAHJ-w1\&index=3)8:33 entities should not be multi-plied beyond necessity
+奥卡姆剃刀原理 [严伯钧](https://www.douyin.com/video/7035859509524303111)
 
 **LightGBM(**[**site**](https://lightgbm.readthedocs.io/en/latest/)**,** [**paper**](https://papers.nips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)**,** [**github**](https://github.com/microsoft/LightGBM)**,** [**wiki**](https://en.wikipedia.org/wiki/LightGBM)**,** [**pypi**](https://pypi.org/project/lightgbm/)**)**
 
@@ -1006,8 +1005,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 169 - Deep Learning made easy with AutoKeras [DigitalSreeni](https://www.youtube.com/watch?v=Tm5ywTVho3U)                     |
 | 171 - AutoKeras for image classification using cifar10 data set [DigitalSreeni](https://www.youtube.com/watch?v=MKr2RQ\_DqJE) |
 | Automated Deep Learning with AutoKeras [Data Heroes](https://www.youtube.com/watch?v=PMhOSwqHZeQ)                             |
-| I tried building a AUTO MACHINE LEARNING Web App 15 Minutes [Nicholas Renotte](https://www.youtube.com/watch?v=xTKoyfCQiiU)   |
-|                                                                                                                               |
 
 
 
@@ -1065,17 +1062,13 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 |                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chaoyang He [u](https://www.youtube.com/channel/UCitUvawrBSCUVWxcnhxaBGg/playlists)   no瞎哔哔 [B](https://space.bilibili.com/96194920)                         |
+| Chaoyang He [u](https://www.youtube.com/channel/UCitUvawrBSCUVWxcnhxaBGg/playlists)                                                                          |
 | 联邦学习：技术角度的讲解（中文）Introduction to Federated Learning [Shusen Wang](https://www.youtube.com/watch?v=STxtRucv\_zo)                                               |
 | 杨强 \| 用户隐私，数据孤岛和联邦学习 [清华大学智能产业研究院](https://www.youtube.com/watch?v=hfcVQCXGPvs)                                                                              |
 | 刘洋丨联邦学习的技术挑战和应用展望 [清华大学智能产业研究院](https://www.youtube.com/watch?v=3uM7vpF\_GEw)                                                                                |
 | 分布式机器学习 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5)                                                              |
 | FedML联邦机器学习开源框架视频教程全集 [Chaoyang He](https://www.youtube.com/playlist?list=PLyJHWqVYebOqsLrROg3S4Iv3UTxtUTMBz)                                                |
 | \[Tutorial] FedML: a research library for federated machine learning [Chaoyang He](https://www.youtube.com/playlist?list=PLyJHWqVYebOqNZzN7EpQQp7VG6qzgkgP8) |
-| 90秒入门联邦学习 Federated learning [微软智汇AI](https://www.bilibili.com/video/BV1bV411n7Ui)                                                                           |
-| 什么是联邦学习（Federated Learning）？【知多少】 [KnowingAI知智](https://www.bilibili.com/video/BV1ub4y1Z7aM)                                                                 |
-| 详解联邦学习Federated Learning - 知乎 [机器朗读](https://www.bilibili.com/video/BV1WV411J7CN)                                                                            |
-| 联邦学习与个性化联邦学习 [感知互联与数据智能](https://www.bilibili.com/video/BV1Ba411E7Nm)                                                                                        |
 |                                                                                                                                                              |
 
 ### AB测试 A/B testing
@@ -1136,20 +1129,11 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ### 变分推断 Variational Inference
 
-|                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 通常在研究贝叶斯模型中，需要去求解一个后验概率(Posterior)分布，但是由于求解过程的复杂性，因此很难根据贝叶斯理论求得后验概率分布的公式精确解，所以一种方法是用一个近似解来替代精确解，并使得近似解和精确解的差别不会特别大。一般求解近似解的方法有两种：第一种是基于随机采样的方法，比如用蒙特卡洛采样法去近似求解一个后验概率分布；第二种就是变分贝叶斯推断法。变分贝叶斯法是一类用于贝叶斯估计和机器学习领域中近似计算复杂积分的技术。它关注的是如何去求解一个近似后验概率分布。[s](https://blog.csdn.net/weixin\_43509834/article/details/106366094) |
-| <p>Variational Inference: Foundations and Modern Methods (NIPS 2016 tutorial)</p><p><a href="https://www.youtube.com/watch?v=ogdv_6dbvVQ">Steven Van Vaerenbergh</a></p>                                                                                                                                            |
-| 如何简单易懂地理解变分推断(variational inference)？ [zh](https://www.zhihu.com/question/41765860)                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                     |
-
-### 变分自编码
-
-|                                                                            |   |   |
-| -------------------------------------------------------------------------- | - | - |
-| 变分推断与变分自编码器 [s](https://blog.csdn.net/rosefun96/article/details/102743325) |   |   |
-|                                                                            |   |   |
-|                                                                            |   |   |
+|                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Variational Inference: Foundations and Modern Methods (NIPS 2016 tutorial)</p><p><a href="https://www.youtube.com/watch?v=ogdv_6dbvVQ">Steven Van Vaerenbergh</a></p> |
+|                                                                                                                                                                          |
+|                                                                                                                                                                          |
 
 ### 其他
 
@@ -1279,8 +1263,6 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Diffusion models from scratch in PyTorch [DeepFindr](https://www.youtube.com/watch?v=a4Yfz2FxXiY)                                                                                                                                                                                                     |
 | JEPA - A Path Towards Autonomous Machine Intelligence (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=jSdHmImyUjk)                                                                                                                                                                 |
 | Google's DreamFusion AI: Text to 3D sentdexGoogle's DreamFusion AI: Text to 3D [sentdex](https://www.youtube.com/watch?v=zWD5ZR5GtJM)                                                                                                                                                                 |
-| I tried to build a REACT STABLE DIFFUSION App in 15 minutes [Nicholas Renotte](https://www.youtube.com/watch?v=3l16wCsDglU)                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                       |
 
 ## 基础模型 Foundation Models
 

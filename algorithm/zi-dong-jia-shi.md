@@ -4,11 +4,11 @@ description: Self-Driving
 
 # 自动驾驶
 
-|                                                                              |                                                       |                                                                                                                                     |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Tesla [s](https://www.tesla.com/) [git](https://github.com/teslamotors)      | Tesla Daily [u](https://www.youtube.com/c/TeslaDaily) | 小明说驾车 抖音号：[42596461288](https://www.douyin.com/user/MS4wLjABAAAA8LjfXSjKmfUX\_eTiM7cMNAC-58rENiuYnsSMUvsRhrK4JB2ocI9Q\_5twofZF6OoP) |
-| Mr. Automotive [u](https://www.youtube.com/channel/UCG8omlanQc2vk74ctSXFBiQ) |                                                       |                                                                                                                                     |
-|                                                                              |                                                       |                                                                                                                                     |
+|                                                                         |                                                       |                                                                                                                                     |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Tesla [s](https://www.tesla.com/) [git](https://github.com/teslamotors) | Tesla Daily [u](https://www.youtube.com/c/TeslaDaily) | 小明说驾车 抖音号：[42596461288](https://www.douyin.com/user/MS4wLjABAAAA8LjfXSjKmfUX\_eTiM7cMNAC-58rENiuYnsSMUvsRhrK4JB2ocI9Q\_5twofZF6OoP) |
+|                                                                         |                                                       |                                                                                                                                     |
+|                                                                         |                                                       |                                                                                                                                     |
 
 |                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -29,7 +29,6 @@ description: Self-Driving
 | 自動駕駛課程2-模擬器carla [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JjtrIgqDdgqJzS9aJyKPIc)                                                                   |
 | Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning [freeCodeCamp](https://www.youtube.com/watch?v=Rs\_rAxEsAvI)                        |
 | Self-driving car - Javascript course Radu [Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)                             |
-| Self-driving car - No libraries - JavaScript course \[Full, Live & In Color!] [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=NUjN2Mln\_Gg)                |
 | Tesla的‘向量空间’是怎么实现的？[米斯特老古](https://www.youtube.com/watch?v=Lg0NYdTcTno)                                                                                            |
 | Tesla和自动驾驶 [米斯特老古](https://www.youtube.com/playlist?list=PLUhjfqlpiZ6Sn7ZgRtKJlhnQ6zQ\_jMFwl)                                                                      |
 | 自动驾驶技术是个啥？李永乐老师告诉你靠不靠谱 [李永乐老师](https://www.youtube.com/watch?v=g-LlyjdnjSM)                                                                                        |

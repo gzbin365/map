@@ -223,6 +223,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                           |
 | 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P\_sRLUXvx9ViyU8Qu9sFn6qo4w)   老于数学之家 |
 | 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA)                                                    |
+| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                             |
 
 ## 竞赛
 
@@ -561,6 +562,7 @@ Theory of functions of a real variable
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG-Mpv1wGOMBcjnc2fZKfxcj)」复变函数系列(Complex Variables)                                                                                                                                                    |
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                                                                                                                                                                  |
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
+| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                |
 
 | 黎曼猜想                                                                                   |
