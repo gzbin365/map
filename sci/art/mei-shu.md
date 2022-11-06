@@ -141,11 +141,11 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 </details>
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE) |
-| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                             |
-|                                                                                              |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE)                   |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                               |
+| Photoshop CS6 平面設計基礎教學 [Miss SWEET](https://www.youtube.com/playlist?list=PLY0r2Sr\_mOaqUNncMpGq9mgoweGT-Mmnq) |
 
 ## 3D 建模
 
