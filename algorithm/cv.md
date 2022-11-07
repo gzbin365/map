@@ -326,6 +326,7 @@ import cv2
 | 只要你在社交平台发了照片，这个AI就能利用开放式摄像头找到你摆拍的全过程 [量子位](https://www.douyin.com/video/7143923762381999390)                                                                                                                                                                                             |
 | Coding an Object Detection App in 15 mins [Nicholas Renotte](https://www.youtube.com/watch?v=msGOrJIMGy8)                                                                                                                                                                                |
 | DETR: End-to-End Object Detection with Transformers (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=T35ba\_VXkMY)                                                                                                                                                     |
+| 2 Faster R-CNN Architecture [Ardian Umam](https://www.youtube.com/watch?v=c1\_g6tw69bU)                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
