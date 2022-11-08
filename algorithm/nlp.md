@@ -51,6 +51,7 @@ description: 自然语言处理
 | RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                |
 | Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                              |
 | BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
+| Transformer Neural Networks - an Overview! [CodeEmporium](https://www.youtube.com/watch?v=O3xbVmpdJwU)                                                             |
 | ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
 | Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
 | Vectors In Transformer Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=l4is4uHvKlU)                                                                 |
@@ -58,6 +59,26 @@ description: 自然语言处理
 | Stanford CS25 - Transformers United [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR\_Z27CM)                                   |
 | Transformer: Concepts, Building Block, Attention, Sample Implementation in PyTorch [Rowel Atienza](https://www.youtube.com/watch?v=6PmIoCnqcFU)                    |
 | AI论文搬砖学姐 抖音号：[21918745608](https://www.douyin.com/user/MS4wLjABAAAA0HK5iY9\_CAQBUud11RiSqBbaQX1DEl7hwvs\_A35O92m5celNHqgK7g5lAMBvzHXP)                             |
+| 2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)                                  |
+| What are Transformer Neural Networks? [Ari Seff](https://www.youtube.com/watch?v=XSSTuhyAmnI)                                                                      |
+| Transformers, explained: Understand the model behind GPT, BERT, and T5 [Google Cloud Tech](https://www.youtube.com/watch?v=SZorAJ4I-sA)                            |
+| What are Transformers (Machine Learning Model)? [IBM Technology](https://www.youtube.com/watch?v=ZXiruGOCn9s)                                                      |
+| Transformers for beginners \| What are they and how do they work [AssemblyAI](https://www.youtube.com/watch?v=\_UVfwBqcnbM)                                        |
+| Illustrated Guide to Transformers Neural Network: A step by step explanation [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=4Bdc55j80l8)          |
+| Transformer models: Encoder-Decoders [HuggingFace](https://www.youtube.com/watch?v=0\_4KEb08xrE)                                                                   |
+| Transformer models: Encoders [HuggingFace](https://www.youtube.com/watch?v=MUqNwgPjJvQ)                                                                            |
+| Transformer Positional Embeddings With A Numerical Example. [Machine Learning with Pytorch](https://www.youtube.com/watch?v=-jze8IC-hI0)                           |
+| Postitional Encoding [CIS 522 - Deep Learning](https://www.youtube.com/watch?v=FoRWkEAJDtg)                                                                        |
+| Will Transformers Replace CNNs in Computer Vision? + NVIDIA GTC Giveaway [What's AI by Louis Bouchard](https://www.youtube.com/watch?v=QcCJJOLCeJQ)                |
+| Vision Transformer and its Applications [Open Data Science](https://www.youtube.com/watch?v=hPb6A92LROc)                                                           |
+| DeepAI-Quickie - Vision Transformer Attention [EscVM](https://www.youtube.com/watch?v=I3VnY01JpSo)                                                                 |
+| Transformers [feather](https://www.youtube.com/playlist?list=PLQWPycXvOsB-2rylhr9ltoWuvybuGKBHD)                                                                   |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
 |                                                                                                                                                                    |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                |
 | Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
@@ -74,6 +95,11 @@ description: 自然语言处理
 | 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                |
 | Introduction to transformer architecture and discussion [MITCBMM](https://www.youtube.com/watch?v=Smav86u60FM)                                                     |
 | Transformers in Vision: From Zero to Hero [AICamp](https://www.youtube.com/watch?v=J-utjBdLCTo)                                                                    |
+| BERT Explained! [Connor Shorten](https://www.youtube.com/watch?v=OR0wfP2FD3c)                                                                                      |
+| What is BERT and how does it work? \| A Quick Review [AssemblyAI](https://www.youtube.com/watch?v=6ahxPTLZxU8)                                                     |
+| Transfer learning and Transformer models (ML Tech Talks) [TensorFlow](https://www.youtube.com/watch?v=LE3NfEULV6k)                                                 |
+|                                                                                                                                                                    |
+|                                                                                                                                                                    |
 |                                                                                                                                                                    |
 
 #### Hugging Face
@@ -160,6 +186,17 @@ LDA 文档聚类 plsa lsa
 | Step-by-Step Natural Language Processing: From Data to Deployment [DeepLearningAI](https://www.youtube.com/watch?v=D9hY8pZe7hk)                                                                                                               |
 | NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
 | What have AI language models learned? [TensorFlow](https://www.youtube.com/watch?v=4jGiw1zpbqg) [site](https://pair.withgoogle.com/explorables)                                                                                               |
+| What is the BLEU metric? [HuggingFace](https://www.youtube.com/watch?v=M05L1DhFqcw)                                                                                                                                                           |
+
+#### spaCy
+
+Industrial-Strength Natural Language Processing
+
+|                        |                                                                                                                                           |   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | - |
+| [s](https://spacy.io/) | [usage](https://spacy.io/usage) [models](https://spacy.io/usage/models) [API](https://spacy.io/api) [universe](https://spacy.io/universe) |   |
+|                        |                                                                                                                                           |   |
+|                        |                                                                                                                                           |   |
 
 | NLP自然语言处理集训营                                                                         |                                                                                     |                                                                                     |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -412,9 +449,31 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Attention
 
-|                                                                                         |   |
-| --------------------------------------------------------------------------------------- | - |
-| Attention Is All You Need [Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro) |   |
+|                                                                                                        |                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Attention Is All You Need [Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro)                | Attention in Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=W2rWgXJBZhU)                                              |
+| Attention Mechanism \| Deep Learning [TwinEd Productions](https://www.youtube.com/watch?v=wj3ZYbKKUHI) | 台大資訊 深度學習之應用 \| ADL 7.1: Attention Mechanism 注意力機制 [Vivian NTU MiuLab](https://www.youtube.com/watch?v=YJYcMLq1\_f4)                  |
+| C5W3L07 Attention Model Intuition [DeepLearningAI](https://www.youtube.com/watch?v=SysgYptB198)        | 225 - Attention U-net. What is attention and why is it needed for U-Net? [DigitalSreeni](https://www.youtube.com/watch?v=KOF38xAvo8I) |
+| Attention Mechanism \| Deep Learning [TwinEd Productions](https://www.youtube.com/watch?v=wj3ZYbKKUHI) | Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention [Rasa](https://www.youtube.com/watch?v=yGTUuEx3GkA)            |
+| Attention Mechanism In a nutshell [Halfling Wizard](https://www.youtube.com/watch?v=oMeIDqRguLY)       | ADL Lecture 6.3: Multi-Head Attention (20/04/07) [Vivian NTU MiuLab](https://www.youtube.com/watch?v=2yb186AfjX0)                     |
+|                                                                                                        |                                                                                                                                       |
+|                                                                                                        |                                                                                                                                       |
+
+### Self-attention
+
+|                                                                                                        |                                                                                                                      |                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【機器學習2021】自注意力機制 (Self-attention) (上) [Hung-yi Lee](https://www.youtube.com/watch?v=hYdO9CscNes)       | 【機器學習2021】自注意力機制 (Self-attention) (下) [Hung-yi Lee](https://www.youtube.com/watch?v=gmsMY5kc-zw)                     | ADL Lecture 6.2: Self Attention 新注意力機制 (20/04/07) [Vivian NTU MiuLab](https://www.youtube.com/watch?v=kPXcpcc98CA)                                                                |
+| Self-attention in deep learning (transformers) [AI Bites](https://www.youtube.com/watch?v=8fIJk1lJ4aE) | Intuition Behind Self-Attention Mechanism in Transformer Networks [Ark](https://www.youtube.com/watch?v=g2BRIuln4uc) | Andrew Ng: "Deep Learning, Self-Taught Learning and Unsupervised Feature Learning" [Institute for Pure & Applied Mathematics (IPAM)](https://www.youtube.com/watch?v=pfFyZY1RPZU) |
+|                                                                                                        |                                                                                                                      |                                                                                                                                                                                   |
+
+## 半监督 弱监督 Semi Supervised Learning
+
+|                                                                                                                                                                     |                                                                                                       |                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Semi Supervised Learning \| Machine learning [Analytics University](https://www.youtube.com/watch?v=tVsVmy6w7FE)                                                    | Semi-supervised Learning explained [deeplizard](https://www.youtube.com/watch?v=b-yhKUINb7o)          | Supervised vs. Unsupervised Learning [IBM Technology](https://www.youtube.com/watch?v=W01tIRP\_Rqs)                                                |
+| SEMI-SUPERVISED LEARNING (COMBINING SUPERVISED & UNSUPERVISED LEARNING ) \|\| MACHINE LEARNING [Analytics University](https://www.youtube.com/watch?v=z\_mS8yik8Zs) | Semi - Supervised learning, in Hindi [Mukul Kirti Verma](https://www.youtube.com/watch?v=rH9JUaj0ctQ) | Introduction to Unsupervised and Semi-Supervised Learning in TensorFlow - PyData Global 2021 [PyData](https://www.youtube.com/watch?v=yjRm174OVq0) |
+|                                                                                                                                                                     |                                                                                                       |                                                                                                                                                    |
 
 ### GPT
 

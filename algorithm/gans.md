@@ -12,10 +12,22 @@ description: Generative Adversarial Network (GAN)
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 125 - What are Generative Adversarial Networks (GAN)? [DigitalSreeni](https://www.youtube.com/watch?v=xBX2VlDgd4I)                                                           |
+| 126 - Generative Adversarial Networks (GAN) using keras in python [DigitalSreeni](https://www.youtube.com/watch?v=Mng57Tj18pc)                                               |
+| 247 - Conditional GANs and their applications [DigitalSreeni](https://www.youtube.com/watch?v=W5NPlZzebO0)                                                                   |
+| 248 - keras implementation of GAN to generate cifar10 images [DigitalSreeni](https://www.youtube.com/watch?v=TXy5wZknie8)                                                    |
+| 249 - keras implementation of Conditional GAN (cifar10 data set) [DigitalSreeni](https://www.youtube.com/watch?v=MAMSh5kVoec)                                                |
+| 257 - Exploring GAN latent space to generate images with desired features​ [DigitalSreeni](https://www.youtube.com/watch?v=iuQ\_f3W5Ttk)                                     |
+| Belajar Generative Adversarial Networks (GAN) bersama Risman Adnan (Director Samsung R\&D Indonesia) [BISA AI Academy](https://www.youtube.com/watch?v=A4MfiALK7LU)          |
+| Generative Adversarial Networks - FUTURISTIC & FUN AI ! [CodeEmporium](https://www.youtube.com/watch?v=O8LAi6ksC80)                                                          |
+| Understand the Math and Theory of GANs in \~ 10 minutes [WelcomeAIOverlords](https://www.youtube.com/watch?v=J1aG12dLo4I)                                                    |
+| The Math Behind Generative Adversarial Networks Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=Gib\_kiXgnvA)                                           |
 | What are GANs (Generative Adversarial Networks)? [IBM Technology](https://www.youtube.com/watch?v=TpMIssRdhco)                                                               |
+| Ian Goodfellow, Research Scientist OpenAI : Generative Adversarial Networks (GANs) #AIWTB 2016 [With The Best](https://www.youtube.com/watch?v=HN9NRhm9waY)                  |
 | GANs [RE•WORK](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lLH6Ru8peDrG2HoWyycbFR)                                                                                     |
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                          |
 | Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                          |
+| Tutorial on Generative adversarial networks - Introduction [ComputerVisionFoundation Videos](https://www.youtube.com/watch?v=sgHdUYHGvtA)                                    |
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                           |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd) |
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                            |

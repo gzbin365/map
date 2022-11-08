@@ -194,6 +194,7 @@ description: 机器学习
 | **Data Science Courses(**[**u2b**](https://www.youtube.com/c/DataScienceCoursesUW/playlists)**, )**                                                                                                                                               | APMonitor.com [u](https://www.youtube.com/c/APMonitorCom/playlists)                                            |
 | Ken Jee [u](https://www.youtube.com/c/KenJee1/playlists)                                                                                                                                                                                          | 小旭学长 [u](https://www.youtube.com/channel/UCF0DRqniKUOEMRub8eyRutQ/playlists)                                   |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                                                                                                                                      | Amulya's Academy [u](https://www.youtube.com/c/AmulsAcademy/playlists)                                         |
+|                                                                                                                                                                                                                                                   | Yoav Freund [u](https://www.youtube.com/channel/UCjlqCEQgu54\_Pq9wuhvz9-w)                                     |
 
 ## 框架
 
@@ -223,6 +224,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **TensorFlow(**[**site**](https://www.tensorflow.org)**,** [**install**](https://www.tensorflow.org/install)**,** [**pip**](https://www.tensorflow.org/install/pip)**,** [**gpu**](https://www.tensorflow.org/install/gpu)**,** [**教程**](https://www.tensorflow.org/tutorials?hl=zh\_cn)**,** [**指南**](https://www.tensorflow.org/guide?hl=zh\_cn)**,** [**API**](https://www.tensorflow.org/api\_docs/python/tf?hl=zh\_cn)**,** [**u**](https://www.youtube.com/c/TensorFlow/featured)**,** [**models**](https://github.com/tensorflow/models)**,** [**blog**](https://blog.tensorflow.org)**,** [**medium**](https://medium.com/@tensorflow)**, 书栈(**[**1**](https://www.bookstack.cn/read/TensorFlow/README.md)**,** [**2**](https://www.bookstack.cn/books/TensorFlow2.0)**, ), )** |
 | jikexueyuanwiki/[tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) TensorFlow官方文档中文版 s 过时                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| TensorFlow 2.x Insights [EscVM](https://www.youtube.com/playlist?list=PLfUcLof\_Y7epGT5B\_RG\_gd7ik0px0elM6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | TensorFlow2.0 入门到进阶 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RLWCCLVw35l03Om4tamUMW)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 【北京大学】人工智能 Tensorflow2.0 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Sjl8VSALIHw\_i7z3D5QzCJ) [bdy](https://pan.baidu.com/share/init?surl=9XC28Hz\_TwnSQeuVifg1UQ) mocm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 人工智能 Tensorflow 视频教程全集\| 5 小时从入门到精通 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RFbFH1SQKxUuQTmRZjLl68)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -581,7 +583,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Tools in Scientific Computing [IIT Kharagpur July 2018](https://www.youtube.com/playlist?list=PLbRMhDVUMngccapOgCr2Tm5sn\_cuHeAf6)                                            |
 | MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE\_Az5TNd) |
 | <p>Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)</p><p><a href="https://www.youtube.com/watch?v=LHBE6Q9XlzI">freeCodeCamp</a></p>  |
-| Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) [freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)                        |
+| Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) [freeCodeCamp ](https://www.youtube.com/watch?v=r-uOLxNrNk8)4:22:12                |
 | Data Analysis Tutorial for Beginners [Geek's Lesson](https://www.youtube.com/watch?v=ggJr2lX6aFw)                                                                             |
 | Data Analysis with Python for Excel Users - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=WcDaZ67TVRo)                                                           |
 | Build 12 Data Science Apps with Python and Streamlit - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=JwSS70SZdyM)                                                |
@@ -643,6 +645,9 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Learning Scikit-Learn [Google Cloud Tech](https://www.youtube.com/watch?v=rvVkVsG49uU)                                                                              |
 | Introduction to scikit-learn [Lander Analytics](https://www.youtube.com/watch?v=juEOOQntrd0)                                                                        |
 | Introduction to Python in Google Colab and Introduction to Sci Kit Learn [Veronica Red](https://www.youtube.com/watch?v=lPVvudibql0)                                |
+| Python in Data Science for Intermediate [learndataa](https://www.youtube.com/playlist?list=PLXovS\_5EZGh4\_ThQVgO2boGf31Dqs5vzm)                                    |
+|                                                                                                                                                                     |
+|                                                                                                                                                                     |
 |                                                                                                                                                                     |
 
 ### 预测
@@ -687,6 +692,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Big Data Analysis - Regression [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrSKrvSc6QnqJUadSxDi465Y)                       |
 | Tutorial 35- Logistic Regression Indepth Intuition- Part 1\| Data Science [Krish Naik](https://www.youtube.com/watch?v=L\_xBe7MbPwk) |
 | 08逻辑回归算法 课时46逻辑回归算法原理推导 [互联网开发教程](https://www.youtube.com/watch?v=DBgPZcH0TzU) tyd                                                   |
+| Logistic Regression - Is it Linear Regression? [CodeEmporium](https://www.youtube.com/watch?v=hpkI-7wM03I)                           |
 
 #### 随机森林 Random Forests
 
@@ -833,6 +839,18 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 | Neural Networks are Decision Trees (w/ Alexander Mattick) [Yannic Kilcher](https://www.youtube.com/watch?v=\_okxGdHM5b8)                                         |
 | Visualizing and Understanding Deep Neural Networks by Matt Zeiler [Data Council](https://www.youtube.com/watch?v=ghEmQSxT6tw)                                    |
 | GLOM: How to represent part-whole hierarchies in a neural network (Geoff Hinton's Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=cllFzkvrYmE) |
+
+
+
+### 参数追踪
+
+Visualize Neural Networks
+
+|                                                                                                           |   |   |
+| --------------------------------------------------------------------------------------------------------- | - | - |
+| 4 Ways To Visualize Neural Networks in Python [JCharisTech](https://www.youtube.com/watch?v=\_OfhVK6w3xc) |   |   |
+|                                                                                                           |   |   |
+|                                                                                                           |   |   |
 
 ### RNN Recurrent Neural Networks
 
@@ -1126,6 +1144,15 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                  |
 |                                                                                                                                  |
 
+### Autoencoder
+
+|                                                                                                                                      |                                                                                                                 |                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| What is an Autoencoder? \| Two Minute Papers #86 [Two Minute Papers](https://www.youtube.com/watch?v=Rdpbnd0pCiI)                    | Simple Explanation of AutoEncoders [WelcomeAIOverlords](https://www.youtube.com/watch?v=3jmcHZq3A5s)            | Autoencoders - EXPLAINED [CodeEmporium](https://www.youtube.com/watch?v=7mRfwaGGAPg)                                  |
+| What are Autoencoders? [IBM Technology](https://www.youtube.com/watch?v=qiUEgSCyY5o)                                                 | Autoencoders - Ep. 10 (Deep Learning SIMPLIFIED) [DeepLearning.TV](https://www.youtube.com/watch?v=s96mYcicbpE) | 85a - What are Autoencoders and what are they used for? [DigitalSreeni](https://www.youtube.com/watch?v=2\_h61v6mgRc) |
+|                                                                                                                                      | Understanding and Applying Autoencoders in Python! [Spencer Pao](https://www.youtube.com/watch?v=LjRvMUk59PI)   | 85b - An introduction to autoencoders - in Python [DigitalSreeni](https://www.youtube.com/watch?v=D9HjlqIrB-c)        |
+| Autoencoder Dimensionality Reduction Python TensorFlow / Keras #CodeItQuick [Greg Hogg](https://www.youtube.com/watch?v=D16rii8Azuw) | Autoencoders Explained Easily [Valerio Velardo - The Sound of AI](https://www.youtube.com/watch?v=xwrzh4e8DLs)  | Autoencoders Made Simple! [Professor Ryan](https://www.youtube.com/watch?v=aqaVv3RiNow)                               |
+
 ### VAE Variational Autoencoder
 
 |                                                                                                                                                                              |
@@ -1136,8 +1163,8 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Autoencoder Explained [Siraj Raval](https://www.youtube.com/watch?v=H1AllrJ-\_30)                                                                                            |
 | 178 - An introduction to variational autoencoders (VAE) [DigitalSreeni](https://www.youtube.com/watch?v=YV9D3TWY5Zo)                                                         |
 | 179 - Variational autoencoders using keras on MNIST data [DigitalSreeni](https://www.youtube.com/watch?v=8wrLjnQ7EWQ)                                                        |
-|                                                                                                                                                                              |
-|                                                                                                                                                                              |
+| VAE-GAN Explained! [Connor Shorten](https://www.youtube.com/watch?v=yyqfZfnSzcw)                                                                                             |
+| What are Generative Models? \| VAE & GAN \| Intro to AI [Zhuoyue Lyu](https://www.youtube.com/watch?v=24oBV\_s5ufQ)                                                          |
 |                                                                                                                                                                              |
 
 ### 变分推断 Variational Inference
