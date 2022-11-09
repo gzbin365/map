@@ -13,6 +13,7 @@
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ethical Network Hacking for Idiots [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                                              |
 | How the Best Hackers Learn Their Craft [RSA Conference](https://www.youtube.com/watch?v=6vj96QetfTg)                                                                                      |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                          |
 | 看完你就拥有了黑客意识！——迈克教你网关，端口，防火墙，节点，肉鸡，社会工程学，公开课第三讲 [Bill Mike比尔迈克](https://www.youtube.com/watch?v=xIY-JtKa8Ms)                                                                               |
@@ -23,6 +24,7 @@
 | Running an SQL Injection Attack - Computerphile [Computerphile](https://www.youtube.com/watch?v=ciNHn38EyRc)                                                                              |
 | Web Hacking 101 [PwnFunction](https://www.youtube.com/playlist?list=PLI\_rLWXMqpSl\_TqX9bbisW-d7tDqcVvOJ)                                                                                 |
 | Linux for Ethical Hackers (Kali Linux Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=lZAoFs75\_cs)                                                                              |
+| Command Line Hacking – Over The Wire Bandit Walkthrough (CTF Wargame) [freeCodeCamp](https://www.youtube.com/watch?v=9ReSHQihuZw)                                                         |
 | Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) [freeCodeCamp](https://www.youtube.com/watch?v=3Kq1MIfTWCE)                                                |
 | Ethical Hacking 101: Web App Penetration Testing - a full course for beginners 2018 [freeCodeCamp](https://www.youtube.com/watch?v=2\_lswM1S264)                                          |
 | How to Build a Hackintosh - Step-by-Step Guide (Install MacOS Big Sur on PC) [freeCodeCamp](https://www.youtube.com/watch?v=Gaosub7FRf4)                                                  |
