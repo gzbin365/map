@@ -1184,6 +1184,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                            |   |   |
 |                                                                            |   |   |
 
+### EM算法
+
+|                                                                                                          |   |   |
+| -------------------------------------------------------------------------------------------------------- | - | - |
+| The EM Algorithm [Peter Green](https://www.youtube.com/playlist?list=PLhy6ToIwT7XCk2thcnxxEbKM9FnmvO60m) |   |   |
+|                                                                                                          |   |   |
+|                                                                                                          |   |   |
+
 ### 其他
 
 |                                                                                                                                             |
