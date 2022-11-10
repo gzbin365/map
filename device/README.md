@@ -549,7 +549,6 @@ description: 硬件设备
 | Build a 65c02-based computer from scratch [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 第172期：讲讲CPU，GPU，DPU，DSP，MCU，手机SOC，以及如何投资Intel，AMD，Nvidia，高通和联发科 [老科谈科技股](https://www.youtube.com/watch?v=cqt51-vnQng)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <p>硬件茶谈</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=P91wpwVGH6M">00</a>期——什么是MOSFET</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=bk1-KqUq4gQ">01</a>期——什么是逻辑门</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=XXIf5_KDjxw">02</a>期——CPU是怎么计算加法的（上）</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=0KIyBXOIuPA">03</a>期——CPU是怎么计算加法的（下）</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=TIMXv79w7ho">04</a>期——CPU是怎么计算减法的</p><p>【硬件科普】带你认识CPU第<a href="https://www.youtube.com/watch?v=8T6O0MHrHVQ">05</a>期——CPU是怎么计算乘法的</p> |
-| 硅快到极限了，哪种新材料能扛起半导体行业的大梁？ [量子位](https://www.youtube.com/watch?v=ed8MgOZSTaY)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | cpu是如何计算加法的 [掌芝士](https://www.youtube.com/watch?v=d1CGJ-Y9BFk)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 1936年,艾伦・图灵提出了图灵计算机模型。1971年，cpu在1971年在Intel公司诞生,名为微处理器4004。这中间是科技飞速腾飞的35年 [立创商城](https://www.douyin.com/video/7130834767385300258)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | CPU如何工作 [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -902,7 +901,7 @@ System on Chip, 系统级芯片
 | Brick Experiment Channel [u](https://www.youtube.com/c/BrickExperimentChannel/playlists) | Brick Technology [u](https://www.youtube.com/c/BrickTechnology)            |
 | Technic Ideas [u](https://www.youtube.com/channel/UCVjUzeiW1hQLxXvGq3b-PPA)              | Beyond the Brick [u](https://www.youtube.com/user/BeyondTheBrickTV)        |
 | NDA Hack [u](https://www.youtube.com/c/NDAHack)                                          | Joshua Hanlon [u](https://www.youtube.com/user/ALookAtLego)                |
-| 炒蛋車間長 [u](https://www.youtube.com/channel/UCdiBe17AIxwy6aI2fQ\_-sVQ)                     | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
+|                                                                                          | VirtualMakerLuca [u](https://www.youtube.com/c/VirtualMakerLuca/playlists) |
 
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
@@ -912,10 +911,10 @@ System on Chip, 系统级芯片
 
 ## 芯片Chip 半导体
 
-|                                                                                                                    |                                                                  |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists) |
-| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |                                                                  |
+|                                                                                                                    |                                                                      |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists)     |
+| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) | 炒蛋車間長 [u](https://www.youtube.com/channel/UCdiBe17AIxwy6aI2fQ\_-sVQ) |
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 
@@ -1018,14 +1017,6 @@ System on Chip, 系统级芯片
 | 控制器输入 - Pygame 教程 [大蓬松土豆](https://www.youtube.com/watch?v=Hp0M8iExfDc)                                 |
 | Pygame Tutorial - Controller Support [ScriptLine Studios](https://www.youtube.com/watch?v=C0rc2wcRoGU) |
 |                                                                                                        |
-
-### 音箱/音响
-
-|               |   |   |
-| ------------- | - | - |
-| 马歇尔（Marshall） |   |   |
-|               |   |   |
-|               |   |   |
 
 ### 耳机
 
