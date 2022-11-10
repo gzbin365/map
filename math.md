@@ -680,7 +680,7 @@ Theory of functions of a real variable
 
 　　２．经验：一般来说样本量达到30的时候，我们就可以说样本均值趋向于正态分布
 
-### 贝叶斯 Bayes theorem
+### 贝叶斯　Bayes theorem
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -691,7 +691,6 @@ Theory of functions of a real variable
 | 概率论 [Center for Dynamical Biomarkers](https://www.youtube.com/playlist?list=PL-nXWKXw-Q\_YIya32NULSlxRd16klwYIL)                                                                                                                                                                                                                                                                                                                   |
 | 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                                                                                                                                                                                                                                                                                                                                     |
 | book: ThinkBayes 贝叶斯思维：统计建模的PYTHON学习法　[git](https://github.com/NemoHoHaloAi/Think-Bayes) [git](https://github.com/jywan/my\_ThinkBayes) [search](https://github.com/search?q=%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%80%9D%E7%BB%B4%EF%BC%9A%E7%BB%9F%E8%AE%A1%E5%BB%BA%E6%A8%A1%E7%9A%84PYTHON%E5%AD%A6%E4%B9%A0%E6%B3%95\&type=code) [git](https://github.com/AllenDowney/ThinkBayes) [s](https://greenteapress.com/wp/think-bayes/) pdf1 |
-| Bayes' Theorem [Peter Green](https://www.youtube.com/playlist?list=PLhy6ToIwT7XA6fQ2oJ1FMLNDwavPRaCaQ)                                                                                                                                                                                                                                                                                                                             |
 
 $$
 P(A|B)=P(A) \dfrac{P(B|A)}{P(B)}
@@ -711,14 +710,6 @@ $$
 | $$P(\theta|D)$$:后验posterior                                                                                                           |
 | 3.5 马尔可夫链蒙特卡洛方法｜随机过程｜程序员数学 [Jomy King](https://www.youtube.com/watch?v=nv5HHfsv7h8\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=5) |
 | 给定观测数据和先验信息，求后验分布. 也就是用似然去修正先验的猜测                                                                                                     |
-
-### 朴素贝叶斯 Naive Bayes
-
-|                                                                                                          |   |   |
-| -------------------------------------------------------------------------------------------------------- | - | - |
-| Text Classification Using Naive Bayes [Francisco Iacobelli](https://www.youtube.com/watch?v=EGKeC2S44Rs) |   |   |
-|                                                                                                          |   |   |
-|                                                                                                          |   |   |
 
 ### 数理统计 Mathematical Statistics
 
