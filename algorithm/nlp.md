@@ -39,68 +39,68 @@ description: 自然语言处理
 
 ### Transformer
 
-| Transformer                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| huggingface/[transformers](https://github.com/huggingface/transformers)                                                                                            |
-| Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                     |
-| Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                      |
-| Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                  |
-| Generative Python Transformer p.4 - Tokenizing [sentdex](https://www.youtube.com/watch?v=4WHt1VLon\_U)                                                             |
-| Generative Python Transformer p.5 - Training and some testing of GPT-2 model [sentdex](https://www.youtube.com/watch?v=2486auSLTUI)                                |
-| Generative Python Transformer p.6 - Testing larger model [sentdex](https://www.youtube.com/watch?v=vG-z-Y\_Sfrw)                                                   |
-| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                |
-| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                              |
-| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
-| Transformer Neural Networks - an Overview! [CodeEmporium](https://www.youtube.com/watch?v=O3xbVmpdJwU)                                                             |
-| ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8) |
-| Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)       |
-| Vectors In Transformer Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=l4is4uHvKlU)                                                                 |
-| CS25 I Stanford Seminar - Transformers United: DL Models that have revolutionized NLP, CV, RL [Stanford Online](https://www.youtube.com/watch?v=P127jhj-8-Y)       |
-| Stanford CS25 - Transformers United [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR\_Z27CM)                                   |
-| Transformer: Concepts, Building Block, Attention, Sample Implementation in PyTorch [Rowel Atienza](https://www.youtube.com/watch?v=6PmIoCnqcFU)                    |
-| AI论文搬砖学姐 抖音号：[21918745608](https://www.douyin.com/user/MS4wLjABAAAA0HK5iY9\_CAQBUud11RiSqBbaQX1DEl7hwvs\_A35O92m5celNHqgK7g5lAMBvzHXP)                             |
-| 2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)                                  |
-| What are Transformer Neural Networks? [Ari Seff](https://www.youtube.com/watch?v=XSSTuhyAmnI)                                                                      |
-| Transformers, explained: Understand the model behind GPT, BERT, and T5 [Google Cloud Tech](https://www.youtube.com/watch?v=SZorAJ4I-sA)                            |
-| What are Transformers (Machine Learning Model)? [IBM Technology](https://www.youtube.com/watch?v=ZXiruGOCn9s)                                                      |
-| Transformers for beginners \| What are they and how do they work [AssemblyAI](https://www.youtube.com/watch?v=\_UVfwBqcnbM)                                        |
-| Illustrated Guide to Transformers Neural Network: A step by step explanation [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=4Bdc55j80l8)          |
-| Transformer models: Encoder-Decoders [HuggingFace](https://www.youtube.com/watch?v=0\_4KEb08xrE)                                                                   |
-| Transformer models: Encoders [HuggingFace](https://www.youtube.com/watch?v=MUqNwgPjJvQ)                                                                            |
-| Transformer Positional Embeddings With A Numerical Example. [Machine Learning with Pytorch](https://www.youtube.com/watch?v=-jze8IC-hI0)                           |
-| Postitional Encoding [CIS 522 - Deep Learning](https://www.youtube.com/watch?v=FoRWkEAJDtg)                                                                        |
-| Will Transformers Replace CNNs in Computer Vision? + NVIDIA GTC Giveaway [What's AI by Louis Bouchard](https://www.youtube.com/watch?v=QcCJJOLCeJQ)                |
-| Vision Transformer and its Applications [Open Data Science](https://www.youtube.com/watch?v=hPb6A92LROc)                                                           |
-| DeepAI-Quickie - Vision Transformer Attention [EscVM](https://www.youtube.com/watch?v=I3VnY01JpSo)                                                                 |
-| Transformers [feather](https://www.youtube.com/playlist?list=PLQWPycXvOsB-2rylhr9ltoWuvybuGKBHD)                                                                   |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-| BERT [git](https://github.com/google-research/bert)                                                                                                                |
-| Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                              |
-| Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                   |
-| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                       |
-| How to get meaning from text with language model BERT \| AI Explained [Peltarion](https://www.youtube.com/watch?v=-9vVhYEXeyQ)                                     |
-| Intuition Behind Self-Attention Mechanism in Transformer Networks [Ark](https://www.youtube.com/watch?v=g2BRIuln4uc)                                               |
-| Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                             |
-| ELMO, BERT, GPT [Hung-yi Lee](https://www.youtube.com/watch?v=UYPa347-DdE)                                                                                         |
-| LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                 |
-| MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                              |
-| MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                            |
-| Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                               |
-| 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                |
-| Introduction to transformer architecture and discussion [MITCBMM](https://www.youtube.com/watch?v=Smav86u60FM)                                                     |
-| Transformers in Vision: From Zero to Hero [AICamp](https://www.youtube.com/watch?v=J-utjBdLCTo)                                                                    |
-| BERT Explained! [Connor Shorten](https://www.youtube.com/watch?v=OR0wfP2FD3c)                                                                                      |
-| What is BERT and how does it work? \| A Quick Review [AssemblyAI](https://www.youtube.com/watch?v=6ahxPTLZxU8)                                                     |
-| Transfer learning and Transformer models (ML Tech Talks) [TensorFlow](https://www.youtube.com/watch?v=LE3NfEULV6k)                                                 |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
-|                                                                                                                                                                    |
+| Transformer                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| huggingface/[transformers](https://github.com/huggingface/transformers)                                                                                                                                                              |
+| Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                                                                                       |
+| Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                                                                                        |
+| Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                                                                                    |
+| Generative Python Transformer p.4 - Tokenizing [sentdex](https://www.youtube.com/watch?v=4WHt1VLon\_U)                                                                                                                               |
+| Generative Python Transformer p.5 - Training and some testing of GPT-2 model [sentdex](https://www.youtube.com/watch?v=2486auSLTUI)                                                                                                  |
+| Generative Python Transformer p.6 - Testing larger model [sentdex](https://www.youtube.com/watch?v=vG-z-Y\_Sfrw)                                                                                                                     |
+| RNN模型与NLP应用 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)                                                                                                                                  |
+| Transformer模型 [Shusen Wang](https://www.youtube.com/playlist?list=PLvOO0btloRntpSWSxFbwPIjIum3Ub4GSC)                                                                                                                                |
+| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                                                                                         |
+| Transformer Neural Networks - an Overview! [CodeEmporium](https://www.youtube.com/watch?v=O3xbVmpdJwU)                                                                                                                               |
+| ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=0JlB9gufTw8)                                                                   |
+| Fastformer: Additive Attention Can Be All You Need (Machine Learning Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=qgUegkefocg)                                                                         |
+| Vectors In Transformer Neural Networks [CodeEmporium](https://www.youtube.com/watch?v=l4is4uHvKlU)                                                                                                                                   |
+| CS25 I Stanford Seminar - Transformers United: DL Models that have revolutionized NLP, CV, RL [Stanford Online](https://www.youtube.com/watch?v=P127jhj-8-Y)                                                                         |
+| Stanford CS25 - Transformers United [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR\_Z27CM)                                                                                                     |
+| Transformer: Concepts, Building Block, Attention, Sample Implementation in PyTorch [Rowel Atienza](https://www.youtube.com/watch?v=6PmIoCnqcFU)                                                                                      |
+| AI论文搬砖学姐 抖音号：[21918745608](https://www.douyin.com/user/MS4wLjABAAAA0HK5iY9\_CAQBUud11RiSqBbaQX1DEl7hwvs\_A35O92m5celNHqgK7g5lAMBvzHXP)                                                                                               |
+| 2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)                                                                                                    |
+| What are Transformer Neural Networks? [Ari Seff](https://www.youtube.com/watch?v=XSSTuhyAmnI)                                                                                                                                        |
+| Transformers, explained: Understand the model behind GPT, BERT, and T5 [Google Cloud Tech](https://www.youtube.com/watch?v=SZorAJ4I-sA)                                                                                              |
+| What are Transformers (Machine Learning Model)? [IBM Technology](https://www.youtube.com/watch?v=ZXiruGOCn9s)                                                                                                                        |
+| Transformers for beginners \| What are they and how do they work [AssemblyAI](https://www.youtube.com/watch?v=\_UVfwBqcnbM)                                                                                                          |
+| Illustrated Guide to Transformers Neural Network: A step by step explanation [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=4Bdc55j80l8)                                                                            |
+| Transformer models: Encoder-Decoders [HuggingFace](https://www.youtube.com/watch?v=0\_4KEb08xrE)                                                                                                                                     |
+| Transformer models: Encoders [HuggingFace](https://www.youtube.com/watch?v=MUqNwgPjJvQ)                                                                                                                                              |
+| Transformer Positional Embeddings With A Numerical Example. [Machine Learning with Pytorch](https://www.youtube.com/watch?v=-jze8IC-hI0)                                                                                             |
+| Postitional Encoding [CIS 522 - Deep Learning](https://www.youtube.com/watch?v=FoRWkEAJDtg)                                                                                                                                          |
+| Will Transformers Replace CNNs in Computer Vision? + NVIDIA GTC Giveaway [What's AI by Louis Bouchard](https://www.youtube.com/watch?v=QcCJJOLCeJQ)                                                                                  |
+| Vision Transformer and its Applications [Open Data Science](https://www.youtube.com/watch?v=hPb6A92LROc)                                                                                                                             |
+| DeepAI-Quickie - Vision Transformer Attention [EscVM](https://www.youtube.com/watch?v=I3VnY01JpSo)                                                                                                                                   |
+| Transformers [feather](https://www.youtube.com/playlist?list=PLQWPycXvOsB-2rylhr9ltoWuvybuGKBHD)                                                                                                                                     |
+| Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                                                                                               |
+| 【機器學習2021】Transformer (上) [Hung-yi Lee](https://www.youtube.com/watch?v=n9TlOhRjYoc)                                                                                                                                                 |
+| <p>【機器學習2021】自注意力機制 (Self-attention) (上) <a href="https://www.youtube.com/watch?v=hYdO9CscNes">Hung-yi Lee</a></p><p>【機器學習2021】自注意力機制 (Self-attention) (下) <a href="https://www.youtube.com/watch?v=gmsMY5kc-zw">Hung-yi Lee</a></p> |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
+| BERT [git](https://github.com/google-research/bert)                                                                                                                                                                                  |
+| Transformer Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                                                                                                |
+| Transformer Neural Networks - EXPLAINED! (Attention is all you need) [CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)                                                                                                     |
+| BERT Neural Network - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)                                                                                                                                         |
+| How to get meaning from text with language model BERT \| AI Explained [Peltarion](https://www.youtube.com/watch?v=-9vVhYEXeyQ)                                                                                                       |
+| Intuition Behind Self-Attention Mechanism in Transformer Networks [Ark](https://www.youtube.com/watch?v=g2BRIuln4uc)                                                                                                                 |
+| Transformer [Hung-yi Lee](https://www.youtube.com/watch?v=ugWDIIOHtPA)                                                                                                                                                               |
+| ELMO, BERT, GPT [Hung-yi Lee](https://www.youtube.com/watch?v=UYPa347-DdE)                                                                                                                                                           |
+| LSTM is dead. Long Live Transformers! [Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)                                                                                                                   |
+| MIT 6.S191: Recurrent Neural Networks and Transformers [Alexander Amini](https://www.youtube.com/watch?v=QvkQ1B3FBqA)                                                                                                                |
+| MIT 6.S191: Introduction to Deep Learning [Alexander Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5\_\_7C0oIVt26ZgjG9NI)                                                                                              |
+| Table BERT (TaBERT) Installation Guide in google Colab [Yasas Sandeepa](https://www.youtube.com/watch?v=3ZhpB5AAMHg)                                                                                                                 |
+| 美团BERT的探索和实践 - [美团技术团队](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)                                                                                                                                                  |
+| Introduction to transformer architecture and discussion [MITCBMM](https://www.youtube.com/watch?v=Smav86u60FM)                                                                                                                       |
+| Transformers in Vision: From Zero to Hero [AICamp](https://www.youtube.com/watch?v=J-utjBdLCTo)                                                                                                                                      |
+| BERT Explained! [Connor Shorten](https://www.youtube.com/watch?v=OR0wfP2FD3c)                                                                                                                                                        |
+| What is BERT and how does it work? \| A Quick Review [AssemblyAI](https://www.youtube.com/watch?v=6ahxPTLZxU8)                                                                                                                       |
+| Transfer learning and Transformer models (ML Tech Talks) [TensorFlow](https://www.youtube.com/watch?v=LE3NfEULV6k)                                                                                                                   |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
 
 #### Hugging Face
 

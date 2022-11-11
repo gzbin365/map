@@ -8,7 +8,7 @@
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)            |
 | Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)                                                     | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
 | 程序员小山与Bug 抖音号：[xiaoshan.bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd\_mbHotBKV8Bth4LLl4OA\_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm) | Progress Bar 進度條線上課程 [u](https://www.youtube.com/c/ProgressBarTW/playlists)                   |
-|                                                                                                                                          |                                                                                               |
+| Coding Tech [u](https://www.youtube.com/c/CodingTech)                                                                                    |                                                                                               |
 |                                                                                                                                          |                                                                                               |
 
 | **前端**                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
@@ -420,6 +420,9 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | Angular Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=3qBXWUpoPHo)                                                           |
 | How To Create An Advanced Shopping Cart With React and TypeScript [Web Dev Simplified](https://www.youtube.com/watch?v=lATafp15HWA)                |
 | TypeScript Crash Course [Traversy Media](https://www.youtube.com/watch?v=BCg4U1FzODs)                                                              |
+| Learn TypeScript – Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)                                                       |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
 
 ### jQuery
 

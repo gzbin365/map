@@ -78,6 +78,7 @@ description: Generative Adversarial Network (GAN)
 | DALL-E 2 is… meh [Edan Meyer](https://www.youtube.com/watch?v=gmfI3B6pQTo)                                                                              |
 | How This A.I. Draws Anything You Describe \[DALL-E 2] [ColdFusion](https://www.youtube.com/watch?v=U1cF9QCu1rQ)                                         |
 | OpenAI DALL-E 2 - Top 10 Best Images! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=Q9FGUii\_4Ok)                                              |
+| OpenAI's DALL-E 2 Has Insane Capabilities! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=eM5jn8vY2OQ)                                          |
 |                                                                                                                                                         |
 
 ### Text to Video
