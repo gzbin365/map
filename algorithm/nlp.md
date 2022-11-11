@@ -305,6 +305,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | LaMDA！Google工程師說：人工智慧有意識？他暈船了！？還是中了什麼圈套？ [曲博科技教室 Dr. J Class](https://www.youtube.com/watch?v=lqVWy96KI0o)                                                                                                                                                                                     |
 | DeepPavlov Seminars: Goal-aware Dialogue Management [DeepPavlov](https://www.youtube.com/watch?v=aD-MNhq3Gqs)                                                                                                                                                                                  |
 | I created a talking BOT with Javascript \|\| Javascript Project\|HTML CSS JS Mini Project For Beginners [KadirMedia](https://www.youtube.com/watch?v=9o2rSxHiv9w)                                                                                                                              |
+| 用 Python 编码加密聊天 Coding Encrypted Chat in Python [NeuralNine](https://www.youtube.com/watch?v=U\_Q1vqaJi34)                                                                                                                                                                                     |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |

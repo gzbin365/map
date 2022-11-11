@@ -263,6 +263,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | [Why pi?](https://www.youtube.com/playlist?list=PLZHQObOWTQDMVQcT3414TcPMeEYf\_VtPM)(3Blue1Brown)          |
 | Riemann's paradox: pi = infinity minus infinity [Mathologer](https://www.youtube.com/watch?v=-EtHF5ND3\_s) |
 | 一个数数谜题中最难以想象的谜底 [3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)                                 |
+| The Discovery That Transformed Pi [Veritasium](https://www.youtube.com/watch?v=gMlf1ELvRzc)                |
 
 费波纳切数列
 
@@ -693,6 +694,8 @@ Theory of functions of a real variable
 | 全概率公式和贝叶斯公式 [李长官](https://www.youtube.com/watch?v=5dhhxAOQV98)                                                                                                                                                                                                                                                                                                                                                                     |
 | book: ThinkBayes 贝叶斯思维：统计建模的PYTHON学习法　[git](https://github.com/NemoHoHaloAi/Think-Bayes) [git](https://github.com/jywan/my\_ThinkBayes) [search](https://github.com/search?q=%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%80%9D%E7%BB%B4%EF%BC%9A%E7%BB%9F%E8%AE%A1%E5%BB%BA%E6%A8%A1%E7%9A%84PYTHON%E5%AD%A6%E4%B9%A0%E6%B3%95\&type=code) [git](https://github.com/AllenDowney/ThinkBayes) [s](https://greenteapress.com/wp/think-bayes/) pdf1 |
 | Bayes' Theorem [Peter Green](https://www.youtube.com/playlist?list=PLhy6ToIwT7XA6fQ2oJ1FMLNDwavPRaCaQ)                                                                                                                                                                                                                                                                                                                             |
+| How We’re Fooled By Statistics [Veritasium](https://www.youtube.com/watch?v=1tSqSMOyNFE)                                                                                                                                                                                                                                                                                                                                           |
+| How To Update Your Beliefs Systematically - Bayes’ Theorem [Veritasium](https://www.youtube.com/watch?v=R13BD8qKeTg)                                                                                                                                                                                                                                                                                                               |
 
 $$
 P(A|B)=P(A) \dfrac{P(B|A)}{P(B)}
