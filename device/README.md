@@ -721,12 +721,12 @@ System on Chip, 系统级芯片
 
 ## NAS
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| 群晖 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
-| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U) |
-|                                                                                                            |
-|                                                                                                            |
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| synology 群晖 [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
+| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                             |
+| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91)                                    |
+|                                                                                                                                                        |
 
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
