@@ -757,6 +757,8 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 11 1 简单线性回归的统计描述 11 [医学统计学-郝元涛（中山大学）](https://www.youtube.com/watch?v=pMqrpZaUvOQ\&list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6\&index=53)                                       |
 | Bayesian Linear Regression: Simple Linear Regression Review [Lazy Programmer](https://www.youtube.com/watch?v=ef2f\_MUdJ3Y)                                                  |
 | Bayesian Linear Regression: Distribution of Parameter Estimate [Lazy Programmer](https://www.youtube.com/watch?v=zS6KpzrV6Xc)                                                |
+| Regression Analysis \| Full Course [DATAtab](https://www.youtube.com/watch?v=0m-rs2M7K-Y)                                                                                    |
+| Interpreting Linear Regression Results [Sergio Garcia, PhD](https://www.youtube.com/watch?v=rLkysIyO7-U)                                                                     |
 |                                                                                                                                                                              |
 
 ### KNN
@@ -1183,6 +1185,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 变分推断与变分自编码器 [s](https://blog.csdn.net/rosefun96/article/details/102743325) |   |   |
 |                                                                            |   |   |
 |                                                                            |   |   |
+
+### EM算法
+
+|                                                                                                          |   |   |
+| -------------------------------------------------------------------------------------------------------- | - | - |
+| The EM Algorithm [Peter Green](https://www.youtube.com/playlist?list=PLhy6ToIwT7XCk2thcnxxEbKM9FnmvO60m) |   |   |
+|                                                                                                          |   |   |
+|                                                                                                          |   |   |
 
 ### 其他
 
