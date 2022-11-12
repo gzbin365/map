@@ -80,3 +80,4 @@
 * [other](other.md)
 * [赞助本站](sponsor.md)
 * [View on Github](https://github.com/gzbin365/map)
+* [Star History](https://star-history.com/#gzbin365/map\&Date)
