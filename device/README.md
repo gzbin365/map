@@ -382,6 +382,7 @@ description: 硬件设备
 | Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0)                                                 | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                                        | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague)                                                        |
 | NURK FPV [u](https://www.youtube.com/c/NURKFPV)                                                             | 自目THEMODE [B](https://space.bilibili.com/409193927/)                                                            | 穿越机自学教程 抖音号：[FPVGUO](https://www.douyin.com/user/MS4wLjABAAAAdhOzdSgFGdGdFyDuTTJ5CTk-vg0xZ5gEhmzEQL7TuLnk-JIhOBbLVnT3LcolJQLK) |
 | 影像大舌头 抖音号：[1279543430](https://www.douyin.com/user/MS4wLjABAAAAeLdSMnVIDFFznMVcRXGpVfJDAZ7RDuBg2INPcCBpE8Y) | FPV穿越机花飞手册 抖音号：[171551377](https://www.douyin.com/user/MS4wLjABAAAAT7hL5YKDt9jncHb8crawJIS9d5EntLNagN9ywtaA3DE) | 白城夏树 抖音号：[61966967](https://www.douyin.com/user/MS4wLjABAAAA5nc8WmniVKdhl7y0kWOLqb7\_L2bVqrynlX1WtLE9iB0)                      |
+|                                                                                                             |                                                                                                                 | FLY송쌤 [u](https://www.youtube.com/c/SongYoungjin)                                                                              |
 
 ### Nano
 
