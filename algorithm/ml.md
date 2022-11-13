@@ -1324,6 +1324,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Google's DreamFusion AI: Text to 3D sentdexGoogle's DreamFusion AI: Text to 3D [sentdex](https://www.youtube.com/watch?v=zWD5ZR5GtJM)                                                                                                                                                                 |
 | I tried to build a REACT STABLE DIFFUSION App in 15 minutes [Nicholas Renotte](https://www.youtube.com/watch?v=3l16wCsDglU)                                                                                                                                                                           |
 | Stable Diffusion Is Getting Outrageously Good! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=bT8e1EV5-ic)                                                                                                                                                                                    |
+| \[ML News] Multiplayer Stable Diffusion \| OpenAI needs more funding \| Text-to-Video models incoming [Yannic Kilcher](https://www.youtube.com/watch?v=TOo-HnjjuhU)                                                                                                                                   |
 
 ## 基础模型 Foundation Models
 
