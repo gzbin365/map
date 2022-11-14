@@ -1325,6 +1325,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | I tried to build a REACT STABLE DIFFUSION App in 15 minutes [Nicholas Renotte](https://www.youtube.com/watch?v=3l16wCsDglU)                                                                                                                                                                           |
 | Stable Diffusion Is Getting Outrageously Good! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=bT8e1EV5-ic)                                                                                                                                                                                    |
 | \[ML News] Multiplayer Stable Diffusion \| OpenAI needs more funding \| Text-to-Video models incoming [Yannic Kilcher](https://www.youtube.com/watch?v=TOo-HnjjuhU)                                                                                                                                   |
+| Google's Prompt-to-Prompt: Diffusion Image Editing [sentdex](https://www.youtube.com/watch?v=RtIRE4Kf5SU)                                                                                                                                                                                             |
 
 ## 基础模型 Foundation Models
 
