@@ -569,18 +569,22 @@ Theory of functions of a real variable
 | 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                |
 
-| 黎曼猜想                                                                                   |
-| -------------------------------------------------------------------------------------- |
-| 所有非平凡零点都位于实部为1/2的直线上                                                                   |
-| 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应” |
-| 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序 |
-| 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下   |
-| 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？  |
-| 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？            |
-| 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？     |
-| 你的生日是唯一的嗎？小學生也能聽得懂的數學之黎曼猜想（[一](https://www.youtube.com/watch?v=71e8Oas4fSc)）\| 雅桑了嗎    |
-| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（[二](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)） \| 雅桑了嗎 |
-|                                                                                        |
+| 黎曼猜想                                                                                              |
+| ------------------------------------------------------------------------------------------------- |
+| 所有非平凡零点都位于实部为1/2的直线上                                                                              |
+| 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应”            |
+| 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序            |
+| 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下              |
+| 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？             |
+| 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？                       |
+| 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？                |
+| 你的生日是唯一的嗎？小學生也能聽得懂的數學之黎曼猜想（[一](https://www.youtube.com/watch?v=71e8Oas4fSc)）\| 雅桑了嗎               |
+| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（[二](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)） \| 雅桑了嗎            |
+| 关于素数那点事儿 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmi1WWaa3p73X7TalChgRyIf) |
+| 1+2+3+4+...=-1/12？李永乐老师讲黎曼猜想（1） [李永乐老师](https://www.youtube.com/watch?v=T93SayXhw2w)              |
+| 质数有多重要？数学家欧拉和高斯是如何研究质数的 ？李永乐老师讲黎曼猜想（2） [李永乐老师](https://www.youtube.com/watch?v=4vbcC4TcMGc)       |
+| 悬赏100万美元的“黎曼猜想”有多难？李永乐老师讲什么是黎曼猜想（3） [李永乐老师](https://www.youtube.com/watch?v=NeoDdnSlRjk)          |
+| 朗道-西格尔零点是什么？张益唐证明了黎曼猜想吗？ [李永乐老师](https://www.youtube.com/watch?v=Y86kfiVEXd4)                     |
 
 ### 泛函分析 Functional Analysis
 
