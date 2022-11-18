@@ -201,12 +201,11 @@
 
 ### WordPress
 
-|                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)                |
-| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE)       |
-| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                          |
-| How to Make a WordPress Blog and Website – Tutorial for Beginners 2022 [freeCodeCamp](https://www.youtube.com/watch?v=9VPq1JxMfkA) |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)          |
+| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE) |
+| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                    |
 
 ### Netlify
 

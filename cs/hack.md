@@ -13,7 +13,6 @@
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| xuanhun/[PythonHackingBook1](https://github.com/xuanhun/PythonHackingBook1)   Python黑客编程之极速入门   [玄魂](https://www.zhihu.com/people/xuan-hun)                                               |
 | Ethical Network Hacking for Idiots [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                                              |
 | How the Best Hackers Learn Their Craft [RSA Conference](https://www.youtube.com/watch?v=6vj96QetfTg)                                                                                      |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                          |

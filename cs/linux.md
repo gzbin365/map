@@ -49,7 +49,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | **Nitrux(**[**v**](https://www.youtube.com/watch?v=LRqCe61yU30)**, )**                                                             | **Solus(u,** [**s**](https://getsol.us/home/)**,** [**v**](https://www.youtube.com/watch?v=eJUIHjXlNsQ)**, )**                                                                                                                                                            |
 | RedHat([s](https://www.redhat.com/zh), [u](https://www.youtube.com/c/redhat/playlists), )                                          | Redcore Linux([v](https://www.youtube.com/watch?v=oFs9accYV2c), )                                                                                                                                                                                                         |
 | mint                                                                                                                               | Asashi linux v                                                                                                                                                                                                                                                            |
-|                                                                                                                                    | deepin 抖音号：[deepinlinux](https://www.douyin.com/user/MS4wLjABAAAAW3TvNOziyQ2GR7TFl682Yhrx4\_x1F8x9UYXuDA13nbQ)                                                                                                                                                            |
+| Void Linux [Jake@Linux](https://www.youtube.com/watch?v=rpiThzdDLXQ)                                                               | deepin 抖音号：[deepinlinux](https://www.douyin.com/user/MS4wLjABAAAAW3TvNOziyQ2GR7TFl682Yhrx4\_x1F8x9UYXuDA13nbQ)                                                                                                                                                            |
 
 |                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -224,6 +224,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 |                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn) |
+| bytebase/[star-history](https://github.com/bytebase/star-history)   [s](https://star-history.com/)                                                                     |
 | [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                 |
 | **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**                                                                               |
 | **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                             |
@@ -236,7 +237,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                             |
 | github-actions [s](https://github.com/features/actions) bot                                                                                                            |
 | GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                           |
-|                                                                                                                                                                        |
+| How To Automate Github Using Python \| PyGithub \| Easy Guide [AI Sciences](https://www.youtube.com/watch?v=QaURSdmP0o8)                                               |
 |                                                                                                                                                                        |
 
 | github.dev                                                                                                                                          |
