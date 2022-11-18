@@ -207,6 +207,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
 | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                          | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
 | 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         | 初中数学竞赛 [u](https://www.youtube.com/channel/UCCNQgGoCEDqx51Fy3g9bDGw)                                           |
+|                                                                                                                                       | 百益数学 [u](https://www.youtube.com/@user-bw7fc3kr1w)                                                             |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -1323,6 +1324,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                                                                                                                                                                                                |
 | RSA Private & Public Key Encryption in Python [NeuralNine](https://www.youtube.com/watch?v=n0uJsqFGO4k)                                                                                                                                                                                                                 |
 | <p>Linux 网络编程与加密 WIP <a href="https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/#/">s</a> <a href="https://github.com/ArchLinuxStudio/LinuxNetworkProgrammingAndEncryption">git</a></p><p>Linux 网络编程的相关知识密码学组建库 mbedtls 以及 sodium 的使用</p><p>如何实现一个 TLS 的网页请求客户端</p><p>将各项网络、密码学技术组合，实现互联网的自由访问</p> |
+| Secure Login System in Python [NeuralNine](https://www.youtube.com/watch?v=3NEzo3CfbPg)                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                         |
 
 ### 哈希

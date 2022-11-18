@@ -4,7 +4,7 @@ description: 语音 音频 Voice speech Sound
 
 # Audio
 
-autotune
+
 
 
 
@@ -69,8 +69,6 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| vosk                                                                                                                                                                                                                                                                                                         |
-| paddle speech                                                                                                                                                                                                                                                                                                |
 | SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4)                                                                                                                                   |
 | PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)****                                                                                                                                                                                                                              |
 | Speech Recognition with Convolutional Neural Networks in Keras/TensorFlow [Weights & Biases](https://www.youtube.com/watch?v=Qf4YJcHXtcY)                                                                                                                                                                    |
@@ -149,7 +147,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Can we CLONE my voice using ML? [Nicholas Renotte](https://www.youtube.com/watch?v=qVD1NBLoOJw)                                                                                                                                                                                                                                                                    |
 | I secretly used AI to clone my favourite Rapper [Nicholas Renotte](https://www.youtube.com/watch?v=HoMZxHNpM84)                                                                                                                                                                                                                                                    |
 | [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)                                                                                                                                                                                                                                                                                |
-| NVIDIA’s Amazing AI Clones Your Voice! 🤐 [Two Minute Papers](https://www.youtube.com/watch?v=k54cpsAbMn4)                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
