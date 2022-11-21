@@ -37,7 +37,6 @@ description: Blockchain & Cryptocurrency
 | Blockchain & Cryptocurrency [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQF\_5bEErheiAawrJ-2zQoI)                                                 |
 | Decentralized tech - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSM\_uLyxy5B6ml\_BpmLFAHU)                                                       |
 | Building a blockchain with Javascript [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)                                        |
-| Blockchain & Cryptocurrency [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQF\_5bEErheiAawrJ-2zQoI)                                                 |
 | 货币和加密货币 西班牙语 [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNSrNqusBK-DrNbO5YFgxJzD)                                                                        |
 | Why a new cryptocurrency? [UnityCoin](https://www.youtube.com/playlist?list=PLUxszVpqZTNTFoP7JFEH-URXL1tFpV52m)                                                           |
 | 以太坊 Ethereum Smart Contract Development [CodePulse](https://www.youtube.com/playlist?list=PLZQftyCk7\_SehVfpAW0KCnrTgb267NSc0)                                            |

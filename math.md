@@ -135,31 +135,40 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### Manim
 
-|                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                          |
-| reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                                                          |
-| Create Math Animations Like 3Blue1Brown using Manim [search](https://www.youtube.com/results?search\_query=Create+Math+Animations+Like+3Blue1Brown+using+Manim) |
-| Creating math animations in Python with Manim [Gilbert Tanner](https://www.youtube.com/watch?v=ixQ9DthtcHM)                                                     |
-| **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                                                           |
-| cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                                                                  |
-| **ManimCairo tutorial** [**Theorem of Beethoven**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)                                    |
-| **The Manim Cast** [**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)                                             |
-| **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                                                     |
-| manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                                                                |
-| 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                                                    |
-| Manim Tutorial [Manim Kindergarten](https://www.youtube.com/playlist?list=PLhxQqVGjoEvY\_KhWzQpZ2ozeLV\_On1ick)                                                 |
-| manim-kindergarten/[manim\_sandbox](https://github.com/manim-kindergarten/manim\_sandbox)   汇总整合各成员提供的manim代码和模块。                                               |
-| Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                                                          |
-| cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                                                       |
-| manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                                                                |
-| Learn Manim - Full Course for Beginners \[Tutorial] [Brian Amedee](https://www.youtube.com/watch?v=KHGoFDB-raE)                                                 |
+|                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                                                                                                                                                                                        |
+| 3b1b/[videos](https://github.com/3b1b/videos)                                                                                                                                                                                                                                                                                 |
+| reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                                                                                                                                                                                                                        |
+| Create Math Animations Like 3Blue1Brown using Manim [search](https://www.youtube.com/results?search\_query=Create+Math+Animations+Like+3Blue1Brown+using+Manim)                                                                                                                                                               |
+| Make Videos Like 3Blue1Brown \| Manim [Darwin Tech](https://www.youtube.com/watch?v=d9nbtyO2YcU\&list=PLNkV3A5yDcdTTQ2THR3Y2bB8ferE7sZYR)                                                                                                                                                                                     |
+| Creating math animations in Python with Manim [Gilbert Tanner](https://www.youtube.com/watch?v=ixQ9DthtcHM)                                                                                                                                                                                                                   |
+| **manim(**[**git**](https://github.com/3b1b/manim)**, ), manim means math animation**                                                                                                                                                                                                                                         |
+| cigar666 [B](https://space.bilibili.com/66806831) [git](https://github.com/manim-kindergarten)                                                                                                                                                                                                                                |
+| <p><strong>ManimCairo tutorial</strong> <a href="https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F"><strong>Theorem of Beethoven</strong></a></p><p>Manim教程合集 <a href="https://www.bilibili.com/video/BV1W4411Z7Zt">pdcxs</a></p>                                                                      |
+| **The Manim Cast** [**Flammable Maths**](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmeRb0GPGW7dN05u2OXD\_6h6)                                                                                                                                                                                                           |
+| **Manim Animations** [**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qmdh9mBL7JKoFLn67aWerdT)                                                                                                                                                                                                                   |
+| manim教程】3b1b高逼格的动画是怎么做出来的？[身轻如象于老八](https://www.bilibili.com/video/BV1KD4y1D7xD)                                                                                                                                                                                                                                              |
+| 经典排序算法可视化\[manim/3b1b] [星与辰尘与土](https://www.bilibili.com/video/BV1tv411T7HQ)                                                                                                                                                                                                                                                  |
+| Manim Tutorial [Manim Kindergarten](https://www.youtube.com/playlist?list=PLhxQqVGjoEvY\_KhWzQpZ2ozeLV\_On1ick)                                                                                                                                                                                                               |
+| manim-kindergarten/[manim\_sandbox](https://github.com/manim-kindergarten/manim\_sandbox)   汇总整合各成员提供的manim代码和模块。                                                                                                                                                                                                             |
+| Manim Kindergarten [s](https://manim.org.cn/docs.html)                                                                                                                                                                                                                                                                        |
+| cai-hust/[manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)   manim中文入门教程                                                                                                                                                                                                                                     |
+| manim中文乱码 [s](https://www.geek-share.com/detail/2802051362.html)                                                                                                                                                                                                                                                              |
+| Learn Manim - Full Course for Beginners \[Tutorial] [Brian Amedee](https://www.youtube.com/watch?v=KHGoFDB-raE)                                                                                                                                                                                                               |
+| manim解释数学 [三金](https://www.douyin.com/video/6823732614537514254)                                                                                                                                                                                                                                                              |
+| 使用Python和Manim制作数学几何动画，快速上手 [张老师Klog](https://www.douyin.com/video/7066067076858842375)                                                                                                                                                                                                                                       |
+| <p>程序猿Shawn 抖音号：<a href="https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y">ProgrammerShawn</a></p><p>Manim 数学动画编程入门 <a href="https://www.tlcoding.cn/courses/manim-basic-course">shawn</a></p><p>intermediate-manim <a href="https://www.devtaoism.com/p/intermediate-manim">shawn</a></p> |
+| manim中文教程\| 3b1b风格的视频是怎样制作的 [chunriboo](https://www.douyin.com/video/7106122584487431431) colab   JianJiang                                                                                                                                                                                                                   |
+| <p>Getting Started with Manim Cairo <a href="https://www.youtube.com/playlist?list=PLQl6Kzr7qo6QBIMnLOdnX8M6gaBxbG26z">AI with Alex</a></p><p>Manim教程合集 <a href="https://www.bilibili.com/video/BV1Q14y1s7Mm">卑以自牧233</a></p>                                                                                                 |
 
-| ManimCE                                                                 |
-| ----------------------------------------------------------------------- |
-| Manim Community v0.15.1 [en](https://docs.manim.community/en/stable/)   |
-| 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417) |
-|                                                                         |
+| ManimCE 推荐                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| Manim Community Edition doc [en](https://docs.manim.community/en/stable/)                                                    |
+| 新版动画引擎 manimCE 的快速安装与运行演示 [李狗嗨](https://zhuanlan.zhihu.com/p/447082417)                                                      |
+| manim [李健辉](https://www.youtube.com/playlist?list=PL6fNW-7ESxVJz\_ILWNtVJF4dFGSNhACgl)                                       |
+| ManimCE Tutorials 2021 [Brian Amedee](https://www.youtube.com/playlist?list=PLWOlLjdyZm2NQD1YZmEPB0dwbd0yKINAT)              |
+| Mathematical Animations WITH EASE [Benjamin Hackl](https://www.youtube.com/playlist?list=PLsMrDyoG1sZm6-jIUQCgN3BVyEVOZz3LQ) |
 
 | ManimGL                                       |
 | --------------------------------------------- |
@@ -172,6 +181,14 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Why aren't you making math videos? (Also, now there's a 3b1b podcast) [3Blue1Brown](https://www.youtube.com/watch?v=ojjzXyQCzso)                                                                                                                                                                                        |
 | <p>Math Animations <a href="https://www.youtube.com/playlist?list=PLaiC38QTRBdzs4kWL8ALPf-1hTn29F4MY">Elliot Waite</a></p><p>Pycairo <a href="https://github.com/pygobject/pycairo">git</a> <a href="https://pycairo.readthedocs.io/en/latest/examples.html">doc</a> <a href="https://cairographics.org/">Cairo</a></p> |
 |                                                                                                                                                                                                                                                                                                                         |
+
+### movy.js
+
+|                                                                                     |            |   |
+| ----------------------------------------------------------------------------------- | ---------- | - |
+| rossning92/[movy](https://github.com/rossning92/movy)                               | js node ts |   |
+| 为什么我用代码制作动画? 我的开源动画引擎 movy.js [奇乐编程学院](https://www.youtube.com/watch?v=C8EiA6RoTnQ) |            |   |
+|                                                                                     |            |   |
 
 ### Math3D
 
@@ -207,6 +224,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 景德镇袁老师（初中数学）抖音号： [JDZ.y](https://www.douyin.com/user/MS4wLjABAAAAYP24B0bfC-g0VBAtc3c58\_8u\_LGsslWno9OvvYPBRoBNg3Ue\_0m52BNKZnjrkJiB) | 大熊　抖音号： [901504895](https://www.douyin.com/user/MS4wLjABAAAAjAynR\_1AxiDFFJ64Szv09VZEIp4bT46dGlnfXplwbto)      |
 | 纳米盒教育 [u](https://www.youtube.com/c/%E7%BA%B3%E7%B1%B3%E7%9B%92%E6%95%99%E8%82%B2/playlists)                                          | 老袁的思维课堂 抖音号： [1059564712](https://www.douyin.com/user/MS4wLjABAAAA6AF7z3a65IIMJ6SvdEwWF26f9nu83ON2xzgMRLl9vGU) |
 | 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         | 初中数学竞赛 [u](https://www.youtube.com/channel/UCCNQgGoCEDqx51Fy3g9bDGw)                                           |
+|                                                                                                                                       | 百益数学 [u](https://www.youtube.com/@user-bw7fc3kr1w)                                                             |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -569,18 +587,22 @@ Theory of functions of a real variable
 | 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                |
 
-| 黎曼猜想                                                                                   |
-| -------------------------------------------------------------------------------------- |
-| 所有非平凡零点都位于实部为1/2的直线上                                                                   |
-| 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应” |
-| 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序 |
-| 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下   |
-| 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？  |
-| 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？            |
-| 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？     |
-| 你的生日是唯一的嗎？小學生也能聽得懂的數學之黎曼猜想（[一](https://www.youtube.com/watch?v=71e8Oas4fSc)）\| 雅桑了嗎    |
-| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（[二](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)） \| 雅桑了嗎 |
-|                                                                                        |
+| 黎曼猜想                                                                                              |
+| ------------------------------------------------------------------------------------------------- |
+| 所有非平凡零点都位于实部为1/2的直线上                                                                              |
+| 黎曼猜想系列（[一](https://www.youtube.com/watch?v=vO8q\_MymDhw)）每出现一个数学公式，就会吓跑一半观众？如何打破“跳蚤效应”            |
+| 黎曼猜想系列（[二](https://www.youtube.com/watch?v=vTKczDmq82U)）两个自然数互质的辩解是多少？我自己算起黎曼猜想，还写了个程序            |
+| 黎曼猜想系列（[三](https://www.youtube.com/watch?v=rCbkwJCmMG0)）“自然数的和等于-112”是胡说八道？我觉得可以再抢救下              |
+| 黎曼猜想系列（[四](https://www.youtube.com/watch?v=ZUO3VTTWDXs)）短短8页纸，至今仍在给数学家启发和挑战，黎曼究竟写了什么？             |
+| 黎曼猜想系列（[五](https://www.youtube.com/watch?v=6FHo3OZ1lj8)）跟外星文明交流，第一条信息应该发什么？                       |
+| 黎曼猜想系列（[六](https://www.youtube.com/watch?v=M7KhuFB0I3M)）1859年就提出的黎曼猜想，数学家证明到什么程度了？                |
+| 你的生日是唯一的嗎？小學生也能聽得懂的數學之黎曼猜想（[一](https://www.youtube.com/watch?v=71e8Oas4fSc)）\| 雅桑了嗎               |
+| 最難掙的100萬美元！證明黎曼猜想是錯的反而更偉大？（[二](https://www.youtube.com/watch?v=\_0dfFaDgY\_Q)） \| 雅桑了嗎            |
+| 关于素数那点事儿 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmi1WWaa3p73X7TalChgRyIf) |
+| 1+2+3+4+...=-1/12？李永乐老师讲黎曼猜想（1） [李永乐老师](https://www.youtube.com/watch?v=T93SayXhw2w)              |
+| 质数有多重要？数学家欧拉和高斯是如何研究质数的 ？李永乐老师讲黎曼猜想（2） [李永乐老师](https://www.youtube.com/watch?v=4vbcC4TcMGc)       |
+| 悬赏100万美元的“黎曼猜想”有多难？李永乐老师讲什么是黎曼猜想（3） [李永乐老师](https://www.youtube.com/watch?v=NeoDdnSlRjk)          |
+| 朗道-西格尔零点是什么？张益唐证明了黎曼猜想吗？ [李永乐老师](https://www.youtube.com/watch?v=Y86kfiVEXd4)                     |
 
 ### 泛函分析 Functional Analysis
 
@@ -1319,6 +1341,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 数学\_质数与RSA密码算法二 [PengTitus](https://www.youtube.com/watch?v=AS0fYRnotEo)                                                                                                                                                                                                                                                |
 | RSA Private & Public Key Encryption in Python [NeuralNine](https://www.youtube.com/watch?v=n0uJsqFGO4k)                                                                                                                                                                                                                 |
 | <p>Linux 网络编程与加密 WIP <a href="https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/#/">s</a> <a href="https://github.com/ArchLinuxStudio/LinuxNetworkProgrammingAndEncryption">git</a></p><p>Linux 网络编程的相关知识密码学组建库 mbedtls 以及 sodium 的使用</p><p>如何实现一个 TLS 的网页请求客户端</p><p>将各项网络、密码学技术组合，实现互联网的自由访问</p> |
+| Secure Login System in Python [NeuralNine](https://www.youtube.com/watch?v=3NEzo3CfbPg)                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                         |
 
 ### 哈希
