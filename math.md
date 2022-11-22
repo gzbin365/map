@@ -138,6 +138,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 |                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                                                                                                                                                                                        |
+| TheSiGuy [u](https://www.youtube.com/@TheSiGuyEN)   Uasoni [u](https://www.youtube.com/@uasoni...)   mathematicsonline [u](https://www.youtube.com/playlist?list=PL14bv5vXK2WX-wctamYtC9UYBUseJBd5R)                                                                                                                          |
 | 3b1b/[videos](https://github.com/3b1b/videos)                                                                                                                                                                                                                                                                                 |
 | reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                                                                                                                                                                                                                        |
 | Create Math Animations Like 3Blue1Brown using Manim [search](https://www.youtube.com/results?search\_query=Create+Math+Animations+Like+3Blue1Brown+using+Manim)                                                                                                                                                               |
@@ -161,6 +162,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | <p>程序猿Shawn 抖音号：<a href="https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y">ProgrammerShawn</a></p><p>Manim 数学动画编程入门 <a href="https://www.tlcoding.cn/courses/manim-basic-course">shawn</a></p><p>intermediate-manim <a href="https://www.devtaoism.com/p/intermediate-manim">shawn</a></p> |
 | manim中文教程\| 3b1b风格的视频是怎样制作的 [chunriboo](https://www.douyin.com/video/7106122584487431431) colab   JianJiang                                                                                                                                                                                                                   |
 | <p>Getting Started with Manim Cairo <a href="https://www.youtube.com/playlist?list=PLQl6Kzr7qo6QBIMnLOdnX8M6gaBxbG26z">AI with Alex</a></p><p>Manim教程合集 <a href="https://www.bilibili.com/video/BV1Q14y1s7Mm">卑以自牧233</a></p>                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                               |
 
 | ManimCE 推荐                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -169,6 +171,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | manim [李健辉](https://www.youtube.com/playlist?list=PL6fNW-7ESxVJz\_ILWNtVJF4dFGSNhACgl)                                       |
 | ManimCE Tutorials 2021 [Brian Amedee](https://www.youtube.com/playlist?list=PLWOlLjdyZm2NQD1YZmEPB0dwbd0yKINAT)              |
 | Mathematical Animations WITH EASE [Benjamin Hackl](https://www.youtube.com/playlist?list=PLsMrDyoG1sZm6-jIUQCgN3BVyEVOZz3LQ) |
+|                                                                                                                              |
 
 | ManimGL                                       |
 | --------------------------------------------- |

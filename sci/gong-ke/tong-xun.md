@@ -2,10 +2,11 @@
 description: Telecommunications
 ---
 
-# 通讯
+# 通信
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
+| TheSiGuy [u](https://www.youtube.com/@TheSiGuyEN)                                                                    |
 | 信号与系统【基础串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPrudLmVi3kszKSXWjKZKRI)         |
 | 《通信原理》(樊昌信)【冲刺串讲】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLO-YRhM8Pnp6qEnl\_nNsgWs)  |
 | 《通信原理》北京邮电大学 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLMOVJid5Ljo1i2SFROPZw0u)       |
@@ -16,10 +17,13 @@ description: Telecommunications
 | 西安电子科技大学 随机信号分析 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDRkuWdMkMGMNos6PEIb9lk)             |
 | 现代数字信号处理1 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CC6gsbb\_9NBmRcFGeizjNr7)                  |
 | 现代数字信号处理2 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDDQNAjXNfqp2-rHQ2\_PcE2)                  |
+| 数字信号处理 吴镇扬 东南大学 [Daily life](https://www.youtube.com/playlist?list=PLJTVYLw2Z1iZ5r9VPK2c\_x-L-16hXx\_1F)             |
 | 西安电子科技大学 雷达原理 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CBpJ2zfBdPy0NpBsYsHymiT)               |
 | 雷达对抗原理                                                                                                               |
 | 通信原理                                                                                                                 |
 | 通信对抗原理                                                                                                               |
+| 通信原理 北京邮电大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7jPRz17k8K3MFylYdl\_q7LG)                 |
+| 来感受一下电子通信的压迫感吧 [立创商城](https://www.douyin.com/video/7140485514422979875)                                              |
 
 ## 信息论 Information Theory
 
@@ -38,3 +42,11 @@ description: Telecommunications
 | 如果听到这个声音一定要注意！教你看懂摩斯电码　[妈咪说MommyTalk](https://www.youtube.com/watch?v=TZxwZiUPsgg) |
 |                                                                                    |
 |                                                                                    |
+
+### 香浓
+
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| 一个能和牛顿、爱因斯坦比肩的神级天才，你可能连他名字都没听过【[天才简史](https://www.youtube.com/watch?v=sd7lTO7iBjw)】 |
+|                                                                                     |
+|                                                                                     |

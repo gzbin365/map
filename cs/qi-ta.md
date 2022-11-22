@@ -201,11 +201,12 @@
 
 ### WordPress
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)          |
-| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE) |
-| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                    |
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)                |
+| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE)       |
+| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                          |
+| How to Make a WordPress Blog and Website – Tutorial for Beginners 2022 [freeCodeCamp](https://www.youtube.com/watch?v=9VPq1JxMfkA) |
 
 ### Netlify
 
@@ -558,6 +559,8 @@
 | 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
 | 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                       |
 | 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                        |
+| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                         |
+| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                           |
 
 ## Windows
 
@@ -584,6 +587,34 @@
 | HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051)                      |
 | 老盖聊装系统，制作U盘启动盘，安装winpe优盘ghost工具备份恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTUxY0tEEyQUPfkfarLbNFa) |
 |                                                                                                                       |
+
+### Windows 95 Windows ME
+
+
+
+### Windows 98
+
+|                                                                                                                                                                                                                                    |   |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| <p>What's the fastest (officially supported) Windows 98 PC? <a href="https://www.youtube.com/watch?v=7D01We2aAu8">MattKC</a></p><p><a href="https://www.youtube.com/c/MattKC/search?query=Windows%2098">query</a>=Windows%2098</p> |   |   |
+|                                                                                                                                                                                                                                    |   |   |
+|                                                                                                                                                                                                                                    |   |   |
+
+### Windows XP
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### Windows 7
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ### Windows 10
 
