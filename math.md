@@ -137,6 +137,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 |                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What Makes People Engage With Math \| Grant Sanderson \| TEDxBerkeley [TEDx Talks](https://www.youtube.com/watch?v=s\_L-fp8gDzY)                                                                                                                                                                                              |
 | Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                                                                                                                                                                                        |
 | TheSiGuy [u](https://www.youtube.com/@TheSiGuyEN)   Uasoni [u](https://www.youtube.com/@uasoni...)   mathematicsonline [u](https://www.youtube.com/playlist?list=PL14bv5vXK2WX-wctamYtC9UYBUseJBd5R)                                                                                                                          |
 | 3b1b/[videos](https://github.com/3b1b/videos)                                                                                                                                                                                                                                                                                 |
@@ -162,6 +163,8 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | <p>程序猿Shawn 抖音号：<a href="https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y">ProgrammerShawn</a></p><p>Manim 数学动画编程入门 <a href="https://www.tlcoding.cn/courses/manim-basic-course">shawn</a></p><p>intermediate-manim <a href="https://www.devtaoism.com/p/intermediate-manim">shawn</a></p> |
 | manim中文教程\| 3b1b风格的视频是怎样制作的 [chunriboo](https://www.douyin.com/video/7106122584487431431) colab   JianJiang                                                                                                                                                                                                                   |
 | <p>Getting Started with Manim Cairo <a href="https://www.youtube.com/playlist?list=PLQl6Kzr7qo6QBIMnLOdnX8M6gaBxbG26z">AI with Alex</a></p><p>Manim教程合集 <a href="https://www.bilibili.com/video/BV1Q14y1s7Mm">卑以自牧233</a></p>                                                                                                 |
+| Manim Sideview - A VSCode Extension (0.1.0 Latest!!) [Rickaym](https://www.youtube.com/watch?v=sFpFlMEu7OY)                                                                                                                                                                                                                   |
+| Is it worth learning Manim? [Theorem of Beethoven](https://www.youtube.com/watch?v=EONHtYkfCds)                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                               |
 
 | ManimCE 推荐                                                                                                                   |
@@ -192,6 +195,14 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | rossning92/[movy](https://github.com/rossning92/movy)                               | js node ts |   |
 | 为什么我用代码制作动画? 我的开源动画引擎 movy.js [奇乐编程学院](https://www.youtube.com/watch?v=C8EiA6RoTnQ) |            |   |
 |                                                                                     |            |   |
+
+### geogebra
+
+|                                |   |   |
+| ------------------------------ | - | - |
+| [s](https://www.geogebra.org/) |   |   |
+|                                |   |   |
+|                                |   |   |
 
 ### Math3D
 
@@ -751,25 +762,26 @@ $$
 
 ### 数理统计 Mathematical Statistics
 
-|                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Statistics - A Full University Course on Data Science Basics(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=xxpc-HPKN28\&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v\&index=5)**)8:15:04** |
-| SPSS Tutorial for data analysis \| SPSS for Beginners([Academic Lesson](https://www.youtube.com/watch?v=Bku1p481z80))                                                                              |
-| 《应用统计分析》实例分析48讲 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOR8x4RPwjRqUmm1gAKq4Kn)                                                                                  |
-| SPSS & SAS 教学【统计学教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOYiJjNRu96C8NvIFRCFR7r)                                                                              |
-| Statistics and Data Science [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU\_EL)                                                                            |
-| Statistics PL09 - Hypothesis Testing [Brandon Foltz](https://www.youtube.com/playlist?list=PLIeGtxpvyG-IZRHcZcOy12jp7ywuRbE7l)                                                                     |
-| Statistics Fundamentals [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                                                                    |
-| SPSS for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ZpwZS3XnEZA)                                                                                                       |
-| 南开大学 试验设计 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDWlL7KlsQ2AwavFXpQvSdq)                                                                                                 |
-| 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                              |
-| 用Python学习统计 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD)                                                                                                |
-| 医学统计学-郝元涛（中山大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6)                                                                                           |
-| keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                               |
-| <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>          |
-| Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                        |
-| 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                         |
-| MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t\_GPx2sRg)                   |
+|                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Statistics - A Full University Course on Data Science Basics(**[**freeCodeCamp.org**](https://www.youtube.com/watch?v=xxpc-HPKN28\&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v\&index=5)**)8:15:04**                                                                                                   |
+| SPSS Tutorial for data analysis \| SPSS for Beginners([Academic Lesson](https://www.youtube.com/watch?v=Bku1p481z80))                                                                                                                                                                                |
+| 《应用统计分析》实例分析48讲 [Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOR8x4RPwjRqUmm1gAKq4Kn)                                                                                                                                                                                    |
+| SPSS & SAS 教学【统计学教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLOYiJjNRu96C8NvIFRCFR7r)                                                                                                                                                                                |
+| Statistics and Data Science [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU\_EL)                                                                                                                                                                              |
+| Statistics PL09 - Hypothesis Testing [Brandon Foltz](https://www.youtube.com/playlist?list=PLIeGtxpvyG-IZRHcZcOy12jp7ywuRbE7l)                                                                                                                                                                       |
+| Statistics Fundamentals [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                                                                                                                                                                      |
+| SPSS for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=ZpwZS3XnEZA)                                                                                                                                                                                                         |
+| 南开大学 试验设计 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDWlL7KlsQ2AwavFXpQvSdq)                                                                                                                                                                                                   |
+| 什么是无偏估计？[zh](https://www.zhihu.com/question/22983179)                                                                                                                                                                                                                                                |
+| 用Python学习统计 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tF7bTJQu8WAIvehGR0BJmLD)                                                                                                                                                                                                  |
+| 医学统计学-郝元涛（中山大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4Sb3iwksAQ\_uBKS4w66NupW6)                                                                                                                                                                                             |
+| keyword=[python统计](https://search.bilibili.com/all?keyword=python%E7%BB%9F%E8%AE%A1)                                                                                                                                                                                                                 |
+| <p>Mathematics <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v">freeCodeCamp</a></p><p>Statistics - A Full University Course on Data Science Basics</p>                                                                                                            |
+| Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                                                                                                                          |
+| 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                                                                                                                           |
+| MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t\_GPx2sRg)                                                                                                                     |
+| <p>【统计学】样本方差为什么要除以n-1 <a href="https://www.youtube.com/watch?v=tSBk9sJ25JQ">JianJiang</a></p><p>在现实世界里我们很难知道总体的均值μ, 只能用样本均值替代总体均值进行计算, 用样本均值算出的样本方差S方是其所有可能取值的下限, 这就导致样本方差小于总体方差, 因为用x bar直接替代μ 会造成对总体方差的低估, 所以要进行校正. 做法通常是让分母的n减去1, 这样方差会比之前稍大一点, 更加接近总体方差, 这个校正后的方差被称为无偏方差(Unbiased Variance).</p> |
 
 | IRT理論                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

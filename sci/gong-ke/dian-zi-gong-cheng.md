@@ -18,3 +18,9 @@
 | Musical Instruments, Accessories, and Equipment [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXMh0fPlPrM00YJU0XS7Rb1) | 发了一千多篇文章的大佬，写了这样一本书 [爱研究的小胡同学](https://www.douyin.com/video/7145830399761992995)                                              |
 |                                                                                                                                       | 电子电路入门没你想的那么简（复）单（杂） [工科男孙老师](https://www.douyin.com/video/7150120849113238796)                                               |
 |                                                                                                                                       | 张彦欣单片机 抖音号：[zyxmcu](https://www.douyin.com/user/MS4wLjABAAAARwWt7mwPL7CUwLhrFADGG2eABfOMroZbhJBOrXaZNz5u8kANZIwxbwwSdL-jwS57) |
+
+|                                                                                                         |   |   |
+| ------------------------------------------------------------------------------------------------------- | - | - |
+| 十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用 [jasonmel](https://www.youtube.com/watch?v=V3A0fxmhYrg) |   |   |
+|                                                                                                         |   |   |
+|                                                                                                         |   |   |
