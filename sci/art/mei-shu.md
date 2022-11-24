@@ -141,11 +141,11 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 </details>
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE) |
-| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                             |
-|                                                                                              |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE)                   |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                               |
+| Photoshop CS6 平面設計基礎教學 [Miss SWEET](https://www.youtube.com/playlist?list=PLY0r2Sr\_mOaqUNncMpGq9mgoweGT-Mmnq) |
 
 ## 3D 建模
 
@@ -188,6 +188,7 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                                                                                                                      |
 | Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                                                                                                                   |
 | CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)   Polygon Runway [u](https://www.youtube.com/c/PolygonRunway)   Noggi [u](https://www.youtube.com/c/Noggi\_Video)   Blender Art [u](https://www.youtube.com/c/BlenderArt) |
+| Primer [u](https://www.youtube.com/c/PrimerLearning) [git](https://github.com/Primer-Learning/PrimerTools) [git](https://github.com/gzbin365/primerpython)                                                                                   |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                                                                                                                |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                                                                                                                       |
 | Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                                                                                                                   |

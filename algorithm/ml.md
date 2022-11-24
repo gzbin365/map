@@ -769,6 +769,8 @@ How kNN algorithm works Thales [Sehn Körting](https://www.youtube.com/watch?v=U
 
 How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.com/watch?v=rTEtEy5o3X0)
 
+Heart Disease Predictor Model Using KNN Classifier |Machine Learning| Python | Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=wTSCcebXq9k)
+
 ### 时间序列  Time Series
 
 |                                                                                                                                                                                                                        |

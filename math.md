@@ -296,6 +296,8 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Riemann's paradox: pi = infinity minus infinity [Mathologer](https://www.youtube.com/watch?v=-EtHF5ND3\_s) |
 | 一个数数谜题中最难以想象的谜底 [3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)                                 |
 | The Discovery That Transformed Pi [Veritasium](https://www.youtube.com/watch?v=gMlf1ELvRzc)                |
+| 为什么pi差点就是6.283185 ... [3Blue1Brown](https://www.youtube.com/watch?v=bcPTiiiYDs8)                           |
+| Tau vs Pi Smackdown - [Numberphile](https://www.youtube.com/watch?v=ZPv1UV0rD8U)                           |
 
 费波纳切数列
 
