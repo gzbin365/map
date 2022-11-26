@@ -520,7 +520,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                              |
 | The spelled-out intro to language modeling: building makemore [Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo\&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\&index=2) |
 | XAI meets Natural Language Models - Larissa Haas \[PyData Südwest / Big Data BBQ] [PyData](https://www.youtube.com/watch?v=Iqs5MkG90TE)                                        |
-| Galactica: A Large Language Model for Science (Drama & Paper Review) [Yannic Kilcher](https://www.youtube.com/watch?v=ZTs\_mXwMCs8)                                            |
 |                                                                                                                                                                                |
 
 ### Causal Inference
