@@ -159,6 +159,8 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 
 这种神乎其神的CG到底是怎么做出来啊？[zh](https://www.zhihu.com/question/36763083)
 
+How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
+
 ### 3Dmax
 
 |                                                                                                                                        |                                                                                       |

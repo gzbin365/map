@@ -132,6 +132,9 @@ description: 硬件设备
 | The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                                                     |
 | 树莓派驱动开发实战 [Philon](https://ixx.life/categories/%E6%A0%91%E8%8E%93%E6%B4%BE%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/)                                                                                                        |
 | Movidius NCS + Raspberry Pi 3B+ [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRaT\_AEkme7Ne81WTgBzMEg) Deep Learning                                                                                                       |
+| Creating a Website on Raspberry Pi [Chris Titus Tech](https://www.youtube.com/watch?v=BPcficy9ji0)                                                                                                                                        |
+| Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL\_vyuxE-AO-CXEUMjEN8Vzt0\_WxrhEbEX)                                                                                                                              |
+| I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc\_zGRYhLo)                                                                                |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
@@ -739,15 +742,22 @@ System on Chip, 系统级芯片
 
 Network Attached Storage, 网络附加存储, 个人私有云
 
-|                                                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| synology 群晖 [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY)                       |
-| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                                                   |
-| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91) DS1821+ [v](https://www.youtube.com/watch?v=BGMY3dn5V4U) |
-|                                                                                                                                                                              |
+|                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| synology 群晖 [u](https://www.youtube.com/@synologyinc) [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
+| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                                                                       |
+| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91) DS1821+ [v ](https://www.youtube.com/watch?v=BGMY3dn5V4U)                    |
+| 2盘 DS218+ 链路聚合: 读写加速                                                                                                                                                                             |
+| 4盘 DS918+ [v](https://www.youtube.com/watch?v=UZmtn1x2hdg)   DS920+ [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) m.2 ssd\*2 缓存: 提升硬盘的4K性能 4\*8 32T -> 21T                                    |
+| 6盘 DS1618+ 万兆网卡 网线: 6/8类线                                                                                                                                                                        |
+| 8盘 DS1618+                                                                                                                                                                                       |
+| 机械换成固态: 没有噪音                                                                                                                                                                                     |
 
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
+| 家用nas两盘位求大神如何推荐? [zh](https://www.zhihu.com/question/526519667)                                                         |
+| 成品双盘位NAS哪个比较好？[zh](https://www.zhihu.com/question/568580011)                                                            |
+| 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                          |
 | 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)  |
 | UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
 | 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
@@ -765,7 +775,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                    |
 | 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                         |
 | 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB |
-|                                                                                                                         |
+| 【全网首发】2022 N5105 NAS的巅峰之作新品 4_2.5G 2_NVME 首发简测 颜值 性能一个都不少 [酷玩咖](https://www.youtube.com/watch?v=ToNpOMMVXeg)            |
 |                                                                                                                         |
 | 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                             |
 | 安卓手机，软改造变身轻Nas小群晖，本地远程都好用 [请叫我卡哥](https://www.douyin.com/video/7153171124229066014)                                     |
@@ -780,8 +790,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          | What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac) | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U) |
 | 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) |                                                                                                      |                                                                                |
-| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 红盘 专用硬盘,                                                                                         |                                                                                                      |                                                                                |
-|                                                                                                                               |                                                                                                      |                                                                                |
+| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                |
+| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错, RAID 6 2个容错                                                                             |                                                                                |
 
 ## 数据恢复
 
