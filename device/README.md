@@ -790,6 +790,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                 |
 |                                                                                                                         |
 | 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                              |
+| 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                      |
+| NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                    |
 |                                                                                                                         |
 
 #### RAID
@@ -831,6 +833,14 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                               |
 | [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278) |
 |                                                                                                                                                             |
+
+## 交换机
+
+|                                                                                      |   |   |
+| ------------------------------------------------------------------------------------ | - | - |
+| 实现链路聚合这么简单？！交换机升级就行？！我一番折腾终成功 [TuTu生活志](https://www.youtube.com/watch?v=vuD9mZtuV7U) |   |   |
+|                                                                                      |   |   |
+|                                                                                      |   |   |
 
 ## 手工, DIY
 
