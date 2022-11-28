@@ -742,25 +742,29 @@ System on Chip, 系统级芯片
 
 Network Attached Storage, 网络附加存储, 个人私有云
 
-|                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| synology 群晖 [u](https://www.youtube.com/@synologyinc) [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
-| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                                                                       |
-| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91) DS1821+ [v ](https://www.youtube.com/watch?v=BGMY3dn5V4U)                    |
-| 2盘 DS218+ 链路聚合: 读写加速                                                                                                                                                                             |
-|                                                                                                                                                                                                  |
-| 4盘 DS918+ [v](https://www.youtube.com/watch?v=UZmtn1x2hdg)   DS920+ [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) m.2 ssd\*2 缓存: 提升硬盘的4K性能 4\*8 32T -> 21T                                    |
-| 5盘 DS1522+                                                                                                                                                                                       |
-| 6盘 DS1618+ DS1621+ 万兆网卡 网线: 6/8类线                                                                                                                                                                |
-| 8盘 DS1618+ DS1821+                                                                                                                                                                               |
-| 机械换成固态: 没有噪音                                                                                                                                                                                     |
+| 群晖（Synology）                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| synology 群晖 [u](https://www.youtube.com/@synologyinc) [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY)   群晖（Synology）[知乎话题](https://www.zhihu.com/topic/19827077/hot) |
+| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                                                                                                                                      |
+| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91) DS1821+ [v ](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                                                                   |
+| 2盘 DS218+ 链路聚合: 读写加速                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                 |
+| 4盘 DS918+ [v](https://www.youtube.com/watch?v=UZmtn1x2hdg)   DS920+ [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) [v](https://www.youtube.com/watch?v=wNjbQC53KxY) m.2 ssd\*2 缓存: 提升硬盘的4K性能 4\*8 32T -> 21T                                                  |
+| 5盘 DS1522+                                                                                                                                                                                                                                                      |
+| 6盘 DS1618+ DS1621+ 万兆网卡 网线: 6/8类线                                                                                                                                                                                                                               |
+| 8盘 DS1618+ DS1821+                                                                                                                                                                                                                                              |
+| 10盘 asustor [v](https://www.youtube.com/watch?v=er6O-0vPA9s)                                                                                                                                                                                                    |
+| 机械换成固态: 没有噪音                                                                                                                                                                                                                                                    |
+| NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                    |
 
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
+| [知乎话题](https://www.zhihu.com/topic/19571800/hot)                                                                        |
 | 家用nas两盘位求大神如何推荐? [zh](https://www.zhihu.com/question/526519667)                                                         |
 | 成品双盘位NAS哪个比较好？[zh](https://www.zhihu.com/question/568580011)                                                            |
 | 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                          |
 | 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)  |
+| 备份3-2-1 原则, 至少备份3份, 透过2种不同媒介存储, 1分异地备份 [v](https://www.youtube.com/watch?v=wNjbQC53KxY)9:06                             |
 | UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
 | 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
 | 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                        |
@@ -792,7 +796,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                              |
 | 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                      |
 | NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                    |
-|                                                                                                                         |
+| 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                           |
+| 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                           |
 
 #### RAID
 
@@ -813,6 +818,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)                                          |
 | 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)   |
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
+| 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)                                                              |
 
 ## 路由器 软路由
 

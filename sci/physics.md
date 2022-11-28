@@ -23,6 +23,7 @@
 | 佑来了生活科学 抖音号：[YoulaileSTEM](https://www.douyin.com/user/MS4wLjABAAAAyL0n5s56zMXCinGDvpmYMo6RPatrbMBg9kyBJVH7GmeucuV568RLYIHwPKa2xvHw)                                                  | 张朝阳的物理课 抖音号：[Charlesphysics](https://www.douyin.com/user/MS4wLjABAAAApIEQAQbDECJWlDDvDKCwpvpLAskFmeUxnIIrAAL9mNoDBYxAJxED5RCBTISu7zcY) |
 | 弓弓沐梓（科普）抖音号：[366411781](https://www.douyin.com/user/MS4wLjABAAAAKz5dhoOrFQaRVgzLsCdnmp53dj8uCarcQ9pU5mjwWoo)                                                                          | 爆炸实验室 抖音号：[BBoomLab](https://www.douyin.com/user/MS4wLjABAAAAffYZr3gSkDlT15ksTdm5xexwA0d-npfK1fFJLMOCQAU)                              |
 | 道理学趣味物理实验 抖音号：[dlxqwwl](https://www.douyin.com/user/MS4wLjABAAAAUeTGpEJhhtsxfbnDZAjPCB0XLpAKJeZrsqgzwAtkrVaTOSqKZRXhdJGBcCZAX7Fg)                                                     | 传感器玩镓 抖音号：[23109939421](https://www.douyin.com/user/MS4wLjABAAAANc-oVfpiI\_l\_MAPwlQOkltg1jHlbs9UQEIugWD5NHKm\_N8SlDlNTc66hDkLpbCbI)   |
+|                                                                                                                                                                                       | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -191,6 +192,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |
 | 边界层理论 天津大学 董明 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDXLZFs1PTypISLHZK\_IpSF)             |
 | 2.5流物理学家朗道的一生 什么是玻色-爱因斯坦凝聚？[妈咪说MommyTalk](https://www.youtube.com/watch?v=0gZXhrQjjqc\&t=14s)                       |
+| 知道讓足球拐彎的馬格努斯效應，就知道為什麼子彈不會拐彎了！ \| [雅桑了嗎](https://www.youtube.com/watch?v=bYHh2ZBzCOA)                                |
 |                                                                                                                     |
 
 ## 空气动力学, Aerodynamics
