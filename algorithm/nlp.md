@@ -423,7 +423,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- |
 | Calculating Text Similarity in Python with NLP [NeuralNine](https://www.youtube.com/watch?v=y-EjAuWdZdI) |
-|                                                                                                          |
+| Brokenwind/[BertSimilarity](https://github.com/Brokenwind/BertSimilarity)                                |
 |                                                                                                          |
 
 ### 关键词提取  摘要
@@ -437,6 +437,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 ### 词法分析
 
 ###
+
+### 事件三元组抽取
+
+|                                                                                             |   |   |
+| ------------------------------------------------------------------------------------------- | - | - |
+| liuhuanyong/[EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) |   |   |
+|                                                                                             |   |   |
+|                                                                                             |   |   |
 
 ### 机器翻译
 
@@ -478,37 +486,38 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### GPT
 
-|                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GPT，GPT-2，GPT-3 论文精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=7qjxYJihfNQ)                                                                               |
-| \[ML News] De-Biasing GPT-3 \| RL cracks chip design \| NetHack challenge \| Open-Source GPT-J [Yannic Kilcher](https://www.youtube.com/watch?v=Ihg4XDWOy68)  |
-| GPT-3: Language Models are Few-Shot Learners (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=SY5PvZrJhLE)                                  |
-| [https://copilot.github.com/](https://copilot.github.com/)                                                                                                    |
-| The Truth about Github Copilot // AI Programming First Look [Fireship](https://www.youtube.com/watch?v=4duqI8WyfqE)                                           |
-| Trying GitHub Copilot: Will it take our jobs? [Better Dev](https://www.youtube.com/watch?v=PNa6JECMS8A)                                                       |
-| Please Don't Use GitHub Copilot [Engineer Man](https://www.youtube.com/watch?v=b9u3ZAGQmT0)                                                                   |
-| Can GitHub Copilot center a div? [We Deserve Less](https://www.youtube.com/watch?v=5Gh\_QpLHjOo)                                                              |
-| Github Copilot: Good or Bad? [sentdex](https://www.youtube.com/watch?v=PDNt07UePvk)                                                                           |
-| Introducing GPT-J -- An Open Source Version Of GPT-3 (NLP News) [Vennify AI](https://www.youtube.com/watch?v=6w5sgWo68E0)                                     |
-| Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI [sentdex](https://www.youtube.com/watch?v=\_z86t7LerrQ)                                 |
-| How To Build a GPT-3 Chatbot with Python [Learn With Jabe](https://www.youtube.com/watch?v=C-8sF81k7cY)                                                       |
-| Building my first GPT 3 App with Open AI Playground [Greg Raiz](https://www.youtube.com/channel/UC9yKfHPA\_AKfMiqtG4tvKPw)                                    |
-| This New A.I. Can Write Anything, Even Code (GPT-3) [ColdFusion](https://www.youtube.com/watch?v=Te5rOTcE4J4)                                                 |
-| GPT2:AI Language Models & Transformers - [Computerphile](https://www.youtube.com/watch?v=rURRYI66E54)                                                         |
-| GPT3: An Even Bigger Language Model - [Computerphile](https://www.youtube.com/watch?v=\_8yVOC4ciXc)                                                           |
-| OpenAI Codex Live Demo [OpenAI](https://www.youtube.com/watch?v=SGUCcjHTmGY)                                                                                  |
-| OpenAI: Working with GPT-3 [Artificial Intelligence Society](https://www.youtube.com/watch?v=ffKXEvnaAZM&)                                                    |
-| Why GPT-3 changes everything (and how it works) [Sebastian Schuchmann](https://www.youtube.com/watch?v=rLE0b8\_OQMk)                                          |
-| Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=U5OD8MjYnOM) Podcast #215              |
-| <p>GPT-3 Demo: New AI Algorithm Changes How We Interact With Technology</p><p><a href="https://www.youtube.com/watch?v=8V20HkoiNtc">Disruption Theory</a></p> |
-| How GPT3 Works - Easily Explained with Animations [Jay Alammar](https://www.youtube.com/watch?v=MQnJZuBGmSQ)                                                  |
-| Two AIs talk about the nature of Love. (GPT-3) \| AJPhilanthropist [Alif Jakir](https://www.youtube.com/watch?v=a6jt3Vufa9U)                                  |
-| #031 WE GOT ACCESS TO GPT-3! (With Gary Marcus, Walid Saba and Connor Leahy) [Machine Learning Street Talk](https://www.youtube.com/watch?v=iccd86vOz3w)      |
-| What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                         |
-| \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                    |
-| Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses            |
-| Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                      |
-|                                                                                                                                                               |
+|                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GPT，GPT-2，GPT-3 论文精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=7qjxYJihfNQ)                                                                                      |
+| \[ML News] De-Biasing GPT-3 \| RL cracks chip design \| NetHack challenge \| Open-Source GPT-J [Yannic Kilcher](https://www.youtube.com/watch?v=Ihg4XDWOy68)         |
+| GPT-3: Language Models are Few-Shot Learners (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=SY5PvZrJhLE)                                         |
+| [https://copilot.github.com/](https://copilot.github.com/)                                                                                                           |
+| The Truth about Github Copilot // AI Programming First Look [Fireship](https://www.youtube.com/watch?v=4duqI8WyfqE)                                                  |
+| Trying GitHub Copilot: Will it take our jobs? [Better Dev](https://www.youtube.com/watch?v=PNa6JECMS8A)                                                              |
+| Please Don't Use GitHub Copilot [Engineer Man](https://www.youtube.com/watch?v=b9u3ZAGQmT0)                                                                          |
+| Can GitHub Copilot center a div? [We Deserve Less](https://www.youtube.com/watch?v=5Gh\_QpLHjOo)                                                                     |
+| Github Copilot: Good or Bad? [sentdex](https://www.youtube.com/watch?v=PDNt07UePvk)                                                                                  |
+| Introducing GPT-J -- An Open Source Version Of GPT-3 (NLP News) [Vennify AI](https://www.youtube.com/watch?v=6w5sgWo68E0)                                            |
+| Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI [sentdex](https://www.youtube.com/watch?v=\_z86t7LerrQ)                                        |
+| How To Build a GPT-3 Chatbot with Python [Learn With Jabe](https://www.youtube.com/watch?v=C-8sF81k7cY)                                                              |
+| Building my first GPT 3 App with Open AI Playground [Greg Raiz](https://www.youtube.com/channel/UC9yKfHPA\_AKfMiqtG4tvKPw)                                           |
+| This New A.I. Can Write Anything, Even Code (GPT-3) [ColdFusion](https://www.youtube.com/watch?v=Te5rOTcE4J4)                                                        |
+| GPT2:AI Language Models & Transformers - [Computerphile](https://www.youtube.com/watch?v=rURRYI66E54)                                                                |
+| GPT3: An Even Bigger Language Model - [Computerphile](https://www.youtube.com/watch?v=\_8yVOC4ciXc)                                                                  |
+| OpenAI Codex Live Demo [OpenAI](https://www.youtube.com/watch?v=SGUCcjHTmGY)                                                                                         |
+| OpenAI: Working with GPT-3 [Artificial Intelligence Society](https://www.youtube.com/watch?v=ffKXEvnaAZM&)                                                           |
+| Why GPT-3 changes everything (and how it works) [Sebastian Schuchmann](https://www.youtube.com/watch?v=rLE0b8\_OQMk)                                                 |
+| Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=U5OD8MjYnOM) Podcast #215                     |
+| <p>GPT-3 Demo: New AI Algorithm Changes How We Interact With Technology</p><p><a href="https://www.youtube.com/watch?v=8V20HkoiNtc">Disruption Theory</a></p>        |
+| How GPT3 Works - Easily Explained with Animations [Jay Alammar](https://www.youtube.com/watch?v=MQnJZuBGmSQ)                                                         |
+| Two AIs talk about the nature of Love. (GPT-3) \| AJPhilanthropist [Alif Jakir](https://www.youtube.com/watch?v=a6jt3Vufa9U)                                         |
+| #031 WE GOT ACCESS TO GPT-3! (With Gary Marcus, Walid Saba and Connor Leahy) [Machine Learning Street Talk](https://www.youtube.com/watch?v=iccd86vOz3w)             |
+| What It's Like To be a Computer: An Interview with GPT-3 [Eric Elliott](https://www.youtube.com/watch?v=PqbB07n\_uQ4)                                                |
+| \[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3 [Hung-yi Lee](https://www.youtube.com/watch?v=DOG1L9lvsDY)                                                                           |
+| Fine-tuning GPT-3 with the OpenAI API and [Weights & Biases](https://www.youtube.com/watch?v=5MNqn\_7ty8A) to Generate Doctor Who Episode Synopses                   |
+| Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                             |
+| NLP is not NLU and GPT-3 - Walid Saba [Machine Learning Street Talk](https://www.youtube.com/watch?v=b9qwLkJW2ig\&list=PLwFLAA-F1PgpU9lgxOdhjILkMXUagGnea\&index=13) |
+| \[ML News] GPT-4 Rumors \| AI Mind Reading \| Neuron Interaction Solved \| AI Theorem Proving [Yannic Kilcher](https://www.youtube.com/watch?v=r8wiBA3ZaQE)          |
 
 ### 语言模型, Language Model
 
@@ -520,6 +529,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | $5 MILLION AI for FREE [sentdex](https://www.youtube.com/watch?v=3EjtHs\_lXnk) [code](https://github.com/Sentdex/BLOOM\_Examples)                                              |
 | The spelled-out intro to language modeling: building makemore [Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo\&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\&index=2) |
 | XAI meets Natural Language Models - Larissa Haas \[PyData Südwest / Big Data BBQ] [PyData](https://www.youtube.com/watch?v=Iqs5MkG90TE)                                        |
+| Galactica: A Large Language Model for Science (Drama & Paper Review) [Yannic Kilcher](https://www.youtube.com/watch?v=ZTs\_mXwMCs8)                                            |
 |                                                                                                                                                                                |
 
 ### Causal Inference
