@@ -4,7 +4,7 @@ description: 语音 音频 Voice speech Sound
 
 # Audio
 
-
+autotune
 
 
 
@@ -65,10 +65,12 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## 语音识别, ASR, Automatic Speech Recognition
 
-**Speech to Text /** Speech Recognition **/** Voice Recognition
+**Speech to Text /** Speech Recognition **/** Voice Recognition / Speech Detection
 
 |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| vosk                                                                                                                                                                                                                                                                                                         |
+| paddle speech                                                                                                                                                                                                                                                                                                |
 | SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4)                                                                                                                                   |
 | PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)****                                                                                                                                                                                                                              |
 | Speech Recognition with Convolutional Neural Networks in Keras/TensorFlow [Weights & Biases](https://www.youtube.com/watch?v=Qf4YJcHXtcY)                                                                                                                                                                    |
@@ -84,6 +86,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | <p>Speech Recognition in Python Tutorial – Full Course for Beginners <a href="https://www.youtube.com/watch?v=mYUyaKmvu6Y">freeCodeCamp</a></p><p>Python Speech Recognition Tutorial – Full Course for Beginners</p>                                                                                         |
 | Build your own real-time voice command recognition model with TensorFlow [AssemblyAI](https://www.youtube.com/watch?v=m-JzldXm9bQ)                                                                                                                                                                           |
 | nobody132/[masr](https://github.com/nobody132/masr) 中文语音识别; Mandarin Automatic Speech Recognition;                                                                                                                                                                                                           |
+| Build a Twitter Hate Speech Detection Model Using Machine Learning \| Python \| Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=AEWty\_y\_WxE)                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                              |
 
 | pyTranscriber                                                                                                                              |                                                                                                               |   |
@@ -147,7 +150,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Can we CLONE my voice using ML? [Nicholas Renotte](https://www.youtube.com/watch?v=qVD1NBLoOJw)                                                                                                                                                                                                                                                                    |
 | I secretly used AI to clone my favourite Rapper [Nicholas Renotte](https://www.youtube.com/watch?v=HoMZxHNpM84)                                                                                                                                                                                                                                                    |
 | [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                    |
+| NVIDIA’s Amazing AI Clones Your Voice! 🤐 [Two Minute Papers](https://www.youtube.com/watch?v=k54cpsAbMn4)                                                                                                                                                                                                                                                         |
 
 |                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
