@@ -231,7 +231,6 @@ Industrial-Strength Natural Language Processing
 | NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
 | TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networks [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                    |
 | Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                |
-| How To Detect Fake News Using AI \| Python \| ML \| Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=oWW7pbDMTp8)                            |
 
 ### 自然语言理解 Natural Language Understanding
 

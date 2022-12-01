@@ -391,11 +391,11 @@ import cv2
 
 ### 姿势估计(Pose Estimation)
 
-|                                                                                                                                                     |   |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR)                                                |   |   |
-| 3D Motion Capture using Normal Webcam \| Computer Vision OpenCV [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=BtMs0ysTdkM) |   |   |
-|                                                                                                                                                     |   |   |
+|                                                                                                                                                     |                                                                                                                                        |   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR)                                                |                                                                                                                                        |   |
+| 3D Motion Capture using Normal Webcam \| Computer Vision OpenCV [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=BtMs0ysTdkM) | Track Human Activity Using Scikit Learn \| Python \| Tutorial For Beginners [AI Sciences](https://www.youtube.com/watch?v=HxepdlmhKYs) |   |
+|                                                                                                                                                     |                                                                                                                                        |   |
 
 ### OCR, Optical Character Recognition
 
