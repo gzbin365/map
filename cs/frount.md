@@ -382,6 +382,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | JavaScript教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)                                                                                                                        |
 | 麦子学院-前端开发项目-一起来做秒杀活动 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzzRaLTCX-XQlsI3\_J9\_eK3)                                                                                  |
 | 🎮 Easy JavaScript Game Development with Kaboom.js (Mario, Zelda, and Space Invaders) - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=4OaHB0JbJDI)                              |
+| Space Invaders (JavaScript, HTML & CSS) [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-cTo-zb1iUxL4mwq0n9Vj\_U)                                                        |
 | Javascript Basics [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmtf5v3hefG5seVynUtV9T8)                                                                                        |
 | JavaScript Design Patterns [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkGKjpeiLWz8ydvFEkmRkBn)                                                                               |
 | Object Oriented JavaScript [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmRCRPu9EjK-fWSccPwTOnc)                                                                               |
