@@ -287,6 +287,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Complete Guide to Open Source - How to Contribute [freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)                                                                     |
 | 软件开发流程之版本管理那些事 [Hua Hua](https://www.youtube.com/watch?v=TWyJJjvLiqs)                                                                                                             |
 | Git Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)                                                                           |
+| Git Flow Is A Bad Idea [Continuous Delivery](https://www.youtube.com/watch?v=\_w6TwnLCFwA)                                                                                        |
 |                                                                                                                                                                                   |
 
 | 软件                                                                                                                      |                                                                                           |

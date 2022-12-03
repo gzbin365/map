@@ -61,6 +61,8 @@
 | Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
 | 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
 | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                   |
+| The One BIG Reason to Learn Google's Go Language [Gary Explains](https://www.youtube.com/watch?v=rQQcIGqp0OU)          |
+| Golang Informative [Golang Dojo](https://www.youtube.com/playlist?list=PLve39GJ2D71y5v3\_Arfpx8cKBcBn1VS91)            |
 
 ## C\#
 

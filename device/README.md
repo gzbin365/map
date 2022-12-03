@@ -758,47 +758,48 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 机械换成固态: 没有噪音                                                                                                                                                                                                                                                    |
 | NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                    |
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| [知乎话题](https://www.zhihu.com/topic/19571800/hot)                                                                        |
-| 家用nas两盘位求大神如何推荐? [zh](https://www.zhihu.com/question/526519667)                                                         |
-| 成品双盘位NAS哪个比较好？[zh](https://www.zhihu.com/question/568580011)                                                            |
-| 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                          |
-| 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)  |
-| 备份3-2-1 原则, 至少备份3份, 透过2种不同媒介存储, 1分异地备份 [v](https://www.youtube.com/watch?v=wNjbQC53KxY)9:06                             |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
-| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
-| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                        |
-| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                             |
-| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                                |
-| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)      |
-| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                                  |
-| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                                  |
-| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                         |
-| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                                  |
-| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                 |
-| NAS挂载到外网 异地备份 多重冗余                                                                                                      |
-|                                                                                                                         |
-| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                    |
-| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                         |
-| 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB |
-| 【全网首发】2022 N5105 NAS的巅峰之作新品 4_2.5G 2_NVME 首发简测 颜值 性能一个都不少 [酷玩咖](https://www.youtube.com/watch?v=ToNpOMMVXeg)            |
-|                                                                                                                         |
-| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                             |
-| 安卓手机，软改造变身轻Nas小群晖，本地远程都好用 [请叫我卡哥](https://www.douyin.com/video/7153171124229066014)                                     |
-| 【极客湾】小姐姐的新家：NAS是啥？它能做啥？ [极客湾Geekerwan](https://www.youtube.com/watch?v=np\_R9LGolKg)                                    |
-|                                                                                                                         |
-| 《值不值得买》第67期：人人都能用的服务器——群晖NAS DS216play（商用篇）[TESTV](https://www.youtube.com/watch?v=Fvh52OsFywc)                         |
-| 《值不值得买》第68期：人人都能用的服务器——群晖NAS DS216play（家用篇）[TESTV](https://www.youtube.com/watch?v=BfEzCPXJaEc)                         |
-| 《值不值得买》第153期：工作娱乐两不误的看片神器——群晖Office套件 [TESTV](https://www.youtube.com/watch?v=qFSXfzrLOUk)                              |
-| 《值不值得买》第203期：摄影师的好助手——Synology Moments [TESTV](https://www.youtube.com/watch?v=NikxXiBaRVY)                             |
-| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                 |
-|                                                                                                                         |
-| 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                              |
-| 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                      |
-| NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                    |
-| 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                           |
-| 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                           |
+|                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [知乎话题](https://www.zhihu.com/topic/19571800/hot)                                                                                                                                                              |
+| 家用nas两盘位求大神如何推荐? [zh](https://www.zhihu.com/question/526519667)                                                                                                                                               |
+| 成品双盘位NAS哪个比较好？[zh](https://www.zhihu.com/question/568580011)                                                                                                                                                  |
+| 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                                                                                                                |
+| 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)                                                                                        |
+| 备份3-2-1 原则, 至少备份3份, 透过2种不同媒介存储, 1分异地备份 [v](https://www.youtube.com/watch?v=wNjbQC53KxY)9:06                                                                                                                   |
+| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                                                                                                        |
+| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                                                                                                                |
+| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                                                                                                              |
+| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                                                                                                                   |
+| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                                                                                                                      |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                            |
+| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                                                                                                                        |
+| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                                                                                                                        |
+| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                                                                                                               |
+| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                                                                                                                        |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                                                                                                       |
+| NAS挂载到外网 异地备份 多重冗余                                                                                                                                                                                            |
+| <p>关键素材被删！找不到素材？影视飓风是如何摆脱丢数据噩梦的 <a href="https://www.youtube.com/watch?v=RTqNZEFp0o4">Mediastorm影视飓风</a></p><p>通过docker接入你的监控数据把不同品牌的智能家居通过NAS来统一控制</p><p>磁带</p><p>SAN storage area network, 40条40G带宽的服务器</p> |
+|                                                                                                                                                                                                               |
+| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                                                                                                          |
+| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                                                                                                               |
+| 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB                                                                                       |
+| 【全网首发】2022 N5105 NAS的巅峰之作新品 4_2.5G 2_NVME 首发简测 颜值 性能一个都不少 [酷玩咖](https://www.youtube.com/watch?v=ToNpOMMVXeg)                                                                                                  |
+|                                                                                                                                                                                                               |
+| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                                                                                                                   |
+| 安卓手机，软改造变身轻Nas小群晖，本地远程都好用 [请叫我卡哥](https://www.douyin.com/video/7153171124229066014)                                                                                                                           |
+| 【极客湾】小姐姐的新家：NAS是啥？它能做啥？ [极客湾Geekerwan](https://www.youtube.com/watch?v=np\_R9LGolKg)                                                                                                                          |
+|                                                                                                                                                                                                               |
+| 《值不值得买》第67期：人人都能用的服务器——群晖NAS DS216play（商用篇）[TESTV](https://www.youtube.com/watch?v=Fvh52OsFywc)                                                                                                               |
+| 《值不值得买》第68期：人人都能用的服务器——群晖NAS DS216play（家用篇）[TESTV](https://www.youtube.com/watch?v=BfEzCPXJaEc)                                                                                                               |
+| 《值不值得买》第153期：工作娱乐两不误的看片神器——群晖Office套件 [TESTV](https://www.youtube.com/watch?v=qFSXfzrLOUk)                                                                                                                    |
+| 《值不值得买》第203期：摄影师的好助手——Synology Moments [TESTV](https://www.youtube.com/watch?v=NikxXiBaRVY)                                                                                                                   |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                                                                                                       |
+|                                                                                                                                                                                                               |
+| 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                                                                                                                    |
+| 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                                                                                                            |
+| NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                                                                                                          |
+| 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                                                                                                                 |
+| 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                                                                                                                 |
 
 #### RAID
 
