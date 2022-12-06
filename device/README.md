@@ -1017,7 +1017,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 |                                                                                    |
 | ---------------------------------------------------------------------------------- |
 | The Coming AI Chip Boom [Asianometry](https://www.youtube.com/watch?v=L0948yq2Hqk) |
-|                                                                                    |
+| AI’s Hardware Problem [Asianometry](https://www.youtube.com/watch?v=5tmGKTNW8DQ)   |
 |                                                                                    |
 
 

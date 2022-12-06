@@ -554,6 +554,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Master PyQt5 [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kAingA-ByP0B2O97M\_QVaLZ)                                 |
 | PyQt5 GUI Thursdays [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpmCA8s\_dpPMvQLyHbvxocY)                                  |
 | PyQt5视频教程 [PyQt5视频教程](https://www.xdbcb8.com/archives/3655.html)                                                                             |
+| Python GUI Development Using PySide6 and Qt – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1N9JzNax2k)                           |
 
 #### kivi
 

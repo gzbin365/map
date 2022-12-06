@@ -11,7 +11,6 @@
 | 王利夫 抖音号：[wanglifumusique](https://www.douyin.com/user/MS4wLjABAAAA2r2wFSGD2OkzXWXihqVofPkJm7p\_RS5-a3jEf\_OZUas)                         | 音樂家的無聊人生 Musician Seacow [u](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F) |
 | 乐感音乐吴老师 抖音号：[yuegan\_musicold](https://www.douyin.com/user/MS4wLjABAAAAILAN6feDkzZFJw87uaCTcQpdehVsD1m7KdPNdul-3yTpzE6SRaTCnq3AxTyodNf0) | 国音李民教授 抖音号：[1196767904](https://www.douyin.com/user/MS4wLjABAAAACp52IU4legsVllFoxurVZFSSeGoGAb1co8uzqxefs\_s)                    |
 | 贝拉唱歌吧Bella Singing Wang [u](https://www.youtube.com/c/%E8%B4%9D%E6%8B%89%E5%94%B1%E6%AD%8C%E5%90%A7BellaSingingWang)                     | Pony Soore 抖音号：[5080183](https://www.douyin.com/user/MS4wLjABAAAAynDuc\_uDc\_6aZXggUBLKsM-dJRnNddxWlTuezKXWXAY)                  |
-|                                                                                                                                          | Kin sir 唱歌教學 [u](https://www.youtube.com/@Kinsir) [B](https://space.bilibili.com/435903648) tb qq                                |
 
 |                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

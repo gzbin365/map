@@ -44,8 +44,7 @@ description: Self-Driving
 | The Truth About Self Driving Cars [New Mind](https://www.youtube.com/watch?v=d5TiaIYdug4)                                                                                                          |
 | Self-Driving AI Car Simulation in Python [NeuralNine](https://www.youtube.com/watch?v=Cy155O5R1Oo)                                                                                                 |
 | Drive A.I. [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-fAJaytLh4vAWCxTAUCrHO4)                                                                                            |
-| “影分身之术”！训练50亿次的AI能有多智能 [眼见为识](https://www.youtube.com/watch?v=AJ1TR28KNqY)                                                                                                                         |
-| OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial) [ProgrammingKnowledge](https://www.youtube.com/watch?v=eLTLtUVuuy4)                                    |
+|                                                                                                                                                                                                    |
 
 |                                                                                                                                    |                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | - |

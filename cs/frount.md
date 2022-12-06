@@ -302,7 +302,6 @@
 | HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                         |
 | Pokémon JavaScript Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=yP5DKzriqXA)                                                                                        |
 | JavaScript Fighting Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=vyqbNFMDRGQ)                                                                                       |
-| Vertical Platformer Game Tutorial with JavaScript and HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=rTVoyWu8r6g)                                                                        |
 |                                                                                                                                                                                                       |
 
 ### html

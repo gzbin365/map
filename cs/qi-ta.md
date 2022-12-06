@@ -61,6 +61,8 @@
 | Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
 | 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
 | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                   |
+| The One BIG Reason to Learn Google's Go Language [Gary Explains](https://www.youtube.com/watch?v=rQQcIGqp0OU)          |
+| Golang Informative [Golang Dojo](https://www.youtube.com/playlist?list=PLve39GJ2D71y5v3\_Arfpx8cKBcBn1VS91)            |
 
 ## C\#
 
@@ -201,11 +203,12 @@
 
 ### WordPress
 
-|                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)          |
-| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE) |
-| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                    |
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| Become a WordPress Developer: Unlocking Power with Code [LearnWebCode](https://www.youtube.com/watch?v=FVqzKAUsM68)                |
+| How To Make a Website With WordPress - 2021 (Beginners Tutorial) [freeCodeCamp](https://www.youtube.com/watch?v=O79pJ7qXwoE)       |
+| Website Learners [u](https://www.youtube.com/c/WebsiteLearners/playlists)                                                          |
+| How to Make a WordPress Blog and Website – Tutorial for Beginners 2022 [freeCodeCamp](https://www.youtube.com/watch?v=9VPq1JxMfkA) |
 
 ### Netlify
 
@@ -339,6 +342,7 @@
 | Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)                                                                                                                |
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
+|                                                                                                                                                                          |
 
 ## 3D Graphics Engine
 
@@ -485,6 +489,8 @@
 | VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                 |
 | 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                              |
 | Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) [NetworkChuck](https://www.youtube.com/watch?v=\_u8qTN3cCnQ)                                                                                          |
+| Mac免费虚拟机来啦！支持M芯片｜VMware Fusion 13 [黄杨ME](https://www.youtube.com/watch?v=QTs9sHN6W5A)                                                                                                                        |
+| 最新版VMware Workstation 17.0 Pro安装Windows 11最新版 \| 正版安装 \| 免费永久激活 \| 附下载链接 \| [丹姐解说](https://www.youtube.com/watch?v=ysiXNJH2DqI)                                                                              |
 
 ## 架构
 
@@ -558,6 +564,9 @@
 | 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
 | 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                       |
 | 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                        |
+| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                         |
+| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                           |
+| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                         |
 
 ## Windows
 
@@ -584,6 +593,34 @@
 | HelloWindows [s](https://hellowindows.cn/) [v](https://www.douyin.com/video/7024725392409890051)                      |
 | 老盖聊装系统，制作U盘启动盘，安装winpe优盘ghost工具备份恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTUxY0tEEyQUPfkfarLbNFa) |
 |                                                                                                                       |
+
+### Windows 95 Windows ME
+
+
+
+### Windows 98
+
+|                                                                                                                                                                                                                                    |   |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| <p>What's the fastest (officially supported) Windows 98 PC? <a href="https://www.youtube.com/watch?v=7D01We2aAu8">MattKC</a></p><p><a href="https://www.youtube.com/c/MattKC/search?query=Windows%2098">query</a>=Windows%2098</p> |   |   |
+|                                                                                                                                                                                                                                    |   |   |
+|                                                                                                                                                                                                                                    |   |   |
+
+### Windows XP
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### Windows 7
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ### Windows 10
 
@@ -634,11 +671,11 @@
 
 ## BIOS
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 97%使用者可能會用到的6個BIOS功能! 華碩 微星 技嘉 BIOS 設定教學 \| 聊電[Jing](https://www.youtube.com/watch?v=DYibYk6W8rg) |
+|                                                                                                   |
+|                                                                                                   |
 
 ## 按键精灵 Robotic Process Automation(RPA)
 
