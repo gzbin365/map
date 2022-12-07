@@ -4,7 +4,7 @@ description: 机器学习
 
 # ML
 
-[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
+Decision Tree Classification Algorithm in Telugu CSE & IT Tutorials 4u[**机器学习AI算法工程**](https://cloud.tencent.com/developer/column/2116)
 
 [**AI之禅**](https://cloud.tencent.com/developer/user/3417275) [**机器之心**](https://cloud.tencent.com/developer/column/2713) [**ATYUN订阅号**](https://cloud.tencent.com/developer/column/2066) [**AI科技大本营的专栏**](https://cloud.tencent.com/developer/column/1360) [**BestSDK**](https://cloud.tencent.com/developer/column/2053) [**云+直播**](https://cloud.tencent.com/developer/column/2257)
 
@@ -473,6 +473,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | How I'm Learning AI and Machine Learning [macheads101](https://www.youtube.com/watch?v=OypPjvm4kiA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Machine Learning Course - CS 156 [caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Miscellaneous but useful information about deep learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZusFFxso3rZNRN\_a1llepp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| MACHINE LEARNING [CSE & IT Tutorials 4u](https://www.youtube.com/playlist?list=PLaLj9pkyu5Pby5irXGRL37ZBveEGiOLgn)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Complete Machine Learning playlist [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -702,6 +704,14 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 08逻辑回归算法 课时46逻辑回归算法原理推导 [互联网开发教程](https://www.youtube.com/watch?v=DBgPZcH0TzU) tyd                                                   |
 | Logistic Regression - Is it Linear Regression? [CodeEmporium](https://www.youtube.com/watch?v=hpkI-7wM03I)                           |
 
+#### 决策树
+
+|                                                                                                                       |   |   |
+| --------------------------------------------------------------------------------------------------------------------- | - | - |
+| Decision Tree Classification Algorithm in Telugu [CSE & IT Tutorials 4u](https://www.youtube.com/watch?v=ixHKRC4c2jk) |   |   |
+|                                                                                                                       |   |   |
+|                                                                                                                       |   |   |
+
 #### 随机森林 Random Forests
 
 |                                                                                                                        |
@@ -779,6 +789,14 @@ How to implement KNN from scratch with Python [AssemblyAI](https://www.youtube.c
 
 Heart Disease Predictor Model Using KNN Classifier |Machine Learning| Python | Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=wTSCcebXq9k)
 
+Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcademy](https://www.youtube.com/watch?v=-wadcBarRRk)
+
+|                                                                                                                                                     |                                                                                                                   |   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | - |
+| KNN Algorithm In Machine Learning \| KNN Algorithm Using Python \| K Nearest Neighbor \| [Simplilearn](https://www.youtube.com/watch?v=4HKqjENq9OU) | KNN (K-Nearest Neighbor) Algorithm in Telugu [CSE & IT Tutorials 4u](https://www.youtube.com/watch?v=vzp-xQIVamw) |   |
+|                                                                                                                                                     |                                                                                                                   |   |
+|                                                                                                                                                     |                                                                                                                   |   |
+
 ### 时间序列  Time Series
 
 |                                                                                                                                                                                                                        |
@@ -821,6 +839,8 @@ Heart Disease Predictor Model Using KNN Classifier |Machine Learning| Python | P
 | 算法：线性支持向量机 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbQGoKJJRWCbd73eKJq4tbv)                                                                           |
 | 【千锋大数据】机器学习之SVM教程（9集） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4bcOQtDZRjtIXBbiGu489f)                                                                 |
 | Understanding SVM ,its Type ,Applications and How to use with Python [engineerknow](https://www.engineerknow.com/2021/12/understanding-svm-its-type-applications.html) |
+| Support Vector Machine Algorithm in Telugu [CSE & IT Tutorials 4u](https://www.youtube.com/watch?v=gKFxlxelKM4)                                                        |
+| Support Vector Machine - How Support Vector Machine Works \| SVM In Machine Learning \| [Simplilearn](https://www.youtube.com/watch?v=TtKF996oEl8)                     |
 
 ### Kernel Method
 
@@ -1346,11 +1366,12 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ## 基础模型 Foundation Models
 
-|                                                                                      |
-| ------------------------------------------------------------------------------------ |
-| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo)            |
-| AI大模型是什么？可以让人工智能和人类一样？GPT-3、M6大模型 [啃芝士](https://www.youtube.com/watch?v=2ALSQrFHH5A) |
-|                                                                                      |
+|                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo)                                                                                               |
+| AI大模型是什么？可以让人工智能和人类一样？GPT-3、M6大模型 [啃芝士](https://www.youtube.com/watch?v=2ALSQrFHH5A)                                                                                    |
+| #84 LAURA RUIS - Large language models are not zero-shot communicators \[NEURIPS UNPLUGGED] [Machine Learning Street Talk](https://www.youtube.com/watch?v=5Yd28ssDutA) |
+|                                                                                                                                                                         |
 
 ## AI Safety
 

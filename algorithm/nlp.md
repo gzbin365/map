@@ -485,7 +485,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | SEMI-SUPERVISED LEARNING (COMBINING SUPERVISED & UNSUPERVISED LEARNING ) \|\| MACHINE LEARNING [Analytics University](https://www.youtube.com/watch?v=z\_mS8yik8Zs) | Semi - Supervised learning, in Hindi [Mukul Kirti Verma](https://www.youtube.com/watch?v=rH9JUaj0ctQ) | Introduction to Unsupervised and Semi-Supervised Learning in TensorFlow - PyData Global 2021 [PyData](https://www.youtube.com/watch?v=yjRm174OVq0) |
 |                                                                                                                                                                     |                                                                                                       |                                                                                                                                                    |
 
-### GPT
+### GPT, Generative Pre-trained Transformer
 
 |                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -520,6 +520,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | NLP is not NLU and GPT-3 - Walid Saba [Machine Learning Street Talk](https://www.youtube.com/watch?v=b9qwLkJW2ig\&list=PLwFLAA-F1PgpU9lgxOdhjILkMXUagGnea\&index=13) |
 | \[ML News] GPT-4 Rumors \| AI Mind Reading \| Neuron Interaction Solved \| AI Theorem Proving [Yannic Kilcher](https://www.youtube.com/watch?v=r8wiBA3ZaQE)          |
 | ChatGPT发布，人工智能帮你改代码写作业，能有多厉害？ [数字世界的Daniel](https://www.youtube.com/watch?v=pbkJJnJFhO4)                                                                             |
+| Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Hung-yi Lee](https://www.youtube.com/watch?v=e0aKI2GGZNg)                                                                          |
+| chatgpt [openai](https://openai.com/blog/chatgpt/)                                                                                                                   |
 
 ### 语言模型, Language Model
 

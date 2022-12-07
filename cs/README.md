@@ -1,5 +1,5 @@
 ---
-description: 计算机科学与技术 keep coding
+description: 计算机科学与技术 keep thinking, keep coding
 ---
 
 # CS
