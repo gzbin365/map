@@ -231,7 +231,6 @@ Industrial-Strength Natural Language Processing
 | NLP NEWS CLASSIFIER END-TO-END PROJECT IN PYTHON WITH API & SERVER [teaching machine](https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM) |
 | TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networks [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                    |
 | Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)                |
-| How To Detect Fake News Using AI \| Python \| ML \| Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=oWW7pbDMTp8)                            |
 
 ### 自然语言理解 Natural Language Understanding
 
@@ -425,7 +424,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | -------------------------------------------------------------------------------------------------------- |
 | Calculating Text Similarity in Python with NLP [NeuralNine](https://www.youtube.com/watch?v=y-EjAuWdZdI) |
 | Brokenwind/[BertSimilarity](https://github.com/Brokenwind/BertSimilarity)                                |
-| yaleimeng/[Final\_word\_Similarity](https://github.com/yaleimeng/Final\_word\_Similarity)   相似度计算        |
+|                                                                                                          |
 
 ### 关键词提取  摘要
 
@@ -441,11 +440,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 事件三元组抽取
 
-|                                                                                             |                                                                                          |   |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | - |
-| liuhuanyong/[EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) | Jacen789/[relation-extraction](https://github.com/Jacen789/relation-extraction)   中文关系抽取 |   |
-|                                                                                             |                                                                                          |   |
-|                                                                                             |                                                                                          |   |
+|                                                                                             |   |   |
+| ------------------------------------------------------------------------------------------- | - | - |
+| liuhuanyong/[EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) |   |   |
+|                                                                                             |   |   |
+|                                                                                             |   |   |
 
 ### 机器翻译
 
@@ -485,7 +484,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | SEMI-SUPERVISED LEARNING (COMBINING SUPERVISED & UNSUPERVISED LEARNING ) \|\| MACHINE LEARNING [Analytics University](https://www.youtube.com/watch?v=z\_mS8yik8Zs) | Semi - Supervised learning, in Hindi [Mukul Kirti Verma](https://www.youtube.com/watch?v=rH9JUaj0ctQ) | Introduction to Unsupervised and Semi-Supervised Learning in TensorFlow - PyData Global 2021 [PyData](https://www.youtube.com/watch?v=yjRm174OVq0) |
 |                                                                                                                                                                     |                                                                                                       |                                                                                                                                                    |
 
-### GPT, Generative Pre-trained Transformer
+### GPT
 
 |                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -519,9 +518,6 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Meta's open-source new model OPT is GPT-3's closest competitor! [What's AI](https://www.youtube.com/watch?v=Ejg0OunCi9U)                                             |
 | NLP is not NLU and GPT-3 - Walid Saba [Machine Learning Street Talk](https://www.youtube.com/watch?v=b9qwLkJW2ig\&list=PLwFLAA-F1PgpU9lgxOdhjILkMXUagGnea\&index=13) |
 | \[ML News] GPT-4 Rumors \| AI Mind Reading \| Neuron Interaction Solved \| AI Theorem Proving [Yannic Kilcher](https://www.youtube.com/watch?v=r8wiBA3ZaQE)          |
-| ChatGPT发布，人工智能帮你改代码写作业，能有多厉害？ [数字世界的Daniel](https://www.youtube.com/watch?v=pbkJJnJFhO4)                                                                             |
-| Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Hung-yi Lee](https://www.youtube.com/watch?v=e0aKI2GGZNg)                                                                          |
-| chatgpt [openai](https://openai.com/blog/chatgpt/)                                                                                                                   |
 
 ### 语言模型, Language Model
 
@@ -631,5 +627,4 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | AimeeLee77/[wiki\_zh\_word2vec](https://github.com/AimeeLee77/wiki\_zh\_word2vec)   利用Python构建Wiki中文语料词向量模型试验 |
 | Roshanson/[TextInfoExp](https://github.com/Roshanson/TextInfoExp)   自然语言处理实验（sougou数据集）等                      |
 | murray-z/[text\_analysis\_tools](https://github.com/murray-z/text\_analysis\_tools)   中文文本分析工具包               |
-| chatopera/[efaqa-corpus-zh](https://github.com/chatopera/efaqa-corpus-zh)   语料库                               |
 |                                                                                                               |

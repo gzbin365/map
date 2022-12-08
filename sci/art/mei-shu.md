@@ -141,11 +141,11 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 </details>
 
-|                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------- |
-| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE)                   |
-| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                               |
-| Photoshop CS6 平面設計基礎教學 [Miss SWEET](https://www.youtube.com/playlist?list=PLY0r2Sr\_mOaqUNncMpGq9mgoweGT-Mmnq) |
+|                                                                                              |
+| -------------------------------------------------------------------------------------------- |
+| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE) |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                             |
+|                                                                                              |
 
 ## 3D 建模
 
@@ -158,8 +158,6 @@ Avatars全新升级给动画人带来了什么 [周丛卫](https://www.douyin.co
 CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7%94%B5%E5%BD%B1/9948194)
 
 这种神乎其神的CG到底是怎么做出来啊？[zh](https://www.zhihu.com/question/36763083)
-
-How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
 
 ### 3Dmax
 
@@ -181,34 +179,33 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 
 ### blender
 
-|                                                                                                                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://www.blender.org/) [tutorials](https://www.blender.org/support/tutorials/) [u](https://www.youtube.com/c/BlenderFoundation/playlists)                                                                                                                                             |
-| Dirk Teucher [u](https://www.youtube.com/c/DirkTeucher/playlists)                                                                                                                                                                                                                            |
-| Blender 3.0 Reference Manual [doc](https://docs.blender.org/manual/en/3.0/)                                                                                                                                                                                                                  |
-| Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                                                                                                                                                                |
-| Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                                                                                                                                                                      |
-| Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                                                                                                                                                                   |
-| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)   Polygon Runway [u](https://www.youtube.com/c/PolygonRunway)   Noggi [u](https://www.youtube.com/c/Noggi\_Video)   Blender Art [u](https://www.youtube.com/c/BlenderArt)   Dédouze [u](https://www.youtube.com/@dedouze) |
-| Primer [u](https://www.youtube.com/c/PrimerLearning) [git](https://github.com/Primer-Learning/PrimerTools) [git](https://github.com/gzbin365/primerpython)                                                                                                                                   |
-| Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                                                                                                                                                                |
-| Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                                                                                                                                                                       |
-| Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                                                                                                                                                                   |
-| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)                                                                                                                                                                                           |
-| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)                                                                                                                                                                                                      |
-| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ)                                                                                                                                                                                          |
-| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)                                                                                                                                                                                              |
-| Learn Blender 3.0 in 20 minutes \| Blender 3D Basics in 2022 for Absolute Beginners [DGreenhorn](https://www.youtube.com/watch?v=Rqhtw7dg6Wk)                                                                                                                                                |
-| Blender教學 [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anid1MZyxRsY67HSCBQvUowxb) 捏脸                                                                                                                                                                                            |
-| Blender2.9中文基础入门教程 [Cai kishi](https://www.youtube.com/playlist?list=PLbUkXFqEoGec\_S1Zwh8Io3ZyzQbukhGw0)                                                                                                                                                                                    |
-| Blender教程 [Henry\_环宇](https://www.youtube.com/playlist?list=PLw4hWepHFqhRg1VXYoZk1b6iGew2J5tsb)                                                                                                                                                                                              |
-| Blender 2.8-3.0 零基础入门系统教学 [Leon Lee](https://www.youtube.com/playlist?list=PLhzI\_V\_pEpEvDpsgOdBl-jxPnf4y3wH06)                                                                                                                                                                             |
-| Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                                                                                                                                                               |
-| Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                                                                                                                                                                           |
-| Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                                                                                                                                                               |
-| Blender 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll\_w2kSk0JfZLtK3)                                                                                                                                                                                        |
-| Blender [Kris Occhipinti](https://www.youtube.com/playlist?list=PLB52346825714AC31)                                                                                                                                                                                                          |
-| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.blender.org/) [tutorials](https://www.blender.org/support/tutorials/) [u](https://www.youtube.com/c/BlenderFoundation/playlists)                                                                                             |
+| Dirk Teucher [u](https://www.youtube.com/c/DirkTeucher/playlists)                                                                                                                                                                            |
+| Blender 3.0 Reference Manual [doc](https://docs.blender.org/manual/en/3.0/)                                                                                                                                                                  |
+| Blender Developers [u](https://www.youtube.com/c/BlenderDevelopers/playlists)                                                                                                                                                                |
+| Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                                                                                                                      |
+| Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE)                                                                                                                                                                                   |
+| CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists)   Polygon Runway [u](https://www.youtube.com/c/PolygonRunway)   Noggi [u](https://www.youtube.com/c/Noggi\_Video)   Blender Art [u](https://www.youtube.com/c/BlenderArt) |
+| Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                                                                                                                |
+| Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                                                                                                                       |
+| Scripting for Artists [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_8acrgoQr1fTeIuQtkSd6BW)                                                                                                                                   |
+| Neural Rigs for blender, version 0.1 [BallsAndNinjas](https://www.youtube.com/watch?v=2tG2wwaobAk)                                                                                                                                           |
+| [RigNet: Neural Rigging for Articulated Characters](https://zhan-xu.github.io/rig-net/)                                                                                                                                                      |
+| Blender - Ninja Girl Modeling - Free software [FlyCat](https://www.youtube.com/watch?v=1gqbyC7LmKQ)                                                                                                                                          |
+| 好想學 3D？超強軟體免費送上門，放棄的話比賽就結束了喔 \| Blender 快速上手 [#01](https://www.youtube.com/watch?v=O-9c4RnS0gI)                                                                                                                                              |
+| Learn Blender 3.0 in 20 minutes \| Blender 3D Basics in 2022 for Absolute Beginners [DGreenhorn](https://www.youtube.com/watch?v=Rqhtw7dg6Wk)                                                                                                |
+| Blender教學 [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anid1MZyxRsY67HSCBQvUowxb) 捏脸                                                                                                                                            |
+| Blender2.9中文基础入门教程 [Cai kishi](https://www.youtube.com/playlist?list=PLbUkXFqEoGec\_S1Zwh8Io3ZyzQbukhGw0)                                                                                                                                    |
+| Blender教程 [Henry\_环宇](https://www.youtube.com/playlist?list=PLw4hWepHFqhRg1VXYoZk1b6iGew2J5tsb)                                                                                                                                              |
+| Blender 2.8-3.0 零基础入门系统教学 [Leon Lee](https://www.youtube.com/playlist?list=PLhzI\_V\_pEpEvDpsgOdBl-jxPnf4y3wH06)                                                                                                                             |
+| Blender2.8中文基础教学 [Blender china community BlenderCN](https://www.youtube.com/playlist?list=PLTzp7ViZpSRyQkzQRzUOP64Yel4tkzA5O)                                                                                                               |
+| Blender GIS [Nicko16](https://www.youtube.com/watch?v=YNtKnmRXVlo)                                                                                                                                                                           |
+| Blender 3.0 - Anime School Girl modeling [FlyCat](https://www.youtube.com/watch?v=35MpLd-Lmuw)                                                                                                                                               |
+| Blender 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll\_w2kSk0JfZLtK3)                                                                                                                                        |
+| Blender [Kris Occhipinti](https://www.youtube.com/playlist?list=PLB52346825714AC31)                                                                                                                                                          |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                                                                                                                             |
 
 |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |

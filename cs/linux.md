@@ -287,6 +287,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Complete Guide to Open Source - How to Contribute [freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)                                                                     |
 | 软件开发流程之版本管理那些事 [Hua Hua](https://www.youtube.com/watch?v=TWyJJjvLiqs)                                                                                                             |
 | Git Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)                                                                           |
+| Git Flow Is A Bad Idea [Continuous Delivery](https://www.youtube.com/watch?v=\_w6TwnLCFwA)                                                                                        |
 |                                                                                                                                                                                   |
 
 | 软件                                                                                                                      |                                                                                           |
@@ -305,7 +306,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Docker Containers and Kubernetes Fundamentals – Full Hands-On Course [freeCodeCamp](https://www.youtube.com/watch?v=kTp5xUtcalw)                                                                                                         |
 | **Docker 手册（Docker Handbook）(**[**书栈**](https://www.bookstack.cn/books/docker-handbook)**, )**                                                                                                                                           |
-| Docker Tutorial for Beginners \[2021]\([Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI))                                                                                                                             |
+| Docker Tutorial for Beginners \[2021]\([Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI))56:03                                                                                                                        |
 | Learn Docker in 12 Minutes 🐳([Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24))                                                                                                                                                |
 | Docker Compose in 12 Minutes([Jake Wright](https://www.youtube.com/watch?v=Qw9zlE3t8Ko))                                                                                                                                                 |
 | 给你讲的 Docker 实操课 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj7DnMjYXHc1gXFEK\_kyVwcO)                                                                                                                                        |
@@ -369,6 +370,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 通过Google Cloud学习Kubernetes [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4AYnAP3q9OwNmB0V7uG759p)                                                    |
 | Crazy fast Kubernetes Automation with Terraform [The Digital Life](https://www.youtube.com/watch?v=kFt0OGd\_LhI)                                                |
 | Kubernetes Used As A Go Package [The Ape Machine](https://www.youtube.com/watch?v=xWFk5oqScJ0)                                                                  |
+| Microservice Architecture and System Design with Python & Kubernetes – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hmkF77F9TLw)                  |
 
 ## GTK
 

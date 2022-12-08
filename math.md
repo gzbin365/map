@@ -115,11 +115,11 @@ The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://ww
 
 MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel/UCNuB-vNeYDoDLuIZ4lLWeLw)
 
-|                                                                                               |   |   |
-| --------------------------------------------------------------------------------------------- | - | - |
-| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                          |   |   |
-| MATLAB Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=7f50sQYjNRA) |   |   |
-|                                                                                               |   |   |
+|                                                                      |   |   |
+| -------------------------------------------------------------------- | - | - |
+| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )** |   |   |
+|                                                                      |   |   |
+|                                                                      |   |   |
 
 
 
@@ -139,7 +139,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | What Makes People Engage With Math \| Grant Sanderson \| TEDxBerkeley [TEDx Talks](https://www.youtube.com/watch?v=s\_L-fp8gDzY)                                                                                                                                                                                              |
 | Manim [知乎话题](https://www.zhihu.com/topic/21544473/hot)                                                                                                                                                                                                                                                                        |
-| TheSiGuy [u](https://www.youtube.com/@TheSiGuyEN)   Uasoni [u](https://www.youtube.com/@uasoni...)   mathematicsonline [u](https://www.youtube.com/playlist?list=PL14bv5vXK2WX-wctamYtC9UYBUseJBd5R)   NanoRooms [u](https://www.youtube.com/@nanorooms9696)                                                                  |
+| TheSiGuy [u](https://www.youtube.com/@TheSiGuyEN)   Uasoni [u](https://www.youtube.com/@uasoni...)   mathematicsonline [u](https://www.youtube.com/playlist?list=PL14bv5vXK2WX-wctamYtC9UYBUseJBd5R)                                                                                                                          |
 | 3b1b/[videos](https://github.com/3b1b/videos)                                                                                                                                                                                                                                                                                 |
 | reddit.com/r/[manim](https://www.reddit.com/r/manim/)/                                                                                                                                                                                                                                                                        |
 | Create Math Animations Like 3Blue1Brown using Manim [search](https://www.youtube.com/results?search\_query=Create+Math+Animations+Like+3Blue1Brown+using+Manim)                                                                                                                                                               |
@@ -673,7 +673,6 @@ Theory of functions of a real variable
 
 |                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 看见统计 [s](https://seeing-theory.brown.edu/cn.html)   [v](https://www.douyin.com/user/MS4wLjABAAAAm6l0ysjIEVZ7R5muDY9RcIK\_J98ZHJDpV93VghgEuFD1XW0tJbQ1mNpbjSC7iiNh?modal\_id=7169219697936829696)   美国布朗大学的统计学可视化教材   [s](https://blog.csdn.net/ooxxshaso/article/details/87935747)                                                                                                     |
 | **Statistics and Probability(**[**My CS**](https://www.youtube.com/playlist?list=PLqrmzsjOpq5i5YITE2EylhDpBvFcphSbS)**, )**                                                                                                                                                                                                                                                            |
 | 概率论与数理统计 - 北京交通大学([刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_QaZCnYcwENrLwZc7ODDAx7)) [drive](https://szjmeducn-my.sharepoint.com/personal/1706043305\_szjm\_edu\_cn/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1706043305%5Fszjm%5Fedu%5Fcn%2FDocuments%2Fshare%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%2D%E8%B5%84%E6%96%99\&ga=1) |
 | 高斯课堂 蜂考《概率论与数理统计》4小时([Daxi Li](https://www.youtube.com/playlist?list=PLqHgRfzJsKml9WEo4aRWTUSS7VrVAjXOP), [高adminar](https://www.youtube.com/playlist?list=PLXiGKg3oo9C312bKVKfNVbZa8M7glUoK1), )                                                                                                                                                                                      |
@@ -786,7 +785,6 @@ $$
 | Choosing a Statistical Test for Your IB Biology IA [Daniel M](https://www.youtube.com/watch?v=ulk\_JWckJ78)                                                                                                                                                                                          |
 | 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                                                                                                                           |
 | MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t\_GPx2sRg)                                                                                                                     |
-| 【公开课-85集全】可汗学院：统计学 [北巷清风久](https://www.bilibili.com/video/BV1DK4y1n7J8)                                                                                                                                                                                                                              |
 | <p>【统计学】样本方差为什么要除以n-1 <a href="https://www.youtube.com/watch?v=tSBk9sJ25JQ">JianJiang</a></p><p>在现实世界里我们很难知道总体的均值μ, 只能用样本均值替代总体均值进行计算, 用样本均值算出的样本方差S方是其所有可能取值的下限, 这就导致样本方差小于总体方差, 因为用x bar直接替代μ 会造成对总体方差的低估, 所以要进行校正. 做法通常是让分母的n减去1, 这样方差会比之前稍大一点, 更加接近总体方差, 这个校正后的方差被称为无偏方差(Unbiased Variance).</p> |
 
 | IRT理論                                                                                                                                                          |

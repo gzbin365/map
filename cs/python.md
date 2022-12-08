@@ -74,6 +74,7 @@
 | 程序员白白 抖音号： [80920602680](https://www.douyin.com/user/MS4wLjABAAAAyJ2erAuLGNUb5SKbNwpMrylafhL-NhvbsGSMR0-0f1qWuSxVICq6i1bvf-ljHZ2r)                                                                                                 | codebasics [u](https://www.youtube.com/c/codebasics/playlists)                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                    | <p>程序员zhenguo 抖音号： <a href="https://www.douyin.com/user/MS4wLjABAAAAAqW1FyvTGsEBn7UvC2sM_qLMfAGIc6zIfTIfyucySV0">1055516139</a></p><p><a href="https://github.com/jackzhenguo/python-small-examples">Python小例子</a></p><p>从0学Python完整教程（全网最用心）</p> |
 | 💪🏻MuscleCoding 抖音号：[MuscleCoding](https://www.douyin.com/user/MS4wLjABAAAAcIyJIJo9eiWClLhldSlWmrhrOE6dljPX4fLkhcVdsBbKGGMFO96OBNI\_\_oIY7YzZ)                                                                                    | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                                                                |
+|                                                                                                                                                                                                                                    | b001 [u](https://www.youtube.com/@b001)                                                                                                                                                                                                           |
 
 ## 网课
 
@@ -553,6 +554,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Master PyQt5 [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kAingA-ByP0B2O97M\_QVaLZ)                                 |
 | PyQt5 GUI Thursdays [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpmCA8s\_dpPMvQLyHbvxocY)                                  |
 | PyQt5视频教程 [PyQt5视频教程](https://www.xdbcb8.com/archives/3655.html)                                                                             |
+| Python GUI Development Using PySide6 and Qt – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1N9JzNax2k)                           |
 
 #### kivi
 
@@ -691,6 +693,14 @@ Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/w
 |                                                                                                  |   |   |
 
 ## Eclipse
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+## Emacs
 
 |   |   |   |
 | - | - | - |
@@ -869,7 +879,7 @@ Python高性能编程
 | Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                 |
 | PyScript is Python in Your Browser [NeuralNine](https://www.youtube.com/watch?v=MJvCeKwr4z4)                                                              |
 | Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                          |
-|                                                                                                                                                           |
+| Django REST Framework Course – Build Web APIs with Python [freeCodeCamp](https://www.youtube.com/watch?v=tujhGdn1EMI)                                     |
 
 ## 视频编辑, 视频剪辑, Video Image Editing
 
@@ -887,6 +897,7 @@ Python高性能编程
 
 |                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 小熊猫 [u](https://www.youtube.com/@user-kv5du2wl5h)                                                                                                                                                                                                                                                                                                      |
 | Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                                                                                                                                                                                                                                       |
 | 不扯淡Python爬虫学习路线 （2021） [麦叔编程](https://www.youtube.com/watch?v=yKLfMjtTKak)                                                                                                                                                                                                                                                                             |
 | 崔庆才\_Python3爬虫入门到精通课程视频 34课 [true while](https://www.youtube.com/playlist?list=PLc8\_TkmqkE4Pe1P4spQoivMiDwVyYPvR1)                                                                                                                                                                                                                                    |
