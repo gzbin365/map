@@ -33,6 +33,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
 | 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
+| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     |                                                                                        |                                                                                        |
 
 ### **计算机组装**
 
@@ -120,6 +121,7 @@ description: 硬件设备
 | 树莓派DIY中文智能音箱 [IT Commander](https://www.youtube.com/watch?v=tEkMuxXF9LY)                                                                                                                                                                  |
 | \[商品]Raspberry PI 樹莓派 金屬殼專用 多層支架 [熊的開發DVPBear](https://www.youtube.com/watch?v=Ffi3R--cosw)                                                                                                                                               |
 | Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                                                             |
+| Pi Cluster vs monster 128-core Ampere Altra Max [Jeff Geerling](https://www.youtube.com/watch?v=UT5UbSJOyog)                                                                                                                              |
 | 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                                                  |
 | Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                                                        |
 | Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                                                     |
@@ -130,6 +132,9 @@ description: 硬件设备
 | The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                                                     |
 | 树莓派驱动开发实战 [Philon](https://ixx.life/categories/%E6%A0%91%E8%8E%93%E6%B4%BE%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/)                                                                                                        |
 | Movidius NCS + Raspberry Pi 3B+ [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRaT\_AEkme7Ne81WTgBzMEg) Deep Learning                                                                                                       |
+| Creating a Website on Raspberry Pi [Chris Titus Tech](https://www.youtube.com/watch?v=BPcficy9ji0)                                                                                                                                        |
+| Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL\_vyuxE-AO-CXEUMjEN8Vzt0\_WxrhEbEX)                                                                                                                              |
+| I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc\_zGRYhLo)                                                                                |
 |                                                                                                                                                                                                                                           |
 
 ### Raspberry Pi Pico
@@ -517,7 +522,7 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------ |
 | 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE) |
 | 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)      |
-|                                                                                            |
+| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                 |
 
 ## 散热
 
@@ -633,6 +638,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
+| testufo [s](https://www.testufo.com/)                                                                 |
 | 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)                          |
 | 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders                      |
 | 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)                       |
@@ -681,12 +687,25 @@ System on Chip, 系统级芯片
 | 已开源！我做了一个稳定输出3.3V的太阳能电池 [工科男孙老师](https://www.youtube.com/watch?v=69gcMSz5YUE) [code](https://oshwhub.com/sunhaoqin/solar\_copy) ETC 非晶硅电池 |
 | DIY 72v 60Ah Battery Pack For 2000W Electric Bike [Creative Etc.](https://www.youtube.com/watch?v=Oy8EHGsOhcQ)                            |
 | 跟着光走的太阳能发电 [纪实与造物](https://www.douyin.com/video/7153474445728845063)                                                                      |
+|                                                                                                                                           |
 
 | 户外电源                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 精致露营，家庭应急，0.7度电有必要吗？正浩River Pro 户外电源【值不值得买第563 期】 [TESTV](https://www.youtube.com/watch?v=\_hgtjuPJ4vU)                                     |
 | 百克龙E1500pro户外应急电源 家庭应急 户外作业 [天哥爱生活](https://www.douyin.com/video/7144611933163883813)  [旗客试验室](https://www.youtube.com/watch?v=bOg2o6yYoBA) |
 |                                                                                                                                             |
+
+| 電源供應器 (PSU)                                                                                         |                                                                                        |   |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | - |
+| 電源供應器 (PSU) 要選多大的瓦數，簡單算一下 /顯卡瓦數/遊戲 PC DIY 入門 [CH 聊 PC](https://www.youtube.com/watch?v=LJ-qDZQOzpk) | 如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 [CH 聊 PC](https://www.youtube.com/watch?v=iwiw9tafv04) |   |
+|                                                                                                     |                                                                                        |   |
+|                                                                                                     |                                                                                        |   |
+
+| UPS 不断电系统 |   |   |
+| --------- | - | - |
+|           |   |   |
+|           |   |   |
+|           |   |   |
 
 ## 充电宝
 
@@ -722,36 +741,76 @@ System on Chip, 系统级芯片
 
 ## NAS
 
-|                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| synology 群晖 [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY) |
-| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                             |
-| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91)                                    |
-|                                                                                                                                                        |
+Network Attached Storage, 网络附加存储, 个人私有云
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)  |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                  |
-| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                          |
-| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                        |
-| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                             |
-| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                                |
-| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)      |
-| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                                  |
-| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                                  |
-| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                         |
-| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                                  |
-| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                 |
-| NAS挂载到外网 异地备份 多重冗余                                                                                                      |
-| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                          |
-| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                    |
-| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                         |
-| 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB |
-| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)                    |
-| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                             |
-| 安卓手机，软改造变身轻Nas小群晖，本地远程都好用 [请叫我卡哥](https://www.douyin.com/video/7153171124229066014)                                     |
-|                                                                                                                         |
+| 群晖（Synology）                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| synology 群晖 [u](https://www.youtube.com/@synologyinc) [s](https://www.synology.cn/zh-cn) 抖音号： [QunHuiNAS](https://www.douyin.com/user/MS4wLjABAAAA\_LgLMpXMQanSv3X2rhICWRSXGuQ\_7cD6b0Y8402vNeY)   群晖（Synology）[知乎话题](https://www.zhihu.com/topic/19827077/hot) |
+| 阿文菌 抖音号： [105917340](https://www.douyin.com/user/MS4wLjABAAAAxDwhY7ix0h75VbuYe0xXCj\_n0WJ-xksBwZktx3ZQ04U)                                                                                                                                                      |
+| 群晖DS1621xs+ [s](https://www.amazon.com/Synology-Bay-DiskStation-DS1621xs-Diskless/dp/B08HYRYLPS?crid=2M8CAJGW2ZE91) DS1821+ [v ](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                                                                   |
+| 2盘 DS218+ 链路聚合: 读写加速                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                 |
+| 4盘 DS918+ [v](https://www.youtube.com/watch?v=UZmtn1x2hdg)   DS920+ [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) [v](https://www.youtube.com/watch?v=wNjbQC53KxY) m.2 ssd\*2 缓存: 提升硬盘的4K性能 4\*8 32T -> 21T                                                  |
+| 5盘 DS1522+                                                                                                                                                                                                                                                      |
+| 6盘 DS1618+ DS1621+ 万兆网卡 网线: 6/8类线                                                                                                                                                                                                                               |
+| 8盘 DS1618+ DS1821+                                                                                                                                                                                                                                              |
+| 10盘 asustor [v](https://www.youtube.com/watch?v=er6O-0vPA9s)                                                                                                                                                                                                    |
+| 机械换成固态: 没有噪音                                                                                                                                                                                                                                                    |
+| NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                    |
+
+|                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [知乎话题](https://www.zhihu.com/topic/19571800/hot)                                                                                                                                                              |
+| 家用nas两盘位求大神如何推荐? [zh](https://www.zhihu.com/question/526519667)                                                                                                                                               |
+| 成品双盘位NAS哪个比较好？[zh](https://www.zhihu.com/question/568580011)                                                                                                                                                  |
+| 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                                                                                                                |
+| 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)                                                                                        |
+| 备份3-2-1 原则, 至少备份3份, 透过2种不同媒介存储, 1分异地备份 [v](https://www.youtube.com/watch?v=wNjbQC53KxY)9:06                                                                                                                   |
+| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                                                                                                        |
+| 简单聊聊硬raid和软raid  [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                                                                                                                |
+| 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629)  推荐Raid５                                                                                                              |
+| 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                                                                                                                   |
+| Raspberry Pi vs ASUSTOR NAS [Jeff Geerling](https://www.youtube.com/watch?v=V3jwQzb46Zc)                                                                                                                      |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                            |
+| 【Fun科技】你真的需要一台NAS么？如何搭建自己的万兆存储服务器？[FUN科技](https://www.youtube.com/watch?v=7JAwkPGJOJU)                                                                                                                        |
+| DiyNAS [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuHT7kvtFb7AknFrPmu8p4io)                                                                                                                        |
+| 【新手向】什么是NAS？NAS有哪几种？哪种NAS适合我？[司波图](https://www.youtube.com/watch?v=er6O-0vPA9s)                                                                                                                               |
+| 教你装一台跑满万兆的DIYNAS——2022版DIYNAS硬件选择指南 [司波图](https://www.youtube.com/watch?v=OSjuPFNrKnw)                                                                                                                        |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                                                                                                       |
+| NAS挂载到外网 异地备份 多重冗余                                                                                                                                                                                            |
+| <p>关键素材被删！找不到素材？影视飓风是如何摆脱丢数据噩梦的 <a href="https://www.youtube.com/watch?v=RTqNZEFp0o4">Mediastorm影视飓风</a></p><p>通过docker接入你的监控数据把不同品牌的智能家居通过NAS来统一控制</p><p>磁带</p><p>SAN storage area network, 40条40G带宽的服务器</p> |
+|                                                                                                                                                                                                               |
+| Raspberry Pi 4 OpenMediaVault NAS [ExplainingComputers](https://www.youtube.com/watch?v=bpvlEbdA6qI)                                                                                                          |
+| 【Huan】我組了一台不到3000塊的薛丁格NAS!! [Huan](https://www.youtube.com/watch?v=0BVudZbZGAc)                                                                                                                               |
+| 【[Huan](https://www.youtube.com/watch?v=qwoZdVY1NwM)】 男人的夢想烏托邦！ 我組了人生第一台100TB的DIY NAS！！ feat. Seagate IronWolf Pro 20TB                                                                                       |
+| 【全网首发】2022 N5105 NAS的巅峰之作新品 4_2.5G 2_NVME 首发简测 颜值 性能一个都不少 [酷玩咖](https://www.youtube.com/watch?v=ToNpOMMVXeg)                                                                                                  |
+|                                                                                                                                                                                                               |
+| 我们的文件服务器容量不够了，只剩10几TB了!!【[翼王](https://www.youtube.com/watch?v=w0kj3PmAYTc)】                                                                                                                                   |
+| 安卓手机，软改造变身轻Nas小群晖，本地远程都好用 [请叫我卡哥](https://www.douyin.com/video/7153171124229066014)                                                                                                                           |
+| 【极客湾】小姐姐的新家：NAS是啥？它能做啥？ [极客湾Geekerwan](https://www.youtube.com/watch?v=np\_R9LGolKg)                                                                                                                          |
+|                                                                                                                                                                                                               |
+| 《值不值得买》第67期：人人都能用的服务器——群晖NAS DS216play（商用篇）[TESTV](https://www.youtube.com/watch?v=Fvh52OsFywc)                                                                                                               |
+| 《值不值得买》第68期：人人都能用的服务器——群晖NAS DS216play（家用篇）[TESTV](https://www.youtube.com/watch?v=BfEzCPXJaEc)                                                                                                               |
+| 《值不值得买》第153期：工作娱乐两不误的看片神器——群晖Office套件 [TESTV](https://www.youtube.com/watch?v=qFSXfzrLOUk)                                                                                                                    |
+| 《值不值得买》第203期：摄影师的好助手——Synology Moments [TESTV](https://www.youtube.com/watch?v=NikxXiBaRVY)                                                                                                                   |
+| 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                                                                                                       |
+|                                                                                                                                                                                                               |
+| 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                                                                                                                    |
+| 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                                                                                                            |
+| NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                                                                                                          |
+| 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                                                                                                                 |
+| 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                                                                                                                 |
+
+#### RAID
+
+磁盘阵列技术
+
+|                                                                                                                               |                                                                                                      |                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          | What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac) | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U) |
+| 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) | 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                      |                                                                                |
+| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                |
+| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                      |                                                                                |
 
 ## 数据恢复
 
@@ -761,11 +820,13 @@ System on Chip, 系统级芯片
 | 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)                                          |
 | 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)   |
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
+| 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)                                                              |
 
 ## 路由器 软路由
 
 |                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)                                                                                                             |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                         |
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                      |
 | 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                              |
@@ -781,6 +842,14 @@ System on Chip, 系统级芯片
 | 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                               |
 | [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278) |
 |                                                                                                                                                             |
+
+## 交换机
+
+|                                                                                      |   |   |
+| ------------------------------------------------------------------------------------ | - | - |
+| 实现链路聚合这么简单？！交换机升级就行？！我一番折腾终成功 [TuTu生活志](https://www.youtube.com/watch?v=vuD9mZtuV7U) |   |   |
+|                                                                                      |   |   |
+|                                                                                      |   |   |
 
 ## 手工, DIY
 
@@ -819,6 +888,7 @@ System on Chip, 系统级芯片
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 机器人运维工程师 [search](https://www.google.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%B8%88)                               |
+| Assembler robots could eventually build almost anything [MIT](https://www.youtube.com/watch?v=G94FDMGLwCc)                                                |
 | Google Just Put an A.I. Brain in a Robot \[Research Breakthrough] [ColdFusion](https://www.youtube.com/watch?v=Jy3zjXK4ao4)                               |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                           |
 | Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
@@ -934,6 +1004,7 @@ System on Chip, 系统级芯片
 | 半導體奇妙的旅程—從原子結構的量子探索到人工智慧的開花結果｜盧志遠院士 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=xWOr0qqHvTI)                                     |
 | 性能至上？聊聊人工智能芯片的5个评价标准 [老石谈芯](https://www.youtube.com/watch?v=KICKrJZMoKA)                                                                    |
 | Designing Billions of Circuits with Code [Asianometry](https://www.youtube.com/watch?v=ihz2WY-E2C8)                                         |
+| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                                                                  |
 
 ### 数字电路
 
@@ -948,7 +1019,7 @@ System on Chip, 系统级芯片
 |                                                                                    |
 | ---------------------------------------------------------------------------------- |
 | The Coming AI Chip Boom [Asianometry](https://www.youtube.com/watch?v=L0948yq2Hqk) |
-|                                                                                    |
+| AI’s Hardware Problem [Asianometry](https://www.youtube.com/watch?v=5tmGKTNW8DQ)   |
 |                                                                                    |
 
 
@@ -1023,11 +1094,11 @@ System on Chip, 系统级芯片
 
 ### 音箱/音响
 
-|               |   |   |
-| ------------- | - | - |
-| 马歇尔（Marshall） |   |   |
-|               |   |   |
-|               |   |   |
+|                                                                                              |   |   |
+| -------------------------------------------------------------------------------------------- | - | - |
+| 马歇尔（Marshall）                                                                                |   |   |
+| 音响还是马歇尔的好！Marshall Kilburn2【值不值得买第488期】 [TESTV](https://www.youtube.com/watch?v=bj8D7myqOR4) |   |   |
+|                                                                                              |   |   |
 
 ### 耳机
 
@@ -1065,5 +1136,5 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | 80小陈 [u](https://www.youtube.com/channel/UCgXuxCSCGyxx\_BPxZJh6uVA)                                          |                                                                      |
 | 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
-| 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                         |                                                                      |
+| 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                         | 海賊王DIY日記 [u](https://www.youtube.com/@pirate-king)                   |
 |                                                                                                              |                                                                      |

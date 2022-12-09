@@ -1,11 +1,15 @@
 # 搜索
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)     |
-| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2) |
-| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)               |
-|                                                                                                             |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)                |
+| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)            |
+| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)                          |
+| Working with Google Custom Search Engine using Python [Indian Pythonista](https://www.youtube.com/watch?v=IBhdLRheKyM) |
+| ditch Google!! (build your own PRIVATE search engine) [NetworkChuck](https://www.youtube.com/watch?v=ifT6npY39Dw)      |
+| 打造自己的超级搜索引擎 [JS神技能](https://www.youtube.com/watch?v=e4S12pjMp8I)                                                       |
+| 贪婪搜索                                                                                                                   |
+| beam search                                                                                                            |
 
 | 搜索技巧                                                                 |
 | -------------------------------------------------------------------- |
