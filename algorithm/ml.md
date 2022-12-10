@@ -1080,7 +1080,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
 | CVPR'20 Interpretable Machine Learning Tutorial [Bolei Zhou](https://www.youtube.com/playlist?list=PLySQw\_vQ73PzrWcY5W8HRNfr0aJQkyahl) |
-|                                                                                                                                         |
+| Talk \| 微软亚洲研究院王希廷：基于逻辑规则推理的深度自可解释模型 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=tTTtWsGKlFI)                                     |
 |                                                                                                                                         |
 
 ### 对比学习 contrastive learning
@@ -1379,6 +1379,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 火遍全网的AI大模型，华为能搞出什么新花样？[老石谈芯](https://www.youtube.com/watch?v=mvG77kv0xRo)                                                                                               |
 | AI大模型是什么？可以让人工智能和人类一样？GPT-3、M6大模型 [啃芝士](https://www.youtube.com/watch?v=2ALSQrFHH5A)                                                                                    |
 | #84 LAURA RUIS - Large language models are not zero-shot communicators \[NEURIPS UNPLUGGED] [Machine Learning Street Talk](https://www.youtube.com/watch?v=5Yd28ssDutA) |
+| Talk \| 微信AI高级研究员苏辉：微信AI大规模预训练语言模型WeLM [将门-TechBeat技术社区](https://www.youtube.com/watch?v=wK2nyOBssFs)                                                                   |
 |                                                                                                                                                                         |
 
 ## AI Safety
