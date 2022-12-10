@@ -73,6 +73,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                                   |
 | Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                        |
 | Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                        |
+| Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                                  |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -94,6 +95,7 @@ import mediapipe as mp
 | Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                                                    |
 | MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                                                     |
 | 【python】OpenCV + MediaPipe 手部追踪 ｜  [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA)   [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)           |
+| Exercise Rep Counter using OpenCV \| Python \| Computer Vision \| Machine Learning [AI Sciences](https://www.youtube.com/watch?v=4WwSJAKRtcA)                                                                 |
 |                                                                                                                                                                                                               |
 
 ### OpenCV
@@ -304,7 +306,7 @@ import cv2
 
 |                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U))                                                                                                                                       |
+| Tensorflow Object Detection in 5 Hours with Python \| Full Course with 3 Projects([Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U\&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy\&index=3))                                                                                     |
 | I tried building a Computer Vision Game in 12 Hours [Murtaza's Workshop](https://www.youtube.com/watch?v=i\_UiTIr4jTk)                                                                                                                                                                   |
 | 【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析 [AINTU-人工智慧技術暨全幅健康照護聯合研究中心](https://www.youtube.com/watch?v=HdQqAF-rMKc)                                                                                                                                                                            |
 | What is YOLO algorithm? \| Deep Learning Tutorial 31 (Tensorflow, Keras & Python) [codebasics](https://www.youtube.com/watch?v=ag3DLKsl2vk)                                                                                                                                              |
@@ -327,7 +329,7 @@ import cv2
 | Coding an Object Detection App in 15 mins [Nicholas Renotte](https://www.youtube.com/watch?v=msGOrJIMGy8)                                                                                                                                                                                |
 | DETR: End-to-End Object Detection with Transformers (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=T35ba\_VXkMY)                                                                                                                                                     |
 | 2 Faster R-CNN Architecture [Ardian Umam](https://www.youtube.com/watch?v=c1\_g6tw69bU)                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                          |
+| YOLO For Smart Object Detection Using Python \| Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=\_rcfNl5e0vE)                                                                                                                                                        |
 
 #### 2D目标检测
 
@@ -359,14 +361,14 @@ import cv2
 
 ### 手势识别 Gesture
 
-|                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gesture Volume Control \| OpenCV Python 2021 \| [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=9iEPzbG-xLE)                                   |
-| Hand Tracking 30 FPS using CPU \| OpenCV Python (2021) \| Computer Vision [Murtaza's Workshop](https://www.youtube.com/watch?v=NZde8Xt78Iw\&t=35s)                    |
-| Create a Rock Paper Scissors AI \| Keras and OpenCV \| Tutorial \| Python [Sourav Johar](https://www.youtube.com/watch?v=0uSA3xyXlwM)                                 |
-| Mouse Control using OpenCV and a Webcam [CodingExperiments](https://www.youtube.com/watch?v=\_WipkZU2pzQ) [git](https://github.com/paolobarbolini/OpenCvMouseControl) |
-| facebookresearch/InterHand2.6M [git](https://github.com/facebookresearch/InterHand2.6M)                                                                               |
-|                                                                                                                                                                       |
+|                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gesture Volume Control \| OpenCV Python 2021 \| [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=9iEPzbG-xLE)                                                                        |
+| Hand Tracking 30 FPS using CPU \| OpenCV Python (2021) \| Computer Vision [Murtaza's Workshop](https://www.youtube.com/watch?v=NZde8Xt78Iw\&t=35s)                                                         |
+| Create a Rock Paper Scissors AI \| Keras and OpenCV \| Tutorial \| Python [Sourav Johar](https://www.youtube.com/watch?v=0uSA3xyXlwM)                                                                      |
+| Mouse Control using OpenCV and a Webcam [CodingExperiments](https://www.youtube.com/watch?v=\_WipkZU2pzQ) [git](https://github.com/paolobarbolini/OpenCvMouseControl)                                      |
+| facebookresearch/InterHand2.6M [git](https://github.com/facebookresearch/InterHand2.6M)                                                                                                                    |
+| Sign Language Detection using ACTION RECOGNITION with Python \| LSTM Deep Learning Model [Nicholas Renotte](https://www.youtube.com/watch?v=doDUihpj6ro\&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy\&index=2) |
 
 ### 人脸识别 Face Detect
 
@@ -391,27 +393,28 @@ import cv2
 
 ### 姿势估计(Pose Estimation)
 
-|                                                                                                                                                     |   |   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR)                                                |   |   |
-| 3D Motion Capture using Normal Webcam \| Computer Vision OpenCV [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=BtMs0ysTdkM) |   |   |
-|                                                                                                                                                     |   |   |
+|                                                                                                                                                     |                                                                                                                                        |   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Pose Estimation [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQ17z1axCOAS1QVS1dvTEvR)                                                |                                                                                                                                        |   |
+| 3D Motion Capture using Normal Webcam \| Computer Vision OpenCV [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=BtMs0ysTdkM) | Track Human Activity Using Scikit Learn \| Python \| Tutorial For Beginners [AI Sciences](https://www.youtube.com/watch?v=HxepdlmhKYs) |   |
+|                                                                                                                                                     |                                                                                                                                        |   |
 
 ### OCR, Optical Character Recognition
 
-|                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                                                 |
-| MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch)                   |
-| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w) Tesseract                                                                   |
-| Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                                             |
-| How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                                   |
-| Automatic OCR Receipt & Invoice Parsing in Python [NeuralNine](https://www.youtube.com/watch?v=dSCJ7DImGdA)                                                                     |
-| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w)                                                                             |
-| Basic OCR bill detection system \| Pytesseract \| Python \| Data Analysis Cherry’s Project                                                                                      |
-| Optical Character Recognition Project \| Find Text inside the images/Videos Machine Learning \| OCR [Data Magic (by Sunny Kusawa)](https://www.youtube.com/watch?v=kpzzkW5Y3Kc) |
-| Optical Character Recognition From Beginner to Expert Using Python \| Tesseract - Complete Tutorial [The Sineth](https://www.youtube.com/watch?v=7XP5WiKw56Y)                   |
-|                                                                                                                                                                                 |
+|                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DAVAR-OCR [git](https://github.com/hikopensource/DAVAR-Lab-OCR)                                                                                                                                                     |
+| MASTER: Multi-Aspect Non-local Network for Scene Text Recognition [arxiv](https://arxiv.org/abs/1910.02562) [git](https://github.com/wenwenyu/MASTER-pytorch)                                                       |
+| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w) Tesseract                                                                                                       |
+| Optical Character Recognition (OCR) - [Computerphile](https://www.youtube.com/watch?v=ZNrteLp\_SvY)                                                                                                                 |
+| How Does Optical Character Recognition (OCR) Work? [Techquickie](https://www.youtube.com/watch?v=jO-1rztr4O0)                                                                                                       |
+| Automatic OCR Receipt & Invoice Parsing in Python [NeuralNine](https://www.youtube.com/watch?v=dSCJ7DImGdA)                                                                                                         |
+| Extract Text From Images in Python (OCR) [NeuralNine](https://www.youtube.com/watch?v=PY\_N1XdFp4w)                                                                                                                 |
+| Basic OCR bill detection system \| Pytesseract \| Python \| Data Analysis Cherry’s Project                                                                                                                          |
+| Optical Character Recognition Project \| Find Text inside the images/Videos Machine Learning \| OCR [Data Magic (by Sunny Kusawa)](https://www.youtube.com/watch?v=kpzzkW5Y3Kc)                                     |
+| Optical Character Recognition From Beginner to Expert Using Python \| Tesseract - Complete Tutorial [The Sineth](https://www.youtube.com/watch?v=7XP5WiKw56Y)                                                       |
+| Automatic Number Plate Recognition using Tensorflow and EasyOCR Full Course in 2 Hours \| Python [Nicholas Renotte](https://www.youtube.com/watch?v=0-4p\_QgrdbE\&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy\&index=4) |
+|                                                                                                                                                                                                                     |
 
 ### 表格识别
 
