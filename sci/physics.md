@@ -23,6 +23,7 @@
 | 佑来了生活科学 抖音号：[YoulaileSTEM](https://www.douyin.com/user/MS4wLjABAAAAyL0n5s56zMXCinGDvpmYMo6RPatrbMBg9kyBJVH7GmeucuV568RLYIHwPKa2xvHw)                                                  | 张朝阳的物理课 抖音号：[Charlesphysics](https://www.douyin.com/user/MS4wLjABAAAApIEQAQbDECJWlDDvDKCwpvpLAskFmeUxnIIrAAL9mNoDBYxAJxED5RCBTISu7zcY) |
 | 弓弓沐梓（科普）抖音号：[366411781](https://www.douyin.com/user/MS4wLjABAAAAKz5dhoOrFQaRVgzLsCdnmp53dj8uCarcQ9pU5mjwWoo)                                                                          | 爆炸实验室 抖音号：[BBoomLab](https://www.douyin.com/user/MS4wLjABAAAAffYZr3gSkDlT15ksTdm5xexwA0d-npfK1fFJLMOCQAU)                              |
 | 道理学趣味物理实验 抖音号：[dlxqwwl](https://www.douyin.com/user/MS4wLjABAAAAUeTGpEJhhtsxfbnDZAjPCB0XLpAKJeZrsqgzwAtkrVaTOSqKZRXhdJGBcCZAX7Fg)                                                     | 传感器玩镓 抖音号：[23109939421](https://www.douyin.com/user/MS4wLjABAAAANc-oVfpiI\_l\_MAPwlQOkltg1jHlbs9UQEIugWD5NHKm\_N8SlDlNTc66hDkLpbCbI)   |
+|                                                                                                                                                                                       | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -103,19 +104,20 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 电路
 
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                                                           |
-| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)                                                 |
-| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar)                                        |
-| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                                                                  |
-| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                                                         |
-| 10 Ways to SEE the ELECTRIC FIELD - Part 2 [James Lincoln](https://www.youtube.com/watch?v=bOLd2KVK-Mo)                                               |
-| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                                                         |
-| In Search for the BEST Wireless Power Coil! (Experiment) My Coils can act like Capacitors? [GreatScott!](https://www.youtube.com/watch?v=S3mLHpzzcTU) |
-| Free Energy BS! \|\| Magnet PC Fan, Bedini Motor [GreatScott!](https://www.youtube.com/watch?v=g4tO0kBOzqk)                                           |
-| Free Energy Devices Build and Science [ElectroBOOM](https://www.youtube.com/watch?v=15V0gUXUPko)                                                      |
-| 亿图图示 抖音号：[EdrawMax](https://www.douyin.com/user/MS4wLjABAAAAj5JiKQaA8qrVSMcm\_aWK0swOAGeyeMhrOp9zznWo9kw)  制图绘图软件 电路图                                 |
+|                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                                                                                                                                   |
+| [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)                                                                                                                         |
+| [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar)                                                                                                                |
+| 麻省理工开放课程：电路与电子学 [Qian You](https://www.youtube.com/playlist?list=PLD495612D7E420544)                                                                                                                                          |
+| 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                                                                                                                                 |
+| 10 Ways to SEE the ELECTRIC FIELD - Part 2 [James Lincoln](https://www.youtube.com/watch?v=bOLd2KVK-Mo)                                                                                                                       |
+| 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                                                                                                                                 |
+| In Search for the BEST Wireless Power Coil! (Experiment) My Coils can act like Capacitors? [GreatScott!](https://www.youtube.com/watch?v=S3mLHpzzcTU)                                                                         |
+| Free Energy BS! \|\| Magnet PC Fan, Bedini Motor [GreatScott!](https://www.youtube.com/watch?v=g4tO0kBOzqk)                                                                                                                   |
+| Free Energy Devices Build and Science [ElectroBOOM](https://www.youtube.com/watch?v=15V0gUXUPko)                                                                                                                              |
+| 亿图图示 抖音号：[EdrawMax](https://www.douyin.com/user/MS4wLjABAAAAj5JiKQaA8qrVSMcm\_aWK0swOAGeyeMhrOp9zznWo9kw)  制图绘图软件 电路图                                                                                                         |
+| <p>The Big Misconception About Electricity <a href="https://www.youtube.com/watch?v=bHIhgxav9LY">Veritasium</a></p><p>How Electricity Actually Works <a href="https://www.youtube.com/watch?v=oI_X2cMHNe0">Veritasium</a></p> |
 
 ## 微波 Microwave
 
@@ -191,6 +193,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 深度强化学习在流体力学中的应用 [维尔ZT](https://www.bilibili.com/video/BV1K64y1D7fE/?spm\_id\_from=333.788.recommend\_more\_video.0) |
 | 边界层理论 天津大学 董明 [Rongjie Hong](https://www.youtube.com/playlist?list=PL1j804wG80CDXLZFs1PTypISLHZK\_IpSF)             |
 | 2.5流物理学家朗道的一生 什么是玻色-爱因斯坦凝聚？[妈咪说MommyTalk](https://www.youtube.com/watch?v=0gZXhrQjjqc\&t=14s)                       |
+| 知道讓足球拐彎的馬格努斯效應，就知道為什麼子彈不會拐彎了！ \| [雅桑了嗎](https://www.youtube.com/watch?v=bYHh2ZBzCOA)                                |
 |                                                                                                                     |
 
 ## 空气动力学, Aerodynamics
@@ -220,6 +223,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Understanding the Holographic Universe [PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR) |
 | 课程-天文探秘 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wc6Rdt44Ke4T-i9REanLZC)                           |
 | 【宇宙雜談】首次發現曲速泡？！“超光速”航行有望？\| [Linvo說宇宙](https://www.youtube.com/watch?v=mc5W17u9roI)                                               |
+| 格罗特 雷伯 一個人的天文學，他在媽媽後院建起古怪裝置，帶領人類觀測宇宙 l [老鳴TV](https://www.youtube.com/watch?v=F2MPp44XcBI)                                        |
 |                                                                                                                                   |
 
 ## 物理学四大神兽

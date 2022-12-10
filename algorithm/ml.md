@@ -1372,6 +1372,12 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Diffusion Model 수학이 포함된 tutorial [디퓨전영상올려야지](https://www.youtube.com/watch?v=uFoGaIVHfoE)                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                                                                       |
 
+| Stable Diffusion                                             |   |   |
+| ------------------------------------------------------------ | - | - |
+| Stable Diffusion Online [s](https://stablediffusionweb.com/) |   |   |
+|                                                              |   |   |
+|                                                              |   |   |
+
 ## 基础模型 Foundation Models
 
 |                                                                                                                                                                         |

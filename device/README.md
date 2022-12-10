@@ -221,11 +221,11 @@ description: 硬件设备
 
 ## 无线电
 
-|                                                                                 |
-| ------------------------------------------------------------------------------- |
-| 携手软件定义无线电SDR走进神奇的无线电世界 [Yuan Wang](https://www.youtube.com/watch?v=KjgE1CNs2xA) |
-| 如何用树莓派搭个小电台 [我是炬峰](https://www.youtube.com/watch?v=FnUiLn60s0Q)                 |
-|                                                                                 |
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| 携手软件定义无线电SDR走进神奇的无线电世界 [Yuan Wang](https://www.youtube.com/watch?v=KjgE1CNs2xA)            |
+| 如何用树莓派搭个小电台 [我是炬峰](https://www.youtube.com/watch?v=FnUiLn60s0Q)                            |
+| 格罗特 雷伯 一個人的天文學，他在媽媽後院建起古怪裝置，帶領人類觀測宇宙 l [老鳴TV](https://www.youtube.com/watch?v=F2MPp44XcBI) |
 
 ## PC掌机
 
