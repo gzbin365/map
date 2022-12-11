@@ -15,6 +15,7 @@ description: Blockchain & Cryptocurrency
 | IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), ) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)          |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ)     |
 | 李欢 [u](https://www.youtube.com/@LiHuanLH/playlists)                      | 飞彪队 [u](https://www.youtube.com/channel/UCgCco8lboO1LRlB9XPh662Q/playlists) |
+|                                                                          | 区块链教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1207298049439968)              |
 
 |                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -475,6 +475,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Miscellaneous but useful information about deep learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZusFFxso3rZNRN\_a1llepp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | MACHINE LEARNING [CSE & IT Tutorials 4u](https://www.youtube.com/playlist?list=PLaLj9pkyu5Pby5irXGRL37ZBveEGiOLgn)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Complete Machine Learning playlist [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| \[Tutorialsplanet.NET] Udemy -Artificial Intelligence with Python                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \[Tutorialsplanet.NET] Udemy - Machine Learning, Deep Learning and Bayesian Learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1042,12 +1044,12 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 
 ### 集成学习
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| 三个丑皮匠 顶个诸葛亮                                                                |
-| 集成学习 [Ouyang Ruofei](https://www.youtube.com/watch?v=ztYEZb2y6QI)          |
-| GradientBoost [Ouyang Ruofei](https://www.youtube.com/watch?v=ODB3WEDzFlo) |
-|                                                                            |
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| 三个丑皮匠 顶个诸葛亮                                                                                |
+| 集成学习 [Ouyang Ruofei](https://www.youtube.com/watch?v=ztYEZb2y6QI)                          |
+| GradientBoost [Ouyang Ruofei](https://www.youtube.com/watch?v=ODB3WEDzFlo)                 |
+| \[Tutorialsplanet.NET] Udemy - Ensemble Machine Learning in Python Random Forest, AdaBoost |
 
 ### 多任务学习 Multi-task learning
 

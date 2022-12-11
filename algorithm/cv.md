@@ -74,6 +74,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                        |
 | Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                        |
 | Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                                  |
+| \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                    |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |

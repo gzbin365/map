@@ -226,7 +226,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn) |
 | bytebase/[star-history](https://github.com/bytebase/star-history)   [s](https://star-history.com/)                                                                     |
 | [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                 |
-| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**                                                                               |
+| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )**   Git教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)               |
 | **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                             |
 | GitHub Documentation [ch](\[link]\(https:/docs.github.com/cn\)/) [en](\[link]\(https:/docs.github.com/en\)/)                                                           |
 |                                                                                                                                                                        |

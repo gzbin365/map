@@ -188,6 +188,7 @@ LDA 文档聚类 plsa lsa
 | What have AI language models learned? [TensorFlow](https://www.youtube.com/watch?v=4jGiw1zpbqg) [site](https://pair.withgoogle.com/explorables)                                                                                               |
 | What is the BLEU metric? [HuggingFace](https://www.youtube.com/watch?v=M05L1DhFqcw)                                                                                                                                                           |
 | \[Tutorialsplanet.NET] Udemy - Natural Language Processing (NLP) in Python with 8 Projects                                                                                                                                                    |
+| \[Tutorialsplanet.NET] Udemy - Natural Language Processing with Python from zero to hero                                                                                                                                                      |
 
 #### spaCy
 

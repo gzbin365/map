@@ -4,7 +4,7 @@
 
 |                                                                                                   |                                                                        |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **1BestCsharp blog(**[**u**](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw)**, )**     |                                                                        |
+| **1BestCsharp blog(**[**u**](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw)**, )**     | Java教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)        |
 | **编程零基础入门到就业(**[**u**](https://www.youtube.com/channel/UCMUkEyEihqfTPMT-MbTcGgw/playlists)**, )** | Java Brains [u](https://www.youtube.com/c/JavaBrainsChannel/playlists) |
 | Math and Science [u](https://www.youtube.com/user/mathtutordvd/playlists)                         | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)     |
 
@@ -104,6 +104,14 @@ Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1
 | What Is Spring? [SpringDeveloper](https://www.youtube.com/watch?v=Spzug\_SjJnM) |
 |                                                                                 |
 |                                                                                 |
+
+### Maven
+
+|                                                                                                       |                                                                                                |                                                   |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Maven就是是专门为Java项目打造的管理和构建工具 [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1309301146648610) | Maven是一个开源的项目管理工具，它可以用来管理项目的构建、报告和文档。它通过使用一个中央的配置文件来管理项目的依赖关系、构建过程和报告，从而使得项目开发更加规范化、高效。chatgpt | \[Tutorialsplanet.NET] Udemy - Maven Crash Course |
+|                                                                                                       |                                                                                                |                                                   |
+|                                                                                                       |                                                                                                |                                                   |
 
 ### Spring Boot
 

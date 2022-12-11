@@ -4,6 +4,8 @@
 
 **自学SQL网(**[**s**](http://xuesql.cn)**,** [**v**](https://www.bilibili.com/video/BV12V411a7wZ/)**, )** [**NoSQL数据存储**](https://www.fullstackpython.com/no-sql-datastore.html)
 
+SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
+
 |                                                                                                                                              |                                                            |   |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | - |
 | 逻辑表 [阿里云](https://help.aliyun.com/document\_detail/58126.html)                                                                               | 数据管理 DMS [阿里云](https://help.aliyun.com/product/26437.html) |   |
