@@ -35,6 +35,8 @@
 
 The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/watch?v=gAFAj3pzvAA))
 
+【合集】10分钟速成课：物理学(完结) [TiC23](https://www.bilibili.com/video/BV1Nb411L7fQ)   [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=MFBLF00T9)
+
 |                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
 | 火箭推进Rocket Propulsion [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8G4TdzgmXkjvs4AZnlTVaH) |

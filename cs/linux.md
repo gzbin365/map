@@ -371,6 +371,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Crazy fast Kubernetes Automation with Terraform [The Digital Life](https://www.youtube.com/watch?v=kFt0OGd\_LhI)                                                |
 | Kubernetes Used As A Go Package [The Ape Machine](https://www.youtube.com/watch?v=xWFk5oqScJ0)                                                                  |
 | Microservice Architecture and System Design with Python & Kubernetes – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hmkF77F9TLw)                  |
+| \[Tutorialsplanet.NET] Udemy - Practical Kubernetes Guide                                                                                                       |
 
 ## GTK
 
@@ -416,6 +417,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Complete END to END Azure DevOps Tutorials Series with Practical's \[ Full Course in 4 Hours ] [DevOps Mela](https://www.youtube.com/watch?v=7YMWthE6RTY)                                                                                                                             |
 | DevOps [Automation Step by Step](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8HKqfIp6qcAeGb3FAGDNLA)                                                                                                                                                                            |
 | DevOps Courses [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A\_Ixs)                                                                                                                                                                              |
+| \[Tutorialsplanet.NET] Udemy - DevOps Tutorial Complete Beginners Training - 5 in 1 Bundle                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                       |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac)                                                                                                                                                                              |

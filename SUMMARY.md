@@ -62,7 +62,7 @@
     * [经济](sci/ren-wen-she-ke/jing-ji.md)
     * [管理学](sci/ren-wen-she-ke/guan-li-xue.md)
     * [社会学](sci/ren-wen-she-ke/she-hui-xue.md)
-    * [心理学](sci/ren-wen-she-ke/xin-li-xue.md)
+    * [心理学](sci/ren-wen-she-ke/Psychology.md)
     * [教育学](sci/ren-wen-she-ke/jiao-yu-xue.md)
     * [会计](sci/ren-wen-she-ke/hui-ji.md)
     * [职场](sci/ren-wen-she-ke/zhi-chang.md)

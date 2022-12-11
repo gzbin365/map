@@ -126,14 +126,16 @@
 
 ### 分布式
 
-| Zabbix                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------- |
-| Zabbix监控环境搭建与配置入门实战视频课程高清版 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyyfFX7DBn48FyEVbO-Tr4e)     |
-| 企业级大型监控系统zabbix深入介绍 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx61m6rK8KZmbGXX8WrpdZC)            |
-| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D) |
-| 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                  |
-| 最通俗易懂的CAP定理教程 [技术喵](https://www.youtube.com/watch?v=yA-mOVIO8jA)                                                    |
-| 分布式系统\&DDIA [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3pQjcgSAxeXvYCyTa-luOc)                        |
-| 参数服务器（Parameter Server）逐段精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=yFoeHcCqD2c)                              |
-| Pathways 论文精读【论文精读】 [跟李沐学AI](https://www.youtube.com/watch?v=UK3msk4qs\_4)                                          |
-| Spark / PySpark [Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTF6bpN\_4oFubxQiUqUlqR2Y)              |
+| Zabbix                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zabbix监控环境搭建与配置入门实战视频课程高清版 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyyfFX7DBn48FyEVbO-Tr4e)                                          |
+| 企业级大型监控系统zabbix深入介绍 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTx61m6rK8KZmbGXX8WrpdZC)                                                 |
+| L004-老男孩高级架构师体系-zabbix监控实战-13节 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTz7AB9RX05DaQJIPEY4sV8D)                                      |
+| 大数据快速入门Spark [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxTicoh0YEm6fhGXM\_xLLWr)                                                       |
+| 最通俗易懂的CAP定理教程 [技术喵](https://www.youtube.com/watch?v=yA-mOVIO8jA)                                                                                         |
+| 分布式系统\&DDIA [土妹土妹](https://www.youtube.com/playlist?list=PLeRPcJf8vjt3pQjcgSAxeXvYCyTa-luOc)                                                             |
+| 参数服务器（Parameter Server）逐段精读【论文精读】[跟李沐学AI](https://www.youtube.com/watch?v=yFoeHcCqD2c)                                                                   |
+| Pathways 论文精读【论文精读】 [跟李沐学AI](https://www.youtube.com/watch?v=UK3msk4qs\_4)                                                                               |
+| Spark / PySpark [Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTF6bpN\_4oFubxQiUqUlqR2Y)                                                   |
+| \[Tutorialsplanet.NET] Udemy - Spark and Python for Big Data with PySpark                                                                                |
+| MIT 6.824 Distributed Systems (Spring 2020) [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39\_tb2fErI4-WkMbsvGQk9\_UB) |

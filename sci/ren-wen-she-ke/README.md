@@ -1,8 +1,8 @@
 # 人文社科
 
-|                                                                                 |   |
-| ------------------------------------------------------------------------------- | - |
-| 蟹老板([u](https://www.youtube.com/channel/UCsEArwGh1-lMOuaV\_Bxpm7g/playlists), ) |   |
+|                                                                                 |                                                                     |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 蟹老板([u](https://www.youtube.com/channel/UCsEArwGh1-lMOuaV\_Bxpm7g/playlists), ) | Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists) |
 
 ## 人类行为生物学
 

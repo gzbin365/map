@@ -13,10 +13,12 @@
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| xuanhun/[PythonHackingBook1](https://github.com/xuanhun/PythonHackingBook1)   Python黑客编程之极速入门   [玄魂](https://www.zhihu.com/people/xuan-hun)                                               |
 | Ethical Network Hacking for Idiots [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                                              |
 | How the Best Hackers Learn Their Craft [RSA Conference](https://www.youtube.com/watch?v=6vj96QetfTg)                                                                                      |
 | JavaScript Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=CxS3i4LJdAo)                                                                                                          |
 | 看完你就拥有了黑客意识！——迈克教你网关，端口，防火墙，节点，肉鸡，社会工程学，公开课第三讲 [Bill Mike比尔迈克](https://www.youtube.com/watch?v=xIY-JtKa8Ms)                                                                               |
+| \[Tutorialsplanet.NET] Udemy - Learn Social Engineering From Scratch                                                                                                                      |
 | Free API Hacking course! [David Bombal](https://www.youtube.com/watch?v=CkVvB5woQRM)                                                                                                      |
 | QuickHacks [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbSrXqgnSTFbdFAiF4LYkxH)                                                                                      |
 | Privacy - [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiS\_4OmkaZ\_0MV2snFENYeZA)                                                                                  |
@@ -53,6 +55,9 @@
 | Minecraft hacking with PYTHON and Log4j // Netcat reverse shell exploiting CVE [David Bombal](https://www.youtube.com/watch?v=efnluUK\_w\_U)                                              |
 | How Hackers Hack Into Any Phone's Camera?! [Loi Liang Yang](https://www.youtube.com/watch?v=HZufZeqeO2k)                                                                                  |
 | Termux android hacking @Powerknack [Cyber knack](https://www.youtube.com/playlist?list=PLUeTsw5\_MOKhKkqDqomO5FMmD3Ld59fhu)                                                               |
+| \[Tutorialsplanet.NET] Udemy - Hacking For Beginners (2021)                                                                                                                               |
+| \[Tutorialsplanet.NET] Udemy - Network Hacking Continued - Intermediate to Advanced                                                                                                       |
+| \[Tutorialsplanet.NET] Udemy - The Ultimate Dark Web, Anonymity, Privacy & Security Course                                                                                                |
 |                                                                                                                                                                                           |
 
 |                                                                                           |

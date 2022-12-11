@@ -346,6 +346,10 @@ description: 硬件设备
 | F-117 Nighthawk cardboard - F117 cardboard DIY l [S-DiY](https://www.youtube.com/watch?v=RgVaid5HnB8)                                         |
 | How To Make Drone With Hand-made Radio Control. DIY Drone [KendinYap](https://www.youtube.com/watch?v=yFBvC\_zRiek)                           |
 | How To Make Simple RC Airplane For Simple Radio Control. DIY RC Aiplane & Arduino RC [KendinYap](https://www.youtube.com/watch?v=9SMyBN-B3Vo) |
+| \[Tutorialsplanet.NET] Udemy - Tech Explorations™ Make an Open Source Drone                                                                   |
+|                                                     The Ultimate Guide for Land Surveying with Drones - Part 1                                |
+| \[Tutorialsplanet.NET] Udemy - The Ultimate Guide for Land Surveying with Drones - Part 2                                                     |
+|                                                     The Ultimate Guide for Land Surveying with Drones - Part 3                                |
 
 | DJI                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -966,6 +970,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | ROS教學 [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-IYaLRTXorccibStlBw0v9C)                                                                                              |
 | Autonomous Navigation Mobile Robot using ROS \| Jetson Nano \| RPLidar \| Differential Drive Kinematics [Robotics and ROS Learning](https://www.youtube.com/watch?v=Uz\_i\_sjVhIM) |
 | Visual and LIDAR based SLAM with ROS using Bittle and Raspberry Pi [Hardware.ai](https://www.youtube.com/watch?v=uXpQUIF\_Jyk)                                                     |
+| \[Tutorialsplanet.NET] Udemy - ROS for Beginners Basics, Motion, and OpenCV                                                                                                        |
 
 ## 乐高 Lego
 

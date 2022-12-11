@@ -187,6 +187,7 @@ LDA 文档聚类 plsa lsa
 | NLP Tutorial Playlist Python [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)                                                                                                                           |
 | What have AI language models learned? [TensorFlow](https://www.youtube.com/watch?v=4jGiw1zpbqg) [site](https://pair.withgoogle.com/explorables)                                                                                               |
 | What is the BLEU metric? [HuggingFace](https://www.youtube.com/watch?v=M05L1DhFqcw)                                                                                                                                                           |
+| \[Tutorialsplanet.NET] Udemy - Natural Language Processing (NLP) in Python with 8 Projects                                                                                                                                                    |
 
 #### spaCy
 
@@ -525,6 +526,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | chatgpt [openai](https://openai.com/blog/chatgpt/)   [discord](https://discord.com/invite/openai)                                                                                                                                                                                   |
 | 接码平台[SMS-ACTIVATE](https://sms-activate.org/cn) [u](https://www.youtube.com/@sms-activatecn-2024) [fb](https://www.facebook.com/smsactivate) [ins](https://www.instagram.com/smsactivateorg/) [tg](https://t.me/moneyactivateCN)   [v](https://www.youtube.com/watch?v=IMuan9hg1b0) |
 | ChatGPT中文版免费使用体验 [程序员郑清](https://www.douyin.com/video/7174943660637801761)                                                                                                                                                                                                          |
+| OpenAI's ChatGPT is a MASSIVE step forward in Generative AI [sentdex](https://www.youtube.com/watch?v=HTWfA7KFzoA)                                                                                                                                                                  |
+| ChatGPT: This AI has a JAILBREAK?! (Unbelievable AI Progress) [Yannic Kilcher](https://www.youtube.com/watch?v=0A8ljAkdFtg)                                                                                                                                                         |
 
 ### 语言模型, Language Model
 

@@ -548,6 +548,7 @@ Computer Components？Computer Architecture？
 | 中国科学技术大学精品课程：微机原理与系统 周荷琴 [weibin zhuang](https://www.youtube.com/playlist?list=PLsHk0h8ywlQ2-O02eda2j-iVyXbBGpX3F) |
 | 「[珂学原理](https://www.youtube.com/playlist?list=PLYdJCSN8wbG9dAlEHfwt2DFwCaRUMXKLF)」重新理解微机原理                         |
 | 微机原理与系统 [technology information](https://www.youtube.com/playlist?list=PL0MagCinIFozfh6jU6nHO-MTS6SFguAil)         |
+| \[Tutorialsplanet.NET] Udemy - Mastering Microcontroller TIMERS, PWM, CAN, RTC,LOW POWER                           |
 
 ## 数据库
 

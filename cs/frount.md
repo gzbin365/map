@@ -234,7 +234,7 @@
 | Node.js Tutorial \| Node.js Tutorial For Beginners \| Learn Node.js \| NodeJS Tutorial \| [Simplilearn](https://www.youtube.com/watch?v=CELj-DCB0go)                                                     |
 | Node.js & Stripe API - Ebook Sales App & Heroku Deploy [Traversy Media](https://www.youtube.com/watch?v=QT3\_zT97\_1g)                                                                                   |
 | Node.js / Express Course - Build 4 Projects [freeCodeCamp](https://www.youtube.com/watch?v=qwfE7fSVaZM)                                                                                                  |
-|                                                                                                                                                                                                          |
+| \[Tutorialsplanet.NET] Udemy - The Complete Node.js Developer Course (3rd Edition)                                                                                                                       |
 |                                                                                                                                                                                                          |
 |                                                                                                                                                                                                          |
 
@@ -302,6 +302,7 @@
 | HTML、CSS、JavaScript 網頁前端工程 [彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbqW54tWQPIVbhyl\_Ky6a2VI)                                                                                         |
 | Pokémon JavaScript Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=yP5DKzriqXA)                                                                                        |
 | JavaScript Fighting Game Tutorial with HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=vyqbNFMDRGQ)                                                                                       |
+| Vertical Platformer Game Tutorial with JavaScript and HTML Canvas [Chris Courses](https://www.youtube.com/watch?v=rTVoyWu8r6g)                                                                        |
 |                                                                                                                                                                                                       |
 
 ### html

@@ -139,7 +139,7 @@
 |                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>少儿编程从出门到比赛，三本书就够了！scratch书籍推荐 <a href="https://www.douyin.com/video/7093008277063126306">教编程的小土</a></p><p>dk出版社 编程真好玩3.0 pdf 6岁</p><p>动手玩转 scratch 3.0 编程 全部指令 蓝桥杯</p><p>scratch 高手密码 算法</p> |
-|                                                                                                                                                                                                 |
+| \[Tutorialsplanet.NET] Udemy - Scratch Game Programming for Young Adults                                                                                                                        |
 |                                                                                                                                                                                                 |
 
 ## DotNet, .NET
@@ -254,11 +254,15 @@
 | Learn Unity - Beginner's Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=gB1F9G0JXOo)                                         |
 | Python for Unity 3D 2020 [Indie-Pixel](https://www.youtube.com/watch?v=3UOlN8FcNbE)                                                                    |
 | Unity 3D Augmented Reality Application With OpenCV and Python [Alberto Zancanaro](https://www.youtube.com/watch?v=O4Udf7Gu3zE)                         |
+| \[Tutorialsplanet.NET] Udemy - Unity 3D Course No Coding, Build & Market Video Games Fast                                                              |
 | 【Unity】3小时制作一个游戏 ｜ Unity 游戏开发初学者教程 [GrandmaCan -我阿嬤都會](https://www.youtube.com/watch?v=nPW6tKeapsM)                                                    |
 | How to Make Oculus Quest 2 Games // Introduction to Unity VR Development [Justin P Barnett - VR Game Dev](https://www.youtube.com/watch?v=wnn-dzHz-tA) |
 | Unity 十分钟快速入门 [奇乐编程学院](https://www.youtube.com/watch?v=5azG7\_Yzq9o)                                                                                   |
 | Make Pong With Python! [Tech With Tim](https://www.youtube.com/watch?v=vVGTZlnnX3U)                                                                    |
 | How I learned Unity without following tutorials [Game Maker's Toolkit](https://www.youtube.com/watch?v=vFjXKOXdgGo)                                    |
+| \[Tutorialsplanet.NET] Udemy - Unity Multiplayer 2017 -Build Online Shooter - code included                                                            |
+| \[Tutorialsplanet.NET] Udemy - The Unity C# Survival Guide                                                                                             |
+|                                                                                                                                                        |
 
 ## Game Programming
 
@@ -342,6 +346,7 @@
 | Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)                                                                                                                |
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
+| \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
 |                                                                                                                                                                          |
 
 ## 3D Graphics Engine

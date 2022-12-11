@@ -15,6 +15,10 @@
 | Introduction to Network Analysis in R [Veronica Red](https://www.youtube.com/watch?v=-0DrlPqit9M)                                                                     |
 | 教育統計學 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrRCD6BGbDyCrf0mZm1hHJEl)                                                                                 |
 | 基礎統計概論含R實作 [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQYj2KFUus-Z3scvBPDpWgk)                                                                            |
+| Use Python Inside of R [NeuralNine](https://www.youtube.com/watch?v=Rtipj7OaB2k)                                                                                      |
+| \[Tutorialsplanet.NET] Udemy - R Programming for Statistics and Data Science 2020                                                                                     |
+| \[Tutorialsplanet.NET] Udemy - R Programming Advanced Analytics In R For Data Science                                                                                 |
+| \[Tutorialsplanet.NET] Udemy - R Programming A-Z™ R For Data Science With Real Exercises!                                                                             |
 |                                                                                                                                                                       |
 
 | Google Colab with R                                                                                                         |
