@@ -613,6 +613,9 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | [PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版）](https://www.bookstack.cn/books/nlp-pytorch-zh) |
 | **兜哥带你NLP入门（自然语言处理入门）(**[**书栈**](https://www.bookstack.cn/books/duoergun0729-nlp)**, )**                      |
 | **Neural Networks from Scratch(**[**sentdex**](https://nnfs.io)**, )**                                        |
+| 文本机器学习, machine learning for text, pdf                                                                        |
+|                                                                                                               |
+|                                                                                                               |
 
 ## 面试
 

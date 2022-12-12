@@ -53,4 +53,6 @@
 | 中华人民共和国宪法 [gov](http://www.gov.cn/guoqing/2018-03/22/content\_5276318.htm)                                                                                  |
 | 中华人民共和国民法典 [wiki](https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8)                |
 | 中华人民共和国法律列表 [wiki](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B3%95%E5%BE%8B%E5%88%97%E8%A1%A8)       |
+| 行政法规库 [中国政府网](http://www.gov.cn/zhengce/xzfgk/index.htm)                                                                                                    |
+| 中华人民共和国计算机信息网络国际联网管理暂行规定 [中国政府网](http://www.gov.cn/zhengce/2020-12/26/content\_5574802.htm)                                                                 |
 | 日内瓦公约 [bd](https://baike.baidu.com/item/%E5%85%B3%E4%BA%8E%E6%88%98%E4%BF%98%E5%BE%85%E9%81%87%E4%B9%8B%E6%97%A5%E5%86%85%E7%93%A6%E5%85%AC%E7%BA%A6/98245) |
