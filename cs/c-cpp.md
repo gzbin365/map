@@ -74,6 +74,7 @@
 | Pointers in C++ [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGlKR4UFJjy8qZJQWvnHRZ1)                                                            |
 | \[Tutorialsplanet.NET] Udemy - Learn C++ Programming -Beginner to Advance- Deep Dive in C++                                                                      |
 | \[Tutorialsplanet.NET] Udemy - Algorithms Bootcamp in C++                                                                                                        |
+| Why You Shouldn't Nest Your Code [CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4)                                                                    |
 |                                                                                                                                                                  |
 
 

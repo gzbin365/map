@@ -9,11 +9,12 @@
 
 ## MongoDB
 
-| **MongoDB**                                                                                             |
-| ------------------------------------------------------------------------------------------------------- |
-| **The Little MongoDB Book 中文版(**[**书栈**](https://www.bookstack.cn/books/the-little-MongoDB-Book)**, )** |
-| MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
-|                                                                                                         |
+| **MongoDB**                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- |
+| **The Little MongoDB Book 中文版(**[**书栈**](https://www.bookstack.cn/books/the-little-MongoDB-Book)**, )**     |
+| MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                      |
+| MongoDb with Python [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVN\_8zzsevm1bm6G-plsiO1I) |
+|                                                                                                             |
 
 ## rust
 

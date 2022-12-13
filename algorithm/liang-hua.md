@@ -17,3 +17,13 @@
 | 金融科技人工智慧應用：教 AlphaGo 玩股票 - 顧家祈 \| MOPCON 2019 [MOPCON](https://www.youtube.com/watch?v=KIalE2Ma30E)                            |
 | Deep Learning Trading Strategy [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B4w7zaytjj52L8\_61mOC71v) |
 | Trading System Architecture [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B6Myf9tzO6gUBmzbQzofUCR)     |
+| AI量化交易 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HKKpYd2h1obeyXNGNyMBOaw)                                    |
+| 清华学霸的量化交易教程 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HKhDxCYumEvmlnYuJ8K3IyU)                               |
+| 私募股票操盘手教程 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HIgFthng0hDYbdYYliSOhrO)                                 |
+| 初阶！量化交易：策略编写及系统搭建 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HJVRRLb--xrAVqgvUuaNpZ0)                         |
+| 进阶！量化交易实战：迭代式的量化策略研发 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HITDFG8vrez3moP6pI2qJA5)                      |
+| 构建自己的股票数据库 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HKT4RtKdzncLuVCrtA4KCeT)                                |
+| 李永强相关视频 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HIJDtJlo27\_uINyxe6rqwr\_)                                 |
+| 葛定臣高频交易 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HImLtXWzlEr-S\_vBSODAZvh)                                  |
+| 投机实验室 [u](https://www.youtube.com/@speculation/playlists)                                                                      |
+|                                                                                                                                |

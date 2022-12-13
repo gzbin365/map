@@ -25,6 +25,7 @@ description: 好好睡觉 好好干饭
 | 中国科学家用CO₂人工合成淀粉！原理是什么？能得诺贝尔奖吗？ [李永乐老师](https://www.youtube.com/watch?v=0i8tqtudhZQ)                                                                     |
 | Origins of Life [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznS5m3hcoV\_JIcsYJiQ7L2\_R)                                       |
 | Using math to decode biology’s programming language [NanoRooms](https://www.youtube.com/watch?v=kbJxl7HU480)                                            |
+| Mathematical Biology [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2ARveVNd\_vhcErk2mRdz6lD)                                         |
 
 ### 基因
 

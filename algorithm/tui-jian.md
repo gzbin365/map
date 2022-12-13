@@ -20,3 +20,5 @@
 | Arize:Observe - Using Reinforcement Learning Techniques for Recommender Systems [Arize AI](https://www.youtube.com/watch?v=gg4xi\_SeXSA)                                                            |
 | Grocery store recommendation systems with HarperDB and Web ML - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=JQksipdQiGI\&list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw\&index=1) |
 | \[Tutorialsplanet.NET] Udemy - Building Recommender Systems with Machine Learning and AI                                                                                                            |
+| Recommendation Systems [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)                                                                                       |
+|                                                                                                                                                                                                     |

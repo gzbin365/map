@@ -70,7 +70,6 @@ description: Generative Adversarial Network (GAN)
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg) [s](https://openai.com/dall-e-2/)                                              |
-| DALL·E 2【论文精读】 [Mu Li](https://www.youtube.com/watch?v=hO57mntSMl0)                                                                                     |
 | DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                                                 |
 | lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                |
 | How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |

@@ -47,10 +47,11 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 费曼物理学 [steve zhang](https://www.youtube.com/playlist?list=PLAO\_-mukaOeOYXNPxJ-CmBvDt9yLOr7Rz)                               |
 | 如何理解“梯度下降法”？什么是“反向传播”？  [王木头学科学](https://www.youtube.com/watch?v=WPYNpUw6MhE\&list=UUerVFCqfEpTMTtRFwLuC\_xQ\&index=8) 28:12 |
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
-| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo          |
+| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star              |
+| How To Measure The Tiniest Forces In The Universe [Veritasium](https://www.youtube.com/watch?v=pXoZQsZP2PY) |
 
 | States of matter 物质的状态                                                           |
 | -------------------------------------------------------------------------------- |

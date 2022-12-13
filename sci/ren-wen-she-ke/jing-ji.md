@@ -48,20 +48,21 @@
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))                 |
-| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm))                |
-| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg))                |
-| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy))                |
-| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl))                |
-| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))                 |
-| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                 |
-| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                            |
-| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                 |
-| 麦肯锡忽悠客户(商业分析)课程(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGC\_8obJ-Xz5SANRTvw7EG7)  |
-| 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458) |
-| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                        |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))                   |
+| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm))                  |
+| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg))                  |
+| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy))                  |
+| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl))                  |
+| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))                   |
+| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                   |
+| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                              |
+| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                   |
+| 麦肯锡忽悠客户(商业分析)课程(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGC\_8obJ-Xz5SANRTvw7EG7)    |
+| 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458)   |
+| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                          |
+| Financial Derivatives [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2BZoZYAg2d6Ma3HZ5p9h35i) |
 
 |                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

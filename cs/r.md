@@ -19,7 +19,8 @@
 | \[Tutorialsplanet.NET] Udemy - R Programming for Statistics and Data Science 2020                                                                                     |
 | \[Tutorialsplanet.NET] Udemy - R Programming Advanced Analytics In R For Data Science                                                                                 |
 | \[Tutorialsplanet.NET] Udemy - R Programming A-Z™ R For Data Science With Real Exercises!                                                                             |
-|                                                                                                                                                                       |
+| Data Science and Machine Learning with Python and R [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOnN\_g96ayzXX5i7RRO0QhL)                           |
+| R Basics [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2BvYF6QZNUDVGU7zHvjQnie)                                                                    |
 
 | Google Colab with R                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------- |
