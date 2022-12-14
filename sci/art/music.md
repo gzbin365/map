@@ -30,4 +30,5 @@
 | Beginner Trumpet Lessons [Dr. Selfridge Music](https://www.youtube.com/playlist?list=PL06seol1EtFdmHTeZzVWw9UlPsLkrk-GR)                                                                       |
 | Improvisation lesson series [Nick Granville](https://www.youtube.com/playlist?list=PLcLJE6FnXFEoqbeD2YvQrTTKjnM0sbEyM) 即兴课                                                                     |
 |                                                                                                                                                                                                |
-|                                                                                                                                                                                                |
+| Lo-Fi音乐是一种极具个人风格的音乐类型，其特点是制作粗糙、噪声多且带有压抑感。Lo-Fi音乐的起源可以追溯到20世纪80年代的美国，当时许多艺术家和音乐人开始创作这种风格的音乐，并通过磁带机和回放设备制作和发行。现在，Lo-Fi音乐仍然很受欢迎，并且已经发展出许多不同的流派，包括Hip Hop和Ambient。                                 |
+| Hi-Fi是一种高品质的音响技术，用于提高音频质量。Hi-Fi系统通常包括高性能的音响设备，如功放、扬声器、CD播放器等，以提供高音质的声音。Hi-Fi技术与Lo-Fi音乐风格截然不同，后者是刻意使用低品质的设备来制作有粗糙感的音乐。                                                                          |
