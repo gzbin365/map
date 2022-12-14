@@ -53,7 +53,7 @@ description: 探索神秘的数学, 用数学充实人生
 | 張翔老師 [u](https://www.youtube.com/c/shiangsir/playlists)                                                                                                                                                   | 哆嗒数学网 [u](https://www.youtube.com/channel/UC0dG9-vPqyzrpr2MSNZXa1Q/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Math and Science [u](https://www.youtube.com/user/mathtutordvd/playlists)                                                                                                                                 | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | blackpenredpen [u](https://www.youtube.com/c/blackpenredpen)                                                                                                                                              | 黑筆紅筆 [u](https://www.youtube.com/c/bprptw/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Maths Partner [u](https://www.youtube.com/@MathPartner)                                                                                                                                                   | Math and Science [u](https://www.youtube.com/user/mathtutordvd)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                           | Math and Science [u](https://www.youtube.com/user/mathtutordvd)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 | **3Blue1Brown**                                                                                              | **(**[**u**](https://www.youtube.com/c/3blue1brown/featured)**,** [**s**](https://www.3blue1brown.com)**,** [**git**](https://github.com/3b1b)**, )** |                                                                                                     |                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -587,7 +587,7 @@ Theory of functions of a real variable
 | Lebesgue-Integral versus Riemann-Integral [Weitz / HAW Hamburg](https://www.youtube.com/watch?v=uUkDdz48myo)                                                                                                                    |
 | 實分析一 - 臺大數學系 劉豐哲 老師 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLil-R4o6jmGhz0ZC9phrjzAnZwCnzpsgx)   實分析二 - 臺大數學系 劉豐哲 老師 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLil-R4o6jmGjaMgyhoM97MENvFcU9At2e) |
 
-### 复变函数, 复分析, Complex Variables, Complex Analysis
+### 复变函数 Complex Variables
 
 |                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -789,7 +789,6 @@ $$
 | 統計學、賽局理論和政治學：這三者有什麼關係？\| 政治學研究所　林繼文研究員 [中央研究院Academia Sinica](https://www.youtube.com/watch?v=zzGFJTmqBWg)                                                                                                                                                                                           |
 | MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t\_GPx2sRg)                                                                                                                     |
 | 【公开课-85集全】可汗学院：统计学 [北巷清风久](https://www.bilibili.com/video/BV1DK4y1n7J8)                                                                                                                                                                                                                              |
-| Statistics in Machine Learning [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)                                                                                                                                                                                |
 | <p>【统计学】样本方差为什么要除以n-1 <a href="https://www.youtube.com/watch?v=tSBk9sJ25JQ">JianJiang</a></p><p>在现实世界里我们很难知道总体的均值μ, 只能用样本均值替代总体均值进行计算, 用样本均值算出的样本方差S方是其所有可能取值的下限, 这就导致样本方差小于总体方差, 因为用x bar直接替代μ 会造成对总体方差的低估, 所以要进行校正. 做法通常是让分母的n减去1, 这样方差会比之前稍大一点, 更加接近总体方差, 这个校正后的方差被称为无偏方差(Unbiased Variance).</p> |
 
 | IRT理論                                                                                                                                                          |
@@ -868,14 +867,6 @@ $$
 | Unity3D人工智能编程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLharIrB60P9n8OhdTN8jXBel) |   |
 
 ###
-
-### 有限时间 Finite-time
-
-|                                                                                                                          |   |   |
-| ------------------------------------------------------------------------------------------------------------------------ | - | - |
-| Finite-time Lyapunov exponents [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQcC8DWb8507mCLRTvv0RnA) |   |   |
-|                                                                                                                          |   |   |
-|                                                                                                                          |   |   |
 
 ## 几何 Geometry
 
@@ -1126,44 +1117,42 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | Introduction To Complexity [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznRyDQlitfUTzXEXwLNNE-mI)                     |
 | Complexity Explorer Course Introduction Videos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznSkrY0MRQJwTFMM9GrJBeYU) |
 | Computation in Complex Systems [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQJ6u4FUcpyzi0it5EpR3dh)                 |
-| Engineering Math: Crash Course in Complex Analysis [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg)   |
+|                                                                                                                                                |
 
 ### Complex Variables and Applications
 
 ## 傅里叶 Fourier
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你(**[**u**](https://www.youtube.com/watch?v=0LuyxzqI3Hk)**, )**                                                     |
-| **形象的介绍：什么是傅里叶变换？**[**3Blue1Brown**](https://www.youtube.com/watch?v=spUNpyF58BY)  **** [**电子工程世界**](http://training.eeworld.com.cn/course/4743)   |
-| 可什么是傅立叶级数呢？从热流到画圈 \| DE4 [3Blue1Brown](https://www.youtube.com/watch?v=r6sGWTCMz2k)                                                                |
-| **Fast Fourier Transform(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX)**)**                          |
-| 傅立叶变换如何理解？[李永乐老师](https://www.youtube.com/watch?v=0LuyxzqI3Hk)                                                                                     |
-| [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                              |
-| [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                              |
-| 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                     |
-| Laplace and Fourier Transforms [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3jmgpXCQj3GRxM3u9BmO\_v)                          |
-| 傅立葉(Fourier)分析與偏微分方程式 [TC Lin](https://www.youtube.com/playlist?list=PLHpm7X23eVtJRlWcxKhXpMNfI4yeFAmxj)                                           |
-| The Fourier Series and Fourier Transform Demystified [Up and Atom](https://www.youtube.com/watch?v=mgXSevZmjPc)                                    |
-| Fourier Analysis \[Data-Driven Science and Engineering] [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT\_Xh3Oy0Y4LTj0Oxo8GqsC) |
-| The Most Important Algorithm Of All Time [Veritasium](https://www.youtube.com/watch?v=nmgFG7PUHfo)                                                 |
+|                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你(**[**u**](https://www.youtube.com/watch?v=0LuyxzqI3Hk)**, )**                                                   |
+| **形象的介绍：什么是傅里叶变换？**[**3Blue1Brown**](https://www.youtube.com/watch?v=spUNpyF58BY)  **** [**电子工程世界**](http://training.eeworld.com.cn/course/4743) |
+| 可什么是傅立叶级数呢？从热流到画圈 \| DE4 [3Blue1Brown](https://www.youtube.com/watch?v=r6sGWTCMz2k)                                                              |
+| **Fast Fourier Transform(**[**Reducible**](https://www.youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX)**)**                        |
+| 傅立叶变换如何理解？[李永乐老师](https://www.youtube.com/watch?v=0LuyxzqI3Hk)                                                                                   |
+| [Fast Fourier Transform](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_Xy32-FTIm-\_OfNsKXJBx48)(America America)                            |
+| [Fourier Series](https://www.youtube.com/playlist?list=PLANMHOrJaFxM29FyALAxHQjA82wX4Ki8i) patrickJMT                                            |
+| 傅里叶变换及其应用 [Qian You](https://www.youtube.com/playlist?list=PLC0BCB09F827EA7A2)                                                                   |
+| Laplace and Fourier Transforms [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3jmgpXCQj3GRxM3u9BmO\_v)                        |
+| 傅立葉(Fourier)分析與偏微分方程式 [TC Lin](https://www.youtube.com/playlist?list=PLHpm7X23eVtJRlWcxKhXpMNfI4yeFAmxj)                                         |
+| The Fourier Series and Fourier Transform Demystified [Up and Atom](https://www.youtube.com/watch?v=mgXSevZmjPc)                                  |
+|                                                                                                                                                  |
+| The Most Important Algorithm Of All Time [Veritasium](https://www.youtube.com/watch?v=nmgFG7PUHfo)                                               |
 
 ## 微分方程 Differential Equations
 
-|                                                                                                                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)(3Blue1Brown)                                                                                                                                                                              |
-| [陈永平老师- 微分方程Differential Equation](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvt4yNv-5UoqHMdF8S2kzs2)(NYCU OCW)                                                                                                                                                                       |
-| [微分方程 李榮耀老師](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsfa0foLJIYrmkZO7UQRToi)(NYCU OCW)                                                                                                                                                                                             |
-| [微分方程](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtRLwyBp5wC4YXNMN1C51m4)(NYCU OCW)                                                                                                                                                                                                   |
-| [微分方程式 彭士峰博士](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_VB5We3RZCA5BjL9IsfdQ8E) [America America](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_VB5We3RZCA5BjL9IsfdQ8E)   [玫瑰色的人](https://www.bilibili.com/video/BV1Tt411w7Se/?spm\_id\_from=333.788.recommend\_more\_video.0) |
-| [簡易 微分方程](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_U1PbXiMPJn-o3ChKMLq4PF)(America America)                                                                                                                                                                                        |
-| Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)                                                                                                                                                                              |
-| Systems of Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzeXJa4k5NrsQJElScb258Q)                                                                                                                                                                   |
-| 工程數學 - 常微分方程式 [TC Lin](https://www.youtube.com/playlist?list=PLHpm7X23eVtL19wbyjY5Lc542KZhTUSmr)                                                                                                                                                                                             |
-| Engineering Math: Differential Equations and Dynamical Systems [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)                                                                                                                                     |
-| 確率微分方程式 [AIcia Solid Project](https://www.youtube.com/playlist?list=PLhDAH9aTfnxIhf-iRKYTVOSXPqDGgfRFP)                                                                                                                                                                                      |
-| 微分方程式 [予備校のノリで学ぶ「大学の数学・物理」](https://www.youtube.com/playlist?list=PLDJfzGjtVLHnmhT1AhMx7bSt0ZOGbIP3c)                                                                                                                                                                                        |
+|                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)(3Blue1Brown)                                                                                                |
+| [陈永平老师- 微分方程Differential Equation](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvt4yNv-5UoqHMdF8S2kzs2)(NYCU OCW)                                                                                         |
+| [微分方程 李榮耀老師](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsfa0foLJIYrmkZO7UQRToi)(NYCU OCW)                                                                                                               |
+| [微分方程](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtRLwyBp5wC4YXNMN1C51m4)(NYCU OCW)                                                                                                                     |
+| [微分方程式 彭士峰博士](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_VB5We3RZCA5BjL9IsfdQ8E)(America America) [玫瑰色的人](https://www.bilibili.com/video/BV1Tt411w7Se/?spm\_id\_from=333.788.recommend\_more\_video.0) |
+| [簡易 微分方程](https://www.youtube.com/playlist?list=PLQAA3ouOK3\_U1PbXiMPJn-o3ChKMLq4PF)(America America)                                                                                                          |
+| Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)                                                                                                |
+| Systems of Differential Equations [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqzeXJa4k5NrsQJElScb258Q)                                                                                     |
+| 工程數學 - 常微分方程式 [TC Lin](https://www.youtube.com/playlist?list=PLHpm7X23eVtL19wbyjY5Lc542KZhTUSmr)                                                                                                               |
+|                                                                                                                                                                                                                |
 
 ### 常微分方程 Ordinary Differential Equations, ODE
 
@@ -1171,16 +1160,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh)                                                                                                                                                         |
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
-| Ordinary Differential Equations [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2A4QPqYXA-Fj1siYgTXexNz)                                                                                                                                      |
 |                                                                                                                                                                                                                                                                |
-
-### 随机微分方程
-
-|                                                                                                                          |                                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | - |
-| 概率统计与随机微分方程，经济金融入门 [万门大学](https://www.youtube.com/watch?v=iOqjVHdYJfY\&list=PL5FZj2uqddd17jbmr-u1DgtS0ADBpBcPN\&index=8) | 15 2 随机微分方程和偏微分方程转换 [AI量化交易](https://www.youtube.com/watch?v=1vyQdazyXcM\&list=PL8XnX0hzN2HKKpYd2h1obeyXNGNyMBOaw\&index=87) |   |
-|                                                                                                                          |                                                                                                                              |   |
-|                                                                                                                          |                                                                                                                              |   |
 
 ### 拉普拉斯变换 Laplace Transform
 
@@ -1297,17 +1277,16 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | ------------------------------------------------------------------------------------------------ | - |
 | **Systems Innovation(**[**u**](https://www.youtube.com/c/ComplexityLearningLab/playlists)**, )** |   |
 
-|                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [动态系统概述](https://www.youtube.com/playlist?list=PLUM5vdzDQB4EvR9X0NoWJYSpdtrjA3gaC) 张志鸿                                                                   |
-| [动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FEaLCO2XDEd61y\_p67yMgN) 张志鸿                                                                    |
-| [线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GBr49rkGCaYb8eijNczA2y) 张志鸿                                                                     |
-| [非线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4G\_78pqr7VSfPakOZI05x5E) 张志鸿                                                                   |
-| [符号动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GFDVR6-MDbfTN4yUXCdRWD) 张志鸿                                                                   |
-| JAN 2020 - Introduction to System Dynamics Modeling [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fFQDTWYF4hzo6be81blfHo)     |
-| Nonlinear Dynamics [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz)                                       |
-| Dynamical Systems And Chaos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)                              |
-| Engineering Math: Differential Equations and Dynamical Systems [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) |
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [动态系统概述](https://www.youtube.com/playlist?list=PLUM5vdzDQB4EvR9X0NoWJYSpdtrjA3gaC) 张志鸿                                                               |
+| [动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4FEaLCO2XDEd61y\_p67yMgN) 张志鸿                                                                |
+| [线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GBr49rkGCaYb8eijNczA2y) 张志鸿                                                                 |
+| [非线性系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4G\_78pqr7VSfPakOZI05x5E) 张志鸿                                                               |
+| [符号动态系统](https://www.youtube.com/playlist?list=PLUM5vdzDQB4GFDVR6-MDbfTN4yUXCdRWD) 张志鸿                                                               |
+| JAN 2020 - Introduction to System Dynamics Modeling [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65fFQDTWYF4hzo6be81blfHo) |
+| Nonlinear Dynamics [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz)                                   |
+| Dynamical Systems And Chaos [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)                          |
 
 ## 模糊数学
 
@@ -1346,7 +1325,6 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | **Coding Math: Episode 20 - More on Bezier Curves(**[**Coding Math**](https://www.youtube.com/watch?v=2hL1LGMVnVM)**)** |
 | **Bezier Curves Explained(**[**Guidev**](https://www.youtube.com/watch?v=pnYccz1Ha34)**)**                              |
 | The Beauty of Bézier Curves [Freya Holmér](https://www.youtube.com/watch?v=aVwxzDHniEw)                                 |
-| The Continuity of Splines [Freya Holmér](https://www.youtube.com/watch?v=jvPPXbo87ds)                                   |
 | 一条曲线的诞生 [太阳鸽鸽](https://www.douyin.com/video/7134261433939791118)                                                        |
 
 

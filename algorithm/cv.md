@@ -76,6 +76,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                                  |
 | \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                    |
 | Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                             |
+| Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |

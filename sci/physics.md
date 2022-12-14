@@ -23,7 +23,7 @@
 | 佑来了生活科学 抖音号：[YoulaileSTEM](https://www.douyin.com/user/MS4wLjABAAAAyL0n5s56zMXCinGDvpmYMo6RPatrbMBg9kyBJVH7GmeucuV568RLYIHwPKa2xvHw)                                                  | 张朝阳的物理课 抖音号：[Charlesphysics](https://www.douyin.com/user/MS4wLjABAAAApIEQAQbDECJWlDDvDKCwpvpLAskFmeUxnIIrAAL9mNoDBYxAJxED5RCBTISu7zcY) |
 | 弓弓沐梓（科普）抖音号：[366411781](https://www.douyin.com/user/MS4wLjABAAAAKz5dhoOrFQaRVgzLsCdnmp53dj8uCarcQ9pU5mjwWoo)                                                                          | 爆炸实验室 抖音号：[BBoomLab](https://www.douyin.com/user/MS4wLjABAAAAffYZr3gSkDlT15ksTdm5xexwA0d-npfK1fFJLMOCQAU)                              |
 | 道理学趣味物理实验 抖音号：[dlxqwwl](https://www.douyin.com/user/MS4wLjABAAAAUeTGpEJhhtsxfbnDZAjPCB0XLpAKJeZrsqgzwAtkrVaTOSqKZRXhdJGBcCZAX7Fg)                                                     | 传感器玩镓 抖音号：[23109939421](https://www.douyin.com/user/MS4wLjABAAAANc-oVfpiI\_l\_MAPwlQOkltg1jHlbs9UQEIugWD5NHKm\_N8SlDlNTc66hDkLpbCbI)   |
-| Ten Minute Physics [u](https://www.youtube.com/@TenMinutePhysics)                                                                                                                     | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
+|                                                                                                                                                                                       | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -47,11 +47,10 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 费曼物理学 [steve zhang](https://www.youtube.com/playlist?list=PLAO\_-mukaOeOYXNPxJ-CmBvDt9yLOr7Rz)                               |
 | 如何理解“梯度下降法”？什么是“反向传播”？  [王木头学科学](https://www.youtube.com/watch?v=WPYNpUw6MhE\&list=UUerVFCqfEpTMTtRFwLuC\_xQ\&index=8) 28:12 |
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo          |
-| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star              |
-| How To Measure The Tiniest Forces In The Universe [Veritasium](https://www.youtube.com/watch?v=pXoZQsZP2PY) |
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
+| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |
 
 | States of matter 物质的状态                                                           |
 | -------------------------------------------------------------------------------- |
