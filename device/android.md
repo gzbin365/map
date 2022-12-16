@@ -5,12 +5,13 @@
 | Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                     |
 | **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) |
 | Android 开发者 [s](https://developer.android.com/)                                     | Philipp Lackner [u](https://www.youtube.com/c/PhilippLackner/playlists)                                         |
+| Android Developers [u](https://www.youtube.com/@AndroidDevelopers)                  |                                                                                                                 |
 
 ## Android
 
 |                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Android Development for Beginners - Full Course** [**freeCodeCamp.org**](https://www.youtube.com/watch?v=fis26HvvDII)                                           |
+| **Android Development for Beginners - Full Course** [**freeCodeCamp**](https://www.youtube.com/watch?v=fis26HvvDII)                                               |
 | Android 项目实战一：AA小助手 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYuZ89aFNgPuRrxb2mwmGpp)                                                             |
 | Android蓝牙开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbYEkrW6-1GoQwykStSRQgS)                                                                     |
 | Android 定位技术 LBS [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasVjUrJ69MrnIvxNLhphtq)                                                                |
@@ -125,6 +126,7 @@
 | Flutter Crash Course [Traversy Media](https://www.youtube.com/watch?v=1gDhl4leEzA)                                                                          |
 | Master Flutter in Just 8 Hours \| Full Course Hindi @[codepur](https://www.youtube.com/watch?v=j-LOab\_PzzU)                                                |
 | How is Flutter different for app development [Google Developers](https://www.youtube.com/watch?v=l-YO9CmaSUM)                                               |
+| iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=KCgYDCKqato)                         |
 | Flutter & Firebase Course - Build a Full Stack Instagram Clone [freeCodeCamp](https://www.youtube.com/watch?v=mEPm9w5QlJM)                                  |
 | Flutter Course for Beginners – 37-hour Android App Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=VPvVD8t02U8)                         |
 | Implementing complex UI with Flutter - Marcin Szałek \| [Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8)                                       |
