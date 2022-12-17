@@ -50,6 +50,7 @@
 | Google HACKING (use google search to HACK!) [NetworkChuck](https://www.youtube.com/watch?v=hrVa\_dhD-iA)                                                                                  |
 | Cheat Engine for Idiots [Kian Brose](https://www.youtube.com/watch?v=4KJNM0FiE14)                                                                                                         |
 | Hiring a Hacker to Hack My Facebook [The Cyber Mentor](https://www.youtube.com/watch?v=c2Zl5uPDDV0)                                                                                       |
+| Full-Length Hacking Courses [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT\_\_MCUeixqHJ1TRqrHsEd6\_EdEvo47)                                                               |
 | Hackatons: DeepHack [DeepPavlov](https://www.youtube.com/c/DeepPavlov/playlists)                                                                                                          |
 | Linux for Hackers (and everyone) // FREE Course for Beginners [NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)                                    |
 | Minecraft hacking with PYTHON and Log4j // Netcat reverse shell exploiting CVE [David Bombal](https://www.youtube.com/watch?v=efnluUK\_w\_U)                                              |

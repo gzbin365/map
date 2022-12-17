@@ -119,7 +119,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Flutter([s](https://flutter.dev), [cn](https://flutter.cn/), [doc](https://flutter.dev/docs), [u](https://www.youtube.com/c/flutterdev/videos)) [开发文档](https://flutter.cn/docs) | flutter 中文网 [s](https://www.flutterchina.club/)                                           |
 | The Flutter Way([u](https://www.youtube.com/c/TheFlutterWay/playlists), )                                                                                                       | Flutter Europe([u](https://www.youtube.com/channel/UCOoJkGYV00nr3EpZOUeuN1Q/playlists), ) |
-|                                                                                                                                                                                 | pub.dev [s](https://pub.dev/)                                                             |
+| Flutter Mapp [u](https://www.youtube.com/@FlutterMapp)                                                                                                                          | pub.dev [s](https://pub.dev/)                                                             |
 
 |                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,3 +136,4 @@
 | Flutter实战·第二版 [s](https://book.flutterchina.club/)                                                                                                          |
 | Solido/[awesome-flutter](https://github.com/Solido/awesome-flutter)   crazycodeboy/[awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) |
 | Flutter Course – Build Full Stack Google Docs Clone [freeCodeCamp](https://www.youtube.com/watch?v=F6P0hve2clE)                                             |
+| Flutter Tutorial For Dummies [Flutter Mapp](https://www.youtube.com/watch?v=3XipSv2CWiQ)                                                                    |

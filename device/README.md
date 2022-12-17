@@ -40,7 +40,7 @@ description: 硬件设备
 |                                                                                                           |
 | --------------------------------------------------------------------------------------------------------- |
 | 【Huan】從組電腦倒灌系統的完整教學分享! (intel LGA1700 & Windows 11版本) [Huan](https://www.youtube.com/watch?v=iWdPhtpOMIc) |
-|                                                                                                           |
+| 【装机教程】全网最好的装机教程，没有之一 [硬件茶谈](https://www.youtube.com/watch?v=ST65L4pG\_6w)                                 |
 |                                                                                                           |
 
 ## **Arduino**
@@ -299,11 +299,12 @@ description: 硬件设备
 
 ## 平板 Tablet, Pad
 
-|                                                                                            |                                                                                          |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU) | 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享 |
-|                                                                                            |                                                                                          |
-| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                        |                                                                                          |
+|                                                                                             |                                                                                          |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU)  | 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享 |
+|                                                                                             |                                                                                          |
+| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                         |                                                                                          |
+| 畢業一年後，我把我的iPad Pro 2018換成了mini 6 [钱与非DreamFly](https://www.youtube.com/watch?v=UR09Rne1djE) |                                                                                          |
 
 ## Homelab
 
@@ -627,7 +628,7 @@ System on Chip, 系统级芯片
 | 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
 | 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
 | LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                       |
-|                                                                                                                           |
+| 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                 |
 |                                                                                                                           |
 
 ## 空调
@@ -799,6 +800,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 《值不值得买》第203期：摄影师的好助手——Synology Moments [TESTV](https://www.youtube.com/watch?v=NikxXiBaRVY)                                                                                                                   |
 | 群晖NAS DS920+开箱体验新手指南【BB Time第319期】 [TESTV](https://www.youtube.com/watch?v=ml3E65v1P0c)                                                                                                                       |
 |                                                                                                                                                                                                               |
+| Backing Up Your Life is THIS Easy [Linus Tech Tips](https://www.youtube.com/watch?v=mpxBmxj5mP0)                                                                                                              |
+| You need a NAS RIGHT NOW!! (How I run my Hybrid-Cloud YouTube business) [NetworkChuck](https://www.youtube.com/watch?v=ZMsHCCyBqEQ)                                                                           |
 | 6个W，我们就把NAS 速度提升了 56 倍 [先看评测](https://www.youtube.com/watch?v=lpNGeonJtJw)                                                                                                                                    |
 | 开启群晖“终身售后”！新手向群晖初设置 保姆级流程分享 [TuTu生活志](https://www.youtube.com/watch?v=gW5YbhTe71E)                                                                                                                            |
 | NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                                                                                                          |
@@ -816,6 +819,30 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                |
 | shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                      |                                                                                |
 
+## DAS
+
+direct-attached storage
+
+|                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 铁威马D8 332                                                                                                                                                                                                                                                                            |
+| 铁威马 雷电3 磁盘阵列开箱体验 TerraMaster ThunderBolt 3 Data Storage For Mac Unboxing [太空橘子AstrOrange](https://www.youtube.com/watch?v=C\_Bsnej6npk)                                                                                                                                              |
+| 测速软件: Blackmagic Disk Speed Test                                                                                                                                                                                                                                                     |
+| The Laptop with 100TB Storage!! - Areca 8050T3-12 DAS [Linus Tech Tips](https://www.youtube.com/watch?v=03oMBKxHFSI)                                                                                                                                                                 |
+| NAS vs DAS - Choosing the Right Storage for You [SPANdotCOM](https://www.youtube.com/watch?v=aZ1DvmIofFI)                                                                                                                                                                            |
+| <p>5 Direct Attached Storage DAS <a href="https://www.youtube.com/watch?v=HCZp236v690">NEWMAN TECHNOLOGY SOLUTIONS</a></p><p>Data Center Storage Technologies <a href="https://www.youtube.com/playlist?list=PLwM4lH5eHmbYKLPS7b-g7_HdPbO7zjjig">NEWMAN TECHNOLOGY SOLUTIONS</a></p> |
+| Terra-Master D5 Thunderbolt 3 - Great 5 Bay Direct Attached Storage (DAS) for Creative Pros! [ArtIsRight](https://www.youtube.com/watch?v=hyUR\_\_PZmt4)                                                                                                                             |
+| SAN vs. NAS vs. DAS: Competing or Complementary? [Seagate Technology](https://www.youtube.com/watch?v=bpUzGZLO948)                                                                                                                                                                   |
+| Cloud Storage Types [Rackspace Technology](https://www.youtube.com/watch?v=CczKEbElR9U)                                                                                                                                                                                              |
+| NAS vs SAN - Network Attached Storage vs Storage Area Network [PowerCert Animated Videos](https://www.youtube.com/watch?v=3yZDDr0JKVc)                                                                                                                                               |
+| DAS, NAS, & SAN [Sunny Classroom](https://www.youtube.com/watch?v=ecebDjOfE4I)                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                      |
+
+## SAN
+
+
+
 ## 数据恢复
 
 |                                                                                                                    |
@@ -826,11 +853,27 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
 | 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)                                                              |
 
+## 宽带 专线
+
+|                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>宽带应该如何选择？100M/300M/1000M的宽带使用起来有什么区别？ <a href="https://www.youtube.com/watch?v=3YyyCvkCjIs">有木聊科技</a></p><p>兆 Mbps Mbit/s, Mbps(网速) = Mbit/s = 1/8 Mb/s (下载)</p> |
+|                                                                                                                                                                     |
+
+| 宽带    | 下载速率     |
+| ----- | -------- |
+| 10M   | 1.25MB/s |
+| 50M   | 6.25MB/s |
+| 100M  | 12.5MB/s |
+| 300M  | 37.5MB/s |
+| 500M  | 62.5MB/s |
+| 1000M | 128MB/s  |
+
 ## 路由器 软路由
 
 |                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)                                                                                                             |
+| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)                                                             |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                         |
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                      |
 | 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                              |
