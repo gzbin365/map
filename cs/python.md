@@ -384,7 +384,6 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **requests(**[**doc**](https://docs.python-requests.org/en/master/)**,** [**书童**](https://xugaoxiang.com/2020/11/28/python-module-requests/)**,** [**pypi**](https://pypi.org/project/requests/)**,** [**Guide**](https://realpython.com/python-requests/)**,** [**w3s**](https://www.w3schools.com/python/module\_requests.asp)**, )** |
 | requests\_html爬虫模块 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4sf1bq3PAm6onDczjY7QFvB)                                                                                                                                                                                                                           |
-| Requests Library in Python - Beginner Crash Course [NeuralNine](https://www.youtube.com/watch?v=Xi1F2ZMAZ7Q)                                                                                                                                                                                                                            |
 
 | BeautifulSoup                                                                                                                                                                                                                                                                                                                                  |   |   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
@@ -564,7 +563,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | Kivy Tutorials Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn) |
-| Kivy Course - Create Python Games and Mobile Apps [freeCodeCamp](https://www.youtube.com/watch?v=l8Imtec4ReQ)   |
+|                                                                                                                 |
 |                                                                                                                 |
 
 | PySimpleGUI                                                                                                                                    |
@@ -640,7 +639,7 @@ Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/lea
 
 [I Don't Need Postman Anymore!! I Use VS Code Instead...](https://www.youtube.com/watch?v=AbCTlemwZ1k)
 
-
+Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -932,7 +931,7 @@ Python高性能编程
 | 網路爬蟲實戰教學 [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)                                                                                                                                                                                                                                                          |
 | XPath Crash Course For Python Web Scraping [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)                                                                                                                                                                                                                                                   |
 | 就想写个爬虫，我到底要学多少东西啊？[崔庆才](https://mp.weixin.qq.com/s?\_\_biz=MzIwODI2NDkxNQ==\&mid=2247487842\&idx=4\&sn=98ca86c5c5ad61a7d564fa2cb2b5a522\&chksm=97049adea07313c815eebf6ddf117fa2a027549e355221b8f0d23058380e238b384cf9fb57d0\&mpshare=1\&scene=1\&srcid=\&sharer\_sharetime=1585456067551\&sharer\_shareid=e08d450bb86978202e96a05c7cf1bc4c#rd) 机器学习初学者 |
-| 网络爬虫实战 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HL2-Iw2JxOiYnqldRskI7bk)                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                        |
 
 ## 网络编程
 

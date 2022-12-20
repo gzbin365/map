@@ -180,11 +180,11 @@ International Business Machine IBM 美国国际商用机器公司
 
 #### office
 
-| Excel                                                                                           |   |   |
-| ----------------------------------------------------------------------------------------------- | - | - |
-| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) |   |   |
-|                                                                                                 |   |   |
-|                                                                                                 |   |   |
+| Excel                                                                                           |                                                                         |   |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
+| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) | Excel For Freelancers [u](https://www.youtube.com/@ExcelForFreelancers) |   |
+|                                                                                                 |                                                                         |   |
+|                                                                                                 |                                                                         |   |
 
 ### 百度
 
@@ -641,6 +641,7 @@ Computer Components？Computer Architecture？
 | 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189)                                                                                                       |
 | Kaggle Tips for Feature Engineering and Selection \| by Gilberto Titericz \| Kaggle Days Meetup Madrid [Kaggle Days Meetup Spain](https://www.youtube.com/watch?v=RtqtM1UJfZc) |
 | Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
+| Kaggle Competitions [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)                                                                     |
 |                                                                                                                                                                                |
 
 ## 项目
