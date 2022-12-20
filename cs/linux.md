@@ -373,6 +373,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Kubernetes Used As A Go Package [The Ape Machine](https://www.youtube.com/watch?v=xWFk5oqScJ0)                                                                  |
 | Microservice Architecture and System Design with Python & Kubernetes – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hmkF77F9TLw)                  |
 | \[Tutorialsplanet.NET] Udemy - Practical Kubernetes Guide                                                                                                       |
+| Containerize Python Applications with Docker [NeuralNine](https://www.youtube.com/watch?v=0TFWtfFY87U)                                                          |
 
 ## GTK
 
