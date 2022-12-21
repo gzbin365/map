@@ -135,3 +135,11 @@ Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1
 | --------------------------------------------------------------------------------------------------- |
 | JSON入门 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYIkvstNE8zBZoHcf9NoBGY)            |
 | What is JWT authorization really about - [Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI) |
+
+### YAML
+
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| Working with YAML Files in Python [NeuralNine](https://www.youtube.com/watch?v=nFl6EXfcvLI) |
+|                                                                                             |
+|                                                                                             |
