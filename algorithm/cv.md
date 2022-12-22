@@ -75,6 +75,8 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                        |
 | Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                                  |
 | \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                    |
+| Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                             |
+| Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -383,6 +385,7 @@ import cv2
 | Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                                                                                                                                                                                                   |
 | 人脸识别啥原理？人工智能（二）卷积神经网络 [李永乐老师](https://www.youtube.com/watch?v=AFlIM0jSI9I)                                                                                                                                                                                                                                                                                                                                                                                     |
 | CrazyTalk第七课 头像创建 CrazyTalk8教程人脸识别验证教程照片变动画人脸五官编辑裁剪静态照片修改动态 [xiaoge ji](https://www.youtube.com/watch?v=xjIkw0wTwz4)                                                                                                                                                                                                                                                                                                                                           |
+| QQ丨支付宝丨交易猫丨淘宝丨平台实名验证，简单做人脸视频教程，原理说明，通用模板。人脸识别验证，人脸实名技术，支付宝实名，QQ过人脸教程。 [易网科技YiNets](https://www.youtube.com/watch?v=8UOKslY7xJ4)                                                                                                                                                                                                                                                                                                                                |
 
 ### 人脸对齐(Face Alignment)
 
@@ -495,6 +498,7 @@ import cv2
 | I3D 论文精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=9lIkKiAn6uE)                                                                                          |
 | 双流网络论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=vuqwKP2iDe0)                                                                                        |
 | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos (Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=oz5yZc9ULAc) |
+| Talk \| 香港大学在读博士生马逴凡：重新思考分辨率对于高效视频理解的意义 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=FAV5ss-SDd4)                                                       |
 |                                                                                                                                                              |
 
 ## 实战
