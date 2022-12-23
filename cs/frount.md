@@ -192,7 +192,7 @@
 | React Video Chat App \| WebRTC Video Chat Zoom Clone \| Tabnine [JavaScript Mastery](https://www.youtube.com/watch?v=oxFr7we3LC8)                                        |
 | How To Create A Messaging App With Socket.io And React [Web Dev Simplified](https://www.youtube.com/watch?v=tBr-PybP\_9c)                                                |
 | Realtime Chat With Users & Rooms - Socket.io, Node & Express [Traversy Media](https://www.youtube.com/watch?v=jD7FnbI76Hg)                                               |
-|                                                                                                                                                                          |
+| React State Management – Intermediate JavaScript Course [freeCodeCamp](https://www.youtube.com/watch?v=-bEzt5ISACA)                                                      |
 |                                                                                                                                                                          |
 
 ### Next.js
@@ -235,7 +235,7 @@
 | Node.js & Stripe API - Ebook Sales App & Heroku Deploy [Traversy Media](https://www.youtube.com/watch?v=QT3\_zT97\_1g)                                                                                   |
 | Node.js / Express Course - Build 4 Projects [freeCodeCamp](https://www.youtube.com/watch?v=qwfE7fSVaZM)                                                                                                  |
 | \[Tutorialsplanet.NET] Udemy - The Complete Node.js Developer Course (3rd Edition)                                                                                                                       |
-|                                                                                                                                                                                                          |
+| Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) [freeCodeCamp](https://www.youtube.com/watch?v=nu\_pCVPKzTk)                                           |
 |                                                                                                                                                                                                          |
 
 |   |   |
@@ -399,6 +399,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
+| JavaScript Tutorial - Create a Card Game 🃏 [freeCodeCamp](https://www.youtube.com/watch?v=Bj6lC93JMi0)                                                                                      |
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 | Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 | Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) [freeCodeCamp](https://www.youtube.com/watch?v=zJSY8tbf\_ys)                                                                |
