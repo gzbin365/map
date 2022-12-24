@@ -523,11 +523,12 @@ description: 硬件设备
 
 ## 内存
 
-|                                                                                            |
-| ------------------------------------------------------------------------------------------ |
-| 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE) |
-| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)      |
-| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                 |
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE)          |
+| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)               |
+| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                          |
+| How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ) |
 
 ## 散热
 
@@ -1001,7 +1002,7 @@ direct-attached storage
 | Talk \| CMU殷鹏：面向机器人长航程自治的MetaSLAM架构 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=sEJY0lt2RxQ)                  |
 | 后浪短视频更新 \| Lab Tour Vlog：卡内基梅隆大学机器人实验室 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=svw4jVu8n00)               |
 | 北京邮电大学 计算机视觉之三维重建（深入浅出SfM与SLAM核心算法）[刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_SQ-h8W0kT3igOoUCYjWRHG) |
-|                                                                                                                     |
+| Multi-UAV Collaborative Monocular SLAM - ICRA 2017 [V4RL-team](https://www.youtube.com/watch?v=L9rHht8fE5E)         |
 
 ### ROS
 

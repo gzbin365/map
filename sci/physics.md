@@ -23,7 +23,7 @@
 | 佑来了生活科学 抖音号：[YoulaileSTEM](https://www.douyin.com/user/MS4wLjABAAAAyL0n5s56zMXCinGDvpmYMo6RPatrbMBg9kyBJVH7GmeucuV568RLYIHwPKa2xvHw)                                                  | 张朝阳的物理课 抖音号：[Charlesphysics](https://www.douyin.com/user/MS4wLjABAAAApIEQAQbDECJWlDDvDKCwpvpLAskFmeUxnIIrAAL9mNoDBYxAJxED5RCBTISu7zcY) |
 | 弓弓沐梓（科普）抖音号：[366411781](https://www.douyin.com/user/MS4wLjABAAAAKz5dhoOrFQaRVgzLsCdnmp53dj8uCarcQ9pU5mjwWoo)                                                                          | 爆炸实验室 抖音号：[BBoomLab](https://www.douyin.com/user/MS4wLjABAAAAffYZr3gSkDlT15ksTdm5xexwA0d-npfK1fFJLMOCQAU)                              |
 | 道理学趣味物理实验 抖音号：[dlxqwwl](https://www.douyin.com/user/MS4wLjABAAAAUeTGpEJhhtsxfbnDZAjPCB0XLpAKJeZrsqgzwAtkrVaTOSqKZRXhdJGBcCZAX7Fg)                                                     | 传感器玩镓 抖音号：[23109939421](https://www.douyin.com/user/MS4wLjABAAAANc-oVfpiI\_l\_MAPwlQOkltg1jHlbs9UQEIugWD5NHKm\_N8SlDlNTc66hDkLpbCbI)   |
-|                                                                                                                                                                                       | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
+| Ten Minute Physics [u](https://www.youtube.com/@TenMinutePhysics)                                                                                                                     | 科学认识论 [u](https://www.youtube.com/@kexuerenshilun)                                                                                     |
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -47,10 +47,11 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 费曼物理学 [steve zhang](https://www.youtube.com/playlist?list=PLAO\_-mukaOeOYXNPxJ-CmBvDt9yLOr7Rz)                               |
 | 如何理解“梯度下降法”？什么是“反向传播”？  [王木头学科学](https://www.youtube.com/watch?v=WPYNpUw6MhE\&list=UUerVFCqfEpTMTtRFwLuC\_xQ\&index=8) 28:12 |
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo |
-| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star     |
+|                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- |
+| [经典力学的哈密顿理论](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnZLv3SWi\_h88d0nYK9EJal) Yinan Zuo          |
+| [Physics](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJN9g1BX6ZCGC3XNxL5NCgfW) Zach Star              |
+| How To Measure The Tiniest Forces In The Universe [Veritasium](https://www.youtube.com/watch?v=pXoZQsZP2PY) |
 
 | States of matter 物质的状态                                                           |
 | -------------------------------------------------------------------------------- |
@@ -168,6 +169,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 量子力學 台大易富國教授 [臺大科學教育發展中心CASE](https://www.youtube.com/playlist?list=PLF4C2C0FE5389B474)                                                                                 |
 | （更新中）【俗說量子】[Linvo說宇宙](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN)                                                                         |
 | Algebra, Particles, and Quantum Theory [u](https://www.youtube.com/channel/UCl1NZPlP0x9n28amaeeGG4w)                                                                    |
+| 量子故事会 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q)                                                                          |
 
 ## Quantum Artificial Intelligence
 
