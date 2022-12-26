@@ -491,6 +491,7 @@ import cv2
 | 【GPU】NVIDIA RTX40專有技術，DLSS3.0技術解析！ [可見TV](https://www.youtube.com/watch?v=fw\_4aEp5Kl4)                                                                        |
 | DLSS 3 RTX4090：性能新标杆，不只是打游戏 [林亦LYi](https://www.youtube.com/watch?v=rkv47icj1Jk)                                                                               |
 | 【Huan】 無庸置疑的強大。 NVIDIA GeForce RTX 4090性能實測 [Huan](https://www.youtube.com/watch?v=vEBGCuf7rOU)                                                                |
+| amd fsr                                                                                                                                                        |
 
 ## 视频理解
 
