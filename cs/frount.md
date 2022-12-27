@@ -8,7 +8,7 @@
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             | 彭彭的課程 [u](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)            |
 | Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)                                                     | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
 | 程序员小山与Bug 抖音号：[xiaoshan.bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd\_mbHotBKV8Bth4LLl4OA\_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm) | Progress Bar 進度條線上課程 [u](https://www.youtube.com/c/ProgressBarTW/playlists)                   |
-| Coding Tech [u](https://www.youtube.com/c/CodingTech)                                                                                    |                                                                                               |
+| Coding Tech [u](https://www.youtube.com/c/CodingTech)                                                                                    | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                            |
 |                                                                                                                                          |                                                                                               |
 
 | **前端**                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
@@ -110,16 +110,17 @@
 
 ## Ajax
 
-|                                                                                                   |   |
-| ------------------------------------------------------------------------------------------------- | - |
-| Intro to Ajax [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkZTDQ0vR9BwkHnku9QRwqh) |   |
-| AJAX / JSON 教學 [六角學院](https://www.youtube.com/watch?v=DxdTWIYqIzU)                                |   |
+|                                                                                                   |                                                    |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Intro to Ajax [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkZTDQ0vR9BwkHnku9QRwqh) | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m) |
+| AJAX / JSON 教學 [六角學院](https://www.youtube.com/watch?v=DxdTWIYqIzU)                                |                                                    |
 
 ## Vuejs
 
-|                                 |                                     |
-| ------------------------------- | ----------------------------------- |
-| Vuejs([s](https://vuejs.org), ) | Reactjs([s](https://reactjs.org), ) |
+|                                 |                                                    |
+| ------------------------------- | -------------------------------------------------- |
+| Vuejs([s](https://vuejs.org), ) | Reactjs([s](https://reactjs.org), )                |
+|                                 | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m) |
 
 |                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -192,7 +193,7 @@
 | React Video Chat App \| WebRTC Video Chat Zoom Clone \| Tabnine [JavaScript Mastery](https://www.youtube.com/watch?v=oxFr7we3LC8)                                        |
 | How To Create A Messaging App With Socket.io And React [Web Dev Simplified](https://www.youtube.com/watch?v=tBr-PybP\_9c)                                                |
 | Realtime Chat With Users & Rooms - Socket.io, Node & Express [Traversy Media](https://www.youtube.com/watch?v=jD7FnbI76Hg)                                               |
-|                                                                                                                                                                          |
+| React State Management – Intermediate JavaScript Course [freeCodeCamp](https://www.youtube.com/watch?v=-bEzt5ISACA)                                                      |
 |                                                                                                                                                                          |
 
 ### Next.js
@@ -235,7 +236,7 @@
 | Node.js & Stripe API - Ebook Sales App & Heroku Deploy [Traversy Media](https://www.youtube.com/watch?v=QT3\_zT97\_1g)                                                                                   |
 | Node.js / Express Course - Build 4 Projects [freeCodeCamp](https://www.youtube.com/watch?v=qwfE7fSVaZM)                                                                                                  |
 | \[Tutorialsplanet.NET] Udemy - The Complete Node.js Developer Course (3rd Edition)                                                                                                                       |
-|                                                                                                                                                                                                          |
+| Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) [freeCodeCamp](https://www.youtube.com/watch?v=nu\_pCVPKzTk)                                           |
 |                                                                                                                                                                                                          |
 
 |   |   |
@@ -343,6 +344,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                                                                                                           |
 | JavaScript Talking Avatar with Face Tracking (no libraries and no internet help 😂) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=U88NM8ScsPY)                                     |
 | Sorting Visualizer with Sound (JavaScript Tutorial) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=\_AwSlHlpFuc)                                                                    |
 | JavaScript Full Course for Beginners \| Complete All-in-One Tutorial \| 8 Hours [Dave Gray](https://www.youtube.com/watch?v=EfAl9bwzVZk)                                                     |
@@ -399,6 +401,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | API 可以怎麼玩？從串接到應用該注意的事 [六角學院](https://www.youtube.com/watch?v=hJPlFWYsfJA)                                                                                                                    |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                                              |
 | 20 Award-Winning JavaScript Games – Js13kGames 2020 Winners [freeCodeCamp](https://www.youtube.com/watch?v=GKOgm5-GbUA)                                                                      |
+| JavaScript Tutorial - Create a Card Game 🃏 [freeCodeCamp](https://www.youtube.com/watch?v=Bj6lC93JMi0)                                                                                      |
 | Deno [u](https://www.youtube.com/channel/UCqC2G2M-rg4fzg1esKFLFIw) [s](https://deno.land/) [git](https://github.com/denoland)                                                                |
 | Awesome Responsive Multi Step Registration Form HTML CSS & JavaScript [dotWebdesign](https://www.youtube.com/watch?v=M0O-vquFHto)                                                            |
 | Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) [freeCodeCamp](https://www.youtube.com/watch?v=zJSY8tbf\_ys)                                                                |

@@ -21,6 +21,7 @@
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C++入门到精通视频教程 [优途课堂](https://www.youtube.com/playlist?list=PLGwiLmh1Kl0sIHP8a3XgQoI\_lU6-3a1-s)                                                                   |
 | 老盖讲C/C++，C语言程序设计入门教学，C++编程语言基础教程 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTnIcF21aB-EUO2DRj5nRA1)                                               |
 | C++ Tutorial for Beginners - Learn C++ in 1 Hour [Programming with Mosh](https://www.youtube.com/watch?v=ZzaPdXTrSb8)                                            |
 | C++ Programming Course - Beginner to Advanced [freeCodeCamp](https://www.youtube.com/watch?v=8jLOx1hD3\_o)                                                       |
@@ -74,6 +75,7 @@
 | Pointers in C++ [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGlKR4UFJjy8qZJQWvnHRZ1)                                                            |
 | \[Tutorialsplanet.NET] Udemy - Learn C++ Programming -Beginner to Advance- Deep Dive in C++                                                                      |
 | \[Tutorialsplanet.NET] Udemy - Algorithms Bootcamp in C++                                                                                                        |
+| Why You Shouldn't Nest Your Code [CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4)                                                                    |
 |                                                                                                                                                                  |
 
 

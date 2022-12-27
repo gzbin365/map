@@ -35,11 +35,11 @@
 
 ## 象棋
 
-|                                                                                                                               |   |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - | - |
-| 悟能象棋 抖音号：[wunengxq](https://www.douyin.com/user/MS4wLjABAAAA3gCKF7Qi6yKqPGvdDhHFTv-eLjrffl3s5bD6j1kAOoVSxk32EuJWT-jEM8IaTrt1) |   |   |
-|                                                                                                                               |   |   |
-|                                                                                                                               |   |   |
+|                                                                                                                               |                                                  |   |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | - |
+| 悟能象棋 抖音号：[wunengxq](https://www.douyin.com/user/MS4wLjABAAAA3gCKF7Qi6yKqPGvdDhHFTv-eLjrffl3s5bD6j1kAOoVSxk32EuJWT-jEM8IaTrt1) | 四郎讲棋 [u](https://www.youtube.com/@SiLangjiangqi) |   |
+|                                                                                                                               |                                                  |   |
+|                                                                                                                               |                                                  |   |
 
 ## 武术
 
