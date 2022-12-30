@@ -17,7 +17,6 @@
 
 |                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ |
-| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                           |
 | AutoCAD 入门精品 简体中文 课程 [Tutorial 教程](https://www.youtube.com/playlist?list=PLnHbptcieUBdWercgoj90Ew7j93JEs1Yz) |
 | AutoCAD for Beginners - Full University Course [freeCodeCamp](https://www.youtube.com/watch?v=VtLXKU1PpRU)   |
 | 万向轮的工作原理 [珂姬与科技](https://www.douyin.com/video/7143569215641931015) 麦克纳姆轮                                     |
