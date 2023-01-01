@@ -373,6 +373,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Kubernetes Used As A Go Package [The Ape Machine](https://www.youtube.com/watch?v=xWFk5oqScJ0)                                                                  |
 | Microservice Architecture and System Design with Python & Kubernetes – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hmkF77F9TLw)                  |
 | \[Tutorialsplanet.NET] Udemy - Practical Kubernetes Guide                                                                                                       |
+| Containerize Python Applications with Docker [NeuralNine](https://www.youtube.com/watch?v=0TFWtfFY87U)                                                          |
 
 ## GTK
 
@@ -439,6 +440,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Vim Tutorials [Mental Outlaw](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-)                   |
 | Getting Started with VIM as a Python Editor [Machine Learning with Phil](https://www.youtube.com/watch?v=HKJUILUvkGk)     |
 | Speeding Up Vim Startup Time [NeuralNine](https://www.youtube.com/watch?v=ykrluoYGm2w)                                    |
+| Vim 中执行 Shell 命令和在 Shell 环境间切换 [wxnacy](https://www.youtube.com/watch?v=FhynFOT9FDM)                                      |
+|                                                                                                                           |
 |                                                                                                                           |
 
 ### Neovim
