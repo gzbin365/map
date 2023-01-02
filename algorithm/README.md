@@ -61,6 +61,10 @@ Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344
 
 病毒为何不停变异？旅行推销员问题和遗传算法 [李永乐老师](https://www.youtube.com/watch?v=iM-VKHWd\_JE)
 
+遗传算法的数学基础.[pdf](http://www.madio.net/thread-202998-1-2.html)
+
+\[代码资源] 遗传算法（python版） [数学中国](http://www.madio.net/thread-479600-1-1.html)
+
 ## 旅行商问题, TSP
 
 |                                                                                                  |

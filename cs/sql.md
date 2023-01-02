@@ -92,11 +92,17 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 |                                                                                                                                     |
 |                                                                                                                                     |
 
+| ClickHouse                                                                                               |   |   |
+| -------------------------------------------------------------------------------------------------------- | - | - |
+| ClickHouse数据分析引擎入门到精通 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTyrko0URyPQzlaPCYs7L6su) |   |   |
+|                                                                                                          |   |   |
+|                                                                                                          |   |   |
+
 | 其他                                                               |   |
 | ---------------------------------------------------------------- | - |
 | 数据中台实战课 [极客时间](https://time.geekbang.org/column/intro/100049101) |   |
 
-## 大数据
+## 大数据, Big Data
 
 |                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,10 +112,11 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                                                                                                                                                                            |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                                                                                                                                                                                                                                                  |
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| 麦子学院-10小时入门大数据 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzveyPX8XgTBKf3tjxjA1tW) |
-| 大数据入门指南 [v](https://www.douyin.com/video/6992859759204519204) git                                   |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 麦子学院-10小时入门大数据 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzveyPX8XgTBKf3tjxjA1tW)      |
+| 大数据入门指南 [v](https://www.douyin.com/video/6992859759204519204) git                                        |
+| Complete Big Data [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNN0r4lasvXlVqirAr5ltaM) |
 
 |                                                                                                     |
 | --------------------------------------------------------------------------------------------------- |
@@ -141,3 +148,12 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 | Spark / PySpark [Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTF6bpN\_4oFubxQiUqUlqR2Y)                                                   |
 | \[Tutorialsplanet.NET] Udemy - Spark and Python for Big Data with PySpark                                                                                |
 | MIT 6.824 Distributed Systems (Spring 2020) [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39\_tb2fErI4-WkMbsvGQk9\_UB) |
+| Pyspark with Python [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)                                               |
+
+### 分布式训练
+
+|                                                                                         |   |   |
+| --------------------------------------------------------------------------------------- | - | - |
+| 分布式训练 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4cv3QJdZEw08EM0SP00B\_1) |   |   |
+|                                                                                         |   |   |
+|                                                                                         |   |   |
