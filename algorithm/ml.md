@@ -217,7 +217,6 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022 Version of Applications of Deep Neural Networks for TensorFlow and Keras (Washington University in St. Louis) [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl\_BN) |
 | I built the same model with TensorFlow and PyTorch \| Which Framework is better? [Python Engineer](https://www.youtube.com/watch?v=ay1E1f8VqP8)                                                             |
-| AI框架基础 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p56yeHi9ED3fVhUmD7-Lv8Y)                                                                                                                     |
 |                                                                                                                                                                                                             |
 
 ### Tensorflow
@@ -291,7 +290,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Pytorch [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq\_9MuiUdn2YnlFqmMK)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | PyTorch Tutorials (2022) [Mr. P Solver](https://www.youtube.com/playlist?list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Pytorch [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq\_9MuiUdn2YnlFqmMK)                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| PyTorch2.0 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4lsB1mj6vinCthLSyhUZCm)                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -912,22 +911,6 @@ Visualize Neural Networks
 |                                                                                                           |                                                                                                                                                                                                                          |   |
 |                                                                                                           |                                                                                                                                                                                                                          |   |
 
-### 自动微分 自动求导
-
-|                                                                                       |                                                                                                |   |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | - |
-| 自动微分 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4tegIiFWvGMBZiy-eScPqS) | MindSpore初学教程 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4dvZknS2QPZhsbx6UAb9b9) |   |
-|                                                                                       |                                                                                                |   |
-|                                                                                       |                                                                                                |   |
-
-### 计算图
-
-|                                                                                      |   |   |
-| ------------------------------------------------------------------------------------ | - | - |
-| 计算图 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4ItmjhnDTSWis0UydBmE2f) |   |   |
-|                                                                                      |   |   |
-|                                                                                      |   |   |
-
 ### RNN Recurrent Neural Networks
 
 |                                                                                                     |
@@ -1418,7 +1401,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | \[ML News] Multiplayer Stable Diffusion \| OpenAI needs more funding \| Text-to-Video models incoming [Yannic Kilcher](https://www.youtube.com/watch?v=TOo-HnjjuhU)                                                                                                                                   |
 | Google's Prompt-to-Prompt: Diffusion Image Editing [sentdex](https://www.youtube.com/watch?v=RtIRE4Kf5SU)                                                                                                                                                                                             |
 | Diffusion Model 수학이 포함된 tutorial [디퓨전영상올려야지](https://www.youtube.com/watch?v=uFoGaIVHfoE)                                                                                                                                                                                                             |
-| Stable Diffusion in Code (AI Image Generation) - [Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                       |
 
 | Stable Diffusion                                                                                            |                                                                         |   |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
