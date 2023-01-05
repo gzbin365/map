@@ -291,3 +291,6 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | **CS-Notes** [**git**](https://github.com/CyC2018/CS-Notes) **** 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计                                                |
 | xiufengcheng/[DATASTRUCTURE](https://github.com/xiufengcheng/DATASTRUCTURE)   数据结构                                                                     |
 | Coding Challenges [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)                                         |
+| tayllan/[awesome-algorithms](https://github.com/tayllan/awesome-algorithms)                                                                            |
+| soulmachine/[algorithm-essentials](https://github.com/soulmachine/algorithm-essentials) 算法珠玑 [s](https://algorithm-essentials.soulmachine.me/)         |
+| alwqx/[algorithms](https://github.com/alwqx/algorithms) 算法学习与精粹                                                                                        |
