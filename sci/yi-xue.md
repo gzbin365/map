@@ -1,5 +1,11 @@
 # 医学
 
+|                                               |   |   |
+| --------------------------------------------- | - | - |
+| [Nature Medicine](https://www.nature.com/nm/) |   |   |
+|                                               |   |   |
+|                                               |   |   |
+
 |                                                                                                                                           |                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **医学视频站**[   ****   u](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists)                                                | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
@@ -86,6 +92,14 @@
 | 營養健身葛格Peeta [u](https://www.youtube.com/channel/UCSSjn1X6yMBC3AyJ2azeG7A)                                                                                                                                                                                                                                               |                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                         |                                                                                                                   |
 
+### 睡眠
+
+|                                                                         |   |   |
+| ----------------------------------------------------------------------- | - | - |
+| 美军睡眠法 [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=EyPi1OlkCJE) |   |   |
+|                                                                         |   |   |
+|                                                                         |   |   |
+
 ### 减肥
 
 |                                                                                                                                                                                                                                                          |
@@ -116,3 +130,11 @@
 | 防失智、強健心血管，100%純黑巧克力健康大揭密【[早安健康](https://www.youtube.com/watch?v=g5ihom7YHzA)】                                                                                                                                                                                                                 |
 | 【[Joeman](https://www.youtube.com/watch?v=ihpfkmtqulU)】濃度100%的巧克力吃起來竟然跟土一樣？ft.咪妃                                                                                                                                                                                                              |
 | 烹飪 [健康2.0](https://www.youtube.com/playlist?list=PL2-vrSQ4vcNiJu0SzIYvvXlyJfQ\_QAutV)                                                                                                                                                                                                         |
+
+## 其他
+
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Acute and postacute sequelae associated with SARS-CoV-2 reinfection [Nature Medicine](https://www.nature.com/articles/s41591-022-02051-3) |
+|                                                                                                                                           |
+|                                                                                                                                           |
