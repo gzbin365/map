@@ -78,7 +78,7 @@
 | 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
-| 国学分享 [u](https://www.youtube.com/@guoxue95588)                                                                                   |
+|                                                                                                                                  |
 |                                                                                                                                  |
 
 | 赵玉平老师                                                                                                                                       |
