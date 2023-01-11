@@ -35,6 +35,7 @@
 | 陳忠建 [u](https://www.youtube.com/c/%E9%99%B3%E5%BF%A0%E5%BB%BA%E6%9B%B8%E6%B3%95)                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 薄煙 抖音号：[50001325061](https://www.douyin.com/user/MS4wLjABAAAAafEmka9Lw0a9UfIDIpae0UkBT3Jdp6-4Wn-h5igvOAppuL67c6f1aA\_ZRzNBAS05)                                                                                                                                                                                                                                                                                                                                                          |
 | 姜几牙 抖音号：[1056179828](https://www.douyin.com/user/MS4wLjABAAAAq5POxBdunIfiCWd9F4OnNpmM25pQrSj1zolCfjc19as) 手写速记                                                                                                                                                                                                                                                                                                                                                                           |
+| Learn to write chinese [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk4TpVOkw2qMzKDdtkzLolAr)                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## 瑜伽
 
@@ -78,7 +79,7 @@
 | 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
-|                                                                                                                                  |
+| 国学分享 [u](https://www.youtube.com/@guoxue95588)                                                                                   |
 |                                                                                                                                  |
 
 | 赵玉平老师                                                                                                                                       |

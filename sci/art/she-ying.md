@@ -23,3 +23,4 @@ description: Photography
 | \[Tutorialsplanet.NET] Udemy - Nikon DSLR Photography Getting Started with Your DSLR                                         |
 | \[Tutorialsplanet.NET] Udemy - Cinematography Course Shoot Better Video with Any Camera                                      |
 | \[Tutorialsplanet.NET] Udemy - Fotografía Masterclass Una Guía Completa para la Fotografía                                   |
+| How does a camera work? [Branch Education](https://www.youtube.com/watch?v=B7Dopv6kzJA)                                      |

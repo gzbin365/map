@@ -9,11 +9,12 @@
 
 ## MongoDB
 
-| **MongoDB**                                                                                             |
-| ------------------------------------------------------------------------------------------------------- |
-| **The Little MongoDB Book 中文版(**[**书栈**](https://www.bookstack.cn/books/the-little-MongoDB-Book)**, )** |
-| MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                  |
-|                                                                                                         |
+| **MongoDB**                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- |
+| **The Little MongoDB Book 中文版(**[**书栈**](https://www.bookstack.cn/books/the-little-MongoDB-Book)**, )**     |
+| MongoDB Crash Course [Web Dev Simplified](https://www.youtube.com/watch?v=ofme2o29ngU)                      |
+| MongoDb with Python [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVN\_8zzsevm1bm6G-plsiO1I) |
+|                                                                                                             |
 
 ## rust
 
@@ -168,6 +169,14 @@
 | Learn .NET MAUI - Full Course for Beginners \| Build cross-platform apps in C# [James Montemagno](https://www.youtube.com/watch?v=DuNLR\_NJv8U)                     |
 | Build a C# .NET Application in 60 Minutes [Traversy Media](https://www.youtube.com/watch?v=GcFJjpMFJvI)                                                             |
 | What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? [Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE) |
+
+## Solidity
+
+|                                                                          |   |   |
+| ------------------------------------------------------------------------ | - | - |
+| Fred带你学Solidity [u](https://www.youtube.com/@fredsolidity4455/playlists) |   |   |
+|                                                                          |   |   |
+|                                                                          |   |   |
 
 ## HTTP
 
@@ -704,6 +713,7 @@
 | Mircea Neagovici — Robotic Process Automation (RPA) and ML [Weights & Biases](https://www.youtube.com/watch?v=JCLwwycAHWE)                                          |
 | Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
 | python按键基础，用python调用windows api来实现简单的桌面按键功能 [米斯特姚](https://www.youtube.com/watch?v=0Jzpk1JgDMA)                                                                     |
+| 机器人流程自动化RPA [阿里云](https://help.aliyun.com/product/55838.html)                                                                                                       |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

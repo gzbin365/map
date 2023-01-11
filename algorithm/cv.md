@@ -189,6 +189,16 @@ import cv2
 
 ## 图像合成 Image Synthesis
 
+###
+
+### 图像生成
+
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| How AI Image Generators Work (Stable Diffusion / Dall-E) - [Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) |
+|                                                                                                                         |
+|                                                                                                                         |
+
 ### DeepFake
 
 [How to detect DeepFakes with MesoNet | 20 MIN. PYTHON TUTORIAL](https://www.youtube.com/watch?v=kYeLBZMTLjk)
@@ -216,15 +226,16 @@ import cv2
 
 ## 图像压缩 Image Compression
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)          |
-| Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg)   |
-| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                               |
-| JPEG 有损压缩 离散余弦变换 DCT 一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=-iL9UzUKqKM)                          |
-| ZIP压缩算法刨析 什么是LZ77编码 [掌芝士](https://www.youtube.com/watch?v=\_a\_keel8JFI)                                 |
-| 哈夫曼编码很难懂？一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=Jrje7ep5Ff8)                                      |
-| How JPEG Works [Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh) |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)                            |
+| Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg)                     |
+| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                                                 |
+| JPEG 有损压缩 离散余弦变换 DCT 一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=-iL9UzUKqKM)                                            |
+| ZIP压缩算法刨析 什么是LZ77编码 [掌芝士](https://www.youtube.com/watch?v=\_a\_keel8JFI)                                                   |
+| 哈夫曼编码很难懂？一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=Jrje7ep5Ff8)                                                        |
+| How JPEG Works [Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh)                   |
+| How are Images Compressed? \[46MB ↘↘ 4.07MB] JPEG In Depth [Branch Education](https://www.youtube.com/watch?v=Kv1Hiv3ox8I) |
 
 ## 图像修复
 

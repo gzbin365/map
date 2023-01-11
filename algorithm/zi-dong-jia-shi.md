@@ -47,6 +47,12 @@ description: Self-Driving
 | “影分身之术”！训练50亿次的AI能有多智能 [眼见为识](https://www.youtube.com/watch?v=AJ1TR28KNqY)                                                                                                                         |
 | OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial) [ProgrammingKnowledge](https://www.youtube.com/watch?v=eLTLtUVuuy4)                                    |
 
+|                                                                                                                 |   |   |
+| --------------------------------------------------------------------------------------------------------------- | - | - |
+| How does Starlink Satellite Internet Work?📡☄🖥 [Branch Education](https://www.youtube.com/watch?v=qs2QcycggWU) |   |   |
+|                                                                                                                 |   |   |
+|                                                                                                                 |   |   |
+
 |                                                                                                                                    |                                                                  |   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | - |
 | 石二讲开车 抖音号：[97152094186](https://www.douyin.com/user/MS4wLjABAAAA4p6fU7gliI8hmIF9cF1Cg7C57mu4Ay4APH2fdVHfdWz\_fUFPYTjxbcr5Aiywyuo0) | JetsonHacks [u](https://www.youtube.com/c/JetsonHacks/playlists) |   |
