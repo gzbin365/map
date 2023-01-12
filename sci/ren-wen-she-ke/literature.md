@@ -44,6 +44,14 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 |                                                                             |                                                                                         |   |
 |                                                                             |                                                                                         |   |
 
+## 詩
+
+|                                                                                            |   |   |
+| ------------------------------------------------------------------------------------------ | - | - |
+| 蒙曼品最美唐詩 [吉吉尔塔塔](https://www.youtube.com/playlist?list=PLIdpRq8\_gIcqXbevYbIFQcJzcOLm-ML9k) |   |   |
+|                                                                                            |   |   |
+|                                                                                            |   |   |
+
 ## 小说
 
 |                                                                                                                                         |                                                                                                                 |
@@ -88,7 +96,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 畅听 [u](https://www.youtube.com/@user-uj4io1zr3w)                                                               | 小梅的好奇心 [u](https://www.youtube.com/@Mays-Mystery)                                                                                                                                                                                                                                             |
 | 5分钟快读 [u](https://www.youtube.com/@WuFenZhongKuaiDu)                                                           | Catog [u](https://www.youtube.com/@catog1395)                                                                                                                                                                                                                                                 |
 | 沁心文读 [u](https://www.youtube.com/@qinxin520)                                                                   | 有聲書之家 [u](https://www.youtube.com/@youshengshuzhijia)                                                                                                                                                                                                                                         |
-|                                                                                                                |                                                                                                                                                                                                                                                                                               |
+| 吉吉尔塔塔 [u](https://www.youtube.com/@user-yh7wb5ws8j)                                                            |                                                                                                                                                                                                                                                                                               |
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |

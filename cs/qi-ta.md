@@ -356,6 +356,7 @@
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
+| Unreal Engine 5 – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6UlU\_FsicK8)                                                                 |
 |                                                                                                                                                                          |
 
 ## 3D Graphics Engine
