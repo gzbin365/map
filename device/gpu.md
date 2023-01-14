@@ -22,12 +22,12 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ## eGPU
 
-|                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                          |
-| ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j) |
-| RTX 4090 Gaming Laptop 🤯 eGPU Comparison with Desktop! [Jarrod'sTech](https://www.youtube.com/watch?v=NlYHPj-0DTE)    |
-|                                                                                                                        |
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                                               |
+| ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j)                      |
+| RTX 4090 Gaming Laptop 🤯 eGPU Comparison with Desktop! [Jarrod'sTech](https://www.youtube.com/watch?v=NlYHPj-0DTE)                         |
+| External GPU for 3D and Architecture Work - Razer Core X Chroma & Nvidia RTX 3080 [Joseph Kim](https://www.youtube.com/watch?v=UyvjbzfSHXA) |
 
 ## **CUDA**
 
@@ -39,6 +39,7 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |
 | NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)          |
 | Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)       |
+| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)   |
 
 ## 虚拟化vGPU
 
