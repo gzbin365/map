@@ -114,10 +114,12 @@
 | 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                       |
 | 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                    |
 | 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)              |
+| AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放视频，硬盘扩容添加开机自启动更好用 \| [零度解说](https://www.youtube.com/watch?v=12QoxeljMoY)    |
 | 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                              |
 | 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                              |
 | [filez](https://www.filez.com/)   企业网盘                                                                                         |
 | Antdownload [s](https://antdownloadmanager.com/)                                                                               |
+| 免费网盘的“耻辱榜”！限速最严重、吃相最难看的到底是谁？今天我给大家测出来了 \| [零度解说](https://www.youtube.com/watch?v=WsqitzUuKKw)                                  |
 
 |                                |                                  |
 | ------------------------------ | -------------------------------- |

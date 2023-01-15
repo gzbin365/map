@@ -11,3 +11,5 @@
 | 《中国国家地理》杂志社 抖音号：[zggjdl](https://www.douyin.com/user/MS4wLjABAAAACfTm8VE6Ia7Tzbhh-ehC8Lab6BmAD0lhLozEFQE5sNfbL5rOux0Vl0LtBzDzgnMr)                                                   |
 | 中国气象爱好者 抖音号：[ZGQXAHZ](https://www.douyin.com/user/MS4wLjABAAAA7vfibih-Yt8TM0ynKG6pMp2h-f\_zuozPnOFywR8O9IU)                                                                          |
 | 中国国家地理探索 抖音号：[cngexplore](https://www.douyin.com/user/MS4wLjABAAAAzk9SI\_JMpz5wBSnhXObAODxMmosqfdsOF1XzdwlXXjmoyAHKlT0QAhz6ZAIiIK6K)                                                 |
+| 岩土工程师                                                                                                                                                                                |
+|                                                                                                                                                                                      |
