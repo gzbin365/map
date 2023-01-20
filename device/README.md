@@ -46,26 +46,26 @@ description: 硬件设备
 
 ## **Arduino**
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Arduino(**[**u**](https://www.youtube.com/c/Arduino/featured)**, )**                                                                             |
-| Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA)   Nikodem Bartnik [u](https://www.youtube.com/c/nikodembartnik)  |
-| ESP32 + Arduino [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU)                                       |
-| Arduino Course for Beginners - Open-Source Electronics Platform [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX\_fLU)                       |
-| Arduino Project to Product [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1\_j\_8)                                  |
-| Arduino Tutorial for Beginners [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYUOtZVqcBMELUl9H2und-F)                    |
-| Arduino FreeRTOS Tutorials [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbpujtnhn5LRPvYYj\_WqbiZ)                       |
-| Arduino Engineering Kit Videos [u2b](https://www.youtube.com/playlist?list=PLAnYjDlRTdcURwtFsIkWyNgTzKhxY7DBo)                                     |
-| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc) |
-| Top 10 Arduino Projects 2020 \| Awesome Idea for winning Science Project [TecH BoyS ToyS](https://www.youtube.com/watch?v=gXF0VDY7DHI)             |
-| 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                            |
-| Morse Code with LEDs [Kris Occhipinti](https://www.youtube.com/watch?v=SORCBaKUk\_g)                                                               |
-| Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                              |
-| 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                |
-| THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                 |
-| TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                    |
-| How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                          |
-| Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                          |
+|                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Arduino(**[**u**](https://www.youtube.com/c/Arduino/featured)**, )**                                                                                                                                                |
+| Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA)   Nikodem Bartnik [u](https://www.youtube.com/c/nikodembartnik)   黃信惠的瘋狂教室 [u](https://www.youtube.com/@davidhuanglab/playlists)    |
+| ESP32 + Arduino [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU)                                                                                                          |
+| Arduino Course for Beginners - Open-Source Electronics Platform [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX\_fLU)                                                                                          |
+| Arduino Project to Product [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1\_j\_8)                                                                                                     |
+| Arduino Tutorial for Beginners [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYUOtZVqcBMELUl9H2und-F)                                                                                       |
+| Arduino FreeRTOS Tutorials [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbpujtnhn5LRPvYYj\_WqbiZ)                                                                                          |
+| Arduino Engineering Kit Videos [u2b](https://www.youtube.com/playlist?list=PLAnYjDlRTdcURwtFsIkWyNgTzKhxY7DBo)                                                                                                        |
+| Computer Vision With Arduino \| 2 Hour Course \| OpenCV Python [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=mfiRJ1qgToc)                                                                    |
+| Top 10 Arduino Projects 2020 \| Awesome Idea for winning Science Project [TecH BoyS ToyS](https://www.youtube.com/watch?v=gXF0VDY7DHI)                                                                                |
+| 8x8x8 LED CUBE WITH ARDUINO UNO [HARRY LE](https://www.youtube.com/watch?v=T5Aq7cRc-mU)                                                                                                                               |
+| Morse Code with LEDs [Kris Occhipinti](https://www.youtube.com/watch?v=SORCBaKUk\_g)                                                                                                                                  |
+| Top 5 most fantastic Pcs that Iron Man should have 🔥🔥 [TecH BoyS ToyS](https://www.youtube.com/watch?v=ExVz7s35Jt4)                                                                                                 |
+| 熊的Arduino教學 [熊的開發DVPBear](https://www.youtube.com/playlist?list=PLSB4j0lRV7kKPHE69uLASOdMm0zY5KHtO)                                                                                                                   |
+| THE ELECTRONIC GUY [u](https://www.youtube.com/c/THEELECTRONICGUY)                                                                                                                                                    |
+| TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                                                                                       |
+| How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                                                                                             |
+| Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                                                                                             |
 
 ## **Raspberry Pi**
 
