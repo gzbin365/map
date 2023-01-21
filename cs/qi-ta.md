@@ -341,6 +341,9 @@
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
 | JavaScript Game Development Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GFO\_txvwK\_c)                                                  |
+| Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) [Kian Brose](https://www.youtube.com/watch?v=Ot7SeZvfBA0)                      |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
@@ -356,6 +359,7 @@
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
+| Unreal Engine 5 – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6UlU\_FsicK8)                                                                 |
 |                                                                                                                                                                          |
 
 ## 3D Graphics Engine

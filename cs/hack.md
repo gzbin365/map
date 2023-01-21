@@ -10,6 +10,7 @@
 | 影子不会说谎 抖音号：[YZ09098](https://www.douyin.com/user/MS4wLjABAAAAIbTrGgIE8-nPuGjWkjVFT9wGph0-iEEX8nqWVncwwnQUQHJawqSE5KPCZbiQavP5) | Swapnil Srivastava [u](https://www.youtube.com/c/SwapnilSrivastavaIndia)                                                                                                                                           |
 | Guided Hacking [u](https://www.youtube.com/c/GuidedHacking)                                                                    | David Bombal [u](https://www.youtube.com/c/DavidBombal/playlists)                                                                                                                                                  |
 | Loi Liang Yang [u](https://www.youtube.com/c/LoiLiangYang/playlists)                                                           | Flashback Team [u](https://www.youtube.com/c/FlashbackTeam)                                                                                                                                                        |
+|                                                                                                                                | [Hackinthebox](https://www.hitb.org/)黑客技术信息安全咨询学习网站                                                                                                                                                                |
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +60,7 @@
 | \[Tutorialsplanet.NET] Udemy - Hacking For Beginners (2021)                                                                                                                               |
 | \[Tutorialsplanet.NET] Udemy - Network Hacking Continued - Intermediate to Advanced                                                                                                       |
 | \[Tutorialsplanet.NET] Udemy - The Ultimate Dark Web, Anonymity, Privacy & Security Course                                                                                                |
-|                                                                                                                                                                                           |
+| Game Hacking 200 Series - Game Hacking Shenanigans [Guided Hacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFKVpM1mJoz2yBMVMjl\_f5F)                                            |
 
 |                                                                                           |
 | ----------------------------------------------------------------------------------------- |
