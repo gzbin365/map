@@ -169,6 +169,7 @@
 | Learn .NET MAUI - Full Course for Beginners \| Build cross-platform apps in C# [James Montemagno](https://www.youtube.com/watch?v=DuNLR\_NJv8U)                     |
 | Build a C# .NET Application in 60 Minutes [Traversy Media](https://www.youtube.com/watch?v=GcFJjpMFJvI)                                                             |
 | What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? [Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE) |
+| Top Course - Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core [tutorialsEU](https://www.youtube.com/watch?v=DqD-NJf7-OM)                          |
 
 ## Solidity
 
