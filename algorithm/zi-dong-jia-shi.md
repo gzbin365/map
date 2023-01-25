@@ -46,7 +46,6 @@ description: Self-Driving
 | Drive A.I. [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-fAJaytLh4vAWCxTAUCrHO4)                                                                                            |
 | “影分身之术”！训练50亿次的AI能有多智能 [眼见为识](https://www.youtube.com/watch?v=AJ1TR28KNqY)                                                                                                                         |
 | OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial) [ProgrammingKnowledge](https://www.youtube.com/watch?v=eLTLtUVuuy4)                                    |
-| 百度全自动驾驶如何赶超Tesla的FSD？[米斯特老古](https://www.youtube.com/watch?v=eTIwE5gLh8w)                                                                                                                          |
 
 |                                                                                                                 |   |   |
 | --------------------------------------------------------------------------------------------------------------- | - | - |
