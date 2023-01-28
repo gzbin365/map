@@ -24,4 +24,3 @@ description: Photography
 | \[Tutorialsplanet.NET] Udemy - Cinematography Course Shoot Better Video with Any Camera                                      |
 | \[Tutorialsplanet.NET] Udemy - Fotografía Masterclass Una Guía Completa para la Fotografía                                   |
 | How does a camera work? [Branch Education](https://www.youtube.com/watch?v=B7Dopv6kzJA)                                      |
-| 买电影票不会选厅？10分钟速懂：IMAX、杜比、ScreenX 、中国巨幕、Cinity、LUXE.....高质量看电影，再也不花冤枉钱。 [橙红Iris](https://www.youtube.com/watch?v=MSGqQuBE7Ew)  |
