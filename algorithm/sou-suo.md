@@ -11,6 +11,7 @@
 | Google Like a Pro – All Advanced Search Operators Tutorial \[2023 Tips] [freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0) |
 | 贪婪搜索                                                                                                                                |
 | beam search                                                                                                                         |
+| ZoomEye [v](https://www.youtube.com/watch?v=K9cM0BEdlZ4)                                                                            |
 
 | 搜索技巧                                                                 |
 | -------------------------------------------------------------------- |

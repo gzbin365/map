@@ -31,6 +31,7 @@ description: Psychology
 | 麻省理工学院MIT公开课《如何说话 How to Speak》by Patrick Winston [道法自然](https://www.youtube.com/watch?v=Zw1tzxAt\_CI)              |
 | How to Speak MIT [OpenCourseWare](https://www.youtube.com/watch?v=Unzc731iCUY)                                      |
 | \[Tutorialsplanet.NET] Udemy - Advanced Level Psychology - ACCREDITED CERTIFICATE                                   |
+| 心理学与生活(精品课) [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Rhh\_lem7ZFzoJU8IWOSbNg)                       |
 
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
