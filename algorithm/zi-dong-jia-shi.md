@@ -7,7 +7,7 @@ description: Self-Driving
 |                                                                              |                                                       |                                                                                                                                     |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Tesla [s](https://www.tesla.com/) [git](https://github.com/teslamotors)      | Tesla Daily [u](https://www.youtube.com/c/TeslaDaily) | 小明说驾车 抖音号：[42596461288](https://www.douyin.com/user/MS4wLjABAAAA8LjfXSjKmfUX\_eTiM7cMNAC-58rENiuYnsSMUvsRhrK4JB2ocI9Q\_5twofZF6OoP) |
-| Mr. Automotive [u](https://www.youtube.com/channel/UCG8omlanQc2vk74ctSXFBiQ) |                                                       |                                                                                                                                     |
+| Mr. Automotive [u](https://www.youtube.com/channel/UCG8omlanQc2vk74ctSXFBiQ) | Yosh [u](https://www.youtube.com/@yosh6033)           |                                                                                                                                     |
 |                                                                              |                                                       |                                                                                                                                     |
 
 |                                                                                                                                                                                                    |
@@ -46,6 +46,7 @@ description: Self-Driving
 | Drive A.I. [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-fAJaytLh4vAWCxTAUCrHO4)                                                                                            |
 | “影分身之术”！训练50亿次的AI能有多智能 [眼见为识](https://www.youtube.com/watch?v=AJ1TR28KNqY)                                                                                                                         |
 | OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial) [ProgrammingKnowledge](https://www.youtube.com/watch?v=eLTLtUVuuy4)                                    |
+| 百度全自动驾驶如何赶超Tesla的FSD？[米斯特老古](https://www.youtube.com/watch?v=eTIwE5gLh8w)                                                                                                                          |
 
 |                                                                                                                 |   |   |
 | --------------------------------------------------------------------------------------------------------------- | - | - |

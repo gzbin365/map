@@ -47,6 +47,7 @@ description: 图神经网络
 | Network of The Witcher \| Relationship Extraction & Network Analysis with Spacy & NetworkX [Thu Vu data analytics](https://www.youtube.com/watch?v=fAHkJ\_Dhr50)                                                                 |
 | Graph Neural Networks - a perspective from the ground up [Alex Foo](https://www.youtube.com/watch?v=GXhBEj1ZtE8)                                                                                                                 |
 | The ultimate intro to Graph Neural Networks. Maybe. [AI Coffee Break with Letitia](https://www.youtube.com/watch?v=me3UsMm9QEs)                                                                                                  |
+| NetworkX Crash Course - Graph Theory in Python [NeuralNine](https://www.youtube.com/watch?v=VetBkjcm9Go)                                                                                                                         |
 |                                                                                                                                                                                                                                  |
 
 | 图计算                                                                         |

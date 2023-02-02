@@ -895,6 +895,7 @@ Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcade
 | How to Create a Neural Network (and Train it to Identify Doodles) [Sebastian Lague](https://www.youtube.com/watch?v=hfMk-kjRv4c)                                 |
 | Neural Network Primer [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hzqalT\_PL35I9oUTotJGq7a)                                                     |
 | 10 Tips for Improving the Accuracy of your Machine Learning Models [Jeff Heaton](https://www.youtube.com/watch?v=uqhn5xuyQok)                                    |
+| Neural Networks: Zero to Hero [Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)                                        |
 
 | 万能近似定理（universal approximation theorrm）                               |                                                                                                              |                                                                 |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -1447,6 +1448,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 多模态论文串讲·上【论文精读】 [Mu Li](https://www.youtube.com/watch?v=6pzBOQAXUB8)   [跟李沐学AI](https://www.youtube.com/watch?v=QrZMl2GUjdE) |
 | 多模态论文串讲·下【论文精读】 [Mu Li](https://www.youtube.com/watch?v=S1le41J76lQ)                                                         |
 | AI Hairball - ChatGPT + Stable Diffusion [deeplizard](https://www.youtube.com/watch?v=YLxhzTGdEJI)                           |
+| Talk \| 东京大学博士生刘海洋：多模态驱动谈话动作生成-质量与多样性 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=6aguFjkOlN0)                         |
 |                                                                                                                              |
 
 ## AI Safety
