@@ -176,16 +176,15 @@ International Business Machine IBM 美国国际商用机器公司
 | Learn Microsoft Active Directory (ADDS) in 30mins [Andy Malone MVP](https://www.youtube.com/watch?v=85-bp7XxWDQ)                                   |
 | Azure Developer Associate (AZ-204) — Full Course Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=jZx8PMQjobk)                        |
 | Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=P3qmqUZJ7l0)          |
-| 免费申请 microsoft 365 E5 账号 可开25个号 每个号OneDrive5t空间 无限续期 永久使用 [科技lion](https://www.youtube.com/watch?v=4NmPlEf4FTk)                                    |
 |                                                                                                                                                    |
 
 #### office
 
-| Excel                                                                                           |                                                                         |   |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
-| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) | Excel For Freelancers [u](https://www.youtube.com/@ExcelForFreelancers) |   |
-|                                                                                                 |                                                                         |   |
-|                                                                                                 |                                                                         |   |
+| Excel                                                                                           |   |   |
+| ----------------------------------------------------------------------------------------------- | - | - |
+| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) |   |   |
+|                                                                                                 |   |   |
+|                                                                                                 |   |   |
 
 ### 百度
 
@@ -306,7 +305,7 @@ International Business Machine IBM 美国国际商用机器公司
 | WalkTheTalk [u](https://www.youtube.com/channel/UC\_DVW\_RqaTOQ90m7RXka4fQ/videos)          | Simplilearn [u](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)                                               |
 | CupofCode 01 [u](https://www.youtube.com/channel/UCwptawgtdrxkG2kWY0OO5mQ/playlists)        | CodeParade [u](https://www.youtube.com/c/CodeParade/featured)                                                           |
 | Full Course [u](https://www.youtube.com/c/FullCourseOfficial/videos)                        | Angus Chang [u](https://www.youtube.com/channel/UC8qt16ugONSNcQKt2vgZLVQ/playlists)                                     |
-| 尚学堂 [u](https://www.youtube.com/channel/UCA6Ew\_2I6y1nJvp4meqzwjw/playlists)                | Gate Smashers [u](https://www.youtube.com/@GateSmashers)                                                                |
+| 尚学堂 [u](https://www.youtube.com/channel/UCA6Ew\_2I6y1nJvp4meqzwjw/playlists)                |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
@@ -508,7 +507,6 @@ Computer Components？Computer Architecture？
 | 29丨网络故障排除命令 [M Max](https://www.youtube.com/watch?v=27CuaVTApx4)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 家庭组网之如何开启IPv6? [韩风Talk](https://www.youtube.com/watch?v=xj3bJRPzr8Y)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | How To Become Invisible Online [Kalle Hallden](https://www.youtube.com/watch?v=S4E4yAktjug)                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 如何隐藏 IP 地址？7 种方法让您成为网络隐形人 [铿锵允铮kingQiang](https://www.youtube.com/watch?v=FrhDdNx-ubs)                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 计算机网络基础【阿凡哥自录】 [金科小子](https://www.bilibili.com/video/BV1ak4y1y7mZ)                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 | 内网穿透                                                                                                                                                                       |                                                                                                     |                                                                                                                                |
@@ -542,7 +540,6 @@ Computer Components？Computer Architecture？
 | 操作系统原理 [从0开始数](https://www.youtube.com/playlist?list=PLkl2qqmYigA66rJ4FgmZan4YIVRgNFLQx)                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 操作系统原理 清华大学 [自我学习Evan](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9)                                                                                                                                                                                                                                                                                                                                                                                                  |
 | <p>woai3c/<a href="https://github.com/woai3c/MIT6.828">MIT6.828</a>   实现一个操作系统内核   <a href="https://pdos.csail.mit.edu/6.828/2018/schedule.html">s</a></p><p>MIT 6.858 Computer Systems Security, Fall 2014 <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh">MIT OpenCourseWare</a></p><p>MIT 6.824 Distributed Systems (Spring 2020) <a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB">MIT 6.824: Distributed Systems</a></p> |
-| System Design for Beginners Course [freeCodeCamp](https://www.youtube.com/watch?v=m8Icp\_Cid5o)                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## 微机原理
 
@@ -572,9 +569,6 @@ Computer Components？Computer Architecture？
 | 编译原理之美 [极客时间](https://time.geekbang.org/column/intro/100034101)                                                                                               |
 | llvm/[llvm-project](https://github.com/llvm/llvm-project)  [s](https://llvm.org/)   LLVM是构架编译器(compiler)的框架系统 [bd](https://baike.baidu.com/item/LLVM/3598690) |
 | Just In Time (JIT) Compilers - [Computerphile](https://www.youtube.com/watch?v=d7KHAVaX\_Rs)                                                                  |
-| AI编译器 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p776cFHgF0KBVH0dyFOV6m\_)                                                                       |
-| AI编译器前端优化 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p6cuMBvE6Z2E82zKN6WfWHn)                                                                    |
-| AI编译器后端优化 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p5SBdbrBoPqu4MGWUbybtWk)                                                                    |
 
 ## 函数式编程
 
@@ -593,9 +587,6 @@ Computer Components？Computer Architecture？
 | What is a Monad? - [Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)                                               |
 | Why Isn't Functional Programming the Norm? – Richard Feldman　[Metosin](https://www.youtube.com/watch?v=QyJZzq0v7Z4)           |
 | 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                      |
-| Object Oriented Programming vs Functional Programming [Continuous Delivery](https://www.youtube.com/watch?v=wyABTfR9UTU)      |
-|                                                                                                                               |
-|                                                                                                                               |
 
 ## 编程范式
 
@@ -625,14 +616,11 @@ Computer Components？Computer Architecture？
 
 ## CS电子书
 
-|                                                                                    |
-| ---------------------------------------------------------------------------------- |
-| **脚本之家（**[**编程开发**](https://www.jb51.net/books/list422\_1.html)**）**               |
-| 文江博客 **** [**开发文档**](https://www.wenjiangs.com/doc/page/1)  ****  共 138 页          |
-| forthespada/[CS-Books](https://github.com/forthespada/CS-Books)                    |
-| gongdaowei/[ituring\_books](https://github.com/gongdaowei/ituring\_books) 图灵程序设计丛书 |
-| Dujltqzv/[Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books)            |
-|                                                                                    |
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| **脚本之家（**[**编程开发**](https://www.jb51.net/books/list422\_1.html)**）**      |
+| 文江博客 **** [**开发文档**](https://www.wenjiangs.com/doc/page/1)  ****  共 138 页 |
+|                                                                           |
 
 {% file src="../.gitbook/assets/21天学通 C++（第8版）_带目录.pdf" %}
 21天学通 C++（第8版）\_带目录.pdf
@@ -653,7 +641,6 @@ Computer Components？Computer Architecture？
 | 编程界含金量贼高的9大赛事  [程序员八哥](https://www.douyin.com/video/7024083967406034189)                                                                                                       |
 | Kaggle Tips for Feature Engineering and Selection \| by Gilberto Titericz \| Kaggle Days Meetup Madrid [Kaggle Days Meetup Spain](https://www.youtube.com/watch?v=RtqtM1UJfZc) |
 | Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
-| Kaggle Competitions [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)                                                                     |
 |                                                                                                                                                                                |
 
 ## 项目

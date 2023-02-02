@@ -63,11 +63,10 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 大学物理
 
-|                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
-| 大学物理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowZYbwU3MgdftmoN8WChq2c))                                             |
-| [高斯课堂 大学物理](https://www.youtube.com/channel/UCNpRMIGE8KxNtGrop1z8vDA/videos)(张俊)                                                        |
-| 簡靖航老師 - 固態物理導論 Introduction to Solid State Physics [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvpkEIUTZdU7g3Q4Nmc74Ni) |
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| 大学物理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowZYbwU3MgdftmoN8WChq2c)) |
+| [高斯课堂 大学物理](https://www.youtube.com/channel/UCNpRMIGE8KxNtGrop1z8vDA/videos)(张俊)            |
 
 ## Modern Physics
 
@@ -82,7 +81,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 |                                                                                                  |                                                                                                 |                                                                                                 |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 结构力学\_华中科技大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyton4eUS8EMk2rCr2pT7\_s) | 理论力学\_北京师范大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzpc6hPF2UZXUwqXQFhfd1F) | 流体力学\_上海交通大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDz4T4caNx283Qzu7Fer3sBg) |
-| 材料力学\_中南大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDynA01n4ofUjO0XRTgKu3FX)    | 反重力，違反自然規律的終極表現 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=Uz\_odwmwNPU)           |                                                                                                 |
+| 材料力学\_中南大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDynA01n4ofUjO0XRTgKu3FX)    |                                                                                                 |                                                                                                 |
 |                                                                                                  |                                                                                                 |                                                                                                 |
 
 ### 一般力学与力学基础
@@ -105,14 +104,6 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Accelerator and Beam Physics Gerard Lawler [Gerard Lawler](https://www.youtube.com/playlist?list=PLJ7LoXWErO\_pFFIWg02pKCTfyaH2HktW4)              |
 | Laser Plasma Accelerator [International Centre for Theoretical Sciences](https://www.youtube.com/playlist?list=PL04QVxpjcnjgdWBi16C9riopevKlmbKLa) |
 |                                                                                                                                                    |
-
-## 电
-
-|                                                                                     |                                                                                               |   |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | - |
-| 14亿人用电，一年却亏损178亿，国家电网的钱都亏在哪了？【[科普六点半](https://www.youtube.com/watch?v=FDg9XuffX9U)】 | 当供电网络有了智能，电网运行会发生哪些变化？20220726 \|《透视新科技》[CCTV科教](https://www.youtube.com/watch?v=KyeFDRkptDA) |   |
-|                                                                                     |                                                                                               |   |
-|                                                                                     |                                                                                               |   |
 
 ## 电路
 

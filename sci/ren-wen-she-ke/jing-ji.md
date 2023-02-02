@@ -45,30 +45,23 @@
 | 李自然说 [u](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 白话财经\_BaiFinance [u](https://www.youtube.com/channel/UCNjkVRkb\_-\_0KCtiO6cRkmg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 小A学财经 抖音号： [BIGBIG.A](https://www.douyin.com/user/MS4wLjABAAAA8t3b1dsGNvJgc6cUe-Bm2JCyqtrs\_c1zJZT6TmgxurkcAyap5aE-PRXpLX2tFuiu)                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| QuantPy [u](https://www.youtube.com/@QuantPy/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))                       |
-| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm))                      |
-| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg))                      |
-| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy))                      |
-| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl))                      |
-| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))                       |
-| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                       |
-| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                                  |
-| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                       |
-| 麦肯锡忽悠客户(商业分析)课程(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGC\_8obJ-Xz5SANRTvw7EG7)        |
-| 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458)       |
-| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                              |
-| Financial Derivatives [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2BZoZYAg2d6Ma3HZ5p9h35i)     |
-| 金融衍生产物定价理论 同济大学 [shaojiang nie](https://www.youtube.com/@shaojiangnie8733/videos)                                   |
-| 金融工程学-王辉（中央财经大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZNbx\_NiVlGXJ-xqT5kYkyq)           |
-| 期货与期权-宋斌（中央财经大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SaA8hFf4krZh\_yotY5hSGsJ)           |
-| Stochastic Calculus for Finance [QuantPy](https://www.youtube.com/playlist?list=PLqpCwow11-Oo00Pw37mwV2WqtfD2FZePY) |
-|                                                                                                                     |
-|                                                                                                                     |
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| 世界经济概论-武汉大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxhqOjylcAQhn9HpLAB9Kdr))                 |
+| 经济法学-华东政法大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowwCj2vWc6C\_cKCU-nVbhkm))                |
+| 运输经济学-北京交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLow6gQ3pYm9l83XTOeSNe9fg))                |
+| 中级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozLFymMg6jrG2NvrzY0zTWy))                |
+| 高级微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyCy9cb4rtH5U8b1gFrAJTl))                |
+| 微观经济学-浙江大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLozr0iichVYx478mfLkEt\_sD))                 |
+| 经济学原理-清华大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoy\_7te3JITb92p3ydWy9wg1))                 |
+| 耶鲁大学开放课程：资本主义 [Qian You](https://www.youtube.com/playlist?list=PLAEDA339484D8E413)                            |
+| 金融理论\_耶鲁 [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKz6mTaCrG-qS-X6FmnnXjA8)                 |
+| 麦肯锡忽悠客户(商业分析)课程(全） [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkGC\_8obJ-Xz5SANRTvw7EG7)  |
+| 章蕾 抖音号： [Zhangzhang1029](https://www.douyin.com/user/MS4wLjABAAAAtAlTPy3ye9FceaFLJ1UMOs76nOSfzZG5JDnTHr0o458) |
+| Brian Byrne [u](https://www.youtube.com/c/BrianByrneFinance/playlists)                                        |
 
 |                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -86,8 +79,7 @@
 | 行为经济学 [理想派](https://www.youtube.com/playlist?list=PL9npAsaJ90uI1WztaodMgy3Y7gzl22HrB)                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | <p>商海通牒</p><p>Margin Call <a href="https://www.youtube.com/watch?v=HxWkfqXpLgI">Full Movie</a> Film 2011</p><p>交易员复盘《商海通牒》砸盘片段 margin call trading scene explained <a href="https://www.youtube.com/watch?v=gQWCxRsbx4A">夜谈会</a></p><p>【<a href="https://www.youtube.com/watch?v=cw8knIEYylc">NG</a>】來介紹一部金錢與道德你選哪個的電影《黑心交易員的告白 Margin Call》</p><p>Margin Call (2011) - Senior Partners Emergency Meeting [HD 1080p] (Re-Upload / Audio Fixed) <a href="https://www.youtube.com/watch?v=Hhy7JUinlu0">Extractor</a></p> |
 | 普通人如何成为资本？ 打工人永远不懂的社会的运作方式 [电流梧桐](https://www.douyin.com/video/7147197628885830952)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 经济机器是怎样运行的 (时长30分钟) Ray Dalio [Principles by Ray Dalio](https://www.youtube.com/watch?v=rFV7wdEX-Mo)                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 什么是基金？基金和股票债券的关系？一个小动画带你迅速了解其中的概念 \| [David读书科普](https://www.youtube.com/watch?v=dAXVdeiz50o)                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 特許金融分析師（CFA，Chartered Financial Analyst）
 
