@@ -720,6 +720,7 @@
 | Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
 | python按键基础，用python调用windows api来实现简单的桌面按键功能 [米斯特姚](https://www.youtube.com/watch?v=0Jzpk1JgDMA)                                                                     |
 | 机器人流程自动化RPA [阿里云](https://help.aliyun.com/product/55838.html)                                                                                                       |
+| Botting [Kian Brose](https://www.youtube.com/playlist?list=PLRD-QLdVZ6tDzMl1Uou7IrManAtZO-ldr)                                                                      |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

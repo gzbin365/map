@@ -10,8 +10,6 @@
 |                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Course \| The Civil War and Reconstruction Era, 1845-1877 [Aaron Maher](https://www.youtube.com/playlist?list=PLDl9\_LuL-uw5DOPT3wd-fcWfv5xXTVz\_s) |
-| 国家博物馆的十大镇馆之宝，都是禁止出国展览的文物，大饱眼福【[行走世界的北京老刘](https://www.youtube.com/watch?v=0FpryMxwBq8)】                                                             |
-| 大英博物馆的五件逆天文物，三件来自中国，文物背后隐藏的不为人知的故事 \[[脑洞乌托邦](https://www.youtube.com/watch?v=B2LOHeARUzM) \| 小乌 \| Xiaowu]                                          |
 
 ## 收藏
 
