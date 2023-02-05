@@ -171,7 +171,6 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Getting Sorted & Big O Notation - [Computerphile](https://www.youtube.com/watch?v=kgBjXUE\_Nwc)                                                       |
 | Learn Big O Notation In 12 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)                                                  |
 | Deeply Understanding Logarithms In Time Complexities & Their Role In Computer Science [Back To Back SWE](https://www.youtube.com/watch?v=M4ubFru2O80) |
-| Sorting Visualizer with Sound (JavaScript Tutorial) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=\_AwSlHlpFuc)                             |
 |                                                                                                                                                       |
 
 ### 插入排序 Insertion Sort

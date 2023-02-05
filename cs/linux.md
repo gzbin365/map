@@ -421,7 +421,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | DevOps Courses [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A\_Ixs)                                                                                                                                                                              |
 | \[Tutorialsplanet.NET] Udemy - DevOps Tutorial Complete Beginners Training - 5 in 1 Bundle                                                                                                                                                                                            |
 | Start Using a Build System & Continuous Integration in Python \| Real Python Podcast #137 [Real Python](https://www.youtube.com/watch?v=04DIQnsVpCg)                                                                                                                                  |
-| 基于Jenkins的DevOps工程实践 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTzKkuJB2XEms\_YicVTFo4a8)                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                       |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac)                                                                                                                                                                              |
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)                                                                                                                                                                                            |
@@ -460,8 +459,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Helix Text Editor: Better than Neovim? [DevOnDuty](https://www.youtube.com/watch?v=9Zj-wiQ9\_Xw)                                                             |
 | Neovim [DevOnDuty](https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW)                                                                 |
 | I switched from VSCode to Neovim [System Coding](https://www.youtube.com/watch?v=clFR9NfObvc)                                                                |
-| NeoVim Installation & Config on Windows [NeuralNine](https://www.youtube.com/watch?v=XBlKG2LW6p4)                                                            |
-|                                                                                                                                                              |
 
 ## tmux
 

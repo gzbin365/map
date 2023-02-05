@@ -34,7 +34,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
 | 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
-| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         |                                                                                        |
+| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     |                                                                                        |                                                                                        |
 
 ### **计算机组装**
 
@@ -746,13 +746,13 @@ System on Chip, 系统级芯片
 |                                                                                         |   |   |
 |                                                                                         |   |   |
 
-## 硬盘 固态硬盘 SSD
+## 硬盘
 
-|                                                                                                                                                                      |                                                                                                                                                                   |                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                    |                                                                                                                                       |
-| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456)                                                                          |                                                                                                                                       |
-| How do SSDs Work? \| How does your Smartphone store data? \| Insanely Complex Nanoscopic Structures! [Branch Education](https://www.youtube.com/watch?v=5Mh3o886qpg) | How do SSDs Work? How to fit 3 WEEKS of TV in a microchip the size of a dime!! Explained in 3min. [Branch Education](https://www.youtube.com/watch?v=E7Up7VuFd8A) | Exploring Solid State Drives and 3D NAND [Branch Education](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j) |
+|                                                                                                  |                                                                                          |   |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | - |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)        | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                           |   |
+| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q) | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456) |   |
+|                                                                                                  |                                                                                          |   |
 
 ## NAS
 
