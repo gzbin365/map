@@ -14,6 +14,8 @@ DeepMind Made A Superhuman AI For 57 Atari Games! 🕹 [Two Minute Papers](https
 
 [**Python Flappy Bird AI Tutorial (with NEAT) - Creating the Bird**](https://www.youtube.com/watch?v=MMxFDaIOHsE)
 
+A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Tech](https://www.youtube.com/watch?v=zsGvCwaaMOI)
+
 [**How to Solve a Basic Reinforcement Learning Example | RL Hello World**](https://www.youtube.com/watch?v=psDlXfbe6ok)
 
 [**An introduction to Reinforcement Learning**](https://www.youtube.com/watch?v=JgvyzIkgxF0)

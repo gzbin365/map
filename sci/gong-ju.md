@@ -10,15 +10,15 @@
 
 
 
-|                                                                                                                                           |
+| LaTeX                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | LaTeX – A document preparation system [s](https://www.latex-project.org/)                                                                 |
 | TeXLive-full [s](https://tug.org/texlive/) 一个 LaTeX 发行版, sudo apt install texlive-full                                                    |
 | 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)                            |
 | LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                         |
-| Intro to LaTeX : Learn to write beautiful math equations　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=Jp0lPj2-DQA)                 |
-| My favorite LaTeX packages for writing beautiful math documents　[Dr. Trefor Bazett](https://www.youtube.com/watch?v=331YxgOJUGw)          |
-| How I make beautiful GRAPHS and PLOTS using LaTeX [Dr. Trefor Bazett](https://www.youtube.com/watch?v=5jmIHOWpEg0)                        |
+| LaTeX Tutorials [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)                             |
+|                                                                                                                                           |
+|                                                                                                                                           |
 |                                                                                                                                           |
 | Overleaf                                                                                                                                  |
 | 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)                       |
@@ -114,10 +114,14 @@
 | 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                       |
 | 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                    |
 | 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)              |
+| AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放视频，硬盘扩容添加开机自启动更好用 \| [零度解说](https://www.youtube.com/watch?v=12QoxeljMoY)    |
 | 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                              |
 | 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                              |
 | [filez](https://www.filez.com/)   企业网盘                                                                                         |
 | Antdownload [s](https://antdownloadmanager.com/)                                                                               |
+| 免费网盘的“耻辱榜”！限速最严重、吃相最难看的到底是谁？今天我给大家测出来了 \| [零度解说](https://www.youtube.com/watch?v=WsqitzUuKKw)                                  |
+| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
+| 真白嫖！免费申请 office E5 开发者账号，送5T私人网盘，附无限续期的教程！\| [零度解说](https://www.youtube.com/watch?v=eamiBQpzbrQ)                               |
 
 |                                |                                  |
 | ------------------------------ | -------------------------------- |

@@ -169,6 +169,7 @@
 | Learn .NET MAUI - Full Course for Beginners \| Build cross-platform apps in C# [James Montemagno](https://www.youtube.com/watch?v=DuNLR\_NJv8U)                     |
 | Build a C# .NET Application in 60 Minutes [Traversy Media](https://www.youtube.com/watch?v=GcFJjpMFJvI)                                                             |
 | What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? [Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE) |
+| Top Course - Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core [tutorialsEU](https://www.youtube.com/watch?v=DqD-NJf7-OM)                          |
 
 ## Solidity
 
@@ -341,6 +342,10 @@
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
 | JavaScript Game Development Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GFO\_txvwK\_c)                                                  |
+| Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) [Kian Brose](https://www.youtube.com/watch?v=Ot7SeZvfBA0)                      |
+| 游戏开发-GameDev [猪摸摸-Chumomo](https://www.youtube.com/playlist?list=PLZw\_3yGA6EyeozvCe-kcuBunA4atoMH8H)                                                           |
+| Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
+|                                                                                                                                                                 |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
@@ -356,6 +361,7 @@
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
+| Unreal Engine 5 – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6UlU\_FsicK8)                                                                 |
 |                                                                                                                                                                          |
 
 ## 3D Graphics Engine
@@ -714,6 +720,7 @@
 | Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
 | python按键基础，用python调用windows api来实现简单的桌面按键功能 [米斯特姚](https://www.youtube.com/watch?v=0Jzpk1JgDMA)                                                                     |
 | 机器人流程自动化RPA [阿里云](https://help.aliyun.com/product/55838.html)                                                                                                       |
+| Botting [Kian Brose](https://www.youtube.com/playlist?list=PLRD-QLdVZ6tDzMl1Uou7IrManAtZO-ldr)                                                                      |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

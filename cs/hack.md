@@ -10,6 +10,7 @@
 | 影子不会说谎 抖音号：[YZ09098](https://www.douyin.com/user/MS4wLjABAAAAIbTrGgIE8-nPuGjWkjVFT9wGph0-iEEX8nqWVncwwnQUQHJawqSE5KPCZbiQavP5) | Swapnil Srivastava [u](https://www.youtube.com/c/SwapnilSrivastavaIndia)                                                                                                                                           |
 | Guided Hacking [u](https://www.youtube.com/c/GuidedHacking)                                                                    | David Bombal [u](https://www.youtube.com/c/DavidBombal/playlists)                                                                                                                                                  |
 | Loi Liang Yang [u](https://www.youtube.com/c/LoiLiangYang/playlists)                                                           | Flashback Team [u](https://www.youtube.com/c/FlashbackTeam)                                                                                                                                                        |
+|                                                                                                                                | [Hackinthebox](https://www.hitb.org/)黑客技术信息安全咨询学习网站                                                                                                                                                                |
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,12 +60,13 @@
 | \[Tutorialsplanet.NET] Udemy - Hacking For Beginners (2021)                                                                                                                               |
 | \[Tutorialsplanet.NET] Udemy - Network Hacking Continued - Intermediate to Advanced                                                                                                       |
 | \[Tutorialsplanet.NET] Udemy - The Ultimate Dark Web, Anonymity, Privacy & Security Course                                                                                                |
-|                                                                                                                                                                                           |
+| Game Hacking 200 Series - Game Hacking Shenanigans [Guided Hacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFKVpM1mJoz2yBMVMjl\_f5F)                                            |
 
 |                                                                                           |
 | ----------------------------------------------------------------------------------------- |
 | 15年前，盗走马化腾QQ的16岁黑客，如今怎么样了？[人性洞察室](https://www.youtube.com/watch?v=fycEmKmbqng)            |
 | How I survived a DDoS attack [Jeff Geerling](https://www.youtube.com/watch?v=VPcYMgTYQs0) |
+| 短信轰炸！手机监听，是怎么做到的？当你遇到这些情况该怎么办？ \| [零度解说](https://www.youtube.com/watch?v=NKIydLLjFAA)     |
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
