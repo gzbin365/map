@@ -61,12 +61,6 @@ Netlogo 仿真模拟　[社会物理学论坛](https://space.bilibili.com/480344
 
 病毒为何不停变异？旅行推销员问题和遗传算法 [李永乐老师](https://www.youtube.com/watch?v=iM-VKHWd\_JE)
 
-遗传算法的数学基础.[pdf](http://www.madio.net/thread-202998-1-2.html)
-
-\[代码资源] 遗传算法（python版） [数学中国](http://www.madio.net/thread-479600-1-1.html)
-
-Camouflage simulation using the Genetic Algorithm [DigitalSreeni](https://www.youtube.com/watch?v=IvRoQTXIoxM)
-
 ## 旅行商问题, TSP
 
 |                                                                                                  |
@@ -74,11 +68,3 @@ Camouflage simulation using the Genetic Algorithm [DigitalSreeni](https://www.yo
 | The Hardest Problem in Computer Science [Reducible](https://www.youtube.com/watch?v=GiDsjIBOVoA) |
 |                                                                                                  |
 |                                                                                                  |
-
-## books
-
-|                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>算法精粹 经典计算机科学问题的Python实现 <a href="https://book.douban.com/subject/35093446/">db</a></p><p>Classic Computer Science Problems in Python <a href="https://www.pdfdrive.com/classic-computer-science-problems-in-python-e184041131.html">pdf</a></p> |
-|                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                    |
