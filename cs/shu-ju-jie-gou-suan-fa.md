@@ -56,6 +56,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 【动态规划专题班】[动态规划入门](https://www.youtube.com/watch?v=j4eab7N3Hfs) Introduction to Dynamic Programming 九章算法官方频道                                                                                                                                        |
 | 动态规划[四步解题法](https://www.youtube.com/watch?v=dHeBncN-dZo)—搞定绝大多数类型动态规划题 九章算法官方频道                                                                                                                                                                    |
 | 【动态规划】一次搞定三种[背包问题](https://www.youtube.com/watch?v=AFspvwnCcK4) 九章算法官方频道                                                                                                                                                                           |
+| Knapsack Optimization with Python [APMonitor.com](https://www.youtube.com/watch?v=UB2VH9lFelY)                                                                                                                                                     |
 | 花花酱 LeetCode - 动态规划 (Dynamic Programming / DP) - 刷题找工作 [Hua Hua](https://www.youtube.com/playlist?list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr)                                                                                                         |
 | Dynamic Programming Explained (Practical Examples) [Tech With Tim](https://www.youtube.com/watch?v=Sz9yH-RDAgo)                                                                                                                                    |
 | Dynamic Programming - Level 1 [Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)                                                                                                                                |
@@ -171,6 +172,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Getting Sorted & Big O Notation - [Computerphile](https://www.youtube.com/watch?v=kgBjXUE\_Nwc)                                                       |
 | Learn Big O Notation In 12 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)                                                  |
 | Deeply Understanding Logarithms In Time Complexities & Their Role In Computer Science [Back To Back SWE](https://www.youtube.com/watch?v=M4ubFru2O80) |
+| Sorting Visualizer with Sound (JavaScript Tutorial) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=\_AwSlHlpFuc)                             |
 |                                                                                                                                                       |
 
 ### 插入排序 Insertion Sort

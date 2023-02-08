@@ -34,7 +34,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
 | 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
-| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     |                                                                                        |                                                                                        |
+| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         |                                                                                        |
 
 ### **计算机组装**
 
@@ -153,6 +153,7 @@ description: 硬件设备
 | Raspberry Pi PICO \| Starting With MicroPython + Examples \| I2C OLED, ADC, PWM [Electronoobs](https://www.youtube.com/watch?v=zlKJ5hvfs6s) |
 | The Raspberry Pi Pico WAS Overrated! But here is why that changed! [GreatScott!](https://www.youtube.com/watch?v=F0o1C7nEgw0)               |
 | Micro Controllers [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3h4HpTVO8cPPHZnJIRA4I2p)                               |
+| #219 Generating sounds 🎵 from the PICO! But is it music to my 👂 ears? [Ralph S Bacon](https://www.youtube.com/watch?v=9H6zeZcrZ7M)        |
 |                                                                                                                                             |
 
 ## Orange Pi
@@ -619,7 +620,11 @@ System on Chip, 系统级芯片
 
 ## WiFi
 
-
+|                                                                             |                                                                      |                                                                  |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 手机连接wifi自动弹窗强推的原理及其实现方案源码 [nx201866](https://zhuanlan.zhihu.com/p/35206587) | 了解赚钱WiFi [小米](http://www1.miwifi.com/act/20170905/zqwifi/index.html) | 如何看待小米推出的共享wifi模式？ [zh](https://www.zhihu.com/question/62107550) |
+|                                                                             |                                                                      |                                                                  |
+|                                                                             |                                                                      |                                                                  |
 
 ## 电视机  TV
 
@@ -746,13 +751,13 @@ System on Chip, 系统级芯片
 |                                                                                         |   |   |
 |                                                                                         |   |   |
 
-## 硬盘
+## 硬盘 固态硬盘 SSD
 
-|                                                                                                  |                                                                                          |   |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | - |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)        | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                           |   |
-| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q) | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456) |   |
-|                                                                                                  |                                                                                          |   |
+|                                                                                                                                                                      |                                                                                                                                                                   |                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                    |                                                                                                                                       |
+| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456)                                                                          |                                                                                                                                       |
+| How do SSDs Work? \| How does your Smartphone store data? \| Insanely Complex Nanoscopic Structures! [Branch Education](https://www.youtube.com/watch?v=5Mh3o886qpg) | How do SSDs Work? How to fit 3 WEEKS of TV in a microchip the size of a dime!! Explained in 3min. [Branch Education](https://www.youtube.com/watch?v=E7Up7VuFd8A) | Exploring Solid State Drives and 3D NAND [Branch Education](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j) |
 
 ## NAS
 
@@ -879,26 +884,35 @@ direct-attached storage
 | 500M  | 62.5MB/s |
 | 1000M | 128MB/s  |
 
-## 路由器 软路由
+## 路由器 软路由 多网口迷你电脑
 
-|                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)                                                             |
-| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                         |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                      |
-| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                              |
-| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                             |
-| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                     |
-| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                |
-| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                        |
-| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)             |
-| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                    |
-| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                  |
-| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                              |
-| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                  |
-| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                               |
-| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278) |
-|                                                                                                                                                             |
+|                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)   jack stone [u](https://www.youtube.com/@jackstone)   向北 [u](https://www.youtube.com/@xiangbei)    |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                 |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                              |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                      |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                                                                     |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                                                             |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                                                        |
+| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                                                                |
+| 【手摸手教学】别再用机顶盒跑HomeAssistant了，快一起入坑X86，让C佬手摸手教你在OpenWrt中运行HomeAssistant。 [Chan的智能家居折腾之路](https://www.youtube.com/watch?v=nzhjz\_Ds9rU)                                                               |
+| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)                                                     |
+| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                                                            |
+| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                                                          |
+| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                                                                      |
+| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                                                          |
+| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                                                                       |
+| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                         |
+| 小米ax3000                                                                                                                                                                                            |
+
+## mesh wifi
+
+|                                                                                                                |   |   |
+| -------------------------------------------------------------------------------------------------------------- | - | - |
+| 要不要來我家看路由器？45 坪老公寓升級 Mesh Wi-Fi TOTOLINK X18 網狀路由器 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=5AtT6L3UZfM) |   |   |
+|                                                                                                                |   |   |
+|                                                                                                                |   |   |
 
 ## 交换机
 
@@ -965,6 +979,7 @@ direct-attached storage
 | I Built a Military Robot from Scratch! [Engineering Juice](https://www.youtube.com/watch?v=5bgXjKqfwAk)                                                   |
 | AMAZING ROBOTIC ANIMALS YOU MUST SEE! [TechZone](https://www.youtube.com/watch?v=ZSNwrIQiod4)                                                             |
 | How to start making AUTONOMOUS ROBOT with the ATTLER [stepbystep-robotics](https://www.youtube.com/watch?v=jlrUUotkIlk)                                   |
+| 《时尚科技秀》 20230203 智能力控机器人\|[CCTV科教](https://www.youtube.com/watch?v=5Wpr7BrEXVY)                                                                           |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |

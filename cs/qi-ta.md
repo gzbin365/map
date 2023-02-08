@@ -169,6 +169,7 @@
 | Learn .NET MAUI - Full Course for Beginners \| Build cross-platform apps in C# [James Montemagno](https://www.youtube.com/watch?v=DuNLR\_NJv8U)                     |
 | Build a C# .NET Application in 60 Minutes [Traversy Media](https://www.youtube.com/watch?v=GcFJjpMFJvI)                                                             |
 | What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? [Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE) |
+| Top Course - Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core [tutorialsEU](https://www.youtube.com/watch?v=DqD-NJf7-OM)                          |
 
 ## Solidity
 
@@ -286,8 +287,9 @@
 | Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 |                                                                                                                 | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
 
-| Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
+| Matchmaking System For Games in Python [NeuralNine](https://www.youtube.com/watch?v=\_08lsRxqnm4)                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chrome Dinosaur in Pygame [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)                                               |
 | Flappy Bird Tutorial [Code Bucket](https://www.youtube.com/playlist?list=PL30AETbxgR-eKyAh8xeJORGP2PdRH86hS)                                                    |
 | Game Engine series [Cherno Unplugged](https://www.youtube.com/c/ChernoUnplugged)                                                                                |
 | Pokete - Playing Pokémon From The Command Line [Mental Outlaw](https://www.youtube.com/watch?v=iN3G9YsWGks) [git](https://github.com/lxgr-linux/pokete)         |
@@ -341,6 +343,10 @@
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
 | JavaScript Game Development Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GFO\_txvwK\_c)                                                  |
+| Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) [Kian Brose](https://www.youtube.com/watch?v=Ot7SeZvfBA0)                      |
+| 游戏开发-GameDev [猪摸摸-Chumomo](https://www.youtube.com/playlist?list=PLZw\_3yGA6EyeozvCe-kcuBunA4atoMH8H)                                                           |
+| Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
+|                                                                                                                                                                 |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
@@ -352,10 +358,11 @@
 | Now Games Can Look Like Pixar Movies - Unreal Engine 5 [ColdFusion](https://www.youtube.com/watch?v=47I2N\_l47mw)                                                        |
 | Next-Gen Graphics FINALLY Arrive \[Unreal Engine 5] [ColdFusion](https://www.youtube.com/watch?v=gry36cT3TdI)                                                            |
 | Unreal Engine & C++ Tutorial - 1st Person Shooter Game [freeCodeCamp](https://www.youtube.com/watch?v=4HoJIgyclZ4)                                                       |
-| Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)                                                                                                                |
+| Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)   JSFILMZ [u](https://www.youtube.com/@Jsfilmz)                                                                |
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
+| Unreal Engine 5 – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6UlU\_FsicK8)                                                                 |
 |                                                                                                                                                                          |
 
 ## 3D Graphics Engine
@@ -550,6 +557,7 @@
 | FAANG System Design Interview: Design A Location Based Service (Yelp, Google Places) [ByteByteGo](https://www.youtube.com/watch?v=M4lR\_Va97cQ) |
 | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                            |
 | 负载均衡 Load balancing [wiki](https://en.wikipedia.org/wiki/Load\_balancing\_\(computing\))                                                        |
+| Coding Complex App Logic, Visually [Coding Tech](https://www.youtube.com/watch?v=wgWwJSnhgDU)                                                   |
 
 ## 低代码 白码 Low-Code NoCode
 
@@ -714,6 +722,7 @@
 | Auto Clicker Bot in Python [NeuralNine](https://www.youtube.com/watch?v=4hdK9Gey76E)                                                                                |
 | python按键基础，用python调用windows api来实现简单的桌面按键功能 [米斯特姚](https://www.youtube.com/watch?v=0Jzpk1JgDMA)                                                                     |
 | 机器人流程自动化RPA [阿里云](https://help.aliyun.com/product/55838.html)                                                                                                       |
+| Botting [Kian Brose](https://www.youtube.com/playlist?list=PLRD-QLdVZ6tDzMl1Uou7IrManAtZO-ldr)                                                                      |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

@@ -4,6 +4,7 @@
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)            |
 | 小帅同学Js [u](https://www.youtube.com/channel/UCYOPGlIOwGdmL-IBuCZLu9A)        | 宅智家 [u](https://www.youtube.com/c/%E5%AE%85%E6%99%BA%E5%AE%B6) Home Assistant |
+| Chan的智能家居折腾之路 [u](https://www.youtube.com/@Chan.Y/videos)                   |                                                                               |
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

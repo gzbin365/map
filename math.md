@@ -1074,6 +1074,7 @@ $$
 | \[TA 補充課] Optimization for Deep Learning (1/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=4pUmZ8hXlHM)                              |
 | \[TA 補充課] Optimization for Deep Learning (2/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=e03YKGHXnL8)                              |
 | 數學在試題分析上的應用 (最佳化) [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQVP25eoHgM2Fx-UQGG5v2W)                                                   |
+| Optimization Techniques in Engineering [APMonitor.com](https://www.youtube.com/playlist?list=PLLBUgWXdTBDjVLQVMnT80y6m\_97XNhBZv)                   |
 |                                                                                                                                                     |
 
 ### 凸优化 Convex Optimization
@@ -1180,6 +1181,8 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | 【10210許世壁教授：常微分方程一】[NTHUOCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwwCdIOiTo-8DYfMlhP2ooh)                                                                                                                                                         |
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
 | Ordinary Differential Equations [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2A4QPqYXA-Fj1siYgTXexNz)                                                                                                                                      |
+| Solve ODEs in Excel and Python [APMonitor.com](https://www.youtube.com/watch?v=7TbwDrZ3kAg)                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                |
 
 ### 随机微分方程
