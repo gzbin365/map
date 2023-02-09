@@ -1151,6 +1151,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 各種奇葩的元學習 (Meta Learning) 用法 [Hung-yi Lee](https://www.youtube.com/watch?v=QNfymMRUg3M)                                                                      |
 | 【機器學習2021】元學習 Meta Learning (一) - 元學習跟機器學習一樣也是三個步驟 [Hung-yi Lee](https://www.youtube.com/watch?v=xoastiYx9JU)                                               |
 | 【機器學習2021】元學習 Meta Learning (二) - 萬物皆可 Meta [Hung-yi Lee](https://www.youtube.com/watch?v=Q68Eh-wm1Ts)                                                      |
+| Few Shot Learning - EXPLAINED! [CodeEmporium](https://www.youtube.com/watch?v=VqPmrYFvKf8)                                                                  |
 
 ### 注意力
 
@@ -1622,7 +1623,7 @@ ESL
 | ml-tooling/[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)   项目包括：机器学习框架、数据可视化、图像、NLP和文本、图、金融领域、时间序列等等，内容非常全                                                                                                                                                                                                  |
 | 7 FREE A.I. tools for YOU today! (plus 1 bonus!) [Artificial Intelligence and Blockchain](https://www.youtube.com/watch?v=Q4fXbkR6TZ8)                                                                                                                                                                                             |
 | The Age of A.I. [YouTube Originals](https://www.youtube.com/playlist?list=PLjq6DwYksrzz\_fsWIpPcf6V7p2RNAneKc)                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                                                    |
+| The History of Artificial Intelligence \[Documentary] Futurology — [An Optimistic Future](https://www.youtube.com/watch?v=R3YFxF0n8n8)                                                                                                                                                                                             |
 
 <details>
 
@@ -1701,6 +1702,10 @@ Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning | [Lex Fridman
 Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | [Lex Fridman](https://www.youtube.com/watch?v=SGzMElJ11Cc) Podcast #258
 
 Yann LeCun Lecture 8/8 Unsupervised Learning [trwappers](https://www.youtube.com/watch?v=RftTFBmOrrY)
+
+John Carmack will Develop True Artificial Intelligence. Here is Why [Machine Learning with Phil](https://www.youtube.com/watch?v=pO12IBgn7HU)
+
+Is ChatGPT A Step Toward Human-Level AI? — With Yann LeCun, Meta Chief AI Scientist [Alex Kantrowitz](https://www.youtube.com/watch?v=ULbpPHjiSBg)
 
 </details>
 

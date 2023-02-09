@@ -636,7 +636,7 @@ System on Chip, 系统级芯片
 | 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
 | LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                       |
 | 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                 |
-|                                                                                                                           |
+| 看！我是如何收集这些资源的，不仅免费而且还是高清稳定的线路 \| [零度解说](https://www.youtube.com/watch?v=3C1Bzp-A4Ek)                                      |
 
 ## 空调
 
@@ -1210,4 +1210,5 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 | 80小陈 [u](https://www.youtube.com/channel/UCgXuxCSCGyxx\_BPxZJh6uVA)                                          |                                                                      |
 | 杨长顺维修家  抖音号： [YCSWXJ](https://www.douyin.com/user/MS4wLjABAAAAa-pQgkXYPk2IIFLkUoEP5UO1t4OqkjCTwp\_y\_-Cdt9I) | 修电脑的张哥 [u](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ) |
 | 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                         | 海賊王DIY日記 [u](https://www.youtube.com/@pirate-king)                   |
+| 笔记本维修厮 [u](https://www.youtube.com/@LaptopRepairGuy)   [B](https://space.bilibili.com/382666849)             |                                                                      |
 |                                                                                                              |                                                                      |
