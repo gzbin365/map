@@ -6,7 +6,7 @@
 | Art [Coursera](https://www.youtube.com/playlist?list=PLVext98k2evi5NpfMuaayyFPi6kX7AUpr)              |
 | 瞬间所有制　[明星觀察員](https://www.youtube.com/watch?v=ZSUfyymafhM)                                            |
 | 艺术的星空 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9zExSAjmh-R6S9OYGTH6tf8) |
-| 意公子 [u](https://www.youtube.com/@EYart-yigongzi/playlists)                                            |
+|                                                                                                       |
 |                                                                                                       |
 |                                                                                                       |
 |                                                                                                       |

@@ -906,6 +906,14 @@ direct-attached storage
 | [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                         |
 | 小米ax3000                                                                                                                                                                                            |
 
+## Merlin
+
+|                                                                                                         |   |   |
+| ------------------------------------------------------------------------------------------------------- | - | - |
+| 老李‘s精分自留地 [u](https://www.youtube.com/@FantasticLee)   [v](https://www.youtube.com/watch?v=iROuoHGSIMA) |   |   |
+|                                                                                                         |   |   |
+|                                                                                                         |   |   |
+
 ## mesh wifi
 
 |                                                                                                                |   |   |
