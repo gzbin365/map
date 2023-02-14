@@ -1437,7 +1437,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
 | Stable Diffusion Online [s](https://stablediffusionweb.com/)                                                | CompVis/[stable-diffusion](https://github.com/CompVis/stable-diffusion) |   |
 | AI Art with Stable Diffusion (Women of the World) [deeplizard](https://www.youtube.com/watch?v=0ToXPFepgx4) |                                                                         |   |
-|                                                                                                             |                                                                         |   |
+| 为什么AI画画能既离谱又烧钱啊？？ [量子位](https://www.youtube.com/watch?v=UBN95hQSlE4)                                        |                                                                         |   |
 
 ## 基础模型 Foundation Models
 
