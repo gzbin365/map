@@ -11,7 +11,6 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | Fundamentals of GPU Architecture [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4) |
 | volumeshader 毒蘑菇测试 [s](https://cznull.github.io/vsbm) [v](https://www.bilibili.com/video/BV1V7411L7P6)                        |
 | 集成显卡和核心显卡是一个东西嘛 [90后科技说](https://www.douyin.com/video/7152454149454482724)                                                    |
-| 黄仁勋为什么能吃到GPU的每一波，cpu与gpu到底有什么区别？GPU时代终结了吗？ [基地](https://www.youtube.com/watch?v=OzPACosEsu0)                                  |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
 
@@ -23,14 +22,12 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ## eGPU
 
-|                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                                               |
-| ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j)                      |
-| RTX 4090 Gaming Laptop 🤯 eGPU Comparison with Desktop! [Jarrod'sTech](https://www.youtube.com/watch?v=NlYHPj-0DTE)                         |
-| External GPU for 3D and Architecture Work - Razer Core X Chroma & Nvidia RTX 3080 [Joseph Kim](https://www.youtube.com/watch?v=UyvjbzfSHXA) |
-| 这台迷你主机居然自带显卡扩展坞？附送超频三GI-K750电源拆解评测【开箱翼闻录 第47期】 [翼王](https://www.youtube.com/watch?v=KDx0U5WjfE8)                                            |
-|                                                                                                                                             |
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                          |
+| ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j) |
+| RTX 4090 Gaming Laptop 🤯 eGPU Comparison with Desktop! [Jarrod'sTech](https://www.youtube.com/watch?v=NlYHPj-0DTE)    |
+|                                                                                                                        |
 
 ## **CUDA**
 
@@ -42,7 +39,6 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |
 | NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)          |
 | Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)       |
-| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)   |
 
 ## 虚拟化vGPU
 
@@ -51,7 +47,6 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 |                                                                                        |        |
 | -------------------------------------------------------------------------------------- | ------ |
 | 【全网首发】家用显卡虚拟化vGPU，微软Hyper-V独有免费功能 [账户未命名](https://www.youtube.com/watch?v=lUGaH7WMNBQ) | GPU 分区 |
-|                                                                                        |        |
 
 ## AMD
 

@@ -886,36 +886,25 @@ direct-attached storage
 
 ## 路由器 软路由 多网口迷你电脑
 
-|                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)   jack stone [u](https://www.youtube.com/@jackstone)   向北 [u](https://www.youtube.com/@xiangbei)   卡卡的鼓捣日记 [u](https://www.youtube.com/@kaka\_58)    |
-| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                                                                  |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                                                                               |
-| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                                                                       |
-| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                                                                                                                      |
-| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                                                                                                              |
-| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                                                                                                         |
-| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                                                                                                                 |
-| 【手摸手教学】别再用机顶盒跑HomeAssistant了，快一起入坑X86，让C佬手摸手教你在OpenWrt中运行HomeAssistant。 [Chan的智能家居折腾之路](https://www.youtube.com/watch?v=nzhjz\_Ds9rU)                                                                                                                |
-| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)                                                                                                      |
-| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                                                                                                             |
-| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                                                                                                           |
-| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                                                                                                                       |
-| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                                                                                                           |
-| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                                                                                                                        |
-| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                                                                          |
-| 小米ax3000                                                                                                                                                                                                                                             |
-| 小米AX9000高端功能及性能评测 [卡卡的鼓捣日记](https://www.youtube.com/watch?v=47uP9cYkqmI)                                                                                                                                                                             |
-| 小米 AX9000 解锁 SSH 安装 ShellClash 教程｜地表最强的硬路由(打开字幕) [酱紫表](https://www.youtube.com/watch?v=L\_F9cT8soPI)                                                                                                                                                 |
-|                                                                                                                                                                                                                                                      |
-
-## Merlin
-
-|                                                                                                         |   |   |
-| ------------------------------------------------------------------------------------------------------- | - | - |
-| 老李‘s精分自留地 [u](https://www.youtube.com/@FantasticLee)   [v](https://www.youtube.com/watch?v=iROuoHGSIMA) |   |   |
-|                                                                                                         |   |   |
-|                                                                                                         |   |   |
+|                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)   jack stone [u](https://www.youtube.com/@jackstone)   向北 [u](https://www.youtube.com/@xiangbei)    |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                 |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                              |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                      |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                                                                     |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                                                             |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                                                        |
+| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                                                                |
+| 【手摸手教学】别再用机顶盒跑HomeAssistant了，快一起入坑X86，让C佬手摸手教你在OpenWrt中运行HomeAssistant。 [Chan的智能家居折腾之路](https://www.youtube.com/watch?v=nzhjz\_Ds9rU)                                                               |
+| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)                                                     |
+| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                                                            |
+| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                                                          |
+| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                                                                      |
+| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                                                          |
+| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                                                                       |
+| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                         |
+| 小米ax3000                                                                                                                                                                                            |
 
 ## mesh wifi
 
