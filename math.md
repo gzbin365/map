@@ -1446,7 +1446,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | hashcat [s](https://hashcat.net/hashcat/) [git](https://github.com/hashcat/hashcat)                                                                                              |
 | [破解Excel的密码](https://www.youtube.com/watch?v=JaGJHdY8fzI) [破解压缩包密码](https://www.youtube.com/watch?v=ifrpYn\_Gm54) [获取 Wi-Fi密码](https://www.youtube.com/watch?v=t9CGy7RScss) 零度解说 |
 | Aircrack-ng [v](https://www.youtube.com/watch?v=RcQciiFwy8A)                                                                                                                     |
-|                                                                                                                                                                                  |
+| How to hack Wi-Fi networks ( Educational ) [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                             |
 
 ## 计算机科学 Computer Science
 
