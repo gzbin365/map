@@ -339,7 +339,6 @@
 | Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                      |
 | Python Online Multiplayer Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=McoDjOCb2Zo)                                                 |
 | How I Made a Multiplayer Game in Pygame [ScriptLine Studios](https://www.youtube.com/watch?v=AkvYfwRFS7E)                                                       |
-| Multiplayer Cheating, explained [Kian Brose](https://www.youtube.com/watch?v=k\_VV\_nceRE0)                                                                     |
 | Code a 2D Game Engine using Java [freeCodeCamp](https://www.youtube.com/watch?v=025QFeZfeyM)                                                                    |
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
@@ -632,11 +631,11 @@
 
 ### Windows XP
 
-|                                                                          |                                           |   |
-| ------------------------------------------------------------------------ | ----------------------------------------- | - |
-| 2022年正常使用windows XP之四：常用软件篇 [zh](https://zhuanlan.zhihu.com/p/348144558) | 系统之家官网 [s](https://www.xitongzhijia.net/) |   |
-|                                                                          |                                           |   |
-|                                                                          |                                           |   |
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ### Windows 7
 
