@@ -1432,12 +1432,13 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Google's Prompt-to-Prompt: Diffusion Image Editing [sentdex](https://www.youtube.com/watch?v=RtIRE4Kf5SU)                                                                                                                                                                                             |
 | Diffusion Model 수학이 포함된 tutorial [디퓨전영상올려야지](https://www.youtube.com/watch?v=uFoGaIVHfoE)                                                                                                                                                                                                             |
 | Stable Diffusion in Code (AI Image Generation) - [Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)                                                                                                                                                                                         |
+| AI换脸，AI去马赛克是如何实现的？初识人工智能大火算法-扩散模型 [基地](https://www.youtube.com/watch?v=LQhc6htX0YM)                                                                                                                                                                                                                   |
 
 | Stable Diffusion                                                                                            |                                                                         |   |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
 | Stable Diffusion Online [s](https://stablediffusionweb.com/)                                                | CompVis/[stable-diffusion](https://github.com/CompVis/stable-diffusion) |   |
 | AI Art with Stable Diffusion (Women of the World) [deeplizard](https://www.youtube.com/watch?v=0ToXPFepgx4) |                                                                         |   |
-|                                                                                                             |                                                                         |   |
+| 为什么AI画画能既离谱又烧钱啊？？ [量子位](https://www.youtube.com/watch?v=UBN95hQSlE4)                                        |                                                                         |   |
 
 ## 基础模型 Foundation Models
 

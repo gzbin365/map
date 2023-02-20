@@ -339,6 +339,7 @@
 | Pygame Tutorial for Beginners - Python Game Development Course [freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)                                      |
 | Python Online Multiplayer Game Development Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=McoDjOCb2Zo)                                                 |
 | How I Made a Multiplayer Game in Pygame [ScriptLine Studios](https://www.youtube.com/watch?v=AkvYfwRFS7E)                                                       |
+| Multiplayer Cheating, explained [Kian Brose](https://www.youtube.com/watch?v=k\_VV\_nceRE0)                                                                     |
 | Code a 2D Game Engine using Java [freeCodeCamp](https://www.youtube.com/watch?v=025QFeZfeyM)                                                                    |
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
@@ -359,6 +360,7 @@
 | Next-Gen Graphics FINALLY Arrive \[Unreal Engine 5] [ColdFusion](https://www.youtube.com/watch?v=gry36cT3TdI)                                                            |
 | Unreal Engine & C++ Tutorial - 1st Person Shooter Game [freeCodeCamp](https://www.youtube.com/watch?v=4HoJIgyclZ4)                                                       |
 | Unreal Sensei [u](https://www.youtube.com/c/UnrealSensei)   JSFILMZ [u](https://www.youtube.com/@Jsfilmz)                                                                |
+| Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022 [Unreal Sensei](https://www.youtube.com/watch?v=k-zMkzmduqI) 5:00:00                                         |
 | 谌嘉诚(Chen Jiacheng) [u](https://www.youtube.com/c/%E8%B0%8C%E5%98%89%E8%AF%9AChenJiacheng) 教[程](https://www.youtube.com/playlist?list=PL6LrXtl8EDsL46R92X7XglN9Wj5m76gcF) |
 | MetaHuman Creator: High-Fidelity Digital Humans Made Easy \| [Unreal Engine](https://www.youtube.com/watch?v=S3F1vZYpH8c)                                                |
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
@@ -631,11 +633,11 @@
 
 ### Windows XP
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|                                                                          |                                           |   |
+| ------------------------------------------------------------------------ | ----------------------------------------- | - |
+| 2022年正常使用windows XP之四：常用软件篇 [zh](https://zhuanlan.zhihu.com/p/348144558) | 系统之家官网 [s](https://www.xitongzhijia.net/) |   |
+|                                                                          |                                           |   |
+|                                                                          |                                           |   |
 
 ### Windows 7
 
