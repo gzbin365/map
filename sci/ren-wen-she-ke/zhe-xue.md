@@ -5,6 +5,10 @@
 | 思想道德修养与法律基础 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyixmqoppuvNpQQoc6JgGi9)         |
 | 中国近现代史纲要\_北京大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDxpoMwnisy3nAC\_B8ZmpuuP)     |
 | 毛泽东思想和中国特色社会主义理论体系 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzZ3J9SGcGAlXfW5om\_sF-w) |
+| 《中国哲学简史 》：一代哲学大师带你领略中国哲学的博大精深 [听见书声](https://www.youtube.com/watch?v=6uA7WpNTvlY)                      |
+| 杨立华教授解读王阳明 [澄素山房主人](https://www.youtube.com/watch?v=FaCk71\_q4O0)                                      |
+|                                                                                                        |
+|                                                                                                        |
 
 |                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -33,7 +37,7 @@
 | 林欣浩　抖音号： [77784647154](https://www.douyin.com/user/MS4wLjABAAAAEoqdv9k1VmC6SUUiJP3WQC9TyMD5rJcN-UP6GndRWek0GZEIQaD0G2NBIng9b2KL)                                                                                                                                                                                                                             |
 | 是刘雨阳　抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW)                                                                                                                                                                                                                             |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)                                                                                                                                                                                                                                     |
-| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)                                                                                                                                                                                                                                                                                                 |
+| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)   大问题Dialectic [u](https://www.youtube.com/@dialectic7667)                                                                                                                                                                                                                                      |
 | 罗永浩演讲集 [Speech](https://www.youtube.com/playlist?list=PLzRiKnAQLCF\_Sn1PQM7oHAqiLhvG2fWZ4)                                                                                                                                                                                                                                                                   |
 | 说道儿-易先森 抖音号： [Eason.young](https://www.douyin.com/user/MS4wLjABAAAA76wQCegTXNQFz5ru9gbSWYhlAK73KrGwreymlqHAijc)                                                                                                                                                                                                                                              |
 
@@ -124,4 +128,5 @@ Nietzsche : L'oeuvre philosophique expliquée (Un cours particulier de [Luc Ferr
 | 镰刀锤子 [v](https://www.douyin.com/video/7110142886057938212) [v](https://www.douyin.com/video/7083812775654427916) [v](https://www.douyin.com/video/7083723256548642080) |
 | 复旦大学公开课：《共产党宣言》导读（张双利教授） [Jegvar](https://www.bilibili.com/video/BV11t411C7Lk/)                                                                                        |
 | 共产党宣言 [12371](https://www.12371.cn/special/gcdxy/)  [s](https://news.12371.cn/2018/04/24/ARTI1524553638408468.shtml#1872dwbxy)                                         |
+| 中国共产党纪律处分条例（全文）[共产党员网](https://www.12371.cn/2018/08/27/ARTI1535321642505383.shtml)                                                                                     |
 
