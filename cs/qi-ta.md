@@ -347,7 +347,7 @@
 | Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) [Kian Brose](https://www.youtube.com/watch?v=Ot7SeZvfBA0)                      |
 | 游戏开发-GameDev [猪摸摸-Chumomo](https://www.youtube.com/playlist?list=PLZw\_3yGA6EyeozvCe-kcuBunA4atoMH8H)                                                           |
 | Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
-|                                                                                                                                                                 |
+| Shell Based FPS Kris [Occhipinti](https://www.youtube.com/watch?v=AXJsXwT6mpA)                                                                                  |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine

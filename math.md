@@ -115,11 +115,11 @@ The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://ww
 
 MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel/UCNuB-vNeYDoDLuIZ4lLWeLw)
 
-|                                                                                               |                                                                                                                |   |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | - |
-| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                          |                                                                                                                |   |
-| MATLAB Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=7f50sQYjNRA) | MATLAB Tutorials [Joseph Delgadillo](https://www.youtube.com/playlist?list=PLYmlEoSHldN4GZ6SrT1ckBTzAwpTFdshr) |   |
-|                                                                                               |                                                                                                                |   |
+|                                                                                               |   |   |
+| --------------------------------------------------------------------------------------------- | - | - |
+| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                          |   |   |
+| MATLAB Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=7f50sQYjNRA) |   |   |
+|                                                                                               |   |   |
 
 
 
@@ -1446,7 +1446,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | hashcat [s](https://hashcat.net/hashcat/) [git](https://github.com/hashcat/hashcat)                                                                                              |
 | [破解Excel的密码](https://www.youtube.com/watch?v=JaGJHdY8fzI) [破解压缩包密码](https://www.youtube.com/watch?v=ifrpYn\_Gm54) [获取 Wi-Fi密码](https://www.youtube.com/watch?v=t9CGy7RScss) 零度解说 |
 | Aircrack-ng [v](https://www.youtube.com/watch?v=RcQciiFwy8A)                                                                                                                     |
-| How to hack Wi-Fi networks ( Educational ) [Kian Brose](https://www.youtube.com/watch?v=YB9kbVfNZjA)                                                                             |
+|                                                                                                                                                                                  |
 
 ## 计算机科学 Computer Science
 

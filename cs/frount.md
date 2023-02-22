@@ -418,7 +418,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | Responsive Sidebar Menu in HTML CSS & JavaScript \| Dark/Light Mode [CodingLab](https://www.youtube.com/watch?v=bFvfqUMjvsA)                                                                 |
 | Multi Step Progress Bar in HTML CSS & JavaScript [CodingLab](https://www.youtube.com/watch?v=xzaJGUtaWa0)                                                                                    |
 | JavaScript Programming Tutorial for Beginners [Telusko](https://www.youtube.com/watch?v=IC5vBKc21X8)                                                                                         |
-|                                                                                                                                                                                              |
+| Build and Deploy Your Own ChatGPT AI App in JavaScript \| OpenAI, Machine Learning [JavaScript Mastery](https://www.youtube.com/watch?v=2FeymQoKvrk)                                         |
 
 ### TypeScript
 
