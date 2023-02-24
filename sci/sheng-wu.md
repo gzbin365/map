@@ -25,6 +25,7 @@ description: 好好睡觉 好好干饭
 | 中国科学家用CO₂人工合成淀粉！原理是什么？能得诺贝尔奖吗？ [李永乐老师](https://www.youtube.com/watch?v=0i8tqtudhZQ)                                                                     |
 | Origins of Life [Complexity Explorer](https://www.youtube.com/playlist?list=PLF0b3ThojznS5m3hcoV\_JIcsYJiQ7L2\_R)                                       |
 | Using math to decode biology’s programming language [NanoRooms](https://www.youtube.com/watch?v=kbJxl7HU480)                                            |
+| Mathematical Biology [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2ARveVNd\_vhcErk2mRdz6lD)                                         |
 
 ### 基因
 
@@ -36,11 +37,11 @@ description: 好好睡觉 好好干饭
 
 ### 脑科学 脑神经科学
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| 🧠 Neuroscience [Charlotte Fraza](https://www.youtube.com/playlist?list=PLrkJbc1rz5fZOE87k17hgfp3ZEBATBdDi) |
-| 人脑神经网络的那些bug们 [技术喵](https://www.youtube.com/watch?v=trpBt6Kj8Z4)                                            |
-|                                                                                                             |
+|                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 Neuroscience [Charlotte Fraza](https://www.youtube.com/playlist?list=PLrkJbc1rz5fZOE87k17hgfp3ZEBATBdDi)                           |
+| 人脑神经网络的那些bug们 [技术喵](https://www.youtube.com/watch?v=trpBt6Kj8Z4)                                                                      |
+| MIT 9.13 The Human Brain, Spring 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN\_pFptIBxeiMc0MCJP) |
 
 ### 植物
 
@@ -57,6 +58,15 @@ description: 好好睡觉 好好干饭
 |                                                                                                                                      | 爬仙阁 抖音号：[reptilepalace](https://www.douyin.com/user/MS4wLjABAAAABQAZ3gMctHb1CX\_-K1qvW3ns0067SbtKolB7HhyOQZk) | 大船小海 抖音号：[LYB8220](https://www.douyin.com/user/MS4wLjABAAAAwZDwM-0h\_mR6mqXo\_TkySLPvMeHYGopSA819JlKActg)                      |
 | 爬行天下动物科普 抖音号：[Pxtx2002](https://www.douyin.com/user/MS4wLjABAAAAgoVN2ITUT\_PtLnpKocS4Mz0mqDopKvKsppTraF50khs)                        | 博林讲动物 抖音号：[bl950513](https://www.douyin.com/user/MS4wLjABAAAAfFogTENxTLF0v0jds52CimFs2NYwvpwa9D-6AcSJ\_nQ)    | 阿福动物世界 抖音号：[dwdsj66](https://www.douyin.com/user/MS4wLjABAAAA2cL6Hi3Em4HUQ-gtgjFBHAYW2Zfdim7BF5Fvp5EN5KMoKn2c-LgTORfPhdAlurZQ) |
 | 中国国家地理探索 抖音号：[cngexplore](https://www.douyin.com/user/MS4wLjABAAAAzk9SI\_JMpz5wBSnhXObAODxMmosqfdsOF1XzdwlXXjmoyAHKlT0QAhz6ZAIiIK6K) | Heart Music [u](https://www.youtube.com/channel/UCxKltFsfYsyq6BWQ9evYhTw)                                     | Scenic Relaxation [u](https://www.youtube.com/c/ScenicRelaxationFilms)                                                         |
+| 4K Gently Peaceful [u](https://www.youtube.com/@4KGentlyPeaceful)                                                                    |                                                                                                               |                                                                                                                                |
+
+### 昆虫
+
+|                                                                                            |                                                                                              |   |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | - |
+| 【法布爾昆蟲記】 [科普新視界](https://www.youtube.com/playlist?list=PLusCirAamNzG1V5YeAQfsKqCfdqBi0UrB) | 法布爾昆蟲記全十集 [科技大觀園](https://www.youtube.com/playlist?list=PLBuQVUs7G\_zhpwuwVuZXbKTdWMtnmuhCS) |   |
+|                                                                                            |                                                                                              |   |
+|                                                                                            |                                                                                              |   |
 
 ### 宠物
 
