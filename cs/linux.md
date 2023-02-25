@@ -139,7 +139,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | LinuxCast IT播客 [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafIBu-W-QI163AoCpla5NGPww)                                                                                                                      |
 | LinuxCast [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafICYrx7zhFu\_RWHRZqpB8fIW)                                                                                                                          |
 | Linux File System/Structure Explained! [DorianDotSlash](https://www.youtube.com/watch?v=HbgzrKJvDRw)                                                                                                                                 |
-| Introduction to Linux – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8)                                                                                                                        |
 |                                                                                                                                                                                                                                      |
 
 |                                                                                                                      |
@@ -333,8 +332,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | docker搭建一款开源轻量化的网页版便签备忘录 [有云转晴](https://www.youtube.com/watch?v=AkEdBYwP4fk)                                                                                                                                                             |
 | <p>Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course) <a href="https://www.youtube.com/watch?v=f4idgaq2VqA">freeCodeCamp</a><em></em></p><p><em></em></p><p><em>Jenkins是</em>一个开源的、提供友好操作界面的持续集成(CI)工具</p> |
 | Docker [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B571llfq1pW0UDYFYVGveJz)                                                                                                                                    |
-| How to create a great dev environment with Docker [Patrick Loeber](https://www.youtube.com/watch?v=0H2miBK\_gAk)                                                                                                                         |
-|                                                                                                                                                                                                                                          |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -424,7 +421,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | DevOps Courses [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A\_Ixs)                                                                                                                                                                              |
 | \[Tutorialsplanet.NET] Udemy - DevOps Tutorial Complete Beginners Training - 5 in 1 Bundle                                                                                                                                                                                            |
 | Start Using a Build System & Continuous Integration in Python \| Real Python Podcast #137 [Real Python](https://www.youtube.com/watch?v=04DIQnsVpCg)                                                                                                                                  |
-| 基于Jenkins的DevOps工程实践 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTzKkuJB2XEms\_YicVTFo4a8)                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                       |
 | 什么是基础架构即代码（IaC）？[redhat](https://www.redhat.com/zh/topics/automation/what-is-infrastructure-as-code-iac)                                                                                                                                                                              |
 | Infrastructure as code [wikipedia](https://en.wikipedia.org/wiki/Infrastructure\_as\_code)                                                                                                                                                                                            |
@@ -463,8 +459,6 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Helix Text Editor: Better than Neovim? [DevOnDuty](https://www.youtube.com/watch?v=9Zj-wiQ9\_Xw)                                                             |
 | Neovim [DevOnDuty](https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW)                                                                 |
 | I switched from VSCode to Neovim [System Coding](https://www.youtube.com/watch?v=clFR9NfObvc)                                                                |
-| NeoVim Installation & Config on Windows [NeuralNine](https://www.youtube.com/watch?v=XBlKG2LW6p4)                                                            |
-|                                                                                                                                                              |
 
 ## tmux
 

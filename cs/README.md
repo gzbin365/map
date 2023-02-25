@@ -307,7 +307,7 @@ International Business Machine IBM 美国国际商用机器公司
 | CupofCode 01 [u](https://www.youtube.com/channel/UCwptawgtdrxkG2kWY0OO5mQ/playlists)        | CodeParade [u](https://www.youtube.com/c/CodeParade/featured)                                                           |
 | Full Course [u](https://www.youtube.com/c/FullCourseOfficial/videos)                        | Angus Chang [u](https://www.youtube.com/channel/UC8qt16ugONSNcQKt2vgZLVQ/playlists)                                     |
 | 尚学堂 [u](https://www.youtube.com/channel/UCA6Ew\_2I6y1nJvp4meqzwjw/playlists)                | Gate Smashers [u](https://www.youtube.com/@GateSmashers)                                                                |
-| Pista Academy [u](https://www.youtube.com/@PistaAcademy) 波斯语                                | doggo dot jl [u](https://www.youtube.com/@doggodotjl/playlists)                                                         |
+|                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 |                                                                                             |                                                                                                                         |
 
@@ -399,12 +399,6 @@ Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | J
 智星云 **** [**s**](http://www.ai-galaxy.cn/)****
 
 刷题面试 [v](https://www.douyin.com/video/6993993258548366606)
-
-|                                                                                     |   |   |
-| ----------------------------------------------------------------------------------- | - | - |
-| 大流量VPS推荐！性价比高，搭建 VPN 或网站相当不错 \| [零度解说](https://www.youtube.com/watch?v=w5-a96VHtgM) |   |   |
-|                                                                                     |   |   |
-|                                                                                     |   |   |
 
 | **阿里云**                                                                                               |                                                                                                     |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -665,17 +659,6 @@ Computer Components？Computer Architecture？
 | Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
 | Kaggle Competitions [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)                                                                     |
 |                                                                                                                                                                                |
-
-## 计算机证书
-
-|                                  |
-| -------------------------------- |
-| 软件资格证书, 软考 初级 中级 高级 去事业单位有用 落户有用 |
-| 微软认证证书 去外企有用 系统管理 数据库 开发方向       |
-| Oracle认证, java有用, 去授权机构才能考       |
-| 思科认证, 网络 运维 有加分                  |
-| RedHat 红帽认证                      |
-|                                  |
 
 ## 项目
 

@@ -404,6 +404,20 @@ description: 硬件设备
 | 影像大舌头 抖音号：[1279543430](https://www.douyin.com/user/MS4wLjABAAAAeLdSMnVIDFFznMVcRXGpVfJDAZ7RDuBg2INPcCBpE8Y) | FPV穿越机花飞手册 抖音号：[171551377](https://www.douyin.com/user/MS4wLjABAAAAT7hL5YKDt9jncHb8crawJIS9d5EntLNagN9ywtaA3DE) | 白城夏树 抖音号：[61966967](https://www.douyin.com/user/MS4wLjABAAAA5nc8WmniVKdhl7y0kWOLqb7\_L2bVqrynlX1WtLE9iB0)                      |
 |                                                                                                             |                                                                                                                 | FLY송쌤 [u](https://www.youtube.com/c/SongYoungjin)                                                                              |
 
+|                                                                                               |                                                                                     |   |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | - |
+| 【FPV一镜到底】疫情居家，开小飞机到楼下小区遛个弯儿～65mm小无刷真舒适 [YUE-FPV](https://www.bilibili.com/video/BV15Y4y1e7Ng) | 【穿越机分享】最贴近真机的模拟器-TRYP [自目THEMODE\_FPV](https://www.bilibili.com/video/BV1QV4y1E7WK) |   |
+|                                                                                               |                                                                                     |   |
+|                                                                                               |                                                                                     |   |
+
+#### FPV模拟器
+
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 【穿越机】穿越机入门从哪里开始？先从模拟器开始 [去西雅图偷飞机fpv](https://www.bilibili.com/video/BV17y4y117Qe/) T-lite   T-pro |
+| FPV.Skydive 安卓免费模拟器，otg连接遥控操控随时爽飞 [白盐足球](https://www.bilibili.com/video/BV1KY411P7gi)             |
+|                                                                                                   |
+
 ### Nano
 
 |                                                                                                                      |
