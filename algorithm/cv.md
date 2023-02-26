@@ -211,6 +211,10 @@ import cv2
 | AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab) creating deepfakes                                                                                |
 | Deepfacelab智能换脸 [u](https://www.youtube.com/channel/UCwdM2VqN5JsSYkn8XZbN9NQ/videos)                                                                          |
+| Age & Gender Prediction with DeepFace in Python [NeuralNine](https://www.youtube.com/watch?v=hvNj7Js9RyA)                                                     |
+|                                                                                                                                                               |
+|                                                                                                                                                               |
+|                                                                                                                                                               |
 
 ### 多帧合成
 
@@ -243,7 +247,7 @@ import cv2
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Depix [git](https://github.com/beurtschipper/Depix) [v](https://www.douyin.com/video/7035174419454528781)                                                        |
 | 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg/)                                                              |
-|                                                                                                                                                                  |
+| CodeFormer-GUI [v](https://www.youtube.com/watch?v=1TWydoqHcqA) 零度解说                                                                                             |
 | DeblurGAN [arxiv](https://arxiv.org/pdf/1711.07064.pdf) [git](https://github.com/RaphaelMeudec/deblur-gan) [git](https://github.com/KupynOrest/DeblurGAN) 除去运动模糊 |
 |                                                                                                                                                                  |
 |                                                                                                                                                                  |
