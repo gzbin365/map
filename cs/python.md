@@ -145,7 +145,7 @@
 | python [it coding man](https://www.youtube.com/playlist?list=PL0eTUWE9slRfWfipshffCd0hUayKegMnM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 【python】4小时初学者教程 [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=zdMUJJKFdsU)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Python As Fast as Possible - Learn Python in \~75 Minutes [Tech With Tim](https://www.youtube.com/watch?v=VchuKL44s6E)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Python for Everybody - Chuck博士的全程课程 [freeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Python for Everybody - Chuck博士的全程课程 [freeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI)13:40:09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Python Basics with Sam [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Python for Beginners (Full Course) \| Programming Tutorial [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -360,7 +360,8 @@
 | Python程序设计系列之利用Pandas处理数据 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tG9Vhhpimd5Zxa6OOUJkxfR)                                               |
 | Swifter Speeds Up Pandas DataFrames [NeuralNine](https://www.youtube.com/watch?v=UpZf1uIo1M4)                                                                   |
 | 25 Nooby Pandas Coding Mistakes You Should Avoid [Medallion Data Science](https://www.youtube.com/watch?v=\_gaAoJBMJ\_Q)                                        |
-|                                                                                                                                                                 |
+| Make Your Pandas Code Lightning Fast [Rob Mulla](https://www.youtube.com/watch?v=SAFmrTnEHLg)                                                                   |
+| Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                            |
 |                                                                                                                                                                 |
 
 | sklearn                                                                                                                                        |
@@ -384,6 +385,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **requests(**[**doc**](https://docs.python-requests.org/en/master/)**,** [**书童**](https://xugaoxiang.com/2020/11/28/python-module-requests/)**,** [**pypi**](https://pypi.org/project/requests/)**,** [**Guide**](https://realpython.com/python-requests/)**,** [**w3s**](https://www.w3schools.com/python/module\_requests.asp)**, )** |
 | requests\_html爬虫模块 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4sf1bq3PAm6onDczjY7QFvB)                                                                                                                                                                                                                           |
+| Requests Library in Python - Beginner Crash Course [NeuralNine](https://www.youtube.com/watch?v=Xi1F2ZMAZ7Q)                                                                                                                                                                                                                            |
 
 | BeautifulSoup                                                                                                                                                                                                                                                                                                                                  |   |   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
@@ -408,6 +410,7 @@
 | \[[程序员小飞](https://www.youtube.com/watch?v=onDgK-bTvjM)]2021年Django Web基础课程90分钟完整版                                                                                                      |
 | Dinesh Joshi - Designing fast and scalable Python MicroServices with Django [PyCon SK](https://www.youtube.com/watch?v=JSEoK0pMVbc)                                                    |
 | Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                                                          |
+| Learn Django by Building an Online Marketplace – Python Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ZxMB6Njs3ck)                                             |
 |                                                                                                                                                                                        |
 
 | Fabric                                                                                     |   |
@@ -563,7 +566,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | Kivy Tutorials Python [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn) |
-|                                                                                                                 |
+| Kivy Course - Create Python Games and Mobile Apps [freeCodeCamp](https://www.youtube.com/watch?v=l8Imtec4ReQ)   |
 |                                                                                                                 |
 
 | PySimpleGUI                                                                                                                                    |
@@ -639,7 +642,7 @@ Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/lea
 
 [I Don't Need Postman Anymore!! I Use VS Code Instead...](https://www.youtube.com/watch?v=AbCTlemwZ1k)
 
-Postman Beginner's Course - API Testing [freeCodeCamp](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -819,7 +822,7 @@ cpython, pypy, jython, rustpython这些都是什么鬼 [码农高天](https://ww
 | High Performance Computing /Parallel Computing [5 Minutes Engineering](https://www.youtube.com/playlist?list=PLYwpaL\_SFmcA1eJbqwvjKgsnT321hXRGx)                                    |
 | Cmu parallel computing [Ren Li](https://www.youtube.com/playlist?list=PLNLtnx4C42YH2bJ-q1Fiv0fkHcRu-Sz2o)                                                                            |
 | Stanford CME 213: Introduction to Parallel Computing using MPI, openMP, and CUDA Winter 2020 [Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN\_d1cf9sR1muRkq) |
-| Parallel Computing and Scientific Machine Learning [u](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg/playlists)                                                           |
+|                                                                                                                                                                                      |
 | [PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)                                                                                  |
 | How Fast is Python's Sort? Performance Test.([mCoding](https://www.youtube.com/watch?v=ybh0GttfM8o\&t=299s))                                                                         |
 | 22 并行计算([网课慕课](https://www.youtube.com/watch?v=9uyK1CJWA3c))                                                                                                                         |
@@ -851,37 +854,38 @@ Python高性能编程
 
 ### Web app
 
-|                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python Django 7 Hour Course [Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)                                                                 |
-| Flask [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWPXx3C\_aIATYnnbCTDByHy)                                                       |
-| [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)                                     |
-| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                             |
-| 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                                                     |
-| Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                                       |
-| RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)                                 |
-| Python REST API Tutorial - Building a Flask REST API [Tech With Tim](https://www.youtube.com/watch?v=GMppyAPbLYk)                                         |
-| REST API Crash Course - Introduction + Full Python API Tutorial [Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)                                |
-| NestJs Course for Beginners - Create a REST API [freeCodeCamp](https://www.youtube.com/watch?v=GHTA143\_b-s)                                              |
-| Build a Django REST API with the Django Rest Framework. Complete Tutorial. [CodingEntrepreneurs](https://www.youtube.com/watch?v=c708Nf0cHrs)             |
-| Flask Course - Python Web Application Development [freeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)                                             |
-| 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                                               |
-| Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                                         |
-| python Tornado [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb8BGGU7JgaTAZBGHOGAmDa)                                                          |
-|                                                                                                                                                           |
-| Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI)                       |
-| Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)                                   |
-| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                   |
-| I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE) |
-| Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                |
-| Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                         |
-| Microservices with FastAPI – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA)                                                      |
-| Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                      |
-| Python+Django网站开发系列 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tH1E0\_0d1\_kweQKpJzhw\_z9)                                            |
-| Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                 |
-| PyScript is Python in Your Browser [NeuralNine](https://www.youtube.com/watch?v=MJvCeKwr4z4)                                                              |
-| Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                          |
-| Django REST Framework Course – Build Web APIs with Python [freeCodeCamp](https://www.youtube.com/watch?v=tujhGdn1EMI)                                     |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python for Web Development – Crash Course \[API, SQL Databases, Virtual Environment, Flask, Django] [freeCodeCamp](https://www.youtube.com/watch?v=WNvxR8RFzBg) |
+| Python Django 7 Hour Course [Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)                                                                       |
+| Flask [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWPXx3C\_aIATYnnbCTDByHy)                                                             |
+| [Python Microservices Web App (with React, Django, Flask) - Full Course](https://www.youtube.com/watch?v=0iB5IPoTDts)                                           |
+| Django / Tailwind Tutorial - Code a Netflix Clone [freeCodeCamp](https://www.youtube.com/watch?v=gbyYXgiSgdM)                                                   |
+| 【Flask Web 教程】[Yufan Zheng](https://www.youtube.com/playlist?list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD)                                                           |
+| Learn Flask for Python - Full Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh\_OqeA)                                                             |
+| RESTFul API With Flask [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYbSv5\_R2I\_QbAcvbyqBCun)                                       |
+| Python REST API Tutorial - Building a Flask REST API [Tech With Tim](https://www.youtube.com/watch?v=GMppyAPbLYk)                                               |
+| REST API Crash Course - Introduction + Full Python API Tutorial [Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)                                      |
+| NestJs Course for Beginners - Create a REST API [freeCodeCamp](https://www.youtube.com/watch?v=GHTA143\_b-s)                                                    |
+| Build a Django REST API with the Django Rest Framework. Complete Tutorial. [CodingEntrepreneurs](https://www.youtube.com/watch?v=c708Nf0cHrs)                   |
+| Flask Course - Python Web Application Development [freeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)                                                   |
+| 90分钟用Python和Flask开发博客系统 [麦叔编程](https://www.youtube.com/playlist?list=PLKrICbCCq12VlE\_xhA\_Cd1\_ixDQc31ssH)                                                     |
+| Why Microservices Fail [Coding Tech](https://www.youtube.com/watch?v=B3O-qYM-Kkw)                                                                               |
+| python Tornado [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb8BGGU7JgaTAZBGHOGAmDa)                                                                |
+|                                                                                                                                                                 |
+| Python Website Full Tutorial - Flask, Authentication, Databases & More [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI)                             |
+| Python API Development - Comprehensive Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)                                         |
+| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                         |
+| I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE)       |
+| Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                      |
+| Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                               |
+| Microservices with FastAPI – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA)                                                            |
+| Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                            |
+| Python+Django网站开发系列 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tH1E0\_0d1\_kweQKpJzhw\_z9)                                                  |
+| Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                       |
+| PyScript is Python in Your Browser [NeuralNine](https://www.youtube.com/watch?v=MJvCeKwr4z4)                                                                    |
+| Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                                |
+| Django REST Framework Course – Build Web APIs with Python [freeCodeCamp](https://www.youtube.com/watch?v=tujhGdn1EMI)                                           |
 
 ## 视频编辑, 视频剪辑, Video Image Editing
 
@@ -931,7 +935,8 @@ Python高性能编程
 | 網路爬蟲實戰教學 [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)                                                                                                                                                                                                                                                          |
 | XPath Crash Course For Python Web Scraping [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)                                                                                                                                                                                                                                                   |
 | 就想写个爬虫，我到底要学多少东西啊？[崔庆才](https://mp.weixin.qq.com/s?\_\_biz=MzIwODI2NDkxNQ==\&mid=2247487842\&idx=4\&sn=98ca86c5c5ad61a7d564fa2cb2b5a522\&chksm=97049adea07313c815eebf6ddf117fa2a027549e355221b8f0d23058380e238b384cf9fb57d0\&mpshare=1\&scene=1\&srcid=\&sharer\_sharetime=1585456067551\&sharer\_shareid=e08d450bb86978202e96a05c7cf1bc4c#rd) 机器学习初学者 |
-|                                                                                                                                                                                                                                                                                                                                                        |
+| 网络爬虫实战 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HL2-Iw2JxOiYnqldRskI7bk)                                                                                                                                                                                                                                                            |
+| Python爬虫编程基础5天速成 Python入门+数据分析 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTwCmlnBroM10oVNnix5Qx8v)                                                                                                                                                                                                                                      |
 
 ## 网络编程
 
@@ -1002,6 +1007,7 @@ Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files [Corey Sch
 | Learn JSON in 10 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=iiADhChRriM)                                 |
 | What is JSON ? [Telusko](https://www.youtube.com/watch?v=JuFdz8f-cT4)                                                      |
 | JsonCrack [v](https://www.douyin.com/video/7141651379923225869)                                                            |
+| 普通話 \| Python JSON處理 [CHANNEL 536](https://www.youtube.com/watch?v=W33o5tI-DXw)                                            |
 
 ## **Auto Download of Videos & Images**
 
