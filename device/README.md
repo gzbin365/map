@@ -27,6 +27,7 @@ description: 硬件设备
 | **THE ELECTRONIC GUY(**[**u**](https://www.youtube.com/c/THEELECTRONICGUY/featured)**, )**                                                                                 | **NDA Hack(**[**u**](https://www.youtube.com/c/NDAHack/featured)**, )**                |
 | **DIY with Ben(**[**u**](https://www.youtube.com/c/DIYProjectsideas/playlists)**, )**                                                                                      | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                      |
 |                                                                                                                                                                            | Branch Education [u](https://www.youtube.com/@BranchEducation/videos)                  |
+|                                                                                                                                                                            |                                                                                        |
 
 ## 计算机硬件
 
@@ -276,10 +277,15 @@ description: 硬件设备
 
 ## 笔记本
 
-|                                                                                                                            |   |
-| -------------------------------------------------------------------------------------------------------------------------- | - |
-| Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |   |
-|                                                                                                                            |   |
+|                                                                                                                            |     |
+| -------------------------------------------------------------------------------------------------------------------------- | --- |
+| Slimbook [s](https://slimbook.es/en/) [s](https://slimbook.es/en/linux2) [v](https://www.youtube.com/watch?v=FKCtKVY\_g48) |     |
+| 未来人类                                                                                                                       | 华硕  |
+| 微星                                                                                                                         | 外星人 |
+| DELL                                                                                                                       | 联想  |
+| chromebook                                                                                                                 |     |
+|                                                                                                                            |     |
+|                                                                                                                            |     |
 
 |                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -295,6 +301,7 @@ description: 硬件设备
 | ROG 枪神6Plus超竞版评测: 2022旗舰级处理器+双液金散热！\| [笔吧评测室](https://www.youtube.com/watch?v=lfCuabADWaM)                                                        |
 | 旧笔记本改造再利用，教你DIY爆改平板电脑！！旧笔记本更换电池，超详细教程小白也会做\~真香 [BIG的梦想](https://www.youtube.com/watch?v=4DU8CcOuAEI)                                              |
 | 【[Huan](https://www.youtube.com/watch?v=pV6LQqTNt0E)】 你有見過螢幕可以「折」的筆電嗎? ASUS Zenbook 17 Fold OLED開箱                                                |
+| 习武之人的终极笔记本，戴尔 Latitude 7424 Rugged Extreme评测！\| [猪王闲侃](https://www.youtube.com/watch?v=fpTMeB0xlhE)                                               |
 |                                                                                                                                                   |
 |                                                                                                                                                   |
 |                                                                                                                                                   |
@@ -320,7 +327,7 @@ description: 硬件设备
 
 |                                                                                                                                |                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                                   | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
+| ****                                                                                                                           | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
 | **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                                   | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**                                         |
 | DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4)             | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                                          | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
@@ -330,6 +337,7 @@ description: 硬件设备
 | Silver Surfer FPV [u](https://www.youtube.com/c/SilverSurferFPV/playlists)                                                     | CAPTAIN DRONE [u](https://www.youtube.com/c/CAPTAINDRONE798/playlists)                                          |
 |                                                                                                                                | Modellermark2 - RC and The Shropshire Dippers [u](https://www.youtube.com/user/modellermark2)                   |
 | ArduPilot [s](https://ardupilot.org/) [doc](https://ardupilot.org/ardupilot/) [v](https://www.youtube.com/watch?v=mp5WJwT7HW0) | Dustin Dunnill [u](https://www.youtube.com/c/DustinDunnill)                                                     |
+| 贝贝享飞无人机 [u](https://www.youtube.com/@gymnast95630)                                                                             |                                                                                                                 |
 |                                                                                                                                |                                                                                                                 |
 
 ***
@@ -394,7 +402,34 @@ description: 硬件设备
 | Potato Jet [u](https://www.youtube.com/watch?v=iCQYZ30cOe0)                                                 | ManVsBando [u](https://www.youtube.com/channel/UCE7N59ZOJHU4bQz9zRfXajA)                                        | Drone Racing League [u](https://www.youtube.com/c/Thedroneracingleague)                                                        |
 | NURK FPV [u](https://www.youtube.com/c/NURKFPV)                                                             | 自目THEMODE [B](https://space.bilibili.com/409193927/)                                                            | 穿越机自学教程 抖音号：[FPVGUO](https://www.douyin.com/user/MS4wLjABAAAAdhOzdSgFGdGdFyDuTTJ5CTk-vg0xZ5gEhmzEQL7TuLnk-JIhOBbLVnT3LcolJQLK) |
 | 影像大舌头 抖音号：[1279543430](https://www.douyin.com/user/MS4wLjABAAAAeLdSMnVIDFFznMVcRXGpVfJDAZ7RDuBg2INPcCBpE8Y) | FPV穿越机花飞手册 抖音号：[171551377](https://www.douyin.com/user/MS4wLjABAAAAT7hL5YKDt9jncHb8crawJIS9d5EntLNagN9ywtaA3DE) | 白城夏树 抖音号：[61966967](https://www.douyin.com/user/MS4wLjABAAAA5nc8WmniVKdhl7y0kWOLqb7\_L2bVqrynlX1WtLE9iB0)                      |
-|                                                                                                             |                                                                                                                 | FLY송쌤 [u](https://www.youtube.com/c/SongYoungjin)                                                                              |
+| **Mr Steele(**[**u**](https://www.youtube.com/c/MrSteeleFPV/featured)**, )**                                | Eric Konasty [u](https://www.youtube.com/@EricKonasty)                                                          | FLY송쌤 [u](https://www.youtube.com/c/SongYoungjin)                                                                              |
+| 去西雅图偷飞机fpv [B](https://space.bilibili.com/29452659)                                                         |                                                                                                                 | Engineer01 [B](https://space.bilibili.com/2504850)                                                                             |
+|                                                                                                             |                                                                                                                 |                                                                                                                                |
+
+|                                                                                               |                                                                                     |                                                                                                |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 【FPV一镜到底】疫情居家，开小飞机到楼下小区遛个弯儿～65mm小无刷真舒适 [YUE-FPV](https://www.bilibili.com/video/BV15Y4y1e7Ng) | 【穿越机分享】最贴近真机的模拟器-TRYP [自目THEMODE\_FPV](https://www.bilibili.com/video/BV1QV4y1E7WK) | 新手入门穿越机保姆级教程 [曹骞不会飞](https://space.bilibili.com/489256208/channel/collectiondetail?sid=265264) |
+|                                                                                               |                                                                                     |                                                                                                |
+|                                                                                               |                                                                                     |                                                                                                |
+
+#### FPV模拟器
+
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| 【穿越机】穿越机入门从哪里开始？先从模拟器开始 [去西雅图偷飞机fpv](https://www.bilibili.com/video/BV17y4y117Qe/) T-lite   T-pro         |
+| 【[Yang\_FPV](https://www.bilibili.com/video/BV1Tb4y1r7wq)】萌新入坑遥控怎么选？聊下个人看法                                |
+| 【入坑指南】2022穿越机遥控器哪家强？[当红炸子机FPV](https://www.bilibili.com/video/BV1Y541117Zg)   TX16s                       |
+| radiomaster TX16S遥控器到底适合什么样玩家，给大家一个答案 [刹那清风与wk](https://www.bilibili.com/video/BV1hT4y1U78g)              |
+| 【全价格推荐】穿越机摇控器全价位选购指南及从多方面了解穿越机遥控器是什么，如何对比，遥控器是越贵越好吗？ [曹骞不会飞](https://www.bilibili.com/video/BV1E5411S7zo) |
+|                                                                                                           |
+
+#### FPV模拟器
+
+|                                                                                       |   |   |
+| ------------------------------------------------------------------------------------- | - | - |
+|                                                                                       |   |   |
+| FPV.Skydive 安卓免费模拟器，otg连接遥控操控随时爽飞 [白盐足球](https://www.bilibili.com/video/BV1KY411P7gi) |   |   |
+|                                                                                       |   |   |
 
 ### Nano
 
@@ -472,6 +507,7 @@ description: 硬件设备
 | FPGA Projects [ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXyCSv5nNzyN8kbsa6abvU2)                                                 |
 | Introduction to FPGA [Digi-Key](https://www.youtube.com/watch?v=pK6XN7sFosI)                                                                        |
 | FPGA Pins Explained! [Altium Academy](https://www.youtube.com/watch?v=THLdycw9-Vs)                                                                  |
+| AI背后的「大基建」：半导体行业格局将彻底改写？ [大刘科普](https://www.youtube.com/watch?v=9BWiXVXyy0w)                                                                        |
 
 ## STM 32
 
@@ -669,6 +705,12 @@ System on Chip, 系统级芯片
 | 我买墨水屏，只办三件事儿！\_华为MatePad Paper【值不值得买第553期】[TESTV](https://www.youtube.com/watch?v=lKfxt02Vx1Q) |
 | 黑白 刷新时间 2秒 不会烧屏 断电显示                                                                           |
 |                                                                                                |
+
+| 触摸屏                                                                                       |   |   |
+| ----------------------------------------------------------------------------------------- | - | - |
+| How Do Touchscreens Work? [Branch Education](https://www.youtube.com/watch?v=cFvh7qM6LdA) |   |   |
+|                                                                                           |   |   |
+|                                                                                           |   |   |
 
 |                                                                                                |
 | ---------------------------------------------------------------------------------------------- |
@@ -886,25 +928,37 @@ direct-attached storage
 
 ## 路由器 软路由 多网口迷你电脑
 
-|                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)   jack stone [u](https://www.youtube.com/@jackstone)   向北 [u](https://www.youtube.com/@xiangbei)    |
-| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                 |
-| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                              |
-| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                      |
-| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                                                                     |
-| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                                                             |
-| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                                                        |
-| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                                                                |
-| 【手摸手教学】别再用机顶盒跑HomeAssistant了，快一起入坑X86，让C佬手摸手教你在OpenWrt中运行HomeAssistant。 [Chan的智能家居折腾之路](https://www.youtube.com/watch?v=nzhjz\_Ds9rU)                                                               |
-| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)                                                     |
-| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                                                            |
-| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                                                          |
-| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                                                                      |
-| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                                                          |
-| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                                                                       |
-| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                         |
-| 小米ax3000                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 猫猫无线 [u](https://www.youtube.com/@maomaowuxian)   老韩一米九 [u](https://www.youtube.com/@oldhan1m9)   jack stone [u](https://www.youtube.com/@jackstone)   向北 [u](https://www.youtube.com/@xiangbei)   卡卡的鼓捣日记 [u](https://www.youtube.com/@kaka\_58)    |
+| OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                                                                  |
+| 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                                                                               |
+| 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                                                                       |
+| 4核老机编译OpenWrt固件\| 能进入这个配置页面你就会瞧不起很多路由器\| 大神们没时间给你讲的我来讲 [老李‘s精分自留地](https://www.youtube.com/watch?v=Xi2DcZFWWjE)                                                                                                                                      |
+| 最小万兆X86软路由快速开箱——R86S [司波图](https://www.youtube.com/watch?v=Pw9zvxOfzeQ)                                                                                                                                                                              |
+| 用树莓派打造软路由 低成本优化网速 [Baymax 小白笔记](https://www.youtube.com/watch?v=C3hTs8Lpjuc)                                                                                                                                                                         |
+| 【[韩风Talk](https://www.youtube.com/watch?v=8VBvSnuQfiI)】Openwrt插件对广告说不，怎么做？两款热门插件随你用！                                                                                                                                                                 |
+| 【手摸手教学】别再用机顶盒跑HomeAssistant了，快一起入坑X86，让C佬手摸手教你在OpenWrt中运行HomeAssistant。 [Chan的智能家居折腾之路](https://www.youtube.com/watch?v=nzhjz\_Ds9rU)                                                                                                                |
+| 人生的第一台软路由！软路由销量之王 R2S ,30S安装科学上网Openwrt系统攻略指南，实现《真全局科学上网》,一台软路由，全家上网，支持所有设备翻墙，新手也能 100%成功！ [工具大师i](https://www.youtube.com/watch?v=S0uF2RFIADk)                                                                                                      |
+| 『332』 千兆跑1270Mbps 油管20W+ 全新 NanoiPi R5S 确实有点东西！丨多媒体设备R5S上手测试！ [BIGDONGDONG](https://www.youtube.com/watch?v=SjFhniu0NUQ)                                                                                                                             |
+| 【Huan】 我把老筆電成功改成路由器了!! [Huan](https://www.youtube.com/watch?v=EL2YHynduVs)                                                                                                                                                                           |
+| 9分钟搞定ESXI中安装配置OpenWRT/LEDE、PPPoE播号、OpenVPN以及WireGuard VPN [45度钝角](https://www.youtube.com/watch?v=-eMJQRKe2RY)                                                                                                                                       |
+| OpenWRT路由器GL-MT3000：小巧却强大 [王小超](https://www.youtube.com/watch?v=Z8tdbtS0W48)                                                                                                                                                                         |
+| 强到可以覆盖整个鸟巢的路由器？ [全新的林大头](https://www.douyin.com/video/6974712901206560031)                                                                                                                                                                           |
+| 立即更改！你路由器上的这7个设置，确保网络安全！！ [零度解说](https://www.youtube.com/watch?v=Abszyot7lgk)                                                                                                                                                                        |
+| [异地组网](https://www.douyin.com/search/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91) 远程开机，异地组网，免费个人云 蒲公英路由器 [哏工侃智能](https://www.douyin.com/video/7153905663037525278)                                                                                          |
+| 小米ax3000                                                                                                                                                                                                                                             |
+| 小米AX9000高端功能及性能评测 [卡卡的鼓捣日记](https://www.youtube.com/watch?v=47uP9cYkqmI)                                                                                                                                                                             |
+| 小米 AX9000 解锁 SSH 安装 ShellClash 教程｜地表最强的硬路由(打开字幕) [酱紫表](https://www.youtube.com/watch?v=L\_F9cT8soPI)                                                                                                                                                 |
+|                                                                                                                                                                                                                                                      |
+
+## Merlin
+
+|                                                                                                         |   |   |
+| ------------------------------------------------------------------------------------------------------- | - | - |
+| 老李‘s精分自留地 [u](https://www.youtube.com/@FantasticLee)   [v](https://www.youtube.com/watch?v=iROuoHGSIMA) |   |   |
+|                                                                                                         |   |   |
+|                                                                                                         |   |   |
 
 ## mesh wifi
 
@@ -1093,7 +1147,7 @@ direct-attached storage
 | ---------------------------------------------------------------------------------- |
 | The Coming AI Chip Boom [Asianometry](https://www.youtube.com/watch?v=L0948yq2Hqk) |
 | AI’s Hardware Problem [Asianometry](https://www.youtube.com/watch?v=5tmGKTNW8DQ)   |
-|                                                                                    |
+| AI背后的「大基建」：半导体行业格局将彻底改写？ [大刘科普](https://www.youtube.com/watch?v=9BWiXVXyy0w)       |
 
 
 

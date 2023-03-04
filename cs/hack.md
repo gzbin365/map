@@ -61,6 +61,7 @@
 | \[Tutorialsplanet.NET] Udemy - Network Hacking Continued - Intermediate to Advanced                                                                                                       |
 | \[Tutorialsplanet.NET] Udemy - The Ultimate Dark Web, Anonymity, Privacy & Security Course                                                                                                |
 | Game Hacking 200 Series - Game Hacking Shenanigans [Guided Hacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFKVpM1mJoz2yBMVMjl\_f5F)                                            |
+| 【中国农业大学】信息安全概论 吕春利（7讲） [Mr.GoodWill](https://www.youtube.com/watch?v=7v33bnVbluY)   安全运维操作实例                                                                                              |
 
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
@@ -86,11 +87,12 @@
 | 黑客攻防入門 [Angus Chang](https://www.youtube.com/playlist?list=PLzKtnppOmiXDSZZA8YOjcCxkKTcDXCuej)                             |
 | Quantum Ransomware [The PC Security Channel](https://www.youtube.com/watch?v=oWJw6bF94dw) 勒索软件                             |
 
-| 黑客组织                                                                      |                                                                                                                     |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw\&t=454s) tw | 匿名者 [v](https://www.youtube.com/watch?v=UVQ9zE8C3aE)                                                                |
-| 黑客破解-黑客基地 [s](http://www.hack26.com/)                                     | KillNet [v](https://www.douyin.com/video/7140858072779574535) [v](https://www.douyin.com/video/7153153331374968076) |
-|                                                                           |                                                                                                                     |
+| 黑客组织                                                                      |                                                                                                                         |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| FailOverflow [v](https://www.youtube.com/watch?v=o9SRSW0\_UYw\&t=454s) tw | 匿名者 [v](https://www.youtube.com/watch?v=UVQ9zE8C3aE)                                                                    |
+| 黑客破解-黑客基地 [s](http://www.hack26.com/)                                     | KillNet [v](https://www.douyin.com/video/7140858072779574535) [v](https://www.douyin.com/video/7153153331374968076) 俄罗斯 |
+| 奇幻熊 俄罗斯                                                                   | 舒适熊 俄罗斯                                                                                                                 |
+| 恶毒熊 俄罗斯                                                                   |                                                                                                                         |
 
 | Log4J / Log4Shell                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |

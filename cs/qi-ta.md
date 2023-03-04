@@ -205,11 +205,11 @@
 
 ## Web
 
-|                                                      |   |   |
-| ---------------------------------------------------- | - | - |
-| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists) |   |   |
-|                                                      |   |   |
-|                                                      |   |   |
+|                                                                                         |   |   |
+| --------------------------------------------------------------------------------------- | - | - |
+| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                    |   |   |
+| Secure Login System in Python [NeuralNine](https://www.youtube.com/watch?v=3NEzo3CfbPg) |   |   |
+|                                                                                         |   |   |
 
 ### WordPress
 
