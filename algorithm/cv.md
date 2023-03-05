@@ -197,7 +197,7 @@ import cv2
 |                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------- |
 | How AI Image Generators Work (Stable Diffusion / Dall-E) - [Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) |
-|                                                                                                                         |
+| AI绘画系列 [PiPi哈皮](https://www.youtube.com/playlist?list=PLCG16YoiXGDFJe1FK9eQDf1duMtmobR3S)                               |
 |                                                                                                                         |
 
 ### DeepFake

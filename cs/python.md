@@ -886,6 +886,7 @@ Python高性能编程
 | PyScript is Python in Your Browser [NeuralNine](https://www.youtube.com/watch?v=MJvCeKwr4z4)                                                                    |
 | Build a Social Media App with Django – Python Web Framework Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=xSUm6iMtREA)                                |
 | Django REST Framework Course – Build Web APIs with Python [freeCodeCamp](https://www.youtube.com/watch?v=tujhGdn1EMI)                                           |
+| Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps [freeCodeCamp](https://www.youtube.com/watch?v=yBDHkveJUf4)                     |
 
 ## 视频编辑, 视频剪辑, Video Image Editing
 

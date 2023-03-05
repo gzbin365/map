@@ -102,6 +102,6 @@
 
 ## 扯淡
 
-|                                                                                                      |   |
-| ---------------------------------------------------------------------------------------------------- | - |
-| 周文强 《财道合集》 [New Thinking](https://www.youtube.com/playlist?list=PL\_QvAG3g5DBpwDZEACj1KVVQ7oqmYiEqj) |   |
+|                                                                                                      |                                                                                    |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 周文强 《财道合集》 [New Thinking](https://www.youtube.com/playlist?list=PL\_QvAG3g5DBpwDZEACj1KVVQ7oqmYiEqj) | 鹏鹏生活百科 Encyclopedia of Life [u](https://www.youtube.com/@phangphang7391/playlists) |

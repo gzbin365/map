@@ -344,6 +344,7 @@
 | Creating a Mario style level in Python / Pygame with a visual level editor \[Tiled] [Clear Code](https://www.youtube.com/watch?v=wJMDh9QGRgs)                   |
 | JavaScript Game Development Crash Course 2022 [Franks laboratory](https://www.youtube.com/watch?v=EvC3ge\_puQk)                                                 |
 | JavaScript Game Development Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GFO\_txvwK\_c)                                                  |
+| JavaScript GameDev Tutorial – Code an Animated Physics Game \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=U34l-Xz5ynU)                          |
 | Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) [Kian Brose](https://www.youtube.com/watch?v=Ot7SeZvfBA0)                      |
 | 游戏开发-GameDev [猪摸摸-Chumomo](https://www.youtube.com/playlist?list=PLZw\_3yGA6EyeozvCe-kcuBunA4atoMH8H)                                                           |
 | Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
