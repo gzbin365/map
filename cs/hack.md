@@ -62,6 +62,7 @@
 | \[Tutorialsplanet.NET] Udemy - The Ultimate Dark Web, Anonymity, Privacy & Security Course                                                                                                |
 | Game Hacking 200 Series - Game Hacking Shenanigans [Guided Hacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFKVpM1mJoz2yBMVMjl\_f5F)                                            |
 | 【中国农业大学】信息安全概论 吕春利（7讲） [Mr.GoodWill](https://www.youtube.com/watch?v=7v33bnVbluY)   安全运维操作实例                                                                                              |
+| ChatGPT For Cybersecurity [HackerSploit](https://www.youtube.com/watch?v=6PrC4z4tPB0)                                                                                                     |
 
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |

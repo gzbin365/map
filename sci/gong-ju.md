@@ -17,7 +17,7 @@
 | 论文必备【Latex教程】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLNOfkDpkRhgMbXg76GdBeHW)                            |
 | LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                         |
 | LaTeX Tutorials [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)                             |
-|                                                                                                                                           |
+| LaTeX – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ydOTMQC7np0)                                           |
 |                                                                                                                                           |
 |                                                                                                                                           |
 | Overleaf                                                                                                                                  |
