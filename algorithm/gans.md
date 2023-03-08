@@ -38,6 +38,8 @@ description: Generative Adversarial Network (GAN)
 | Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects [Nicholas Renotte](https://www.youtube.com/watch?v=AALBGpLbj6Q)           |
 | StyleGANv2 Explained! [Connor Shorten](https://www.youtube.com/watch?v=u8qPvzk0AfY)                                                                                          |
 | StyleGAN2 explained - AI generated faces, cars and cats! [AI Bites](https://www.youtube.com/watch?v=841UAo7Ax5w)                                                             |
+| Talk \| 清华大学计算机科学与技术系博士研究生孔祥哲：基于等变图注意力网络的抗体设计 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=F5rZELbZSsI)                                                                 |
+|                                                                                                                                                                              |
 
 | AnimeGAN                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,11 +67,13 @@ description: Generative Adversarial Network (GAN)
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
 | Google’s New AI: DALL-E, But Now In 3D! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=L3G0dx1Q0R8)                                              |
 | 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
-| NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)                                                                                         |
+| NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)   Dr Alan D. Thompson [u](https://www.youtube.com/@DrAlanDThompson/playlists)           |
+| 最火的AI作图模型，这5款免费下载，含提示词，配合 Stable-diffusion 来制作高清大图吧！ \| [零度解说](https://www.youtube.com/watch?v=-d-B87EwT04)                                              |
 
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg) [s](https://openai.com/dall-e-2/)                                              |
+| DALL·E 2【论文精读】 [Mu Li](https://www.youtube.com/watch?v=hO57mntSMl0)                                                                                     |
 | DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                                                 |
 | lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                |
 | How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |

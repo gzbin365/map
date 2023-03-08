@@ -9,7 +9,7 @@
 | Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)                                                     | Online Tutorials [u](https://www.youtube.com/c/OnlineTutorials4Designers/playlists)           |
 | 程序员小山与Bug 抖音号：[xiaoshan.bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd\_mbHotBKV8Bth4LLl4OA\_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm) | Progress Bar 進度條線上課程 [u](https://www.youtube.com/c/ProgressBarTW/playlists)                   |
 | Coding Tech [u](https://www.youtube.com/c/CodingTech)                                                                                    | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                            |
-| Slaying The Dragon [u](https://www.youtube.com/@slayingthedragon)                                                                        |                                                                                               |
+| Slaying The Dragon [u](https://www.youtube.com/@slayingthedragon)                                                                        | Alex 宅幹嘛 [u](https://www.youtube.com/@AlexOtakuWhat)                                          |
 
 | **前端**                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -130,6 +130,7 @@
 | Vue.js Course for Beginners \[2021 Tutorial] [freeCodeCamp](https://www.youtube.com/watch?v=FXpIoQ\_rT\_c)                                                   |
 | Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows　[freeCodeCamp](https://www.youtube.com/watch?v=la-0ulfn0\_M) |
 | PanJiaChen/[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) [v](https://www.douyin.com/video/7144685614561086728)                        |
+| \[ 想入門，我陪你 ] Vue 3 宅家輕鬆玩｜Day 0：15 步認識 Vue [Alex 宅幹嘛](https://www.youtube.com/watch?v=oDd5KtEtAlo)                                                            |
 
 ## React
 
@@ -418,7 +419,7 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 | Responsive Sidebar Menu in HTML CSS & JavaScript \| Dark/Light Mode [CodingLab](https://www.youtube.com/watch?v=bFvfqUMjvsA)                                                                 |
 | Multi Step Progress Bar in HTML CSS & JavaScript [CodingLab](https://www.youtube.com/watch?v=xzaJGUtaWa0)                                                                                    |
 | JavaScript Programming Tutorial for Beginners [Telusko](https://www.youtube.com/watch?v=IC5vBKc21X8)                                                                                         |
-|                                                                                                                                                                                              |
+| Build and Deploy Your Own ChatGPT AI App in JavaScript \| OpenAI, Machine Learning [JavaScript Mastery](https://www.youtube.com/watch?v=2FeymQoKvrk)                                         |
 
 ### TypeScript
 
@@ -494,6 +495,8 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fireship](https://www.youtube.com/watch?v=Q7AOvWpIVHU)
 
 Three.js (threejs) 浏览器中的3D渲染引擎 [奇乐编程学院](https://www.youtube.com/watch?v=E4rxBWm4nhA)
+
+Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial [JavaScript Mastery](https://www.youtube.com/watch?v=0fYi8SGA20k)
 
 ### Bootstrap
 

@@ -198,7 +198,7 @@ import cv2
 | ----------------------------------------------------------------------------------------------------------------------- |
 | How AI Image Generators Work (Stable Diffusion / Dall-E) - [Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) |
 | AI绘画系列 [PiPi哈皮](https://www.youtube.com/playlist?list=PLCG16YoiXGDFJe1FK9eQDf1duMtmobR3S)                               |
-|                                                                                                                         |
+| 新的 AI 繪圖工具抵達戰場！！Leonardo.ai 五個超酷功能讓 Midjourney 也感到害怕 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=VCpNlcffl4w)         |
 
 ### DeepFake
 
@@ -278,6 +278,7 @@ import cv2
 | SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                    |
 | [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                         |
 | Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                          |
+| 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                           |
 
 ## 以图搜图
 

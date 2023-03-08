@@ -26,7 +26,7 @@ description: 硬件设备
 | **JayzTwoCents(**[**u**](https://www.youtube.com/c/Jayztwocents/featured)**, )**                                                                                           | **修客(**[**u**](https://www.youtube.com/channel/UCZoE5OhPeozu88vfPDcy3NQ/videos)**, )** |
 | **THE ELECTRONIC GUY(**[**u**](https://www.youtube.com/c/THEELECTRONICGUY/featured)**, )**                                                                                 | **NDA Hack(**[**u**](https://www.youtube.com/c/NDAHack/featured)**, )**                |
 | **DIY with Ben(**[**u**](https://www.youtube.com/c/DIYProjectsideas/playlists)**, )**                                                                                      | maker.moekoe [u](https://www.youtube.com/c/makermoekoe/playlists)                      |
-|                                                                                                                                                                            | Branch Education [u](https://www.youtube.com/@BranchEducation/videos)                  |
+| 黄杨ME [u](https://www.youtube.com/@huangyang)                                                                                                                               | Branch Education [u](https://www.youtube.com/@BranchEducation/videos)                  |
 |                                                                                                                                                                            |                                                                                        |
 
 ## 计算机硬件
