@@ -102,7 +102,7 @@ description: Generative Adversarial Network (GAN)
 | \[VLP Tutorial @ CVPR 2022] Image-Text Pre-training [Part III](https://www.youtube.com/watch?v=CqB6zLi3dFo)                  |
 | Convert an Image to Text [Kris Occhipinti](https://www.youtube.com/watch?v=c8nYvhlMbaU)                                      |
 
-Video to Text
+### Video to Text
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -115,6 +115,14 @@ Video to Text
 | Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance [Google AI Blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) |
 |                                                                                                                                                                                                 |
 |                                                                                                                                                                                                 |
+
+### Generative AI
+
+|                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| Generative AI Is About To Reset Everything, And, Yes It Will Change Your Life \| [Forbes](https://www.youtube.com/watch?v=WY518YRfs5M) |
+| ChatGPTが変える働き方　AIリスクは増加へ【WBS】（2023年1月27日）　Open AI イーロンマスク　チャットGPT [テレ東BIZ](https://www.youtube.com/watch?v=cHikHtiVwXU)                |
+|                                                                                                                                        |
 
 ### Fake
 

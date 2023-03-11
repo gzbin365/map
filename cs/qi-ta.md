@@ -356,6 +356,7 @@
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [dashboard](https://learn.unrealengine.com/home/dashboard)    虚幻引擎4[文档](https://docs.unrealengine.com/4.27/zh-CN/)                                                       |
+| ENFANT TERRIBLE [u](https://www.youtube.com/@enfant-terrible)                                                                                                            |
 | Learn Unreal Engine (with C++) - Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=LsNW4FPHuZE)                                                   |
 | Now Games Can Look Like Pixar Movies - Unreal Engine 5 [ColdFusion](https://www.youtube.com/watch?v=47I2N\_l47mw)                                                        |
 | Next-Gen Graphics FINALLY Arrive \[Unreal Engine 5] [ColdFusion](https://www.youtube.com/watch?v=gry36cT3TdI)                                                            |

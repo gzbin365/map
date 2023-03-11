@@ -184,11 +184,11 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## 音乐生成, Text to Music Generation
 
-|                                                                                                                             |                                                                                       |   |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | - |
-| MusicLM is a GAMECHANGER for ML Text to Music Generation [Nicholas Renotte](https://www.youtube.com/watch?v=F4WEGvFAwv8)    | Noise2music、MusicLM：文本生成音乐效果如何？ [跟李沐学AI](https://www.youtube.com/watch?v=XsE9WWP9awo) |   |
-|                                                                                                                             |                                                                                       |   |
-| [AIVA](https://www.aiva.ai/) - The AI composing emotional soundtrack music [v](https://www.youtube.com/watch?v=8wHNIZWIOqg) |                                                                                       |   |
+|                                                                                                                             |                                                                                                                    |   |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | - |
+| MusicLM is a GAMECHANGER for ML Text to Music Generation [Nicholas Renotte](https://www.youtube.com/watch?v=F4WEGvFAwv8)    | Noise2music、MusicLM：文本生成音乐效果如何？ [跟李沐学AI](https://www.youtube.com/watch?v=XsE9WWP9awo)                              |   |
+|                                                                                                                             |                                                                                                                    |   |
+| [AIVA](https://www.aiva.ai/) - The AI composing emotional soundtrack music [v](https://www.youtube.com/watch?v=8wHNIZWIOqg) | Google's MusicLM: Text Generated Music & It's Absurdly Good [bycloud](https://www.youtube.com/watch?v=2CUKU2iAzAs) |   |
 
 ## 人声分离
 

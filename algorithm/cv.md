@@ -199,6 +199,8 @@ import cv2
 | How AI Image Generators Work (Stable Diffusion / Dall-E) - [Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) |
 | AI绘画系列 [PiPi哈皮](https://www.youtube.com/playlist?list=PLCG16YoiXGDFJe1FK9eQDf1duMtmobR3S)                               |
 | 新的 AI 繪圖工具抵達戰場！！Leonardo.ai 五個超酷功能讓 Midjourney 也感到害怕 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=VCpNlcffl4w)         |
+| AI Generated Images Are Getting Too Real [bycloud](https://www.youtube.com/watch?v=AlSCx-4d51U)                         |
+| Anime Related AI Applications [bycloud](https://www.youtube.com/playlist?list=PLW2SPT7gdqw5n11wauSVuIbpZ1cMU2zDq)       |
 
 ### DeepFake
 
