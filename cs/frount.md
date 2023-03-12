@@ -321,6 +321,12 @@ HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
+|                                                                                |                                                                          |         |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------- |
+| 为什么OA系统要加上名字工号的水印？web前端实现添加水印 [s](https://juejin.cn/post/7085497566535614478)  | 书生隐形水印组件软件 [s](http://www.sursenelec.com/index.php?c=category\&catid=29) | oa 隐形水印 |
+|                                                                                |                                                                          |         |
+|                                                                                |                                                                          |         |
+
 ### CSS, Cascading Style Sheets
 
 |                                                                                                                                                                                            |

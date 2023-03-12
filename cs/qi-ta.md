@@ -247,7 +247,7 @@
 |                                                           |                                                                                                                            |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Guidev([u](https://www.youtube.com/c/Guidev/playlists), ) | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) [s](https://unity.com/) [D](https://unity3d.com/get-unity/download) |
-|                                                           | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                         |
+| Code Monkey [u](https://www.youtube.com/@CodeMonkeyUnity) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                         |
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

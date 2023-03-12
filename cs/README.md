@@ -605,7 +605,7 @@ Computer Components？Computer Architecture？
 | Why Isn't Functional Programming the Norm? – Richard Feldman　[Metosin](https://www.youtube.com/watch?v=QyJZzq0v7Z4)           |
 | 学习JavaScript函数式编程 - JSUnconf 2016 [JSConf](https://www.youtube.com/watch?v=e-5obm1G\_FY)                                      |
 | Object Oriented Programming vs Functional Programming [Continuous Delivery](https://www.youtube.com/watch?v=wyABTfR9UTU)      |
-|                                                                                                                               |
+| 初探Functional Programming：徹底改變程式思維 - 基礎概念篇 [走歪的工程師James](https://www.youtube.com/watch?v=qpOcRG3e9Q8)                          |
 |                                                                                                                               |
 
 ## 编程范式
