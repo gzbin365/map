@@ -396,7 +396,7 @@ Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?l
 
 Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | JupyterNote in Cloud [GK TechFlex](https://www.youtube.com/watch?v=0KGctGwKp1k)
 
-智星云 **** [**s**](http://www.ai-galaxy.cn/)****
+智星云 **** [**s**](http://www.ai-galaxy.cn/)   ****   Vultr [零度解说](https://www.youtube.com/watch?v=xZNgW9Yb9\_c)
 
 刷题面试 [v](https://www.douyin.com/video/6993993258548366606)
 

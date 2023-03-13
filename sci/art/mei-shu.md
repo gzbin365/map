@@ -171,12 +171,12 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 
 How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
 
-### 虚拟主播 虚拟形象&#x20;
+### 虚拟主播 虚拟形象 Vtuber
 
 |                                                                                                     |                                                                 |   |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | - |
 | Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)                                        | Prompt Engineering [u](https://www.youtube.com/@engineerprompt) |   |
-| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)     |                                                                 |   |
+| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)     | Kizuna AI, 世界最初Vtuber                                           |   |
 | Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE) |                                                                 |   |
 
 

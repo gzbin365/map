@@ -61,14 +61,21 @@ description: Generative Adversarial Network (GAN)
 
 ### Text to Image
 
-|                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y) |
-| OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                         |
-| Google’s New AI: DALL-E, But Now In 3D! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=L3G0dx1Q0R8)                                              |
-| 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                             |
-| NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)   Dr Alan D. Thompson [u](https://www.youtube.com/@DrAlanDThompson/playlists)           |
-| 最火的AI作图模型，这5款免费下载，含提示词，配合 Stable-diffusion 来制作高清大图吧！ \| [零度解说](https://www.youtube.com/watch?v=-d-B87EwT04)                                              |
+|                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y)            |
+| OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                                    |
+| Google’s New AI: DALL-E, But Now In 3D! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=L3G0dx1Q0R8)                                                         |
+| 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                                        |
+| NovelAI绘画 [凌清](https://www.douyin.com/video/7155519646345612558)   Dr Alan D. Thompson [u](https://www.youtube.com/@DrAlanDThompson/playlists)                      |
+| 最火的AI作图模型，这5款免费下载，含提示词，配合 Stable-diffusion 来制作高清大图吧！ \| [零度解说](https://www.youtube.com/watch?v=-d-B87EwT04)                                                         |
+| \[AI 繪圖教學] 超擬真cosplay正妹 \| Realistic \| 그림 \| 画像生成 \| 重裝 #stablediffusion \| 自訂動作 \| Chilloutmix-Ni 模型 [JoeMultimedia](https://www.youtube.com/watch?v=bOsFgX5XMwU) |
+| AI 繪圖相關 [JoeMultimedia](https://www.youtube.com/playlist?list=PLA8oR-9gke18jWPCNg8nxg-R5uPSr2aWK)                                                                   |
+| AI繪圖 [咖啡猫CuteCat](https://www.youtube.com/@CuteCat-gq6ul/playlists)                                                                                                 |
+| AI Art Keeps Winning [Mental Outlaw](https://www.youtube.com/watch?v=FGYkXDDYEYc)                                                                                   |
+| The text-to-image revolution, explained [Vox](https://www.youtube.com/watch?v=SVcsDDABEkM)                                                                          |
+|                                                                                                                                                                     |
+|                                                                                                                                                                     |
 
 | DALL·E 2                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +129,7 @@ description: Generative Adversarial Network (GAN)
 | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Generative AI Is About To Reset Everything, And, Yes It Will Change Your Life \| [Forbes](https://www.youtube.com/watch?v=WY518YRfs5M) |
 | ChatGPTが変える働き方　AIリスクは増加へ【WBS】（2023年1月27日）　Open AI イーロンマスク　チャットGPT [テレ東BIZ](https://www.youtube.com/watch?v=cHikHtiVwXU)                |
-|                                                                                                                                        |
+| Ari Seff [u](https://www.youtube.com/@ariseffai/videos)                                                                                |
 
 ### Fake
 
