@@ -74,7 +74,7 @@ description: Generative Adversarial Network (GAN)
 | AI繪圖 [咖啡猫CuteCat](https://www.youtube.com/@CuteCat-gq6ul/playlists)                                                                                                 |
 | AI Art Keeps Winning [Mental Outlaw](https://www.youtube.com/watch?v=FGYkXDDYEYc)                                                                                   |
 | The text-to-image revolution, explained [Vox](https://www.youtube.com/watch?v=SVcsDDABEkM)                                                                          |
-|                                                                                                                                                                     |
+| midjourney v4入门教程：关键词prompt和技巧tips，让AI帮你10分钟做商业图 [雪莉投研](https://www.youtube.com/watch?v=Ng-rAX0XTy8)                                                                |
 |                                                                                                                                                                     |
 
 | DALL·E 2                                                                                                                                                |

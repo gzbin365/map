@@ -37,6 +37,8 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | External GPU for 3D and Architecture Work - Razer Core X Chroma & Nvidia RTX 3080 [Joseph Kim](https://www.youtube.com/watch?v=UyvjbzfSHXA) |
 | 这台迷你主机居然自带显卡扩展坞？附送超频三GI-K750电源拆解评测【开箱翼闻录 第47期】 [翼王](https://www.youtube.com/watch?v=KDx0U5WjfE8)                                            |
 | 笔记本外接RTX3080：鸡肋还是好用？老笔记本也能畅玩3A？\| [笔吧评测室](https://www.youtube.com/watch?v=g604vnywjyw)                                                      |
+| 【SPlusTech】白菜价的OCulink显卡坞评测：轻薄本狂喜！价格实惠，无损改装，超高效的外接独显方案 [SPlus Tech](https://www.youtube.com/watch?v=pmA9Y79efdY)                            |
+| 唠唠雷电4：重新定义外接显卡 [林亦LYi](https://www.youtube.com/watch?v=gXEnJSoP3vM)                                                                         |
 |                                                                                                                                             |
 |                                                                                                                                             |
 

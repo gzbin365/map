@@ -223,13 +223,15 @@ import cv2
 
 
 
-### 风格迁移
+### 风格迁移, Style Transfer
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/)            |
-| Talk \| 威斯康星大学麦迪逊分校穆方舟：3D相片的风格化-从单张输入图生成风格化的全新视角 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=ruzvF33\_t9w) |
-|                                                                                                                  |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/)                 |
+| Talk \| 威斯康星大学麦迪逊分校穆方舟：3D相片的风格化-从单张输入图生成风格化的全新视角 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=ruzvF33\_t9w)      |
+| AI Caricatures And Portrait Style Transfer Are Here! [Two Minute Papers](https://www.youtube.com/watch?v=8gnhA-zqD-o) |
+|                                                                                                                       |
+|                                                                                                                       |
 
 ## 图像压缩 Image Compression
 

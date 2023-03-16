@@ -199,6 +199,7 @@
 | Next.js React Framework Course – Build and Deploy a Full Stack App From scratch [freeCodeCamp](https://www.youtube.com/watch?v=KjY94sAKLlw)                              |
 | ChatGPT Clone – OpenAI API and React Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=98bGwOYoEGg)                                                                |
 | React JS Tutorial For Beginners [Leon Noel](https://www.youtube.com/watch?v=edsuuCsiah0)                                                                                 |
+| Learn React 18 with Redux Toolkit – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=2-crBg6wpp0)                                              |
 
 ### Next.js
 
