@@ -9,6 +9,7 @@ description: Photography
 | Mediastorm影视飓风 [u](https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA)                                                        | Insta360 [u](https://www.youtube.com/c/insta360)                                                               |
 | Nicholas Wang万能的恰恰 [u](https://www.youtube.com/channel/UCyozD8lFJi7L8g-UYWm8XWA)                                                    | 影像狗 抖音号：[1474036400](https://www.douyin.com/user/MS4wLjABAAAAVbiThV4oeSu2NDIuL\_mMsgNMTVLJs-hPimIpx75AlYE)     |
 | 第一视角摄影 抖音号： [26659336807](https://www.douyin.com/user/MS4wLjABAAAA8d6mWdD8oGIFIzIyOi7WFEb0hRudWPHDxWWXYGcLp3GtUnTEi--fyxrR2jvLgAZN) | 阿凯又去拍照了 抖音号：[akai\_12138](https://www.douyin.com/user/MS4wLjABAAAA3hQrMzskP2ZxpTB0xSg2wjnTlDu5uKiZeXFw5CIUU68) |
+| Colorbee Photography 彩蜂摄影生活杂志 [u](https://www.youtube.com/@Colorbee)                                                                |                                                                                                                |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -24,3 +25,4 @@ description: Photography
 | \[Tutorialsplanet.NET] Udemy - Cinematography Course Shoot Better Video with Any Camera                                      |
 | \[Tutorialsplanet.NET] Udemy - Fotografía Masterclass Una Guía Completa para la Fotografía                                   |
 | How does a camera work? [Branch Education](https://www.youtube.com/watch?v=B7Dopv6kzJA)                                      |
+| 买电影票不会选厅？10分钟速懂：IMAX、杜比、ScreenX 、中国巨幕、Cinity、LUXE.....高质量看电影，再也不花冤枉钱。 [橙红Iris](https://www.youtube.com/watch?v=MSGqQuBE7Ew)  |
