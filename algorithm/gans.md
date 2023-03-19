@@ -75,6 +75,7 @@ description: Generative Adversarial Network (GAN)
 | AI Art Keeps Winning [Mental Outlaw](https://www.youtube.com/watch?v=FGYkXDDYEYc)                                                                                   |
 | The text-to-image revolution, explained [Vox](https://www.youtube.com/watch?v=SVcsDDABEkM)                                                                          |
 | midjourney v4入门教程：关键词prompt和技巧tips，让AI帮你10分钟做商业图 [雪莉投研](https://www.youtube.com/watch?v=Ng-rAX0XTy8)                                                                |
+| Midjourney 最新免费注册和使用教程，无需邀请码，人人都可以用上这款超火的AI绘画工具！\| [零度解说](https://www.youtube.com/watch?v=1sR9xBM1W78)                                                              |
 |                                                                                                                                                                     |
 
 | DALL·E 2                                                                                                                                                |
