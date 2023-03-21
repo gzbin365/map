@@ -662,6 +662,7 @@
 | PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
 | PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
 | PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
+| xp风格的win10 [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) [s](https://www.freedidi.com/8810.html)                                                |
 
 ### Windows 11
 
@@ -697,6 +698,15 @@
 | 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                               |
 | 带您在PC上安装 Windows 10 + UBuntu 18.04 双系统 [美国村長](https://www.youtube.com/watch?v=YJ73UpTHk5g)                         |
 | 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)   |
+|                                                                                                                    |
+
+### 把系统装在U盘上
+
+|                                                         |   |   |
+| ------------------------------------------------------- | - | - |
+| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) |   |   |
+|                                                         |   |   |
+|                                                         |   |   |
 
 ## BIOS
 
