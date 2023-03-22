@@ -8,6 +8,8 @@ description: 机器视觉
 
 [lenna](http://www.lenna.org) [tif](http://www.lenna.org/lena\_std.tif)
 
+这张计算机界最流行的图像，为什么成了学术期刊不敢碰的禁忌？ [量子位](https://www.youtube.com/watch?v=UyadQhi8M9k)
+
 ## 综合
 
 |                                                                               |   |

@@ -349,6 +349,8 @@
 | 游戏开发-GameDev [猪摸摸-Chumomo](https://www.youtube.com/playlist?list=PLZw\_3yGA6EyeozvCe-kcuBunA4atoMH8H)                                                           |
 | Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
 | Shell Based FPS Kris [Occhipinti](https://www.youtube.com/watch?v=AXJsXwT6mpA)                                                                                  |
+| Python Platformer Game Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6gLeplbqtqg)                                                       |
+|                                                                                                                                                                 |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine
@@ -562,6 +564,7 @@
 | 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                            |
 | 负载均衡 Load balancing [wiki](https://en.wikipedia.org/wiki/Load\_balancing\_\(computing\))                                                        |
 | Coding Complex App Logic, Visually [Coding Tech](https://www.youtube.com/watch?v=wgWwJSnhgDU)                                                   |
+| 计算机艺术 [u](https://www.youtube.com/@SysArcDesign/videos)                                                                                         |
 
 ## 低代码 白码 Low-Code NoCode
 
@@ -663,6 +666,7 @@
 | PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
 | PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
 | xp风格的win10 [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) [s](https://www.freedidi.com/8810.html)                                                |
+| kms激活 [零度解说](https://www.youtube.com/watch?v=VoG37gE40mk)                                                                                          |
 
 ### Windows 11
 
