@@ -122,14 +122,15 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 
 ### Nvidia
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| [s](https://www.nvidia.cn/)                                                                                |
-| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25) |
-| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)      |
-| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                |
-| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)        |
-| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)                   |
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.nvidia.cn/)                                                                                                                    |
+| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25)                                     |
+| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)                                          |
+| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                                                    |
+| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)                                            |
+| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)                                                       |
+| Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview [CNBC](https://www.youtube.com/watch?v=\_-wjA4XlBl4) |
 
 ### Facebook
 
@@ -169,7 +170,7 @@ International Business Machine IBM 美国国际商用机器公司
 
 |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Microsoft Developer([u](https://www.youtube.com/c/MicrosoftDeveloper/playlists), )                                                                 |
+| Microsoft Developer([u](https://www.youtube.com/c/MicrosoftDeveloper/playlists), )   Microsoft [u](https://www.youtube.com/@Microsoft)             |
 | Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
 | Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=LLKza5oULAA)        |
 | Binod Suman Academy [u](https://www.youtube.com/channel/UCIZ3CSNL-8mBHfFZLic1-aQ/playlists)                                                        |
@@ -478,7 +479,7 @@ Computer Components？Computer Architecture？
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 鴻愜意 [u](https://www.youtube.com/channel/UC5Gwye8l68nlduVxeKjQk4w/playlists)                                                                                            | Jing维 [u](https://www.youtube.com/channel/UCYlQumKYQG\_vP3GggSoaFMA/videos) |
 | 超有趣学网络 抖音号：[anvsdy](https://www.douyin.com/user/MS4wLjABAAAAhi-QT4imXAdLRvGKdEiusos8XQWJLECcIf5Duzkrv5E) [u](https://www.youtube.com/channel/UC2gMrnXbjKUz90KZruJEppw) | 思科网络课程 [u](https://www.youtube.com/user/luojinyu)                           |
-|                                                                                                                                                                        | 6IE闫辉 [u](https://www.youtube.com/@Cisco\_21820/playlists)                  |
+| 黄河 [u](https://www.youtube.com/@HePeterHuang/videos)                                                                                                                   | 6IE闫辉 [u](https://www.youtube.com/@Cisco\_21820/playlists)                  |
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

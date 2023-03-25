@@ -320,6 +320,8 @@ HTML Tutorial for Beginners: HTML Crash Course [Programming with Mosh](https://w
 
 HTML for Beginners 🌎 [Bro Code](https://www.youtube.com/watch?v=HD13eq\_Pmp8)
 
+HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=GDGejH3SDNQ)
+
 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)
 
 |                                                                                |                                                                          |         |
