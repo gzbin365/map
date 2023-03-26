@@ -37,7 +37,7 @@
 | 林欣浩　抖音号： [77784647154](https://www.douyin.com/user/MS4wLjABAAAAEoqdv9k1VmC6SUUiJP3WQC9TyMD5rJcN-UP6GndRWek0GZEIQaD0G2NBIng9b2KL)                                                                                                                                                                                                                             |
 | 是刘雨阳　抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW)                                                                                                                                                                                                                             |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)                                                                                                                                                                                                                                     |
-| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)   大问题Dialectic [u](https://www.youtube.com/@dialectic7667)                                                                                                                                                                                                                                      |
+| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)   大问题Dialectic [u](https://www.youtube.com/@dialectic7667)   全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                                                                                                                                                                    |
 | 罗永浩演讲集 [Speech](https://www.youtube.com/playlist?list=PLzRiKnAQLCF\_Sn1PQM7oHAqiLhvG2fWZ4)                                                                                                                                                                                                                                                                   |
 | 说道儿-易先森 抖音号： [Eason.young](https://www.douyin.com/user/MS4wLjABAAAA76wQCegTXNQFz5ru9gbSWYhlAK73KrGwreymlqHAijc)                                                                                                                                                                                                                                              |
 
@@ -98,11 +98,11 @@
 
 ### 爱
 
-|                                                                                                              |   |   |
-| ------------------------------------------------------------------------------------------------------------ | - | - |
-| 【有声书摘】爱是什么？这本《all about love》书深入探讨了爱的本质和意义，让你对爱有更深刻的理解。 [书籍探索家](https://www.youtube.com/watch?v=ViBeIowwh-8) |   |   |
-|                                                                                                              |   |   |
-|                                                                                                              |   |   |
+|                                                                                                              |                                                                          |   |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | - |
+| 【有声书摘】爱是什么？这本《all about love》书深入探讨了爱的本质和意义，让你对爱有更深刻的理解。 [书籍探索家](https://www.youtube.com/watch?v=ViBeIowwh-8) | 李玫瑾教授教你如何談戀愛 [全球華人智慧財富健康頻道](https://www.youtube.com/watch?v=7uNDLwRr6tQ) |   |
+|                                                                                                              |                                                                          |   |
+|                                                                                                              |                                                                          |   |
 
 ### 你该不该躺平
 

@@ -3,10 +3,16 @@
 |                                                                                                                 |   |
 | --------------------------------------------------------------------------------------------------------------- | - |
 | 教你读懂社会学 抖音号： [1693457067](https://www.douyin.com/user/MS4wLjABAAAAgWBajCqXJLehU1itawx4IFNyVZDKVgV8YEb4\_tmywqY) |   |
-| 李玫瑾                                                                                                             |   |
+|                                                                                                                 |   |
 | 柯文哲 [u](https://www.youtube.com/channel/UCllMvuz1DIPIoqNnur7\_Pig)                                              |   |
 
 
+
+| 李玫瑾                                                                 |                                                                                                |   |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | - |
+| 【一席】李玫瑾：心理的迷失 [一席YiXi](https://www.youtube.com/watch?v=OvK-oGLhg1A) | 李玫瑾 3到6岁 儿童 幼儿 早教方法 早期教育方法 性格培养方法 [Jincheng Gong](https://www.youtube.com/watch?v=nzxCvjIWacA) |   |
+|                                                                     |                                                                                                |   |
+|                                                                     |                                                                                                |   |
 
 
 

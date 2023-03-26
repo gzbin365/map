@@ -4,11 +4,11 @@ description: Generative Adversarial Network (GAN)
 
 # GANs
 
-|                                                                                                   |
-| ------------------------------------------------------------------------------------------------- |
-| Random Face Generator (This Person Does Not Exist) [s](https://this-person-does-not-exist.com/zh) |
-| Talk \| 微软亚洲研究院杨蛟龙：高质量三维图像对抗生成学习 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7WPJxLGf\_jA)  |
-|                                                                                                   |
+|                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Random Face Generator (This Person Does Not Exist) [s](https://this-person-does-not-exist.com/zh)                                                                                                                                                                                                        |
+| Talk \| 微软亚洲研究院杨蛟龙：高质量三维图像对抗生成学习 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7WPJxLGf\_jA)                                                                                                                                                                                                         |
+| <p>Generative Adversarial Network (GAN), 2017 <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsMd2G9ZjcpJn1YfnM9wVOBf">Hung-yi Lee</a></p><p>Generative Adversarial Network (GAN), 2018 <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw">Hung-yi Lee</a></p> |
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
