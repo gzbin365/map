@@ -9,7 +9,7 @@ description: 自然语言处理
 | nltk([s](http://www.nltk.org), )                                                                                                                                                 | Vennify AI [u](https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw/videos)                         |
 | github /topics/[synonyms](https://github.com/topics/synonyms)                                                                                                                    | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
 | <p>fighting41love/<a href="https://github.com/fighting41love/funNLP">funNLP</a> 中文NLP资源库</p><p>机器学习小知识 <a href="https://zhuanlan.zhihu.com/yangyangfuture">mountain blue</a></p> | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
-| isnowfy/[snownlp](https://github.com/isnowfy/snownlp) 处理中文文本内容                                                                                                                   |                                                                                                         |
+| isnowfy/[snownlp](https://github.com/isnowfy/snownlp) 处理中文文本内容                                                                                                                   | James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                        |
 
 ## 平台
 
@@ -19,6 +19,14 @@ description: 自然语言处理
 | [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
 | 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html)  |
 | 自然语言处理 [阿里云](https://help.aliyun.com/product/60058.html)       | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)          |
+
+## up
+
+|                                                                         |   |   |
+| ----------------------------------------------------------------------- | - | - |
+| The Coding Train [u](https://www.youtube.com/@TheCodingTrain/playlists) |   |   |
+|                                                                         |   |   |
+|                                                                         |   |   |
 
 ## 数据集
 
@@ -173,6 +181,7 @@ LDA 文档聚类 plsa lsa
 | CS224N: Natural Language Processing with Deep Learning [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ14yXHZWAXiDQ36wEZ\_dw1u) |
 | CS224N: Natural Language Processing with Deep Learning \| Winter 2021 [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)                                                                              |
 | Natural Language Processing with Dan Jurafsky and Chris Manning, 2012 [stanfordonline](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)                                                                              |
+| Lecture Collection \| Natural Language Processing with Deep Learning (Winter 2017) [Stanford University School of Engineering](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq\_TcylNr7EkRe6)                                     |
 | Natural Language Processing with Watson([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmjJv0tSpfiDGQhdLgKb-ZmU))                                                                                                         |
 | Lecture Collection                                                                                                                                                                                                                            |
 | 自然语言IA NLP JING HONG                                                                                                                                                                                                                          |
@@ -225,11 +234,13 @@ Industrial-Strength Natural Language Processing
 
 ### 词向量
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學         |
-| Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U) |
-|                                                                                                 |
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| zake7749/[word2vec-tutorial](https://github.com/zake7749/word2vec-tutorial)   中文詞向量訓練教學                                                   |
+| Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U)                                           |
+| Session 12: word2vec - Programming with Text [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF) |
+| Word Embeddings [macheads101](https://www.youtube.com/watch?v=5PL0TmQhItY\&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u\&index=7)              |
+|                                                                                                                                           |
 
 ### 文本分类
 
@@ -320,7 +331,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 用 Python 编码加密聊天 Coding Encrypted Chat in Python [NeuralNine](https://www.youtube.com/watch?v=U\_Q1vqaJi34)                                                                                                                                                                                     |
 | Deep Learning Chatbot R\&D [sentdex](https://www.youtube.com/watch?v=\_lqAQxdBapI)                                                                                                                                                                                                             |
 | Building a Chatbot with ChatGPT API and Reddit Data [Thu Vu data analytics](https://www.youtube.com/watch?v=EE1Y2enHrcU)                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                                |
+| ChatGPT Plugins: Build Your Own in Python! [James Briggs](https://www.youtube.com/watch?v=hpePPqKxNq8)                                                                                                                                                                                         |
 
 | 百度云智教育                                                                                    |
 | ----------------------------------------------------------------------------------------- |
@@ -574,6 +585,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 老猫聊科技 [u](https://www.youtube.com/@xgtechshow)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 强化学习与ChatGPT：PPO 算法介绍和实际应用(中文介绍） [Pourquoi (布瓜的世界)](https://www.youtube.com/watch?v=IScp-mZ7iS0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | How ChatGPT works - From Transformers to Reinforcement Learning with Human Feedback (RLHF) [John Tan Chong Min](https://www.youtube.com/watch?v=wA8rjKueB3Q)                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ChatGPT + Wolfram: The Future of AI is Here! [Machine Learning Street Talk](https://www.youtube.com/watch?v=z5WZhCBRDpU)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -592,7 +604,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | #93 Prof. MURRAY SHANAHAN - Consciousness, Embodiment, Language Models [Machine Learning Street Talk](https://www.youtube.com/watch?v=BqkWpP3uMMU)                             |
 | HELM 全面语言模型评测【论文精读·50】 [跟李沐学AI](https://www.youtube.com/watch?v=JWKDcq0odn0)                                                                                                   |
 | Dr Alan D. Thompson [u](https://www.youtube.com/@DrAlanDThompson/playlists)                                                                                                    |
-|                                                                                                                                                                                |
+| Talk \| 浙江大学乔硕斐：语言模型提示推理综述 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=hqRmVqPCZ4E)                                                                                      |
 
 ### Causal Inference
 

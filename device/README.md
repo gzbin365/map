@@ -803,6 +803,7 @@ System on Chip, 系统级芯片
 | How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                    |                                                                                                                                       |
 | 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456)                                                                          |                                                                                                                                       |
 | How do SSDs Work? \| How does your Smartphone store data? \| Insanely Complex Nanoscopic Structures! [Branch Education](https://www.youtube.com/watch?v=5Mh3o886qpg) | How do SSDs Work? How to fit 3 WEEKS of TV in a microchip the size of a dime!! Explained in 3min. [Branch Education](https://www.youtube.com/watch?v=E7Up7VuFd8A) | Exploring Solid State Drives and 3D NAND [Branch Education](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j) |
+|                                                                                                                                                                      |                                                                                                                                                                   | LevelDB 磁盘数据结构 [Shuo Chen](https://www.youtube.com/watch?v=nRzbZ\_1HV8M\&list=PL3wVcVGXqdnZ1hkPDwwXk4C0gynXy6BwA\&index=5)            |
 
 ## NAS
 
@@ -1138,7 +1139,11 @@ direct-attached storage
 
 ### 数字电路
 
-
+|                                                                                                        |   |   |
+| ------------------------------------------------------------------------------------------------------ | - | - |
+| 数字电路 Verilog 实验 [Shuo Chen](https://www.youtube.com/playlist?list=PL3wVcVGXqdna8VU5hW9Az5hpT\_dfK8cDB) |   |   |
+|                                                                                                        |   |   |
+|                                                                                                        |   |   |
 
 ### 模拟电路
 

@@ -29,7 +29,7 @@ description: 机器视觉
 | **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                                                                     |
 | **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**                                                      |
 | Jeremy Howard [u](https://www.youtube.com/@howardjeremyp/playlists)                                   | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                            |
-|                                                                                                       | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
+| James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                      | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
 |                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                              |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
@@ -79,6 +79,7 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                    |
 | Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                             |
 | Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
+| AI 產業訓練課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUEnw5L6CASKs04NMa0lg-Bh)                                                                                                                                              |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |

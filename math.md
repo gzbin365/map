@@ -1419,6 +1419,8 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 |                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | [Hashing](https://www.youtube.com/watch?v=Nu8YGneFCWE) MIT OpenCourseWare MIT 6.006 Introduction to Algorithms, Spring 2020 |
+| Hashing in Python: Using Hashlib Library for Secure Hashing [NeuralNine](https://www.youtube.com/watch?v=i-h0CtKde6w)       |
+|                                                                                                                             |
 
 #### MD5
 

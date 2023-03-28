@@ -7,7 +7,7 @@
 | 毛泽东思想和中国特色社会主义理论体系 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzZ3J9SGcGAlXfW5om\_sF-w) |
 | 《中国哲学简史 》：一代哲学大师带你领略中国哲学的博大精深 [听见书声](https://www.youtube.com/watch?v=6uA7WpNTvlY)                      |
 | 杨立华教授解读王阳明 [澄素山房主人](https://www.youtube.com/watch?v=FaCk71\_q4O0)                                      |
-|                                                                                                        |
+| 正向加油站 [u](https://www.youtube.com/@positivevibesstation)                                               |
 |                                                                                                        |
 
 |                                                                                                                                                                                                                                                                                                                                                              |

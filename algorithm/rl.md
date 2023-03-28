@@ -8,6 +8,8 @@ description: 强化学习 让我以另一种方式玩游戏吧
 
 OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.youtube.com/watch?v=540vzMlf-54)
 
+Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367
+
 [**深度强化学习训练智能体：超级玛丽**](https://cloud.tencent.com/developer/article/1786661)
 
 [**DQN in Pytorch Stream 3 of N | Atari Breakout + Logging and Monitoring**](https://www.youtube.com/watch?v=PBWcN3M8Dbs)
@@ -210,5 +212,6 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | 【線性代數 2022 (課程補充)】AlphaTensor: 用增強式學習 (Reinforcement Learning) 找出更有效率的矩陣相乘演算法 [Hung-yi Lee](https://www.youtube.com/watch?v=KPcA8QCTm5U)                                                                                                                                                                                                                                                                                                                                          |
 | <p>DRL, Deep Reinforcement Learning, 2018 <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_">Hung-yi Lee</a></p><p>ML Lecture 23-1: Deep Reinforcement Learning <a href="https://www.youtube.com/watch?v=W8XF3ME8G2I&#x26;list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&#x26;index=33">Hung-yi Lee</a></p><p>Machine Learning (Hung-yi Lee, NTU) <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49">Hung-yi Lee</a></p> |
 | This is a game changer! (AlphaTensor by DeepMind explained) [Yannic Kilcher](https://www.youtube.com/watch?v=3N3Bl5AA5QU)                                                                                                                                                                                                                                                                                                                                                         |
+| 强化学习与ChatGPT：PPO 算法介绍和实际应用(中文介绍） [Pourquoi (布瓜的世界)](https://www.youtube.com/watch?v=IScp-mZ7iS0)                                                                                                                                                                                                                                                                                                                                                                                  |
 
 {% file src="../.gitbook/assets/Bilgin E. Mastering Reinforcement Learning with Python 2021.pdf" %}

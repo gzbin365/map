@@ -20,3 +20,5 @@
 | 树莓派运行Homebridge实现用Homekit控制其他平台智能设备 [BangZhu](https://www.youtube.com/watch?v=7y7KEi3wD8w)                                                                          |
 | \[科技實作] 5000塊的自製冷氣遙控器｜ Arduino + Homebridge [Ning's Talk](https://www.youtube.com/watch?v=RJMFaNfvIY4)                                                              |
 | IoT hacking [Flashback Team](https://www.youtube.com/playlist?list=PLfi5XR5jA2Hofpdf0i9docq9ZkP1ihenL)                                                              |
+| AIoT人工智慧物聯網雲端服務平台課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUFo9e1ppHT5JY85AUPMImtE)                                                            |
+|                                                                                                                                                                     |
