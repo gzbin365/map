@@ -18,7 +18,7 @@
 | LaTeX Tutorials (featuring Texmaker) [Michelle Krummel](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)                         |
 | LaTeX Tutorials [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)                             |
 | LaTeX – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ydOTMQC7np0)                                           |
-|                                                                                                                                           |
+| Mathpix 公式\|图表 生成神器 LaTeX写论文报告必备工具 截图自动识别 [Ben Tech](https://www.youtube.com/watch?v=0cvmFPu6O9Y)                                         |
 |                                                                                                                                           |
 | Overleaf                                                                                                                                  |
 | 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)                       |

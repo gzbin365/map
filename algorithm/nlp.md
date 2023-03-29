@@ -50,6 +50,7 @@ description: 自然语言处理
 | Transformer                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | huggingface/[transformers](https://github.com/huggingface/transformers)                                                                                                                                                              |
+| Developing NLP with Hugging Face on Azure Machine Learning [大魔術熊貓工程師](https://www.youtube.com/watch?v=dpCBWnbab-g)                                                                                                                   |
 | Generative Python Transformer p.1 - Acquiring Raw Data([sentdex](https://www.youtube.com/watch?v=3P3TcKaegbA))                                                                                                                       |
 | Generative Python Transformer p.2 - Raw Data Cleaning([sentdex](https://www.youtube.com/watch?v=MPK3HEKvhes))                                                                                                                        |
 | Generative Python Transformer p.3 - Preprocessing Dataset([sentdex](https://www.youtube.com/watch?v=PUr-4ouD0Xc))                                                                                                                    |
@@ -634,6 +635,9 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | DeepMind AlphaCode 论文精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=t8Gzkca9pW4)                                                               |
 | 程序员对着AI说话，代码就写出来了！OpenAI Codex初体验 [西门良Simon Liang](https://www.youtube.com/watch?v=zmnTMHZXpKs)                                                 |
 | \[ML News] AI models that write code (Copilot, CodeWhisperer, Pangu-Coder, etc.) [Yannic Kilcher](https://www.youtube.com/watch?v=\_9aN1-0T8hg) |
+| GitHub Copilot                                                                                                                                  |
+| 用 AI 來做 AI：GitHub Copilot 初體驗 [大魔術熊貓工程師](https://www.youtube.com/watch?v=RPOlHiMHZTE)                                                           |
+| Cursor [v](https://www.youtube.com/watch?v=9XzEuEZlji0)                                                                                         |
 |                                                                                                                                                 |
 
 #### 拼写检查

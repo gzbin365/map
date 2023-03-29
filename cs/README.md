@@ -399,6 +399,8 @@ Google Colab vs Kaggle Kernels vs DeepNote vs Datalore vs Binder Differences | J
 
 智星云 **** [**s**](http://www.ai-galaxy.cn/)   ****   Vultr [零度解说](https://www.youtube.com/watch?v=xZNgW9Yb9\_c)
 
+google colab,   kaggle notebooks,   aws sage maker,   azure machine learning,  &#x20;
+
 刷题面试 [v](https://www.douyin.com/video/6993993258548366606)
 
 |                                                                                     |   |   |
