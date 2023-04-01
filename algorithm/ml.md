@@ -883,7 +883,7 @@ Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcade
 |                                                                                               |
 |                                                                                               |
 
-### 神经网络 Neural Networks
+### 神经网络, Neural Networks, NN
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -919,6 +919,17 @@ Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcade
 |                                                                       |                                                                                                              |                                                                 |
 
 
+
+### RBF Networks
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| RBF Networks [macheads101](https://www.youtube.com/watch?v=1Cw45yNm6VA)                            |
+| Lecture 16 - Radial Basis Functions [caltech](https://www.youtube.com/watch?v=O8CfrnOPtLc)         |
+| Mod-01 Lec-27 RBF Neural Network [nptelhrd](https://www.youtube.com/watch?v=KiVJkqac82Q)           |
+| Mod-01 Lec-28 RBF Neural Network (Contd.) [nptelhrd](https://www.youtube.com/watch?v=nOt\_V7ndmLE) |
+|                                                                                                    |
+|                                                                                                    |
 
 ### 参数追踪 参数可视化
 
@@ -1460,7 +1471,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Stable Diffusion Online [s](https://stablediffusionweb.com/)                                                                                                                             | CompVis/[stable-diffusion](https://github.com/CompVis/stable-diffusion)                                                                                 |                                                                                                                             |
 | AI Art with Stable Diffusion (Women of the World) [deeplizard](https://www.youtube.com/watch?v=0ToXPFepgx4)                                                                              | 最火的AI作图模型，这5款免费下载，含提示词，配合 Stable-diffusion 来制作高清大图吧！ \| [零度解说](https://www.youtube.com/watch?v=-d-B87EwT04)                                             | Generating Realistic AI Images with Stable Diffusion [NeuralNine](https://www.youtube.com/watch?v=H6mmNxynlZw)              |
 | 为什么AI画画能既离谱又烧钱啊？？ [量子位](https://www.youtube.com/watch?v=UBN95hQSlE4)                                                                                                                     | Stable Diffusion不用獨立顯卡，不需上網連線，10分鐘超簡單安裝教學就把AI繪圖搬回家，有NVIDIA獨顯繪畫更快，Stable Diffusion能單機使用，比Midjourney好用 [老阿貝](https://www.youtube.com/watch?v=3G5XGyVKbJY) | Lesson 9: Deep Learning Foundations to Stable Diffusion, 2022 [Jeremy Howard](https://www.youtube.com/watch?v=\_7rMfsA24Ls) |
-| <p>由Stabiliti AI在2022年发布的工具 <a href="https://www.youtube.com/watch?v=A05B3cgYHp8">u</a> 抓取了50亿公开图片, 可以用文字和图片生成图片 colab Chillout_mix</p><p><a href="https://civitai.com/">civitai</a></p> |                                                                                                                                                         |                                                                                                                             |
+| <p>由Stabiliti AI在2022年发布的工具 <a href="https://www.youtube.com/watch?v=A05B3cgYHp8">u</a> 抓取了50亿公开图片, 可以用文字和图片生成图片 colab Chillout_mix</p><p><a href="https://civitai.com/">civitai</a></p> | 云端AI绘图软件+本地Stable Diffusion免安装版+懒人常用模型包,完全使用攻略-猩猩看了都会用的AI绘图视频教程 [番茄市常听](https://www.youtube.com/watch?v=XkhH0-y7akw)                                    |                                                                                                                             |
 
 ## 基础模型 Foundation Models
 

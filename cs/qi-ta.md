@@ -116,6 +116,7 @@
 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                        |
 | 跟兄弟连学PHP新版视频教程 - PHP篇 [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7f1IGdk6b4B7NXKQ0OcmlKx)                                                                                 |
 | PHP Tutorial for Beginners \| Full Course to Learn What is PHP in Hindi With Projects [WsCube Tech](https://www.youtube.com/watch?v=EJWw1bd0-C0)                                          |
+| PHP Full Course for non-haters 🐘 (2023) [Bro Code](https://www.youtube.com/watch?v=zZ6vybT1HQs)                                                                                          |
 |                                                                                                                                                                                           |
 
 ## lua

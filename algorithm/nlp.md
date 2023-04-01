@@ -22,11 +22,11 @@ description: 自然语言处理
 
 ## up
 
-|                                                                         |   |   |
-| ----------------------------------------------------------------------- | - | - |
-| The Coding Train [u](https://www.youtube.com/@TheCodingTrain/playlists) |   |   |
-|                                                                         |   |   |
-|                                                                         |   |   |
+|                                                                         |                                                                            |   |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------- | - |
+| The Coding Train [u](https://www.youtube.com/@TheCodingTrain/playlists) | Zhijing Jin on AI Insights [u](https://www.youtube.com/@Zhijing/playlists) |   |
+|                                                                         |                                                                            |   |
+|                                                                         |                                                                            |   |
 
 ## 数据集
 
@@ -186,6 +186,7 @@ LDA 文档聚类 plsa lsa
 | Natural Language Processing with Watson([Nicholas Renotte](https://www.youtube.com/playlist?list=PLgNJO2hghbmjJv0tSpfiDGQhdLgKb-ZmU))                                                                                                         |
 | Lecture Collection                                                                                                                                                                                                                            |
 | 自然语言IA NLP JING HONG                                                                                                                                                                                                                          |
+| DS-GA 1011 (Fall 2021) Deep Learning for Natural Language Processing [KyungHyun Cho](https://www.youtube.com/playlist?list=PLdH9u0f1XKW\_s-c8EcgJpn\_HJz5Jj1IRf)                                                                              |
 | Natural Language Processing with spaCy & Python - Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=dIUTsFT2MeQ)                                                                                                            |
 | Medical natural language processing [Google Cloud Tech](https://www.youtube.com/watch?v=oyhpIWa9w1Y)                                                                                                                                          |
 | [rnn](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDnv9TotU-NzxyVpi5WI4XXd) Yinan Zuo                                                                                                                                                    |
@@ -205,6 +206,8 @@ LDA 文档聚类 plsa lsa
 | \[Tutorialsplanet.NET] Udemy - Natural Language Processing with Python from zero to hero                                                                                                                                                      |
 | Natural Language Processing [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)                                                                                                                            |
 | Deep Learning for Human Language Processing (2020,Spring) [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)                                                                                            |
+| EMNLP 2022 Tutorial - "Modular and Parameter-Efficient Fine-Tuning for NLP Models" [Jonas Pfeiffer](https://www.youtube.com/watch?v=KoOlcX3XLd4) 3:39:30                                                                                      |
+|                                                                                                                                                                                                                                               |
 
 #### spaCy
 
@@ -473,6 +476,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                             |                                                                                          |   |
 |                                                                                             |                                                                                          |   |
 
+### CausalNLP
+
+|                                                                                                                   |   |   |
+| ----------------------------------------------------------------------------------------------------------------- | - | - |
+| CausalNLP [Zhijing Jin on AI Insights](https://www.youtube.com/playlist?list=PLtVBX\_ld338UTeq9LphgjCfMpM2EcSbEs) |   |   |
+|                                                                                                                   |   |   |
+|                                                                                                                   |   |   |
+
 ### 机器翻译
 
 |                                                                                                                                       |
@@ -483,6 +494,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 田哥懂翻译 抖音号：[tianhongChina](https://www.douyin.com/user/MS4wLjABAAAARHHa6w4dCeLMyf3G208cVbpFx6pe1cr-SVCCyKogauzvoDp3SkPq0HhX3N7BYmt5)   |
 | 截图翻译工具 [s](https://z197.com/blog/recommend-practical-screenshot-translation-tool.html)                                                |
 | 只知道 ChatGPT？AI 聊天机器人与双语电子书对决：两大神器助你提高聊天效率和对比输出结果！AI 工具对比系列 \| [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ)                  |
+| \[ChatGPT] 如何使用ChatGPT 快速翻譯 PDF 文件? [大數軟體有限公司](https://www.youtube.com/watch?v=SjFNh18BB7M)                                           |
+|                                                                                                                                       |
 
 ### Attention
 
@@ -587,7 +600,15 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 强化学习与ChatGPT：PPO 算法介绍和实际应用(中文介绍） [Pourquoi (布瓜的世界)](https://www.youtube.com/watch?v=IScp-mZ7iS0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | How ChatGPT works - From Transformers to Reinforcement Learning with Human Feedback (RLHF) [John Tan Chong Min](https://www.youtube.com/watch?v=wA8rjKueB3Q)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ChatGPT + Wolfram: The Future of AI is Here! [Machine Learning Street Talk](https://www.youtube.com/watch?v=z5WZhCBRDpU)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ChatGPT 最佳开源客户端！免费跨平台，可以媲美 Chatgpt Plus版 ！【Chatbox】 \| [零度解说](https://www.youtube.com/watch?v=aXjqsC1ennY)[https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)                                                                                                                                                                                                                                                                                                                                                                            |
+| bard [s](https://bard.google.com/) 美                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ChatGPT插件开发快速入门教程，附送免费电子书资料：Chat Plugins开发基本知识，开发流程，案例分析，构建API服务、manifest清单、OpenAPI规范文件 [TechDIYLife](https://www.youtube.com/watch?v=2K3gigc3VaU)                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| GPT-4论文精读【论文精读·53】 [Mu Li](https://www.youtube.com/watch?v=K0SZ9mdygTw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| OpenAI GPT-4 - The Future Is Here! [Two Minute Papers](https://www.youtube.com/watch?v=7VSWyghVZIg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ChatGPT支持插件，开创AI新生态系统 \| ChatGPT+Plugin等于互联网新生态，OpenAI要上天，GPT-4，GPT-3.5 [TechDIYLife](https://www.youtube.com/watch?v=3Uy0rlyUeW0)                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 我用ChatGPT跟AI繪圖做出懷舊2D射擊遊戲！花不到4小時！？｜[兔兔與雞雞的工程世界](https://www.youtube.com/watch?v=iCPt8NU7W\_s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 如何用自己的資料集微調訓練自己的 ChatGPT 聊天機器人 [人工智慧](https://www.youtube.com/watch?v=wfiuYm19wL0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 5分钟教你搭建ChatGPT在线网页版新UI附源码3.5增强版接口 [聚联源码网](https://www.youtube.com/watch?v=pa9Sl9DVv6s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### 语言模型, Language Models

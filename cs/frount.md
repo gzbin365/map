@@ -360,6 +360,7 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                                                                                                           |
+| Harvard CS50’s Web Programming with Python and JavaScript – Full University Course [freeCodeCamp](https://www.youtube.com/watch?v=vzGllw18DkA)   14:14:23                                    |
 | Let's build Battleships in JavaScript! [Code with Ania Kubów](https://www.youtube.com/watch?v=Ubh\_k18sX4E)                                                                                  |
 | JavaScript Talking Avatar with Face Tracking (no libraries and no internet help 😂) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=U88NM8ScsPY)                                     |
 | Sorting Visualizer with Sound (JavaScript Tutorial) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=\_AwSlHlpFuc)                                                                    |
