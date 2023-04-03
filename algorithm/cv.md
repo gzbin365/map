@@ -295,13 +295,16 @@ import cv2
 | Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                          |
 | 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                           |
 
-## 以图搜图
+## 以图搜图 Image similarity search
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| facebookresearch/[faiss](https://github.com/facebookresearch/faiss)        |
-| 通过截图找片子！好多人在寻找的搜索方法！\| [零度解说](https://www.youtube.com/watch?v=tERFkMjRGaE) |
-| gettyimages [s](https://www.gettyimages.com/)                              |
+|                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| facebookresearch/[faiss](https://github.com/facebookresearch/faiss)                                                                                                            |
+| 通过截图找片子！好多人在寻找的搜索方法！\| [零度解说](https://www.youtube.com/watch?v=tERFkMjRGaE)                                                                                                     |
+| gettyimages [s](https://www.gettyimages.com/)                                                                                                                                  |
+| Pinecone Demo - Image similarity search example [Pinecone](https://www.youtube.com/watch?v=SA7swBXwkTY)                                                                        |
+| Image Similarity Search using PyTorch & Spotify [Annoy CloudCasts - Alan Smith](https://www.youtube.com/watch?v=wDnXFXbytVk\&list=PLPoQn6QlsOwMfXnle8C7RuKhVYlcoDESr\&index=2) |
+| Google Image [s](https://images.google.com/)                                                                                                                                   |
 
 ## 卷积神经网络, Convolutional Neural Networks, CNN
 
@@ -311,7 +314,8 @@ import cv2
 | What is a convolutional neural network (CNN)? [Packt](https://www.youtube.com/watch?v=K\_BHmztRTpA)                                                                     | What is CNN Convolutional neural network \| Why should we use CNN \| Goeduhub [Goeduhub Technologies](https://www.youtube.com/watch?v=A9u43OT\_xPU)                  | CNN architecture in 5 minutes - A Quick Learning [Shriram Vasudevan](https://www.youtube.com/watch?v=R9CSbcGxKzo)                         |
 | Convolutional Neural Networks \| CNN \| Kernel \| Stride \| Padding \| Pooling \| Flatten \| Formula [Binod Suman Academy](https://www.youtube.com/watch?v=Y1qxI-Df4Lk) | <p></p><p>Convolutional Neural Networks <a href="https://www.youtube.com/watch?v=wzy8jI-duEQ">Weights &#x26; Biases</a></p>                                          | Convolutional Neural Networks Explained (CNN Visualized) [Futurology — An Optimistic Future](https://www.youtube.com/watch?v=pj9-rr1wDhM) |
 | Convolutional Neural Network Visualization by Otavio Good [Israel Vicars](https://www.youtube.com/watch?v=f0t-OCG79-U)                                                  | 2D Convolution Neural Network Animation [Anuj shah](https://www.youtube.com/watch?v=CXOGvCMLrkA)                                                                     | Convolutional Neural Networks (CNNs) explained [deeplizard](https://www.youtube.com/watch?v=YRhxdVk\_sIs)                                 |
-| 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) |                                                                                                                                           |
+| 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) | ResNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=pWMnzCX4cwQ)                                                                         |
+| AlexNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=zjnxu8KUYKA)                                                                                                      |                                                                                                                                                                      |                                                                                                                                           |
 |                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                           |
 
 ## Detection and Segmentation

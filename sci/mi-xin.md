@@ -119,4 +119,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 酒精的真相 [脑洞乌托邦](https://www.youtube.com/watch?v=g-bmHi7fZRw)                                                                                                                                   |
 | 百家Talk [u](https://www.youtube.com/channel/UCd4H3wd6XEOFF4zYgkMcfDA/playlists)   子轩鉴宝 抖音号：[374624671](https://www.douyin.com/user/MS4wLjABAAAAsMo5iLPL3m1QCGKL\_SGX8W\_0jkvYbEEiqI26ZehrXcQ) |
+| Mythical system in the world [s](https://www.google.com/search?q=Mythical%20system%20in%20the%20world)                                                                                       |
+| List of mythologies [wiki](https://en.wikipedia.org/wiki/List\_of\_mythologies)                                                                                                              |
+|                                                                                                                                                                                              |
 |                                                                                                                                                                                              |

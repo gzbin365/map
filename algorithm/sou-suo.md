@@ -11,6 +11,12 @@
 | Google Like a Pro – All Advanced Search Operators Tutorial \[2023 Tips] [freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0) |
 | 贪婪搜索                                                                                                                                |
 | beam search                                                                                                                         |
+| ZoomEye [v](https://www.youtube.com/watch?v=K9cM0BEdlZ4)                                                                            |
+| Computer Vision and Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhF5CrFLaAWKuA0LoFWtpQj)          |
+| NLP for Semantic Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgz-BI8bNMVGwQxIMuQddJO)             |
+| Vector Similarity Search and Faiss Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)  |
+|                                                                                                                                     |
+|                                                                                                                                     |
 
 | 搜索技巧                                                                 |
 | -------------------------------------------------------------------- |

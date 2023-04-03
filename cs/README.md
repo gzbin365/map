@@ -178,6 +178,8 @@ International Business Machine IBM 美国国际商用机器公司
 | Azure Developer Associate (AZ-204) — Full Course Pass the Exam! [freeCodeCamp](https://www.youtube.com/watch?v=jZx8PMQjobk)                        |
 | Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=P3qmqUZJ7l0)          |
 | 免费申请 microsoft 365 E5 账号 可开25个号 每个号OneDrive5t空间 无限续期 永久使用 [科技lion](https://www.youtube.com/watch?v=4NmPlEf4FTk)                                    |
+| CloudCasts - Alan Smith [u](https://www.youtube.com/@CloudCastsAlanSmith/playlists)                                                                |
+|                                                                                                                                                    |
 |                                                                                                                                                    |
 
 #### office

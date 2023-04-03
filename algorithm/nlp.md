@@ -411,6 +411,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | **P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT**                                                                                                                                                                                                                                      | [**sentdex**](https://www.youtube.com/watch?v=lheXIYXanuU) |
 | <p>Getting Started with Conversational AI with NVIDIA's Jarvis Platform</p><p><a href="https://www.youtube.com/watch?v=Wq5toPoJ-08">Machine Learning with Phil</a></p>                                                                                                                                                |                                                            |
 
+### QA Question Answering
+
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Question Answering in NLP Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLjWyG832fMAcBYfyRZvU\_9-) |
+|                                                                                                                            |
+|                                                                                                                            |
+
 ### 多轮对话 Multi-turn Dialogue
 
 |                                                                                                                                                                                                                           |
@@ -609,7 +617,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 我用ChatGPT跟AI繪圖做出懷舊2D射擊遊戲！花不到4小時！？｜[兔兔與雞雞的工程世界](https://www.youtube.com/watch?v=iCPt8NU7W\_s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 如何用自己的資料集微調訓練自己的 ChatGPT 聊天機器人 [人工智慧](https://www.youtube.com/watch?v=wfiuYm19wL0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 5分钟教你搭建ChatGPT在线网页版新UI附源码3.5增强版接口 [聚联源码网](https://www.youtube.com/watch?v=pa9Sl9DVv6s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| nomic-ai/[gpt4all](https://github.com/nomic-ai/gpt4all) [v](https://www.youtube.com/watch?v=IVI4pjzmeak)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ### 语言模型, Language Models
 
@@ -627,6 +635,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | HELM 全面语言模型评测【论文精读·50】 [跟李沐学AI](https://www.youtube.com/watch?v=JWKDcq0odn0)                                                                                                   |
 | Dr Alan D. Thompson [u](https://www.youtube.com/@DrAlanDThompson/playlists)                                                                                                    |
 | Talk \| 浙江大学乔硕斐：语言模型提示推理综述 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=hqRmVqPCZ4E)                                                                                      |
+| Building the Future with LLMs, LangChain, & Pinecone [Pinecone](https://www.youtube.com/watch?v=nMniwlGyX-c)                                                                   |
+|                                                                                                                                                                                |
+|                                                                                                                                                                                |
 
 ### Causal Inference
 

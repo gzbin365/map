@@ -131,6 +131,8 @@
 | 这是我见过最酷的记笔记方法。[Topbook](https://www.youtube.com/watch?v=lzhGcKn2j-8)                                                                                                                                                                                                                                    |
 | 全网最强的睡眠大法？快速入睡+精神饱满的秘诀！丨[Shiyin 十音](https://www.youtube.com/watch?v=CkUlybrPv4g)                                                                                                                                                                                                                        |
 | 你假裝 努力 的樣子，比 懶惰 更可怕 [996創業家造雨俠](https://www.youtube.com/watch?v=tJuhUqu4FZ8)                                                                                                                                                                                                                            |
+| 饭局懂王的知识方法论大公开！ [大刘科普](https://www.youtube.com/watch?v=C6lOJO23mEY)                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                         |
 
 &#x20;自动续费套路深，看看你被坑过吗？[直男财经](https://www.douyin.com/video/7034955890868407565)
 
