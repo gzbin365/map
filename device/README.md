@@ -70,14 +70,14 @@ description: 硬件设备
 
 ## **Raspberry Pi**
 
-|                                                                                                                         |                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Raspberry Pi** [**u**](https://www.youtube.com/c/raspberrypi/featured) **** [**s**](https://www.raspberrypi.com/)**** | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
-| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )**                        | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
-| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                                                  | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
-| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                                               | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
-| Yuan Wang [u](https://www.youtube.com/channel/UCfy3IRqGZb7W6Jv4gWChTzA)                                                 | powersee [u](https://www.youtube.com/c/powersee/videos)                                                                    |
-| Sam Westby Tech [u](https://www.youtube.com/c/SamWestbyTech/playlists)                                                  | 游戏咖啡馆 GameCafe [u](https://www.youtube.com/c/%E6%B8%B8%E6%88%8F%E5%92%96%E5%95%A1%E9%A6%86GameCafe)                        |
+|                                                                                                                |                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Raspberry Pi** [**u**](https://www.youtube.com/c/raspberrypi/featured) [**s**](https://www.raspberrypi.com/) | **Raspberry Pi Press(**[**u**](https://www.youtube.com/c/RaspberryPiPress/featured)**, )**                                 |
+| **Refactored(**[**u**](https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg/featured)**, )**               | **Raspberry Pi Foundation(**[**u**](https://www.youtube.com/c/RaspberryPiFoundation/featured)**, )**                       |
+| Jeff Geerling([u](https://www.youtube.com/c/JeffGeerling/playlists), )                                         | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )** |
+| 我是炬峰 [u](https://www.youtube.com/channel/UC0hhCneyvOghUSXTQ0TIyUA/videos)                                      | 老明 [u](https://www.youtube.com/watch?v=ZD4vjA3J11s)                                                                        |
+| Yuan Wang [u](https://www.youtube.com/channel/UCfy3IRqGZb7W6Jv4gWChTzA)                                        | powersee [u](https://www.youtube.com/c/powersee/videos)                                                                    |
+| Sam Westby Tech [u](https://www.youtube.com/c/SamWestbyTech/playlists)                                         | 游戏咖啡馆 GameCafe [u](https://www.youtube.com/c/%E6%B8%B8%E6%88%8F%E5%92%96%E5%95%A1%E9%A6%86GameCafe)                        |
 
 |                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -232,9 +232,11 @@ description: 硬件设备
 
 ## PC掌机
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| [PC游戏掌机！这三台小电脑谁最强？GPD/AYA/壹号本大对决](https://www.youtube.com/watch?v=vmi0KNlhryE)(极客湾Geekerwan) |
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| [PC游戏掌机！这三台小电脑谁最强？GPD/AYA/壹号本大对决](https://www.youtube.com/watch?v=vmi0KNlhryE)(极客湾Geekerwan)    |
+| ROG掌機成真！ AMD定制晶片，還可以外接4090顯卡？ 「超極氪」 [Super Kr超极氪](https://www.youtube.com/watch?v=jHAAy\_lxsFA) |
+|                                                                                                 |
 
 ### 一号本
 
@@ -327,7 +329,7 @@ description: 硬件设备
 
 |                                                                                                                                |                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| ****                                                                                                                           | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
+|                                                                                                                                | **Yo2B Production(**[**u**](https://www.youtube.com/c/Yo2BProduction/featured)**, )**                           |
 | **UAVfutures(**[**u**](https://www.youtube.com/c/UAVfutures/featured)**, )**                                                   | **RunTime(**[**u**](https://www.youtube.com/c/RunTimerec/videos)**, )**                                         |
 | DRL无人机竞速联盟 抖音号： [DroneRacing](https://www.douyin.com/user/MS4wLjABAAAAtXfW4n0oTyGTUlYT7ko6wnBlqtJ2bgeUcnJ8QULn8b4)             | 瑋業科技；空拍機專賣店 [u](https://www.youtube.com/channel/UChoaRCbbEtp-xmgxGeHjQwg/playlists)                             |
 | BETAFPV [Yang\_FPV](https://www.douyin.com/video/7028929649568779524)                                                          | HeyDrones [u](https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA/videos)                                  |
@@ -451,7 +453,7 @@ description: 硬件设备
 
 |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- |
-| 世界上最小的直升机 ？ **** [**v**](https://www.douyin.com/video/7028898711543532830)****                           |
+| 世界上最小的直升机 ？ [**v**](https://www.douyin.com/video/7028898711543532830)                                    |
 | FLY WING [u](https://www.youtube.com/channel/UC7wgvBlRwRiHG5SVAj7hthw)                                   |
 | Unboxing Eachine E110 Helikopter [Cgit Einsteins](https://www.youtube.com/watch?v=GJrQBq572P8)           |
 | 如何制作阿凡达蝎子遥控直升机 - 3D 打印遥控直升机 [Craft Channel](https://www.youtube.com/watch?v=UkFCE25-XTs)                 |
@@ -1021,7 +1023,7 @@ direct-attached storage
 | Google Just Put an A.I. Brain in a Robot \[Research Breakthrough] [ColdFusion](https://www.youtube.com/watch?v=Jy3zjXK4ao4)                               |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                           |
 | Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
-| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1) **** Yinan Zuo                                  |
+| [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1)  Yinan Zuo                                      |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
 | 机器人基础原理 东北大学 房立金 [电子工程世界](http://training.eeworld.com.cn/course/5410) 共55课时 10小时50分9秒                                                                     |

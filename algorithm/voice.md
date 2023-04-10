@@ -8,11 +8,11 @@ autotune
 
 
 
-[**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) **** [**NEUTRINO**](https://n3utrino.work)
+[**基于CNN的歌声合成算法论文解读**](https://cloud.tencent.com/developer/article/1776840) [**NEUTRINO**](https://n3utrino.work)
 
 [**linux下python文字转语音库pyttsx3用法**](https://www.bilibili.com/video/av67394684/)
 
-Python实现语音合成 **** [zminoooooo](https://www.bilibili.com/video/BV1gu411R7L1) 使用百度api   35:00  开始
+Python实现语音合成 [zminoooooo](https://www.bilibili.com/video/BV1gu411R7L1) 使用百度api   35:00  开始
 
 Python文字语音播报 [**书童**](https://xugaoxiang.com/2021/04/08/python-tts-chinese/)
 
@@ -83,7 +83,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | vosk                                                                                                                                                                                                                                                                                                         |
 | paddle speech                                                                                                                                                                                                                                                                                                |
 | SpeechRecognition [pypi](https://pypi.org/project/SpeechRecognition/) [git](https://github.com/Uberi/speech\_recognition) [v](https://www.youtube.com/watch?v=31DZfkYRvI4)                                                                                                                                   |
-| PyAudio **** [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)****                                                                                                                                                                                                                              |
+| PyAudio [**s**](http://people.csail.mit.edu/hubert/pyaudio/#downloads)                                                                                                                                                                                                                                       |
 | Speech Recognition with Convolutional Neural Networks in Keras/TensorFlow [Weights & Biases](https://www.youtube.com/watch?v=Qf4YJcHXtcY)                                                                                                                                                                    |
 | Automatic Speech Recognition - An Overview [Microsoft Research](https://www.youtube.com/watch?v=q67z7PTGRi8) [s](https://www.microsoft.com/en-us/research/video/automatic-speech-recognition-overview/)                                                                                                      |
 | I Built a Personal Speech Recognition System for my AI Assistant [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=YereI6Gn3bM)                                                                                                                                                                |
@@ -152,6 +152,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                   |
 | [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                   |
 | How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
+| 我花了15小時，就為找到這3款AI語音生成工具｜AI朗读｜AI虚拟主播 [指令必达](https://www.youtube.com/watch?v=RsnU0Pjt7lo)                                                                         |
 |                                                                                                                                                                 |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |

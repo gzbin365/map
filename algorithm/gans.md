@@ -39,6 +39,7 @@ description: Generative Adversarial Network (GAN)
 | StyleGANv2 Explained! [Connor Shorten](https://www.youtube.com/watch?v=u8qPvzk0AfY)                                                                                          |
 | StyleGAN2 explained - AI generated faces, cars and cats! [AI Bites](https://www.youtube.com/watch?v=841UAo7Ax5w)                                                             |
 | Talk \| 清华大学计算机科学与技术系博士研究生孔祥哲：基于等变图注意力网络的抗体设计 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=F5rZELbZSsI)                                                                 |
+| Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                       |
 |                                                                                                                                                                              |
 
 | AnimeGAN                                                                                                                                                                   |

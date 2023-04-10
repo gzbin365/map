@@ -137,4 +137,8 @@ Nietzsche : L'oeuvre philosophique expliquée (Un cours particulier de [Luc Ferr
 | 复旦大学公开课：《共产党宣言》导读（张双利教授） [Jegvar](https://www.bilibili.com/video/BV11t411C7Lk/)                                                                                        |
 | 共产党宣言 [12371](https://www.12371.cn/special/gcdxy/)  [s](https://news.12371.cn/2018/04/24/ARTI1524553638408468.shtml#1872dwbxy)                                         |
 | 中国共产党纪律处分条例（全文）[共产党员网](https://www.12371.cn/2018/08/27/ARTI1535321642505383.shtml)                                                                                     |
+| 中国共产党章程 党章 [12371](https://www.12371.cn/special/zggcdzc/)                                                                                                              |
+| 入党誓词 [12371](https://www.12371.cn/special/rdsc/)                                                                                                                       |
+| 党徽党旗图案标准版 [12371](https://www.12371.cn/2021/07/09/ARTI1625818075938118.shtml)                                                                                          |
+|                                                                                                                                                                        |
 

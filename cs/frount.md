@@ -10,6 +10,7 @@
 | 程序员小山与Bug 抖音号：[xiaoshan.bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd\_mbHotBKV8Bth4LLl4OA\_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm) | Progress Bar 進度條線上課程 [u](https://www.youtube.com/c/ProgressBarTW/playlists)                   |
 | Coding Tech [u](https://www.youtube.com/c/CodingTech)                                                                                    | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                            |
 | Slaying The Dragon [u](https://www.youtube.com/@slayingthedragon)                                                                        | Alex 宅幹嘛 [u](https://www.youtube.com/@AlexOtakuWhat)                                          |
+| Nader Dabit [u](https://www.youtube.com/@naderdabit)                                                                                     |                                                                                               |
 
 | **前端**                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,9 +37,9 @@
 
 ## web 开发
 
-|                                                               |   |
-| ------------------------------------------------------------- | - |
-| LearnWebCode [u](https://www.youtube.com/watch?v=lgyszZhAZOI) |   |
+|                                                               |                                                               |
+| ------------------------------------------------------------- | ------------------------------------------------------------- |
+| LearnWebCode [u](https://www.youtube.com/watch?v=lgyszZhAZOI) | web3Mantra [u](https://www.youtube.com/@web3mantra/playlists) |
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -81,6 +82,7 @@
 | Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial [Fireship](https://www.youtube.com/watch?v=Q7AOvWpIVHU)                                                                 |
 | Build a Responsive Website \| HTML, CSS Grid, Flexbox & More [Traversy Media](https://www.youtube.com/watch?v=p0bGHP-PXD4)                                                                       |
 | How to use AI Art and ChatGPT to Create a Insane Web Designs [Codex Community](https://www.youtube.com/watch?v=8I3NTE4cn5s)                                                                      |
+| Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) [freeCodeCamp](https://www.youtube.com/watch?v=MsnQ5uepIaE) 10:02:09                              |
 |                                                                                                                                                                                                  |
 
 |   |   |
@@ -141,6 +143,7 @@
 |                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021 [Clever Programmer](https://www.youtube.com/watch?v=RDV3Z1KCBvo)     |
+| All The JavaScript You Need To Know For React [PedroTech](https://www.youtube.com/watch?v=m55PTVUrlnA)                                                                   |
 | Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 \| RapidAPI [JavaScript Mastery](https://www.youtube.com/watch?v=FHTbsZEJspU)         |
 | Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind [JavaScript Mastery](https://www.youtube.com/watch?v=\_oO4Qi5aVZs)               |
 | React、React.js、React Native的区别 [壹点微尘](https://www.jianshu.com/p/75fe1a5a5fd7)                                                                                            |
@@ -200,18 +203,24 @@
 | ChatGPT Clone – OpenAI API and React Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=98bGwOYoEGg)                                                                |
 | React JS Tutorial For Beginners [Leon Noel](https://www.youtube.com/watch?v=edsuuCsiah0)                                                                                 |
 | Learn React 18 with Redux Toolkit – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=2-crBg6wpp0)                                              |
+| React Hooks Course - All React Hooks Explained [PedroTech](https://www.youtube.com/watch?v=LlvBzyy-558)                                                                  |
+| React.js Full Course in Hindi for Beginners - 2023 \| Master React in 12 Hours [web3Mantra](https://www.youtube.com/watch?v=lLeZ8Cr2YVM)                                 |
+| React Native Course – Android and iOS App Development [freeCodeCamp](https://www.youtube.com/watch?v=obH0Po\_RdWk)                                                       |
+|                                                                                                                                                                          |
+|                                                                                                                                                                          |
 
 ### Next.js
 
-|                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [site](https://www.nextjs.cn)                                                                                                                            |
-| Nextjs Crash Course with Fauna, Auth0, Tailwind, and More! [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfao-jcw-SEiyON58ipmIzbL)     |
-| Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE) |
-| Next.js for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I)                                                          |
-| 🔴 Build Modern Portfolio with NextJS, TypeScript, SSR, and CMS [Clever Programmer](https://www.youtube.com/watch?v=Ym6RYyRBPaA)                         |
-| Next.js 12.3 Overview: Improved Fast Refresh, TypeScript Auto-Install, and more. [Vercel](https://www.youtube.com/watch?v=3UD7Y02AcN4)                   |
-| The Story of Next.js [uidotdev](https://www.youtube.com/watch?v=BILxV\_vrZO0)                                                                            |
+|                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [site](https://www.nextjs.cn)                                                                                                                             |
+| Nextjs Crash Course with Fauna, Auth0, Tailwind, and More! [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfao-jcw-SEiyON58ipmIzbL)      |
+| Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE)  |
+| Next.js for Beginners - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I)                                                           |
+| 🔴 Build Modern Portfolio with NextJS, TypeScript, SSR, and CMS [Clever Programmer](https://www.youtube.com/watch?v=Ym6RYyRBPaA)                          |
+| Next.js 12.3 Overview: Improved Fast Refresh, TypeScript Auto-Install, and more. [Vercel](https://www.youtube.com/watch?v=3UD7Y02AcN4)                    |
+| The Story of Next.js [uidotdev](https://www.youtube.com/watch?v=BILxV\_vrZO0)                                                                             |
+| How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟 [CodeBucks](https://www.youtube.com/watch?v=Yw7yWHigGKI) 5:50:43 |
 
 ## Node
 
@@ -294,6 +303,7 @@
 | Electron Build Desktop Apps Using HTML\CSS\JS [CoderOne](https://www.youtube.com/playlist?list=PLvXDmnBbOF7TTTjsEFfASkgqwlyZOPSWz)                                                                    |
 | Responsive Personal Portfolio Website Using HTML CSS And JavaScript \| Dark/Light Mode [Bedimcode](https://www.youtube.com/watch?v=27JtRAI3QO8)                                                       |
 | Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript [freeCodeCamp](https://www.youtube.com/watch?v=xV7S8BhIeBo)                                                              |
+| Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript [freeCodeCamp](https://www.youtube.com/watch?v=OcTPaUfay5I)                                                         |
 | Introduction To Responsive Web Design - HTML & CSS Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s)                                                                               |
 | Learn HTML5 and CSS3 From Scratch - Full Course [freeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)                                                                                           |
 | How To Make Website Using HTML & CSS                                                                                                                                                                  |
@@ -360,6 +370,9 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                                                                                                           |
+| Learn JavaScript With This ONE Project! [Tech With Tim](https://www.youtube.com/watch?v=E3XxeE7NF30)                                                                                         |
+| Asynchronous Javascript Tutorial - Promises and Async Await Explained [PedroTech](https://www.youtube.com/watch?v=PgZ9npYJZzU)                                                               |
+| JavaScript Mastery Complete Course \| JavaScript Tutorial For Beginner to Advanced [Nerd's lesson](https://www.youtube.com/watch?v=xc3a\_CJhjCc) 1:08:53:45                                  |
 | Harvard CS50’s Web Programming with Python and JavaScript – Full University Course [freeCodeCamp](https://www.youtube.com/watch?v=vzGllw18DkA)   14:14:23                                    |
 | Let's build Battleships in JavaScript! [Code with Ania Kubów](https://www.youtube.com/watch?v=Ubh\_k18sX4E)                                                                                  |
 | JavaScript Talking Avatar with Face Tracking (no libraries and no internet help 😂) [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=U88NM8ScsPY)                                     |
@@ -430,6 +443,8 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 | Multi Step Progress Bar in HTML CSS & JavaScript [CodingLab](https://www.youtube.com/watch?v=xzaJGUtaWa0)                                                                                    |
 | JavaScript Programming Tutorial for Beginners [Telusko](https://www.youtube.com/watch?v=IC5vBKc21X8)                                                                                         |
 | Build and Deploy Your Own ChatGPT AI App in JavaScript \| OpenAI, Machine Learning [JavaScript Mastery](https://www.youtube.com/watch?v=2FeymQoKvrk)                                         |
+| All The JavaScript You Need To Know For React [PedroTech](https://www.youtube.com/watch?v=m55PTVUrlnA)                                                                                       |
+|                                                                                                                                                                                              |
 
 ### TypeScript
 

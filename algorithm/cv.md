@@ -31,10 +31,11 @@ description: 机器视觉
 | Jeremy Howard [u](https://www.youtube.com/@howardjeremyp/playlists)                                   | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                            |
 | James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                      | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
 |                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                              |
+| Computer vision engineer [u](https://www.youtube.com/@ComputerVisionEngineer/playlists)               |                                                                                                                                                                                 |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
-CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
+
 
 ## 课程
 
@@ -80,6 +81,9 @@ CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.you
 | Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                             |
 | Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
 | AI 產業訓練課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUEnw5L6CASKs04NMa0lg-Bh)                                                                                                                                              |
+| Vision Transformers (ViT) Explained + Fine-tuning in Python [James Briggs](https://www.youtube.com/watch?v=qU7wO02urYU)                                                                                                                     |
+|                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                             |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -174,13 +178,14 @@ import cv2
 |                                                                                               |   |   |
 |                                                                                               |   |   |
 
-## Image Classification
+## 图像分类 Image Classification
 
-|                                                                                                                           |                                                                                                          |   |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | - |
-| Multi Class Image Classification [Kan Fusheng](https://www.youtube.com/playlist?list=PLgMMlswT2msf\_ysGr9jd02E0KCf-Ay0wL) | Leaf Disease Classification Using PyTorch [Abhishek Thakur](https://www.youtube.com/watch?v=hBvUrj0FUiw) |   |
-|                                                                                                                           |                                                                                                          |   |
-|                                                                                                                           |                                                                                                          |   |
+|                                                                                                                                                       |                                                                                                               |                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Multi Class Image Classification [Kan Fusheng](https://www.youtube.com/playlist?list=PLgMMlswT2msf\_ysGr9jd02E0KCf-Ay0wL)                             | Leaf Disease Classification Using PyTorch [Abhishek Thakur](https://www.youtube.com/watch?v=hBvUrj0FUiw)      | 3D Image Classification from CT Scans - Keras Code Examples [Connor Shorten](https://www.youtube.com/watch?v=rcnKGMNyVu4) |
+| OpenAI's CLIP for Zero Shot Image Classification [James Briggs](https://www.youtube.com/watch?v=98POYg2HZqQ)                                          | Fast Zero Shot Object Detection with OpenAI CLIP [James Briggs](https://www.youtube.com/watch?v=i3OYlaoj-BM)  | Image classification from scratch - Keras Code Examples [Connor Shorten](https://www.youtube.com/watch?v=dFdMyUbtKM4)     |
+| Image classification with Python and Scikit learn \| Computer vision tutorial [Computer vision engineer](https://www.youtube.com/watch?v=il8dMDlXrIE) | Image Classification with Neural Networks in Python [NeuralNine](https://www.youtube.com/watch?v=t0EzVCvQjGE) |                                                                                                                           |
+|                                                                                                                                                       |                                                                                                               |                                                                                                                           |
 
 ## 图像合成
 
@@ -286,14 +291,17 @@ import cv2
 
 ## 超分辨率, SR, Super Resolution
 
-|                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180)          |
-| TecoGAN [v](https://www.youtube.com/watch?v=MwCgvYtOLS0) [git](https://github.com/thunil/TecoGAN) [arxiv](https://arxiv.org/abs/1811.09393) |
-| SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                    |
-| [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                         |
-| Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                          |
-| 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                           |
+|                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180)                                                                                                                              |
+| TecoGAN [v](https://www.youtube.com/watch?v=MwCgvYtOLS0) [git](https://github.com/thunil/TecoGAN) [arxiv](https://arxiv.org/abs/1811.09393)                                                                                                                     |
+| SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                                                                                                                                        |
+| [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                                                                                                                                             |
+| Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                                                                                                                                              |
+| 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                                                                                                                                               |
+| Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)   Squirrel Anime Enhance   [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y)   [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
+|                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                 |
 
 ## 以图搜图 Image similarity search
 
@@ -308,15 +316,35 @@ import cv2
 
 ## 卷积神经网络, Convolutional Neural Networks, CNN
 
-|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Kernel Size and Why Everyone Loves 3x3 - Neural Network Convolution [Animated AI](https://www.youtube.com/watch?v=V9ZYDCnItr0)                                          | What are Convolutional Neural Networks (CNNs)? [IBM Technology](https://www.youtube.com/watch?v=QzY57FaENXg)                                                         | Convolution Neural Networks - EXPLAINED [CodeEmporium](https://www.youtube.com/watch?v=m8pOnJxOcqY)                                       |
-| What is a convolutional neural network (CNN)? [Packt](https://www.youtube.com/watch?v=K\_BHmztRTpA)                                                                     | What is CNN Convolutional neural network \| Why should we use CNN \| Goeduhub [Goeduhub Technologies](https://www.youtube.com/watch?v=A9u43OT\_xPU)                  | CNN architecture in 5 minutes - A Quick Learning [Shriram Vasudevan](https://www.youtube.com/watch?v=R9CSbcGxKzo)                         |
-| Convolutional Neural Networks \| CNN \| Kernel \| Stride \| Padding \| Pooling \| Flatten \| Formula [Binod Suman Academy](https://www.youtube.com/watch?v=Y1qxI-Df4Lk) | <p></p><p>Convolutional Neural Networks <a href="https://www.youtube.com/watch?v=wzy8jI-duEQ">Weights &#x26; Biases</a></p>                                          | Convolutional Neural Networks Explained (CNN Visualized) [Futurology — An Optimistic Future](https://www.youtube.com/watch?v=pj9-rr1wDhM) |
-| Convolutional Neural Network Visualization by Otavio Good [Israel Vicars](https://www.youtube.com/watch?v=f0t-OCG79-U)                                                  | 2D Convolution Neural Network Animation [Anuj shah](https://www.youtube.com/watch?v=CXOGvCMLrkA)                                                                     | Convolutional Neural Networks (CNNs) explained [deeplizard](https://www.youtube.com/watch?v=YRhxdVk\_sIs)                                 |
-| 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) | ResNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=pWMnzCX4cwQ)                                                                         |
-| AlexNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=zjnxu8KUYKA)                                                                                                      |                                                                                                                                                                      |                                                                                                                                           |
-|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                           |
+|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kernel Size and Why Everyone Loves 3x3 - Neural Network Convolution [Animated AI](https://www.youtube.com/watch?v=V9ZYDCnItr0)                                          | What are Convolutional Neural Networks (CNNs)? [IBM Technology](https://www.youtube.com/watch?v=QzY57FaENXg)                                                         |                                                                                                                                                                  |
+| What is a convolutional neural network (CNN)? [Packt](https://www.youtube.com/watch?v=K\_BHmztRTpA)                                                                     | What is CNN Convolutional neural network \| Why should we use CNN \| Goeduhub [Goeduhub Technologies](https://www.youtube.com/watch?v=A9u43OT\_xPU)                  | CNN architecture in 5 minutes - A Quick Learning [Shriram Vasudevan](https://www.youtube.com/watch?v=R9CSbcGxKzo)                                                |
+| Convolutional Neural Networks \| CNN \| Kernel \| Stride \| Padding \| Pooling \| Flatten \| Formula [Binod Suman Academy](https://www.youtube.com/watch?v=Y1qxI-Df4Lk) | <p></p><p>Convolutional Neural Networks <a href="https://www.youtube.com/watch?v=wzy8jI-duEQ">Weights &#x26; Biases</a></p>                                          | Convolutional Neural Networks Explained (CNN Visualized) [Futurology — An Optimistic Future](https://www.youtube.com/watch?v=pj9-rr1wDhM)                        |
+| Convolutional Neural Network Visualization by Otavio Good [Israel Vicars](https://www.youtube.com/watch?v=f0t-OCG79-U)                                                  | 2D Convolution Neural Network Animation [Anuj shah](https://www.youtube.com/watch?v=CXOGvCMLrkA)                                                                     | Convolutional Neural Networks (CNNs) explained [deeplizard](https://www.youtube.com/watch?v=YRhxdVk\_sIs)                                                        |
+| 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) |                                                                                                                                                                  |
+| AlexNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=zjnxu8KUYKA)                                                                                                      | Convolution Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74)                                                 | Convolutional Neural Networks in Practice // Cassidy Williams, Clarifai (FirstMark's Code Driven) [Code Driven NYC](https://www.youtube.com/watch?v=s716QXfApa0) |
+| CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)                                                           |                                                                                                                                                                      |                                                                                                                                                                  |
+
+### ResNet
+
+|                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>撑起计算机视觉半边天的ResNet <a href="https://www.youtube.com/watch?v=NnSldWhSqvY">Mu Li</a></p><p>ResNet论文逐段精读 <a href="https://www.youtube.com/watch?v=pWMnzCX4cwQ">Mu Li</a></p> |
+|                                                                                                                                                                             |
+|                                                                                                                                                                             |
+
+### EfficientNet
+
+|                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                                                                                                                      |
+| <p>EfficientNet Explained! <a href="https://www.youtube.com/watch?v=3svIm5UC94I">Connor Shorten</a></p><p>EfficientNet! - Keras Code Examples <a href="https://www.youtube.com/watch?v=t8eSPbvl0vU">Connor Shorten</a></p>           |
+| EfficientNet Explained: Rethinking Model Scaling for Convolutional Neural Networks [Code With Aarohi](https://www.youtube.com/watch?v=GOxRSefbBoI)                                                                                   |
+| <p>EfficientNet Paper Walkthrough <a href="https://www.youtube.com/watch?v=_OZsGQHB41s">Aladdin Persson</a></p><p>EfficientNet from scratch in Pytorch <a href="https://www.youtube.com/watch?v=fR_0o25kigM">Aladdin Persson</a></p> |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                      |
 
 ## Detection and Segmentation
 
@@ -340,6 +368,8 @@ import cv2
 | 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
 | PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby [Aladdin Persson](https://www.youtube.com/watch?v=IHq1t7NxS8k)                                                                           |
 | I tried building an ML Cancer Segmentation API in 15 Minutes [Nicholas Renotte](https://www.youtube.com/watch?v=aMldpZF6GBU)                                                                                          |
+| 307 - Segment your images in python without training using Segment Anything Model (SAM) [DigitalSreeni](https://www.youtube.com/watch?v=fVeW9a6wItM)                                                                  |
+|                                                                                                                                                                                                                       |
 
 ### 目标检测 Object Detection
 
@@ -370,6 +400,13 @@ import cv2
 | 2 Faster R-CNN Architecture [Ardian Umam](https://www.youtube.com/watch?v=c1\_g6tw69bU)                                                                                                                                                                                                  |
 | YOLO For Smart Object Detection Using Python \| Project For Beginners [AI Sciences](https://www.youtube.com/watch?v=\_rcfNl5e0vE)                                                                                                                                                        |
 | Lane detection and object detection with OpenCV & TensorFlow [Kittipong G](https://www.youtube.com/watch?v=G2VaJvNNp4k)                                                                                                                                                                  |
+| YOLOv8 影像分析演算法實作教學影片：不需錨點，可進行影像分類、物件偵測、及物件分割 [人工智慧](https://www.youtube.com/watch?v=9bqwiq1CWHs)                                                                                                                                                                                         |
+| Complete YOLO v8 Custom Object Detection Tutorial \| Windows & Linux [TheCodingBug](https://www.youtube.com/watch?v=gRAyOPjQ9\_s)                                                                                                                                                        |
+| YOLOv8 COMPLETE Tutorial \| Object Detection \| Segmentation \| Classification [TheCodingBug](https://www.youtube.com/watch?v=75LI9MI9eEo)                                                                                                                                               |
+| Instance segmentation YOLO v8 \| Opencv with Python tutorial [Pysource](https://www.youtube.com/watch?v=cHOOnb\_o8ug)                                                                                                                                                                    |
+| Train Yolov8 object detection on a custom dataset \| Step by step guide \| Computer vision tutorial [Computer vision engineer](https://www.youtube.com/watch?v=m9fH9OWn8YM)                                                                                                              |
+| Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
 
@@ -513,11 +550,11 @@ import cv2
 | Google’s New AI: Fly INTO Photos! 🐦 [Two Minute Papers](https://www.youtube.com/watch?v=\_Y1-KlTEmwk)                                                                                                                                      |
 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ML Research Paper Explained) [Yannic Kilcher](https://www.youtube.com/watch?v=CRlN-cYFxTk)                                                                          |
 
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| Talk \| 香港中文大学MMLab在读博士生徐英豪：通过结构和纹理表示实现3D图像合成 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yb7QkSCtcS0) |
-|                                                                                                              |
-|                                                                                                              |
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| Talk \| 香港中文大学MMLab在读博士生徐英豪：通过结构和纹理表示实现3D图像合成 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yb7QkSCtcS0)         |
+| Talk \| AAAI'23 Oral 北京大学陈嘉毅：自然条件下基于三维点云的手物联合位姿追踪与重建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=Egymm\_BagRc) |
+|                                                                                                                      |
 
 ## 视频插帧
 
@@ -549,6 +586,7 @@ import cv2
 |                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【亦】警惕AI外挂！我写了一个枪枪爆头的视觉AI，又亲手“杀死”了它 [林亦LYi](https://www.youtube.com/watch?v=1gZ-KaWjhGY)                                                                                                                          |
+| OpenCV Object Detection in Games [Learn Code By Gaming](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI)                                                                                |
 | I tried to make a Valorant AI using computer vision [River's Educational Channel](https://www.youtube.com/watch?v=LXA7zXVz8A4)                                                                                   |
 | AI游戏脚本难不难学，竞技类MOBA链游有没有机会搬砖打金？[米斯特姚](https://www.youtube.com/watch?v=9rn8IegWNdM)                                                                                                                                |
 | Making a Whack a Mole bot using OpenCV's Match Template [Noob Coding and Gaming](https://www.youtube.com/watch?v=SZiVZM6qf6U) [git](https://github.com/Hu-Bots/Whack-a-Bot)                                      |
