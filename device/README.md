@@ -678,6 +678,8 @@ System on Chip, 系统级芯片
 | LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                       |
 | 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                 |
 | 看！我是如何收集这些资源的，不仅免费而且还是高清稳定的线路 \| [零度解说](https://www.youtube.com/watch?v=3C1Bzp-A4Ek)                                      |
+| 如何在 windows 10 /11 系统上安装 Android TV 和 Google TV ？看这个教程就可以搞定 ！ \| [零度解说](https://www.youtube.com/watch?v=0-PHXue5TqQ)      |
+|                                                                                                                           |
 
 ## 空调
 

@@ -47,6 +47,7 @@ description: 图神经网络
 | Network of The Witcher \| Relationship Extraction & Network Analysis with Spacy & NetworkX [Thu Vu data analytics](https://www.youtube.com/watch?v=fAHkJ\_Dhr50)                                                                 |
 | Graph Neural Networks - a perspective from the ground up [Alex Foo](https://www.youtube.com/watch?v=GXhBEj1ZtE8)                                                                                                                 |
 | The ultimate intro to Graph Neural Networks. Maybe. [AI Coffee Break with Letitia](https://www.youtube.com/watch?v=me3UsMm9QEs)                                                                                                  |
+| NetworkX Crash Course - Graph Theory in Python [NeuralNine](https://www.youtube.com/watch?v=VetBkjcm9Go)                                                                                                                         |
 |                                                                                                                                                                                                                                  |
 
 | 图计算                                                                         |
@@ -69,6 +70,9 @@ description: 图神经网络
 |                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Graph Algorithms: Practical Examples in Apache Spark and Neo4j [libgen](https://libgen.is/book/index.php?md5=CC42A7B9970C7F4930F014ABABE5E03A) |
+| Neo4j [u](https://www.youtube.com/@neo4j/playlists)                                                                                            |
+| Natural Language Processing with Graphs [Neo4j](https://www.youtube.com/watch?v=BVMx24dtko0)                                                   |
+| Going meta - a series on graphs, semantics and knowledge [Neo4j](https://www.youtube.com/playlist?list=PL9Hl4pk2FsvX-5QPvwChB-ni\_mFF97rCE)    |
 |                                                                                                                                                |
 
 其他

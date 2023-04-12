@@ -206,6 +206,7 @@
 | React Hooks Course - All React Hooks Explained [PedroTech](https://www.youtube.com/watch?v=LlvBzyy-558)                                                                  |
 | React.js Full Course in Hindi for Beginners - 2023 \| Master React in 12 Hours [web3Mantra](https://www.youtube.com/watch?v=lLeZ8Cr2YVM)                                 |
 | React Native Course – Android and iOS App Development [freeCodeCamp](https://www.youtube.com/watch?v=obH0Po\_RdWk)                                                       |
+| Filmyverse React Project in Hindi \| Tailwindcss \| Firebase \| Firestore DB \| OTP Authentication [web3Mantra](https://www.youtube.com/watch?v=NdQN9f9LAcM)             |
 |                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
@@ -444,6 +445,8 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 | JavaScript Programming Tutorial for Beginners [Telusko](https://www.youtube.com/watch?v=IC5vBKc21X8)                                                                                         |
 | Build and Deploy Your Own ChatGPT AI App in JavaScript \| OpenAI, Machine Learning [JavaScript Mastery](https://www.youtube.com/watch?v=2FeymQoKvrk)                                         |
 | All The JavaScript You Need To Know For React [PedroTech](https://www.youtube.com/watch?v=m55PTVUrlnA)                                                                                       |
+| Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript [freeCodeCamp](https://www.youtube.com/watch?v=UFD4SP91tSM)                                                  |
+|                                                                                                                                                                                              |
 |                                                                                                                                                                                              |
 
 ### TypeScript

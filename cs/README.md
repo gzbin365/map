@@ -134,13 +134,13 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 | Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=cJROlT\_ccFM)                         |
 |                                                                                                                                                |
 
-### Facebook
+### Facebook  Meta
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| Facebook Research / Meta Research [git](https://github.com/facebookresearch) [s](https://research.facebook.com/) |
-| Meta Developers [u](https://www.youtube.com/c/FacebookDevelopers/featured) [s](https://developers.facebook.com/) |
-|                                                                                                                  |
+|                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Facebook Research / Meta Research [git](https://github.com/facebookresearch) [s](https://research.facebook.com/)                                                                                                |
+| Meta Developers [u](https://www.youtube.com/c/FacebookDevelopers/featured) [s](https://developers.facebook.com/)   Meta AI Tools [s](https://ai.facebook.com/tools/)   Meta AI [s](https://ai.facebook.com/)    |
+|                                                                                                                                                                                                                 |
 
 ### 甲骨文 Oracle
 

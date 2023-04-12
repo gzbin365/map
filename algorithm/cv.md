@@ -368,8 +368,18 @@ import cv2
 | 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
 | PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby [Aladdin Persson](https://www.youtube.com/watch?v=IHq1t7NxS8k)                                                                           |
 | I tried building an ML Cancer Segmentation API in 15 Minutes [Nicholas Renotte](https://www.youtube.com/watch?v=aMldpZF6GBU)                                                                                          |
-| 307 - Segment your images in python without training using Segment Anything Model (SAM) [DigitalSreeni](https://www.youtube.com/watch?v=fVeW9a6wItM)                                                                  |
 |                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                       |
+
+| Segment Anything Model (SAM)                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://segment-anything.com/) [paper](https://arxiv.org/abs/2304.02643) facebookresearch/[segment-anything](https://github.com/facebookresearch/segment-anything) |
+| 【人工智能】Meta发布史上最强抠图模型 \| Segment Anything Model \| 零样本学习可分割一切物体 \| 计算机视觉迎来GPT-3时刻 [最佳拍档](https://www.youtube.com/watch?v=SUehMu5yEiM)                                   |
+| 307 - Segment your images in python without training using Segment Anything Model (SAM) [DigitalSreeni](https://www.youtube.com/watch?v=fVeW9a6wItM)                   |
+|                                                                                                                                                                        |
+|                                                                                                                                                                        |
+|                                                                                                                                                                        |
 
 ### 目标检测 Object Detection
 
