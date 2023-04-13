@@ -37,9 +37,11 @@
 
 ## web 开发
 
-|                                                               |                                                               |
-| ------------------------------------------------------------- | ------------------------------------------------------------- |
-| LearnWebCode [u](https://www.youtube.com/watch?v=lgyszZhAZOI) | web3Mantra [u](https://www.youtube.com/@web3mantra/playlists) |
+|                                                               |                                                                    |
+| ------------------------------------------------------------- | ------------------------------------------------------------------ |
+| LearnWebCode [u](https://www.youtube.com/watch?v=lgyszZhAZOI) | web3Mantra [u](https://www.youtube.com/@web3mantra/playlists)      |
+|                                                               | Mohammad Taheri [u](https://www.youtube.com/@DevEmpower/playlists) |
+|                                                               |                                                                    |
 
 | web 开发                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -207,6 +209,7 @@
 | React.js Full Course in Hindi for Beginners - 2023 \| Master React in 12 Hours [web3Mantra](https://www.youtube.com/watch?v=lLeZ8Cr2YVM)                                 |
 | React Native Course – Android and iOS App Development [freeCodeCamp](https://www.youtube.com/watch?v=obH0Po\_RdWk)                                                       |
 | Filmyverse React Project in Hindi \| Tailwindcss \| Firebase \| Firestore DB \| OTP Authentication [web3Mantra](https://www.youtube.com/watch?v=NdQN9f9LAcM)             |
+| Pet Store Fullstack project with React18, ASP.NET Core7 WebAPI, TypeScript and Entity Framework Core [Mohammad Taheri](https://www.youtube.com/watch?v=5N9FsYPsAso)      |
 |                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
