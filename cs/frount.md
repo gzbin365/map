@@ -210,6 +210,7 @@
 | React Native Course – Android and iOS App Development [freeCodeCamp](https://www.youtube.com/watch?v=obH0Po\_RdWk)                                                       |
 | Filmyverse React Project in Hindi \| Tailwindcss \| Firebase \| Firestore DB \| OTP Authentication [web3Mantra](https://www.youtube.com/watch?v=NdQN9f9LAcM)             |
 | Pet Store Fullstack project with React18, ASP.NET Core7 WebAPI, TypeScript and Entity Framework Core [Mohammad Taheri](https://www.youtube.com/watch?v=5N9FsYPsAso)      |
+| Build a LinkedIn Clone with React and Firebase – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=HimR8Xtz17U)                                                    |
 |                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
@@ -374,6 +375,7 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 |                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                                                                                                           |
+| JavaScript Project Tutorials [Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfaT1uq9anIjt\_Ggo7mT6mMb)                                                              |
 | Learn JavaScript With This ONE Project! [Tech With Tim](https://www.youtube.com/watch?v=E3XxeE7NF30)                                                                                         |
 | Asynchronous Javascript Tutorial - Promises and Async Await Explained [PedroTech](https://www.youtube.com/watch?v=PgZ9npYJZzU)                                                               |
 | JavaScript Mastery Complete Course \| JavaScript Tutorial For Beginner to Advanced [Nerd's lesson](https://www.youtube.com/watch?v=xc3a\_CJhjCc) 1:08:53:45                                  |
