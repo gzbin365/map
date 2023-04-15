@@ -85,6 +85,7 @@
 | Build a Responsive Website \| HTML, CSS Grid, Flexbox & More [Traversy Media](https://www.youtube.com/watch?v=p0bGHP-PXD4)                                                                       |
 | How to use AI Art and ChatGPT to Create a Insane Web Designs [Codex Community](https://www.youtube.com/watch?v=8I3NTE4cn5s)                                                                      |
 | Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) [freeCodeCamp](https://www.youtube.com/watch?v=MsnQ5uepIaE) 10:02:09                              |
+| Web Development Tutorials For Beginners In Hindi: HTML, CSS, JavaScript & More [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W\_9lII9agiCUZYRsvtGTXdxkzPyItg)                        |
 |                                                                                                                                                                                                  |
 
 |   |   |
@@ -578,6 +579,9 @@ MUI5 (Material UI) Crash Course [Laith Harb](https://www.youtube.com/watch?v=o1c
 | Figma Variants – Design a Scalable Mobile App \[Full Course] [freeCodeCamp](https://www.youtube.com/watch?v=stQ1IZEB2xk)   |
 | UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma [freeCodeCamp](https://www.youtube.com/watch?v=c9Wg6Cb\_YlU) |
 | How to Design a Website – A UX Wireframe Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=pN92rnO\_n5U)             |
+| AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開 [六角學院](https://www.youtube.com/watch?v=DjzKQXuaUoM)                                           |
+|                                                                                                                            |
+|                                                                                                                            |
 
 ## 其他
 
