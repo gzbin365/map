@@ -1112,7 +1112,7 @@ $$
 | Fall 2015: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT)   |
 | Fall 2016: Convex Optimization (10-725/36-725) [Ryan T](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)   |
 | Convex Optimization 39个小时学会凸优化-中科大-凌青老师 [PatriTech](https://www.youtube.com/playlist?list=PLex0qwR2dnJh\_7351A8HmasW1G-\_\_le\_S)   |
-|                                                                                                                                     |
+| Sebastien Bubeck [u](https://www.youtube.com/@SebastienBubeck/playlists)                                                            |
 | 关于神经网络损失函数非凸的一般性证明 [崔晏菲](https://zhuanlan.zhihu.com/p/429939210)                                                                    |
 | 凸几何与最优传输 [范帝楷](https://zhuanlan.zhihu.com/p/279471748)                                                                              |
 | 如何判断函数凸或非凸？[亦哀](https://zhuanlan.zhihu.com/p/132436818)                                                                             |

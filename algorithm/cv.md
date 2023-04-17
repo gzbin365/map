@@ -368,7 +368,7 @@ import cv2
 | 3D MRI brain segmentation - Made with TensorFlow.js [TensorFlow](https://www.youtube.com/watch?v=aNAZxV8yQHM)                                                                                                         |
 | PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby [Aladdin Persson](https://www.youtube.com/watch?v=IHq1t7NxS8k)                                                                           |
 | I tried building an ML Cancer Segmentation API in 15 Minutes [Nicholas Renotte](https://www.youtube.com/watch?v=aMldpZF6GBU)                                                                                          |
-|                                                                                                                                                                                                                       |
+| AI 图片去背景工具，可离线，终身免费，同时支持 Windows 和 Linux [迷途小书童的Note](https://www.youtube.com/watch?v=-LDZaLaRN8Y) [git](https://github.com/developersharif/bgremover-app)                                                            |
 |                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                       |
 
@@ -416,6 +416,7 @@ import cv2
 | Instance segmentation YOLO v8 \| Opencv with Python tutorial [Pysource](https://www.youtube.com/watch?v=cHOOnb\_o8ug)                                                                                                                                                                    |
 | Train Yolov8 object detection on a custom dataset \| Step by step guide \| Computer vision tutorial [Computer vision engineer](https://www.youtube.com/watch?v=m9fH9OWn8YM)                                                                                                              |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                   |
+| Talk \| 阿里巴巴达摩院算法工程师许贤哲：DAMO-YOLO：兼顾速度与精度的高效目标检测框架 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=v3E7ZW0b9xg)                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
