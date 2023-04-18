@@ -649,15 +649,28 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                          |                                                                                            |   |
 |                                                                                          |                                                                                            |   |
 
-### Auto-GPT
+### Auto-GPT AgentGPT MiniGPT-4
 
-|                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ |
-| 零基础安装Auto-GPT到本地 [Chen's Random Walk](https://www.youtube.com/watch?v=LPBhGoLkRWA)                                 |
-| 【人工智能】十分钟讲清楚如何选择、安装和使用AutoGPT \| 本地安装 \| AgentGPT \| Cognosys [最佳拍档](https://www.youtube.com/watch?v=\_xejoN8H-U4) |
-|                                                                                                                    |
-|                                                                                                                    |
-|                                                                                                                    |
+|                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [https://autogpt.net/](https://autogpt.net/)   Significant-Gravitas/[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)   [https://www.gptagent.com/](https://www.gptagent.com/)                                                |
+| 零基础安装Auto-GPT到本地 [Chen's Random Walk](https://www.youtube.com/watch?v=LPBhGoLkRWA)                                                                                                                                                       |
+| 如何选择、安装和使用AutoGPT \| 本地安装 \| AgentGPT \| Cognosys [最佳拍档](https://www.youtube.com/watch?v=\_xejoN8H-U4)                                                                                                                                   |
+| AutoGPT安装部署 \| AutoGPT怎么使用 \|AutoGPT网页版AgentGPT使用教程 [小新来了](https://www.youtube.com/watch?v=pKCSOIivtno)                                                                                                                                  |
+| 微软JARVIS与Auto-GPT揭秘 [回到Axton](https://www.youtube.com/watch?v=-zNSMGScT-U) hugginggpt                                                                                                                                                    |
+| microsoft / [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)   [arxiv](https://arxiv.org/pdf/2303.17580.pdf)   microsoft/[JARVIS](https://github.com/microsoft/JARVIS)                                                   |
+| Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications [Yohei Nakajima](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/) |
+| 开源多模态模型MiniGPT-4发布 [最佳拍档](https://www.youtube.com/watch?v=-2OSLGL48Os)                                                                                                                                                                   |
+|                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                          |
+
+### OpenAssistant
+
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0) |
+|                                                                            |
+|                                                                            |
 
 ### 语言模型, Language Models
 

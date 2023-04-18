@@ -58,6 +58,9 @@
 | Java Native Interface (28-Hour Course) [freeCodeCamp](https://www.youtube.com/watch?v=pyXnX2SEaFc)                                                                                            |
 | deepjavalibrary/[d2l-java](https://github.com/deepjavalibrary/d2l-java) The Java implementation of Dive into Deep Learning (D2L.ai)                                                           |
 | \[Tutorialsplanet.NET] Udemy - Artificial Intelligence I Basics and Games in Java                                                                                                             |
+| Java Tutorial for Beginners 2023 [Telusko](https://www.youtube.com/watch?v=BGTx91t8q50)                                                                                                       |
+| Java基础2021（黑马程序员） [编程喵](https://www.youtube.com/playlist?list=PLOuYTLq5dJ2v5nUQXeyhqeX5sb3DcglHp)                                                                                             |
+|                                                                                                                                                                                               |
 
 ### NginX
 
@@ -99,11 +102,11 @@ Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1
 |                                                                               |                                 |
 |                                                                               |                                 |
 
-|                                                                                 |
-| ------------------------------------------------------------------------------- |
-| What Is Spring? [SpringDeveloper](https://www.youtube.com/watch?v=Spzug\_SjJnM) |
-|                                                                                 |
-|                                                                                 |
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| What Is Spring? [SpringDeveloper](https://www.youtube.com/watch?v=Spzug\_SjJnM)                                                            |
+| Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=5PdEmeopJVQ) |
+|                                                                                                                                            |
 
 ### Maven
 
@@ -135,3 +138,11 @@ Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1
 | --------------------------------------------------------------------------------------------------- |
 | JSON入门 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYIkvstNE8zBZoHcf9NoBGY)            |
 | What is JWT authorization really about - [Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI) |
+
+### YAML
+
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| Working with YAML Files in Python [NeuralNine](https://www.youtube.com/watch?v=nFl6EXfcvLI) |
+|                                                                                             |
+|                                                                                             |

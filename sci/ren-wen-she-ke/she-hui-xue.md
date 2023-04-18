@@ -8,11 +8,11 @@
 
 
 
-| 李玫瑾                                                                         |                                                                                                |                                                                                   |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 【一席】李玫瑾：心理的迷失 [一席YiXi](https://www.youtube.com/watch?v=OvK-oGLhg1A)         | 李玫瑾 3到6岁 儿童 幼儿 早教方法 早期教育方法 性格培养方法 [Jincheng Gong](https://www.youtube.com/watch?v=nzxCvjIWacA) | 新东方 俞敏洪 对话 李玫瑾：父母好好学习 孩子天天向上 [正向加油站](https://www.youtube.com/watch?v=VNg7v37bHc4) |
-| 李玫瑾 别等孩子大了，才想起来教育，孩子等不起 [眺望远方](https://www.youtube.com/watch?v=-uQk4xwAGqU) |                                                                                                |                                                                                   |
-|                                                                             |                                                                                                |                                                                                   |
+| 李玫瑾                                                                         |                                                                                                                                            |                                                                                                                                              |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【一席】李玫瑾：心理的迷失 [一席YiXi](https://www.youtube.com/watch?v=OvK-oGLhg1A)         | 李玫瑾 3到6岁 儿童 幼儿 早教方法 早期教育方法 性格培养方法 [Jincheng Gong](https://www.youtube.com/watch?v=nzxCvjIWacA)                                             | 新东方 俞敏洪 对话 李玫瑾：父母好好学习 孩子天天向上 [正向加油站](https://www.youtube.com/watch?v=VNg7v37bHc4)                                                            |
+| 李玫瑾 别等孩子大了，才想起来教育，孩子等不起 [眺望远方](https://www.youtube.com/watch?v=-uQk4xwAGqU) | 【MMS】李玫瑾：为孩子寻找他的价值(2/2) Li Meijin: Help your children to find their life value（2/2）[木棉说演讲MMS](https://www.youtube.com/watch?v=QPxT6MBnmDQ) | 【MMS】李玫瑾：为孩子寻找他的价值(1/2) Li Meijin: Help your children to find their life value （1/2） [木棉说演讲MMS](https://www.youtube.com/watch?v=LWeQZvTScww) |
+|                                                                             |                                                                                                                                            |                                                                                                                                              |
 
 
 

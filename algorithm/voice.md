@@ -154,6 +154,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
 | 我花了15小時，就為找到這3款AI語音生成工具｜AI朗读｜AI虚拟主播 [指令必达](https://www.youtube.com/watch?v=RsnU0Pjt7lo)                                                                         |
 |                                                                                                                                                                 |
+|                                                                                                                                                                 |
+|                                                                                                                                                                 |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -194,6 +196,14 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 |                                                                                                                                                                      |                                                                                                                                                                      |                                                                                                               |
 | [AIVA](https://www.aiva.ai/) - The AI composing emotional soundtrack music [v](https://www.youtube.com/watch?v=8wHNIZWIOqg)                                          | Google's MusicLM: Text Generated Music & It's Absurdly Good [bycloud](https://www.youtube.com/watch?v=2CUKU2iAzAs)                                                   | Music Creation [John Tan Chong Min](https://www.youtube.com/playlist?list=PLcORGO1bTgjWqsb4sEqI9SFUUvLV7HNfh) |
 | 资深音频人怎么看谷歌最新作曲AI，MusicLM（上集）. How does a composer look at Goolge Music AI MusicLM，Episode I? [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=N\_s0Tc\_Tfa0) | 资深音频人怎么看谷歌最新作曲AI（下集）读评论，How does a composer look at Goolge Music AI，Episode II, Read Comments [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=JBqurD1KG\_w) |                                                                                                               |
+
+### X Studio 3
+
+|                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| X Studio 3 \| 小冰公司AI合成歌声软件 [最佳拍档](https://www.youtube.com/watch?v=GuuDAv0FwxI) [s](https://singer.xiaoice.com/) [doc](https://cpt17i0bkj.feishu.cn/docx/TZOsdaI5xoCunvxptO2ctQXInTg) |
+|                                                                                                                                                                                      |
+|                                                                                                                                                                                      |
 
 ## 人声分离
 

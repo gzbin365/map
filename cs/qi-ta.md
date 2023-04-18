@@ -361,7 +361,7 @@
 | Math for Game Devs \[2022] [Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)                                             |
 | Shell Based FPS Kris [Occhipinti](https://www.youtube.com/watch?v=AXJsXwT6mpA)                                                                                  |
 | Python Platformer Game Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6gLeplbqtqg)                                                       |
-|                                                                                                                                                                 |
+| Godot Game Development – Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=S8lMTwSRoRg)                                                 |
 |                                                                                                                                                                 |
 
 ### 虚幻引擎 Unreal Engine

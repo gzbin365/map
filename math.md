@@ -1323,6 +1323,7 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | This equation will change how you see the world (the logistic map) [Veritasium](https://www.youtube.com/watch?v=ovJcsL7vyrk) |
 | Chaos: The Science of the Butterfly Effect [Veritasium](https://www.youtube.com/watch?v=fDek6cYijxI)                         |
 | 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                                   |
+| 三体问题究竟是什么？为什么说科学的尽头是神学？ [李永乐老师](https://www.youtube.com/watch?v=YHqljeHafiE) 庞加莱                                             |
 
 ## 控制论 Control Theory
 
