@@ -639,6 +639,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | RLHF+CHATGPT: What you must know [Machine Learning Street Talk](https://www.youtube.com/watch?v=PBH2nImUM5c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 【好玩儿的Docker项目】任何地方无障碍快速访问！ChatGPT Next Web——一键免费部署你的私人 ChatGPT 网页应用 [我不是咕咕鸽](https://www.youtube.com/watch?v=C97PAwJ9fkA)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Sparks of AGI: early experiments with GPT-4 [Sebastien Bubeck](https://www.youtube.com/watch?v=qbIk7-JPB2c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 浅析ChatGPT \| 车万翔 [最佳拍档](https://www.youtube.com/watch?v=865G84z1SxE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### Prompt Engineering
@@ -661,8 +664,32 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | microsoft / [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)   [arxiv](https://arxiv.org/pdf/2303.17580.pdf)   microsoft/[JARVIS](https://github.com/microsoft/JARVIS)                                                   |
 | Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications [Yohei Nakajima](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/) |
 | 开源多模态模型MiniGPT-4发布 [最佳拍档](https://www.youtube.com/watch?v=-2OSLGL48Os)                                                                                                                                                                   |
+| AutoGPT：GitHub 9.3万+标星 [零度解说](https://www.youtube.com/watch?v=mM1dnA4eLLM)                                                                                                                                                               |
 |                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                          |
+
+### 文心一言
+
+
+
+### Claude
+
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| 免费体验 GPT-4，Claude+ [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ) |
+|                                                                           |
+|                                                                           |
+
+### ChatGLM
+
+### ChatPDF
+
+### Microsoft DeepSpeed
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| Microsoft DeepSpeed开源，人人可以有自己的类ChatGPT大模型了？ [老范讲故事](https://www.youtube.com/watch?v=9OVpiNdVbFA) |
+|                                                                                                  |
+|                                                                                                  |
 
 ### OpenAssistant
 
