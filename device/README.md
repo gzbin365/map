@@ -1006,6 +1006,14 @@ direct-attached storage
 | 硬核拆解 [u](https://www.youtube.com/user/Handanxie)                                                                                                                                                                                                                                                                                              |
 | 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                       |
 
+## 垃圾桶
+
+|                                                                                |
+| ------------------------------------------------------------------------------ |
+| 超高顏值垃圾桶推薦！EKO高端系列 [Life of Wayne](https://www.youtube.com/watch?v=i0hCkq7c5kI) |
+|                                                                                |
+|                                                                                |
+
 ## 机器人 Robot
 
 |                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                              |

@@ -42,6 +42,7 @@ description: 机器视觉
 |                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 李飞飞: 我们怎么教计算机理解图片？ [TED](https://www.youtube.com/watch?v=40riCqvRoMs)                                                                                                                                                                       |
+| MAE 论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=mYlX2dpdHHM)                                                                                                                                                                       |
 | How computers learn to recognize objects instantly \| Joseph Redmon [TED](https://www.youtube.com/watch?v=Cgxsv1riJhI)                                                                                                                      |
 | 机器视觉-2020北邮远程课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RQ6tTu-c2ZFFrMxtSIhztC) [git](https://github.com/CV-xueba/A01\_cvclass\_basic)                                                                                      |
 | **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                                               |
@@ -54,6 +55,7 @@ description: 机器视觉
 | Image Analysis in Python with SciPy and scikit-image \| [SciPy 2018 Tutorial](https://www.youtube.com/watch?v=arXiv-TM7DY) \| Stefan van der Walt                                                                                           |
 | Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD)                                       |
 | Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                                                               |
+| Deep Learning for Computer Vision [Michigan Online](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)                                                                                                               |
 | Build An Image Editor in HTML CSS & JavaScript \| Image Editor in JavaScript [CodingNepal](https://www.youtube.com/watch?v=YqUUvBpCtfA)                                                                                                     |
 | 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                                                         |
 | 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                                                        |
@@ -440,6 +442,16 @@ import cv2
 | Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
 | YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
 | I Built an AI That Shoots Me in the Face When I Get Distracted [ForrestKnight](https://www.youtube.com/watch?v=A8eegxL82PI)                                                    |
+|                                                                                                                                                                                |
+|                                                                                                                                                                                |
+
+#### SAM-Track
+
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 【人工智能】​Segment-and-Track Anything \| SAM-Track \| 视频版SAM来了，分割/跟踪/编辑一切 \| 现已开源 \| 浙江大学计算机学院ReLER实验室 [最佳拍档](https://www.youtube.com/watch?v=uBYydYp7BB0) |
+|                                                                                                                                                        |
+|                                                                                                                                                        |
 
 ### Visual Recognition
 

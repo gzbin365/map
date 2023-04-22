@@ -1,11 +1,11 @@
 # Android/IOS
 
-|                                                                                     |                                                                                                                 |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                     |
-| **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U) |
-| Android 开发者 [s](https://developer.android.com/)                                     | Philipp Lackner [u](https://www.youtube.com/c/PhilippLackner/playlists)                                         |
-| Android Developers [u](https://www.youtube.com/@AndroidDevelopers)                  |                                                                                                                 |
+|                                                                                     |                                                                                                                          |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Cuberto Design([u](https://www.youtube.com/c/CubertoDesign/playlists), )            | [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                              |
+| **CodeWithChris(**[**u**](https://www.youtube.com/c/CodeWithChris/playlists)**, )** | app游戏软件开发 抖音号： [627388391](https://www.douyin.com/user/MS4wLjABAAAAf53fNi8GUrk4VwvBmjpHE47hF5dO5vVioE3GRmMsn-U)          |
+| Android 开发者 [s](https://developer.android.com/)                                     | Philipp Lackner [u](https://www.youtube.com/c/PhilippLackner/playlists)                                                  |
+| Android Developers [u](https://www.youtube.com/@AndroidDevelopers)                  | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) |
 
 ## Android
 
@@ -50,7 +50,7 @@
 | 安卓逆向 [易锦教育](https://www.youtube.com/playlist?list=PL4rdaY6hLY6-qPjzr4XvNFH2dElSRt5zZ)                                                                             |
 | What are 12 Factor Apps and Why Should You Care?　[Benjamin Porter](https://www.youtube.com/watch?v=REbM4BDeua0)                                                   |
 | Building Apps from a Business Perspective - App Product Management Complete Course [freeCodeCamp](https://www.youtube.com/watch?v=poLzjLt2yqU)                    |
-|                                                                                                                                                                   |
+| Android App Development in Java All-in-One Tutorial Series (4 HOURS!) [Caleb Curry](https://www.youtube.com/watch?v=tZvjSl9dswg)                                  |
 |                                                                                                                                                                   |
 
 ### 电脑控制手机

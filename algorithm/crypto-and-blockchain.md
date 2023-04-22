@@ -4,18 +4,20 @@ description: Blockchain & Cryptocurrency
 
 # 区块链
 
+## 区块链
+
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
 | **解读《关于进一步防范和处置虚拟货币交易炒作风险的通知》**[**Andehui志辉**](https://www.youtube.com/watch?v=4I1zI3KORvE) |
 
 ***
 
-|                                                                          |                                                                             |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), ) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)          |
-| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ)     |
-| 李欢 [u](https://www.youtube.com/@LiHuanLH/playlists)                      | 飞彪队 [u](https://www.youtube.com/channel/UCgCco8lboO1LRlB9XPh662Q/playlists) |
-|                                                                          | 区块链教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1207298049439968)              |
+|                                                                                                                          |                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| IBM Blockchain([u](https://www.youtube.com/c/ibmblockchain/playlists), )                                                 | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)          |
+| Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ)     |
+| 李欢 [u](https://www.youtube.com/@LiHuanLH/playlists)                                                                      | 飞彪队 [u](https://www.youtube.com/channel/UCgCco8lboO1LRlB9XPh662Q/playlists) |
+| 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) | 区块链教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1207298049439968)              |
 
 |                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +57,8 @@ description: Blockchain & Cryptocurrency
 | 什么是比特币Bitcoin？通过货币发展史看比特币的产生 [妈咪说MommyTalk](https://www.youtube.com/watch?v=m3JdQanRZVw)                                                                                                                                                                                                  |
 | Web3 Course Walkthrough on freeCodeCamp.org (Rust, Blockchain Development, and Smart Contracts) [freeCodeCamp](https://www.youtube.com/watch?v=hDfkyF8U-pw)                                                                                                                               |
 | Become a Web 3 & Blockchain Developer in 2022 \| Practical Step by Step Solidity and Web3 Roadmap [JavaScript Mastery](https://www.youtube.com/watch?v=aVQJGr2J8io)                                                                                                                       |
-| Web 3.0 Explained [Siraj Raval](https://www.youtube.com/watch?v=aPVmd7SyKfQ)                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                           |
+| <p>Blockchain and Cryptocurrency Course: What You Need to Know <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rN_bvJCjfM33sOLTGj8gxrF">Stanford Online</a></p><p>区块链和加密货币课程：你需要知道的</p>                                                                                         |
 
 ## 元宇宙
 
@@ -72,13 +75,16 @@ description: Blockchain & Cryptocurrency
 
 ## WEB 3.0
 
-|                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DeData [u](https://www.youtube.com/channel/UCoyN59\_c7JQIAdQkZiv-ILw)                                                                                     |
-| WEB3.0是什么，该如何布局？丨哪些WEB3.0的币值得我们关注和投资 [奔跑的格格](https://www.youtube.com/watch?v=Hsajpp-fg-E)                                                                 |
-| WEB3.0是什么? TOP5 web3.0板块区块链背后加密货币 虚拟货币 ？丨哪些WEB3.0的虚拟货币潛力巨大 [大方BigFang](https://www.youtube.com/watch?v=OnsdncqgSYw)                                       |
-| Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto [JavaScript Mastery](https://www.youtube.com/watch?v=Wn\_Kb3MR\_cU) |
-| Learn Web3 programming and how to build dapps on the Internet Computer (preview) [London App Brewery](https://www.youtube.com/watch?v=o0\_ihmpBbic)       |
-| 基础设施板块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCF-a6Yjf3oC4VDEOUOG3S9)                                                   |
-| Web3 版块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCxQdPiI4Lgnhu6QO7CROcg)                                                  |
-| Stanford Seminar - Evolution of a Web3 Company [Stanford Online](https://www.youtube.com/watch?v=KvhgJEBskgg)                                             |
+|                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DeData [u](https://www.youtube.com/channel/UCoyN59\_c7JQIAdQkZiv-ILw)                                                                                                                                                                                                                   |
+| WEB3.0是什么，该如何布局？丨哪些WEB3.0的币值得我们关注和投资 [奔跑的格格](https://www.youtube.com/watch?v=Hsajpp-fg-E)                                                                                                                                                                                               |
+| WEB3.0是什么? TOP5 web3.0板块区块链背后加密货币 虚拟货币 ？丨哪些WEB3.0的虚拟货币潛力巨大 [大方BigFang](https://www.youtube.com/watch?v=OnsdncqgSYw)                                                                                                                                                                     |
+| Build and Deploy a Modern Web 3.0 Blockchain App \| Solidity, Smart Contracts, Crypto [JavaScript Mastery](https://www.youtube.com/watch?v=Wn\_Kb3MR\_cU)                                                                                                                               |
+| Learn Web3 programming and how to build dapps on the Internet Computer (preview) [London App Brewery](https://www.youtube.com/watch?v=o0\_ihmpBbic)                                                                                                                                     |
+| 基础设施板块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCF-a6Yjf3oC4VDEOUOG3S9)                                                                                                                                                                                 |
+| Web3 版块项目介绍 [All For Research](https://www.youtube.com/playlist?list=PLBXdg6uVmEnCxQdPiI4Lgnhu6QO7CROcg)                                                                                                                                                                                |
+| Stanford Seminar - Evolution of a Web3 Company [Stanford Online](https://www.youtube.com/watch?v=KvhgJEBskgg)                                                                                                                                                                           |
+| <p>Stanford CEE246A - Web3 Entrepreneurship: Future Models of Value Creation Connecting the Real and Digital Economy Seminar Series <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOUC9tTF3wKaif0oFx13EJJ">Stanford Online</a></p><p>Web3 创业：连接实体经济和数字经济研讨会系列的价值创造的未来模型</p> |
+| Web 3.0 Explained [Siraj Raval](https://www.youtube.com/watch?v=aPVmd7SyKfQ)                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                         |

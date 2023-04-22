@@ -126,13 +126,18 @@ description: Generative Adversarial Network (GAN)
 |                                                                                                                                                                                                 |
 |                                                                                                                                                                                                 |
 
-### Generative AI
+### 生成模型, 生成式模型, Generative AI, Generative Models
 
-|                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| Generative AI Is About To Reset Everything, And, Yes It Will Change Your Life \| [Forbes](https://www.youtube.com/watch?v=WY518YRfs5M) |
-| ChatGPTが変える働き方　AIリスクは増加へ【WBS】（2023年1月27日）　Open AI イーロンマスク　チャットGPT [テレ東BIZ](https://www.youtube.com/watch?v=cHikHtiVwXU)                |
-| Ari Seff [u](https://www.youtube.com/@ariseffai/videos)                                                                                |
+|                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Generative AI Is About To Reset Everything, And, Yes It Will Change Your Life \| [Forbes](https://www.youtube.com/watch?v=WY518YRfs5M)                                                                      |
+| ChatGPTが変える働き方　AIリスクは増加へ【WBS】（2023年1月27日）　Open AI イーロンマスク　チャットGPT [テレ東BIZ](https://www.youtube.com/watch?v=cHikHtiVwXU)                                                                                     |
+| Ari Seff [u](https://www.youtube.com/@ariseffai/videos)                                                                                                                                                     |
+| GenRep: Generative Models as a Data Source for Multiview Representation Learning in ICLR2022 [Ali Jahanian](https://www.youtube.com/watch?v=qYmGvVrGZno\&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH\&index=22) |
+| GFlowNets for generative active learning \| Amazon Science [Amazon Science](https://www.youtube.com/watch?v=2s\_GtmofbyU)                                                                                   |
+| Generative Modeling by Estimating Gradients of the Data Distribution - Stefano Ermon [Institute for Advanced Study](https://www.youtube.com/watch?v=8TcNXi3A5DI)                                            |
+|                                                                                                                                                                                                             |
+|                                                                                                                                                                                                             |
 
 ### Fake
 

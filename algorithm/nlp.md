@@ -13,12 +13,12 @@ description: 自然语言处理
 
 ## 平台
 
-|                                                                |                                                                          |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区** |
-| [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**         |
-| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html)  |
-| 自然语言处理 [阿里云](https://help.aliyun.com/product/60058.html)       | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)          |
+|                                                                |                                                                               |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区**      |
+| [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**              |
+| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自CS224W然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html) |
+| 自然语言处理 [阿里云](https://help.aliyun.com/product/60058.html)       | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)               |
 
 ## up
 
@@ -512,6 +512,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 用 AI 揭开地球上最大动物的秘密语言\| ChatGPT4.0 打破语言障碍：翻译革命 [barry看世界](https://www.youtube.com/watch?v=BxRKIZn59k8)                                  |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                |
 | 分析市场上多种AI翻译工具及其应用场景 [Assisi是水豚座](https://www.youtube.com/watch?v=KOENARAV9hc)                                                         |
+| DeepL 翻译文件(PDF)                                                                                                                       |
+|                                                                                                                                       |
 
 ### Attention
 
@@ -641,17 +643,42 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【好玩儿的Docker项目】任何地方无障碍快速访问！ChatGPT Next Web——一键免费部署你的私人 ChatGPT 网页应用 [我不是咕咕鸽](https://www.youtube.com/watch?v=C97PAwJ9fkA)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Sparks of AGI: early experiments with GPT-4 [Sebastien Bubeck](https://www.youtube.com/watch?v=qbIk7-JPB2c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 浅析ChatGPT \| 车万翔 [最佳拍档](https://www.youtube.com/watch?v=865G84z1SxE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Chatbase——用你自己的数据“喂”出懂你的ChatGPT [Assisi是水豚座](https://www.youtube.com/watch?v=f81X0rvQsBM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+### ChatGPT
+
+|                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ChatGPT應用社群 [u](https://www.youtube.com/@ChatGPT-ob3wp)                                                                                               |
+| Create Custom ChatGPT with Your Own Data Redis Search OpenAI Cookbook Chatbot-Kickstarter [Skolo Online](https://www.youtube.com/watch?v=fEHHK6-ix3c) |
+| ChatGPT for YOUR OWN PDF files with LangChain [Prompt Engineering](https://www.youtube.com/watch?v=TLf90ipMzfE)                                       |
+| ChatGPT Course – Use The OpenAI API to Code 5 Projects [freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)                                    |
+|                                                                                                                                                       |
+|                                                                                                                                                       |
 
 ### Prompt Engineering
 
-|                                                                                          |                                                                                            |                                                                                                                              |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| Prompt Engineering Overview [Elvis Saravia](https://www.youtube.com/watch?v=dOxUroR57xs) | ChatGPT Prompt Engineering Course [H-EDUCATE](https://www.youtube.com/watch?v=mBYu5NoXBcs) | Prompt是什么？Prompt Engineering（提示工程）又是什么？他们和ChatGPT和Midjouney有什么关系 ？ [Assisi是水豚座](https://www.youtube.com/watch?v=fGLef4w1Tgk) |
-|                                                                                          |                                                                                            |                                                                                                                              |
-|                                                                                          |                                                                                            |                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Prompt Engineering Overview [Elvis Saravia](https://www.youtube.com/watch?v=dOxUroR57xs)                                                                                                                                                                                                              |
+| Prompt Engineering教學｜8種常用提示工程技巧（隱藏在GPT-4發佈會中） [海獺船長](https://www.youtube.com/watch?v=jjlF1AW6CVc)                                                                                                                                                                                                     |
+| Prompt是什么？Prompt Engineering（提示工程）又是什么？他们和ChatGPT和Midjouney有什么关系 ？ [Assisi是水豚座](https://www.youtube.com/watch?v=fGLef4w1Tgk)                                                                                                                                                                          |
+| ChatGPT Prompt Engineering Course [H-EDUCATE](https://www.youtube.com/watch?v=mBYu5NoXBcs)                                                                                                                                                                                                            |
+| <p>prompt engineering教程 <a href="https://www.youtube.com/watch?v=wZeliSJmwHI">情报系少女Jessica Sprunjer</a></p><p>Learn Prompting <a href="https://learnprompting.org/">s</a> <a href="https://learnprompting.org/zh-Hans/">zh</a> <a href="https://learnprompting.org/zh-Hans/docs/intro">doc-zh</a></p> |
+| 【prompt学习指南】ChatGPT的正确使用方式｜别再无脑复制模版了 [学AI的设计杰](https://www.youtube.com/watch?v=1Xadh\_tjgkU)                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                       |
+
+### Bard
+
+
+
+### MS New Bing
+
+
 
 ### Auto-GPT AgentGPT MiniGPT-4
 
@@ -662,12 +689,16 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 如何选择、安装和使用AutoGPT \| 本地安装 \| AgentGPT \| Cognosys [最佳拍档](https://www.youtube.com/watch?v=\_xejoN8H-U4)                                                                                                                                   |
 | AutoGPT安装部署 \| AutoGPT怎么使用 \|AutoGPT网页版AgentGPT使用教程 [小新来了](https://www.youtube.com/watch?v=pKCSOIivtno)                                                                                                                                  |
 | 微软JARVIS与Auto-GPT揭秘 [回到Axton](https://www.youtube.com/watch?v=-zNSMGScT-U) hugginggpt                                                                                                                                                    |
+| Auto-GPT正确安装法宝：手把手教你安装Auto-GPT，解锁6大独特功能 \| [回到Axton](https://www.youtube.com/watch?v=kUlN\_nnD2lg)                                                                                                                                       |
 | microsoft / [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)   [arxiv](https://arxiv.org/pdf/2303.17580.pdf)   microsoft/[JARVIS](https://github.com/microsoft/JARVIS)                                                   |
 | Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications [Yohei Nakajima](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/) |
 | 开源多模态模型MiniGPT-4发布 [最佳拍档](https://www.youtube.com/watch?v=-2OSLGL48Os)                                                                                                                                                                   |
+| 15分钟Auto-GPT保姆级安装教程 \| 如何用Docker在MacOS下安装AutoGPT [最佳拍档](https://www.youtube.com/watch?v=Oke225G7\_4s)                                                                                                                                    |
 | AutoGPT：GitHub 9.3万+标星 [零度解说](https://www.youtube.com/watch?v=mM1dnA4eLLM)                                                                                                                                                               |
 | AutoGPT搭建与中文版修改 (English Subtitle) [D H](https://www.youtube.com/watch?v=L4VHcyu7EzE)                                                                                                                                                    |
 | 10分钟讲清楚AutoGPT的使用、选择和本地安装 [Assisi是水豚座](https://www.youtube.com/watch?v=UWONlt844Z0)                                                                                                                                                      |
+| Auto-GPT Tutorial - Create Your Personal AI Assistant 🦾 [Dave Ebbelaar](https://www.youtube.com/watch?v=jn8n212l3PQ)                                                                                                                    |
+| AgentGPT把ChatGPT卷成了妥妥的AI个人代理。 [老猫聊科技](https://www.youtube.com/watch?v=6jl0Cux3tUU)                                                                                                                                                       |
 |                                                                                                                                                                                                                                          |
 
 ### 文心一言
@@ -676,15 +707,27 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Claude
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| 免费体验 GPT-4，Claude+ [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ) |
-|                                                                           |
-|                                                                           |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| 免费体验 GPT-4，Claude+ [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ)                                             |
+| ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
+|                                                                                                                       |
 
 ### ChatGLM
 
+
+
+### ChatHub
+
+|                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 聊天AI不靠谱? 用ChatHub提高答案的可信度                                                                                                                                                                     |
+| chathub-dev/[chathub](https://github.com/chathub-dev/chathub)   [s](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm\_source=website) |
+|                                                                                                                                                                                               |
+
 ### ChatPDF
+
+
 
 ### Microsoft DeepSpeed
 
@@ -696,11 +739,35 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### OpenAssistant
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0) |
-|                                                                            |
-|                                                                            |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0)                                            |
+| ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
+|                                                                                                                       |
+
+### LLaMA
+
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 人人都能訓練自己的 ChatGPT？史丹佛大學開源指令微調 Meta LLaMA-7B 方法：Alpaca 羊駝 [資料探員 Data Agent](https://www.youtube.com/watch?v=bTzM45kaK44) colab                          |
+| A-baoYang/[alpaca-7b-chinese](https://github.com/A-baoYang/alpaca-7b-chinese)                                                                          |
+| <p>Stanford Alpaca <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">s</a></p><p>Alpaca: A Strong, Replicable Instruction-Following Model</p> |
+
+### Chatbase
+
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| Chatbase——用你自己的数据“喂”出懂你的ChatGPT [Assisi是水豚座](https://www.youtube.com/watch?v=f81X0rvQsBM) |
+|                                                                                           |
+|                                                                                           |
+
+### OpenChatKit
+
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
+|                                                                                                                       |
+|                                                                                                                       |
 
 ### 语言模型, Language Models
 

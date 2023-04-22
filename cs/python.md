@@ -4,6 +4,8 @@
 
 [https://docs.python.org/zh-cn/3/contents.html](https://docs.python.org/zh-cn/3/contents.html)
 
+How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/watch?v=SWr6NW2osqc)
+
 [https://github.com/python/cpython](https://github.com/python/cpython)
 
 ## 常用
@@ -153,6 +155,7 @@
 | Intermediate Python Programming Course [freeCodeCamp](https://www.youtube.com/watch?v=HGOBQPFzWKo)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 小甲鱼Python零基础入门教程（全集96讲） [野生IT散修](https://www.youtube.com/playlist?list=PLKLUwbV5J\_7d4QPHJBPUSpZ7E4v5xQxCd)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | The complete guide to Python [Clear Code](https://www.youtube.com/watch?v=mDKM-JtUhhc) 11:08:59                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Python语言基础与应用 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdiuc8KraWsUKf5sxk5W09ctz)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ### 传智/黑马
 
@@ -891,6 +894,7 @@ Python高性能编程
 | Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                      |
 | Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                               |
 | Microservices with FastAPI – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA)                                                            |
+| Flask & FastAPI [Sure](https://www.youtube.com/playlist?list=PLBD8XfkW6PWHmkHQW50UnQgniXo5LXOjJ)                                                                |
 | Django Authentication & User Management - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=WuyKxdLcw3w)                                            |
 | Python+Django网站开发系列 [Andrew 程序设计](https://www.youtube.com/playlist?list=PLflKlxctM6tH1E0\_0d1\_kweQKpJzhw\_z9)                                                  |
 | Python In The Browser! PyScript First Look [Traversy Media](https://www.youtube.com/watch?v=vxqBm6\_0vyk)                                                       |
@@ -1193,6 +1197,7 @@ Python: OpenStreetMap API - add Longitudes and Latitudes by using Geopy module [
 | Pygame in 90 Minutes - For Beginners [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)                                                                      |
 | Pygame Tutorial - Creating Space Invaders [Tech With Tim](https://www.youtube.com/watch?v=Q-\_\_8Xw9KTM)                                                               |
 | Pygame Car Racing Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)                                                   |
+| Python 游戏开发（中国国家精品课程）[华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdiuNjD4PozyfehXullO8w-zC)                                                           |
 | Python Project: Snake and Apple Game In Pygame [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5)                                  |
 | Zelda in Python [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)                                                                                              |
 | Convert Python to Android with WINDOWS & LINUX + Fix Common Bugs [Python Simplified](https://www.youtube.com/watch?v=VsTaM057rdc)                                      |

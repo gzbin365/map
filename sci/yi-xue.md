@@ -8,7 +8,7 @@
 
 |                                                                                                                                           |                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **医学视频站**[   ****   u](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists)                                                | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
+| **医学视频站**[   u](https://www.youtube.com/c/KFC%E4%B8%AD%E6%96%87%E7%89%88/playlists)                                                       | 小眼兄弟 抖音号： [13155450](https://www.douyin.com/user/MS4wLjABAAAAH0wT1QiaaCMfGQrDg46rcQdznEzG26GXJXf1xA1JGgw?enter\_from=recommend\&enter\_method=video\_title\&from\_gid=7017641544337378574\&is\_full\_screen=0) |
 | 医路向前巍子 抖音号： [ylxqvzi](https://www.douyin.com/user/MS4wLjABAAAArpWodT3Pj5GRZkmJREQ9oT3EBk5nbGsIu80t-J854EU)                                | 隋主任谈失眠抑郁 抖音号： [41251832215](https://www.douyin.com/user/MS4wLjABAAAALZ\_StlqRQCXwC9eydAaS1KA9cy3VK7LOQVLWiuvqOV9GwfNSSoMcRIRchaARzOq3)                                                                         |
 | 皮肤科教授 王群 抖音号： [pifukewangqun](https://www.douyin.com/user/MS4wLjABAAAAu\_2lMbpzx8g4f3mVICcNR2TZD4ZmsLnEr79kk0U8t\_hRDifSDJuhEg2MhtRqqvqN) | 胃肠内镜医生吴齐  抖音号： [Wuqidr168](https://www.douyin.com/user/MS4wLjABAAAAoFQhasuA2k3t01iVAWVUxBSZ3rgwmDU9cTHZLah3bWYXNrbW4gydta6jO\_2pVDLX)                                                                          |
 | 皮肤科樊一斌博士 抖音号： [Dr\_Fan](https://www.douyin.com/user/MS4wLjABAAAA6Ona-FSiXdy3uuJaqONmrtSJk06NG9mnWkAqGXr0Npw)                              | 耶鲁脑科学博士琳子 抖音号： [cool\_brain](https://www.douyin.com/user/MS4wLjABAAAATSHz4HqWcxEhJhhp-IOkUJoWmtvv6Y81sTwZ5L9heWpvFVPZOjFNgwsP42WY3GD4)                                                                         |
@@ -30,6 +30,8 @@
 | 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)          |
 | [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                            |
 | 如果發生戰爭甚至核戰爭，我絕對會這樣做 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=nIVgberBC5Y)                    |
+| 中医方剂 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdivW4F-20bBbS8BzFDuCT\_IU)               |
+|                                                                                                             |
 
 ## 健康养生
 

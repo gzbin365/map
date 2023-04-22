@@ -48,6 +48,7 @@ description: Self-Driving
 | OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial) [ProgrammingKnowledge](https://www.youtube.com/watch?v=eLTLtUVuuy4)                                    |
 | 百度全自动驾驶如何赶超Tesla的FSD？[米斯特老古](https://www.youtube.com/watch?v=eTIwE5gLh8w)                                                                                                                          |
 | Talk \| 清华大学交叉信息研究院助理教授赵行：基于视觉感知的自动驾驶运动预测 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=K4jgrW1dQ1o)                                                                                           |
+| <p>自駕車文字辨識教學1 <a href="https://www.youtube.com/watch?v=HfcWz9lvIM0">Yung-Chung Chen</a></p><p>自駕車文字辨識教學2 Yung-Chung Chen</p><p>自駕車文字辨識教學3 Yung-Chung Chen</p>                                      |
 |                                                                                                                                                                                                    |
 
 |                                                                                                                 |   |   |

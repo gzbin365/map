@@ -130,6 +130,8 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | -------------------------------------------------------------------------------------------------------------------------- |
 | 逆天邪神有声小说-----广播剧 [豚豚](https://www.youtube.com/playlist?list=PL-ZVML-sr0EUORjnaElxeiTwCUHd1wOj9)                            |
 | 《红楼梦》的空间艺术 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wMZ-89Cy6fxfliOEru1tCk)                 |
+| 走进《红楼梦》 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdisEs-WDdYVd6wvHmy3macJx)                            |
+| 三国志 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsditjZZjTLbsVxidBiAXLVk\_h)                               |
 | 逆天邪神 [樂文光影](https://www.youtube.com/playlist?list=PLgHhq8n1\_ZKLZnPl8rRYdekjU1Lr77Vvf)                                     |
 | 武煉巔峯 [买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLr05iRO0-XJffkC5CKSKWc6)                                     |
 | 武神主宰（同名動畫原著）[买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLp26E-puTaK3JQUcNUVeU4U)                              |

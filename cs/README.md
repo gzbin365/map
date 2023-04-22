@@ -186,11 +186,11 @@ International Business Machine IBM 美国国际商用机器公司
 
 #### office
 
-| Excel                                                                                           |                                                                         |   |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
-| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) | Excel For Freelancers [u](https://www.youtube.com/@ExcelForFreelancers) |   |
-|                                                                                                 |                                                                         |   |
-|                                                                                                 |                                                                         |   |
+| Excel                                                                                           |                                                                         |                                                                                                                          |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Excel不求人 [Meiko微課頻道](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl\_98q) | Excel For Freelancers [u](https://www.youtube.com/@ExcelForFreelancers) | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) |
+|                                                                                                 |                                                                         |                                                                                                                          |
+|                                                                                                 |                                                                         |                                                                                                                          |
 
 ### 百度
 
@@ -465,6 +465,14 @@ google colab,   kaggle notebooks,   aws sage maker,   azure machine learning,  &
 
 PKUanonym/[REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
 
+## 计算机概论
+
+|                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stanford CS105 - Introduction to Computers Full Course [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN) |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+
 ## 计算机组成原理
 
 Computer Components？Computer Architecture？
@@ -533,6 +541,8 @@ Computer Components？Computer Architecture？
 | Full HTTP Networking Course – Fetch and REST APIs in JavaScript [freeCodeCamp](https://www.youtube.com/watch?v=2JYT5f2isg4)                                                                                                                                                                                                                                                                                                                                                                                            |
 | ［AI］ChatGPT对于科学上网及网络技术的一些见解 [ZCY](https://www.youtube.com/watch?v=Uc30CX-Rd6M)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 总是怀疑家里带宽跑不满?/手把手教你iperf3进阶用法/测试你的内网带宽到底如何（CC 字幕） [JS神技能](https://www.youtube.com/watch?v=4V6aeT9nvAY)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 架构漫谈之网络篇 [代码真香](https://www.youtube.com/playlist?list=PLK2w-tGRdrj4kATfdbiZmwQbI2NkYGGlY) 《网络协议》                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 | 内网穿透                                                                                                                                                                       |                                                                                                     |                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -79,6 +79,8 @@
 | 文殊菩萨心咒 [人間正道](https://www.youtube.com/watch?v=opPeoWdxuKo)                                                                                                                                                                                                                                                                                                                   |
 | 老子悟道、佛祖成佛的关键竟然在这里！如何从长相判断你从哪一道轮回转世而来？相由心生\[Unsolved Mystery Stories \| Xiaowu] [脑洞乌托邦](https://www.youtube.com/watch?v=\_c2hzlg8-pM)                                                                                                                                                                                                                                         |
 | 历史上的佛教有多可怕？发起灭佛运动的「三武一宗」结局为何如此悲惨？灭佛的真相 \[She's Xiaowu @ndwtb] [脑洞乌托邦](https://www.youtube.com/watch?v=\_gSZmwQwwPI)                                                                                                                                                                                                                                                          |
+| 佛教文化 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdiuw20l12ep-XnYJyKytAD3N)                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## 国学
 
@@ -90,7 +92,7 @@
 | 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
 | 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
 | 国学分享 [u](https://www.youtube.com/@guoxue95588)                                                                                   |
-|                                                                                                                                  |
+| 华人开放式课程MOOC [u](https://www.youtube.com/@mooc86)                                                                                 |
 
 | 赵玉平老师                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
