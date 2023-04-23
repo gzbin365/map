@@ -366,6 +366,8 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 | 25 Nooby Pandas Coding Mistakes You Should Avoid [Medallion Data Science](https://www.youtube.com/watch?v=\_gaAoJBMJ\_Q)                                        |
 | Make Your Pandas Code Lightning Fast [Rob Mulla](https://www.youtube.com/watch?v=SAFmrTnEHLg)                                                                   |
 | Solving real world data science tasks with Python Pandas! [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)                                            |
+| Pandas Functions [Data Independent](https://www.youtube.com/playlist?list=PLqZXAkvF1bPPaSv30r5WCfXAdWdzXl1PX)                                                   |
+|                                                                                                                                                                 |
 |                                                                                                                                                                 |
 
 | sklearn                                                                                                                                        |
@@ -545,7 +547,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                                                          |
 | GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                                                                                             |
 | Tkinter Course - Create Graphic User Interfaces in Python Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)                                                                                                   |
-| The ultimate introduction to modern GUIs in Python \[ with tkinter ] [Clear Code](https://www.youtube.com/watch?v=mop6g-c5HEY)                                                                                                   |
+| The ultimate introduction to modern GUIs in Python \[ with tkinter ] [Clear Code](https://www.youtube.com/watch?v=mop6g-c5HEY) 18:23:18                                                                                          |
 | How to draw on a canvas or image in Tkinter using the mouse [pycad](https://www.youtube.com/watch?v=4ehHuDDH-uc)                                                                                                                 |
 | Tkinter Basics [Alan D Moore Codes](https://www.youtube.com/playlist?list=PLXlKT56RD3kBUYQiG\_jrAMOtm\_SfPLvwR)                                                                                                                  |
 | Python GUI's With TKinter [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)                                                                                                                 |
@@ -557,7 +559,8 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Create GUI App with Tkinter and SQLite - Step by Step Python Tutorial for Beginners [Python Simplified](https://www.youtube.com/watch?v=5qOnzF7RsNA)                                                                             |
 | Tkinter Beginner Course - Python GUI Development [NeuralNine](https://www.youtube.com/watch?v=ibf5cx221hk)                                                                                                                       |
 | Tkinter Python [egoroff\_channel](https://www.youtube.com/playlist?list=PLQAt0m1f9OHsd6U5okp1XLoYyQR0oBjMM)                                                                                                                      |
-|                                                                                                                                                                                                                                  |
+| Tkinter Keyboard Tutorial [World of Python](https://www.youtube.com/playlist?list=PL455mfbkn3PnL4IYFtuxp\_pxR082aIplS)                                                                                                           |
+| Python GUI keyboard events ⌨️ [Bro Code](https://www.youtube.com/watch?v=Afq9NYuwk2k)                                                                                                                                            |
 |                                                                                                                                                                                                                                  |
 
 ### PyQt
@@ -586,6 +589,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | PySimpleGUI                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | The ultimate introduction to simple Python GUIs \[ create 10 apps with PySimpleGUI ] [Clear Code](https://www.youtube.com/watch?v=QeMaWQZllhg) |
+| Creating 10 Apps in Python \[ with PySimpleGui ] [Clear Code](https://www.youtube.com/watch?v=kQ8DGP9p2LY) 4:24:42                             |
 | Python GUI Development With PySimpleGUI [Real Python](https://www.youtube.com/watch?v=-\_z2RPAH0Qk)                                            |
 |                                                                                                                                                |
 
@@ -870,6 +874,7 @@ Python高性能编程
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Skolo Online [u](https://www.youtube.com/@SkoloOnline/playlists)                                                                                                |
 | Python for Web Development – Crash Course \[API, SQL Databases, Virtual Environment, Flask, Django] [freeCodeCamp](https://www.youtube.com/watch?v=WNvxR8RFzBg) |
 | Python Django 7 Hour Course [Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)                                                                       |
 | Flask [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWPXx3C\_aIATYnnbCTDByHy)                                                             |
@@ -954,6 +959,7 @@ Python高性能编程
 | 就想写个爬虫，我到底要学多少东西啊？[崔庆才](https://mp.weixin.qq.com/s?\_\_biz=MzIwODI2NDkxNQ==\&mid=2247487842\&idx=4\&sn=98ca86c5c5ad61a7d564fa2cb2b5a522\&chksm=97049adea07313c815eebf6ddf117fa2a027549e355221b8f0d23058380e238b384cf9fb57d0\&mpshare=1\&scene=1\&srcid=\&sharer\_sharetime=1585456067551\&sharer\_shareid=e08d450bb86978202e96a05c7cf1bc4c#rd) 机器学习初学者 |
 | 网络爬虫实战 [DayDayUP](https://www.youtube.com/playlist?list=PL8XnX0hzN2HL2-Iw2JxOiYnqldRskI7bk)                                                                                                                                                                                                                                                            |
 | Python爬虫编程基础5天速成 Python入门+数据分析 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTwCmlnBroM10oVNnix5Qx8v)                                                                                                                                                                                                                                      |
+| Python数据爬虫实战 [Python学习指南](https://www.youtube.com/playlist?list=PLxpYnyUGAYhh9Pgsn4REhHsHVpGVkhd\_S)                                                                                                                                                                                                                                                   |
 
 ## 网络编程
 

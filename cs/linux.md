@@ -346,7 +346,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | docker搭建一款开源轻量化的网页版便签备忘录 [有云转晴](https://www.youtube.com/watch?v=AkEdBYwP4fk)                                                                                                                                           |
 | <p>Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course) <a href="https://www.youtube.com/watch?v=f4idgaq2VqA">freeCodeCamp</a></p><p></p><p><em>Jenkins是</em>一个开源的、提供友好操作界面的持续集成(CI)工具</p> |
 | Docker [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B571llfq1pW0UDYFYVGveJz)                                                                                                                  |
-| How to create a great dev environment with Docker [Patrick Loeber](https://www.youtube.com/watch?v=0H2miBK\_gAk)                                                                                                       |
+| How to create a great dev environment with Docker [Patrick Loeber](https://www.youtube.com/watch?v=0H2miBK\_gAk) 29:54                                                                                                 |
 | Dockerize Python Applications with GUI [NeuralNine](https://www.youtube.com/watch?v=W82jvmiaDtk)                                                                                                                       |
 |                                                                                                                                                                                                                        |
 

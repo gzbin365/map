@@ -52,11 +52,11 @@
 
 ### heroku
 
-|                                                                                     |                                                                   |                                                                                           |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 【serverless】云平台heroku介绍(1) [FreeCoder](https://www.youtube.com/watch?v=piFbYGKNRd4) | 国内对 Heroku 这个平台评价怎样？[zh](https://www.zhihu.com/question/19983570) | <p>Heroku <a href="https://zh.wikipedia.org/wiki/Heroku">wiki</a> </p><p>云平台即服务(PaaS)</p> |
-| 【serverless】云平台heroku介绍(2) [FreeCoder](https://www.youtube.com/watch?v=M-lRz0GODxg) |                                                                   |                                                                                           |
-|                                                                                     |                                                                   |                                                                                           |
+|                                                                                     |                                                                                       |                                                                                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 【serverless】云平台heroku介绍(1) [FreeCoder](https://www.youtube.com/watch?v=piFbYGKNRd4) | 国内对 Heroku 这个平台评价怎样？[zh](https://www.zhihu.com/question/19983570)                     | <p>Heroku <a href="https://zh.wikipedia.org/wiki/Heroku">wiki</a> </p><p>云平台即服务(PaaS)</p> |
+| 【serverless】云平台heroku介绍(2) [FreeCoder](https://www.youtube.com/watch?v=M-lRz0GODxg) | Serverless是一种新兴的云计算架构，它允许开发人员构建和部署应用程序而无需考虑服务器管理。使用Serverless可以使得应用程序的开发和运维变得更加容易和快速。 |                                                                                           |
+|                                                                                     |                                                                                       |                                                                                           |
 
 ### Railyway
 

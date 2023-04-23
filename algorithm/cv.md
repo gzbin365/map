@@ -249,12 +249,32 @@ import cv2
 | -------------------------------------------------------------------------------------------------------------------------- |
 | Image Compression Using PCA in Python [NeuralNine](https://www.youtube.com/watch?v=3aUshxvxGhY)                            |
 | Talk \| 商汤科技计算机视觉研究员何岱岚：基于深度学习的高效图像压缩编码 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7a3UlbcOWdg)                     |
-| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                                                 |
+|                                                                                                                            |
 | JPEG 有损压缩 离散余弦变换 DCT 一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=-iL9UzUKqKM)                                            |
 | ZIP压缩算法刨析 什么是LZ77编码 [掌芝士](https://www.youtube.com/watch?v=\_a\_keel8JFI)                                                   |
 | 哈夫曼编码很难懂？一条视频讲清楚 [掌芝士](https://www.youtube.com/watch?v=Jrje7ep5Ff8)                                                        |
 | How JPEG Works [Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh)                   |
 | How are Images Compressed? \[46MB ↘↘ 4.07MB] JPEG In Depth [Branch Education](https://www.youtube.com/watch?v=Kv1Hiv3ox8I) |
+
+## 视频压缩
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                                    |
+| 完全解析：视频编码与封装 [Mediastorm影视飓风](https://www.youtube.com/watch?v=P-k4nqCL7tw)                                    |
+| 视频格式, 封装格式, 编码格式, h.264 编码 mp4 封装                                                                             |
+| 高画质的背后——视频的封装与编码 [Mediastorm影视飓风](https://www.youtube.com/watch?v=hqNcj6\_lYg0)                               |
+| 封装格式 mp4                                                                                                      |
+| <p>视频编码 h.264 </p><p>帧内压缩 intraframe   jpeg   保留亮度 压缩颜色 缩小90%</p><p>帧间压缩 interframe   关键帧+细节变化   I帧、P帧和B帧</p> |
+| adobe media encoder                                                                                           |
+| <p>码率, 控制码率的方法, 恒定码率cbr 可变码率vbr 固定质量crf 比特率</p><p>16mbps 16mb/s 5000kbps</p><p>cpu画质预设 fast</p>               |
+| 【科普】“视频”是怎么来的？H.264、码率这些词又是什么意思？ [极客湾Geekerwan](https://www.youtube.com/watch?v=d\_24Tgsc0vo)                 |
+| 300mbps ->3mbps   MediaCoder x64                                                                              |
+| 显卡编码 nvenc编码器 直播用                                                                                             |
+| avisynth.nl AVS的各种用法   doom9论坛（forum.doom9.org）有用的压制技巧                                                        |
+| h.265   hevc   B站的视频上传规范                                                                                      |
+| 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                            |
+| obs studio                                                                                                    |
 
 ## 图像修复
 

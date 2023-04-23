@@ -13,7 +13,14 @@
 | IHDT 抖音号：[ihdt](https://www.douyin.com/user/MS4wLjABAAAA1eCOa23DG2X-0KHS1sDgHyTfdeAZhMq4XDy0HfCm\_w4)                                                                                                           | 空罐王CankingSketch [u](https://www.youtube.com/c/a12710xxx)                                                                          |
 | 艺术家甲板 抖音号：[88839985042](https://www.douyin.com/user/MS4wLjABAAAAH-XKW4raENWmGWUntanB47-lufJD8q4wF0QqOT67tmUU05\_YfKP4\_oLAKLGy-KOW)                                                                             | 兜四爷 抖音号： [jingzhiyong](https://www.douyin.com/user/MS4wLjABAAAAFPJdftMOKBXcBQ\_qtaaY0HgiCGktZRXC1Oq3RjZStsk)                       |
 | ins视觉 抖音号： [Edric14007](https://www.douyin.com/user/MS4wLjABAAAAW-\_mKDSrEXDjNPJMHO\_Lc\_dspu1GYEmSs9jYF9AvuWc)                                                                                                 | Algorithmic Dynamic Art [u](https://www.youtube.com/@algdynart)                                                                    |
-| Ning 抖音号： [Me6255](https://www.douyin.com/user/MS4wLjABAAAAa4hkyNmGVLHEVpCnQUonOEMRJ-NOJ3kCqxxoyz0omWpEyZrDo8jmRz-hSXK6f1cO)   画插画的Ning                                                                         |                                                                                                                                    |
+| Ning 抖音号： [Me6255](https://www.douyin.com/user/MS4wLjABAAAAa4hkyNmGVLHEVpCnQUonOEMRJ-NOJ3kCqxxoyz0omWpEyZrDo8jmRz-hSXK6f1cO)   画插画的Ning                                                                         | 曲奇放克 [u](https://www.youtube.com/@kookiefunk)                                                                                      |
+| 贝大大Xibei Liu [u](https://www.youtube.com/@xibeiliu5978/playlists)                                                                                                                                               | 水彩咖啡廳 - Eric [u](https://www.youtube.com/@-eric1247)                                                                               |
+| 杨将 [u](https://www.youtube.com/@YangJiang-Painting)                                                                                                                                                             | 又画 [u](https://www.youtube.com/@vx-youhua32/playlists)                                                                             |
+| 愛麗絲的測繪旅帳fernweh illustration [u](https://www.youtube.com/@fernweh-art)                                                                                                                                          | Fabpaint [u](https://www.youtube.com/@fabpaint)                                                                                    |
+| Angela Anderson [u](https://www.youtube.com/@thankfulart)                                                                                                                                                       | Christophe Young [u](https://www.youtube.com/@christopheyoungart)                                                                  |
+| Tim Wilmot [u](https://www.youtube.com/@TimWilmot/playlists)                                                                                                                                                    | Oliver Pyle - Our Landscape [u](https://www.youtube.com/@oliverpyle-ourlandscape4442)                                              |
+| 趣拍片 [u](https://www.youtube.com/@user-ls3bb8yx1l)                                                                                                                                                               | doyoudo [u](https://www.youtube.com/@doyoudoTeam/playlists)                                                                        |
+| Aworkzon [u](https://www.youtube.com/@Aworkzon/playlists)                                                                                                                                                       | ibooklet小册子 [u](https://www.youtube.com/@ibooklet/playlists)                                                                       |
 |                                                                                                                                                                                                                 |                                                                                                                                    |
 
 |                                                                                             |                                                                                            |                                                                                                                    |
@@ -57,6 +64,7 @@
 | Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                                                        |
 | MasterGo [s](https://mastergo.com/)                                                                                                                                               |
 | 且曼设计学院 [zh](https://www.zhihu.com/column/c\_1264866098362736640) [dy](https://www.douyin.com/user/MS4wLjABAAAAm-cESGcd\_E3uMnfrL1JL8HllPs6dJ3KmI34HbwiaX49\_avYlKT8LmGJuwaHHjSfJ) |
+| 【四技统测｜设计群】 [统测王云端学院](https://www.youtube.com/playlist?list=PLo7u75FjthsB58e2v096TCJBmT3QUqJQt)                                                                                    |
 
 | **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
@@ -95,13 +103,21 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 |                                                                                                                                  |   |
 |                                                                                                                                  |   |
 
-## 配色
+## 调色 配色
 
-|                                                                                         |   |   |
-| --------------------------------------------------------------------------------------- | - | - |
-| 如何找出好配色？照著這個步驟做，讓你的設計更具吸引力！！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=PCYD7codKXQ) |   |   |
-|                                                                                         |   |   |
-|                                                                                         |   |   |
+|                                                                                         |                                                                  |                                                                              |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 如何找出好配色？照著這個步驟做，讓你的設計更具吸引力！！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=PCYD7codKXQ) | 配色設計學 [La Bon Cafe](https://www.youtube.com/watch?v=kOj631X8zAI) | 『iPad Procreate』電腦繪圖怎麼配色？[曲奇放克](https://www.youtube.com/watch?v=hvEZgxx1LNw) |
+| premiere                                                                                | 达芬奇                                                              |                                                                              |
+|                                                                                         |                                                                  |                                                                              |
+
+## 达芬奇
+
+|                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 达芬奇软件（DaVinci Resolve）是一款专业的视频编辑和调色软件，由Blackmagic Design开发。它主要用于电影、电视、广告和网络视频等制作领域，可以进行视频编辑、音频编辑、色彩校正、特效制作等多种操作。它有一个完整的工作流程，包括导入、剪辑、调色、音频处理、特效制作、输出等功能，能够满足专业制作人员的需求。同时，它也有免费版本和收费版本，供不同需求的用户选择。 |
+| 达芬奇教程 [Mediastorm影视飓风](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV)                                                                                                 |
+|                                                                                                                                                                                                  |
 
 ## adobe全家桶
 

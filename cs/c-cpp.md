@@ -129,6 +129,9 @@
 | C Programming Language - Intro to Computer Science - Harvard's CS50 (2018) [freeCodeCamp](https://www.youtube.com/watch?v=ix5jPkxsr7M)                                 |
 | 用链表实现管理系统                                                                                                                                                              |
 | C语言编程参考 嵌入式C语言进阶之道(C语言编程风格).[pdf](http://maxwell.ysepan.com/)                                                                                                          |
+| C語言程式設計 [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbaD87VvzT7DPclekQsTP\_-8)                                                                   |
+|                                                                                                                                                                        |
+|                                                                                                                                                                        |
 
 ## Book
 

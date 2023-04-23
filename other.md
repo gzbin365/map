@@ -8,7 +8,7 @@
 
 **幻海航行--science fiction(**[**u**](https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag/featured)**, ) 科幻梦工场** [**u**](https://www.youtube.com/channel/UCTY7QED-uxqgUtU0COknFdg) **outlooker外行員(**[**u**](https://www.youtube.com/c/outlooker%E5%A4%96%E8%A1%8C%E5%93%A1/featured)**, )**
 
-[**orwtmc**](https://space.bilibili.com/353458898) **** [**青蛙刀圣1993**](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw) **** [**脑洞乌托邦**](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ\_g/featured) **Veritasium(**[**u**](https://www.youtube.com/c/veritasium/featured)**, ) 温义飞的急救财经(**[**u**](https://www.youtube.com/channel/UCfpjlfw7KxaU7gZp038\_t8w/videos)**, )**
+[**orwtmc**](https://space.bilibili.com/353458898) [**青蛙刀圣1993**](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw) [**脑洞乌托邦**](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ\_g/featured) **Veritasium(**[**u**](https://www.youtube.com/c/veritasium/featured)**, ) 温义飞的急救财经(**[**u**](https://www.youtube.com/channel/UCfpjlfw7KxaU7gZp038\_t8w/videos)**, )**
 
 **窮奢極欲(**[**u**](https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3\_Jw/featured)**, ) 九边视频** [**u**](https://www.youtube.com/channel/UC1W338lwo1dmkLeiYzTmSnA) **人性洞察室(**[**u**](https://www.youtube.com/channel/UCI7uUDMlJJsH9oXrmaEkzpA/videos), ) M2档案 [**u**](https://www.youtube.com/channel/UC9HOOTENXN\_Q2AJ7eozWBXA/videos) 五件小事 [u](https://www.youtube.com/channel/UC5TSUHDDGa8mQ1aS\_S6EQnA)
 
@@ -84,6 +84,10 @@
 | \[OBS Ninja] Your phone as webcam? FREE, NO APP, IOS & ANDROID. [Tech Notice](https://www.youtube.com/watch?v=vrZfb2zYupo)                                           |
 | How to Use Your Phone Camera in OBS Studio [Waiting 2B Scene](https://www.youtube.com/watch?v=X7zmX2mq0dg)                                                           |
 | Voice Changer 100% FREE in OBS for Windows and MAC [Michael Feyrer Jr.](https://www.youtube.com/watch?v=bXpviWkHsKI)                                                 |
+| 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                                                                                   |
+| voicemeeter 声音分流                                                                                                                                                     |
+| 【翼王】为什么你的直播这么卡？用实测告诉你OBS推流到底需要什么配置 [翼王](https://www.youtube.com/watch?v=dghk4EhV4lE)                                                                                 |
+|                                                                                                                                                                      |
 
 ## 学习方法
 

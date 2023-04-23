@@ -641,7 +641,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | \[第25期] 使用ChatGPT實現C++實現觀察者模式的程式碼/Use ChatGPT to implement Observer Pattern C++ code [LabVIEW & Python & Arduino Workshops](https://www.youtube.com/watch?v=2\_W-RF\_oROA)                                                                                                                                                                                                                                                                                                                                                                                                          |
 | RLHF+CHATGPT: What you must know [Machine Learning Street Talk](https://www.youtube.com/watch?v=PBH2nImUM5c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 【好玩儿的Docker项目】任何地方无障碍快速访问！ChatGPT Next Web——一键免费部署你的私人 ChatGPT 网页应用 [我不是咕咕鸽](https://www.youtube.com/watch?v=C97PAwJ9fkA)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Sparks of AGI: early experiments with GPT-4 [Sebastien Bubeck](https://www.youtube.com/watch?v=qbIk7-JPB2c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <p>Sparks of AGI: early experiments with GPT-4 <a href="https://www.youtube.com/watch?v=qbIk7-JPB2c">Sebastien Bubeck</a></p><p>Sébastien Bubeck是一位数学家和计算机科学家，他是法国国家科学研究中心(CNRS)和Microsoft Research纽约的研究员。他的研究涵盖了优化、机器学习、随机算法和在线学习等领域。他在优化理论和在线学习方面的研究成果被广泛应用于机器学习、自然语言处理、计算机视觉等领域。此外，他也是一位优秀的科普作家，他的著作包括《Convex Optimization: Algorithms and Complexity》等。ChatGPT 大數軟體有限公司</p>                                                                                                                                                                                                     |
 | 浅析ChatGPT \| 车万翔 [最佳拍档](https://www.youtube.com/watch?v=865G84z1SxE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -655,7 +655,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Create Custom ChatGPT with Your Own Data Redis Search OpenAI Cookbook Chatbot-Kickstarter [Skolo Online](https://www.youtube.com/watch?v=fEHHK6-ix3c) |
 | ChatGPT for YOUR OWN PDF files with LangChain [Prompt Engineering](https://www.youtube.com/watch?v=TLf90ipMzfE)                                       |
 | ChatGPT Course – Use The OpenAI API to Code 5 Projects [freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)                                    |
-|                                                                                                                                                       |
+| ChatGPT [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPYr-Qj9wZsNR\_f2LdvrHAgs)                                                         |
+| Generative AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X\_KzRlsqyM2Cs7Dxp9)                                      |
+| Connor Leahy on AGI and Cognitive Emulation [Future of Life Institute](https://www.youtube.com/watch?v=ps\_CCGvgLS8)                                  |
 |                                                                                                                                                       |
 
 ### Prompt Engineering
@@ -671,6 +673,30 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                       |
+
+### LangChain
+
+|                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                           |
+| [doc](https://python.langchain.com/en/latest/)   [videos](https://python.langchain.com/en/latest/youtube.html)   hwchase17/[langchain](https://github.com/hwchase17/langchain)   hwchase17/[langchain-hub](https://github.com/hwchase17/langchain-hub)    |
+| LangChain Crash Course - Build apps with language models [Patrick Loeber](https://www.youtube.com/watch?v=LbT1yp6quS8)                                                                                                                                    |
+| LangChain 中文入门教程   liaokongVFX/[LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)                                                                                                          |
+| LangChain 完整指南：使用大语言模型构建强大的应用程序 [动笔科技](https://zhuanlan.zhihu.com/p/620529542)                                                                                                                                                                            |
+| 大语言模型集成工具 LangChain [科密中的科蜜](https://zhuanlan.zhihu.com/p/599688026)                                                                                                                                                                                      |
+| LangChain [Data Independent](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)                                                                                                                                                    |
+| LangChain for Gen AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLieV9uTIFMm6\_4PXg-hlN6F)                                                                                                                                   |
+| LangChain入门 [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoojftjcvaxJfsCEWqUEAPmve)                                                                                                                                                           |
+| Building AI LLM Apps with LangChain (and more?) - LIVE STREAM [Nicholas Renotte](https://www.youtube.com/watch?v=M-2Cj\_2fzWI)                                                                                                                            |
+|                                                                                                                                                                                                                                                           |
+
+### Pinecone
+
+|                                                                                              |
+| -------------------------------------------------------------------------------------------- |
+| OpenAI Embedding向量数据存储                                                                       |
+| Pinecone [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoogxcEfpAzbh2cZBVJJ26Brx) |
+|                                                                                              |
 
 ### Bard
 
@@ -699,7 +725,16 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 10分钟讲清楚AutoGPT的使用、选择和本地安装 [Assisi是水豚座](https://www.youtube.com/watch?v=UWONlt844Z0)                                                                                                                                                      |
 | Auto-GPT Tutorial - Create Your Personal AI Assistant 🦾 [Dave Ebbelaar](https://www.youtube.com/watch?v=jn8n212l3PQ)                                                                                                                    |
 | AgentGPT把ChatGPT卷成了妥妥的AI个人代理。 [老猫聊科技](https://www.youtube.com/watch?v=6jl0Cux3tUU)                                                                                                                                                       |
+| AutoGPT: 自我prompt，一种应用AI的新思路 [Chen's Random Walk](https://www.youtube.com/watch?v=W2vgcE-CI1Q)                                                                                                                                           |
 |                                                                                                                                                                                                                                          |
+
+### AWS Bedrock
+
+|                                                  |
+| ------------------------------------------------ |
+| [v](https://www.youtube.com/watch?v=w8K0ULcLxhc) |
+|                                                  |
+|                                                  |
 
 ### 文心一言
 
@@ -715,6 +750,10 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### ChatGLM
 
+### BabyAGI
+
+### chaosGPT
+
 
 
 ### ChatHub
@@ -727,7 +766,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### ChatPDF
 
-
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| Building an AI Assistant [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLjpy44hZWE62K3RG4RTvuWt) |
+|                                                                                                                   |
+|                                                                                                                   |
 
 ### Microsoft DeepSpeed
 
@@ -743,6 +786,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | --------------------------------------------------------------------------------------------------------------------- |
 | OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0)                                            |
 | ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
+| OPENASSISTANT TAKES ON CHATGPT! [Machine Learning Street Talk](https://www.youtube.com/watch?v=TFa539R09EQ)           |
+|                                                                                                                       |
 |                                                                                                                       |
 
 ### LLaMA
@@ -787,7 +832,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Talk \| 浙江大学乔硕斐：语言模型提示推理综述 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=hqRmVqPCZ4E)                                                                                                                         |
 | Building the Future with LLMs, LangChain, & Pinecone [Pinecone](https://www.youtube.com/watch?v=nMniwlGyX-c)                                                                                                      |
 | Seminarreihe Deep Learning und Machine Learning: Prof. Dr. Goran Glavaš zu ChatGPT und anderen LLMs [Fraunhofer-Institut für Techno- und Wirtschaftsmathematik ITWM](https://www.youtube.com/watch?v=ffKSXhQLFCk) |
-|                                                                                                                                                                                                                   |
+| MLNLP-World/[Awesome-LLM](https://github.com/MLNLP-World/Awesome-LLM)                                                                                                                                             |
 |                                                                                                                                                                                                                   |
 
 ### Causal Inference

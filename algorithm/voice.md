@@ -154,7 +154,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                   |
 | How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
 | 我花了15小時，就為找到這3款AI語音生成工具｜AI朗读｜AI虚拟主播 [指令必达](https://www.youtube.com/watch?v=RsnU0Pjt7lo)                                                                         |
-|                                                                                                                                                                 |
+| 【Anny讲Python】Python听书系统之语音合成技术 [Python学习指南](https://www.youtube.com/watch?v=A4qZzbFldyk) pytts 百度api                                                            |
 |                                                                                                                                                                 |
 |                                                                                                                                                                 |
 

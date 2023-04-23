@@ -23,15 +23,17 @@
 | 心血管王医生 抖音号：[xxgwys](https://www.douyin.com/user/MS4wLjABAAAA7svG5EB1INLdkgi2zkMb0VJAeysaGXsYkXqlZ4QLNi8)                                  |                                                                                                                                                                                                                |
 |                                                                                                                                           |                                                                                                                                                                                                                |
 
-|                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- |
-| [诊断学 四川大学华西医学中心](https://www.youtube.com/playlist?list=PLgvxkXbWub7hnMdxF2Tw7bgSjKplBJ0Cu) Free Course      |
-| 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv) |
-| 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)          |
-| [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                            |
-| 如果發生戰爭甚至核戰爭，我絕對會這樣做 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=nIVgberBC5Y)                    |
-| 中医方剂 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdivW4F-20bBbS8BzFDuCT\_IU)               |
-|                                                                                                             |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| [诊断学 四川大学华西医学中心](https://www.youtube.com/playlist?list=PLgvxkXbWub7hnMdxF2Tw7bgSjKplBJ0Cu) Free Course                           |
+| 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv)                      |
+| 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)                               |
+| [糖尿病膳食指南](https://zhuanlan.zhihu.com/p/58185851)                                                                                 |
+| 如果發生戰爭甚至核戰爭，我絕對會這樣做 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=nIVgberBC5Y)                                         |
+| 中医方剂 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdivW4F-20bBbS8BzFDuCT\_IU)                                    |
+| 2、【2022新课】山东中医药大学 中医基础理论（孙广仁版）郑红46课时 [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbZH28oIfLyc4satZ5RXKrk0) |
+| 医学统计学从入门到精通【共28节】【全】!!! [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbbJWU63VBDzclwtWyu9cldH)              |
+|                                                                                                                                  |
 
 ## 健康养生
 

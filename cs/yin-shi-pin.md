@@ -9,4 +9,6 @@
 | 音视频处理神器：FFmpeg常用操作指南 [一名法学生](https://www.youtube.com/watch?v=nvtdhZAqnes)                                                                                                                                              |
 | ffmpeg实用教程 [硬核技术](https://www.youtube.com/playlist?list=PLs7CEfCODRRJ5NZ3OTRr2YXGUgNnuDXsW)                                                                                                                            |
 | FFmpeg：视频转码、剪切、合并、播放速调整 [note-zw](https://note-zw.readthedocs.io/zh/latest/%E4%BF%9D%E5%AD%98/FFMPEG%E8%BD%AC%E7%A0%81%E5%89%AA%E5%88%87%E5%90%88%E5%B9%B6%E8%B0%83%E6%95%B4%E6%92%AD%E6%94%BE%E9%80%9F%E5%BA%A6.html) |
+| ffmpeg常用命令 [迷途小书童的Note](https://www.youtube.com/watch?v=nzBZgtvW1V4)                                                                                                                                                   |
+| FFmpeg 系列教程 (FFmpeg Tutorials) [softshare](https://www.youtube.com/playlist?list=PLnMTZUNDARlFhhGzMH3YUrWg4lxWNjCdU)                                                                                                   |
 |                                                                                                                                                                                                                        |
