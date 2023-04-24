@@ -758,6 +758,9 @@
 |                                                                               |                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | 橙苏博客 [u](https://www.youtube.com/channel/UCz26PQMphBrMag2kWQV\_GGw/playlists) | ZZR老师 [u](https://www.youtube.com/channel/UCL7pTT5FSevbCNON8nRQqgA/videos) |
+| Oziter茅 [u](https://www.youtube.com/@oziter/playlists)                        | YuFeng Deng [u](https://www.youtube.com/@fennng/playlists)                 |
+|                                                                               |                                                                            |
+|                                                                               |                                                                            |
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

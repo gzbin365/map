@@ -513,7 +513,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                |
 | 分析市场上多种AI翻译工具及其应用场景 [Assisi是水豚座](https://www.youtube.com/watch?v=KOENARAV9hc)                                                         |
 | DeepL 翻译文件(PDF)                                                                                                                       |
-|                                                                                                                                       |
+| 知云文献翻译 软件                                                                                                                             |
 
 ### Attention
 
