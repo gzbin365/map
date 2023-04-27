@@ -211,6 +211,7 @@ import cv2
 | 新的 AI 繪圖工具抵達戰場！！Leonardo.ai 五個超酷功能讓 Midjourney 也感到害怕 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=VCpNlcffl4w)         |
 | AI Generated Images Are Getting Too Real [bycloud](https://www.youtube.com/watch?v=AlSCx-4d51U)                         |
 | Anime Related AI Applications [bycloud](https://www.youtube.com/playlist?list=PLW2SPT7gdqw5n11wauSVuIbpZ1cMU2zDq)       |
+| Adobe Firefly [v](https://www.youtube.com/watch?v=z1oUmFdjBLM)                                                          |
 
 ### DeepFake
 
@@ -232,6 +233,14 @@ import cv2
 ### 多帧合成
 
 
+
+### 视频生成
+
+|                                                                      |
+| -------------------------------------------------------------------- |
+| runway [v](https://www.youtube.com/watch?v=z1oUmFdjBLM) text 2 video |
+|                                                                      |
+|                                                                      |
 
 ### 风格迁移, Style Transfer
 
@@ -276,7 +285,7 @@ import cv2
 | 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                            |
 | obs studio                                                                                                    |
 
-## 图像修复
+## 图像修复 图像恢复
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,7 +331,7 @@ import cv2
 | Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                                                                                                                                              |
 | 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                                                                                                                                               |
 | Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)   Squirrel Anime Enhance   [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y)   [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
-|                                                                                                                                                                                                                                                                 |
+| xinntao/[ESRGAN](https://github.com/xinntao/ESRGAN)   Enhanced SRGAN                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                 |
 
 ## 以图搜图 Image similarity search
@@ -394,7 +403,7 @@ import cv2
 |                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                       |
 
-| Segment Anything Model (SAM)                                                                                                                                           |
+| META Segment Anything Model (SAM)                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [s](https://segment-anything.com/) [paper](https://arxiv.org/abs/2304.02643) facebookresearch/[segment-anything](https://github.com/facebookresearch/segment-anything) |
 | 【人工智能】Meta发布史上最强抠图模型 \| Segment Anything Model \| 零样本学习可分割一切物体 \| 计算机视觉迎来GPT-3时刻 [最佳拍档](https://www.youtube.com/watch?v=SUehMu5yEiM)                                   |
@@ -402,6 +411,18 @@ import cv2
 |                                                                                                                                                                        |
 |                                                                                                                                                                        |
 |                                                                                                                                                                        |
+
+| META dino                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training [ai.facebook](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/) |
+| <p>Explore Meta AI’s self-supervised learning demo for images <a href="https://ai.facebook.com/blog/dino-self-supervised-learning-demo/">ai.facebook</a></p><p>dino-self-supervised-learning-demo</p>                                                        |
+| DINO: Emerging Properties in Self-Supervised Vision Transformers Summary [towardsdatascience](https://towardsdatascience.com/dino-emerging-properties-in-self-supervised-vision-transformers-summary-ab91df82cc3c)                                           |
+| DINOv2: State-of-the-art computer vision models with self-supervised learning [ai.facebook](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)                                                                                  |
+| facebookresearch/[dino](https://github.com/facebookresearch/dino)                                                                                                                                                                                            |
+| facebookresearch/[dinov2](https://github.com/facebookresearch/dinov2)   DINO2 API documentation [s](https://d3d9.github.io/DINO2/DINO2/) [v](https://www.youtube.com/watch?v=vl9rurUg0ug)4:00                                                                |
+|                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
 
 ### 目标检测 Object Detection
 

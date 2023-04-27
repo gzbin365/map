@@ -12,6 +12,7 @@ description: Self-Driving
 
 |                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Andrej Karpathy,  OpenAI 核心成员, 特斯拉自动驾驶主管, [v](https://www.youtube.com/watch?v=mEnhPDCttBs)                                                                                                         |
 | 北京理工大学无人驾驶车辆 [mooc](https://www.icourse163.org/course/0818BIT059-1207432808) [git](https://github.com/bitfsd) [s](http://www.bitfsd.com/) [s](https://me.bit.edu.cn/jgsz/jlgcx1/qjyjs1/index.htm)  |
 | 多功能无人驾驶系统，能拉人能运货，灵活调度，自由部署！ [MAX无尽创意](https://www.youtube.com/watch?v=y8b2QoWc0dY)                                                                                                                 |
 | Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars \| Lex Fridman Podcast #322 [Lex Fridman](https://www.youtube.com/watch?v=36\_rM7wpN5A) Podcast                                 |
@@ -41,6 +42,7 @@ description: Self-Driving
 | 口碑没赢过 销量没输过 中国政府为什么要扶持特斯拉？「SIGNOW」 [电丸科技AK](https://www.youtube.com/watch?v=HdFhatztlBs)                                                                                                           |
 | TeslaMate [程序员聊特斯拉](https://www.douyin.com/video/7136126575258520845)                                                                                                                              |
 | How AI Powers Self-Driving Tesla with Elon Musk and Andrej Karpathy [Preserve Knowledge](https://www.youtube.com/watch?v=FnFksQo-yEY)                                                              |
+| Neural Networks: Zero to Hero [Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) OpenAI 核心成员, 特斯拉自动驾驶                                                     |
 | The Truth About Self Driving Cars [New Mind](https://www.youtube.com/watch?v=d5TiaIYdug4)                                                                                                          |
 | Self-Driving AI Car Simulation in Python [NeuralNine](https://www.youtube.com/watch?v=Cy155O5R1Oo)                                                                                                 |
 | Drive A.I. [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-fAJaytLh4vAWCxTAUCrHO4)                                                                                            |

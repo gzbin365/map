@@ -37,7 +37,7 @@
 | 林欣浩　抖音号： [77784647154](https://www.douyin.com/user/MS4wLjABAAAAEoqdv9k1VmC6SUUiJP3WQC9TyMD5rJcN-UP6GndRWek0GZEIQaD0G2NBIng9b2KL)                                                                                                                                                                                                                             |
 | 是刘雨阳　抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW)                                                                                                                                                                                                                             |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)                                                                                                                                                                                                                                     |
-| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)   大问题Dialectic [u](https://www.youtube.com/@dialectic7667)   全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                                                                                                                                                                    |
+| 老头看世界 [u](https://www.youtube.com/user/xiangchenqian/videos)   大问题Dialectic [u](https://www.youtube.com/@dialectic7667)   全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)   南部小波杰bojack [u](https://www.youtube.com/@southbojack/playlists)                                                                                                  |
 | 罗永浩演讲集 [Speech](https://www.youtube.com/playlist?list=PLzRiKnAQLCF\_Sn1PQM7oHAqiLhvG2fWZ4)                                                                                                                                                                                                                                                                   |
 | 说道儿-易先森 抖音号： [Eason.young](https://www.douyin.com/user/MS4wLjABAAAA76wQCegTXNQFz5ru9gbSWYhlAK73KrGwreymlqHAijc)                                                                                                                                                                                                                                              |
 
@@ -46,6 +46,7 @@
 | 北藝大研究所「思考者的自白與答問」[Data Cheng](https://www.youtube.com/playlist?list=PL3B27C4D442EAF880)                                          |
 | 懷疑論 Skepticism [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_72nxcEQ7dmK\_MC\_dkW16Sy) |
 | 苑举正 怀疑论 [肥洲](https://www.youtube.com/watch?v=Ksvp0pr0GO8)                                                                        |
+| 艺术哲学与审美问题 王德峰 66节合集 [南部小波杰bojack](https://www.youtube.com/watch?v=TXIMq0\_qwL4)                                                  |
 
 ## 思考
 

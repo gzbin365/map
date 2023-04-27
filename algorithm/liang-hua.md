@@ -29,5 +29,5 @@
 | Cryptocurrency Bots / Automated Cryptotrading [Algovibes](https://www.youtube.com/playlist?list=PL9ATnizYJ7f8\_opOpLnekEZNsNVUVbCZN)  |
 | Chat GPT AI Trading Bots (openAI) [Moon Dev](https://www.youtube.com/playlist?list=PLXrNVMjRZUJhniwXRHT53brm5kIjAPncT)                |
 | Algorithmic Trading With Python [CodeTrading](https://www.youtube.com/playlist?list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm)               |
-|                                                                                                                                       |
+| BloombergGPT [v](https://www.youtube.com/watch?v=z1oUmFdjBLM)                                                                         |
 |                                                                                                                                       |

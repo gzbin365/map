@@ -587,6 +587,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | GPT-4 Creator Ilya Sutskever [Eye on AI](https://www.youtube.com/watch?v=SjhIlw3Iffs)                                                                                                                         |
 | Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Microsoft, & Enlightenment [Dwarkesh Patel](https://www.youtube.com/watch?v=Yf1o0TQzry8)                                            |
 | The Robot Brains Podcast [u](https://www.youtube.com/@TheRobotBrainsPodcast) Ilya Sutskever                                                                                                                   |
+| <p>伊利亚·苏茨克沃 苏神 OpenAI的联合创始人和首席科学家</p><p>谷歌大脑 人工智能科学家 AlphaGo论文作者之一</p><p>OpenAI到底是一家怎样的公司？ <a href="https://www.youtube.com/watch?v=3nZjEwnd7Wg">量子位</a></p>                                                  |
+| <p>OpenAI成长史：顶级资本与科技大佬的理想主义，冲突，抉择与权力斗争；马斯克、奥特曼、纳德拉与比尔·盖茨等人的背后故事【深度】 <a href="https://www.youtube.com/watch?v=mEnhPDCttBs">硅谷101</a></p><p>Greg Brockman OpenAI CEO CTO</p>                                    |
 | Deep Learning Basics: Introduction and Overview [Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)                                                                                                    |
 | MIT 6.S094, Lex Fridman [schung168](https://www.youtube.com/playlist?list=PLRikQ0KFHZQ32XNyXxc5R6mwlXkt\_jk3Q)                                                                                                |
 | MIT 6.S094 [adriendod](https://www.youtube.com/playlist?list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP)                                                                                                              |
@@ -929,7 +931,7 @@ Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcade
 | How to Create a Neural Network (and Train it to Identify Doodles) [Sebastian Lague](https://www.youtube.com/watch?v=hfMk-kjRv4c)                                 |
 | Neural Network Primer [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hzqalT\_PL35I9oUTotJGq7a)                                                     |
 | 10 Tips for Improving the Accuracy of your Machine Learning Models [Jeff Heaton](https://www.youtube.com/watch?v=uqhn5xuyQok)                                    |
-| Neural Networks: Zero to Hero [Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)                                        |
+| Neural Networks: Zero to Hero [Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) OpenAI 核心成员, 特斯拉自动驾驶                   |
 | Neural Network from Scratch \| Mathematics & Python Code [The Independent Code](https://www.youtube.com/watch?v=pauPCy\_s0Ok)                                    |
 | Gradient Descent From Scratch in Python - Visual Explanation [NeuralNine](https://www.youtube.com/watch?v=gsfbWn4Gy5Q)                                           |
 |                                                                                                                                                                  |

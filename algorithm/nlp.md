@@ -658,7 +658,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ChatGPT [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPYr-Qj9wZsNR\_f2LdvrHAgs)                                                         |
 | Generative AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X\_KzRlsqyM2Cs7Dxp9)                                      |
 | Connor Leahy on AGI and Cognitive Emulation [Future of Life Institute](https://www.youtube.com/watch?v=ps\_CCGvgLS8)                                  |
-|                                                                                                                                                       |
+| The Inside Story of ChatGPT’s Astonishing Potential \| Greg Brockman \| [TED](https://www.youtube.com/watch?v=C\_78DM8fG6E)                           |
+| 309 - Training your own Chatbot using GPT​ [DigitalSreeni](https://www.youtube.com/watch?v=DxygPxcfW\_I)                                              |
 
 ### Prompt Engineering
 
@@ -706,7 +707,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 
 
-### Auto-GPT AgentGPT MiniGPT-4
+### Auto-GPT AgentGPT MiniGPT-4 HuggingGPT
 
 |                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -717,6 +718,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 微软JARVIS与Auto-GPT揭秘 [回到Axton](https://www.youtube.com/watch?v=-zNSMGScT-U) hugginggpt                                                                                                                                                    |
 | Auto-GPT正确安装法宝：手把手教你安装Auto-GPT，解锁6大独特功能 \| [回到Axton](https://www.youtube.com/watch?v=kUlN\_nnD2lg)                                                                                                                                       |
 | microsoft / [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)   [arxiv](https://arxiv.org/pdf/2303.17580.pdf)   microsoft/[JARVIS](https://github.com/microsoft/JARVIS)                                                   |
+| HuggingGPT又名JARVIS（贾维斯)，由微软与浙江大学完成，10分钟带你了解HuggingGPT是如何工作的。[最佳拍档](https://www.youtube.com/watch?v=TLqOfceh9Kc)                                                                                                                          |
 | Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications [Yohei Nakajima](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/) |
 | 开源多模态模型MiniGPT-4发布 [最佳拍档](https://www.youtube.com/watch?v=-2OSLGL48Os)                                                                                                                                                                   |
 | 15分钟Auto-GPT保姆级安装教程 \| 如何用Docker在MacOS下安装AutoGPT [最佳拍档](https://www.youtube.com/watch?v=Oke225G7\_4s)                                                                                                                                    |
@@ -738,7 +740,23 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 文心一言
 
+###
 
+### 通义千问
+
+###
+
+### 盘古
+
+
+
+### MOSS
+
+|                                                          |
+| -------------------------------------------------------- |
+| OpenLMLab/[MOSS](https://github.com/OpenLMLab/MOSS)   复旦 |
+|                                                          |
+|                                                          |
 
 ### Claude
 
@@ -790,13 +808,29 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                       |
 |                                                                                                                       |
 
-### LLaMA
+### Meta LLaMA 开源
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 已开源                                                                                                                                                    |
 | 人人都能訓練自己的 ChatGPT？史丹佛大學開源指令微調 Meta LLaMA-7B 方法：Alpaca 羊駝 [資料探員 Data Agent](https://www.youtube.com/watch?v=bTzM45kaK44) colab                          |
 | A-baoYang/[alpaca-7b-chinese](https://github.com/A-baoYang/alpaca-7b-chinese)                                                                          |
 | <p>Stanford Alpaca <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">s</a></p><p>Alpaca: A Strong, Replicable Instruction-Following Model</p> |
+|                                                                                                                                                        |
+
+### Vicuna-13B 开源
+
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| 10个问题感受Vicuna-13B(小羊驼)超强的AI写作能力 [最佳拍档](https://www.youtube.com/watch?v=DOgjiV75VLM) |
+| lm-sys/[FastChat](https://github.com/lm-sys/FastChat)                               |
+|                                                                                     |
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ### Chatbase
 

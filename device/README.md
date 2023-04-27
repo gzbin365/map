@@ -447,7 +447,7 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Underwater Drone Built With Parts From a Flying Drone [RCLifeOn](https://www.youtube.com/watch?v=SVaSq2Ud8eg)                               | Building a Lego-powered Submarine 4.0 - automatic depth control [Brick Experiment Channel](https://www.youtube.com/watch?v=KLEH8RJsYgI) |
 | How To Make Self Balancing RC Submarine - From PVC Pipe- Amazing DIY Projects [Creative Mind](https://www.youtube.com/watch?v=eeC1iZ\_5qyc) | Building a Lego-powered Submarine 3.0 - balloon and compressor [Brick Experiment Channel](https://www.youtube.com/watch?v=n83cSg3wohU)  |
-|                                                                                                                                             |                                                                                                                                         |
+| U-Boat Worx生产的NEMO等私人潜水艇                                                                                                                    | LSRC微型潜艇                                                                                                                                |
 
 ## **直升机**
 
@@ -1152,6 +1152,7 @@ direct-attached storage
 | 性能至上？聊聊人工智能芯片的5个评价标准 [老石谈芯](https://www.youtube.com/watch?v=KICKrJZMoKA)                                                                    |
 | Designing Billions of Circuits with Code [Asianometry](https://www.youtube.com/watch?v=ihz2WY-E2C8)                                         |
 | 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                                                                  |
+| 黄令仪 \| 中国芯片之母 [最佳拍档](https://www.youtube.com/watch?v=Z3NhFsMtxC8) 我最大的心愿就是匍匐在地，擦净祖国身上的耻辱                                                    |
 
 ### 数字电路
 

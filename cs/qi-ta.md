@@ -1,5 +1,7 @@
 # 其他
 
+##
+
 ## TIOBE 编程语言排行榜
 
 |                                                                                                                                               |
@@ -783,6 +785,8 @@
 | AI+自动化 [Alex Day](https://www.youtube.com/playlist?list=PLP4GmRwjmtqb32zzASO6wzxffOQGUhKkM)                                                                         |
 | 人工智障机器人 [u](https://www.youtube.com/@idiotbots/videos)                                                                                                              |
 | Skolo Online [u](https://www.youtube.com/@SkoloOnline/playlists)                                                                                                    |
+| GPT-4神助攻：秒筛AI精华推文，一键自动化让你成为AI行业领跑者！ \| [回到Axton](https://www.youtube.com/watch?v=uzVju482lqc)                                                                       |
+|                                                                                                                                                                     |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

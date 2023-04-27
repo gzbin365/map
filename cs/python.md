@@ -159,11 +159,11 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 
 ### 传智/黑马
 
-|                                   |
-| --------------------------------- |
-| 传智教育 [s](https://www.itcast.cn)   |
-| [map](http://yun.itheima.com/map) |
-|                                   |
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| 传智教育 [s](https://www.itcast.cn)   黑马程序员 [u](https://www.youtube.com/@itheima666/playlists) |
+| [map](http://yun.itheima.com/map)                                                          |
+|                                                                                            |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -897,6 +897,7 @@ Python高性能编程
 | Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)                                                                         |
 | I built the same app 3 times \| Which Python Framework is best? Django vs Flask vs FastAPI [Python Engineer](https://www.youtube.com/watch?v=3vfum74ggHE)       |
 | Python使用Flask开发Web服务 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgamluuCUblhe87HC5M69DtVM)                                                      |
+| Flask Blueprints Make Your Apps Modular & Professional [NeuralNine](https://www.youtube.com/watch?v=\_LMiUOYDxzE)                                               |
 | Django For Beginners - Full Tutorial [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk)                                                               |
 | Microservices with FastAPI – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA)                                                            |
 | Flask & FastAPI [Sure](https://www.youtube.com/playlist?list=PLBD8XfkW6PWHmkHQW50UnQgniXo5LXOjJ)                                                                |
