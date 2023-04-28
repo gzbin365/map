@@ -71,7 +71,7 @@
 | 金融工程学-王辉（中央财经大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZNbx\_NiVlGXJ-xqT5kYkyq)           |
 | 期货与期权-宋斌（中央财经大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SaA8hFf4krZh\_yotY5hSGsJ)           |
 | Stochastic Calculus for Finance [QuantPy](https://www.youtube.com/playlist?list=PLqpCwow11-Oo00Pw37mwV2WqtfD2FZePY) |
-|                                                                                                                     |
+| Harvard Innovation Labs [u](https://www.youtube.com/@Harvardilab/playlists)                                         |
 |                                                                                                                     |
 
 |                                                                                                                                                                                                                                         |

@@ -783,6 +783,7 @@ System on Chip, 系统级芯片
 | 如何只花20元做出一款酷炫的VR眼镜？ [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZRjX61paBCkRepbLn6IAQa)                                                                       |
 | <p>三维视觉还原上的人类视觉生理限制 <a href="https://www.youtube.com/watch?v=svxZWwXfjnQ&#x26;t=262s">科技袁人</a></p><p>VR虚拟现</p><p>AR增强现实</p><p>ER拟真现实</p><p>MR混合现实</p><p>XR扩展现实</p><p>等等</p> |
 | How to build cheap VR Haptic Gloves to FEEL VR. [Lucas VRTech](https://www.youtube.com/watch?v=2yF-SJcg3zQ)                                                                 |
+| AR/VR [Harvard Innovation Labs](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp2v4xOC-wSkK1GPZ8JuZ6an)                                                                   |
 
 ### AR增强现实
 
