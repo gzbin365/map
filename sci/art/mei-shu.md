@@ -119,6 +119,14 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 达芬奇教程 [Mediastorm影视飓风](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV)                                                                                                 |
 |                                                                                                                                                                                                  |
 
+## Final Cut Pro
+
+|                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- |
+| Final Cut Pro X 教學 [DVE(IT)](https://www.youtube.com/playlist?list=PLwBySiD\_oGcpsPuHMNeKyf0mJPUlou897) |
+|                                                                                                         |
+|                                                                                                         |
+
 ## adobe全家桶
 
 <details>

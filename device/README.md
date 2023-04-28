@@ -1038,6 +1038,7 @@ direct-attached storage
 | Google Just Put an A.I. Brain in a Robot \[Research Breakthrough] [ColdFusion](https://www.youtube.com/watch?v=Jy3zjXK4ao4)                               |
 | Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                           |
 | Ask a Roboticist: Meet Tom \| [Boston Dynamics](https://www.youtube.com/watch?v=TnEj6L-Z2nU)                                                              |
+| Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics \| [Lex Fridman](https://www.youtube.com/watch?v=cLVdsZ3I5os) Podcast #374            |
 | [**Recursive robot dynamics**](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDkIcYX30gPHDpEW30D3BJp1)  Yinan Zuo                                      |
 | [动力控制协同模拟](https://www.youtube.com/playlist?list=PLL9\_dkEPJSDlAqBYsr7GtT05hKoZYhZFh) Yinan Zuo                                                           |
 | [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) -- Instructor: Pieter Abbeel |
