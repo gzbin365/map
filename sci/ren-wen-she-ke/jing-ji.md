@@ -97,6 +97,14 @@
 
 特許金融分析師（CFA，Chartered Financial Analyst）
 
+### 电子商务 E-commerce
+
+|                                                    |
+| -------------------------------------------------- |
+| SKU Agency [u](https://www.youtube.com/@skuagency) |
+|                                                    |
+|                                                    |
+
 ### FineBI
 
 | [site](https://www.finebi.com)                                                                               |

@@ -130,33 +130,35 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## **TTS  Text to Speech**
 
-|                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| pdf to voice [v](https://www.douyin.com/video/7150605317326245151)                                                                                              |
-| VoiceMaker [s](https://voicemaker.in/) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                         |
-| NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                                            |
-| narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming                          |
-| play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                                              |
-| IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                                                  |
-| chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                                          |
-| imtranslator [s](https://text-to-speech.imtranslator.net/) 一般                                                                                                   |
-| Kukarella [v](https://www.youtube.com/watch?v=a6bVPAz2L3s) [s](https://kukarella.com/)                                                                          |
-| 百度 api    paddlepaddle/[PaddleSpeech](https://gitee.com/paddlepaddle/PaddleSpeech)                                                                              |
-| Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux                                     |
-| ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                              |
-| espeak [s](http://espeak.sourceforge.net/index.html)                                                                                                            |
-| ubuntu完美安装espeak支持中文和粤语 [csdn](https://blog.csdn.net/qq\_24406903/article/details/89811732)   caixxiong/[espeak-data](https://github.com/caixxiong/espeak-data) |
-| clipchamp [s](https://clipchamp.com/en/) [v](https://www.youtube.com/watch?v=TQDbtP5SB00) 语音需要从视频中提取                                                            |
-| 【全球10大机器配音软件】有声书影视解说博主利器\|全球10大语音合成软件 软件侠何二                                                                                                                     |
-| 一款采用人工智能黑科技文字转流畅自然配音软件配音神器 [廉飞](https://www.youtube.com/watch?v=jd1WOkBIOTQ)                                                                                    |
-| 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                 |
-| Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                   |
-| [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                   |
-| How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                      |
-| 我花了15小時，就為找到這3款AI語音生成工具｜AI朗读｜AI虚拟主播 [指令必达](https://www.youtube.com/watch?v=RsnU0Pjt7lo)                                                                         |
-| 【Anny讲Python】Python听书系统之语音合成技术 [Python学习指南](https://www.youtube.com/watch?v=A4qZzbFldyk) pytts 百度api                                                            |
-|                                                                                                                                                                 |
-|                                                                                                                                                                 |
+|                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| pdf to voice [v](https://www.douyin.com/video/7150605317326245151)                                                                                                                                                   |
+| VoiceMaker [s](https://voicemaker.in/) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                                                                              |
+| NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                                                                                                 |
+| narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming                                                                               |
+| play.ht [s](https://play.ht/text-to-speech-voices/chinese/) 下载付费 带情绪 Zhiyu   Yunxi   Xiaoyou   Xiaoxuan   Xiaoxiao                                                                                                   |
+| IBM Watson Text to Speech [s](https://www.ibm.com/cloud/watson-text-to-speech)                                                                                                                                       |
+| chineseedge [s](https://chineseedge.com/chinese-text-to-speech/) 单一 高亮                                                                                                                                               |
+| imtranslator [s](https://text-to-speech.imtranslator.net/) 一般                                                                                                                                                        |
+| Kukarella [v](https://www.youtube.com/watch?v=a6bVPAz2L3s) [s](https://kukarella.com/)                                                                                                                               |
+| 百度 api    paddlepaddle/[PaddleSpeech](https://gitee.com/paddlepaddle/PaddleSpeech)                                                                                                                                   |
+| Balabolka [s](http://balabolka.site/cn/balabolka.htm) [v](https://www.youtube.com/watch?v=kfqpFKdDVMU) TTS程序 api调用 不支持linux                                                                                          |
+| ranchlai/[mandarin-tts](https://github.com/ranchlai/mandarin-tts)   中文 (普通话) 语音 合成                                                                                                                                   |
+| espeak [s](http://espeak.sourceforge.net/index.html)                                                                                                                                                                 |
+| ubuntu完美安装espeak支持中文和粤语 [csdn](https://blog.csdn.net/qq\_24406903/article/details/89811732)   caixxiong/[espeak-data](https://github.com/caixxiong/espeak-data)                                                      |
+| clipchamp [s](https://clipchamp.com/en/) [v](https://www.youtube.com/watch?v=TQDbtP5SB00) 语音需要从视频中提取                                                                                                                 |
+| 【全球10大机器配音软件】有声书影视解说博主利器\|全球10大语音合成软件 软件侠何二                                                                                                                                                                          |
+| 一款采用人工智能黑科技文字转流畅自然配音软件配音神器 [廉飞](https://www.youtube.com/watch?v=jd1WOkBIOTQ)                                                                                                                                         |
+| 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                                                                      |
+| Harmonai, Dance Diffusion and The Audio Generation Revolution [Weights & Biases](https://www.youtube.com/watch?v=KmB8z2CYjZY)                                                                                        |
+| [**语音合成-腾讯云**](https://cloud.tencent.com/developer/tag/10464)                                                                                                                                                        |
+| How to make text to speech from your own voice with python [TheLazyBusyGamer](https://www.youtube.com/watch?v=h-M1kqL4C7c)                                                                                           |
+| 我花了15小時，就為找到這3款AI語音生成工具｜AI朗读｜AI虚拟主播 [指令必达](https://www.youtube.com/watch?v=RsnU0Pjt7lo)                                                                                                                              |
+| 【Anny讲Python】Python听书系统之语音合成技术 [Python学习指南](https://www.youtube.com/watch?v=A4qZzbFldyk) pytts 百度api                                                                                                                 |
+|                                                                                                                                                                                                                      |
+| <p>suno-ai/<a href="https://github.com/suno-ai/bark">bark</a></p><p>文字轉語音，堪比人聲！100%相似，完全找不到AI的痕跡！Bing Chat將擁有長期記憶😱 ChatGPT更新！ <a href="https://www.youtube.com/watch?v=9gp4dpH7maA">你的攝影大哥 Davidddodle</a> bark</p> |
+| 2 Build Your Own Audiobooks App ! python projects 2023 ! Master Python by Building Real World Python [Self Study](https://www.youtube.com/watch?v=WBRL0gcZ1cg)  pyttsx3                                              |
+|                                                                                                                                                                                                                      |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

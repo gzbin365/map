@@ -461,7 +461,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Getting Started with VIM as a Python Editor [Machine Learning with Phil](https://www.youtube.com/watch?v=HKJUILUvkGk)     |
 | Speeding Up Vim Startup Time [NeuralNine](https://www.youtube.com/watch?v=ykrluoYGm2w)                                    |
 | Vim 中执行 Shell 命令和在 Shell 环境间切换 [wxnacy](https://www.youtube.com/watch?v=FhynFOT9FDM)                                      |
-|                                                                                                                           |
+| Marks in Vim Are A Game Changer [NeuralNine](https://www.youtube.com/watch?v=XT\_kFia3Ua4)                                |
 |                                                                                                                           |
 
 ### Neovim

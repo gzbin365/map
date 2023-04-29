@@ -17,22 +17,25 @@ description: Psychology
 
 ***
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| 实验心理学-华东师范大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxomnR\_zfme3bNWo\_sjgkSu))                    |
-| 实验心理学-北京大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLox-s6NXJtY0iKDwRSDmLcJa))                        |
-| 心理学（公共课）-安徽师范大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxVRdreITUecsxmJCQcDz4w))                   |
-| 耶魯大學開放課程：心理學導論 [林孟潔](https://www.youtube.com/playlist?list=PLFq8SZOzdITV3o\_Fl-lkLTX6g-O9wvGl7)                     |
-| 加州大學洛杉磯分校開放課程：社會心理學[ 林孟潔](https://www.youtube.com/playlist?list=PLFq8SZOzdITXZVCHA3EaSYkcdNjXCIexu)                 |
-| \[UCLA]家庭與夫婦心理學-親密關係 [Data Cheng](https://www.youtube.com/playlist?list=PL49R5idFTEkBARa3gbrqpJoC6aOFSbbbQ)         |
-| 心理学全套资料 [North-Sea Lord](https://www.youtube.com/playlist?list=PLfr1I1bhn8OLXfzwrVgEzBkPt\_twBiJzO)                 |
-| Open Yale course：Introduction to Psychology [Ased Mchael](https://www.youtube.com/playlist?list=PLB5FA5E41465EE995) |
-| 心理学 [王林林Eileen](https://www.youtube.com/playlist?list=PLP7NGPIX1xLPEMHp31entrpIWDWeQEJXp)                           |
-| 郭生白-孩子发烧母亲怎么办-老人发烧儿女怎么办 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCWohKrEk8nqDY0kpPmBjr)        |
-| 麻省理工学院MIT公开课《如何说话 How to Speak》by Patrick Winston [道法自然](https://www.youtube.com/watch?v=Zw1tzxAt\_CI)              |
-| How to Speak MIT [OpenCourseWare](https://www.youtube.com/watch?v=Unzc731iCUY)                                      |
-| \[Tutorialsplanet.NET] Udemy - Advanced Level Psychology - ACCREDITED CERTIFICATE                                   |
-| 心理学与生活(精品课) [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Rhh\_lem7ZFzoJU8IWOSbNg)                       |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| 实验心理学-华东师范大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxomnR\_zfme3bNWo\_sjgkSu))                                |
+| 实验心理学-北京大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLox-s6NXJtY0iKDwRSDmLcJa))                                    |
+| 心理学（公共课）-安徽师范大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoxVRdreITUecsxmJCQcDz4w))                               |
+| 耶魯大學開放課程：心理學導論 [林孟潔](https://www.youtube.com/playlist?list=PLFq8SZOzdITV3o\_Fl-lkLTX6g-O9wvGl7)                                 |
+| 加州大學洛杉磯分校開放課程：社會心理學[ 林孟潔](https://www.youtube.com/playlist?list=PLFq8SZOzdITXZVCHA3EaSYkcdNjXCIexu)                             |
+| \[UCLA]家庭與夫婦心理學-親密關係 [Data Cheng](https://www.youtube.com/playlist?list=PL49R5idFTEkBARa3gbrqpJoC6aOFSbbbQ)                     |
+| 心理学全套资料 [North-Sea Lord](https://www.youtube.com/playlist?list=PLfr1I1bhn8OLXfzwrVgEzBkPt\_twBiJzO)                             |
+| Open Yale course：Introduction to Psychology [Ased Mchael](https://www.youtube.com/playlist?list=PLB5FA5E41465EE995)             |
+| 心理学 [王林林Eileen](https://www.youtube.com/playlist?list=PLP7NGPIX1xLPEMHp31entrpIWDWeQEJXp)                                       |
+| 郭生白-孩子发烧母亲怎么办-老人发烧儿女怎么办 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzCWohKrEk8nqDY0kpPmBjr)                    |
+| 麻省理工学院MIT公开课《如何说话 How to Speak》by Patrick Winston [道法自然](https://www.youtube.com/watch?v=Zw1tzxAt\_CI)                          |
+| How to Speak MIT [OpenCourseWare](https://www.youtube.com/watch?v=Unzc731iCUY)                                                  |
+| \[Tutorialsplanet.NET] Udemy - Advanced Level Psychology - ACCREDITED CERTIFICATE                                               |
+| 心理学与生活(精品课) [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Rhh\_lem7ZFzoJU8IWOSbNg)                                   |
+| MIT 9.00SC Introduction to Psychology, Fall 2011 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) |
+|                                                                                                                                 |
+|                                                                                                                                 |
 
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |

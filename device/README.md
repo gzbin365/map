@@ -748,6 +748,7 @@ System on Chip, 系统级芯片
 | 已开源！我做了一个稳定输出3.3V的太阳能电池 [工科男孙老师](https://www.youtube.com/watch?v=69gcMSz5YUE) [code](https://oshwhub.com/sunhaoqin/solar\_copy) ETC 非晶硅电池 |
 | DIY 72v 60Ah Battery Pack For 2000W Electric Bike [Creative Etc.](https://www.youtube.com/watch?v=Oy8EHGsOhcQ)                            |
 | 跟着光走的太阳能发电 [纪实与造物](https://www.douyin.com/video/7153474445728845063)                                                                      |
+| 狗狗发电🐶🔋 Emoose 储能箱测评 [Naomi Wu](https://www.youtube.com/watch?v=WtVN9HHwTVk)                                                             |
 |                                                                                                                                           |
 
 | 户外电源                                                                                                                                        |

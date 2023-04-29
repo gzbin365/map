@@ -2,7 +2,7 @@
 
 **Deep Learning GPU Benchmarks(**[**s**](https://lambdalabs.com/gpu-benchmarks)**, )**   Gamers Nexus [u](https://www.youtube.com/c/GamersNexus)   Super Kr超极氪 [u](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ)   阿健座谈 [u](https://www.youtube.com/channel/UCS1ky\_d928QwTl-yVFC029Q)
 
-NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   NVIDIA Studio [u](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)  &#x20;
+NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   NVIDIA Studio [u](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)   思腾合力 [zh](https://www.zhihu.com/org/si-teng-he-li-33)  &#x20;
 
 **GPU 计算能力(**[**nvidia**](https://developer.nvidia.com/zh-cn/cuda-gpus)**, )**
 

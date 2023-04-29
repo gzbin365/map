@@ -622,6 +622,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | CS50P - Visual Studio Code for [CS50](https://www.youtube.com/watch?v=Oi1lvJS4uS8)                                                                                                                                                                                                                                                |
 | Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks [Lama Dev](https://www.youtube.com/watch?v=jsZoR1kkq6s)                                                                                                                                                                                                               |
 | 在 Windows 里安装 Manim，数学动画编程 Manim 入门 [程序猿Shawn](https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y?modal\_id=7068352594149641511) [blibili](https://www.bilibili.com/video/BV1ZY41137xD)                                                                                                          |
+| Visual Studio Code Tutorial \| Introduction to VS Code \| Basics in 8 Minutes [Max Teaches Tech](https://www.youtube.com/watch?v=phzQMwFXMEo)                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                   |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
@@ -762,6 +763,15 @@ ARCHER High Performance Computing Service [u](https://www.youtube.com/channel/UC
 |                                                                                                                           |
 | Fun Python [Albert's Code Lab](https://www.youtube.com/playlist?list=PLwY2GJhAPWRev5Z6uWcOB7JlSKh5vp6gU)                  |
 | Learn CPython by Breaking It [Coding Tech](https://www.youtube.com/watch?v=CRuXP2jvJ8U)                                   |
+|                                                                                                                           |
+
+### Dask
+
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Dask [u](https://www.youtube.com/@Dask-dev)                                                                                   |
+| Dask 是一个开源库，旨在为现有Python 堆栈提供并行性。 Dask 与Python 库（如NumPy 数组、Pandas DataFrame 和scikit-learn）集成，无需学习新的库或语言，即可跨多个核心、处理器和计算机实现并行执行。 |
+| 什么是 DASK？为何 DASK 在应用 GPU 后表现更出色 [思腾合力](https://zhuanlan.zhihu.com/p/524958592)                                                |
 
 ### CuPy
 

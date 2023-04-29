@@ -649,21 +649,21 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### ChatGPT
 
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ChatGPT應用社群 [u](https://www.youtube.com/@ChatGPT-ob3wp)                                                                                               |
-| Create Custom ChatGPT with Your Own Data Redis Search OpenAI Cookbook Chatbot-Kickstarter [Skolo Online](https://www.youtube.com/watch?v=fEHHK6-ix3c) |
-| ChatGPT for YOUR OWN PDF files with LangChain [Prompt Engineering](https://www.youtube.com/watch?v=TLf90ipMzfE)                                       |
-| ChatGPT Course – Use The OpenAI API to Code 5 Projects [freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)                                    |
-| ChatGPT [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPYr-Qj9wZsNR\_f2LdvrHAgs)                                                         |
-| Generative AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X\_KzRlsqyM2Cs7Dxp9)                                      |
-| Connor Leahy on AGI and Cognitive Emulation [Future of Life Institute](https://www.youtube.com/watch?v=ps\_CCGvgLS8)                                  |
-| The Inside Story of ChatGPT’s Astonishing Potential \| Greg Brockman \| [TED](https://www.youtube.com/watch?v=C\_78DM8fG6E)                           |
-| 309 - Training your own Chatbot using GPT​ [DigitalSreeni](https://www.youtube.com/watch?v=DxygPxcfW\_I)                                              |
-| 25 ChatGPT AIs Play A Game - So What Happened? [Two Minute Papers](https://www.youtube.com/watch?v=NfGcWGaO1E4)                                       |
-|                                                                                                                                                       |
-|                                                                                                                                                       |
-|                                                                                                                                                       |
+|                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ChatGPT應用社群 [u](https://www.youtube.com/@ChatGPT-ob3wp)                                                                                                                                                                        |
+| Create Custom ChatGPT with Your Own Data Redis Search OpenAI Cookbook Chatbot-Kickstarter [Skolo Online](https://www.youtube.com/watch?v=fEHHK6-ix3c)                                                                          |
+| ChatGPT for YOUR OWN PDF files with LangChain [Prompt Engineering](https://www.youtube.com/watch?v=TLf90ipMzfE)                                                                                                                |
+| ChatGPT Course – Use The OpenAI API to Code 5 Projects [freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)                                                                                                             |
+| ChatGPT [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPYr-Qj9wZsNR\_f2LdvrHAgs)                                                                                                                                  |
+| Generative AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X\_KzRlsqyM2Cs7Dxp9)                                                                                                               |
+| Connor Leahy on AGI and Cognitive Emulation [Future of Life Institute](https://www.youtube.com/watch?v=ps\_CCGvgLS8)                                                                                                           |
+| The Inside Story of ChatGPT’s Astonishing Potential \| Greg Brockman \| [TED](https://www.youtube.com/watch?v=C\_78DM8fG6E)                                                                                                    |
+| 309 - Training your own Chatbot using GPT​ [DigitalSreeni](https://www.youtube.com/watch?v=DxygPxcfW\_I)                                                                                                                       |
+| 25 ChatGPT AIs Play A Game - So What Happened? [Two Minute Papers](https://www.youtube.com/watch?v=NfGcWGaO1E4)                                                                                                                |
+| 【ChatGPT】ChatGPT基本用法和个人使用心得 \| 孟禹 \| DataWhale [最佳拍档](https://www.youtube.com/watch?v=fs\_iACgHzwo)                                                                                                                            |
+| <p>本地私有化部署ChatGPT自己的AI小机器人 小白也能看懂的教程 <a href="https://www.youtube.com/watch?v=Hi9HES_LyQ8">猫猫和丢丢の欢乐驿站</a></p><p>869413421/<a href="https://github.com/869413421/chatgpt-web">chatgpt-web</a>   基于ChatGPT3.5 API实现的私有化web程序</p> |
+| Ilya Sutskever: The Mastermind Behind GPT-4 and the Future of AI [Eye on AI](https://www.youtube.com/watch?v=SjhIlw3Iffs)                                                                                                      |
 
 ### Prompt Engineering
 

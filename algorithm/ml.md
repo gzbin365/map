@@ -357,6 +357,12 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | Intro to JAX: Accelerating Machine Learning research [TensorFlow](https://www.youtube.com/watch?v=WdTeDXsOSj4)   |
 | JAX Course [Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEFy7Yrw8Q8VgG0vpWbd\_LLu)         |
 | JAX Crash Course - Accelerating Machine Learning code! [AssemblyAI](https://www.youtube.com/watch?v=juo5G3t4qAo) |
+| JAX Diffusers Community Sprint Talks: Day 1 [HuggingFace](https://www.youtube.com/watch?v=iw2WCAGxdQ4)           |
+| JAX Diffusers Community Sprint Talks: Day 2 [HuggingFace](https://www.youtube.com/watch?v=6f5chgbKjSg)           |
+| JAX Diffusers Community Sprint Talks: Day 3 [HuggingFace](https://www.youtube.com/watch?v=SOj2sxgvFe0)           |
+|                                                                                                                  |
+|                                                                                                                  |
+|                                                                                                                  |
 
 
 
@@ -1513,6 +1519,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | <p>由Stabiliti AI在2022年发布的工具 <a href="https://www.youtube.com/watch?v=A05B3cgYHp8">u</a> 抓取了50亿公开图片, 可以用文字和图片生成图片 colab Chillout_mix</p><p><a href="https://civitai.com/">civitai</a></p> | 云端AI绘图软件+本地Stable Diffusion免安装版+懒人常用模型包,完全使用攻略-猩猩看了都会用的AI绘图视频教程 [番茄市常听](https://www.youtube.com/watch?v=XkhH0-y7akw)                                    | AI For You [u](https://www.youtube.com/@AIForYouOfficial)                                                                                          |
 | Easiest Way To Install Stable Diffusion & Generate AI Images [NeuralNine](https://www.youtube.com/watch?v=8MIsNGNYNw4)                                                                   |                                                                                                                                                         | 教你用 Google colab 免費玩 Stable Diffusion 作出擬真美女圖片！ Lora、ControlNet 教學（iPhone、Android、筆電、Mac 均適用） [電腦王阿達](https://www.youtube.com/watch?v=NlRNe2pV3TU) |
 | Stable Diffusion XL [v](https://www.youtube.com/watch?v=w8K0ULcLxhc)                                                                                                                     | JW608 Plays With Stable Diffusion! [JW608](https://www.youtube.com/watch?v=gUcIsDkwnh4)                                                                 | \[Stable Diffusion AI畫圖插件] Composable LoRA加強版! 支援LoCon、LyCORIS，並能讓LoRA只在特定步數作用! [張宇帆](https://www.youtube.com/watch?v=QS9yjSMySuY)                 |
+|                                                                                                                                                                                          | Stable Diffusion教學 使用Lora製作AI網紅 [Kas Kuo Lab](https://www.youtube.com/watch?v=OoTgK7w-gjQ)                                                              | Stable Diffusion 教學 [Kas Kuo Lab](https://www.youtube.com/playlist?list=PL8TNu2oke6hQ0zuXFdKmH1eqJ0F0d3dD8)                                        |
 
 | MultiDiffusion                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
