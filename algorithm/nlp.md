@@ -694,7 +694,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | LangChain入门 [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoojftjcvaxJfsCEWqUEAPmve)                                                                                                                                                                                             |
 | <p>Building AI LLM Apps with LangChain (and more?) - LIVE STREAM <a href="https://www.youtube.com/watch?v=M-2Cj_2fzWI">Nicholas Renotte</a></p><p>LangChain Crash Course: Build a AutoGPT app in 25 minutes! <a href="https://www.youtube.com/watch?v=MlK6SIjcjE8">Nicholas Renotte</a></p> |
 | Build Your Own Auto-GPT Apps with LangChain (Python Tutorial) [Dave Ebbelaar](https://www.youtube.com/watch?v=NYSWn1ipbgg)                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                             |
+| LangChain Chains: Use ChatGPT to Build Conversational Agents, Summaries and Q\&A on Text With LLMs [Venelin Valkov](https://www.youtube.com/watch?v=h1tJZQPcimM)                                                                                                                            |
 |                                                                                                                                                                                                                                                                                             |
 
 ### Pinecone
@@ -906,7 +906,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | GitHub Copilot                                                                                                                                  |
 | 用 AI 來做 AI：GitHub Copilot 初體驗 [大魔術熊貓工程師](https://www.youtube.com/watch?v=RPOlHiMHZTE)                                                           |
 | Cursor [v](https://www.youtube.com/watch?v=9XzEuEZlji0)                                                                                         |
-|                                                                                                                                                 |
+| AWS CodeWhisperer 完整教學 \| 比 Github Copilot 更省錢的寫程式助手 \| 免費提升開發效率 [今天比昨天厲害](https://www.youtube.com/watch?v=wXcyq2Ay4uE)                         |
 
 #### 拼写检查
 

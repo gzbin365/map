@@ -360,7 +360,7 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | JAX Diffusers Community Sprint Talks: Day 1 [HuggingFace](https://www.youtube.com/watch?v=iw2WCAGxdQ4)           |
 | JAX Diffusers Community Sprint Talks: Day 2 [HuggingFace](https://www.youtube.com/watch?v=6f5chgbKjSg)           |
 | JAX Diffusers Community Sprint Talks: Day 3 [HuggingFace](https://www.youtube.com/watch?v=SOj2sxgvFe0)           |
-|                                                                                                                  |
+| JAX talks [HuggingFace](https://www.youtube.com/playlist?list=PLo2EIpI\_JMQtQrEduYXbRz4X50mTiOi8S)               |
 |                                                                                                                  |
 |                                                                                                                  |
 
@@ -545,11 +545,13 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023 Spring 台大資訊 人工智慧導論 NTU CSIE FAI [陳縕儂 Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7kbkCFF6zqJHgQ0FrQlP54)                                                                        |
 | <p>2022 Fall 台大資工 深度學習之應用 NTU CSIE ADL <a href="https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn">Vivian NTU MiuLab</a></p><p>2022 Fall 台大資訊 深度學習之應用 NTU CSIE ADL</p>                 |
 | 2022 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7JWXyj9lvyOJXJ1aD40qfX)                                                                           |
 | 2021 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5\_9qzD7\_1TzADthNSBf8\_z)                                                                        |
 | 2020 Spring 台大資工 深度學習之應用 NTU CSIE ADL [Vivian NTU MiuLab](https://www.youtube.com/playlist?list=PLOAQYZPRn2V4iTh0XRB\_-EHNktK\_ai7kl)                                                                         |
 | <p>MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity <a href="https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH">Ali Jahanian</a></p><p>MIT 6.S192：艺术、美学和创造力的深度学习</p>      |
+| Deep Learning & Machine Learning [KNOWLEDGE DOCTOR](https://www.youtube.com/playlist?list=PLWyN7K28ZraSdSdTvQEDKPta5PATUmaiT)                                                                                 |
 | NVIDIA Deep Learning Course [NVIDIA](https://www.youtube.com/watch?v=6eBpjEdgSm0)                                                                                                                             |
 | Deep learning conference [Sure](https://www.youtube.com/playlist?list=PLBD8XfkW6PWHnSqtXopR5OmhY9KN2yKWM)                                                                                                     |
 | 2022 人人有功練：資料科學深度學習 [茶米老師教室](https://www.youtube.com/playlist?list=PLExLEp0NoLtjXnlqD-kfd9F7g4bALrvRd)                                                                                                        |

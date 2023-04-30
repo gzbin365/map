@@ -460,6 +460,8 @@ import cv2
 | Train Yolov8 object detection on a custom dataset \| Step by step guide \| Computer vision tutorial [Computer vision engineer](https://www.youtube.com/watch?v=m9fH9OWn8YM)                                                                                                              |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                   |
 | Talk \| 阿里巴巴达摩院算法工程师许贤哲：DAMO-YOLO：兼顾速度与精度的高效目标检测框架 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=v3E7ZW0b9xg)                                                                                                                                                                        |
+| Building a Cat Detector with LandingLens [Landing AI](https://www.youtube.com/watch?v=OrM9uxXoXbM)                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
@@ -483,7 +485,7 @@ import cv2
 | Tricking AI Image Recognition - [Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)                                                                                   |
 | YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
 | I Built an AI That Shoots Me in the Face When I Get Distracted [ForrestKnight](https://www.youtube.com/watch?v=A8eegxL82PI)                                                    |
-|                                                                                                                                                                                |
+| Tracking Cars with Drones and LandingLens [Landing AI](https://www.youtube.com/watch?v=vysOcTcDmCQ)                                                                            |
 |                                                                                                                                                                                |
 
 #### SAM-Track

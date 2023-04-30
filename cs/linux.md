@@ -105,6 +105,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Byte of Linux [u](https://www.youtube.com/channel/UClv29BapYRCyv5jaDQdKhZA)                                                                   | EF - Linux Made Simple [u](https://www.youtube.com/channel/UCX\_WM2O-X96URC5n66G-hvw)                                                                                                                                         |
 | Houge Langley [u](https://www.youtube.com/channel/UC7h0cmpGuMcq2g1LXzykEIw/videos)                                                            | FreeCoder [u](https://www.youtube.com/channel/UC8OGDmnyMgYOPgpnFJYUiGg/videos)                                                                                                                                                |
 | Leonard Chan [u](https://www.youtube.com/channel/UCEFSGtsGlCK7SNadurivx5Q/playlists)                                                          | The Linux Foundation [u](https://www.youtube.com/c/LinuxfoundationOrg/playlists)                                                                                                                                              |
+|                                                                                                                                               | Yogesh Mehta [u](https://www.youtube.com/@YogeshMehta/playlists)                                                                                                                                                              |
 
 | 输入法                                                                                         |   |
 | ------------------------------------------------------------------------------------------- | - |
@@ -141,7 +142,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux 核心設計 [. GUTS](https://www.youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15\_BlQBC9rTdd8)                                                                                                                                       |
 | LinuxCast IT播客 [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafIBu-W-QI163AoCpla5NGPww)                                                                                                                      |
 | LinuxCast [GreatOnlineTutorials](https://www.youtube.com/playlist?list=PLCJcQMZOafICYrx7zhFu\_RWHRZqpB8fIW)                                                                                                                          |
-|                                                                                                                                                                                                                                      |
+| RedHat Certified Linux Administrator (RHCSA) EX200 Training in Hindi [Nehra Classes](https://www.youtube.com/playlist?list=PL9LY4jTSNS22K3GNEsRI6TWGiKbMvyvG0)                                                                       |
 | Introduction to Linux – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8)   6:07:31                                                                                                              |
 |                                                                                                                                                                                                                                      |
 
@@ -348,6 +349,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Docker [CloseToAlgoTrading](https://www.youtube.com/playlist?list=PL96wkZreD9B571llfq1pW0UDYFYVGveJz)                                                                                                                  |
 | How to create a great dev environment with Docker [Patrick Loeber](https://www.youtube.com/watch?v=0H2miBK\_gAk) 29:54                                                                                                 |
 | Dockerize Python Applications with GUI [NeuralNine](https://www.youtube.com/watch?v=W82jvmiaDtk)                                                                                                                       |
+| Complete Docker Course - From BEGINNER to PRO! (Learn Containers) [DevOps Directive](https://www.youtube.com/watch?v=RqTEHSBrYFw)                                                                                      |
+|                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                        |
 
 |                                                                      |
@@ -529,6 +532,23 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Gnome Subtitles PPA](https://launchpad.net/\~pedrocastro/+archive/ubuntu/ppa)    gnomesubtitles [s](https://gnomesubtitles.org/) |
 | Ubuntu PPA 使用指南 [Linux中国](https://zhuanlan.zhihu.com/p/55250294)                                                                  |
+
+## Troubleshooting
+
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| Troubleshooting IO performance issues on Linux [TECSTER](https://www.youtube.com/watch?v=sjyLRS52zOg)                     |
+| Linux Tools: Monitoring & Troubleshooting Basics with Glances [tutoriaLinux](https://www.youtube.com/watch?v=E3Ioopzt8ko) |
+| Linux Power Management & Monitoring with TLP & Powertop [DorianDotSlash](https://www.youtube.com/watch?v=Ku0491LfhR4)     |
+| MySQL Tuning and Troubleshooting for System Admins [Yogesh Mehta](https://www.youtube.com/watch?v=w-z7QCpnZbM)            |
+| Linux Performance Tools, Brendan Gregg, part 1 of 2 [Brendan Gregg](https://www.youtube.com/watch?v=FJW8nGV4jxY)          |
+| Debugging CPU Issue Prashant Lakhera [Prashant Lakhera](https://www.youtube.com/watch?v=rC11yCGwUHk)                      |
+| Fremont Linux Meetup Performance Tuning [Prashant Lakhera](https://www.youtube.com/watch?v=Pn3cmteTu-E)                   |
+| Linux Memory Management [Prashant Lakhera](https://www.youtube.com/watch?v=AirYDPCdx5w)                                   |
+| Linux Server Troubleshooting [Sandip Das](https://www.youtube.com/watch?v=2YOiJGSzUKI)                                    |
+| Linux Performance Troubleshooting Demos [grobelDev](https://www.youtube.com/watch?v=rwVLa9me7e4)                          |
+|                                                                                                                           |
+|                                                                                                                           |
 
 ## 其他
 

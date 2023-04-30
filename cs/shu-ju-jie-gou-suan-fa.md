@@ -286,6 +286,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | [上岸算法](https://www.youtube.com/playlist?list=PLQ3hu6barmd6nPNQu2svMEw4OgrhbXfuU)公开课2022春招必备版                                                                                                            |
 | LeetCode刷题 [Philon](https://ixx.life/leetcode/)                                                                                                                                                         |
 | LeetCode [手撕算法tearing-up algorithm](https://www.youtube.com/playlist?list=PLsdWTv8SAAr4g-jNecBn4-NYq19zYzowv)                                                                                           |
+| Google Amazon Facebook [今天比昨天厲害](https://www.youtube.com/@better\_than\_yesterday/playlists?view=50\&sort=dd\&shelf\_id=5)                                                                              |
 
 ## 其他
 
