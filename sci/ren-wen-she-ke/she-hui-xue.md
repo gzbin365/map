@@ -1,10 +1,10 @@
 # 社会学
 
-|                                                                                                                 |   |
-| --------------------------------------------------------------------------------------------------------------- | - |
-| 教你读懂社会学 抖音号： [1693457067](https://www.douyin.com/user/MS4wLjABAAAAgWBajCqXJLehU1itawx4IFNyVZDKVgV8YEb4\_tmywqY) |   |
-|                                                                                                                 |   |
-| 柯文哲 [u](https://www.youtube.com/channel/UCllMvuz1DIPIoqNnur7\_Pig)                                              |   |
+|                                                                                                                 |                                                                                   |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 教你读懂社会学 抖音号： [1693457067](https://www.douyin.com/user/MS4wLjABAAAAgWBajCqXJLehU1itawx4IFNyVZDKVgV8YEb4\_tmywqY) | 知识资源世界(KnowledgeWorld) [u](https://www.youtube.com/@knowledgeworld9868/playlists) |
+|                                                                                                                 |                                                                                   |
+| 柯文哲 [u](https://www.youtube.com/channel/UCllMvuz1DIPIoqNnur7\_Pig)                                              |                                                                                   |
 
 
 

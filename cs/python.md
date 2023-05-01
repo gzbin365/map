@@ -487,6 +487,9 @@ muduo 网络库 [Shuo Chen](https://www.youtube.com/playlist?list=PLA41633960297
 | Unit Testing in Python with pytest [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)                                      |
 | Automate with Python – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)                                                           |
 | \[Tutorialsplanet.NET] Udemy - Automate the Boring Stuff with Python Programming                                                                                       |
+| 零基础Python+办公自动化(Word+Powerpoint+Excel) [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z5kDl6GeI7CyjmQO4O8edHW)                              |
+|                                                                                                                                                                        |
+|                                                                                                                                                                        |
 |                                                                                                                                                                        |
 
 | Automa                                                                            |   |   |

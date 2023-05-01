@@ -119,13 +119,31 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 达芬奇教程 [Mediastorm影视飓风](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV)                                                                                                 |
 |                                                                                                                                                                                                  |
 
-## Final Cut Pro
+## 视频剪辑
+
+### 剪映 剪映国际版capcut
+
+|                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s & d](https://www.capcut.cn/)   capcut [s](https://www.capcut.com/)                                                                                                                                                              |
+| 王同学的剪辑分享 [B](https://space.bilibili.com/2029640706)   joe是說 [u](https://www.youtube.com/@joewemedia/playlists)   1个小罗罗的自媒体工具研究院 [u](https://www.youtube.com/@1luoluo)                                                              |
+| <p>剪映教學 - 剪輯影片 <a href="https://www.youtube.com/playlist?list=PLSAzhY_t5XqMIIf8YBeZe2QRyJ-Y4woLt">無遠弗屆教學教室</a></p><p>AI 人工智慧系列 <a href="https://www.youtube.com/playlist?list=PLSAzhY_t5XqNzacLKFuegvNKkJ41h05re">無遠弗屆教學教室</a></p> |
+| 剪映使用教學分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFHiT1VLfhV5CW9tY\_LgGoG)                                                                                                                                        |
+| 剪映手机版教学 [剪映新手入门](https://www.youtube.com/playlist?list=PLXYDcTR26v0tSz48S2sGoCcUCZxk-OFXB)                                                                                                                                         |
+| 剪映专业版2023完全课程（Windows 版本） [老胡油管研究院](https://www.youtube.com/playlist?list=PLIYXXsSXtjoJd9HHDDGuuYmWMTbZsLTTd)                                                                                                                      |
+|                                                                                                                                                                                                                                    |
+
+### Final Cut Pro
 
 |                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- |
 | Final Cut Pro X 教學 [DVE(IT)](https://www.youtube.com/playlist?list=PLwBySiD\_oGcpsPuHMNeKyf0mJPUlou897) |
 |                                                                                                         |
 |                                                                                                         |
+
+### OpenShot
+
+
 
 ## adobe全家桶
 

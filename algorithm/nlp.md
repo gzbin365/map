@@ -874,6 +874,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Building the Future with LLMs, LangChain, & Pinecone [Pinecone](https://www.youtube.com/watch?v=nMniwlGyX-c)                                                                                                      |
 | Seminarreihe Deep Learning und Machine Learning: Prof. Dr. Goran Glavaš zu ChatGPT und anderen LLMs [Fraunhofer-Institut für Techno- und Wirtschaftsmathematik ITWM](https://www.youtube.com/watch?v=ffKSXhQLFCk) |
 | MLNLP-World/[Awesome-LLM](https://github.com/MLNLP-World/Awesome-LLM)                                                                                                                                             |
+| MARI Grand Seminar - Large Language Models and Low Resource Languages [Microsoft Research](https://www.youtube.com/watch?v=X7c0T7uwtkM)                                                                           |
+|                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                   |
 
 ### Causal Inference

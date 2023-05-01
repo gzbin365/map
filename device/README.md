@@ -874,6 +874,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | NAS [花墨世界](https://www.youtube.com/playlist?list=PLfB6NDWJ6vsvhbBiPEum4tQfeHu6cTTHj)                                                                                                                          |
 | 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                                                                                                                 |
 | 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                                                                                                                 |
+| NAS相關內容分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFa3C4evyjHVcYCim3kluKj)                                                                                                                   |
+|                                                                                                                                                                                                               |
 
 #### RAID
 

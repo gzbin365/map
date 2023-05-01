@@ -90,6 +90,9 @@
 | How to connect C# to SQL (the easy way) [IAmTimCorey](https://www.youtube.com/watch?v=Et2khGnrIqc)                                                                            |
 | C# Full Course - Learn C# 10 and .NET 6 in 7 hours [tutorialsEU](https://www.youtube.com/watch?v=q\_F4PyW8GTg)                                                                |
 | Advanced C# – LINQ Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=5l2qA3Pc83M) 3:07:24                                                                               |
+| 北京大学\_\_C#程序设计 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6tXwRY4kCkq4ks4HSM9PyF)                                                             |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
 |                                                                                                                                                                               |
 
 ## php

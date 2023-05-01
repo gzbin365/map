@@ -87,6 +87,8 @@
 | 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                                                                                   |
 | voicemeeter 声音分流                                                                                                                                                     |
 | 【翼王】为什么你的直播这么卡？用实测告诉你OBS推流到底需要什么配置 [翼王](https://www.youtube.com/watch?v=dghk4EhV4lE)                                                                                 |
+| OBS使用教學分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFgog3mYQhylipREazZrsns)                                                                          |
+|                                                                                                                                                                      |
 |                                                                                                                                                                      |
 
 ## 学习方法
