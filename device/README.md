@@ -679,6 +679,7 @@ System on Chip, 系统级芯片
 | 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                 |
 | 看！我是如何收集这些资源的，不仅免费而且还是高清稳定的线路 \| [零度解说](https://www.youtube.com/watch?v=3C1Bzp-A4Ek)                                      |
 | 如何在 windows 10 /11 系统上安装 Android TV 和 Google TV ？看这个教程就可以搞定 ！ \| [零度解说](https://www.youtube.com/watch?v=0-PHXue5TqQ)      |
+| 小米盒子3增强版从入门到精通 [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVod5bF2MZotiIuNvNwklY\_8h) 等等                |
 |                                                                                                                           |
 
 ## 空调
@@ -757,17 +758,18 @@ System on Chip, 系统级芯片
 | 百克龙E1500pro户外应急电源 家庭应急 户外作业 [天哥爱生活](https://www.douyin.com/video/7144611933163883813)  [旗客试验室](https://www.youtube.com/watch?v=bOg2o6yYoBA) |
 |                                                                                                                                             |
 
-| 電源供應器 (PSU)                                                                                         |                                                                                        |   |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | - |
-| 電源供應器 (PSU) 要選多大的瓦數，簡單算一下 /顯卡瓦數/遊戲 PC DIY 入門 [CH 聊 PC](https://www.youtube.com/watch?v=LJ-qDZQOzpk) | 如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 [CH 聊 PC](https://www.youtube.com/watch?v=iwiw9tafv04) |   |
-|                                                                                                     |                                                                                        |   |
-|                                                                                                     |                                                                                        |   |
+| 電源供應器 (PSU)                                                                                         |
+| --------------------------------------------------------------------------------------------------- |
+| 電源供應器 (PSU) 要選多大的瓦數，簡單算一下 /顯卡瓦數/遊戲 PC DIY 入門 [CH 聊 PC](https://www.youtube.com/watch?v=LJ-qDZQOzpk) |
+| 如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 [CH 聊 PC](https://www.youtube.com/watch?v=iwiw9tafv04)              |
+|                                                                                                     |
+|                                                                                                     |
 
-| UPS 不断电系统 |   |   |
-| --------- | - | - |
-|           |   |   |
-|           |   |   |
-|           |   |   |
+| UPS 不断电系统                                                                            |
+| ------------------------------------------------------------------------------------ |
+| 用Python和树莓派实现超便宜“智能”UPS [Alexander Lee](https://www.youtube.com/watch?v=vKKGZfglIRs) |
+|                                                                                      |
+|                                                                                      |
 
 ## 充电宝
 
@@ -965,6 +967,7 @@ direct-attached storage
 | 这台软路由更强，上网起飞了：N5105软路由体验分享                                                                                                                                                                                                                                                                       |
 | 2022年软路由安装OPENWRT系统（保姆级别教程）支持2.5g网卡【#阿雷科技】                                                                                                                                                                                                                                                       |
 | 2023今年买啥软路由？多网口迷你电脑新年选购辅助指南！                                                                                                                                                                                                                                                                     |
+| 群晖&软路由 [番茄科技](https://www.youtube.com/playlist?list=PLIKcGrK2tIrOlf0Q99HUsasrg4EdaK16o)                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                  |
 

@@ -53,6 +53,7 @@
 | 李舜教你画卡通IP [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6nwnOAzVYnZwRZeS8K8vFGl)                                                                                    |
 | 萧老师转手绘教程 [设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6klfVcIx\_AGEOtL\_aUFWPxS)                                                                                   |
 | 《彼得潘转手绘第五期》[设计师资源搬运工](https://www.youtube.com/playlist?list=PLsVINZ2Tdj6k6co1SX2iSKyhRYn920KmG)                                                                                   |
+| 手绘动画制作 [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS62p2TpsGFgEWSaypE71yf7)                                                                                        |
 | 平面设计线上课程（Adobe国际认证（ACA）官方认证学习教程及Adobe中国授权培训中心官方认证学习教程） [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9uNM7zQm3jbMWsuZfSRx2iA)                                       |
 | 设计工具使用教程 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9slzC1GuYKEyYBGG48hVr4L)                                                                                     |
 | Graphic Design Series [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9sdOjMZNcCkIdTXzJpf7GTu)                                                                        |
@@ -215,11 +216,14 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 
 ### 虚拟主播 虚拟形象 Vtuber
 
-|                                                                                                     |                                                                                                         |   |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | - |
-| Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)                                        | Prompt Engineering [u](https://www.youtube.com/@engineerprompt)                                         |   |
-| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)     | Kizuna AI, 世界最初Vtuber                                                                                   |   |
-| Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE) | 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo) |   |
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)   Prompt Engineering [u](https://www.youtube.com/@engineerprompt) |
+| Kizuna AI, 世界最初Vtuber                                                                                                          |
+| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)                                |
+| Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE)                            |
+| 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                        |
+|                                                                                                                                |
 
 
 

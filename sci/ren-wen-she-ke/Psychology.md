@@ -34,7 +34,7 @@ description: Psychology
 | \[Tutorialsplanet.NET] Udemy - Advanced Level Psychology - ACCREDITED CERTIFICATE                                               |
 | 心理学与生活(精品课) [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Rhh\_lem7ZFzoJU8IWOSbNg)                                   |
 | MIT 9.00SC Introduction to Psychology, Fall 2011 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) |
-|                                                                                                                                 |
+| 爱情心理学 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6e4xfPaEgWJ-z7Z0KONa9O)                        |
 |                                                                                                                                 |
 
 |                                                                                      |

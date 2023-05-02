@@ -82,11 +82,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 力学
 
-|                                                                                                  |                                                                                                 |                                                                                                 |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 结构力学\_华中科技大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyton4eUS8EMk2rCr2pT7\_s) | 理论力学\_北京师范大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzpc6hPF2UZXUwqXQFhfd1F) | 流体力学\_上海交通大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDz4T4caNx283Qzu7Fer3sBg) |
-| 材料力学\_中南大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDynA01n4ofUjO0XRTgKu3FX)    | 反重力，違反自然規律的終極表現 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=Uz\_odwmwNPU)           |                                                                                                 |
-|                                                                                                  |                                                                                                 |                                                                                                 |
+|                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- |
+| 结构力学\_华中科技大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyton4eUS8EMk2rCr2pT7\_s)        |
+| 理论力学\_北京师范大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzpc6hPF2UZXUwqXQFhfd1F)         |
+| 理论力学 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z7nUNQSZNTy1Zwx00kVokxe) |
+| 流体力学\_上海交通大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDz4T4caNx283Qzu7Fer3sBg)         |
+| 材料力学\_中南大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDynA01n4ofUjO0XRTgKu3FX)           |
+| 反重力，違反自然規律的終極表現 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=Uz\_odwmwNPU)                   |
 
 ### 一般力学与力学基础
 
@@ -130,6 +133,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 电和磁\_MIT [Qian You](https://www.youtube.com/playlist?list=PLzyul8BgWXKwdYXnV4uI0KriRaWMCHeVK)                                                                                                                                 |
 | 10 Ways to SEE the ELECTRIC FIELD - Part 2 [James Lincoln](https://www.youtube.com/watch?v=bOLd2KVK-Mo)                                                                                                                       |
 | 电工学-同济大学-顾榕 [中国好视频](https://www.youtube.com/playlist?list=PLYdE87tyKU5BRQg6XXE-cD1XWR8cWfIhE)                                                                                                                                 |
+| 同济大学\_\_电工学 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6N92um\_eJ8JiVAjSL6EK7A)                                                                                                               |
 | In Search for the BEST Wireless Power Coil! (Experiment) My Coils can act like Capacitors? [GreatScott!](https://www.youtube.com/watch?v=S3mLHpzzcTU)                                                                         |
 | Free Energy BS! \|\| Magnet PC Fan, Bedini Motor [GreatScott!](https://www.youtube.com/watch?v=g4tO0kBOzqk)                                                                                                                   |
 | Free Energy Devices Build and Science [ElectroBOOM](https://www.youtube.com/watch?v=15V0gUXUPko)                                                                                                                              |

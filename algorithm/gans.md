@@ -136,7 +136,7 @@ description: Generative Adversarial Network (GAN)
 | GenRep: Generative Models as a Data Source for Multiview Representation Learning in ICLR2022 [Ali Jahanian](https://www.youtube.com/watch?v=qYmGvVrGZno\&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH\&index=22) |
 | GFlowNets for generative active learning \| Amazon Science [Amazon Science](https://www.youtube.com/watch?v=2s\_GtmofbyU)                                                                                   |
 | Generative Modeling by Estimating Gradients of the Data Distribution - Stefano Ermon [Institute for Advanced Study](https://www.youtube.com/watch?v=8TcNXi3A5DI)                                            |
-|                                                                                                                                                                                                             |
+| Generative Art [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS5HopwjWRquVIluLKz7HI1f)                                                                                                          |
 |                                                                                                                                                                                                             |
 
 ### Fake

@@ -415,11 +415,13 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 高等数学
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| 高等数学-上海交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowdpCm56cIGSyGLFDb8z0be))                 |
-| 高等数学精讲【同济七版】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPdzBjoM4Z1TvbeIPqIgdBN) |
-| 高等数学先修课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_S\_oftcKRG-x6CsMttlcRGP)                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 高等数学-上海交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLowdpCm56cIGSyGLFDb8z0be))                                                                                                                                                                                                                                                                                                    |
+| 高等数学精讲【同济七版】[Joseph-Louis Lagrange](https://www.youtube.com/playlist?list=PLHpfx416EzLPdzBjoM4Z1TvbeIPqIgdBN)                                                                                                                                                                                                                                                                                    |
+| 高等数学先修课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_S\_oftcKRG-x6CsMttlcRGP)                                                                                                                                                                                                                                                                                                        |
+| <p>同济大学__高等数学一 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6r5nOYBTCkH_g06IJXhYFi">知识资源世界(KnowledgeWorld)</a></p><p>同济大学__高等数学二 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z4rtY3IJSeTxsUUXyOr5O7T">知识资源世界(KnowledgeWorld)</a></p><p>同济大学__高等数学三 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z7G-ljibTBOHAUMv3NHliL0">知识资源世界(KnowledgeWorld)</a></p> |
+|                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## 代数 Algebra
 
@@ -635,6 +637,7 @@ Theory of functions of a real variable
 | How Imaginary Numbers Were Invented [Veritasium](https://www.youtube.com/watch?v=cUzklzVXJwo)                                                                                                                                                                  |
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
 | 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                                   |
+| 同济大学\_\_复变函数与积分变换 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z4-x66NuiNB\_xIIRAMAMkzM)                                                                                                                                          |
 |                                                                                                                                                                                                                                                                |
 
 | 黎曼猜想                                                                                              |
@@ -918,7 +921,7 @@ $$
 |                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Geometry [MindYourDecisions](https://www.youtube.com/playlist?list=PLDZcGqoKA84E2a0L6IS68hswD4iiUN2Cv) [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMXMi3bUMThGdYqos36X\_lA) [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyZZAicSHbpVhJzLPfPMJf6) |
-|                                                                                                                                                                                                                                                                                          |
+| Kaleidoscope [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS6pM75yBxmC28d46v7O-wcn) 万花筒                                                                                                                                                                                     |
 
 ### 平面几何
 
@@ -965,12 +968,17 @@ $$
 
 ### 分形几何 Fractal Geometry
 
-|                                                                                                           |                                                                                                          |                                                                                   |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                |                                                                                                          |                                                                                   |
-| Make Fractal Art With Python! [Tech With Tim](https://www.youtube.com/watch?v=\_ABdBoW4DV8)               | Mandelbrot set in Python [ComputationalScientist](https://www.youtube.com/watch?v=gECmGwD0DaI)           | Mandalbrot Set Using Python [Auctux](https://www.youtube.com/watch?v=uEYl7BXlAIc) |
-| Mandelbrot Set in GeoGebra [Kornél Rokolya](https://www.youtube.com/watch?v=9\_0c4nA8HgI)                 |                                                                                                          |                                                                                   |
-| Lorenz Attractor - In Python with Pygame [QuantitativeBytes](https://www.youtube.com/watch?v=VxrnmFitxhg) | How To Make Amazing Art With The Mandelbrot Set [DawraMath](https://www.youtube.com/watch?v=QOcoO3KcPos) |                                                                                   |
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                |
+| Make Fractal Art With Python! [Tech With Tim](https://www.youtube.com/watch?v=\_ABdBoW4DV8)               |
+| Mandalbrot Set Using Python [Auctux](https://www.youtube.com/watch?v=uEYl7BXlAIc)                         |
+| Mandelbrot set in Python [ComputationalScientist](https://www.youtube.com/watch?v=gECmGwD0DaI)            |
+| Mandelbrot Set in GeoGebra [Kornél Rokolya](https://www.youtube.com/watch?v=9\_0c4nA8HgI)                 |
+| Lorenz Attractor - In Python with Pygame [QuantitativeBytes](https://www.youtube.com/watch?v=VxrnmFitxhg) |
+| How To Make Amazing Art With The Mandelbrot Set [DawraMath](https://www.youtube.com/watch?v=QOcoO3KcPos)  |
+| <p></p><p></p>                                                                                            |
+|                                                                                                           |
 
 ### 黎曼几何
 
@@ -1333,6 +1341,8 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | Chaos: The Science of the Butterfly Effect [Veritasium](https://www.youtube.com/watch?v=fDek6cYijxI)                         |
 | 上海交通大学公开课：数学之旅 混沌与分形 [CC Fan](https://www.youtube.com/watch?v=8N0rHzrOQ1Q)                                                   |
 | 三体问题究竟是什么？为什么说科学的尽头是神学？ [李永乐老师](https://www.youtube.com/watch?v=YHqljeHafiE) 庞加莱                                             |
+| Generative Art [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS5HopwjWRquVIluLKz7HI1f)                           |
+|                                                                                                                              |
 
 ## 控制论 Control Theory
 
