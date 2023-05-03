@@ -680,6 +680,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ChatGPT Prompt Engineering for Developers ChatGPT开发人员提示工程 [盛少](https://www.youtube.com/watch?v=MoIeNKW9UAY)                                                                                                                                                                                           |
 | Visual Prompting Livestream With Andrew Ng [Landing AI](https://www.youtube.com/watch?v=FE88OOUBonQ)                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                       |
 
 ### LangChain
 
@@ -701,11 +702,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Pinecone
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| OpenAI Embedding向量数据存储                                                                       |
-| Pinecone [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoogxcEfpAzbh2cZBVJJ26Brx) |
-|                                                                                              |
+|                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OpenAI Embedding向量数据存储                                                                                                                                        |
+| Pinecone [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoogxcEfpAzbh2cZBVJJ26Brx)                                                                  |
+| 【人工智能】爆肝万字介绍向量数据库和Pinecone \| 向量搜索的演化过程 \| LLM是人类的大脑，向量数据库就是海马体 \| Pinecone的发展历程 \| Pinecone直接和潜在竞争对手有哪些 [最佳拍档](https://www.youtube.com/watch?v=u03AZlmZF\_8) |
 
 ### Bard
 
@@ -847,6 +848,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Chatbase——用你自己的数据“喂”出懂你的ChatGPT [Assisi是水豚座](https://www.youtube.com/watch?v=f81X0rvQsBM) |
 |                                                                                           |
 |                                                                                           |
+
+### Web LLM
+
+|                                                                                    |
+| ---------------------------------------------------------------------------------- |
+| 将大型语言模型和聊天引入网络浏览器。一切都在浏览器内运行，没有服务器支持。                                              |
+| mlc-ai/[web-llm](https://github.com/mlc-ai/web-llm)   [s](https://mlc.ai/web-llm/) |
+|                                                                                    |
 
 ### OpenChatKit
 

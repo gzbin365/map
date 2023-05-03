@@ -41,6 +41,13 @@ description: 机器学习
 | **Global AI Platform(**[**quora**](https://globalaiplatform.quora.com)**, )**                |                                                                                            |
 |                                                                                              |                                                                                            |
 
+| AMLD                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AMLD指的是Applied Machine Learning Days（应用机器学习日），是一个面向机器学习和人工智能领域的国际会议，也是一个非营利性组织。该组织致力于促进机器学习和人工智能技术的应用和发展，并为学术界、工业界和政府机构提供交流和合作的平台。AMLD成立于2016年，总部位于瑞士日内瓦。该组织定期举办国际会议、研讨会和培训课程，吸引了来自全球各地的学者、研究人员、工程师、企业家和政府官员参加。 |
+| AMLD Africa [u](https://www.youtube.com/@amldafrica)   Applied Machine Learning Days [u](https://www.youtube.com/@AppliedMachineLearningDays)                                                                   |
+|                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                 |
+
 <details>
 
 <summary>北风网Python人工智能  <a href="https://www.youtube.com/channel/UCOlt070vR05dXxNejTilaMg">砖家王二狗</a></summary>
@@ -1779,6 +1786,10 @@ Full interview: "Godfather of artificial intelligence" talks impact and potentia
 Geoffrey Hinton: The Foundations of Deep Learning [Elevate](https://www.youtube.com/watch?v=zl99IZvW7rE)
 
 深入学习英雄: 吴恩达采访 Geoffrey Hinton [Preserve Knowledge](https://www.youtube.com/watch?v=-eyhCTvrEtE)
+
+This Canadian Genius Created Modern AI [Bloomberg Originals](https://www.youtube.com/watch?v=l9RWTMNnvi4)
+
+
 
 
 
