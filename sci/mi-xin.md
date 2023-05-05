@@ -84,15 +84,16 @@
 
 ## 国学
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                  |
-|                                                                                                                                  |
-| 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                             |
-| 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW) |
-| 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                     |
-| 国学分享 [u](https://www.youtube.com/@guoxue95588)                                                                                   |
-| 华人开放式课程MOOC [u](https://www.youtube.com/@mooc86)                                                                                 |
+|                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>国学是指中国传统文化和思想体系的学问。它主要包括中国古代文学、历史、哲学、道德、艺术、政治、经济、军事、医学等多个领域的知识和思想，是中国人民几千年来的精神财富和文化传统的重要组成部分。</p><p>国学的研究内容涵盖了中国文化的方方面面，其中包括了《诗经》、《论语》、《道德经》、《周易》、《春秋》、《史记》等经典著作的研究和理解。在中国历史上，国学曾经是学术界的主流学科之一，被视为一种重要的学问，而今天也依然是中国文化研究的重要领域之一。</p> |
+|                                                                                                                                                                                                                                       |
+| 向前一步吧 [u](https://www.youtube.com/channel/UCvTaVyvtJ9XB5P\_4d0mYv2A)                                                                                                                                                                  |
+| 是刘雨阳 抖音号： [Liu66sunny](https://www.douyin.com/user/MS4wLjABAAAAU08wGQ2lsP7aAUYUtuU8616md2RBhWiM69Ckw9tsvX9kAXcmlpwV54ub2kmcDZqW)                                                                                                      |
+| 乾坤国学文化 抖音号： [GX1234089](https://www.douyin.com/user/MS4wLjABAAAAgw23D8FyfaowCJWDtNfDO5cKJkVbYT6YG78mBicUNK8)                                                                                                                          |
+| 国学分享 [u](https://www.youtube.com/@guoxue95588)                                                                                                                                                                                        |
+| 华人开放式课程MOOC [u](https://www.youtube.com/@mooc86)                                                                                                                                                                                      |
+| 人生如戏 [u](https://www.youtube.com/@user-gv5ez2cw4i)                                                                                                                                                                                    |
 
 | 赵玉平老师                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |

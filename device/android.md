@@ -88,6 +88,8 @@
 | How To Create A Video Chat App With WebRTC [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)                                                                             |
 | Low-Code Tutorial – Build 3 Financial Apps (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=skq7E2xS1Bo)                                                                     |
 | Android Chat App With Ktor [Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSHLKOwFeFvA7XlAGXYa\_y0)                                                                  |
+| Lets Build Apps [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSiwYA-bonn4NhreMUpA8Jai5)                                                                                  |
+|                                                                                                                                                                                          |
 
 |                                                                                                                                                                                                                                                                                           |   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |

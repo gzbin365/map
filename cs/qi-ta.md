@@ -9,6 +9,14 @@
 | [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)                                                                      |
 | TIOBE编程社区指数（TIOBE programming community index）是一种衡量编程语言流行度的标准，由成立于2000年10月位于荷兰埃因霍温的TIOBE Software BV创建和维护。 该指数是根据网络搜索引擎对含有该语言名称的查询结果的数量计算出来的。 |
 
+## Mojo
+
+|                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| Mojo 🔥 — a new programming language for AI developers (first look) [Patrick Loeber](https://www.youtube.com/watch?v=-ogEkqeDEPg) |
+|                                                                                                                                   |
+|                                                                                                                                   |
+
 ## MongoDB
 
 | **MongoDB**                                                                                                 |
@@ -45,27 +53,31 @@
 
 ## Go
 
-| **Go**                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| **Go语言四十二章经(**[**书栈**](https://www.bookstack.cn/books/go42)**, )**                                                     |
-| **Go语言中文文档 (书栈, )**                                                                                                    |
-| Concurrency in Go([Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8))                                          |
-| 《Go编程基础》15集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoa6Fz6dtfTV0jFQwjQBdx)                 |
-| 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I)              |
-| 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)                      |
-| 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)                |
-| Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                                      |
-| Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                                           |
-| go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                                    |
-| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                     |
-| Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8)              |
-| Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac) |
-| Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                            |
-| Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                 |
-| 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                      |
-| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                   |
-| The One BIG Reason to Learn Google's Go Language [Gary Explains](https://www.youtube.com/watch?v=rQQcIGqp0OU)          |
-| Golang Informative [Golang Dojo](https://www.youtube.com/playlist?list=PLve39GJ2D71y5v3\_Arfpx8cKBcBn1VS91)            |
+| **Go**                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Go语言四十二章经(**[**书栈**](https://www.bookstack.cn/books/go42)**, )**                                                                     |
+| **Go语言中文文档 (书栈, )**                                                                                                                    |
+| Concurrency in Go([Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8))                                                          |
+| 《Go编程基础》15集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwoa6Fz6dtfTV0jFQwjQBdx)                                 |
+| 《Go Web基础》11集\_无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwR\_3GIpBqCXRM-pMOqbx6I)                              |
+| 《Go名库讲解》无闻讲师 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTzUeYgkT5pPfA9JoLrC99Ar)                                      |
+| 老男孩带你21周搞定Go语言(第5期) [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxxt45pmkVieLye61Zs3xx\_)                                |
+| Learn Go in 12 Minutes [Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)                                                      |
+| Concurrency in Go [Jake Wright](https://www.youtube.com/watch?v=LvgVSSpwND8)                                                           |
+| go面试题链接: https://pan.baidu.com/s/1dmgVcmPnMiAWYAQ0tN\_DNw 提取码: a5g3                                                                    |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                     |
+| Go and AWS - Code and Deploy a Serverless API [freeCodeCamp](https://www.youtube.com/watch?v=zHcef4eHOc8)                              |
+| Learn Go Programming by Building 11 Projects – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=jFfo23yIWac)                 |
+| Go语言初学入门教学 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtgEvWSCpEKL7thmutgQQVz)                                            |
+| Go 语言编程入门 [Creat Code Build](https://www.youtube.com/playlist?list=PLwY2GJhAPWRcJmj6k4XSkMm2TzlpzZaTU)                                 |
+| 老男孩教育 Go语言第一期 [Chocobo](https://www.youtube.com/playlist?list=PLr64HLNp2fCLCqG2MTo3QfTZY-gD8PHns)                                      |
+| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                                   |
+| The One BIG Reason to Learn Google's Go Language [Gary Explains](https://www.youtube.com/watch?v=rQQcIGqp0OU)                          |
+| Golang Informative [Golang Dojo](https://www.youtube.com/playlist?list=PLve39GJ2D71y5v3\_Arfpx8cKBcBn1VS91)                            |
+| Go4DataScience [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSiyuSkaDJxx1JK1kfpreDNDf)                                 |
+| Go/Golang Web Development - Iris Web Framework [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSizebElabidQeVaKeJuY6b4I) |
+|                                                                                                                                        |
+|                                                                                                                                        |
 
 ## C\#
 
@@ -183,15 +195,26 @@
 | Learn Minimal APIs in .NET 7 [freeCodeCamp](https://www.youtube.com/watch?v=lFo3Yy8Ro7w)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | .NET 7 Beginner Course 🚀 Web API, Entity Framework 7 & SQL Server [Patrick God](https://www.youtube.com/watch?v=9zJn3a7L1uE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Dot net 6/7 tutorials and projects [Ravindra Devrani](https://www.youtube.com/playlist?list=PLP8UhDwXI7f\_-5Swp8DlNa6wD15e1JYrU)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| .NET MAUI Course for Beginners – Create Cross-Platform Apps with C# [freeCodeCamp](https://www.youtube.com/watch?v=n3tA3Ku65\_8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Solidity
 
-|                                                                          |   |   |
-| ------------------------------------------------------------------------ | - | - |
-| Fred带你学Solidity [u](https://www.youtube.com/@fredsolidity4455/playlists) |   |   |
-|                                                                          |   |   |
-|                                                                          |   |   |
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| Fred带你学Solidity [u](https://www.youtube.com/@fredsolidity4455/playlists) |
+|                                                                          |
+|                                                                          |
+
+## Julia
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Julia是一种高性能、动态的编程语言，旨在提高科学计算、数据分析、机器学习等领域的编程效率和性能。Julia的设计灵感来自于许多编程语言，如Matlab、R、Python和C，它的语法简洁、易于阅读和编写，并且可以在不同的平台上运行。</p><p>Julia提供了许多高级的数据结构，例如数组、元组、字典和集合等，这些数据结构能够直接处理多维数组、矩阵和向量等。Julia还提供了一套强大的多线程支持，能够充分利用现代计算机中的多核处理器。</p><p>Julia还具备即时编译（Just-In-Time Compilation，JIT）的特性，它能够将代码编译为本地机器代码，从而在执行时获得更高的性能。Julia的编译器还支持类型推断和多分派，这使得它能够更加高效地执行泛型编程和函数式编程等风格的代码。</p><p>总之，Julia是一种适用于科学计算和数据分析等领域的高性能编程语言，它具有高效、灵活和易于编写的特性，并且能够充分利用多核处理器和现代计算机的计算能力。</p> |
+| JCharisTech [u](https://www.youtube.com/@JCharisTech/playlists)                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## HTTP
 
@@ -302,7 +325,9 @@
 | Freya Holmér [u](https://www.youtube.com/c/Acegikmo/playlists)                                                  | Game Dev Unlocked [u](https://www.youtube.com/c/GameDevUnlocked/videos) [v](https://www.youtube.com/watch?v=Y3Rs1z7it5M) |
 | Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 | Stephanie\_程序媛 [u](https://www.youtube.com/@stephanie\_3037/videos)                                             | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
-| Alexander Lee [u](https://www.youtube.com/watch?v=vxVqtMcXHCA) 2048                                             |                                                                                                                          |
+| Alexander Lee [u](https://www.youtube.com/watch?v=vxVqtMcXHCA) 2048                                             | Polygon Forest Podcast [u](https://www.youtube.com/@polygonforestpodcast5991)                                            |
+|                                                                                                                 |                                                                                                                          |
+|                                                                                                                 |                                                                                                                          |
 
 | CS50's Introduction to Game Development [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)                                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -478,34 +503,45 @@
 
 ## tmp
 
-| tmp                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Web & Mobile Analytics(**[**quora**](https://webmobileanalytics.quora.com)**, )**                                                                                                        |
-| Advanced Topics [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvvfORx\_\_OYrXM6pUK8aR8j0)                                                                             |
-| Theory of Computation and Automata - Shai Simonson \| ADUni [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0fgS4TGUA1FmJZaLN943DT)                                     |
-| Kotlin Course - Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)                                                                                         |
-| Kotlin Tutorial for Beginners: The Kotlin Programming Language Full 9-hour Kotlin Course [Donn Felker - Freelancing for Software Developers](https://www.youtube.com/watch?v=wuiT4T\_LJQo) |
+| tmp                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Web & Mobile Analytics(**[**quora**](https://webmobileanalytics.quora.com)**, )**                                                                    |
+| Advanced Topics [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvvfORx\_\_OYrXM6pUK8aR8j0)                                         |
+| Theory of Computation and Automata - Shai Simonson \| ADUni [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0fgS4TGUA1FmJZaLN943DT) |
+|                                                                                                                                                        |
+|                                                                                                                                                        |
+
+## Kotlin
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Kotlin是一种现代的、静态类型的编程语言，它被设计成与Java语言互操作性良好。它可以用于开发各种类型的应用程序，包括移动应用程序、Web应用程序、桌面应用程序和服务器端应用程序。</p><p>Kotlin的主要特点包括：</p><ol><li>简洁：Kotlin的语法简洁清晰，代码量比Java更少。</li><li>安全：Kotlin是一种静态类型的语言，能够在编译时捕获许多类型错误，从而提高代码的安全性和稳定性。</li><li>互操作性：Kotlin可以与Java互相调用，而且可以直接使用Java类库和工具。</li><li>可扩展性：Kotlin支持函数式编程和面向对象编程，提供了许多扩展函数和操作符，使得代码更加简洁易懂。</li><li>多平台支持：Kotlin支持使用相同的代码编写多个平台的应用程序，如Android、iOS和Web。</li></ol><p>总之，Kotlin是一种功能强大、易于学习和使用的编程语言，逐渐成为Android开发的主流语言。</p> |
+| Kotlin Course - Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)                                                                                                                                                                                                                                                                                                                                                                 |
+| Kotlin Tutorial for Beginners: The Kotlin Programming Language Full 9-hour Kotlin Course [Donn Felker - Freelancing for Software Developers](https://www.youtube.com/watch?v=wuiT4T\_LJQo)                                                                                                                                                                                                                                                                         |
 
 ## 源代码托管网站
 
 ### BitBucket
 
-|                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| First look at BitBucket Pipelines [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT-KJHqyY-79dpmIo9lrMcy) |
+|                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Bitbucket是一个基于Web的代码托管和协作平台，可以让团队轻松地共享和管理源代码、问题跟踪、文档和其他项目资料。它是由Atlassian开发的，旨在为团队提供一个安全的云端环境，以管理和协作开发过程。</p><p>Bitbucket支持Git和Mercurial版本控制系统，可以帮助开发人员在团队中协作开发和管理代码，同时提供高度可定制的工作流程、代码审查和自动化集成等功能。此外，Bitbucket还提供了一系列的API和插件，以便与其他工具集成，帮助团队更高效地开发软件。</p> |
+| First look at BitBucket Pipelines [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT-KJHqyY-79dpmIo9lrMcy)                                                                                                                             |
+|                                                                                                                                                                                                                                                            |
 
 ## 自动化测试
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| UFT自动化测试详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasTjw593FwThi3LhsKToPD)          |
-| UFT高级测试开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYijnj-ZymGB\_ilfrYjuOY4)          |
-| 性能测试脚本开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbS8p3I\_0LxlfyEzOpPpcx-)           |
-| 性能测试核心技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-4VOvk3LtpYhdYXuOVSEZ)            |
-| LR场景设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXreapksSPNd4mOSa3YSo)              |
-| LR指标分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha4s8dUtPuBY\_JIu7fw3SQo)             |
-| Error detection [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFWff2QjXCWuSfJDWcvE0Vm) |
-| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                    |
+|                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>UFT (Unified Functional Testing) 是一种自动化测试工具，旨在帮助软件开发人员和测试人员自动化执行软件应用程序的功能测试。 UFT 主要用于测试图形用户界面 (GUI) 和 API 层面的应用程序，并可以集成到不同的软件开发生命周期中。</p><p>UFT 自动化测试的主要目的是提高软件开发的质量和效率，减少测试时间和成本，并减少人工测试过程中可能发生的错误。它可以自动执行重复的测试任务，如回归测试，以确保新功能或修复的问题不会破坏现有的功能。此外，它还可以在整个软件开发过程中提供实时反馈和错误诊断，以便开发人员可以尽早修复问题并降低成本。</p> |
+| UFT自动化测试详解 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhasTjw593FwThi3LhsKToPD)                                                                                                                                                                                                            |
+| UFT高级测试开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYijnj-ZymGB\_ilfrYjuOY4)                                                                                                                                                                                                            |
+| 性能测试脚本开发 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbS8p3I\_0LxlfyEzOpPpcx-)                                                                                                                                                                                                             |
+| 性能测试核心技术 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZ-4VOvk3LtpYhdYXuOVSEZ)                                                                                                                                                                                                              |
+| LR场景设计 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXreapksSPNd4mOSa3YSo)                                                                                                                                                                                                                |
+| LR指标分析 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLha4s8dUtPuBY\_JIu7fw3SQo)                                                                                                                                                                                                               |
+| Error detection [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypFWff2QjXCWuSfJDWcvE0Vm)                                                                                                                                                                                                   |
+| 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                                                                                                                                                                                                      |
 
 ## 微信公众号
 
@@ -812,6 +848,9 @@
 | Skolo Online [u](https://www.youtube.com/@SkoloOnline/playlists)                                                                                                                                                                                                                                                                         |
 | GPT-4神助攻：秒筛AI精华推文，一键自动化让你成为AI行业领跑者！ \| [回到Axton](https://www.youtube.com/watch?v=uzVju482lqc)                                                                                                                                                                                                                                            |
 | Robotic Process Automation自动化 [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS71DPizcoDRliL2XHuSvBeK)                                                                                                                                                                                                                        |
+| Python Click Tutorial( Building Command Line Apps) [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSizF1shhf2rHi-aA1yjt7rtX)                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                          |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

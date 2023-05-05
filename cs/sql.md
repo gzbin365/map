@@ -162,6 +162,7 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 | \[Tutorialsplanet.NET] Udemy - Spark and Python for Big Data with PySpark                                                                                |
 | MIT 6.824 Distributed Systems (Spring 2020) [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39\_tb2fErI4-WkMbsvGQk9\_UB) |
 | Pyspark with Python [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)                                               |
+| PySpark Tutorials [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSiwgbw7tfVTQZD53SaoyhuGz)                                                |
 | 分布式系统的工程化开发方法2010 [Shuo Chen](https://www.youtube.com/playlist?list=PL6C2B76D35AD642D8)                                                                  |
 
 ### hive

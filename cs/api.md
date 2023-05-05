@@ -13,6 +13,7 @@
 | REST API和OpenAPI：不是一个问题 [IBM Technology](https://www.youtube.com/watch?v=pRS9LRBgjYg)                                                                                  |
 | 什么是API管理？ [IBM Technology](https://www.youtube.com/watch?v=fh3VaXLzH5Y)                                                                                                |
 | What is an API Gateway? [IBM Technology](https://www.youtube.com/watch?v=hWRRdICvMNs) [redhat](https://www.redhat.com/zh/topics/api/what-does-an-api-gateway-do) API网关 |
+| Building Web APIs [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSizhBOXTMJYrW4RF1EJeyku7)                                                              |
 
 |                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

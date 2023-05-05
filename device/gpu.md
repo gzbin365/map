@@ -46,15 +46,18 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ## **CUDA**
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| CUDA Explained - Why Deep Learning uses GPUs [**deeplizard**](https://www.youtube.com/watch?v=6stDhEA0wFQ)          |
-| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)     |
-| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo) |
-| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                           |
-| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)          |
-| Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)       |
-| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)   |
+|                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| CUDA Explained - Why Deep Learning uses GPUs [**deeplizard**](https://www.youtube.com/watch?v=6stDhEA0wFQ)                              |
+| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)                         |
+| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo)                     |
+| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                                               |
+| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)                              |
+| Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)                           |
+| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)                       |
+| Tensorflow, Pytorch and OpenCV Setup with CUDA [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhivR1J7ULJ1V8PsXUKoMLB) |
+|                                                                                                                                         |
+|                                                                                                                                         |
 
 ## 虚拟化vGPU
 

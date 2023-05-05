@@ -155,6 +155,11 @@ import cv2
 | OpenCV and Python [ibrahimokdadov](https://www.youtube.com/playlist?list=PL-cS6ZwDCr6rnUfSO2Wc5iR-UPKyMHCsn)                                                                                                                                    |
 | OpenCV Python Tutorials [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn)                                                                                                                               |
 | OpenCV [Up Degree](https://www.youtube.com/playlist?list=PLwyHr2n-aWLAiUSg9SK9sZhNCYuOjGejN)                                                                                                                                                    |
+| Python Open CV [World of Python](https://www.youtube.com/playlist?list=PL455mfbkn3PmQFrkEibCDKLHrAVQy48gK)                                                                                                                                      |
+| OpenCV and Python Projects [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yi4OVpg4tR7yGBGgJjyfi3y)                                                                                                                             |
+|                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                 |
 
 
 
@@ -420,7 +425,7 @@ import cv2
 | DINOv2: State-of-the-art computer vision models with self-supervised learning [ai.facebook](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)                                                                                  |
 | facebookresearch/[dino](https://github.com/facebookresearch/dino)                                                                                                                                                                                            |
 | facebookresearch/[dinov2](https://github.com/facebookresearch/dinov2)   DINO2 API documentation [s](https://d3d9.github.io/DINO2/DINO2/) [v](https://www.youtube.com/watch?v=vl9rurUg0ug)4:00                                                                |
-|                                                                                                                                                                                                                                                              |
+| DINOv2 from Meta AI: Data pipeline, model training and results explained [AI Bites](https://www.youtube.com/watch?v=RZEkdOc3szU)                                                                                                                             |
 |                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                              |
 
@@ -461,7 +466,8 @@ import cv2
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                   |
 | Talk \| 阿里巴巴达摩院算法工程师许贤哲：DAMO-YOLO：兼顾速度与精度的高效目标检测框架 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=v3E7ZW0b9xg)                                                                                                                                                                        |
 | Building a Cat Detector with LandingLens [Landing AI](https://www.youtube.com/watch?v=OrM9uxXoXbM)                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                          |
+| Object Detection (Yolov8, YOLOv7, YOLOv3, YOLOv4 , TensorFlow) [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yiahlgN1BDv\_8dAJFeCIR1u)                                                                                                                                 |
+| Detectron2 Instance Segmentation and Object Detection [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08ygkbShjPzCQQy\_TkSDC-d1T)                                                                                                                                          |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
