@@ -1226,7 +1226,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | OpenAI's CLIP for Zero Shot Image Classification [James Briggs](https://www.youtube.com/watch?v=98POYg2HZqQ)                                                |
 | Fast Zero Shot Object Detection with OpenAI CLIP [James Briggs](https://www.youtube.com/watch?v=i3OYlaoj-BM)                                                |
 | Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022 [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
-|                                                                                                                                                             |
+| Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning [The Global NLP Lab](https://www.youtube.com/watch?v=KLv85mcYrjU)   |
 |                                                                                                                                                             |
 
 ### 注意力

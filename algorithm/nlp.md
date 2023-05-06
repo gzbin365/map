@@ -503,20 +503,22 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 机器翻译
 
-|                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA)                              |
-| How to Transcribe Multiple Languages \| Spanish, German, Japanese and more! [AssemblyAI](https://www.youtube.com/watch?v=DwxmKKD8c3s) |
-| 亲爱的翻译官 抖音号：[dyx234t8wnfi](https://www.douyin.com/user/MS4wLjABAAAA5ue9TxnJBVb3yjl6VAmTwZMyXw0gw1BqSqeNmXcCwu7cRPX1P3pb2rE\_EqWjflos)  |
-| 田哥懂翻译 抖音号：[tianhongChina](https://www.douyin.com/user/MS4wLjABAAAARHHa6w4dCeLMyf3G208cVbpFx6pe1cr-SVCCyKogauzvoDp3SkPq0HhX3N7BYmt5)   |
-| 截图翻译工具 [s](https://z197.com/blog/recommend-practical-screenshot-translation-tool.html)                                                |
-| 只知道 ChatGPT？AI 聊天机器人与双语电子书对决：两大神器助你提高聊天效率和对比输出结果！AI 工具对比系列 \| [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ)                  |
-| \[ChatGPT] 如何使用ChatGPT 快速翻譯 PDF 文件? [大數軟體有限公司](https://www.youtube.com/watch?v=SjFNh18BB7M)                                           |
-| 用 AI 揭开地球上最大动物的秘密语言\| ChatGPT4.0 打破语言障碍：翻译革命 [barry看世界](https://www.youtube.com/watch?v=BxRKIZn59k8)                                  |
-| Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                |
-| 分析市场上多种AI翻译工具及其应用场景 [Assisi是水豚座](https://www.youtube.com/watch?v=KOENARAV9hc)                                                         |
-| DeepL 翻译文件(PDF)                                                                                                                       |
-| 知云文献翻译 软件                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Talk \| 字节跳动AI-Lab算法工程师孙泽维：重新审视篇章级神经机器翻译 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=k\_1glRjCboA)                                                                                                                                                                                                          |
+| How to Transcribe Multiple Languages \| Spanish, German, Japanese and more! [AssemblyAI](https://www.youtube.com/watch?v=DwxmKKD8c3s)                                                                                                                                                                             |
+| 亲爱的翻译官 抖音号：[dyx234t8wnfi](https://www.douyin.com/user/MS4wLjABAAAA5ue9TxnJBVb3yjl6VAmTwZMyXw0gw1BqSqeNmXcCwu7cRPX1P3pb2rE\_EqWjflos)                                                                                                                                                                              |
+| 田哥懂翻译 抖音号：[tianhongChina](https://www.douyin.com/user/MS4wLjABAAAARHHa6w4dCeLMyf3G208cVbpFx6pe1cr-SVCCyKogauzvoDp3SkPq0HhX3N7BYmt5)                                                                                                                                                                               |
+| 截图翻译工具 [s](https://z197.com/blog/recommend-practical-screenshot-translation-tool.html)                                                                                                                                                                                                                            |
+| 只知道 ChatGPT？AI 聊天机器人与双语电子书对决：两大神器助你提高聊天效率和对比输出结果！AI 工具对比系列 \| [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ)                                                                                                                                                                                              |
+| \[ChatGPT] 如何使用ChatGPT 快速翻譯 PDF 文件? [大數軟體有限公司](https://www.youtube.com/watch?v=SjFNh18BB7M)                                                                                                                                                                                                                       |
+| 用 AI 揭开地球上最大动物的秘密语言\| ChatGPT4.0 打破语言障碍：翻译革命 [barry看世界](https://www.youtube.com/watch?v=BxRKIZn59k8)                                                                                                                                                                                                              |
+| Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                                            |
+| 分析市场上多种AI翻译工具及其应用场景 [Assisi是水豚座](https://www.youtube.com/watch?v=KOENARAV9hc)                                                                                                                                                                                                                                     |
+| DeepL 翻译文件(PDF)                                                                                                                                                                                                                                                                                                   |
+| 知云文献翻译 软件                                                                                                                                                                                                                                                                                                         |
+| immersive-translate/[immersive-translate/](https://github.com/immersive-translate/immersive-translate/)   Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 [s](https://immersive-translate.owenyoung.com/) immersive-translate，沉浸式翻译，支持edge和chrome浏览器 [v](https://www.youtube.com/watch?v=DOgjiV75VLM) |
+|                                                                                                                                                                                                                                                                                                                   |
 
 ### Attention
 
@@ -646,7 +648,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【好玩儿的Docker项目】任何地方无障碍快速访问！ChatGPT Next Web——一键免费部署你的私人 ChatGPT 网页应用 [我不是咕咕鸽](https://www.youtube.com/watch?v=C97PAwJ9fkA)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <p>Sparks of AGI: early experiments with GPT-4 <a href="https://www.youtube.com/watch?v=qbIk7-JPB2c">Sebastien Bubeck</a></p><p>Sébastien Bubeck是一位数学家和计算机科学家，他是法国国家科学研究中心(CNRS)和Microsoft Research纽约的研究员。他的研究涵盖了优化、机器学习、随机算法和在线学习等领域。他在优化理论和在线学习方面的研究成果被广泛应用于机器学习、自然语言处理、计算机视觉等领域。此外，他也是一位优秀的科普作家，他的著作包括《Convex Optimization: Algorithms and Complexity》等。ChatGPT 大數軟體有限公司</p>                                                                                                                                                                                                     |
 | 浅析ChatGPT \| 车万翔 [最佳拍档](https://www.youtube.com/watch?v=865G84z1SxE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Fine tuning gpt2 \| Transformers huggingface \| conversational chatbot \| GPT2LMHeadModel [ProgrammingHut](https://www.youtube.com/watch?v=elUCn\_TFdQc) colab                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -655,6 +657,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ChatGPT應用社群 [u](https://www.youtube.com/@ChatGPT-ob3wp)   Fireside with ChatGPT [u](https://www.youtube.com/@Firesidewithchatgpt/videos)   Dave Ebbelaar [u](https://www.youtube.com/@daveebbelaar/playlists)                                                                                                              |
+| 小工蚁新零售创始人 抖音号：[exceed.mayi888](https://www.douyin.com/user/MS4wLjABAAAAkgP4zHkV11fxGvlSriDYFD7PJcG9gBxmvXQqAcp5vsA)                                                                                                                                                                                                        |
 | Create Custom ChatGPT with Your Own Data Redis Search OpenAI Cookbook Chatbot-Kickstarter [Skolo Online](https://www.youtube.com/watch?v=fEHHK6-ix3c)                                                                                                                                                                      |
 | ChatGPT for YOUR OWN PDF files with LangChain [Prompt Engineering](https://www.youtube.com/watch?v=TLf90ipMzfE)                                                                                                                                                                                                            |
 | ChatGPT Course – Use The OpenAI API to Code 5 Projects [freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)                                                                                                                                                                                                         |
@@ -662,13 +665,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Generative AI and LLMs [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X\_KzRlsqyM2Cs7Dxp9)                                                                                                                                                                                                           |
 | Connor Leahy on AGI and Cognitive Emulation [Future of Life Institute](https://www.youtube.com/watch?v=ps\_CCGvgLS8)                                                                                                                                                                                                       |
 | The Inside Story of ChatGPT’s Astonishing Potential \| Greg Brockman \| [TED](https://www.youtube.com/watch?v=C\_78DM8fG6E)                                                                                                                                                                                                |
-| 309 - Training your own Chatbot using GPT​ [DigitalSreeni](https://www.youtube.com/watch?v=DxygPxcfW\_I)                                                                                                                                                                                                                   |
+| 309 - Training your own Chatbot using GPT​ [DigitalSreeni](https://www.youtube.com/watch?v=DxygPxcfW\_I) colab                                                                                                                                                                                                             |
 | 25 ChatGPT AIs Play A Game - So What Happened? [Two Minute Papers](https://www.youtube.com/watch?v=NfGcWGaO1E4)                                                                                                                                                                                                            |
 | 【ChatGPT】ChatGPT基本用法和个人使用心得 \| 孟禹 \| DataWhale [最佳拍档](https://www.youtube.com/watch?v=fs\_iACgHzwo)                                                                                                                                                                                                                        |
 | <p>本地私有化部署ChatGPT自己的AI小机器人 小白也能看懂的教程 <a href="https://www.youtube.com/watch?v=Hi9HES_LyQ8">猫猫和丢丢の欢乐驿站</a></p><p>869413421/<a href="https://github.com/869413421/chatgpt-web">chatgpt-web</a>   基于ChatGPT3.5 API实现的私有化web程序</p>                                                                                             |
 | Ilya Sutskever: The Mastermind Behind GPT-4 and the Future of AI [Eye on AI](https://www.youtube.com/watch?v=SjhIlw3Iffs)                                                                                                                                                                                                  |
 | GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk [CS50](https://www.youtube.com/watch?v=vw-KWfKwvTQ)                                                                                                                                                                                            |
 | <p>Open Pretrained Transformers - Susan Zhang | Stanford MLSys #77 <a href="https://www.youtube.com/watch?v=p9IxoSkvZ-M">Stanford MLSys Seminars</a></p><p>AI Safety, RLHF, and Self-Supervision - Jared Kaplan | Stanford MLSys #79 <a href="https://www.youtube.com/watch?v=fqC3D-zNJUM">Stanford MLSys Seminars</a></p> |
+| <p>Google "We Have No Moat, And Neither Does OpenAI" <a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">semianalysis</a></p><p>谷歌没有护城河，OpenAI也没有 <a href="https://www.youtube.com/watch?v=nFjijMTr9No">Jeff科技视角</a></p>                                                                           |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -769,11 +773,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### MOSS
 
-|                                                          |
-| -------------------------------------------------------- |
-| OpenLMLab/[MOSS](https://github.com/OpenLMLab/MOSS)   复旦 |
-|                                                          |
-|                                                          |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| OpenLMLab/[MOSS](https://github.com/OpenLMLab/MOSS)   复旦                                                         |
+| 第18集 \| 复旦开源MOSS预训练模型120亿参数，可商用#chatgpt #小工蚁 #moss [小工蚁新零售创始人](https://www.douyin.com/video/7226346669892226361) |
+|                                                                                                                  |
 
 ### Claude
 
@@ -827,18 +831,25 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Meta LLaMA 开源
 
-|                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 已开源                                                                                                                                                    |
-| 人人都能訓練自己的 ChatGPT？史丹佛大學開源指令微調 Meta LLaMA-7B 方法：Alpaca 羊駝 [資料探員 Data Agent](https://www.youtube.com/watch?v=bTzM45kaK44) colab                          |
-| A-baoYang/[alpaca-7b-chinese](https://github.com/A-baoYang/alpaca-7b-chinese)                                                                          |
-| <p>Stanford Alpaca <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">s</a></p><p>Alpaca: A Strong, Replicable Instruction-Following Model</p> |
-|                                                                                                                                                        |
+|                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 已开源                                                                                                                                                                                                    |
+| Chat with Open Large Language Models [s](https://chat.lmsys.org/)                                                                                                                                      |
+| 人人都能訓練自己的 ChatGPT？史丹佛大學開源指令微調 Meta LLaMA-7B 方法：Alpaca 羊駝 [資料探員 Data Agent](https://www.youtube.com/watch?v=bTzM45kaK44) colab                                                                          |
+| A-baoYang/[alpaca-7b-chinese](https://github.com/A-baoYang/alpaca-7b-chinese)                                                                                                                          |
+| <p>Stanford Alpaca <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">s</a></p><p>Alpaca: A Strong, Replicable Instruction-Following Model</p>                                                 |
+| LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention [arxiv](https://arxiv.org/abs/2303.16199)                                                                             |
+| csuhan/LLaMA-Adapter   [huggingface](https://huggingface.co/spaces/csuhan/LLaMA-Adapter)                                                                                                               |
+| LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model [arxiv](https://arxiv.org/abs/2304.15010)                                                                                               |
+| ZrrSkywalker/[LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)   Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters                                               |
+| Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters [lightning.ai](https://lightning.ai/pages/community/article/understanding-llama-adapters/) |
+|                                                                                                                                                                                                        |
 
 ### Vicuna-13B 开源
 
 |                                                                                     |
 | ----------------------------------------------------------------------------------- |
+| 开源聊天机器人, 通过微调LLaMA, 训练成本300美元                                                       |
 | 10个问题感受Vicuna-13B(小羊驼)超强的AI写作能力 [最佳拍档](https://www.youtube.com/watch?v=DOgjiV75VLM) |
 | lm-sys/[FastChat](https://github.com/lm-sys/FastChat)                               |
 |                                                                                     |
@@ -881,6 +892,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                       |
 |                                                                                                                       |
 
+### adeptAI
+
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| adeptAI 你的贾维斯，Adept AI 是Adept 团队出品的一款基于自然语言处理和人工智能技术的产品，可以实现通过语音或文字输入来完成各种操作和任务，而无需使用传统的应用程序或界面。 [最佳拍档](https://www.youtube.com/watch?v=1A3ETR0zFJY) |
+|                                                                                                                                                      |
+|                                                                                                                                                      |
+
 ### 语言模型, Language Models
 
 |                                                                                                                                                                                                                   |
@@ -901,6 +920,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Seminarreihe Deep Learning und Machine Learning: Prof. Dr. Goran Glavaš zu ChatGPT und anderen LLMs [Fraunhofer-Institut für Techno- und Wirtschaftsmathematik ITWM](https://www.youtube.com/watch?v=ffKSXhQLFCk) |
 | MLNLP-World/[Awesome-LLM](https://github.com/MLNLP-World/Awesome-LLM)                                                                                                                                             |
 | MARI Grand Seminar - Large Language Models and Low Resource Languages [Microsoft Research](https://www.youtube.com/watch?v=X7c0T7uwtkM)                                                                           |
+| Language models [The Global NLP Lab](https://www.youtube.com/playlist?list=PL7pTFCAS0zj4rYRTAhZTkQz6mUfT9T6GP)                                                                                                    |
 |                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                   |
 

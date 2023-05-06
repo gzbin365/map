@@ -468,6 +468,7 @@ import cv2
 | Building a Cat Detector with LandingLens [Landing AI](https://www.youtube.com/watch?v=OrM9uxXoXbM)                                                                                                                                                                                       |
 | Object Detection (Yolov8, YOLOv7, YOLOv3, YOLOv4 , TensorFlow) [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yiahlgN1BDv\_8dAJFeCIR1u)                                                                                                                                 |
 | Detectron2 Instance Segmentation and Object Detection [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08ygkbShjPzCQQy\_TkSDC-d1T)                                                                                                                                          |
+| Realtime Object Detection Android App \| Kotlin \| Camera2 api \| tflite [ProgrammingHut](https://www.youtube.com/watch?v=zs43IrWTzB0)                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                          |
 
 #### 2D目标检测
