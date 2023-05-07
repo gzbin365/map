@@ -98,11 +98,11 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ## 插画
 
-|                                                                                                                                  |   |
-| -------------------------------------------------------------------------------------------------------------------------------- | - |
-| 十无的画 抖音号： [Shiwu77\_](https://www.douyin.com/user/MS4wLjABAAAA63M3fmDoT9\_WUt-29-8h7XHRQPXidUIz46u57St1FiUAN9y0aZymIqruaC8luXiS) |   |
-|                                                                                                                                  |   |
-|                                                                                                                                  |   |
+|                                                                                                                                  |                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 十无的画 抖音号： [Shiwu77\_](https://www.douyin.com/user/MS4wLjABAAAA63M3fmDoT9\_WUt-29-8h7XHRQPXidUIz46u57St1FiUAN9y0aZymIqruaC8luXiS) | Brad Colbow [u](https://www.youtube.com/@thebradcolbow) |
+|                                                                                                                                  |                                                         |
+|                                                                                                                                  |                                                         |
 
 ## 调色 配色
 
@@ -192,13 +192,18 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 
 </details>
 
-|                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------- |
-| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE)                   |
-| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                               |
-| Photoshop CS6 平面設計基礎教學 [Miss SWEET](https://www.youtube.com/playlist?list=PLY0r2Sr\_mOaqUNncMpGq9mgoweGT-Mmnq) |
-| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                             |
-| Illustrator 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPn4iGPXYj8xhbo0wJ3IE3sl)       |
+|                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| adobe2022全家桶里都有啥？3分钟弄清adobe的软件功能（附绿色安装包） [大海资源](https://www.youtube.com/watch?v=Gk8ZL0QlGRE)                                |
+| PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                            |
+| Photoshop CS6 平面設計基礎教學 [Miss SWEET](https://www.youtube.com/playlist?list=PLY0r2Sr\_mOaqUNncMpGq9mgoweGT-Mmnq)              |
+| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)                                                                          |
+| Illustrator 基礎教學 PAPAYA [電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPn4iGPXYj8xhbo0wJ3IE3sl)                    |
+| Adobe Illustrator for Beginners - Sketch to Vector Tutorial [Brad Colbow](https://www.youtube.com/watch?v=HeLb0dy81Lc)      |
+| Adobe Illustrator Tutorials [Dom Designs](https://www.youtube.com/playlist?list=PLDawbGZUjmyF5ejW\_Y\_CtWVwXPkNSBz21)       |
+| Adobe Illustrator Tutorials [Andy Tells Things](https://www.youtube.com/playlist?list=PLl8IaUbuW2VsECwJ\_\_kE0LGVLg947KvQ2) |
+| Learn Adobe Illustrator [Envato Tuts+](https://www.youtube.com/playlist?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB)            |
+|                                                                                                                             |
 
 ## 3D 建模
 
