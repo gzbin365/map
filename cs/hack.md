@@ -44,6 +44,7 @@
 | Kali Linux Tutorials [Advanced Coding](https://www.youtube.com/playlist?list=PLpWoOAg0w29zlvk4JPDYpKaijLw6fnGof)                                                                          |
 | How To Install Kali Linux On Android Device NO ROOT Easily, Kali Linux On Android [Haxoid](https://www.youtube.com/watch?v=1YNRA0S1pZw\&list=PLe3KcwnEQOZeE3QzRBHYIgFEAm0o4eugp\&index=5) |
 | Kali 安全技術 [HKCTO](https://www.youtube.com/playlist?list=PLmk2A5FdzV3PL3Vymf\_WGRyNgrZyDg4UQ) Kali 滲透教程                                                                                    |
+| 2021年Kali渗透教程/网络安全/kali/Linux/黑客/web安全/信息安全/白帽黑客 [GBVM](https://www.youtube.com/playlist?list=PLC6U1nhX05jFLDC\_yS17f9AXcz86DvYdn)                                                        |
 | Ethical hacking: Getting started guide [David Bombal](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPqmsoVb0STYzw4IaTe1fxn)                                                           |
 | ethical hacking sinhala \| cybersecurity sinhala [Malinda Sir](https://www.youtube.com/playlist?list=PLO5ZaVAr6mVyI\_bDqHK\_U6emnuBvOY1bW)                                                |
 | Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                                                    |
@@ -65,6 +66,9 @@
 | Game Hacking 200 Series - Game Hacking Shenanigans [Guided Hacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFKVpM1mJoz2yBMVMjl\_f5F)                                            |
 | 【中国农业大学】信息安全概论 吕春利（7讲） [Mr.GoodWill](https://www.youtube.com/watch?v=7v33bnVbluY)   安全运维操作实例                                                                                              |
 | ChatGPT For Cybersecurity [HackerSploit](https://www.youtube.com/watch?v=6PrC4z4tPB0)                                                                                                     |
+| 能让你合法学习黑客技术的网站 [安全](https://www.youtube.com/watch?v=VE4aJlRshv8)                                                                                                                          |
+|                                                                                                                                                                                           |
+|                                                                                                                                                                                           |
 
 
 

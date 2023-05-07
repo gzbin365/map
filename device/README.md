@@ -838,6 +838,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 10盘 asustor [v](https://www.youtube.com/watch?v=er6O-0vPA9s)                                                                                                                                                                                                    |
 | 机械换成固态: 没有噪音                                                                                                                                                                                                                                                    |
 | NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                    |
+| 玩转NAS（网络存储） [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrWVBPUYA9\_UR33f7D5\_Fxs)                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                 |
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -896,6 +898,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) | 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                      | A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf) |
 | 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                                                         |
 | shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                      |                                                                                                                         |
+|                                                                                                                               |                                                                                                      | 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                    |
 
 ## DAS
 
@@ -929,7 +932,7 @@ direct-attached storage
 | 内存卡坏了竟然也能恢复里面的照片 [芯片大师](https://www.douyin.com/video/7146170290400251149)                                          |
 | 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)   |
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
-| 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)                                                              |
+| 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)   云盾数据恢复中心 [u](https://www.youtube.com/@user-yg8ti8ym1y)     |
 
 ## 宽带 专线
 
@@ -975,7 +978,7 @@ direct-attached storage
 | 2022年软路由安装OPENWRT系统（保姆级别教程）支持2.5g网卡【#阿雷科技】                                                                                                                                                                                                                                                       |
 | 2023今年买啥软路由？多网口迷你电脑新年选购辅助指南！                                                                                                                                                                                                                                                                     |
 | 群晖&软路由 [番茄科技](https://www.youtube.com/playlist?list=PLIKcGrK2tIrOlf0Q99HUsasrg4EdaK16o)                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                  |
+| 玩转OpenWRT软路由 [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrtIZcnfqTCQpiDcFyNd0W7)                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                  |
 
 ## Merlin

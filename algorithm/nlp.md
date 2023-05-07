@@ -13,12 +13,13 @@ description: 自然语言处理
 
 ## 平台
 
-|                                                                |                                                                               |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云** | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区**      |
-| [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                      | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**              |
-| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP) | 成长地图\_自CS224W然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html) |
-| 自然语言处理 [阿里云](https://help.aliyun.com/product/60058.html)       | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)               |
+|                                                                                  |                                                                               |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [**自然语言处理 NLP**](https://cloud.tencent.com/product/nlp)**腾讯云**                   | [**自然语言处理NLP-腾讯云**](https://cloud.tencent.com/developer/tag/10467)**社区**      |
+| [**我爱自然语言处理52nlp**](https://www.52nlp.cn)                                        | [**文心公有云开发平台**](https://wenxin.baidu.com/wenxin/cloud)**(百度大脑)**              |
+| 览群智公司elensdata[智语eNLP](https://www.elensdata.com/Product/eNLP)                   | 成长地图\_自CS224W然语言处理 NLP\_[华为云](https://support.huaweicloud.com/nlp/index.html) |
+| 自然语言处理 [阿里云](https://help.aliyun.com/product/60058.html)                         | PaddleNLP专区 [aistudio](https://aistudio.baidu.com/aistudio/nlp)               |
+| [Butterfly Effect](https://bbs.hankcs.com/) - Natural Language Processing, HanLP |                                                                               |
 
 ## up
 
@@ -673,6 +674,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk [CS50](https://www.youtube.com/watch?v=vw-KWfKwvTQ)                                                                                                                                                                                            |
 | <p>Open Pretrained Transformers - Susan Zhang | Stanford MLSys #77 <a href="https://www.youtube.com/watch?v=p9IxoSkvZ-M">Stanford MLSys Seminars</a></p><p>AI Safety, RLHF, and Self-Supervision - Jared Kaplan | Stanford MLSys #79 <a href="https://www.youtube.com/watch?v=fqC3D-zNJUM">Stanford MLSys Seminars</a></p> |
 | <p>Google "We Have No Moat, And Neither Does OpenAI" <a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">semianalysis</a></p><p>谷歌没有护城河，OpenAI也没有 <a href="https://www.youtube.com/watch?v=nFjijMTr9No">Jeff科技视角</a></p>                                                                           |
+| 用ChatGPT-Next-Web快速搭建自己的聊天机器人 \| 基于 OpenAI API 和 免费Vecerl网站服务 [俗鉴君](https://www.youtube.com/watch?v=tyiuJaNLtas)                                                                                                                                                                                                           |
+| ChatGPT [科技小飞哥](https://www.youtube.com/playlist?list=PLtJhOKcDOVUSvWrg2a2E4hZX5mZEXirpe)                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -709,6 +713,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Build Your Own Auto-GPT Apps with LangChain (Python Tutorial) [Dave Ebbelaar](https://www.youtube.com/watch?v=NYSWn1ipbgg)                                                                                                                                                                  |
 | LangChain Chains: Use ChatGPT to Build Conversational Agents, Summaries and Q\&A on Text With LLMs [Venelin Valkov](https://www.youtube.com/watch?v=h1tJZQPcimM)                                                                                                                            |
 | Langchain + Flask 构建AI后端API代码开源！Langchain的天花板在哪？基于langchain产品的瓶颈与3大机遇！ [数字黑魔法](https://www.youtube.com/watch?v=ziWQV2ZsVqI)   git                                                                                                                                                           |
+| Langchain GUI App \| Create a ChatGPT For Your PDF in Python [Alejandro AO - Software & Ai](https://www.youtube.com/watch?v=wUAUdEw5oxM)                                                                                                                                                    |
+| LangChain Explained in 13 Minutes \| QuickStart Tutorial for Beginners [Rabbitmetrics](https://www.youtube.com/watch?v=aywZrzNaKjs)                                                                                                                                                         |
+| LangChain How to and guides [Sam Witteveen](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                                                             |
 
@@ -742,6 +749,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | HuggingGPT又名JARVIS（贾维斯)，由微软与浙江大学完成，10分钟带你了解HuggingGPT是如何工作的。[最佳拍档](https://www.youtube.com/watch?v=TLqOfceh9Kc)                                                                                                                          |
 | Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications [Yohei Nakajima](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/) |
 | 开源多模态模型MiniGPT-4发布 [最佳拍档](https://www.youtube.com/watch?v=-2OSLGL48Os)                                                                                                                                                                   |
+| 【人工智能】全网独家首发 \| 目前最完整MiniGPT-4本地安装部署中文教程 + 不完全避坑指南 \| 开源版GPT-4 \| 多模态图文识别和问答 [最佳拍档](https://www.youtube.com/watch?v=cJ\_50TPJLBU)   [doc](https://docs.google.com/document/d/1h137o0edOp-PxCtd\_kOJAxdycgdfRsK78ocqR7vuHM4/edit)         |
 | 15分钟Auto-GPT保姆级安装教程 \| 如何用Docker在MacOS下安装AutoGPT [最佳拍档](https://www.youtube.com/watch?v=Oke225G7\_4s)                                                                                                                                    |
 | AutoGPT：GitHub 9.3万+标星 [零度解说](https://www.youtube.com/watch?v=mM1dnA4eLLM)                                                                                                                                                               |
 | AutoGPT搭建与中文版修改 (English Subtitle) [D H](https://www.youtube.com/watch?v=L4VHcyu7EzE) Hossie                                                                                                                                             |
@@ -777,6 +785,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ---------------------------------------------------------------------------------------------------------------- |
 | OpenLMLab/[MOSS](https://github.com/OpenLMLab/MOSS)   复旦                                                         |
 | 第18集 \| 复旦开源MOSS预训练模型120亿参数，可商用#chatgpt #小工蚁 #moss [小工蚁新零售创始人](https://www.douyin.com/video/7226346669892226361) |
+| 【人工智能】国内首个搭载插件系统的开源对话模型MOSS \| 复旦大学 \| 主要设计者和开发者孙天祥开放麦分享 [最佳拍档](https://www.youtube.com/watch?v=Fshbm8xAb5M)     |
 |                                                                                                                  |
 
 ### Claude
