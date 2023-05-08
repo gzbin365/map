@@ -298,6 +298,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | How To Create Chatbox With HTML CSS And Javascript [Fajar Std](https://www.youtube.com/watch?v=vZnBFZNozlc\&list=PL81ZyHpd1P80boagzd6FSjpYhZgztBEdc\&index=14)                                                                                                                                 |
 | [#pythonchatbot](https://www.youtube.com/hashtag/pythonchatbot)   [#chatbot](https://www.youtube.com/hashtag/chatbot) github /topics/[chatbot](https://github.com/topics/chatbot)  /topics/[bot](https://github.com/topics/bot) /topics/[telegram-bot](https://github.com/topics/telegram-bot) |
 | youtube search\_query=如[何打造你自己的聊天机器人](https://www.youtube.com/results?search\_query=%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)                                                                                     |
+| \[万能docker]自建最好的开源聊天服务器 [张大七](https://www.youtube.com/watch?v=l7Fp-inLS8I)                                                                                                                                                                                                                     |
 | Build Your Own Chatbot Using Python [Computer Science](https://www.youtube.com/watch?v=FFT4p6me2g0) using NLTK                                                                                                                                                                                 |
 | Build A Smart AI Chat Bot Using Python & Machine Learning [Computer Science](https://www.youtube.com/watch?v=9KZwRBg4-P0)   [list](https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv)                                                                                   |
 | Build A Simple Chat Bot GUI Using Python [Computer Science](https://www.youtube.com/watch?v=j56RiHtqHYs)                                                                                                                                                                                       |
@@ -676,7 +677,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | <p>Google "We Have No Moat, And Neither Does OpenAI" <a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">semianalysis</a></p><p>谷歌没有护城河，OpenAI也没有 <a href="https://www.youtube.com/watch?v=nFjijMTr9No">Jeff科技视角</a></p>                                                                           |
 | 用ChatGPT-Next-Web快速搭建自己的聊天机器人 \| 基于 OpenAI API 和 免费Vecerl网站服务 [俗鉴君](https://www.youtube.com/watch?v=tyiuJaNLtas)                                                                                                                                                                                                           |
 | ChatGPT [科技小飞哥](https://www.youtube.com/playlist?list=PLtJhOKcDOVUSvWrg2a2E4hZX5mZEXirpe)                                                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                                                            |
+| ChatGPT API in Python \| API Key & Basic Prompts [Max Teaches Tech](https://www.youtube.com/watch?v=ihFbXeq15SY)                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -726,6 +727,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | OpenAI Embedding向量数据存储                                                                                                                                        |
 | Pinecone [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoogxcEfpAzbh2cZBVJJ26Brx)                                                                  |
 | 【人工智能】爆肝万字介绍向量数据库和Pinecone \| 向量搜索的演化过程 \| LLM是人类的大脑，向量数据库就是海马体 \| Pinecone的发展历程 \| Pinecone直接和潜在竞争对手有哪些 [最佳拍档](https://www.youtube.com/watch?v=u03AZlmZF\_8) |
+| Vector Databases simply explained! (Embeddings & Indexes) [AssemblyAI](https://www.youtube.com/watch?v=dN0lsF2cvm4)                                           |
+|                                                                                                                                                               |
+|                                                                                                                                                               |
 
 ### Bard
 
@@ -830,13 +834,13 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### OpenAssistant
 
-|                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- |
-| OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0)                                            |
-| ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
-| OPENASSISTANT TAKES ON CHATGPT! [Machine Learning Street Talk](https://www.youtube.com/watch?v=TFa539R09EQ)           |
-|                                                                                                                       |
-|                                                                                                                       |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| OpenAssistant发布视频中文字幕版 [最佳拍档](https://www.youtube.com/watch?v=Hp6M9MDfdS0)                                                   |
+| ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E)        |
+| OPENASSISTANT TAKES ON CHATGPT! [Machine Learning Street Talk](https://www.youtube.com/watch?v=TFa539R09EQ)                  |
+| Open Assistant Inference Backend Development (Hands-On Coding) [Yannic Kilcher](https://www.youtube.com/watch?v=6OozhhI6U4g) |
+|                                                                                                                              |
 
 ### Meta LLaMA 开源
 

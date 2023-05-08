@@ -640,7 +640,7 @@ System on Chip, 系统级芯片
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
 | 继CPU、GPU之后，DPU也要成为主力芯片了吗 [差评君](https://www.douyin.com/video/7032934789917297956) 处理数据 |
-|                                                                                       |
+| CPU, GPU…..DPU? [NetworkChuck](https://www.youtube.com/watch?v=pQrM5L6C-FQ)           |
 |                                                                                       |
 
 ## 蓝牙
@@ -886,6 +886,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 普通家用电脑可以搭建nas吗？[zh](https://www.zhihu.com/question/510464497)                                                                                                                                                 |
 | 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                                                                                                                 |
 | NAS相關內容分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFa3C4evyjHVcYCim3kluKj)                                                                                                                   |
+| NAS [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIET7wJ8F97zDGsuHEywCuis)                                                                                                                           |
 |                                                                                                                                                                                                               |
 
 #### RAID

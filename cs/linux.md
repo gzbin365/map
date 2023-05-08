@@ -351,7 +351,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Dockerize Python Applications with GUI [NeuralNine](https://www.youtube.com/watch?v=W82jvmiaDtk)                                                                                                                       |
 | Complete Docker Course - From BEGINNER to PRO! (Learn Containers) [DevOps Directive](https://www.youtube.com/watch?v=RqTEHSBrYFw)                                                                                      |
 | 峰哥教你玩DOCKER [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVofAKxontw5iSi1bDAhvOdPj)                                                                                                                    |
-|                                                                                                                                                                                                                        |
+| Docker [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIGZ-LVL-gh1wmavd16pxQx1)                                                                                                                                 |
 
 |                                                                      |
 | -------------------------------------------------------------------- |

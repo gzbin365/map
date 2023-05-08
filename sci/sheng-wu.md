@@ -10,6 +10,12 @@ description: 好好睡觉 好好干饭
 | 无穷小亮的科普日常 抖音号： [wuqiongxiaoliang](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2\_neQsQy\_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca) | European Bioinformatics Institute - EMBL-EBI [u](https://www.youtube.com/@EMBL-EBI) 欧洲生物信息学研究所 - EMBL-EBI        |
 |                                                                                                                                               |                                                                                                                  |
 
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| BioTech Whisperer [u](https://www.youtube.com/@biotechwhisperer) 一群退休教授，他们通过简短的视频分享我们的知识              |
+| Biotech Whisperer [u](https://www.youtube.com/@lifesciencemicrolearning) (Focussed on Chinese Videos) |
+|                                                                                                       |
+
 |                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data Science for Biologists [Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)                                                                                                                                                                                                      |
@@ -51,6 +57,9 @@ description: 好好睡觉 好好干饭
 | 人脑神经网络的那些bug们 [技术喵](https://www.youtube.com/watch?v=trpBt6Kj8Z4)                                                                      |
 | MIT 9.13 The Human Brain, Spring 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN\_pFptIBxeiMc0MCJP) |
 | Neuroscience exploration [Artem Kirsanov](https://www.youtube.com/playlist?list=PLgtmMKe4spCMzkiVa4-eSHVk-N4SC8r9K)                   |
+| My Brain after 569 Leetcode Problems [NeetCode](https://www.youtube.com/watch?v=8wysIxzqgPI)                                          |
+| 了解 Neuroscience and Brain Research 神经科学和脑研究 (3 分钟微学习) ENG Subtitle [BioTech Whisperer](https://www.youtube.com/watch?v=W2N7\_mfZbIo)  |
+|                                                                                                                                       |
 |                                                                                                                                       |
 
 ### 植物
@@ -86,3 +95,18 @@ description: 好好睡觉 好好干饭
 | 萌宠指南  抖音号： [RHB66666666](https://www.douyin.com/user/MS4wLjABAAAAXuuG4sLLmJAu6uUBAApRtLLHgakH2e813Hkqs1QXlSg)                      | 豫西小丁 抖音号：[95483957](https://www.douyin.com/user/MS4wLjABAAAApXxfOBJPo-iatSMng6rRvdXXD03rAZjJhWasdNvUfOA) |
 | 从城中村出发 抖音号：[cczccf13223](https://www.douyin.com/user/MS4wLjABAAAAdWQlUU6bYLzU2IWq7zWh2QHQNd1CvRVAGGq8EmKj4lFyIbKHlCW9UiPMk5iXjuiT) | 何山爱龟说 抖音号：[hsags](https://www.douyin.com/user/MS4wLjABAAAATpZGUrvlHNwNO2tTjoU9UYdOO2LaxV6r5kZsuXEOvl8)   |
 |                                                                                                                                    |                                                                                                          |
+
+## Biomimicry 仿生学
+
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| 了解 Biomimicry 仿生学 向自然学习以创造可持续的解决方案 (3 分钟微学习) ENG Subtitle [BioTech Whisperer](https://www.youtube.com/watch?v=r8wtRyEoniI) |
+|                                                                                                                            |
+|                                                                                                                            |
+
+
+
+
+
+
+

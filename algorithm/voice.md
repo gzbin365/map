@@ -199,6 +199,19 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Neural Speech Synthesis with Transformer Network [arxiv](https://arxiv.org/abs/1809.08895)                                                                                                                                                                                                                                                                     |
 | FastSpeech: Fast, Robust and Controllable Text to Speech [arxiv](https://arxiv.org/abs/1905.09263)                                                                                                                                                                                                                                                             |
 
+### AI音色替换技术(Sovits4.0)
+
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+| voice 2 voice                                                                                                |
+| AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos)   华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)    |
+| 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                  |
+|                                                                                                              |
+|                                                                                                              |
+|                                                                                                              |
+
+
+
 ## 音乐生成, Text to Music Generation
 
 |                                                                                                                                                                      |                                                                                                                                                                      |                                                                                                               |

@@ -18,6 +18,8 @@ description: Blockchain & Cryptocurrency
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                             | 2140 加密社群 [u](https://www.youtube.com/channel/UCDZ7iK4KagihzEUL4Ti9PgQ)     |
 | 李欢 [u](https://www.youtube.com/@LiHuanLH/playlists)                                                                      | 飞彪队 [u](https://www.youtube.com/channel/UCgCco8lboO1LRlB9XPh662Q/playlists) |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) | 区块链教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1207298049439968)              |
+|                                                                                                                          | 币圈小林子 [u](https://www.youtube.com/@btcxiaolinzi/playlists)                  |
+|                                                                                                                          |                                                                             |
 
 |                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
