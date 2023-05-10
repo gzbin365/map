@@ -63,6 +63,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 自由軟件協會真理部 [u](https://www.youtube.com/channel/UCVO7lXKucA6z3O37WV7FG5w)                                                                                     |
 | archlinuxstudio [s](https://archlinuxstudio.github.io) [git](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)                                        |
 | Arch Linux 安装使用教程 [git](https://github.com/ArchLinuxStudio/ArchLinuxTutorial)                                                                               |
+| Arch Install and Hyprland setup [Sol Does Tech](https://www.youtube.com/watch?v=lfUWwZqzHmA)                                                                |
 | 蚌埠居士蚌埠住 [B](https://space.bilibili.com/1993346831)                                                                                                          |
 | Build a Developer's Linux Workstation - Complete Guide [DroneBot Workshop](https://www.youtube.com/watch?v=zpGZ3rZQ90I)                                     |
 | dahliaOS is a good concept [TechHut](https://www.youtube.com/watch?v=oio8EkxTtxA)                                                                           |

@@ -276,6 +276,9 @@ description: 硬件设备
 | 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                  |
 | 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                               |
 | ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                     |
+| foni [u](https://www.youtube.com/@foni2047/videos)                                                    |
+|                                                                                                       |
+|                                                                                                       |
 
 ## 笔记本
 

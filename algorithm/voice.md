@@ -206,8 +206,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | voice 2 voice                                                                                                |
 | AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos)   华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)    |
 | 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                  |
-|                                                                                                              |
-|                                                                                                              |
+| 从孙燕姿的“漠河舞厅”谈生成式AI创作 [Jeff科技视角](https://www.youtube.com/watch?v=x3DwYWqlY5k) Jarret Charvis                   |
+| AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                |
 |                                                                                                              |
 
 
