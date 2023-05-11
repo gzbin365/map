@@ -333,7 +333,7 @@
 | Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 | Stephanie\_程序媛 [u](https://www.youtube.com/@stephanie\_3037/videos)                                             | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
 | Alexander Lee [u](https://www.youtube.com/watch?v=vxVqtMcXHCA) 2048                                             | Polygon Forest Podcast [u](https://www.youtube.com/@polygonforestpodcast5991)                                            |
-|                                                                                                                 |                                                                                                                          |
+| SimonDev [u](https://www.youtube.com/@simondev758/playlists)                                                    |                                                                                                                          |
 |                                                                                                                 |                                                                                                                          |
 
 | CS50's Introduction to Game Development [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)                                                                                                                                                                                                                                                                          |
@@ -660,7 +660,7 @@
 | Coding Complex App Logic, Visually [Coding Tech](https://www.youtube.com/watch?v=wgWwJSnhgDU)                                                                            |
 | 计算机艺术 [u](https://www.youtube.com/@SysArcDesign/videos)                                                                                                                  |
 | twitter/[the-algorithm](https://github.com/twitter/the-algorithm/)   [v](https://www.youtube.com/watch?v=tYuJKVnEO0w)   [v](https://www.youtube.com/watch?v=pfeKZIK7PHY) |
-|                                                                                                                                                                          |
+| System Design [Interview Pen](https://www.youtube.com/playlist?list=PLPkuArhPxxQGkbl-\_STo8FFxBBB4ri-tl)                                                                 |
 
 ## 低代码 白码 Low-Code NoCode
 

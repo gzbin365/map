@@ -395,6 +395,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Microservice Architecture and System Design with Python & Kubernetes – Full Course [freeCodeCamp](https://www.youtube.com/watch?v=hmkF77F9TLw)                  |
 | \[Tutorialsplanet.NET] Udemy - Practical Kubernetes Guide                                                                                                       |
 | Containerize Python Applications with Docker [NeuralNine](https://www.youtube.com/watch?v=0TFWtfFY87U)                                                          |
+| K8s 高效管理 [AI技术玩家](https://www.youtube.com/playlist?list=PLOvxYvW297FVunqMl1DBKEwePBTVAjLqe)                                                                     |
+|                                                                                                                                                                 |
 
 ## GTK
 

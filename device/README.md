@@ -1024,7 +1024,7 @@ direct-attached storage
 | Electromagnetic Rail Launcher [Tom Stanton](https://www.youtube.com/watch?v=\_4TGb3MsSjE)                                                                                                                                                                                                                                                     |
 | LED Circuit Design - How to design LED circuits [The Engineering Mindset](https://www.youtube.com/watch?v=7d4ymjU9NqM)                                                                                                                                                                                                                        |
 | Servo Motors, how do they work? [The Engineering Mindset](https://www.youtube.com/watch?v=1WnGv-DPexc)                                                                                                                                                                                                                                        |
-| 硬核拆解 [u](https://www.youtube.com/user/Handanxie)   DIY拆解 [u](https://www.youtube.com/@DIY407/playlists)                                                                                                                                                                                                                                       |
+| 硬核拆解 [u](https://www.youtube.com/user/Handanxie)   DIY拆解 [u](https://www.youtube.com/@DIY407/playlists)   maker.moekoe [u](https://www.youtube.com/@makermoekoe/playlists)                                                                                                                                                                    |
 | 无痕胶 魔术贴                                                                                                                                                                                                                                                                                                                                       |
 
 ## 垃圾桶
@@ -1156,7 +1156,9 @@ direct-attached storage
 |                                                                                                                    |                                                                  |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | 芯片与半导体行业 [老石谈芯](https://www.youtube.com/playlist?list=PLZbVf-X2rhjaRmO2Hhv51zXmlAxbxyIuB)                          | Asianometry [u](https://www.youtube.com/c/Asianometry/playlists) |
-| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) |                                                                  |
+| Digital electronics tutorial [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D) | 爱上半导体 [u](https://www.youtube.com/@idiode)                       |
+|                                                                                                                    |                                                                  |
+|                                                                                                                    |                                                                  |
 
 2 Creative ideas for Smartphone [The Wrench](https://www.youtube.com/watch?v=eilHZFpy0Qc)
 

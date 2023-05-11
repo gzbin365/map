@@ -10,6 +10,8 @@ OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.
 
 Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367
 
+Breakthrough potential of AI | Sam Altman | MIT 2023 [Imagination in Action](https://www.youtube.com/watch?v=T5cPoNwO7II\&list=PLY\_nsiUEgM3n8bvHQpkiwOXRg3aeFYES8\&index=2)
+
 [**深度强化学习训练智能体：超级玛丽**](https://cloud.tencent.com/developer/article/1786661)
 
 [**DQN in Pytorch Stream 3 of N | Atari Breakout + Logging and Monitoring**](https://www.youtube.com/watch?v=PBWcN3M8Dbs)
@@ -162,7 +164,7 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | <p>[Tutorialsplanet.NET] Udemy - Artificial Intelligence Reinforcement Learning in Python</p><p>[Tutorialsplanet.NET] Udemy - Artificial Intelligence Reinforcement Learning in Python</p>                                                                                                                                                                                                                                                                                                                                                                        |
 | Reinforcement Learning [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPI9k\_-fFnjrzoAT2RQWlJk)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Data-driven Optimization Workshop: Deep Reinforcement Learning in Supply Chain Optimizations [Microsoft Research](https://www.youtube.com/watch?v=x12uz-5r8Fg)                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Reinforcement Learning from Human Feedback: From Zero to chatGPT [HuggingFace](https://www.youtube.com/watch?v=2MBJOuVq380)                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Talk \| 悉尼科技大学在读博士生胡思逸：MARLlib，全新的多智能体强化学习框架 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=t537UTxDg6Y)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Reinforcement Learning for Simple UAV Navigation [Huy Pham](https://www.youtube.com/watch?v=FS4G9cEJGWc)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | <p>Reinforcement Learning: An Introduction <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">pdf</a> stanford Second edition, in progress</p><p></p><p>强化学习是一种机器学习的类型，涉及代理通过反复试验来学习如何在环境中做出决策。代理的目标是最大化由环境给出的奖励信号。代理学习采取导致最大可能奖励的行动，同时避免导致负面结果的行动。</p><p>Richard S. Sutton和Andrew G. Barto的《强化学习导论》一书全面介绍了强化学习领域。该书涵盖价值函数、蒙特卡罗方法、时序差分学习和策略梯度等主题。</p><p>该书的第一版于1998年出版，第二版目前正在编写中。第二版根据领域内最新进展更新了材料，并增加了有关深度强化学习和多智能体强化学习的新章节。</p><p>该书被广泛认为是关于强化学习的最权威的文本之一，并被该领域的研究人员和实践者用作参考。它适合本科和研究生学生，并为任何对学习或从事强化学习感兴趣的人提供了坚实的基础。</p> |
@@ -179,6 +181,21 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | Playing Atari with Deep Reinforcement Learning [arxiv](https://arxiv.org/abs/1312.5602) [pdf](https://arxiv.org/pdf/1312.5602.pdf) [pdf](https://www.cs.toronto.edu/\~vmnih/docs/dqn.pdf) 2013.12 |
 | Reinforcement Learning - Ep. 30 (Deep Learning SIMPLIFIED) [DeepLearning.TV](https://www.youtube.com/watch?v=e3Jy2vShroE)                                                                         |
 | CURL: Contrastive Unsupervised Representations for Reinforcement Learning [Machine Learning Street Talk](https://www.youtube.com/watch?v=1MprzvYNpY8)                                             |
+
+| RLHF                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Reinforcement Learning from Human Feedback: From Zero to chatGPT [HuggingFace](https://www.youtube.com/watch?v=2MBJOuVq380)                                  |
+| John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges [Berkeley EECS](https://www.youtube.com/watch?v=hhiLw5Q\_UFg)            |
+| How ChatGPT works - From Transformers to Reinforcement Learning with Human Feedback (RLHF) [John Tan Chong Min](https://www.youtube.com/watch?v=wA8rjKueB3Q) |
+| RLHF+CHATGPT: What you must know [Machine Learning Street Talk](https://www.youtube.com/watch?v=PBH2nImUM5c)                                                 |
+| AI Safety, RLHF, and Self-Supervision - Jared Kaplan \| Stanford MLSys #79 [Stanford MLSys Seminars](https://www.youtube.com/watch?v=fqC3D-zNJUM)            |
+|                                                                                                                                                              |
+
+|   |
+| - |
+|   |
+|   |
+|   |
 
 | Evolution                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------- |

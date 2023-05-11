@@ -127,24 +127,24 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 |                                                                                                                |                                                                                                                                                                                                                                                                                               |
 |                                                                                                                |                                                                                                                                                                                                                                                                                               |
 
-|                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| 逆天邪神有声小说-----广播剧 [豚豚](https://www.youtube.com/playlist?list=PL-ZVML-sr0EUORjnaElxeiTwCUHd1wOj9)                            |
-| 《红楼梦》的空间艺术 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wMZ-89Cy6fxfliOEru1tCk)                 |
-| 走进《红楼梦》 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdisEs-WDdYVd6wvHmy3macJx)                            |
-| 三国志 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsditjZZjTLbsVxidBiAXLVk\_h)                               |
-| 逆天邪神 [樂文光影](https://www.youtube.com/playlist?list=PLgHhq8n1\_ZKLZnPl8rRYdekjU1Lr77Vvf)                                     |
-| 武煉巔峯 [买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLr05iRO0-XJffkC5CKSKWc6)                                     |
-| 武神主宰（同名動畫原著）[买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLp26E-puTaK3JQUcNUVeU4U)                              |
-| 簡·愛 [Go With Foreign Language](https://www.youtube.com/watch?v=adESrVgFKIU\&t=0s)                                          |
-| 最后一个捞偏传人 [笔趣阁](https://www.biqugeabc.com/book/625272.html)                                                                 |
-| 阿西莫夫科幻小说系列 Isaac Asimov [幻海航行--science fiction](https://www.youtube.com/playlist?list=PLkz\_-SLZY0iDSK-jBKylS-gbVnr4fku2L) |
-| 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                            |
-| 中英文对照 ---《飘》 [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk5wyASmeksgajUVbhUXE7le)                         |
-| 20分钟听完一部经典 [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk6Sge9wub9GIy2v4qVun9ce)                           |
-| 莫泊桑介紹 [黃筱容](https://www.youtube.com/watch?v=v5JHfpuy8Rg)                                                                   |
-| 经典解读 [学习进步](https://www.youtube.com/playlist?list=PLzs2FaxSkmQ8cg1I-ixJ8zrpaHdLHuBh7)                                      |
-| 卡城读书会 [Aidan Chen- Vivian Lee Team](https://www.youtube.com/playlist?list=PLlMQDGQeFEVj04T\_1V\_atr7mvev\_h6Eqp)           |
+|                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 逆天邪神有声小说-----广播剧 [豚豚](https://www.youtube.com/playlist?list=PL-ZVML-sr0EUORjnaElxeiTwCUHd1wOj9)                                                                               |
+| 《红楼梦》的空间艺术 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9wMZ-89Cy6fxfliOEru1tCk)                                                                    |
+| 走进《红楼梦》 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdisEs-WDdYVd6wvHmy3macJx)                                                                               |
+| <p>三国志 <a href="https://www.youtube.com/playlist?list=PLv8hyYaXsditjZZjTLbsVxidBiAXLVk_h">华人开放式课程MOOC</a></p><p>孫彥軍講三國 <a href="https://www.youtube.com/@sunyanjun">u</a></p> |
+| 逆天邪神 [樂文光影](https://www.youtube.com/playlist?list=PLgHhq8n1\_ZKLZnPl8rRYdekjU1Lr77Vvf)                                                                                        |
+| 武煉巔峯 [买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLr05iRO0-XJffkC5CKSKWc6)                                                                                        |
+| 武神主宰（同名動畫原著）[买两瓶香槟](https://www.youtube.com/playlist?list=PLaA93vMpxtLp26E-puTaK3JQUcNUVeU4U)                                                                                 |
+| 簡·愛 [Go With Foreign Language](https://www.youtube.com/watch?v=adESrVgFKIU\&t=0s)                                                                                             |
+| 最后一个捞偏传人 [笔趣阁](https://www.biqugeabc.com/book/625272.html)                                                                                                                    |
+| 阿西莫夫科幻小说系列 Isaac Asimov [幻海航行--science fiction](https://www.youtube.com/playlist?list=PLkz\_-SLZY0iDSK-jBKylS-gbVnr4fku2L)                                                    |
+| 听书、看书、搜书（小说），一个视频教你全搞定！从此你就是大神！几千万书源，AI智能朗读 [嘴哥干货](https://www.youtube.com/watch?v=jI3yo0fXusw)                                                                               |
+| 中英文对照 ---《飘》 [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk5wyASmeksgajUVbhUXE7le)                                                                            |
+| 20分钟听完一部经典 [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk6Sge9wub9GIy2v4qVun9ce)                                                                              |
+| 莫泊桑介紹 [黃筱容](https://www.youtube.com/watch?v=v5JHfpuy8Rg)                                                                                                                      |
+| 经典解读 [学习进步](https://www.youtube.com/playlist?list=PLzs2FaxSkmQ8cg1I-ixJ8zrpaHdLHuBh7)                                                                                         |
+| 卡城读书会 [Aidan Chen- Vivian Lee Team](https://www.youtube.com/playlist?list=PLlMQDGQeFEVj04T\_1V\_atr7mvev\_h6Eqp)                                                              |
 
 |                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

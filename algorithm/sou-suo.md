@@ -15,7 +15,7 @@
 | Computer Vision and Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhF5CrFLaAWKuA0LoFWtpQj)          |
 | NLP for Semantic Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgz-BI8bNMVGwQxIMuQddJO)             |
 | Vector Similarity Search and Faiss Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)  |
-|                                                                                                                                     |
+| Design a Basic Search Engine (Google or Bing) \| System Design [Interview Prep](https://www.youtube.com/watch?v=0LTXCcVRQi0)        |
 |                                                                                                                                     |
 
 | 搜索技巧                                                                 |
