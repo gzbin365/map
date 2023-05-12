@@ -30,4 +30,5 @@
 | Chat GPT AI Trading Bots (openAI) [Moon Dev](https://www.youtube.com/playlist?list=PLXrNVMjRZUJhniwXRHT53brm5kIjAPncT)                |
 | Algorithmic Trading With Python [CodeTrading](https://www.youtube.com/playlist?list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm)               |
 | BloombergGPT [v](https://www.youtube.com/watch?v=z1oUmFdjBLM)                                                                         |
+| I Built a Trading Bot with Bing and ChatGPT [Siraj Raval](https://www.youtube.com/watch?v=5G1\_zRME\_pY)                              |
 |                                                                                                                                       |

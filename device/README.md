@@ -270,15 +270,15 @@ description: 硬件设备
 
 ## ITX主机
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评 |
-| 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                  |
-| 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                               |
-| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                     |
-| foni [u](https://www.youtube.com/@foni2047/videos)                                                    |
-|                                                                                                       |
-|                                                                                                       |
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评                   |
+| 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                                    |
+| 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                                                 |
+| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                                       |
+| foni [u](https://www.youtube.com/@foni2047/videos)   ITXLAB-koukou. CN [u](https://www.youtube.com/@ITXLAB-koukouCN)    |
+|                                                                                                                         |
+|                                                                                                                         |
 
 ## 笔记本
 

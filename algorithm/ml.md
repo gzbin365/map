@@ -1387,6 +1387,8 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                |
 | Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf) |
 |                                                                                                                                |
+| label encoding, 把标签变成数字                                                                                                        |
+|                                                                                                                                |
 |                                                                                                                                |
 
 ## 数据增强

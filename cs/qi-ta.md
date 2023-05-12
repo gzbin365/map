@@ -76,7 +76,7 @@
 | Golang Informative [Golang Dojo](https://www.youtube.com/playlist?list=PLve39GJ2D71y5v3\_Arfpx8cKBcBn1VS91)                            |
 | Go4DataScience [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSiyuSkaDJxx1JK1kfpreDNDf)                                 |
 | Go/Golang Web Development - Iris Web Framework [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSizebElabidQeVaKeJuY6b4I) |
-|                                                                                                                                        |
+| Go Programming – Golang Course with Bonus Projects [freeCodeCamp](https://www.youtube.com/watch?v=un6ZyFkqFKo)                         |
 |                                                                                                                                        |
 
 ## C\#
@@ -803,13 +803,22 @@
 | 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)   |
 |                                                                                                                    |
 
+### RAMOS, 把系统装在内存上
+
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| 开机慢, 怕断电, 容量小价格贵,                                                                                  |
+| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)              |
+| 【Fun科技】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？ [FUN科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE) |
+|                                                                                                    |
+
 ### 把系统装在U盘上
 
-|                                                         |   |   |
-| ------------------------------------------------------- | - | - |
-| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) |   |   |
-|                                                         |   |   |
-|                                                         |   |   |
+|                                                         |
+| ------------------------------------------------------- |
+| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) |
+|                                                         |
+|                                                         |
 
 ## BIOS
 

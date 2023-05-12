@@ -58,7 +58,7 @@
 | 设计工具使用教程 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9slzC1GuYKEyYBGG48hVr4L)                                                                                     |
 | Graphic Design Series [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9sdOjMZNcCkIdTXzJpf7GTu)                                                                        |
 | AWORKZON品牌作品案例 [Aworkzon](https://www.youtube.com/playlist?list=PLpmBY3CPda9t2w\_Yf6wO-3QC8aUTv7J5d)                                                                              |
-| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface                                                                              |
+|                                                                                                                                                                                   |
 | 设计色彩基础 色彩理论基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYJG0HA7DG0KtRkN5xc1Vgh)                                                                                   |
 | 商业插画 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZnbBX2GjOChJjezlwe\_IZC)                                                                                           |
 | 产品的商业模式画布 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaTXggk02ytc8O6xuwBmrZW)                                                                                       |
@@ -72,6 +72,24 @@
 | [**wang**](https://www.artstation.com/wangchen)                                                                              | [**Lou LL**](https://www.artstation.com/arroll) | [N I X E U](https://www.artstation.com/nixeu) |
 
 Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/watch?v=wn2rlEp5Iag)
+
+### UI设计, User Interface
+
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface |
+| 零基础学UI设计全能班 [Fangxian](https://www.youtube.com/playlist?list=PLAvE0FtS2cGvQk6BqS9x0LsLoPFOd1QkA)     |
+| UI设计学习教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX6DpF0U8lPU5LzGi8d-k4a)          |
+|                                                                                                      |
+|                                                                                                      |
+
+### PhotoShop
+
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| 【PS教程】PhotoShop CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX4io2J1cgReJ958a6tr5dA) |
+|                                                                                                                  |
+|                                                                                                                  |
 
 ### Gimp
 
@@ -95,6 +113,14 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 行业类建筑模型精品课程 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZs6R-iRqSOqFtANZFd2n0G)  |
 | 自然场景类动画制作 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhbmVNgh0orY1qIGP9UV1pyE)    |
 | iPad画画教程 [学习刑法](https://www.youtube.com/playlist?list=PLGM6MxZkX7IhIoNEJNprM2Zi378CNEo7L)      |
+
+## AE
+
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| Ae中文教程 [Fangxian](https://www.youtube.com/playlist?list=PLAvE0FtS2cGuqH1oEZIH7lh7QGgrm2jAk) |
+|                                                                                             |
+|                                                                                             |
 
 ## 插画
 
@@ -122,6 +148,12 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ## 视频剪辑
 
+|                                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf\_id=8) |
+|                                                                                             |
+|                                                                                             |
+
 ### 剪映 剪映国际版capcut
 
 |                                                                                                                                                                                                                                    |
@@ -145,6 +177,23 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 ### OpenShot
 
 
+
+### Adobe Premiere
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| Adobe Premiere 2020教程 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRqqw215zZWUItWQjRtBDfwg) |
+|                                                                                                          |
+|                                                                                                          |
+|                                                                                                          |
+
+### After Effects
+
+|                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| Adobe After Effects 2020教程 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRrEI-4G1yYjZhkKxt8DcgPt) |
+|                                                                                                               |
+|                                                                                                               |
 
 ## adobe全家桶
 
@@ -203,7 +252,7 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Adobe Illustrator Tutorials [Dom Designs](https://www.youtube.com/playlist?list=PLDawbGZUjmyF5ejW\_Y\_CtWVwXPkNSBz21)       |
 | Adobe Illustrator Tutorials [Andy Tells Things](https://www.youtube.com/playlist?list=PLl8IaUbuW2VsECwJ\_\_kE0LGVLg947KvQ2) |
 | Learn Adobe Illustrator [Envato Tuts+](https://www.youtube.com/playlist?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB)            |
-|                                                                                                                             |
+| 【AI教程】illustrator CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoUu-D8tMZJ\_3R67k5uYLcXe)         |
 
 | Adobe InDesign CC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

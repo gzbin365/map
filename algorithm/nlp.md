@@ -684,6 +684,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | <p>使用私有知识库构建类ChatGPT问答机器人 <a href="https://www.youtube.com/watch?v=W6Y5vroeO1c">AI技术玩家</a></p><p>基于私有知识库构建类ChatGPT产品(二) - 原理篇 <a href="https://www.youtube.com/watch?v=8o70msCLvv4">AI技术玩家</a></p>                                                                                                                         |
 | GPT-4 Tutorial: Unveiling Infinite AI Possibilities GPT-4实战教程：探索下一代人工智能的无限可能 [盛少](https://www.youtube.com/watch?v=x-h3HPe8p5Y)                                                                                                                                                                                             |
 | <p>Fine Tuning LLM (OpenAI GPT) with Custom Data in python <a href="https://www.youtube.com/watch?v=6aOzoJKNLKQ">Prodramp</a></p><p>LLM (ChatGPT) <a href="https://www.youtube.com/playlist?list=PLINDPtcaHmLZk9C_Fir53QzKJOD3g_RQw">Prodramp</a></p>                                                                      |
+| 超强组合！ChatGPT + RSS阅读器：利用AI和自动化工具成为阅读大师 \| [回到Axton](https://www.youtube.com/watch?v=88omeHtBslA)                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -745,7 +748,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 
 
-### Auto-GPT AgentGPT MiniGPT-4 HuggingGPT
+### AutoGPT AgentGPT MiniGPT-4 HuggingGPT
 
 |                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -768,7 +771,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | AgentGPT把ChatGPT卷成了妥妥的AI个人代理。 [老猫聊科技](https://www.youtube.com/watch?v=6jl0Cux3tUU)                                                                                                                                                       |
 | AutoGPT: 自我prompt，一种应用AI的新思路 [Chen's Random Walk](https://www.youtube.com/watch?v=W2vgcE-CI1Q)                                                                                                                                           |
 | 我们给AutoGPT写了个插件，手把手带你玩新工具\~【[柴司ChaiCo](https://www.youtube.com/watch?v=JGpYBFvnwWg)】                                                                                                                                                     |
-|                                                                                                                                                                                                                                          |
+| AutoGPT 0.3 大版本升级揭秘：极简Docker安装法＋避坑指南 \| [回到Axton](https://www.youtube.com/watch?v=8lnTEPYYyeQ)                                                                                                                                           |
 |                                                                                                                                                                                                                                          |
 
 ### AWS Bedrock

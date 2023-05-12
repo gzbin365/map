@@ -46,7 +46,7 @@
 | ------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
 | [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/) | Cilici[li](https://cilicili.cn/) |
 | LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)   |                                  |
-|                                                                                                   |                                  |                                  |
+| 115综合资源网 [s](https://www.smk115.net/)                                                             |                                  |                                  |
 |                                                                                                   |                                  |                                  |
 
 ### 安卓模拟器, emulator
