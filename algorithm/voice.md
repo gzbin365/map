@@ -199,6 +199,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | Neural Speech Synthesis with Transformer Network [arxiv](https://arxiv.org/abs/1809.08895)                                                                                                                                                                                                                                                                     |
 | FastSpeech: Fast, Robust and Controllable Text to Speech [arxiv](https://arxiv.org/abs/1905.09263)                                                                                                                                                                                                                                                             |
 
+## voice 2 voice
+
 ### AI音色替换技术(Sovits4.0)
 
 |                                                                                                              |
@@ -210,7 +212,13 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                |
 |                                                                                                              |
 
+### Transcribed speech（转录语音）
 
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Transcribed speech 是将口语转录为书面语的过程，也可以理解为将已经存在的音频或视频转换为文本的过程。                                                                   |
+| LeMUR: a framework for applying powerful LLMs to transcribed speech [AssemblyAI](https://www.youtube.com/watch?v=q2RShntLoW0) |
+|                                                                                                                               |
 
 ## 音乐生成, Text to Music Generation
 

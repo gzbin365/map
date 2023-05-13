@@ -293,6 +293,7 @@
 | Guidev([u](https://www.youtube.com/c/Guidev/playlists), )                  | Unity [u](https://www.youtube.com/watch?v=ygAsQxDtXic) [s](https://unity.com/) [D](https://unity3d.com/get-unity/download) |
 | Code Monkey [u](https://www.youtube.com/@CodeMonkeyUnity)                  | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                         |
 | John Tan Chong Min [u](https://www.youtube.com/@johntanchongmin/playlists) | Unity Asset                                                                                                                |
+|                                                                            | Flow Studio [u](https://www.youtube.com/@FlowStudio)                                                                       |
 
 |                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -320,7 +321,7 @@
 | Learn Unity Beginner/Intermediate 2023 (FREE COMPLETE Course - Unity Tutorial) [Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) 10:49:41     |
 |                                                                                                                                                        |
 
-## Game Programming
+## Game Programming, Game dev
 
 |                                                                                                                 |                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -333,7 +334,7 @@
 | Jonas Tyroller [u](https://www.youtube.com/c/JonasTyroller/playlists)                                           | GamesWithGabe [u](https://www.youtube.com/c/GamesWithGabe/playlists)                                                     |
 | Stephanie\_程序媛 [u](https://www.youtube.com/@stephanie\_3037/videos)                                             | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
 | Alexander Lee [u](https://www.youtube.com/watch?v=vxVqtMcXHCA) 2048                                             | Polygon Forest Podcast [u](https://www.youtube.com/@polygonforestpodcast5991)                                            |
-| SimonDev [u](https://www.youtube.com/@simondev758/playlists)                                                    |                                                                                                                          |
+| SimonDev [u](https://www.youtube.com/@simondev758/playlists)                                                    | Chris Courses [u](https://www.youtube.com/@ChrisCourses)                                                                 |
 |                                                                                                                 |                                                                                                                          |
 
 | CS50's Introduction to Game Development [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)                                                                                                                                                                                                                                                                          |

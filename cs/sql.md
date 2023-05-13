@@ -149,6 +149,12 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 
 ### 分布式
 
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| MapReduce Jobs For Distributed Hadoop Clusters in Python [NeuralNine](https://www.youtube.com/watch?v=NAGu\_oBCtwI) |
+|                                                                                                                     |
+|                                                                                                                     |
+
 | Zabbix                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Zabbix监控环境搭建与配置入门实战视频课程高清版 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyyfFX7DBn48FyEVbO-Tr4e)                                          |

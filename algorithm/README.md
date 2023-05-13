@@ -71,6 +71,14 @@ Genetic Algorithm Visualization [Zachary McArthur](https://www.youtube.com/watch
 
 24. 遗传算法实现公平分割 - 人工智能导论 Python 实验资源包 [跨象乘云AI补习社](https://www.youtube.com/watch?v=mQAdbhgf8kE\&list=PL9FmM4XAZdqDEZigM1GWfgETdYILpmiJA\&index=25)
 
+## 进化算法
+
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| ChatGPT and the Intelligence Explosion [Emergent Garden](https://www.youtube.com/watch?v=c9c5a4IsjOA) |
+|                                                                                                       |
+|                                                                                                       |
+
 ## 旅行商问题, TSP
 
 |                                                                                                  |

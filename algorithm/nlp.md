@@ -211,6 +211,7 @@ LDA 文档聚类 plsa lsa
 | Natural Language Processing Apps [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSixZdkHGyNVwZo8Z3QCm3mx4)                                                                                                                      |
 | TextaCy Python Tutorial [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSiwvqelNpvU6f36Vggyfub4R)                                                                                                                               |
 | Natural Language Processing Projects [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhhG27X2GMu\_873CiTArzei)                                                                                                                |
+| Natural Language Processing and its Uses [Open Data Science](https://www.youtube.com/playlist?list=PLB2SCq-tZtVnGBQnQT6sD\_CXCRy3kGVOB)                                                                                                       |
 |                                                                                                                                                                                                                                               |
 
 #### spaCy
@@ -686,6 +687,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | <p>Fine Tuning LLM (OpenAI GPT) with Custom Data in python <a href="https://www.youtube.com/watch?v=6aOzoJKNLKQ">Prodramp</a></p><p>LLM (ChatGPT) <a href="https://www.youtube.com/playlist?list=PLINDPtcaHmLZk9C_Fir53QzKJOD3g_RQw">Prodramp</a></p>                                                                      |
 | 超强组合！ChatGPT + RSS阅读器：利用AI和自动化工具成为阅读大师 \| [回到Axton](https://www.youtube.com/watch?v=88omeHtBslA)                                                                                                                                                                                                                           |
 | 陆奇 \| 《新范式 新时代 新机会》完整精修字幕 [最佳拍档](https://www.youtube.com/watch?v=H48R3xq7IRI) (YC中国, 奇绩创坛)                                                                                                                                                                                                                                 |
+| 【ChatGPT】国内访问ChatGPT神器Pandora \| 完整安装使用教程 \| Github开源 \| 一次性解决ChatGPT的封号、人机验证、拒绝访问、高负载、中断卡顿等使用问题 [最佳拍档](https://www.youtube.com/watch?v=QjAmFHqsQbw)                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
@@ -728,6 +730,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | LangChain How to and guides [Sam Witteveen](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)                                                                                                                                                                       |
 | 【人工智能】LangChain简介 \| 揭秘Copilot背后的技术 \| 开源LLMs接口框架 \| 开发GPT插件和应用程序 \| 如何构建大语言模型应用程序 [最佳拍档](https://www.youtube.com/watch?v=r7PeKRs8BeA)                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                             |
 
 ### Pinecone
 
@@ -737,12 +741,25 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Pinecone [01Coder](https://www.youtube.com/playlist?list=PL2fGiugrNoogxcEfpAzbh2cZBVJJ26Brx)                                                                  |
 | 【人工智能】爆肝万字介绍向量数据库和Pinecone \| 向量搜索的演化过程 \| LLM是人类的大脑，向量数据库就是海马体 \| Pinecone的发展历程 \| Pinecone直接和潜在竞争对手有哪些 [最佳拍档](https://www.youtube.com/watch?v=u03AZlmZF\_8) |
 | Vector Databases simply explained! (Embeddings & Indexes) [AssemblyAI](https://www.youtube.com/watch?v=dN0lsF2cvm4)                                           |
+| Can We Build an Artificial Hippocampus? [Artem Kirsanov](https://www.youtube.com/watch?v=cufOEzoVMVA)                                                         |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 
-### Bard
+### Google Bard
 
+|   |
+| - |
+|   |
+|   |
+|   |
 
+### Google PaLM (Pathways Language Model)
+
+|                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance [ai.googleblog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) |
+| Google I/O 大会 8 项精彩片段 「懒人包」Google AI 全线出击 \| [回到Axton](https://www.youtube.com/watch?v=0FZdtq9IZm8)                                                                                            |
+|                                                                                                                                                                                                |
 
 ### MS New Bing
 
@@ -851,6 +868,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E)        |
 | OPENASSISTANT TAKES ON CHATGPT! [Machine Learning Street Talk](https://www.youtube.com/watch?v=TFa539R09EQ)                  |
 | Open Assistant Inference Backend Development (Hands-On Coding) [Yannic Kilcher](https://www.youtube.com/watch?v=6OozhhI6U4g) |
+| Building an Open Assistant API [sentdex](https://www.youtube.com/watch?v=kkTNg\_UOCNE)                                       |
+|                                                                                                                              |
 |                                                                                                                              |
 
 ### Meta LLaMA 开源
@@ -924,7 +943,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                                      |
 |                                                                                                                                                      |
 
-### 语言模型, Language Models
+### 语言模型, Language Models, llms
 
 |                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -946,6 +965,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | MARI Grand Seminar - Large Language Models and Low Resource Languages [Microsoft Research](https://www.youtube.com/watch?v=X7c0T7uwtkM)                                                                           |
 | Language models [The Global NLP Lab](https://www.youtube.com/playlist?list=PL7pTFCAS0zj4rYRTAhZTkQz6mUfT9T6GP)                                                                                                    |
 | Language Models [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                                                                                         |
+| 跟傅盛和王俊煜聊：大模型、产品经理和热门AI应用\|乱翻书108 [潘乱](https://www.youtube.com/watch?v=Nl4suzlgltM)                                                                                                                                |
+|                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                   |
 
 ### Causal Inference
@@ -1009,10 +1030,12 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 ## 知识点
 
-|                                                                                |   |
-| ------------------------------------------------------------------------------ | - |
-| 文本语义通顺度计算研究 [csdn](https://blog.csdn.net/appleyuchi/article/details/108288157) |   |
-| 文本流畅度 [api](https://neuhub.jd.com/ai/api/nlp/general-language\_smooth-nlp)     |   |
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| 文本语义通顺度计算研究 [csdn](https://blog.csdn.net/appleyuchi/article/details/108288157)                            |
+| 文本流畅度 [api](https://neuhub.jd.com/ai/api/nlp/general-language\_smooth-nlp)                                |
+| Analyze Text Readability & Complexity in Python [NeuralNine](https://www.youtube.com/watch?v=abgggvnrGBg) |
+|                                                                                                           |
 
 ## Book
 

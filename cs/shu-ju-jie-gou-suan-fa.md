@@ -63,7 +63,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Dynamic Programming [NeetCode](https://www.youtube.com/playlist?list=PLot-Xpze53lcvx\_tjrr\_m2lgD2NsRHlNO)                                                                                                                                         |
 | \[Tutorialsplanet.NET] Udemy - Dynamic Programming - I                                                                                                                                                                                             |
 | 动态规划到底在做什么？何时去用？ [Rebel\_nerd](https://www.youtube.com/watch?v=53JnqfBPc4M)   状态压缩                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                    |
+| 百度算法提升mRNA新冠疫苗效能128倍，发表论文，被《自然》杂志收录。 [老范讲故事](https://www.youtube.com/watch?v=fbqw0UA-aPM)                                                                                                                                                          |
 |                                                                                                                                                                                                                                                    |
 
 ## Recurisive

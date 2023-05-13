@@ -47,6 +47,8 @@ description: 好好睡觉 好好干饭
 | National Human Genome Research Institute [u](https://www.youtube.com/@genometv) 国家人类基因组研究所                                                       |
 | Machine Learning in Genomics - Fall 2019 [Manolis Kellis](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK)              |
 | 6.047/6.878 Machine Learning for Genomics Fall 2020 [Manolis Kellis](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz\_\_CdsaoKJ) |
+| 百度算法提升mRNA新冠疫苗效能128倍，发表论文，被《自然》杂志收录。 [老范讲故事](https://www.youtube.com/watch?v=fbqw0UA-aPM)                                                        |
+|                                                                                                                                                  |
 |                                                                                                                                                  |
 
 ### 脑科学 脑神经科学 Neuroscience
