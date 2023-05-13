@@ -75,13 +75,14 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### UI设计, User Interface
 
-|                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- |
-| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface |
-| 零基础学UI设计全能班 [Fangxian](https://www.youtube.com/playlist?list=PLAvE0FtS2cGvQk6BqS9x0LsLoPFOd1QkA)     |
-| UI设计学习教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX6DpF0U8lPU5LzGi8d-k4a)          |
-|                                                                                                      |
-|                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| UI设计 [陈俊旭](https://www.youtube.com/playlist?list=PL6R0MuVZsiDfJoot57r5bCzkHstFyWLBi)  User Interface                                                                                                                                                                                                                                  |
+| 零基础学UI设计全能班 [Fangxian](https://www.youtube.com/playlist?list=PLAvE0FtS2cGvQk6BqS9x0LsLoPFOd1QkA)                                                                                                                                                                                                                                      |
+| <p>UI设计学习教程 <a href="https://www.youtube.com/playlist?list=PLtxiQE7FndoX6DpF0U8lPU5LzGi8d-k4a">UI设计华斌</a></p><p>UI设计实战全能理论课程(试学) <a href="https://www.youtube.com/playlist?list=PLtxiQE7FndoXWYQVVHcQl08efJmf9ctya">UI设计华斌</a></p><p>UI设计教程从零基础入门到精通 (2023最新全集）<a href="https://www.bilibili.com/video/BV1KT4y1E7tV">UI设计老师华斌</a></p> |
+| UI设计系统学习教程 [UI设计教学老师黄根平](https://www.youtube.com/playlist?list=PLH1q4xvbyPS\_eJfLcKl7YQeZNFOfZvedb)                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                       |
 
 ### PhotoShop
 
