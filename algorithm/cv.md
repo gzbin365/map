@@ -252,11 +252,15 @@ import cv2
 
 ### 视频生成
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| runway [v](https://www.youtube.com/watch?v=z1oUmFdjBLM) text 2 video |
-|                                                                      |
-|                                                                      |
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| runway [v](https://www.youtube.com/watch?v=z1oUmFdjBLM) text 2 video                                       |
+| This New AI Is The Future of Videomaking! [Two Minute Papers](https://www.youtube.com/watch?v=muNkPjigQEE) |
+|                                                                                                            |
+
+### img 2 video
+
+### text 2 video
 
 ### 风格迁移, Style Transfer
 

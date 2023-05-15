@@ -938,6 +938,7 @@ Python高性能编程
 | Automatic YouTube Video Generator (Python Script) [Aaren Stade](https://www.youtube.com/watch?v=lo3w8auG7QA) |
 | Automated Video Editing With Python [NeuralNine](https://www.youtube.com/watch?v=Q2d1tYvTjRw) moviepy        |
 | Split Screen Videos with MoviePy [NeuralNine](https://www.youtube.com/watch?v=p293\_8oYXL4)                  |
+| Create Your Own Custom MoviePy Animations [NeuralNine](https://www.youtube.com/watch?v=io46L1Nl3hU)          |
 | Python根据字幕文件自动给视频添加字幕（通用版）[csdn](https://blog.csdn.net/dongfuguo/article/details/104939046)                  |
 | 调整srt字幕时间，Python实现 [s](https://www.codeleading.com/article/26242247214/)                                     |
 | Linux 上最好的 9 个免费视频编辑软件（2018） [Linux中国](https://zhuanlan.zhihu.com/p/48413946)                                |

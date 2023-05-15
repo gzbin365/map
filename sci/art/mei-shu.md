@@ -291,6 +291,7 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE)                            |
 | 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                        |
 | 阿里巴巴数字人公测 [迷途小书童的Note](https://www.youtube.com/watch?v=CMqQY4xeeao)                                                            |
+| Caryn AI \| 美国女网红把自己做成虚拟女友 [最佳拍档](https://www.youtube.com/watch?v=BlED3pXO5NQ) Forever Voice                                   |
 |                                                                                                                                |
 |                                                                                                                                |
 

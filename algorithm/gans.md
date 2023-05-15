@@ -137,6 +137,8 @@ description: Generative Adversarial Network (GAN)
 | GFlowNets for generative active learning \| Amazon Science [Amazon Science](https://www.youtube.com/watch?v=2s\_GtmofbyU)                                                                                   |
 | Generative Modeling by Estimating Gradients of the Data Distribution - Stefano Ermon [Institute for Advanced Study](https://www.youtube.com/watch?v=8TcNXi3A5DI)                                            |
 | Generative Art [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS5HopwjWRquVIluLKz7HI1f)                                                                                                          |
+| Introduction to Generative AI [Google Cloud Tech](https://www.youtube.com/watch?v=G2fqAlgmoPo)                                                                                                              |
+|                                                                                                                                                                                                             |
 |                                                                                                                                                                                                             |
 
 ### Fake

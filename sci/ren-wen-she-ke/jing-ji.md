@@ -128,6 +128,14 @@
 | [Python回测神器-Backtrader（上）](https://zhuanlan.zhihu.com/p/261735195)                                           |
 | 量化回测平台Backtrader实战教程 [china refer](https://www.youtube.com/playlist?list=PLHxM50fGnEoVSkh8PAI7dTWtEFJuu9Yom) |
 
+## 股票
+
+|                                                   |
+| ------------------------------------------------- |
+| 美股王 [u](https://www.youtube.com/@user-cb2ji3ks3z) |
+|                                                   |
+|                                                   |
+
 ## 扯淡
 
 |                                                                                                      |                                                                                    |
