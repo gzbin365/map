@@ -292,7 +292,7 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                        |
 | 阿里巴巴数字人公测 [迷途小书童的Note](https://www.youtube.com/watch?v=CMqQY4xeeao)                                                            |
 | Caryn AI \| 美国女网红把自己做成虚拟女友 [最佳拍档](https://www.youtube.com/watch?v=BlED3pXO5NQ) Forever Voice                                   |
-|                                                                                                                                |
+| These TikTokers Are AI Generated \[SD Multi-Frame Rendering] [bycloud](https://www.youtube.com/watch?v=Lx5Hy9YfZLs)            |
 |                                                                                                                                |
 
 

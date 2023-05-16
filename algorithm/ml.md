@@ -1617,6 +1617,14 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 
+### ImageBind
+
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| 只有Meta才懂多模态，ImageBind，在一个嵌入的空间中补齐六种模态。像人一样，感受完整的空间。突破语言的桎梏，将关注度重新吸引回元宇宙。 [老范讲故事](https://www.youtube.com/watch?v=NCEqksJTWko) |
+|                                                                                                                               |
+|                                                                                                                               |
+
 ## AI Safety
 
 |                                                                                                                                                                                                 |

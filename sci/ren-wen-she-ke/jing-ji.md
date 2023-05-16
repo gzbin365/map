@@ -113,11 +113,11 @@
 
 ### 电子商务 E-commerce
 
-|                                                    |
-| -------------------------------------------------- |
-| SKU Agency [u](https://www.youtube.com/@skuagency) |
-|                                                    |
-|                                                    |
+|                                                        |
+| ------------------------------------------------------ |
+| SKU Agency [u](https://www.youtube.com/@skuagency)     |
+| 运营知竹 [u](https://www.youtube.com/@WeChat-TDX52588) 拼多多 |
+|                                                        |
 
 ### FineBI
 

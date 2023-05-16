@@ -706,7 +706,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | OpenAI x DeepLearning.ai 公开课 - 吴恩达 [Hossie](https://www.youtube.com/playlist?list=PLLwXCFgec1q6OdRndsgMODbUTl5IqBy35)                                                                                                                                                                                 |
 | <p>ChatGPT Prompt Engineering for Developers ChatGPT开发人员提示工程 <a href="https://www.youtube.com/watch?v=MoIeNKW9UAY">盛少</a></p><p>ChatGPT Prompt Engineering for Developers ChatGPT 开发人员提示工程 中英文翻译版 <a href="https://www.youtube.com/playlist?list=PL9Aa0lG07R6AHrrq-QzGSlV7G8vk3gDDj">list</a></p>     |
 | Visual Prompting Livestream With Andrew Ng [Landing AI](https://www.youtube.com/watch?v=FE88OOUBonQ)                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                                       |
+| ChatGPT Prompt Engineering实战，带你从入门到精通 [Alchain cyf](https://www.youtube.com/watch?v=efIzlP4JT6g)                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                       |
 
 ### LangChain
@@ -873,6 +873,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                              |
 |                                                                                                                              |
 
+### Meta Toolformer
+
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| 【人工智能】解读Meta Toolformer论文 \| 可以自学使用工具的大语言模型 \| 如何让机器自己学会调用API \| 如何对API进行采样和过滤 [最佳拍档](https://www.youtube.com/watch?v=6bcJ3qrXSIY) |
+|                                                                                                                                    |
+|                                                                                                                                    |
+
 ### Meta LLaMA 开源
 
 |                                                                                                                                                                                                        |
@@ -944,7 +952,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                                      |
 |                                                                                                                                                      |
 
-### 语言模型, Language Models, llms
+### 语言模型, Language Models, Large Language Models, llms
 
 |                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -967,7 +975,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Language models [The Global NLP Lab](https://www.youtube.com/playlist?list=PL7pTFCAS0zj4rYRTAhZTkQz6mUfT9T6GP)                                                                                                    |
 | Language Models [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd\_bzXUpzKMKA3liq2kj6LfE)                                                                                                         |
 | 跟傅盛和王俊煜聊：大模型、产品经理和热门AI应用\|乱翻书108 [潘乱](https://www.youtube.com/watch?v=Nl4suzlgltM)                                                                                                                                |
-|                                                                                                                                                                                                                   |
+| Introduction to Large Language Models [Google Cloud Tech](https://www.youtube.com/watch?v=zizonToFXDs)                                                                                                            |
 |                                                                                                                                                                                                                   |
 
 ### Causal Inference

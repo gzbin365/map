@@ -222,12 +222,19 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## 音乐生成, Text to Music Generation
 
-|                                                                                                                                                                      |                                                                                                                                                                      |                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| MusicLM is a GAMECHANGER for ML Text to Music Generation [Nicholas Renotte](https://www.youtube.com/watch?v=F4WEGvFAwv8)                                             | Noise2music、MusicLM：文本生成音乐效果如何？ [跟李沐学AI](https://www.youtube.com/watch?v=XsE9WWP9awo)                                                                                | "壞了壞了，有了AI音樂人都沒飯吃了！“ [Devin Wang](https://www.youtube.com/watch?v=q8I4NCvmQJ8)                                |
-|                                                                                                                                                                      |                                                                                                                                                                      |                                                                                                               |
-| [AIVA](https://www.aiva.ai/) - The AI composing emotional soundtrack music [v](https://www.youtube.com/watch?v=8wHNIZWIOqg)                                          | Google's MusicLM: Text Generated Music & It's Absurdly Good [bycloud](https://www.youtube.com/watch?v=2CUKU2iAzAs)                                                   | Music Creation [John Tan Chong Min](https://www.youtube.com/playlist?list=PLcORGO1bTgjWqsb4sEqI9SFUUvLV7HNfh) |
-| 资深音频人怎么看谷歌最新作曲AI，MusicLM（上集）. How does a composer look at Goolge Music AI MusicLM，Episode I? [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=N\_s0Tc\_Tfa0) | 资深音频人怎么看谷歌最新作曲AI（下集）读评论，How does a composer look at Goolge Music AI，Episode II, Read Comments [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=JBqurD1KG\_w) | 【[Code Gym](https://www.youtube.com/watch?v=0PuslZHJQes)】Python 文字轉語音教學，用短短幾行程式，做出會讀文字說話的自動化服務                |
+|                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MusicLM is a GAMECHANGER for ML Text to Music Generation [Nicholas Renotte](https://www.youtube.com/watch?v=F4WEGvFAwv8)                                             |
+| Noise2music、MusicLM：文本生成音乐效果如何？ [跟李沐学AI](https://www.youtube.com/watch?v=XsE9WWP9awo)                                                                                |
+| "壞了壞了，有了AI音樂人都沒飯吃了！“ [Devin Wang](https://www.youtube.com/watch?v=q8I4NCvmQJ8)                                                                                       |
+| [AIVA](https://www.aiva.ai/) - The AI composing emotional soundtrack music [v](https://www.youtube.com/watch?v=8wHNIZWIOqg)                                          |
+| Google's MusicLM: Text Generated Music & It's Absurdly Good [bycloud](https://www.youtube.com/watch?v=2CUKU2iAzAs)                                                   |
+| Music Creation [John Tan Chong Min](https://www.youtube.com/playlist?list=PLcORGO1bTgjWqsb4sEqI9SFUUvLV7HNfh)                                                        |
+| 资深音频人怎么看谷歌最新作曲AI，MusicLM（上集）. How does a composer look at Goolge Music AI MusicLM，Episode I? [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=N\_s0Tc\_Tfa0) |
+| 资深音频人怎么看谷歌最新作曲AI（下集）读评论，How does a composer look at Goolge Music AI，Episode II, Read Comments [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=JBqurD1KG\_w) |
+| 【[Code Gym](https://www.youtube.com/watch?v=0PuslZHJQes)】Python 文字轉語音教學，用短短幾行程式，做出會讀文字說話的自動化服務                                                                       |
+| 借助ChatGPT，乐盲也能轻松驾驭 Google MusicLM，Midjourney来助阵，让音乐与图像完美结合 \| [回到Axton](https://www.youtube.com/watch?v=s3Lm\_uff4PA)                                                |
+|                                                                                                                                                                      |
 
 ### X Studio 3
 
