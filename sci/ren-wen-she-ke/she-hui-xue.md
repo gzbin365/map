@@ -21,6 +21,8 @@
 | <p>从科学的角度理解人类行为 <a href="https://www.youtube.com/watch?v=UDAc5M4nTk8">柯文哲</a></p><p>Understanding Human Behaviors from the Perspective of Science │ 柯文哲 台北市長 │ 臺大演講網</p> |
 | 柯文哲市長講座：『城市治理』 [台灣傳統基金會](https://www.youtube.com/watch?v=3jVQnoVinSI)                                                                                                    |
 | 北京大学\_\_社会调查与研究方法 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z5KqSzsHvzTL8CnAaxnUR24)                                                     |
+| 北京大学 社会学概论 全65讲 主讲-卢晖临 视频教程 [文史哲](https://www.youtube.com/playlist?list=PLjU7YvpWb84\_ndd6fPAhOt3Kv6PgmjMPr)                                                             |
+|                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
 | 上野千鹤子                                                                                                                                                           |

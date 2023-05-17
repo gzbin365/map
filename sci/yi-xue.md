@@ -113,6 +113,8 @@
 | 不爱减肥的郭飞 抖音号：[95662447027](https://www.douyin.com/user/MS4wLjABAAAAPFsyld-\_Kq1YRCMaUsK3U4prCBNaDavUKoT7GBQv2jkQ-eKAPV84LBWYrDILaa\_B)                                                                                                                    |
 | 医学减肥宝成 抖音号：[81955295877](https://www.douyin.com/user/MS4wLjABAAAAfaXDU\_zsQosB9zMQpGFKvnnVeT6xAftWmHf73O6dOX0)   凌子淼（带你体重管理） 抖音号：[GYMER2019](https://www.douyin.com/user/MS4wLjABAAAAiyoxeoQ-Mc\_JUDZ4AeCaqozXj0sxq7LOdIWZ1IqoJwFztRflBHV06YO8d3AGR\_Tr) |
 | 粪菌移植，真的就是吃答辩吗？[量子位](https://www.youtube.com/watch?v=CjJr\_atQmcs)                                                                                                                                                                                        |
+| 【正经科研】裸睡可以减肥，这事儿是真的 [量子位](https://www.youtube.com/watch?v=EsirOEW4DWg)                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                          |
 
 ## 食品
 

@@ -4,7 +4,7 @@
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 大佬你好啊([u](https://www.youtube.com/channel/UCKUmZM\_yDHMKxl4EWAt6GKw/playlists), ) | tracyattt1([u](https://www.youtube.com/user/tracyattt1/playlists), ) |
 | 全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                   | 華夏 [u](https://www.youtube.com/@HUAXIAZGWH/playlists)                |
-|                                                                                   |                                                                      |
+| Gen Kuang [u](https://www.youtube.com/@genkuang9148/playlists)                    |                                                                      |
 
 ## 风水
 
@@ -22,11 +22,11 @@
 
 ## 八字
 
-|                                                    |   |   |
-| -------------------------------------------------- | - | - |
-| 黃彥淳说八字 [u](https://www.youtube.com/@haoyunlai1455) |   |   |
-|                                                    |   |   |
-|                                                    |   |   |
+|                                                                                                    |
+| -------------------------------------------------------------------------------------------------- |
+| 黃彥淳说八字 [u](https://www.youtube.com/@haoyunlai1455)                                                 |
+| 八字批命實例分享 [蔡添逸紫微八字風水命理學院](https://www.youtube.com/playlist?list=PL8mzIB9OzmRmEo1cWnHYFPgxnoBOGnd7U) |
+|                                                                                                    |
 
 ## 书法
 
@@ -44,6 +44,9 @@
 | 薄煙 抖音号：[50001325061](https://www.douyin.com/user/MS4wLjABAAAAafEmka9Lw0a9UfIDIpae0UkBT3Jdp6-4Wn-h5igvOAppuL67c6f1aA\_ZRzNBAS05)                                                                                                                                                                                                                                                                                                                                                          |
 | 姜几牙 抖音号：[1056179828](https://www.douyin.com/user/MS4wLjABAAAAq5POxBdunIfiCWd9F4OnNpmM25pQrSj1zolCfjc19as) 手写速记                                                                                                                                                                                                                                                                                                                                                                           |
 | Learn to write chinese [SkillWest](https://www.youtube.com/playlist?list=PLUlE4IoPmDk4TpVOkw2qMzKDdtkzLolAr)                                                                                                                                                                                                                                                                                                                                                                             |
+| 北京大学书法公开课 [北京大学 Peking University](https://www.youtube.com/playlist?list=PLgmlpE59k8wfuDCoBeqIfFpjj8cFODHXB)                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## 瑜伽
 
@@ -110,11 +113,14 @@
 | <p>一个优秀的员工是怎么样的　<a href="https://www.douyin.com/video/7037419527642139940">赵玉平老师讲国学</a></p><p>①持久性　②稳定性　③怡人性：共情</p>                         |
 | <p>保持一颗平常心　<a href="https://www.douyin.com/video/7038529827296529695">赵玉平老师讲国学</a></p><p>饿了就吃　困了就睡　渴了就喝</p>                                 |
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| 【国学】弱冠、耄耋、期颐……你的年龄对应哪个称谓？[共产党员网](https://www.12371.cn/2016/04/19/ARTI1461037210134716.shtml) |
-| 绿冒的由来 [v](https://www.youtube.com/watch?v=9RWSvCVhsS4\&t=2061s)                              |
-|                                                                                              |
+|                                                                                               |
+| --------------------------------------------------------------------------------------------- |
+| 【国学】弱冠、耄耋、期颐……你的年龄对应哪个称谓？[共产党员网](https://www.12371.cn/2016/04/19/ARTI1461037210134716.shtml)  |
+| 绿冒的由来 [v](https://www.youtube.com/watch?v=9RWSvCVhsS4\&t=2061s)                               |
+| 嘉宾国学讲堂 [Gen Kuang](https://www.youtube.com/playlist?list=PLyNY4wmEkC\_210OpbzQhV0aozGduZU3Mr) |
+|                                                                                               |
+|                                                                                               |
+|                                                                                               |
 
 ## 其他
 

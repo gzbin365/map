@@ -32,6 +32,9 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 蓝幽若 抖音号： [lanyouruo](https://www.douyin.com/user/MS4wLjABAAAA3MQz2twgK1vT2OxMXyG18-hoR31KtiY\_7PMqH\_v1j5Hp0Qi6B5zNGFXMlFgtfRz2) |
 | 终有弱水替沧海, 再无相思寄巫山 [v](https://www.douyin.com/video/7006658183548718350)                                                           |
 | 《读书》\| 一档和大众分享好书的栏目 [CCTV科教](https://www.youtube.com/playlist?list=PL34iN-VUc-dpH2-tbpjORwZpDbOFivN\_6)                          |
+| 文学理论课程全集 共32讲 [龙猫对对碰](https://www.youtube.com/playlist?list=PLi3ljbfkN5r0kTeW\_SKQJTaia7Ib8tDJ8)                                 |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ### 论语
 

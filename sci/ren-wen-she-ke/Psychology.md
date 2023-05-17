@@ -13,7 +13,9 @@ description: Psychology
 | 六日 抖音号： [1113822582](https://www.douyin.com/user/MS4wLjABAAAAB0IYCPVcBntiwQe2iefENJQRhZXrQIlBjlJGK5Lxp9M)                                                                                                                            | 不好惹的咨询师陈荫　抖音号： [psychenyin](https://www.douyin.com/user/MS4wLjABAAAAADgbLI8m8v3ppZd\_URkHg4SQRHTHYgKsw5mYEQBvU9vc-bxSSVssQmfgUSkT8ewV) |
 | 王小骞 抖音号： [1142041417](https://www.douyin.com/user/MS4wLjABAAAA82p9-kpSsjOlZPO87\_GBMlUvrTxZ9p5N86fCYqF8NUg)                                                                                                                          | 心理学者梁松松　抖音号： [OKtushu](https://www.douyin.com/user/MS4wLjABAAAAJHdajFkl06VllJeQtMx1GitglOtjQxRLOJabwsmNZks)                            |
 | Sprouts 學校 [u](https://www.youtube.com/channel/UCbWqAbkBTmfnB8uo78ttVcw/videos)                                                                                                                                                      | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)               |
-|                                                                                                                                                                                                                                      | 艾迪的自行之路 Eddie Going His Own Way [u](https://www.youtube.com/@eddiegoinghisownway)                                                      |
+| 安琸讲心理 [u](https://www.youtube.com/@user-ly1dq5in1m)                                                                                                                                                                                  | 艾迪的自行之路 Eddie Going His Own Way [u](https://www.youtube.com/@eddiegoinghisownway)                                                      |
+| Jordan Peterson                                                                                                                                                                                                                      |                                                                                                                                        |
+|                                                                                                                                                                                                                                      |                                                                                                                                        |
 
 ***
 
@@ -35,6 +37,8 @@ description: Psychology
 | 心理学与生活(精品课) [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_Rhh\_lem7ZFzoJU8IWOSbNg)                                   |
 | MIT 9.00SC Introduction to Psychology, Fall 2011 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) |
 | 爱情心理学 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6e4xfPaEgWJ-z7Z0KONa9O)                        |
+| 北京师范大学心理统计学 [亚宁桑](https://www.youtube.com/playlist?list=PLNybgro6DM2H7mmTV7eBBH-0nW7rtrypo)                                     |
+|                                                                                                                                 |
 |                                                                                                                                 |
 
 |                                                                                      |

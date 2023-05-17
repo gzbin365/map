@@ -353,6 +353,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Complete Docker Course - From BEGINNER to PRO! (Learn Containers) [DevOps Directive](https://www.youtube.com/watch?v=RqTEHSBrYFw)                                                                                      |
 | 峰哥教你玩DOCKER [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVofAKxontw5iSi1bDAhvOdPj)                                                                                                                    |
 | Docker [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIGZ-LVL-gh1wmavd16pxQx1)                                                                                                                                 |
+| Using 🐋 Docker Containers for Production in ⚡ Ignition [Inductive Automation](https://www.youtube.com/watch?v=KYPq4j5V9SA)                                                                                            |
+|                                                                                                                                                                                                                        |
 
 |                                                                      |
 | -------------------------------------------------------------------- |

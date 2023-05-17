@@ -394,6 +394,8 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |                                                                            |                                                                                                                                      |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA) | 太阳鸽鸽 抖音号：[taiyanggegebang](https://www.douyin.com/user/MS4wLjABAAAAc3YEQjp7hQOpeYnBme6TSTnbsyByeE1nQnsHH08wEdDdzXwzGRKr5mFhMONANdHx) |
+| Catsuka [u](https://www.youtube.com/@CatsukaDotCom)                        |                                                                                                                                      |
+|                                                                            |                                                                                                                                      |
 
 |                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- |
@@ -402,6 +404,19 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 | Coding Adventure: Marching Cubes [Sebastian Lague](https://www.youtube.com/watch?v=M3iI2l0ltbE)                      |
 | Coding Adventures [Sebastian Lague](https://www.youtube.com/playlist?list=PLFt\_AvWsXl0ehjAfLFsp1PGaatzAwo0uK)       |
 | How to make: AI Animations [XR MOTION](https://www.youtube.com/watch?v=w\_sxuDMt\_V0)                                |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+
+### 粒子水墨
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| Deep Sea : Behind the Scenes (深海, China) [Catsuka](https://www.youtube.com/watch?v=OSqjHt\_LA4U) |
+| 我为什么说《深海》是一部不会再出现的电影。【银屏系】丨机核 [银屏系漫游指南](https://www.youtube.com/watch?v=y7m4dreqh0g)             |
+|                                                                                                  |
+|                                                                                                  |
+|                                                                                                  |
 
 ## 后期
 

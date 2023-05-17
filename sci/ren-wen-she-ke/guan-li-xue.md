@@ -18,3 +18,11 @@
 | 自我提升 [理想派](https://www.youtube.com/playlist?list=PL9npAsaJ90uIl-bPWnfPva8e\_MHnASu9m)                                                                                                                                                                                                                                            |
 | 酒店品牌建设与管理 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRoQp8acIkBz2UmdtHd03IkK)                                                                                                                                                                                                                                     |
 | 沟通的艺术 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpOYeKFzo8J\_ygUzSX-aJKv)                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                  |
+
+## 人力资源管理, HR
+
+
+
+## 公共关系, 公关, pr
+
