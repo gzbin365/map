@@ -354,6 +354,8 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 峰哥教你玩DOCKER [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVofAKxontw5iSi1bDAhvOdPj)                                                                                                                    |
 | Docker [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIGZ-LVL-gh1wmavd16pxQx1)                                                                                                                                 |
 | Using 🐋 Docker Containers for Production in ⚡ Ignition [Inductive Automation](https://www.youtube.com/watch?v=KYPq4j5V9SA)                                                                                            |
+| 强烈推荐 5 款免费容器！真心不错，速度快！免绑卡、一键搭建开源项目、ChatGPT、代理节点、博客等，都可轻松搞定！！ \| [零度解说](https://www.youtube.com/watch?v=624eTQqx\_As)                                                                                                   |
+|                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                        |
 
 |                                                                      |

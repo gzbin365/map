@@ -363,6 +363,7 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | FREE Cloud Rendering \| Blender + Google Colab [Damian Mathew](https://www.youtube.com/watch?v=3vZ9eTcgw28)                                        |
 | 3 Free ways to render your blender files online [Pirateclaw Animations](https://www.youtube.com/watch?v=nWLyTYnkoEc)                               |
 | Blender Cycles X is Insanely Fast on Google Colab! - Blender Tutorial Micro Singularity                                                            |
+|                                                                                                                                                    |
 
 ### C4D
 

@@ -4,13 +4,13 @@ description: 强化学习 让我以另一种方式玩游戏吧
 
 # RL
 
-**OpenAI(**[**site**](https://openai.com)**,** [**git**](https://github.com/openai)**,** [**Baselines**](https://github.com/openai/baselines)**,** [**GPT-3**](https://arxiv.org/abs/2005.14165)**)**
 
-OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.youtube.com/watch?v=540vzMlf-54)
 
-Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367
 
-Breakthrough potential of AI | Sam Altman | MIT 2023 [Imagination in Action](https://www.youtube.com/watch?v=T5cPoNwO7II\&list=PLY\_nsiUEgM3n8bvHQpkiwOXRg3aeFYES8\&index=2)
+
+
+
+
 
 [**深度强化学习训练智能体：超级玛丽**](https://cloud.tencent.com/developer/article/1786661)
 
@@ -32,6 +32,20 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **腾讯开悟(**[**s**](https://aiarena.tencent.com/aiarena/zh/index/)**, )** | **Reinforcement Learning(**[**quora**](https://reinforcementlearning.quora.com)**, )** |
 |                                                                        | [TutsNode.com](https://tutsnode.com/?s=Reinforcement+Learning)                         |
+
+## OpenAI
+
+|                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OpenAI(**[**site**](https://openai.com)**,** [**git**](https://github.com/openai)**,** [**Baselines**](https://github.com/openai/baselines)**,** [**GPT-3**](https://arxiv.org/abs/2005.14165)**)** |
+| OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.youtube.com/watch?v=540vzMlf-54)                                                                                      |
+| Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367                                                            |
+| Breakthrough potential of AI \| Sam Altman \| MIT 2023 [Imagination in Action](https://www.youtube.com/watch?v=T5cPoNwO7II\&list=PLY\_nsiUEgM3n8bvHQpkiwOXRg3aeFYES8\&index=2)                        |
+| OpenAI CEO Sam Altman testifies at Senate artificial intelligence hearing \| full video [CBS News](https://www.youtube.com/watch?v=TO0J2Yw7usM)                                                       |
+| LIVE: OpenAI CEO Sam Altman testifies during Senate hearing on AI oversight — 05/16/23 [CNBC Television](https://www.youtube.com/watch?v=fP5YdyjTfG0)                                                 |
+| Open AI CEO第一次国会听证会内容介绍 [Jeff科技视角](https://www.youtube.com/watch?v=D2LtLa2agDE)                                                                                                                       |
+|                                                                                                                                                                                                       |
+|                                                                                                                                                                                                       |
 
 ## UP
 
