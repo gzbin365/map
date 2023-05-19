@@ -44,6 +44,7 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | OpenAI CEO Sam Altman testifies at Senate artificial intelligence hearing \| full video [CBS News](https://www.youtube.com/watch?v=TO0J2Yw7usM)                                                       |
 | LIVE: OpenAI CEO Sam Altman testifies during Senate hearing on AI oversight — 05/16/23 [CNBC Television](https://www.youtube.com/watch?v=fP5YdyjTfG0)                                                 |
 | Open AI CEO第一次国会听证会内容介绍 [Jeff科技视角](https://www.youtube.com/watch?v=D2LtLa2agDE)                                                                                                                       |
+| 【OpenAI】萨姆奥特曼 Sam Altman出席国会听证会 \| 积极拥抱政府监管 \| AI企业要上牌照 \| 建议成立国际组织 \| AI将创造更多就业 \| 不为赚钱只因热爱 [最佳拍档](https://www.youtube.com/watch?v=CW4T5dQiViY)                                                      |
 |                                                                                                                                                                                                       |
 |                                                                                                                                                                                                       |
 

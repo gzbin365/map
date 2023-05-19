@@ -38,6 +38,8 @@
 | 参数服务器（Parameter Server）逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=xt-AwUrDxQk)                                                    | Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0) |                                                                                    |
 | 计划用1万元买两台Ubuntu绘图仪 [a说科技](https://www.douyin.com/video/7146946442207186183)                                                               |                                                                                                                      |                                                                                    |
 | Build your own Deep learning Machine - What you need to know [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=Utwnm2kjYAM) |                                                                                                                      |                                                                                    |
+| 服务器和PC的区别 [拿撒勒的码农](https://www.youtube.com/watch?v=o-W8Hudycao)                                                                           |                                                                                                                      |                                                                                    |
+|                                                                                                                                           |                                                                                                                      |                                                                                    |
 
 ## 数据中心
 

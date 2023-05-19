@@ -14,12 +14,24 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-|                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Fundamentals of GPU Architecture [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4) |
-| volumeshader 毒蘑菇测试 [s](https://cznull.github.io/vsbm) [v](https://www.bilibili.com/video/BV1V7411L7P6)                        |
-| 集成显卡和核心显卡是一个东西嘛 [90后科技说](https://www.douyin.com/video/7152454149454482724)                                                    |
-| 黄仁勋为什么能吃到GPU的每一波，cpu与gpu到底有什么区别？GPU时代终结了吗？ [基地](https://www.youtube.com/watch?v=OzPACosEsu0)                                  |
+|                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fundamentals of GPU Architecture [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)                                                               |
+| volumeshader 毒蘑菇测试 [s](https://cznull.github.io/vsbm) [v](https://www.bilibili.com/video/BV1V7411L7P6)                                                                                      |
+| 集成显卡和核心显卡是一个东西嘛 [90后科技说](https://www.douyin.com/video/7152454149454482724)                                                                                                                  |
+| 黄仁勋为什么能吃到GPU的每一波，cpu与gpu到底有什么区别？GPU时代终结了吗？ [基地](https://www.youtube.com/watch?v=OzPACosEsu0)                                                                                                |
+| <p>为什么会有22GB显存的2080Ti？ <a href="https://www.youtube.com/watch?v=32JWAczeWKE">技数犬</a></p><p>TESLA A100 40GB <a href="https://www.youtube.com/watch?v=8aVLuwDWE3o">技数犬</a> 风冷改水冷</p>          |
+| 组装一台自己的GPU炼丹(深度学习)机器玩Ai。不贵，才万元出头! [欧皇张大千](https://www.youtube.com/watch?v=b70MtQPwrQo)                                                                                                      |
+| 31 深度学习硬件：CPU 和 GPU【动手学深度学习v2】 [跟李沐学AI](https://www.youtube.com/watch?v=3eFzd3CEWrY)                                                                                                        |
+| <p>深度学习专用12000的电脑长什么样 <a href="https://www.youtube.com/watch?v=1OmSMHMBoSM">程序员Faith</a></p><p>2023深度学习装机推荐 <a href="https://www.youtube.com/watch?v=G6dUz6csVUs">程序员Faith</a> 3090 24G</p> |
+| 什么显卡能让ChatGPT跑在本地? 计算卡语言模型性能分析 [Luv Letter](https://www.youtube.com/watch?v=uEGWct7KAdk)                                                                                                    |
+| 進行AI訓練所用到的Nvidia GPU顯示卡怎麼挑選?一張表讓你快速掌握 [JohnnyAI](https://www.youtube.com/watch?v=kgYM6hLZDwM)                                                                                               |
+| How to Choose an NVIDIA GPU for Deep Learning in 2023: Ada, Ampere, GeForce, NVIDIA RTX Compared [Jeff Heaton](https://www.youtube.com/watch?v=F1ythHjdWI0)                                 |
+| How to choose a GPU for Computer Vision? \| Deep Learning, CUDA, RAM and more [Pysource](https://www.youtube.com/watch?v=6Mo7ytsitJ0)                                                       |
+| 【科技杂谈79】从GTX到RTX，NVIDIA GEFORCE显卡家族的历史（1999-2019） [红酒汤姆一世](https://www.youtube.com/watch?v=UUxUCVlXV0A)                                                                                     |
+| 4090在深度学习训练上的性能表现 [Duan Qinghua](https://www.youtube.com/watch?v=OgLPLFM3HmY)                                                                                                               |
+| 差价3千，从事生产力 显卡选3090还是3090TI? [草鸡实验室](https://www.youtube.com/watch?v=lCJo9m124Xg)                                                                                                            |
+|                                                                                                                                                                                             |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
 
@@ -46,18 +58,18 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ## **CUDA**
 
-|                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
-| CUDA Explained - Why Deep Learning uses GPUs [**deeplizard**](https://www.youtube.com/watch?v=6stDhEA0wFQ)                              |
-| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)                         |
-| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo)                     |
-| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                                               |
-| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)                              |
-| Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)                           |
-| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)                       |
-| Tensorflow, Pytorch and OpenCV Setup with CUDA [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhivR1J7ULJ1V8PsXUKoMLB) |
-|                                                                                                                                         |
-|                                                                                                                                         |
+|                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>CUDA Explained - Why Deep Learning uses GPUs <a href="https://www.youtube.com/watch?v=6stDhEA0wFQ&#x26;list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&#x26;index=4"><strong>deeplizard</strong></a></p><p>PyTorch - Python Deep Learning Neural Network API</p> |
+| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)                                                                                                                                             |
+| CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo)                                                                                                                                         |
+| Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                                                                                                                                                                   |
+| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)                                                                                                                                                  |
+| Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)                                                                                                                                               |
+| Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)                                                                                                                                           |
+| Tensorflow, Pytorch and OpenCV Setup with CUDA [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhivR1J7ULJ1V8PsXUKoMLB)                                                                                                                     |
+|                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                             |
 
 ## 虚拟化vGPU
 

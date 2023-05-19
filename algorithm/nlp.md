@@ -690,6 +690,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【ChatGPT】国内访问ChatGPT神器Pandora \| 完整安装使用教程 \| Github开源 \| 一次性解决ChatGPT的封号、人机验证、拒绝访问、高负载、中断卡顿等使用问题 [最佳拍档](https://www.youtube.com/watch?v=QjAmFHqsQbw)                                                                                                                                                                       |
 | 【ChatGPT 新玩法】免费容器+免费域名一键部署！无需翻墙任何地方无障碍快速访问 ChatGPT Next Web—— 你的私人AI聊天机器人 \| [零度解说](https://www.youtube.com/watch?v=oarA20sp0ck)                                                                                                                                                                                           |
 | ChatGPT 接入QQ上，打造一个智能的AI聊天机器人，一键安装部署轻松搞定！\| [零度解说](https://www.youtube.com/watch?v=mrMV8IS-6zQ)                                                                                                                                                                                                                             |
+| 【OpenAI 】还能这么玩？ChatGPT 植入你的通讯聊天软件，让你的QQ秒变AI人工智能聊天机器人！！ \| [零度解说](https://www.youtube.com/watch?v=MN2K-K6pydA)                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -997,6 +1000,8 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | the-good-ai [s](https://www.the-good-ai.com/)                                                                                                                                     |
 | TensorFlow2学习：RNN生成古诗词 [蒋含竹](https://mp.weixin.qq.com/s?\_\_biz=Mzg4NDQwNTI0OQ==\&mid=2247522934\&idx=1\&sn=9152bf17f701bd7497bd60aa2e17cd8e\&source=41#wechat\_redirect) AI科技大本营 |
 | Talk \| 剑桥大学在读博士生苏熠暄：对比搜索（Contrastive Search）—当前最优的文本生成算法 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=jQQVSAH3\_7g)   [techbeat](https://www.techbeat.net/talk-info?id=738) |
+| AI Text Generation / LLMs [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsTRhLmGv8qSMdsUs7nC1\_tj)                                                                  |
+|                                                                                                                                                                                   |
 
 ### 代码生成
 

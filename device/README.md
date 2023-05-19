@@ -280,6 +280,24 @@ description: 硬件设备
 |                                                                                                                         |
 |                                                                                                                         |
 
+## 机箱
+
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| 【[Huan](https://www.youtube.com/watch?v=avBKMknCxPo)】 能裝18顆風扇的頂級全塔旗艦: Cooler Master HAF700 EVO |
+|                                                                                                |
+|                                                                                                |
+
+### 开放式机箱
+
+|                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 【[Huan](https://www.youtube.com/watch?v=HnNaiJrJePQ)】 原來機殼也能這麼「開放」! 來自酷碼的開放式機殼， Cooler Master MASTERFRAME 700 Review |
+| 【KENNY】獨具一格的開放式ITX機箱：Streacom DA6 評測體驗 [肯尼酷KENNY](https://www.youtube.com/watch?v=kgoVFVvWvW0)                       |
+| 大号陆地吸尘器？开放式机箱使用一年深度评测清灰总结 [伟酱酱酱酱酱](https://www.youtube.com/watch?v=xl5rRp1-1bY)                                      |
+| 8卡 深度学习                                                                                                              |
+|                                                                                                                      |
+
 ## 笔记本
 
 |                                                                                                                            |     |

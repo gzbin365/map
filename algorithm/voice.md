@@ -80,7 +80,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## 语音识别, ASR, Automatic Speech Recognition
 
-**Speech to Text /** Speech Recognition **/** Voice Recognition / Speech Detection
+**Speech to Text /** Speech Recognition **/** Voice Recognition / Speech Detection 语音转文字
 
 |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -136,6 +136,14 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ## 语音合成 SpeechSynthesis, Audio Generation
 
+Voice Synthesis
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| AI Voice Synthesis [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsTiGp5Jc37XID9jS9SHKUV1) |
+|                                                                                                          |
+|                                                                                                          |
+
 ## **TTS  Text to Speech**
 
 |                                                                                                                                                                                                                      |
@@ -166,6 +174,8 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 |                                                                                                                                                                                                                      |
 | <p>suno-ai/<a href="https://github.com/suno-ai/bark">bark</a></p><p>文字轉語音，堪比人聲！100%相似，完全找不到AI的痕跡！Bing Chat將擁有長期記憶😱 ChatGPT更新！ <a href="https://www.youtube.com/watch?v=9gp4dpH7maA">你的攝影大哥 Davidddodle</a> bark</p> |
 | 2 Build Your Own Audiobooks App ! python projects 2023 ! Master Python by Building Real World Python [Self Study](https://www.youtube.com/watch?v=WBRL0gcZ1cg)  pyttsx3                                              |
+| 最强TTS（文本转语音）模型Bark发布 - 支持带有情感的语音，歌曲生成 -体验声音克隆功能 [小薇 Official Channel](https://www.youtube.com/watch?v=lz9YPR1vq60) huggingface space                                                                                 |
+|                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                      |
 
 |                                                                                                                                                                                                                                                                                                                                                                    |
@@ -181,6 +191,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | [**Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)                                                                                                                                                                                                                                                                                |
 | NVIDIA’s Amazing AI Clones Your Voice! 🤐 [Two Minute Papers](https://www.youtube.com/watch?v=k54cpsAbMn4)                                                                                                                                                                                                                                                         |
 | Microsoft’s New AI Clones Your Voice In 3 Seconds! [Two Minute Papers](https://www.youtube.com/watch?v=F6HSsVIkqIU)                                                                                                                                                                                                                                                |
+| My Vocal.AI s [v](https://www.youtube.com/watch?v=lz9YPR1vq60)                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                                                                                                                                                                                                |
@@ -203,14 +214,16 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 
 ### AI音色替换技术(Sovits4.0)
 
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| voice 2 voice                                                                                                |
-| AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos)   华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)    |
-| 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                  |
-| 从孙燕姿的“漠河舞厅”谈生成式AI创作 [Jeff科技视角](https://www.youtube.com/watch?v=x3DwYWqlY5k) Jarret Charvis                   |
-| AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                |
-|                                                                                                              |
+|                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| voice 2 voice                                                                                                                                              |
+| AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos)   华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)                                                  |
+| 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                                                                |
+| 从孙燕姿的“漠河舞厅”谈生成式AI创作 [Jeff科技视角](https://www.youtube.com/watch?v=x3DwYWqlY5k) Jarret Charvis                                                                 |
+| AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                                                              |
+| 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE) colab                                                                        |
+| Voice Cloning Tutorial with Coqui TTS and Google Colab \| Fine Tune Your Own VITS Model for Free [NanoNomad](https://www.youtube.com/watch?v=6QAGk\_rHipE) |
+|                                                                                                                                                            |
 
 ### Transcribed speech（转录语音）
 

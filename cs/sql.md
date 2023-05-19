@@ -195,8 +195,9 @@ SQL教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384)
 
 ### 分布式训练
 
-|                                                                                         |   |   |
-| --------------------------------------------------------------------------------------- | - | - |
-| 分布式训练 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4cv3QJdZEw08EM0SP00B\_1) |   |   |
-|                                                                                         |   |   |
-|                                                                                         |   |   |
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| 分布式训练 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4cv3QJdZEw08EM0SP00B\_1) |
+| 35 分布式训练【动手学深度学习v2】 [跟李沐学AI](https://www.youtube.com/watch?v=dqKN1RyUUlQ)               |
+|                                                                                         |
+|                                                                                         |

@@ -86,7 +86,7 @@ description: 机器视觉
 | Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
 | AI 產業訓練課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUEnw5L6CASKs04NMa0lg-Bh)                                                                                                                                              |
 | Vision Transformers (ViT) Explained + Fine-tuning in Python [James Briggs](https://www.youtube.com/watch?v=qU7wO02urYU)                                                                                                                     |
-|                                                                                                                                                                                                                                             |
+| AI Image Manipulation [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsRz1Xcaggutgsvi-rlrMsyD)                                                                                                                                 |
 |                                                                                                                                                                                                                                             |
 
 | pillow                                                             |                                                 |   |
@@ -227,6 +227,8 @@ import cv2
 | --------------------------------------------------------------------------------------------------------------- |
 | Turn Midjourney Illustration to Vector in Figma [DesignCode](https://www.youtube.com/watch?v=dWeZnqMArCw)       |
 | 新的 AI 繪圖工具抵達戰場！！Leonardo.ai 五個超酷功能讓 Midjourney 也感到害怕 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=VCpNlcffl4w) |
+| Ai绘图谁更强？ 16GB VS 22GB [技数犬](https://www.youtube.com/watch?v=iZ-p6T4-9eI)                                        |
+| 2080Ti所有涡轮卡都是这么改的！ [技数犬](https://www.youtube.com/watch?v=DlME4nUDNIM)                                           |
 |                                                                                                                 |
 
 ### DeepFake
