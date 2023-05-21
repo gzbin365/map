@@ -9,7 +9,7 @@ description: 硬件设备
 |                                                                        |                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |                                                                        | **QuecPython(**[**s**](https://python.quectel.com/home)**,** [**B**](https://space.bilibili.com/491326023/channel/detail?cid=150963)**,** [**文档**](https://python.quectel.com/wiki/#/zh-cn/)**,** [**git**](https://github.com/quecpython/wiki)**, 抖音号：Josh.Sun)** |
-| **AddOhms(**[**u**](https://www.youtube.com/c/AddOhms/featured)**, )** | **Lenovo(**[**u**](https://www.youtube.com/c/Lenovo/featured)**, )**                                                                                                                                                                                               |
+| **AddOhms(**[**u**](https://www.youtube.com/c/AddOhms/featured)**, )** | **Lenovo(**[**u**](https://www.youtube.com/c/Lenovo/featured)**, )** 联想                                                                                                                                                                                            |
 
 **树莓派下中文字直接转语音播报(**[**B**](https://www.bilibili.com/video/BV1XE411s7ju/)**, )**
 
@@ -31,11 +31,11 @@ description: 硬件设备
 
 ## 计算机硬件
 
-|                                                                                        |                                                                                        |                                                                                        |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX) |
-| 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)          |
-| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         |                                                                                        |
+|                                                                                        |                                                                                        |                                                                                         |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX)  |
+| 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)           |
+| 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         | 電腦硬件入門教學 [腦控](https://www.youtube.com/playlist?list=PLXvhiMRRLHkONRo5SUZzALsgfenhFQRQ-) |
 
 ### **计算机组装**
 

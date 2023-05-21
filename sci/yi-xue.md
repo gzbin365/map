@@ -61,6 +61,7 @@
 | 研发主任破解配方 抖音号：[cy17661788](https://www.douyin.com/user/MS4wLjABAAAAuY4ge9Ncwxm94yMnvAueaz\_mAgAJBtzDwpDQdzrJQ5kgoxw\_tww9Naqf2t8ARO\_5)                                                                                                                                                                                                                                                    |
 | 首席灯光师 抖音号：[renzhitupo1000](https://www.douyin.com/user/MS4wLjABAAAAEhELVaj83IziIXbVUDDRTq25b\_Koy4MyocV5-MS0xRM)                                                                                                                                                                                                                                                                          |
 | 人体百科David伟 [u](https://www.youtube.com/@RenTiBaiKeDavidWei)                                                                                                                                                                                                                                                                                                                               |
+| 神州名医 [u](https://www.youtube.com/@quyengaming2180/videos)                                                                                                                                                                                                                                                                                                                                 |
 
 |                                                                      |                                                                                                                                                                       |   |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -99,11 +100,11 @@
 
 ### 睡眠
 
-|                                                                         |   |   |
-| ----------------------------------------------------------------------- | - | - |
-| 美军睡眠法 [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=EyPi1OlkCJE) |   |   |
-|                                                                         |   |   |
-|                                                                         |   |   |
+|                                                                                    |
+| ---------------------------------------------------------------------------------- |
+| 美军睡眠法 [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=EyPi1OlkCJE)            |
+| 明明睡了8个小时，醒来后还是觉得很累？养成7习惯提高睡眠质量 [神州名医](https://www.youtube.com/watch?v=kdwK6MgigA8) |
+|                                                                                    |
 
 ### 减肥
 

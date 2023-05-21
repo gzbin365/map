@@ -141,7 +141,7 @@
 |                                                                                                      |                                                                                    |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | 周文强 《财道合集》 [New Thinking](https://www.youtube.com/playlist?list=PL\_QvAG3g5DBpwDZEACj1KVVQ7oqmYiEqj) | 鹏鹏生活百科 Encyclopedia of Life [u](https://www.youtube.com/@phangphang7391/playlists) |
-| 思维格局 [u](https://www.youtube.com/@zwq1319/playlists)                                                 |                                                                                    |
+| 思维格局 [u](https://www.youtube.com/@zwq1319/playlists)                                                 | 周老师心灵智慧 [u](https://www.youtube.com/@zwq1314)                                      |
 |                                                                                                      |                                                                                    |
 |                                                                                                      |                                                                                    |
 |                                                                                                      |                                                                                    |

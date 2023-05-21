@@ -1,10 +1,11 @@
 # 物联网
 
-|                                                                             |                                                                                                                          |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists) | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                       |
-| 小帅同学Js [u](https://www.youtube.com/channel/UCYOPGlIOwGdmL-IBuCZLu9A)        | 宅智家 [u](https://www.youtube.com/c/%E5%AE%85%E6%99%BA%E5%AE%B6) Home Assistant                                            |
-| Chan的智能家居折腾之路 [u](https://www.youtube.com/@Chan.Y/videos)                   | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) |
+|                                                                                                                  |                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [开发者学堂](https://www.youtube.com/channel/UCJoP94QqAM59-sgEcBCo0qQ/playlists)                                      | 千锋教育 [u](https://www.youtube.com/channel/UCtlYTdQCuSRP7W5r2aOMvQw)                                                       |
+| 小帅同学Js [u](https://www.youtube.com/channel/UCYOPGlIOwGdmL-IBuCZLu9A)                                             | 宅智家 [u](https://www.youtube.com/c/%E5%AE%85%E6%99%BA%E5%AE%B6) Home Assistant                                            |
+| Chan的智能家居折腾之路 [u](https://www.youtube.com/@Chan.Y/videos)                                                        | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists) |
+| Home Assistant [Awesome Open Source](https://www.youtube.com/playlist?list=PLjLkaXQ35321UKMrpRp81\_w2Hc\_tcnshj) |                                                                                                                          |
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

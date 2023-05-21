@@ -242,11 +242,11 @@
 
 ## Web
 
-|                                                                                         |   |   |
-| --------------------------------------------------------------------------------------- | - | - |
-| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                    |   |   |
-| Secure Login System in Python [NeuralNine](https://www.youtube.com/watch?v=3NEzo3CfbPg) |   |   |
-|                                                                                         |   |   |
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| 代码真香 [u](https://www.youtube.com/c/biezhi/playlists)                                                                    |
+| Secure Login System in Python [NeuralNine](https://www.youtube.com/watch?v=3NEzo3CfbPg)                                 |
+| The Backend Engineering Show [Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY) |
 
 ### WordPress
 

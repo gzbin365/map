@@ -40,6 +40,8 @@ description: Generative Adversarial Network (GAN)
 | StyleGAN2 explained - AI generated faces, cars and cats! [AI Bites](https://www.youtube.com/watch?v=841UAo7Ax5w)                                                             |
 | Talk \| 清华大学计算机科学与技术系博士研究生孔祥哲：基于等变图注意力网络的抗体设计 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=F5rZELbZSsI)                                                                 |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                       |
+| 【AIGC】GAN模型出新花样 \| DragGAN模型 \| 点点拖拽就能生成新图像 \| 让狗转头让狮子开口让人眨眼 \| MIT谷歌马普所多团队联手打造 \| 第一作者华人 [最佳拍档](https://www.youtube.com/watch?v=3Rx1-FrldSc)                                |
+|                                                                                                                                                                              |
 |                                                                                                                                                                              |
 
 | AnimeGAN                                                                                                                                                                   |
