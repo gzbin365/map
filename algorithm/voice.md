@@ -61,7 +61,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 文字转语音、音频转文字软件！双向转换，完全免费开源！支持 Windows、macOS、Linux \| [零度解说](https://www.youtube.com/watch?v=MP\_tjvFq3m0)                                                                                                                                                                                                                                                                              |
 | 注意看，这些全是 AI 配音。 [Topbook](https://www.youtube.com/watch?v=yUuS-oTDSD4)                                                                                                                                                                                                                                                                                                                |
 | 中国传媒大学\_\_播音主持普通话语音 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z4J3SZWxrDH-xpythKiXyim)                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                       |
+| <p>Audio Slicer 音频切片机 一个简约的 GUI 应用程序，通过静音检测对音频进行切片。</p><p>flutydeer/<a href="https://github.com/flutydeer/audio-slicer">audio-slicer</a> <a href="https://www.youtube.com/watch?v=YAviCCA-Fic">v</a></p>                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                       |
 
@@ -110,7 +110,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 【Code Gym】Python 文字轉語音教學，用短短幾行程式，做出會讀文字說話的自動化服務 [Code Gym](https://www.youtube.com/watch?v=0PuslZHJQes)                                                                                                                                                                                                      |
 | 教你写一款简单的语音识别软件 [程序马](https://www.youtube.com/watch?v=4A3NAYgz-R8)                                                                                                                                                                                                                                            |
 | 语音识别小程序 识别中英文语音转文字 附python code源码 [人工智障机器人](https://www.youtube.com/watch?v=dPiZG0yM5H4)                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                              |
+| 【免費！極速！上字幕！】5分鐘完成8小時的工作量！ [木石mushi](https://www.youtube.com/watch?v=8tjbHfkO9bU\&list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o) 剪映                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                              |
 
 | pyTranscriber                                                                                                                              |                                                                                                               |   |
@@ -223,6 +223,8 @@ Voice Synthesis
 | AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                                                              |
 | 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE) colab                                                                        |
 | Voice Cloning Tutorial with Coqui TTS and Google Colab \| Fine Tune Your Own VITS Model for Free [NanoNomad](https://www.youtube.com/watch?v=6QAGk\_rHipE) |
+| 一键完成Ai声音模拟和音色替换，无需训练模型 – 快速生成AI孙燕姿歌曲 [小薇 Official Channel](https://www.youtube.com/watch?v=YAviCCA-Fic)                                                    |
+|                                                                                                                                                            |
 |                                                                                                                                                            |
 
 ### Transcribed speech（转录语音）
@@ -249,6 +251,14 @@ Voice Synthesis
 | 借助ChatGPT，乐盲也能轻松驾驭 Google MusicLM，Midjourney来助阵，让音乐与图像完美结合 \| [回到Axton](https://www.youtube.com/watch?v=s3Lm\_uff4PA)                                                |
 |                                                                                                                                                                      |
 
+### text to song
+
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| Voicemod声音模拟 [s](https://tuna.voicemod.net/text-to-song/) [v](https://www.youtube.com/watch?v=YAviCCA-Fic) |
+|                                                                                                            |
+|                                                                                                            |
+
 ### X Studio 3
 
 |                                                                                                                                                                                      |
@@ -259,11 +269,11 @@ Voice Synthesis
 
 ## 人声分离
 
-|                                                         |   |   |
-| ------------------------------------------------------- | - | - |
-| algoriddim [s](https://www.algoriddim.com/djay-pro-mac) |   |   |
-|                                                         |   |   |
-|                                                         |   |   |
+|                                                                                                                    |   |   |
+| ------------------------------------------------------------------------------------------------------------------ | - | - |
+| algoriddim [s](https://www.algoriddim.com/djay-pro-mac)                                                            |   |   |
+| vocal remover [v](https://www.youtube.com/watch?v=YAviCCA-Fic) [s](https://www.media.io/online-vocal-remover.html) |   |   |
+| Ultimate Vocal Remover [s](https://ultimatevocalremover.com/) [v](https://www.youtube.com/watch?v=YAviCCA-Fic)     |   |   |
 
 ## Voice Assistant
 

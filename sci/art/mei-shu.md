@@ -153,12 +153,12 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 达芬奇教程 [Mediastorm影视飓风](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV)                                                                                                 |
 |                                                                                                                                                                                                  |
 
-## 视频剪辑
+## 视频剪辑 剪輯
 
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
 | 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf\_id=8) |
-|                                                                                             |
+| 剪輯教學 [木石mushi](https://www.youtube.com/playlist?list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o)    |
 |                                                                                             |
 
 ### 剪映 剪映国际版capcut

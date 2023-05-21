@@ -660,6 +660,8 @@ Theory of functions of a real variable
 | 质数有多重要？数学家欧拉和高斯是如何研究质数的 ？李永乐老师讲黎曼猜想（2） [李永乐老师](https://www.youtube.com/watch?v=4vbcC4TcMGc)       |
 | 悬赏100万美元的“黎曼猜想”有多难？李永乐老师讲什么是黎曼猜想（3） [李永乐老师](https://www.youtube.com/watch?v=NeoDdnSlRjk)          |
 | 朗道-西格尔零点是什么？张益唐证明了黎曼猜想吗？ [李永乐老师](https://www.youtube.com/watch?v=Y86kfiVEXd4)                     |
+| 悬赏100万美元的“黎曼猜想”有多难？听懂就已经很难了！[天才简史](https://www.youtube.com/watch?v=Wro5h3aSC5U)                   |
+|                                                                                                   |
 
 ### 泛函分析 Functional Analysis
 
