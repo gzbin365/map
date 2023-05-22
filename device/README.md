@@ -37,6 +37,12 @@ description: 硬件设备
 | 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)           |
 | 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         | 電腦硬件入門教學 [腦控](https://www.youtube.com/playlist?list=PLXvhiMRRLHkONRo5SUZzALsgfenhFQRQ-) |
 
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| 板廠沒有說的祕密 [板廠沒有說的秘密 TOPPC](https://www.youtube.com/playlist?list=PLLJxhaFfyGEOtGdxfMM8I2GLxJCVinqnx) |
+|                                                                                                     |
+|                                                                                                     |
+
 ### **计算机组装**
 
 |                                                                                                           |
@@ -270,15 +276,15 @@ description: 硬件设备
 
 ## ITX主机
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评                   |
-| 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                                    |
-| 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                                                 |
-| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                                       |
-| foni [u](https://www.youtube.com/@foni2047/videos)   ITXLAB-koukou. CN [u](https://www.youtube.com/@ITXLAB-koukouCN)    |
-|                                                                                                                         |
-|                                                                                                                         |
+|                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【[Fun科技](https://www.youtube.com/watch?v=d2wmE3ro26Q)】只要2000元！把显卡插在头顶上的超小ITX准系统主机，靠谱么？TinyMonster上手简评                                                                        |
+| 【[Fun科技](https://www.youtube.com/watch?v=WujRx61LBpc)】为什么我不喜欢装ITX电脑？                                                                                                         |
+| 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                                                                                                      |
+| ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                                                                                            |
+| foni [u](https://www.youtube.com/@foni2047/videos)   ITXLAB-koukou. CN [u](https://www.youtube.com/@ITXLAB-koukouCN)   EIGA [u](https://www.youtube.com/@EIGAtech/videos)    |
+|                                                                                                                                                                              |
+|                                                                                                                                                                              |
 
 ## 机箱
 
@@ -602,6 +608,7 @@ description: 硬件设备
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 老狼 [zh](https://www.zhihu.com/people/mikewolfwoo) 前芯片公司高级研发经理，现科创板公司CTO，UEFIBlog                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | [How a CPU is made](https://www.youtube.com/watch?v=qm67wbB5GmI) DIY with Ben                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 💻 - See How a CPU Works [In One Lesson](https://www.youtube.com/watch?v=cNN\_tTXABUA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 💻 - See What's Inside a CPU [In One Lesson](https://www.youtube.com/watch?v=NKYgZH7SBjk)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

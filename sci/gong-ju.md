@@ -19,6 +19,8 @@
 | LaTeX Tutorials [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)                             |
 | LaTeX – Full Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=ydOTMQC7np0)                                           |
 | Mathpix 公式\|图表 生成神器 LaTeX写论文报告必备工具 截图自动识别 [Ben Tech](https://www.youtube.com/watch?v=0cvmFPu6O9Y)                                         |
+| Render Math Formulas From LaTeX in Python [NeuralNine](https://www.youtube.com/watch?v=4MROGBovKC0)                                       |
+|                                                                                                                                           |
 |                                                                                                                                           |
 | Overleaf                                                                                                                                  |
 | 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)                       |
@@ -42,12 +44,12 @@
 
 ### 其他导航
 
-|                                                                                                   |                                  |                                  |
-| ------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
-| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/) | Cilici[li](https://cilicili.cn/) |
-| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)   |                                  |
-| 115综合资源网 [s](https://www.smk115.net/)                                                             |                                  |                                  |
-|                                                                                                   |                                  |                                  |
+|                                                                                                   |                                                                 |                                  |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------- |
+| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/)                                | Cilici[li](https://cilicili.cn/) |
+| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)                                  |                                  |
+| 115综合资源网 [s](https://www.smk115.net/)                                                             | 十大导航网站排行榜 [v](https://www.douyin.com/video/7235648127674469670) |                                  |
+|                                                                                                   |                                                                 |                                  |
 
 ### 安卓模拟器, emulator
 

@@ -691,7 +691,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【ChatGPT 新玩法】免费容器+免费域名一键部署！无需翻墙任何地方无障碍快速访问 ChatGPT Next Web—— 你的私人AI聊天机器人 \| [零度解说](https://www.youtube.com/watch?v=oarA20sp0ck)                                                                                                                                                                                           |
 | ChatGPT 接入QQ上，打造一个智能的AI聊天机器人，一键安装部署轻松搞定！\| [零度解说](https://www.youtube.com/watch?v=mrMV8IS-6zQ)                                                                                                                                                                                                                             |
 | 【OpenAI 】还能这么玩？ChatGPT 植入你的通讯聊天软件，让你的QQ秒变AI人工智能聊天机器人！！ \| [零度解说](https://www.youtube.com/watch?v=MN2K-K6pydA)                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                            |
+| 终于来了！ChatGPT 官方 APP正式版发布，居然暗藏福利！可无限制使用 GPT4，附“非美区”用户安装教程！ \| [零度解说](https://www.youtube.com/watch?v=X2ZKyqxHLfA)                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
@@ -1016,7 +1016,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | Cursor [v](https://www.youtube.com/watch?v=9XzEuEZlji0)                                                                                         |
 | AWS CodeWhisperer 完整教學 \| 比 Github Copilot 更省錢的寫程式助手 \| 免費提升開發效率 [今天比昨天厲害](https://www.youtube.com/watch?v=wXcyq2Ay4uE)                         |
 | 微软AI Copilot产品入门和应用指南 [大宇时空](https://www.youtube.com/playlist?list=PL\_qO\_t9auXSblj8s3pts8TYFf9svA0hqu)                                        |
-|                                                                                                                                                 |
+| StarCoder: How to use an LLM to code [AssemblyAI](https://www.youtube.com/watch?v=1PH3oDly1bc)                                                  |
 |                                                                                                                                                 |
 
 #### 拼写检查
