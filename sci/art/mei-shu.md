@@ -293,7 +293,7 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | 阿里巴巴数字人公测 [迷途小书童的Note](https://www.youtube.com/watch?v=CMqQY4xeeao)                                                            |
 | Caryn AI \| 美国女网红把自己做成虚拟女友 [最佳拍档](https://www.youtube.com/watch?v=BlED3pXO5NQ) Forever Voice                                   |
 | These TikTokers Are AI Generated \[SD Multi-Frame Rendering] [bycloud](https://www.youtube.com/watch?v=Lx5Hy9YfZLs)            |
-|                                                                                                                                |
+| 超逼真的AI数字人，一键免费生成教程！还能克隆你自己，用这2个网站即可轻松搞定！！ \| [零度解说](https://www.youtube.com/watch?v=OpYYFGJPr0A)                               |
 
 
 
