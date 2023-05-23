@@ -31,4 +31,7 @@
 | Algorithmic Trading With Python [CodeTrading](https://www.youtube.com/playlist?list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm)               |
 | BloombergGPT [v](https://www.youtube.com/watch?v=z1oUmFdjBLM)                                                                         |
 | I Built a Trading Bot with Bing and ChatGPT [Siraj Raval](https://www.youtube.com/watch?v=5G1\_zRME\_pY)                              |
+| 不可能吧！AI 幫你算台積電最佳買入價位？！ [Mosky](https://www.youtube.com/watch?v=s8vHy9NILFY) talib yfinance                                            |
+|                                                                                                                                       |
+|                                                                                                                                       |
 |                                                                                                                                       |

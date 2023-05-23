@@ -62,6 +62,9 @@ description: 好好睡觉 好好干饭
 | My Brain after 569 Leetcode Problems [NeetCode](https://www.youtube.com/watch?v=8wysIxzqgPI)                                          |
 | 了解 Neuroscience and Brain Research 神经科学和脑研究 (3 分钟微学习) ENG Subtitle [BioTech Whisperer](https://www.youtube.com/watch?v=W2N7\_mfZbIo)  |
 |                                                                                                                                       |
+| 改善精神状态                                                                                                                                |
+| 你多久打不起精神了？你可能是慢性疲勞 [理科 Plus](https://www.youtube.com/watch?v=4PFr7e0GCVU)                                                             |
+| 脑力下降，反应迟钝？如何恢复大脑活力？ [鹏哥谈健康](https://www.youtube.com/watch?v=ThBuvQwO6mU)                                                              |
 |                                                                                                                                       |
 
 ### 植物

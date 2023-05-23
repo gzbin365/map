@@ -655,6 +655,7 @@ import cv2
 |                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【怜狸酱的小课堂】使用百度AI studio进行视频插帧 [谜怜狸](https://www.bilibili.com/video/BV1rS4y1T7XZ) [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2398000?shared=1) |
+| 【硬件科普】免费提升画质和帧数？详解DLSS2.0的工作原理与作用 [硬件茶谈](https://www.youtube.com/watch?v=Hi5vbf7sdVQ\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=12) 抗锯齿                  |
 | 【GPU】NVIDIA RTX40專有技術，DLSS3.0技術解析！ [可見TV](https://www.youtube.com/watch?v=fw\_4aEp5Kl4)                                                                        |
 | DLSS 3 RTX4090：性能新标杆，不只是打游戏 [林亦LYi](https://www.youtube.com/watch?v=rkv47icj1Jk)                                                                               |
 | 【Huan】 無庸置疑的強大。 NVIDIA GeForce RTX 4090性能實測 [Huan](https://www.youtube.com/watch?v=vEBGCuf7rOU)                                                                |

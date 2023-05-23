@@ -31,6 +31,8 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | 【科技杂谈79】从GTX到RTX，NVIDIA GEFORCE显卡家族的历史（1999-2019） [红酒汤姆一世](https://www.youtube.com/watch?v=UUxUCVlXV0A)                                                                                     |
 | 4090在深度学习训练上的性能表现 [Duan Qinghua](https://www.youtube.com/watch?v=OgLPLFM3HmY)                                                                                                               |
 | 差价3千，从事生产力 显卡选3090还是3090TI? [草鸡实验室](https://www.youtube.com/watch?v=lCJo9m124Xg)                                                                                                            |
+| 百万“电脑”该怎么玩？自己造个GPT！ [科技宅小明](https://www.youtube.com/watch?v=UWR7pIOpg\_A) nanoGPT 新华三 R5350 G6                                                                                              |
+| 【[硬件科普](https://www.youtube.com/watch?v=hi-9e8TRz2E\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=39)】全网最详细显卡散热工作原理科普                                                                    |
 |                                                                                                                                                                                             |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)

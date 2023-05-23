@@ -656,6 +656,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 311 - Fine tuning GPT2 using custom documents​ [DigitalSreeni](https://www.youtube.com/watch?v=nsdCRVuprDY)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Text Generation using GPT2 [Priya Bhatia](https://www.youtube.com/watch?v=Zpu4mubO\_qE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 百万“电脑”该怎么玩？自己造个GPT！ [科技宅小明](https://www.youtube.com/watch?v=UWR7pIOpg\_A) nanoGPT 新华三 R5350 G6 GPT2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### ChatGPT
@@ -692,7 +693,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ChatGPT 接入QQ上，打造一个智能的AI聊天机器人，一键安装部署轻松搞定！\| [零度解说](https://www.youtube.com/watch?v=mrMV8IS-6zQ)                                                                                                                                                                                                                             |
 | 【OpenAI 】还能这么玩？ChatGPT 植入你的通讯聊天软件，让你的QQ秒变AI人工智能聊天机器人！！ \| [零度解说](https://www.youtube.com/watch?v=MN2K-K6pydA)                                                                                                                                                                                                              |
 | 终于来了！ChatGPT 官方 APP正式版发布，居然暗藏福利！可无限制使用 GPT4，附“非美区”用户安装教程！ \| [零度解说](https://www.youtube.com/watch?v=X2ZKyqxHLfA)                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                            |
+| 本地安装 ChatGPT！无需API、 免翻墙、完全免费使用纯正OpenAI的全部功能！ 支持 Windows、 Mac、NAS、Linux系统 \| [零度解说](https://www.youtube.com/watch?v=gKmawmUw7Jo) docker                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -751,11 +752,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### Google Bard
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                          |
+| Google AI 全面开放！谷歌 AI Bard 使用教程、无需排队人人都可用！升级后的 Google AI 到底怎么样？Bard 跟 ChatGPT 相比如何？｜[数字牧民LC](https://www.youtube.com/watch?v=g-rfCGUOymE) |
+|                                                                                                                                          |
 
 ### Google PaLM (Pathways Language Model)
 

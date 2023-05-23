@@ -20,7 +20,7 @@ description: 硬件设备
 | **Arduino Engineering Kit Videos(**[**u**](https://www.youtube.com/channel/UCaPRtmtzWXQkbo9D-OxMN1w/videos)**, )**                                                         | **Carlos Roberto(**[**u**](https://www.youtube.com/user/zenetio/videos)**, )**         |
 | **Paul's Hardware(**[**u**](https://www.youtube.com/c/paulshardware/featured)**, )**                                                                                       | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                     |
 | **MS Experiments(**[**u**](https://www.youtube.com/c/MSExperiments1/featured)**,** [**ROBO GURU**](https://www.youtube.com/channel/UC6vyuhnzYsfkD1KLrNxeOVw/videos)**, )** | 熊的開發DVPBear [u](https://www.youtube.com/user/m0923678421)                              |
-| **Simply Better(**[**u**](https://www.youtube.com/c/SimplyBetter\_SB/playlists)**, )**                                                                                     |                                                                                        |
+| **Simply Better(**[**u**](https://www.youtube.com/c/SimplyBetter\_SB/playlists)**, )**                                                                                     | BAI TV [u](https://www.youtube.com/@BAITV1/videos)                                     |
 | **RoboShala(**[**u**](https://www.youtube.com/c/RoboShala/featured)**, )**                                                                                                 |                                                                                        |
 | **Kotai Electronics Pvt. Ltd.(**[**u**](https://www.youtube.com/c/MyElectronicsLab/featured)**, )**                                                                        |                                                                                        |
 | **JayzTwoCents(**[**u**](https://www.youtube.com/c/Jayztwocents/featured)**, )**                                                                                           | **修客(**[**u**](https://www.youtube.com/channel/UCZoE5OhPeozu88vfPDcy3NQ/videos)**, )** |
@@ -599,10 +599,11 @@ description: 硬件设备
 
 ## 散热
 
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| 【硬件科普】电脑散热也讲风水？全网最详细电脑散热器工作原理科普 [硬件茶谈](https://www.youtube.com/watch?v=r1lLFOBqhZw) |
-|                                                                                     |
+|                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| 【硬件科普】电脑散热也讲风水？全网最详细电脑散热器工作原理科普 [硬件茶谈](https://www.youtube.com/watch?v=r1lLFOBqhZw)                                             |
+| 【[硬件科普](https://www.youtube.com/watch?v=KedqBH5QtH8\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=40)】电脑散热风扇的接口和转速控制类型你了解多少？ |
+|                                                                                                                                 |
 
 ## CPU
 
@@ -720,21 +721,21 @@ System on Chip, 系统级芯片
 
 ## 显示器 屏幕
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| testufo [s](https://www.testufo.com/)                                                                 |
-| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)                          |
-| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders                      |
-| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)                       |
-| 【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 [硬件茶谈](https://www.youtube.com/watch?v=v\_-q1ybcTF8)                    |
-| 【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？[硬件茶谈](https://www.youtube.com/watch?v=orWW\_-qd2uk) |
-| 【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 [硬件茶谈](https://www.youtube.com/watch?v=gZriQjtABCk)                 |
-| 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】[Multiverse多元宇宙](https://www.youtube.com/watch?v=SaLsGluU3Oo)    |
-| 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                   |
-| 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗？ [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM)         |
-| 【科普】DP接口是什么？对比HDMI有哪些优劣？DisplayPort简单科普 [徕笙Channel](https://www.youtube.com/watch?v=qGpe5AhV0Dk)      |
-| 【硬件科普】一个视频带你了解LCD OLED QLED mini-LED等显示技术的区别 [硬件茶谈](https://www.youtube.com/watch?v=wHdSGmqLne0)      |
-|                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| testufo [s](https://www.testufo.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 专业显示器的非专业体验，到底贵在哪里 [挨踢研究所](https://www.douyin.com/video/7022971011121335556)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 多屏协同 [v](https://www.douyin.com/video/7026283549623946532) Mouse without Borders                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 【轻电科技】没钱又想干专业的事？小米首款4K显示器体验 [轻电科技](https://www.youtube.com/watch?v=QC-1HRlz1pM)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| <p>【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普 <a href="https://www.youtube.com/watch?v=gZriQjtABCk">硬件茶谈</a></p><p>【硬件科普】显示器的色域和色准是什么东西？他会影响哪些体验 <a href="https://www.youtube.com/watch?v=v_-q1ybcTF8">硬件茶谈</a></p><p>【硬件科普】显示器的色域是越广越好吗？色彩管理说的是什么东西？为什么广色域显示器最好要做色彩管理？<a href="https://www.youtube.com/watch?v=orWW_-qd2uk">硬件茶谈</a></p><p>【硬件科普】显示器的色深是个什么参数，他会影响你的哪些体验 <a href="https://www.youtube.com/watch?v=qVeRlX1DKAY&#x26;list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX&#x26;index=19">硬件茶谈</a> DisplaySpecifications</p> |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】[Multiverse多元宇宙](https://www.youtube.com/watch?v=SaLsGluU3Oo)                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 烧屏: oled替换成LCD或墨水屏 [s](https://www.youtube.com/watch?v=v8Q0qaJ9vVU)                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗？ [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM)                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 【科普】DP接口是什么？对比HDMI有哪些优劣？DisplayPort简单科普 [徕笙Channel](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 【硬件科普】一个视频带你了解LCD OLED QLED mini-LED等显示技术的区别 [硬件茶谈](https://www.youtube.com/watch?v=wHdSGmqLne0)                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 | 墨水屏                                                                                            |
 | ---------------------------------------------------------------------------------------------- |
@@ -770,7 +771,21 @@ System on Chip, 系统级芯片
 | 6000元把激光影院搬回家？三色激光投影有多强 \| 坚果N1 Pro 测评 [先看评测](https://www.youtube.com/watch?v=jmv0yMrWeF4)        |
 |                                                                                                   |
 
+## 采集卡
+
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 【硬件科普】视频采集卡有什么用？哪些场景需要采集卡？采集卡工作原理是啥？[硬件茶谈](https://www.youtube.com/watch?v=KoFDxkd7xjc\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=9) |
+|                                                                                                                                            |
+|                                                                                                                                            |
+
 ## 电源
+
+|                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【[硬件科普](https://www.youtube.com/watch?v=AixflQWXszY\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=21)】什么是模组电源？他和普通电源有什么区别？模组电源定制线又是什么东西？    |
+| 【[硬件科普](https://www.youtube.com/watch?v=EjBQ-di7zDQ\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=24)】电源的金银铜牌指的是什么参数？金牌电源比铜牌好吗？详解电源80PLUS认证 |
+|                                                                                                                                                |
 
 | 太阳能                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -962,6 +977,7 @@ direct-attached storage
 | 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)   |
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
 | 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)   云盾数据恢复中心 [u](https://www.youtube.com/@user-yg8ti8ym1y)     |
+| shred -u filename                                                                                                  |
 
 ## 宽带 专线
 
