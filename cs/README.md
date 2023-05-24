@@ -128,17 +128,19 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 
 ### Nvidia
 
-|                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://www.nvidia.cn/)                                                                                                                    |
-| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25)                                     |
-| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)                                          |
-| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                                                    |
-| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)                                            |
-| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0)                                                       |
-| Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview [CNBC](https://www.youtube.com/watch?v=\_-wjA4XlBl4) |
-| Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=cJROlT\_ccFM)                         |
-|                                                                                                                                                |
+|                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [s](https://www.nvidia.cn/)                                                                                                                      |
+| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25)                                       |
+| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)                                            |
+| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                                                      |
+| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)                                              |
+| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=59) GFE |
+| Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview [CNBC](https://www.youtube.com/watch?v=\_-wjA4XlBl4)   |
+| Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=cJROlT\_ccFM)                           |
+| 【[硬核科普](https://www.youtube.com/watch?v=\_qR6nue-UDk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=61)】如何让多人在线同步编辑三维动画场景，Omniverse帮你告别文件同步与迭代 |
+|                                                                                                                                                  |
+|                                                                                                                                                  |
 
 ### Facebook  Meta
 

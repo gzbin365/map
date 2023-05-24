@@ -131,6 +131,7 @@
 | C语言编程参考 嵌入式C语言进阶之道(C语言编程风格).[pdf](http://maxwell.ysepan.com/)                                                                                                                                                                                                                   |
 | C語言程式設計 [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbaD87VvzT7DPclekQsTP\_-8)                                                                                                                                                                            |
 | <p>浙江大学__C语言程序设计完整课程 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6xIz3aLpowAQwCp0FuYNcv">知识资源世界(KnowledgeWorld)</a></p><p>北京大学__数据结构与算法(C语言版本) <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6YTXNEcW_s2qrBhF72WjDn">知识资源世界(KnowledgeWorld)</a></p> |
+| C Language [Dr. Bilal](https://www.youtube.com/playlist?list=PLh6xNmrNtosK0NuT\_\_2QwI1Uhg8rEn-wB)                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                 |
 
 ## Book

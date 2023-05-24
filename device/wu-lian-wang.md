@@ -22,4 +22,9 @@
 | \[科技實作] 5000塊的自製冷氣遙控器｜ Arduino + Homebridge [Ning's Talk](https://www.youtube.com/watch?v=RJMFaNfvIY4)                                                              |
 | IoT hacking [Flashback Team](https://www.youtube.com/playlist?list=PLfi5XR5jA2Hofpdf0i9docq9ZkP1ihenL)                                                              |
 | AIoT人工智慧物聯網雲端服務平台課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUFo9e1ppHT5JY85AUPMImtE)                                                            |
+| 【[硬件科普](https://www.youtube.com/watch?v=hexHgTFBCG4\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=45)】智能门锁如何方便你的生活                                               |
+| Smart Home [SoulOfTech](https://www.youtube.com/playlist?list=PLHJvgQj-G\_5FzhX7vwOPZnHnRmqmNi7M0)                                                                  |
+|                                                                                                                                                                     |
+|                                                                                                                                                                     |
+|                                                                                                                                                                     |
 |                                                                                                                                                                     |

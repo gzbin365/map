@@ -126,6 +126,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 |                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                               |
 | 电路-西安交通大学([网课慕课](https://www.youtube.com/playlist?list=PLqlw88i7XLoyAzgE01c4w4mnIM3nDkVyd))                                                                                                                                   |
 | [高斯课堂 蜂考《电路》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1PnZkV\_9j-VuVrLR5eX1Q8)(高adminar)                                                                                                                         |
 | [高斯课堂 蜂考《数字电子技术基础》《数电》4小时](https://www.youtube.com/playlist?list=PLXiGKg3oo9C1ya4wqozqvk7NaJ0-aaHyZ)(高adminar)                                                                                                                |
@@ -140,6 +141,9 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 亿图图示 抖音号：[EdrawMax](https://www.douyin.com/user/MS4wLjABAAAAj5JiKQaA8qrVSMcm\_aWK0swOAGeyeMhrOp9zznWo9kw)  制图绘图软件 电路图                                                                                                         |
 | <p>The Big Misconception About Electricity <a href="https://www.youtube.com/watch?v=bHIhgxav9LY">Veritasium</a></p><p>How Electricity Actually Works <a href="https://www.youtube.com/watch?v=oI_X2cMHNe0">Veritasium</a></p> |
 | Circuits [AlphaPhoenix](https://www.youtube.com/playlist?list=PL39PMIJeIAqxAlvsvCbBSEUXEMOS7XQDS)                                                                                                                             |
+| 模拟电子电路 [周末实验室](https://www.youtube.com/playlist?list=PLG\_u09HLwxf-LZcE9KeSIyQal0CuHlgRW)                                                                                                                                     |
+|                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                               |
 
 ## 微波 Microwave
 

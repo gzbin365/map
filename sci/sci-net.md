@@ -22,11 +22,11 @@
 
 ## 工具
 
-|                                                                                                                                                                                                                                                                                                                     | 备注                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| **Qv2ray(**[**site**](https://qv2ray.net)**,** [**v**](https://www.youtube.com/watch?v=fyLFgycALj0)**,** [**书童**](https://xugaoxiang.com/2020/10/17/qv2ray/)**,** [**d**](https://github.com/Qv2ray/Qv2ray/releases/)**,** [**d**](https://github.com/v2fly/v2ray-core/releases)**) 已废弃**                           | 上网工具, 需要提前在机场购买服务 |
-| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI\&t=329s) [s](https://gogoo.club/user/tutorial?os=linux\&client=clash) [v](https://www.youtube.com/watch?v=9Ice-qMePQk) [面板](http://clash.razord.top/#/connections) |                   |
-| ClashN [v](https://www.youtube.com/watch?v=-H-fzgw6A4M)                                                                                                                                                                                                                                                             |                   |
+|                                                                                                                                                                                                                                                                                                                                                                       | 备注                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Qv2ray(**[**site**](https://qv2ray.net)**,** [**v**](https://www.youtube.com/watch?v=fyLFgycALj0)**,** [**书童**](https://xugaoxiang.com/2020/10/17/qv2ray/)**,** [**d**](https://github.com/Qv2ray/Qv2ray/releases/)**,** [**d**](https://github.com/v2fly/v2ray-core/releases)**) 已废弃**                                                                             | 上网工具, 需要提前在机场购买服务 |
+| Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI\&t=329s) [s](https://gogoo.club/user/tutorial?os=linux\&client=clash) [v](https://www.youtube.com/watch?v=9Ice-qMePQk) [面板](http://clash.razord.top/#/connections) [漏洞](https://www.youtube.com/watch?v=dnFu2Je20XE) |                   |
+| ClashN [v](https://www.youtube.com/watch?v=-H-fzgw6A4M)                                                                                                                                                                                                                                                                                                               |                   |
 
 ## 插件
 
@@ -55,13 +55,13 @@
 | 这张手机卡SIM卡无限流量，无需翻墙轻松上YouTube [向北](https://www.youtube.com/watch?v=UxK-XgxLRm8) |
 | 套餐详情 [s](https://www.1888.com.mo/help/detail?tabCode=EASYPLUS)                 |
 
-|                                                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 【硬核翻墙/科学上网】系列视频 [电丸科技AK](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)                                                                         |
-| How to Make Your Own VPN (And Why You Would Want to) [Wolfgang's Channel](https://www.youtube.com/watch?v=gxpX\_mubz2A)                                                    |
-| 翻墙后干什么 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=ePbvZaiPx7g) [s](https://10beasts.net/recommend/)                                                                |
-| 秘技 [楚门边境](https://www.youtube.com/watch?v=If5ww0eN--M)                                                                                                                     |
-| 2022如何进入暗网\|怎么进入暗网\|暗网是什么\|Tor Browser\|how use Tor browser [铿锵允铮kingQiang](https://www.youtube.com/watch?v=JAJTx9IvJFM) [v](https://www.youtube.com/watch?v=0nwDOd\_xl3Y) |
-| 更改IP地址的6种方法！保护自己的网络安全很重要 2022 \| [零度解说](https://www.youtube.com/watch?v=I-To8kblOZc)                                                                                       |
-| 永久免费的VPN 全平台终身免费VPN youtub 奈飞4K流畅播放无压力 大方亲测有效免费VPN！薅羊毛免费VPN [大方BigFang](https://www.youtube.com/watch?v=e32t2AnER-8)                                                       |
-| 笔记本电脑通过CLASH或SSR开代理热点给手机 [zh](https://zhuanlan.zhihu.com/p/337430556)                                                                                                      |
+|                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【硬核翻墙/科学上网】系列视频 [电丸科技AK](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)                                                                                                                                  |
+| How to Make Your Own VPN (And Why You Would Want to) [Wolfgang's Channel](https://www.youtube.com/watch?v=gxpX\_mubz2A)                                                                                                             |
+| 翻墙后干什么 [穷人工作室Poor Studio](https://www.youtube.com/watch?v=ePbvZaiPx7g) [s](https://10beasts.net/recommend/)                                                                                                                         |
+| 秘技 [楚门边境](https://www.youtube.com/watch?v=If5ww0eN--M)                                                                                                                                                                              |
+| 2022如何进入暗网\|怎么进入暗网\|暗网是什么\|Tor Browser\|how use Tor browser [铿锵允铮kingQiang](https://www.youtube.com/watch?v=JAJTx9IvJFM) [v](https://www.youtube.com/watch?v=0nwDOd\_xl3Y)   [软件开发-阿伦](https://www.youtube.com/watch?v=DHkRpL-MtwQ) |
+| 更改IP地址的6种方法！保护自己的网络安全很重要 2022 \| [零度解说](https://www.youtube.com/watch?v=I-To8kblOZc)                                                                                                                                                |
+| 永久免费的VPN 全平台终身免费VPN youtub 奈飞4K流畅播放无压力 大方亲测有效免费VPN！薅羊毛免费VPN [大方BigFang](https://www.youtube.com/watch?v=e32t2AnER-8)                                                                                                                |
+| 笔记本电脑通过CLASH或SSR开代理热点给手机 [zh](https://zhuanlan.zhihu.com/p/337430556)                                                                                                                                                               |

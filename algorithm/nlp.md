@@ -829,6 +829,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 |                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- |
+| 国内可用                                                                                                                  |
 | 免费体验 GPT-4，Claude+ [回到Axton](https://www.youtube.com/watch?v=AKsiBEFU-QQ)                                             |
 | ChatGPT 最强免费开源替代品！ 这3款到底谁更厉害？Open Assistant、OpenChatKit、Claude \| [零度解说](https://www.youtube.com/watch?v=qW0mXRXMC0E) |
 |                                                                                                                       |
