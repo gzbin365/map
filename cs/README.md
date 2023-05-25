@@ -65,6 +65,7 @@ description: 计算机科学与技术 keep thinking, keep coding
 | InfoQ [u](https://www.youtube.com/nctv/playlists)                                           | 异步社区　抖音号： [628596691](https://www.douyin.com/user/MS4wLjABAAAAAaIE6CYwegV0LfrWMNN\_Uawfgw7ieBBwfG6Oxr9FM8I)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Udemy Downloader [s](https://udemydownloader.net/)                                          | Tut4Dev [s](https://tut4dev.com/en) [py](https://tut4dev.com/en/categories/python/1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Binod Suman Academy [u](https://www.youtube.com/channel/UCIZ3CSNL-8mBHfFZLic1-aQ/playlists) | [code.org](https://code.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 Why everyone wants to work at FAANG (Facebook/Meta, Amazon, Apple, Netflix, and Google) [mayuko](https://www.youtube.com/watch?v=ZxCUnxwR89Q)
 
@@ -128,19 +129,21 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 
 ### Nvidia
 
-|                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [s](https://www.nvidia.cn/)                                                                                                                      |
-| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25)                                       |
-| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)                                            |
-| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                                                      |
-| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)                                              |
-| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=59) GFE |
-| Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview [CNBC](https://www.youtube.com/watch?v=\_-wjA4XlBl4)   |
-| Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=cJROlT\_ccFM)                           |
-| 【[硬核科普](https://www.youtube.com/watch?v=\_qR6nue-UDk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=61)】如何让多人在线同步编辑三维动画场景，Omniverse帮你告别文件同步与迭代 |
-|                                                                                                                                                  |
-|                                                                                                                                                  |
+|                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.nvidia.cn/)                                                                                                                                           |
+| NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   丽台科技 [zh](https://www.zhihu.com/org/li-tai-ke-ji-25)   英伟达GeForce [B](https://space.bilibili.com/485703766/)    |
+| NVIDIA Research Projects [git](https://github.com/NVlabs) [s](https://www.nvidia.com/en-us/research/)                                                                 |
+| The AI Playground [s](https://www.nvidia.com/en-us/research/ai-playground/)                                                                                           |
+| NVIDIA Omniverse [NVIDIA](https://www.youtube.com/playlist?list=PLZHnYvH1qtOY0Fst-duW7M6OzphWAZgzX)                                                                   |
+| 【硬件科普】GeForce Experience里那些被你忽略的强大功能 [硬件茶谈](https://www.youtube.com/watch?v=57Q2GL3fiG0\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=59) GFE                      |
+| Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview [CNBC](https://www.youtube.com/watch?v=\_-wjA4XlBl4)                        |
+| Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=cJROlT\_ccFM)                                                |
+| 【[硬核科普](https://www.youtube.com/watch?v=\_qR6nue-UDk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=61)】如何让多人在线同步编辑三维动画场景，Omniverse帮你告别文件同步与迭代                      |
+| 【科普】什么是Omniverse？英伟达Omniverse官方介绍及教学 [Renderbus瑞云渲染](https://www.bilibili.com/video/BV1zb4y1B7JM)                                                                     |
+| 【4K】NVIDIA STUDIO 加速创意课 - Omniverse 特别课堂 [英伟达GeForce](https://www.bilibili.com/video/BV1R94y1y7CL)                                                                    |
+|                                                                                                                                                                       |
+|                                                                                                                                                                       |
 
 ### Facebook  Meta
 

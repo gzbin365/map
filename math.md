@@ -130,11 +130,14 @@ The Complete MATLAB Course: Beginner to Advanced! [Joseph Delgadillo](https://ww
 
 MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel/UCNuB-vNeYDoDLuIZ4lLWeLw)
 
-|                                                                                               |                                                                                                                |   |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | - |
-| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                          |                                                                                                                |   |
-| MATLAB Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=7f50sQYjNRA) | MATLAB Tutorials [Joseph Delgadillo](https://www.youtube.com/playlist?list=PLYmlEoSHldN4GZ6SrT1ckBTzAwpTFdshr) |   |
-|                                                                                               |                                                                                                                |   |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| **MATLAB(**[**u**](https://www.youtube.com/c/matlab/featured)**, )**                                             |
+| MATLAB Crash Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=7f50sQYjNRA)                    |
+| MATLAB Tutorials [Joseph Delgadillo](https://www.youtube.com/playlist?list=PLYmlEoSHldN4GZ6SrT1ckBTzAwpTFdshr)   |
+| 科学计算与MATLAB语言-刘卫国（中南大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SYMRRX-lLE9P9i946XW7\_AL) |
+|                                                                                                                  |
+|                                                                                                                  |
 
 
 
@@ -463,9 +466,20 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### 矩阵论 矩阵分析
 
-|                                                                                           |   |
-| ----------------------------------------------------------------------------------------- | - |
-| 矩陣分析 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsnTes37wyzOREFTQ9Lv0hI) |   |
+|                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 矩陣分析 [NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFsnTes37wyzOREFTQ9Lv0hI)                                                                                 |
+| 2.5 稀疏矩阵 [中国大学MOOC-慕课](https://www.youtube.com/watch?v=PlsRRRMSqvM\&list=PLBPbUxsZM4SYMRRX-lLE9P9i946XW7\_AL\&index=12)                                                   |
+| 10001張智星教授科學計算\_第12A講 稀疏矩陣 / Principal Component Analysis (PCA) [NTHUOCW](https://www.youtube.com/watch?v=pAuK4bayhdw\&list=PLS0SUwlYe8czy7VEoy0r5Xoy4dXIIgfDQ\&index=23) |
+| 华中科大公开课：稀疏矩阵的压缩存储 [David Li](https://www.youtube.com/watch?v=aziFa4KGldM)                                                                                                 |
+
+### 稀疏矩阵
+
+
+
+### 矩阵低质分解
+
+
 
 ### 高等代数 Advanced Algebra
 
@@ -1128,6 +1142,7 @@ $$
 | \[TA 補充課] Optimization for Deep Learning (2/2) (由助教簡仲明同學講授) [Hung-yi Lee](https://www.youtube.com/watch?v=e03YKGHXnL8)                              |
 | 數學在試題分析上的應用 (最佳化) [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrQVP25eoHgM2Fx-UQGG5v2W)                                                   |
 | Optimization Techniques in Engineering [APMonitor.com](https://www.youtube.com/playlist?list=PLLBUgWXdTBDjVLQVMnT80y6m\_97XNhBZv)                   |
+| Optimization [BYU FLOW Lab](https://www.youtube.com/playlist?list=PLj6pNSgoumyfNUw0T\_dOv5g6QzDf6tHmq)                                              |
 |                                                                                                                                                     |
 
 ### 凸优化 Convex Optimization

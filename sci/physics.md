@@ -225,11 +225,12 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 
 ## 空气动力学, Aerodynamics
 
-|                                                                                                                                                 |   |   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| MIT 16.687 Private Pilot Ground School, IAP 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25) |   |   |
-|                                                                                                                                                 |   |   |
-|                                                                                                                                                 |   |   |
+|                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MIT 16.687 Private Pilot Ground School, IAP 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)                                                                                                         |
+| <p>Aerodynamics <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumydi4tiofayriGGjK-XiEsUY">BYU FLOW Lab</a></p><p>Flight Vehicle Design <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumye-ZP-kRBWzC-jhNMFm2O-d">BYU FLOW Lab</a></p> |
+|                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                         |
 
 ## 核电
 

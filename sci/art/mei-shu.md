@@ -409,6 +409,14 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |                                                                                                                      |
 |                                                                                                                      |
 
+### 三维动画
+
+|                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 【[硬核科普](https://www.youtube.com/watch?v=\_qR6nue-UDk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=61)】如何让多人在线同步编辑三维动画场景，Omniverse帮你告别文件同步与迭代 |
+| 剧本 分镜 建模 上色                                                                                                                                      |
+|                                                                                                                                                  |
+
 ### 粒子水墨
 
 |                                                                                                  |
