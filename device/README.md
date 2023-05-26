@@ -51,6 +51,14 @@ description: 硬件设备
 | 【装机教程】全网最好的装机教程，没有之一 [硬件茶谈](https://www.youtube.com/watch?v=ST65L4pG\_6w)                                 |
 |                                                                                                           |
 
+## 主板
+
+|                       |
+| --------------------- |
+| rog maximus z790 hero |
+|                       |
+|                       |
+
 ## **Arduino**
 
 |                                                                                                                                                                                                                                                                               |
@@ -304,6 +312,14 @@ description: 硬件设备
 | 【[Huan](https://www.youtube.com/watch?v=avBKMknCxPo)】 能裝18顆風扇的頂級全塔旗艦: Cooler Master HAF700 EVO |
 |                                                                                                |
 |                                                                                                |
+
+### 全塔机箱
+
+|     |
+| --- |
+| 创世神 |
+|     |
+|     |
 
 ### 开放式机箱
 
@@ -610,6 +626,8 @@ description: 硬件设备
 | 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)               |
 | 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                          |
 | How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ) |
+| 32\*2 6400                                                                                          |
+|                                                                                                     |
 
 ## 散热
 
@@ -618,6 +636,8 @@ description: 硬件设备
 | 【硬件科普】电脑散热也讲风水？全网最详细电脑散热器工作原理科普 [硬件茶谈](https://www.youtube.com/watch?v=r1lLFOBqhZw)                                                 |
 | 【[硬件科普](https://www.youtube.com/watch?v=KedqBH5QtH8\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=40)】电脑散热风扇的接口和转速控制类型你了解多少？     |
 | 【[硬件科普](https://www.youtube.com/watch?v=BO\_tJZ9ak7g\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=62)】CPU和显卡的TDP指的是什么？和功耗是什么关系？ |
+| 华硕420水冷                                                                                                                             |
+| 海盗船                                                                                                                                 |
 |                                                                                                                                     |
 
 ## CPU
@@ -807,6 +827,7 @@ System on Chip, 系统级芯片
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 【[硬件科普](https://www.youtube.com/watch?v=AixflQWXszY\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=21)】什么是模组电源？他和普通电源有什么区别？模组电源定制线又是什么东西？    |
 | 【[硬件科普](https://www.youtube.com/watch?v=EjBQ-di7zDQ\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=24)】电源的金银铜牌指的是什么参数？金牌电源比铜牌好吗？详解电源80PLUS认证 |
+| vertex 1200W                                                                                                                                   |
 |                                                                                                                                                |
 
 | 太阳能                                                                                                                                       |
@@ -1240,6 +1261,8 @@ direct-attached storage
 | Designing Billions of Circuits with Code [Asianometry](https://www.youtube.com/watch?v=ihz2WY-E2C8)                                         |
 | 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                                                                  |
 | 黄令仪 \| 中国芯片之母 [最佳拍档](https://www.youtube.com/watch?v=Z3NhFsMtxC8) 我最大的心愿就是匍匐在地，擦净祖国身上的耻辱                                                    |
+| 【商业】OPPO缘何梦碎哲库ZEKU \| 失败的原因究竟是什么 \| 美国制裁还是没钱 \| 亦或是对行业缺少敬畏 \| 造芯片究竟有多难 [最佳拍档](https://www.youtube.com/watch?v=8zusGXL86UU)                  |
+|                                                                                                                                             |
 
 ### 数字电路
 
@@ -1295,6 +1318,7 @@ direct-attached storage
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | Information Technology [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg) |
+|                                                                                                                              |
 
 ## 外设
 
@@ -1312,13 +1336,14 @@ direct-attached storage
 | HHKB的究极进化 开箱2699元HHKB静电容键盘《[时空测测评](https://www.youtube.com/watch?v=Tvvs4yBHFHE)》             |
 | 【硬件科普】键鼠是怎么工作的，高端主板为什么要保留PS2接口？8K回报率有意义吗 [硬件茶谈](https://www.youtube.com/watch?v=DLyR8M4xhDM) |
 | I Made A Customized Modular Keyboard ! [稚晖君](https://www.youtube.com/watch?v=mGShD9ZER1c)    |
+|                                                                                              |
 
 ### 鼠标
 
 |                                                                                                               |   |   |
 | ------------------------------------------------------------------------------------------------------------- | - | - |
 | cps-check [s](https://cps-check.com/polling-rate-check) [v](https://www.douyin.com/video/7130447954766302477) |   |   |
-|                                                                                                               |   |   |
+| 逻辑 502                                                                                                        |   |   |
 |                                                                                                               |   |   |
 
 ### 手柄
