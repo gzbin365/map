@@ -222,6 +222,15 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 |                                                                                                                  |
 |                                                                                                                  |
 
+## 游戏AI
+
+| Voyager                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【人工智能】全新AI智能体Voyager \| 自己学会玩minecraft \| 全场景终身学习 \| 性能完胜AutoGPT \| 英伟达Nvidia最新发布 \| NPC取代人类玩家 [最佳拍档](https://www.youtube.com/watch?v=KbfP543LLNw) 无梯度架构 终身学习 |
+| [arxiv](https://arxiv.org/abs/2305.16291)   MineDojo/[Voyager](https://github.com/MineDojo/Voyager)                                                           |
+|                                                                                                                                                               |
+|                                                                                                                                                               |
+
 ## 其他
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

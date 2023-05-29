@@ -67,7 +67,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | [精校吧](https://www.jingjiaoba.com) - 免费精校小说                                                                                              | 哎呦我滴个乖乖 抖音号： [xs210097318](https://www.douyin.com/user/MS4wLjABAAAAX8UjJ-eGuVInrwDGHdcoNInBJN4P-ZQTxr9L5SaUdhY) |
 | 爱看小说的王大锤 抖音号： [45275235633](https://www.douyin.com/user/MS4wLjABAAAA8rZImGcb4uI7MTyN\_PJaW160iU4z5tUPMEE453WT6r0eRM919qhIrsqmZe\_wgZPt) | 琬玲珑今天码字了吗 抖音号： [ZQWLL](https://www.douyin.com/user/MS4wLjABAAAAa79Hp2wgIpPYeQ9w9wDqurXoN7ZIea6aK7JLTJ0oe9k)     |
 | 天天有声书 Audiobooks Daily [u](https://www.youtube.com/channel/UCINw5l-B8O--vAuD8mhBnKw/playlists)                                          | [美文网](http://www.mw8.la/)-美文欣赏\_经典美文\_励志文章\_优美散文                                                                |
-| David读书科普 [u](https://www.youtube.com/channel/UC27fH6rrbGDJjktCJmDAxcQ/playlists)                                                       |                                                                                                                 |
+| David读书科普 [u](https://www.youtube.com/channel/UC27fH6rrbGDJjktCJmDAxcQ/playlists)                                                       | このこねこの1日1冊本紹介 [u](https://www.youtube.com/@user-hw7nt8mg1n/playlists)                                           |
 |                                                                                                                                         |                                                                                                                 |
 |                                                                                                                                         |                                                                                                                 |
 
@@ -77,6 +77,14 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | <p>飞雪连天射白鹿，笑书神侠倚碧鸳</p><p>《飞狐外传》《雪山飞狐》《连城诀》《天龙八部》《射雕英雄传》《白马啸西风》</p><p>《鹿鼎记》《笑傲江湖》《书剑恩仇录》《神雕侠侣》《侠客行》《倚天屠龙记》</p><p>《碧血剑》《鸳鸯刀》《越女剑》</p> |
 |                                                                                                                                     |
 | 美国短篇小说选读 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpmYAaulIJ1tBo7vxqUF2Hu)                                         |
+
+| 刘慈欣                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| Cixin Liu: content resources in science [Brad Lee](https://www.youtube.com/playlist?list=PLqB1BLDsZLyXIZgUwahsRpehXWPdzFsj2) |
+| 書展2011：「名作家講座系列9」用科幻的眼睛看現實 [香港貿發局](https://www.youtube.com/watch?v=0PdjuPn3yDU)                                              |
+| 让AI去续写《三体》这会产生怎样的效果？科幻小说《AI续写三体》 [幻海航行--science fiction](https://www.youtube.com/watch?v=-I5utZ8kGDY)                        |
+| 三体X                                                                                                                          |
+|                                                                                                                              |
 
 ### 有声书
 

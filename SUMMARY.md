@@ -7,7 +7,7 @@
   * [Linux](cs/linux.md)
   * [R](cs/r.md)
   * [C/C++](cs/c-cpp.md)
-  * [SQL](cs/sql.md)
+  * [大数据 SQL](cs/sql.md)
   * [API](cs/api.md)
   * [Java](cs/java.md)
   * [Swift](cs/swift.md)

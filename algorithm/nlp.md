@@ -10,6 +10,8 @@ description: 自然语言处理
 | github /topics/[synonyms](https://github.com/topics/synonyms)                                                                                                                    | <p>github /topics/<a href="https://github.com/topics/nlp">nlp</a></p><p>Natural language processing</p> |
 | <p>fighting41love/<a href="https://github.com/fighting41love/funNLP">funNLP</a> 中文NLP资源库</p><p>机器学习小知识 <a href="https://zhuanlan.zhihu.com/yangyangfuture">mountain blue</a></p> | Machine Learning with Phil [u](https://www.youtube.com/c/MachineLearningwithPhil/playlists)             |
 | isnowfy/[snownlp](https://github.com/isnowfy/snownlp) 处理中文文本内容                                                                                                                   | James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                        |
+|                                                                                                                                                                                  |                                                                                                         |
+|                                                                                                                                                                                  |                                                                                                         |
 
 ## 平台
 
@@ -600,6 +602,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 一路到 ChatGPT: 生成語言 AI 的原理與應用 [Yen-Lung Tsai](https://www.youtube.com/watch?v=kexXNAWvugg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ChatGPT creates a new ChatGPT [sentdex](https://www.youtube.com/watch?v=QumfkMQr47M)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Let's build GPT: from scratch, in code, spelled out. [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 【分享】State of GPT（GPT的现状）中文字幕精校版 \| Andrej Karpathy 微软Build大会精彩演讲 \| GPT状态和原理 \| 解密OpenAI模型训练 [最佳拍档](https://www.youtube.com/watch?v=b8WIHOcp9ck)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Stanford Webinar - GPT-3 & Beyond [Stanford Online](https://www.youtube.com/watch?v=-lnHHWRCDGk)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | I Built a ChatGPT Clone of Myself! [Siraj Raval](https://www.youtube.com/watch?v=OoMjOrLac-o)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Microsoft: ChatGPT For Free, For Everyone - Try It Now! [Two Minute Papers](https://www.youtube.com/watch?v=8wCK\_PcAz6w)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -695,7 +698,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 终于来了！ChatGPT 官方 APP正式版发布，居然暗藏福利！可无限制使用 GPT4，附“非美区”用户安装教程！ \| [零度解说](https://www.youtube.com/watch?v=X2ZKyqxHLfA)                                                                                                                                                                                                           |
 | 本地安装 ChatGPT！无需API、 免翻墙、完全免费使用纯正OpenAI的全部功能！ 支持 Windows、 Mac、NAS、Linux系统 \| [零度解说](https://www.youtube.com/watch?v=gKmawmUw7Jo) docker                                                                                                                                                                                     |
 | 【公开课】基于 Colossal-AI 低成本复现 ChatGPT｜大型语言模型技术公开课 \| 智东西 [最佳拍档](https://www.youtube.com/watch?v=EPHirGusfUA)                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                            |
+| 大模型训练：Deepspeed-chat 如何使用自定义数据和模型 \| 训练ChatGPT大模型，微软最新的AI训练技术 [TechDIYLife](https://www.youtube.com/watch?v=P7dIMYdOUl8)                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -711,6 +714,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ChatGPT Prompt Engineering for Developers: A short course from OpenAI and DeepLearning.AI [DeepLearningAI](https://www.youtube.com/watch?v=H4YK\_7MAckk)                                                                                                                                              |
 | OpenAI x DeepLearning.ai 公开课 - 吴恩达 [Hossie](https://www.youtube.com/playlist?list=PLLwXCFgec1q6OdRndsgMODbUTl5IqBy35)                                                                                                                                                                                 |
 | <p>ChatGPT Prompt Engineering for Developers ChatGPT开发人员提示工程 <a href="https://www.youtube.com/watch?v=MoIeNKW9UAY">盛少</a></p><p>ChatGPT Prompt Engineering for Developers ChatGPT 开发人员提示工程 中英文翻译版 <a href="https://www.youtube.com/playlist?list=PL9Aa0lG07R6AHrrq-QzGSlV7G8vk3gDDj">list</a></p>     |
+| B站首推！官方精品【完整版九集】中文字幕，ChatGPT Prompt提示词课程 斯坦福吴恩达 \| OpenAl官方联合出品 [深度学习实践](https://www.bilibili.com/video/BV1Mo4y157iF)                                                                                                                                                                                 |
 | Visual Prompting Livestream With Andrew Ng [Landing AI](https://www.youtube.com/watch?v=FE88OOUBonQ)                                                                                                                                                                                                  |
 | ChatGPT Prompt Engineering实战，带你从入门到精通 [Alchain cyf](https://www.youtube.com/watch?v=efIzlP4JT6g)                                                                                                                                                                                                      |
 | 一款爆火的翻译软件中的Prompt漏洞，如何利用Prompt Engineering优化你的AI工具。免费福利：Prompt 学习笔记 \| [回到Axton](https://www.youtube.com/watch?v=3SeD9Wi2KHo)                                                                                                                                                                         |
@@ -754,6 +758,15 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Can We Build an Artificial Hippocampus? [Artem Kirsanov](https://www.youtube.com/watch?v=cufOEzoVMVA)                                                         |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
+
+### 大模型训练
+
+|   |
+| - |
+|   |
+|   |
+|   |
+|   |
 
 ### Google Bard
 
@@ -921,6 +934,23 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |   |
 |   |
 |   |
+
+### BLOOMChat 开源
+
+|                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| sambanovasystems/[BLOOMChat-176B-v1](https://huggingface.co/sambanovasystems/BLOOMChat-176B-v1)                                                             |
+| 【人工智能】开源类ChatGPT模型 \| BLOOMChat \| 1760亿参数 \| 可支持中文在内46种语言 \| Apache 2.0许可可商用 \| SambaNova和Together联合推出 [最佳拍档](https://www.youtube.com/watch?v=IiHY1Mit4wM) |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
+
+### RWKV
+
+|                         |
+| ----------------------- |
+| RWKV模型是可以商用的，而且有中文的模型版本 |
+|                         |
+|                         |
 
 ### Microsoft TaskMatrix.AI
 

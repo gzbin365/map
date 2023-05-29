@@ -10,6 +10,7 @@ description: 硬件设备
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |                                                                        | **QuecPython(**[**s**](https://python.quectel.com/home)**,** [**B**](https://space.bilibili.com/491326023/channel/detail?cid=150963)**,** [**文档**](https://python.quectel.com/wiki/#/zh-cn/)**,** [**git**](https://github.com/quecpython/wiki)**, 抖音号：Josh.Sun)** |
 | **AddOhms(**[**u**](https://www.youtube.com/c/AddOhms/featured)**, )** | **Lenovo(**[**u**](https://www.youtube.com/c/Lenovo/featured)**, )** 联想                                                                                                                                                                                            |
+|                                                                        |                                                                                                                                                                                                                                                                    |
 
 **树莓派下中文字直接转语音播报(**[**B**](https://www.bilibili.com/video/BV1XE411s7ju/)**, )**
 
@@ -56,7 +57,7 @@ description: 硬件设备
 |                       |
 | --------------------- |
 | rog maximus z790 hero |
-|                       |
+| msi 多显卡               |
 |                       |
 
 ## **Arduino**
@@ -302,7 +303,7 @@ description: 硬件设备
 | 宿舍神机！全网第二细的ITX装机教程 [林亦LYi](https://www.youtube.com/watch?v=EXRFOceNL7w)                                                                                                      |
 | ITX小机箱推荐 [玩家宇宙](https://www.douyin.com/video/7146083460380151076)                                                                                                            |
 | foni [u](https://www.youtube.com/@foni2047/videos)   ITXLAB-koukou. CN [u](https://www.youtube.com/@ITXLAB-koukouCN)   EIGA [u](https://www.youtube.com/@EIGAtech/videos)    |
-|                                                                                                                                                                              |
+| 机械大师 C+ MAX [v](https://www.douyin.com/video/7213663192600350009) 能装下40系显卡                                                                                                   |
 |                                                                                                                                                                              |
 
 ## 机箱
@@ -310,7 +311,10 @@ description: 硬件设备
 |                                                                                                |
 | ---------------------------------------------------------------------------------------------- |
 | 【[Huan](https://www.youtube.com/watch?v=avBKMknCxPo)】 能裝18顆風扇的頂級全塔旗艦: Cooler Master HAF700 EVO |
-|                                                                                                |
+| 海盗船780T                                                                                        |
+| 2U标准机架试服务器机箱 [v](https://www.douyin.com/video/7110389998825786628)                             |
+| HP Z2G9SFF [v](https://www.douyin.com/video/7121548019316706590) 双宽全尺寸显卡                       |
+| 4U多GPU服务器机箱 [v](https://www.douyin.com/video/7132491934853074189)                              |
 |                                                                                                |
 
 ### 全塔机箱
@@ -577,11 +581,11 @@ description: 硬件设备
 
 ## ESP32
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                  |
+| ---------------------------------------------------------------- |
+| maker.moekoe [u](https://www.youtube.com/@makermoekoe/playlists) |
+|                                                                  |
+|                                                                  |
 
 ## 微控制器
 
@@ -828,7 +832,8 @@ System on Chip, 系统级芯片
 | 【[硬件科普](https://www.youtube.com/watch?v=AixflQWXszY\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=21)】什么是模组电源？他和普通电源有什么区别？模组电源定制线又是什么东西？    |
 | 【[硬件科普](https://www.youtube.com/watch?v=EjBQ-di7zDQ\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=24)】电源的金银铜牌指的是什么参数？金牌电源比铜牌好吗？详解电源80PLUS认证 |
 | vertex 1200W                                                                                                                                   |
-|                                                                                                                                                |
+| 长城电源 1600w                                                                                                                                     |
+| rog 雷神 1600w                                                                                                                                   |
 
 | 太阳能                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -904,7 +909,7 @@ System on Chip, 系统级芯片
 | 990pro 980pro                                                                                                                                                        |                                                                                                                                                                   |                                                                                                                                       |
 | SAMSUNG 983ZET slc                                                                                                                                                   |                                                                                                                                                                   |                                                                                                                                       |
 | 技嘉AG510K                                                                                                                                                             |                                                                                                                                                                   |                                                                                                                                       |
-|                                                                                                                                                                      |                                                                                                                                                                   |                                                                                                                                       |
+| This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA)                                                                      |                                                                                                                                                                   |                                                                                                                                       |
 
 ## NAS
 
