@@ -23,6 +23,9 @@
 | R Basics [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2BvYF6QZNUDVGU7zHvjQnie)                                                                    |
 | Machine Learning with Python & R [Wise Way Learning](https://www.youtube.com/playlist?list=PLf6bUqkkw\_JQ5PNoVwct3OHmsoJDnhwNj)                                       |
 | 【R语言入门】小白速成与实践 全30课 Study R from Zero to Hero [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbY\_ttheQ6GEbgAGX8Mqdv2k)                            |
+| R语言入门与数据分析 [基因学苑](https://www.bilibili.com/video/BV19x411X7C6) 12:45:42                                                                                               |
+|                                                                                                                                                                       |
+|                                                                                                                                                                       |
 
 | Google Colab with R                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------- |

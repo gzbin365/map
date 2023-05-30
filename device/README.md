@@ -230,6 +230,8 @@ description: 硬件设备
 | 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                                                                                                                                                         |
 | 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                                                                                                                                                                                       |
 | 【[硬件科普](https://www.youtube.com/watch?v=z8IkeNezRvk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=60)】如何让手机的充电速度更快                                                                                                                                                                  |
+| 华为Mate X3为啥爆火？从我的婚后生活聊起 [林亦LYi](https://www.youtube.com/watch?v=j8bOF3CmK1I)                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                        |
 
 ## 手机散热
@@ -319,11 +321,12 @@ description: 硬件设备
 
 ### 全塔机箱
 
-|     |
-| --- |
-| 创世神 |
-|     |
-|     |
+|                                                         |
+| ------------------------------------------------------- |
+| 创世神                                                     |
+| 全塔 128G A6000 48G\*2=96G 6.9w 楚霏数码专营店 上海 还有 A800\*4 50W |
+|                                                         |
+|                                                         |
 
 ### 开放式机箱
 
@@ -897,19 +900,25 @@ System on Chip, 系统级芯片
 
 ## 硬盘 固态硬盘 SSD
 
-|                                                                                                                                                                      |                                                                                                                                                                   |                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                    |                                                                                                                                       |
-| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     | #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456)                                                                          |                                                                                                                                       |
-| How do SSDs Work? \| How does your Smartphone store data? \| Insanely Complex Nanoscopic Structures! [Branch Education](https://www.youtube.com/watch?v=5Mh3o886qpg) | How do SSDs Work? How to fit 3 WEEKS of TV in a microchip the size of a dime!! Explained in 3min. [Branch Education](https://www.youtube.com/watch?v=E7Up7VuFd8A) | Exploring Solid State Drives and 3D NAND [Branch Education](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j) |
-|                                                                                                                                                                      |                                                                                                                                                                   | LevelDB 磁盘数据结构 [Shuo Chen](https://www.youtube.com/watch?v=nRzbZ\_1HV8M\&list=PL3wVcVGXqdnZ1hkPDwwXk4C0gynXy6BwA\&index=5)            |
-| 【硬件科普】固态硬盘的缓存是干什么的？有缓存和无缓存有什么区别？ [硬件茶谈](https://www.youtube.com/watch?v=7ZJ4UFxaAZw)                                                                                 |                                                                                                                                                                   |                                                                                                                                       |
-| 西数sn850x 4t                                                                                                                                                          |                                                                                                                                                                   |                                                                                                                                       |
-| tiplus7100 2t                                                                                                                                                        |                                                                                                                                                                   |                                                                                                                                       |
-| 990pro 980pro                                                                                                                                                        |                                                                                                                                                                   |                                                                                                                                       |
-| SAMSUNG 983ZET slc                                                                                                                                                   |                                                                                                                                                                   |                                                                                                                                       |
-| 技嘉AG510K                                                                                                                                                             |                                                                                                                                                                   |                                                                                                                                       |
-| This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA)                                                                      |                                                                                                                                                                   |                                                                                                                                       |
+|                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            |
+| 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                       |
+| 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     |
+| #固态硬盘改移动硬盘 #m2硬盘盒 #透明硬盘盒 玥光[moonlight](https://www.douyin.com/video/7138988091716488456)                                                                             |
+| How do SSDs Work? \| How does your Smartphone store data? \| Insanely Complex Nanoscopic Structures! [Branch Education](https://www.youtube.com/watch?v=5Mh3o886qpg) |
+| How do SSDs Work? How to fit 3 WEEKS of TV in a microchip the size of a dime!! Explained in 3min. [Branch Education](https://www.youtube.com/watch?v=E7Up7VuFd8A)    |
+| Exploring Solid State Drives and 3D NAND [Branch Education](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)                                |
+| LevelDB 磁盘数据结构 [Shuo Chen](https://www.youtube.com/watch?v=nRzbZ\_1HV8M\&list=PL3wVcVGXqdnZ1hkPDwwXk4C0gynXy6BwA\&index=5)                                           |
+| 【硬件科普】固态硬盘的缓存是干什么的？有缓存和无缓存有什么区别？ [硬件茶谈](https://www.youtube.com/watch?v=7ZJ4UFxaAZw)                                                                                 |
+| 西数sn850x 4t                                                                                                                                                          |
+| tiplus7100 2t                                                                                                                                                        |
+| 990pro 980pro                                                                                                                                                        |
+| SAMSUNG 983ZET slc                                                                                                                                                   |
+| 技嘉AG510K                                                                                                                                                             |
+| This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA)                                                                      |
+| 移速 2T 3500 dy 458 tb 456.62 445到手                                                                                                                                    |
+|                                                                                                                                                                      |
 
 ## NAS
 

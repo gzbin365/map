@@ -276,12 +276,12 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 高中
 
-|                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                              |
-| 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P\_sRLUXvx9ViyU8Qu9sFn6qo4w)   老于数学之家    |
-| 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA)   胡老师数学 [u](https://www.youtube.com/@user-cb3ps8vg6m) |
-| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                |
+|                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                                                                                                 |
+| 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P\_sRLUXvx9ViyU8Qu9sFn6qo4w)   老于数学之家                                                                       |
+| 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA)    胡老师数学 [u](https://www.youtube.com/@user-cb3ps8vg6m)    郭炎明 [u](https://www.youtube.com/@user-lr4ff3gd3e/playlists)    |
+| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                   |
 
 ## 竞赛
 
@@ -365,6 +365,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| 郭炎明 [u](https://www.youtube.com/@user-lr4ff3gd3e/playlists)                                                                    |
 | **Trigonometry(**[**The Math Sorcerer**](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNmYsWGBTRyB441sa5ZYU3\_)**, )**     |
 | [Inverse Trigonometric Functions](https://www.youtube.com/playlist?list=PLANMHOrJaFxM2UbRPM9YNQ1YT3s4gX4Rp) patrickJMT         |
 | Trigonometric Identities [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwtslWdA9tyGB27\_MwZ4cE9)             |
@@ -449,6 +450,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | MIT 18.06SC Linear Algebra, Fall 2011 MIT [OpenCourseWare](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)                                                                                                                                                                                                                                       |
 | Gil Strang's Final 18.06 Linear Algebra Lecture MIT [OpenCourseWare](https://www.youtube.com/watch?v=lUUte2o2Sn8)                                                                                                                                                                                                                                          |
 | Gilbert Strang: Linear Algebra, Teaching, and MIT OpenCourseWare \| [Lex Fridman](https://www.youtube.com/watch?v=lEZPfmGCEk0) Podcast #52                                                                                                                                                                                                                 |
+| 麻省理工学院 - MIT - 线性代数（我愿称之为线性代数教程天花板）[Python大本营](https://www.bilibili.com/video/BV16Z4y1U7oU) 27:41:44                                                                                                                                                                                                                                                       |
 | [2020政大線性代數（資科系）](https://www.youtube.com/playlist?list=PLpltJwWB6egJD0bCPdYsGwn9TeY\_10vB3)Yen-Lung Tsai                                                                                                                                                                                                                                                  |
 | [【万门大学】线性代数](https://www.youtube.com/playlist?list=PL0GyqFMD-UCH7c\_kURb1bm38t\_JQJBAEk) 万门大学                                                                                                                                                                                                                                                              |
 | NPTEL - MOOC Linear Algebra [Z S](https://www.youtube.com/playlist?list=PLGdMwVKbjVQ8SnHw-flDN-1UiUwdB9CLs) [Linear Algebra](https://www.youtube.com/playlist?list=PLG9Skd-hzSi47tz\_2QrJXige0F5lK-jvx)                                                                                                                                                    |
@@ -940,6 +942,8 @@ $$
 | 有限元分析及应用 清华大学 [28\_RuiJie WU](https://www.youtube.com/@28\_ruijiewu83/videos)                                                                                                |
 |                                                                                                                                                                              |
 |                                                                                                                                                                              |
+|                                                                                                                                                                              |
+|                                                                                                                                                                              |
 
 ### 有限状态机
 
@@ -1047,6 +1051,14 @@ $$
 |                                                                                                           |   |
 | --------------------------------------------------------------------------------------------------------- | - |
 | Geometry Modeling [Changkun Ou](https://www.youtube.com/playlist?list=PLwUqqMt5en7cjcafWJ6UL7YkvQ4FaX1Dh) |   |
+
+### 极坐标
+
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| B2U11廣義角三角比與極坐標(111學年度) [郭炎明](https://www.youtube.com/playlist?list=PLNyMVxCcPRUR\_wWIO1k\_VCPeEoR0uNsbf) |
+|                                                                                                           |
+|                                                                                                           |
 
 ### 圆锥曲线
 
