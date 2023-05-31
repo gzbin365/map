@@ -724,6 +724,14 @@ Computer Components？Computer Architecture？
 | Anthony Goldbloom — How to Win Kaggle Competitions [Weights & Biases](https://www.youtube.com/watch?v=0ZJQ2Vsgwf0)                                                             |
 | Kaggle Competitions [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)                                                                     |
 |                                                                                                                                                                                |
+|                                                                                                                                                                                |
+|                                                                                                                                                                                |
+
+| ACM                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【人物】中国人工智能的摇篮 \| 上海交大ACM班传奇故事 \| 余勇 \| 林晨曦 \| 戴文渊 \| 胡哲人 \| 李磊 \| 李沐 \| 陈天奇 \| 王敏捷 \| 张伟楠 \| 郑曌 [最佳拍档](https://www.youtube.com/watch?v=9WdPG4KAbGY) |
+|                                                                                                                                                     |
+|                                                                                                                                                     |
 
 ## 计算机证书
 

@@ -146,5 +146,5 @@
 |                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Acute and postacute sequelae associated with SARS-CoV-2 reinfection [Nature Medicine](https://www.nature.com/articles/s41591-022-02051-3) |
-|                                                                                                                                           |
+| 謝東穎整形外科 [u](https://www.youtube.com/@followheart)                                                                                         |
 |                                                                                                                                           |
