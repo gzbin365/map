@@ -422,6 +422,8 @@
 | \[Tutorialsplanet.NET] Udemy - Unreal Engine C++ Developer Learn C++ and Make Video Games                                                                                |
 | Unreal Engine 5 – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=6UlU\_FsicK8)                                                                 |
 | Nvidia & Unreal's HUGE AI Breakthroughs (Bigger Than ChatGPT) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=P254RGBZQIw)                                          |
+| Unreal Engine 5: Next Level Games Are Coming! [Two Minute Papers](https://www.youtube.com/watch?v=dVgx3uJuHOE)                                                           |
+|                                                                                                                                                                          |
 |                                                                                                                                                                          |
 
 ## 开源的物理引擎

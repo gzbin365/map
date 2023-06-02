@@ -35,7 +35,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | 【[硬件科普](https://www.youtube.com/watch?v=hi-9e8TRz2E\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=39)】全网最详细显卡散热工作原理科普                                                                    |
 | 【AI芯片】GPU基础 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p7sJcPCt\_SjxctXDhCpgH6c) [git](https://github.com/chenzomi12/DeepLearningSystem/tree/main/Hardware)                    |
 | GPUs: Explained [IBM Technology](https://www.youtube.com/watch?v=LfdK-v0SbGI)                                                                                                               |
-|                                                                                                                                                                                             |
+| 全新中國顯卡MTT S70正式發佈，摩爾線程夏季發佈會匯總「[超極氪](https://www.youtube.com/watch?v=Mph6MFYXDHc)」摩尔线程                                                                                                       |
 |                                                                                                                                                                                             |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)

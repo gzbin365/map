@@ -35,6 +35,14 @@
 | 医学统计学从入门到精通【共28节】【全】!!! [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbbJWU63VBDzclwtWyu9cldH)              |
 |                                                                                                                                  |
 
+### HuatuoGPT
+
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 【人工智能】医疗开源大模型 \| HuatuoGPT \| 华佗GPT \| 港中文大学联合深圳大数据 \| ChatGPT蒸馏数据+真实医生数据 \| 效果超GPT3.5 [最佳拍档](https://www.youtube.com/watch?v=taSuUARydjk) |
+|                                                                                                                                            |
+|                                                                                                                                            |
+
 ## 健康养生
 
 |                                                                                                                                                                                                                                                                                                                                                                                           |
