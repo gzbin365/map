@@ -114,7 +114,7 @@ LumenVox - Exceptional Voice Experiences [u](https://www.youtube.com/channel/UCe
 | 教你写一款简单的语音识别软件 [程序马](https://www.youtube.com/watch?v=4A3NAYgz-R8)                                                                                                                                                                                                                                            |
 | 语音识别小程序 识别中英文语音转文字 附python code源码 [人工智障机器人](https://www.youtube.com/watch?v=dPiZG0yM5H4)                                                                                                                                                                                                                     |
 | 【免費！極速！上字幕！】5分鐘完成8小時的工作量！ [木石mushi](https://www.youtube.com/watch?v=8tjbHfkO9bU\&list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o) 剪映                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                              |
+| 阿里达摩院paraformer 中文语音识别 [v](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                                                                                                                                                                                     |
 
 | pyTranscriber                                                                                                                              |                                                                                                               |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | - |
@@ -231,7 +231,9 @@ Voice Synthesis
 | 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE) colab                                                                        |
 | Voice Cloning Tutorial with Coqui TTS and Google Colab \| Fine Tune Your Own VITS Model for Free [NanoNomad](https://www.youtube.com/watch?v=6QAGk\_rHipE) |
 | 一键完成Ai声音模拟和音色替换，无需训练模型 – 快速生成AI孙燕姿歌曲 [小薇 Official Channel](https://www.youtube.com/watch?v=YAviCCA-Fic)                                                    |
-|                                                                                                                                                            |
+| 我们做了个能对话的AI派蒙，免费给大家玩！ [极客湾Geekerwan](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                         |
+| <p>变分推断 学习声线 VITS: </p><p>Variational Inference with adversarial learning for end-to-end Text-to-Speech</p>                                                |
+| Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech                                                                |
 |                                                                                                                                                            |
 
 ### Transcribed speech（转录语音）

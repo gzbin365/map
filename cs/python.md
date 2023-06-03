@@ -283,11 +283,13 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 | win32api                                                                                                                          |                                                                                                                                                          |
 | Python for Windows (pywin32) Extensions [s](https://pythonrepo.com/repo/mhammond-pywin32-python-programming-on-microsoft-windows) |                                                                                                                                                          |
 
-|                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ |
-| Learn Dynamic Module Imports In 11 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=ddVm53j80vc) |
-| 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)     |
-| How to Schedule Tasks with Python using Schedule [JCharisTech](https://www.youtube.com/watch?v=zF\_DroDICaM) |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| Learn Dynamic Module Imports In 11 Minutes [Web Dev Simplified](https://www.youtube.com/watch?v=ddVm53j80vc)    |
+| 5 Python Libraries you need for Data Science [CodeEmporium](https://www.youtube.com/watch?v=9E-lsou160g)        |
+| How to Schedule Tasks with Python using Schedule [JCharisTech](https://www.youtube.com/watch?v=zF\_DroDICaM)    |
+| Wheel Files: Packaging Python Applications & Modules [NeuralNine](https://www.youtube.com/watch?v=n2d\_7RPTKlk) |
+|                                                                                                                 |
 
 | Matplotlib                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

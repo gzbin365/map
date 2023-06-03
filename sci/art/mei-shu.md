@@ -281,19 +281,22 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 
 How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
 
-### 虚拟主播 虚拟形象 Vtuber 数字人
+### 虚拟主播 虚拟形象 Vtuber 数字人 数字生命
 
-|                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)   Prompt Engineering [u](https://www.youtube.com/@engineerprompt) |
-| Kizuna AI, 世界最初Vtuber                                                                                                          |
-| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)                                |
-| Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE)                            |
-| 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                        |
-| 阿里巴巴数字人公测 [迷途小书童的Note](https://www.youtube.com/watch?v=CMqQY4xeeao)                                                            |
-| Caryn AI \| 美国女网红把自己做成虚拟女友 [最佳拍档](https://www.youtube.com/watch?v=BlED3pXO5NQ) Forever Voice                                   |
-| These TikTokers Are AI Generated \[SD Multi-Frame Rendering] [bycloud](https://www.youtube.com/watch?v=Lx5Hy9YfZLs)            |
-| 超逼真的AI数字人，一键免费生成教程！还能克隆你自己，用这2个网站即可轻松搞定！！ \| [零度解说](https://www.youtube.com/watch?v=OpYYFGJPr0A)                               |
+|                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)   Prompt Engineering [u](https://www.youtube.com/@engineerprompt)                                                                   |
+| Kizuna AI, 世界最初Vtuber                                                                                                                                                                            |
+| I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)                                                                                                  |
+| Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE)                                                                                              |
+| 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                                                                                          |
+| 阿里巴巴数字人公测 [迷途小书童的Note](https://www.youtube.com/watch?v=CMqQY4xeeao)                                                                                                                              |
+| Caryn AI \| 美国女网红把自己做成虚拟女友 [最佳拍档](https://www.youtube.com/watch?v=BlED3pXO5NQ) Forever Voice                                                                                                     |
+| These TikTokers Are AI Generated \[SD Multi-Frame Rendering] [bycloud](https://www.youtube.com/watch?v=Lx5Hy9YfZLs)                                                                              |
+| 超逼真的AI数字人，一键免费生成教程！还能克隆你自己，用这2个网站即可轻松搞定！！ \| [零度解说](https://www.youtube.com/watch?v=OpYYFGJPr0A)                                                                                                 |
+| <p>我们做了个能对话的AI派蒙，免费给大家玩！ <a href="https://www.youtube.com/watch?v=8gd_WtBPxaw">极客湾Geekerwan</a></p><p>zixiiu/<a href="https://github.com/zixiiu/Digital_Life_Server">Digital_Life_Server</a></p> |
+|                                                                                                                                                                                                  |
+|                                                                                                                                                                                                  |
 
 
 

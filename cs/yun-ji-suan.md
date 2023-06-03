@@ -31,15 +31,21 @@
 
 ## 服务器 工作站
 
-|                                                                                                                                           |                                                                                                                      |                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Building a Gaming server with Proxmox Part 1 [Stradex Gaming](https://www.youtube.com/watch?v=kP7MKrd8Tqg)                                | 可被自由定义的x86迷你服务器 Docker系统很好用｜玩法超丰富｜超硬核 [TuTu生活志](https://www.youtube.com/watch?v=hb6Y2XnM0cc)                         | VMware官推超融合——戴尔VxRail，到底有几把刷子？ [无情开评](https://www.youtube.com/watch?v=edWJYp4T9vg) |
-| 你理解不了的快乐——从零配置刀片服务器 [无情开评](https://www.youtube.com/watch?v=fZma8YO5ewc)                                                                   | 服务器专题 [Bill Mike比尔迈克](https://www.youtube.com/playlist?list=PLXTs8LYpISQjsGFzIK6jR8qBzHlZnFOwm)                      | 2 5 1 自己组装一台1U服务器 [Justin Wang](https://www.youtube.com/watch?v=jjKcJItH3XE)       |
-| 参数服务器（Parameter Server）逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=xt-AwUrDxQk)                                                    | Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0) |                                                                                    |
-| 计划用1万元买两台Ubuntu绘图仪 [a说科技](https://www.douyin.com/video/7146946442207186183)                                                               |                                                                                                                      |                                                                                    |
-| Build your own Deep learning Machine - What you need to know [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=Utwnm2kjYAM) |                                                                                                                      |                                                                                    |
-| 服务器和PC的区别 [拿撒勒的码农](https://www.youtube.com/watch?v=o-W8Hudycao)                                                                           |                                                                                                                      |                                                                                    |
-| 花两千多的预算，得到一个128G内存，14核心28线程的工作站，你心动了吗？ [妙不工作室](https://www.youtube.com/watch?v=tRD8J0txcBo)                                               |                                                                                                                      |                                                                                    |
+|                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| IT 绿灯大侠 [u](https://www.youtube.com/@IT-uu2rr)                                                                                            |
+| Building a Gaming server with Proxmox Part 1 [Stradex Gaming](https://www.youtube.com/watch?v=kP7MKrd8Tqg)                                |
+| 可被自由定义的x86迷你服务器 Docker系统很好用｜玩法超丰富｜超硬核 [TuTu生活志](https://www.youtube.com/watch?v=hb6Y2XnM0cc)                                              |
+| VMware官推超融合——戴尔VxRail，到底有几把刷子？ [无情开评](https://www.youtube.com/watch?v=edWJYp4T9vg)                                                        |
+| 你理解不了的快乐——从零配置刀片服务器 [无情开评](https://www.youtube.com/watch?v=fZma8YO5ewc)                                                                   |
+| 服务器专题 [Bill Mike比尔迈克](https://www.youtube.com/playlist?list=PLXTs8LYpISQjsGFzIK6jR8qBzHlZnFOwm)                                           |
+| 2 5 1 自己组装一台1U服务器 [Justin Wang](https://www.youtube.com/watch?v=jjKcJItH3XE)                                                              |
+| 参数服务器（Parameter Server）逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=xt-AwUrDxQk)                                                    |
+| Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)                      |
+| 计划用1万元买两台Ubuntu绘图仪 [a说科技](https://www.douyin.com/video/7146946442207186183)                                                               |
+| Build your own Deep learning Machine - What you need to know [The A.I. Hacker - Michael Phi](https://www.youtube.com/watch?v=Utwnm2kjYAM) |
+| 服务器和PC的区别 [拿撒勒的码农](https://www.youtube.com/watch?v=o-W8Hudycao)                                                                           |
+| 花两千多的预算，得到一个128G内存，14核心28线程的工作站，你心动了吗？ [妙不工作室](https://www.youtube.com/watch?v=tRD8J0txcBo)                                               |
 
 ## 数据中心
 
@@ -54,19 +60,22 @@
 
 ### heroku
 
-|                                                                                     |                                                                                       |                                                                                           |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 【serverless】云平台heroku介绍(1) [FreeCoder](https://www.youtube.com/watch?v=piFbYGKNRd4) | 国内对 Heroku 这个平台评价怎样？[zh](https://www.zhihu.com/question/19983570)                     | <p>Heroku <a href="https://zh.wikipedia.org/wiki/Heroku">wiki</a> </p><p>云平台即服务(PaaS)</p> |
-| 【serverless】云平台heroku介绍(2) [FreeCoder](https://www.youtube.com/watch?v=M-lRz0GODxg) | Serverless是一种新兴的云计算架构，它允许开发人员构建和部署应用程序而无需考虑服务器管理。使用Serverless可以使得应用程序的开发和运维变得更加容易和快速。 |                                                                                           |
-|                                                                                     |                                                                                       |                                                                                           |
+|                                                                                          |
+| ---------------------------------------------------------------------------------------- |
+| 【serverless】云平台heroku介绍(1) [FreeCoder](https://www.youtube.com/watch?v=piFbYGKNRd4)      |
+| 国内对 Heroku 这个平台评价怎样？[zh](https://www.zhihu.com/question/19983570)                        |
+| <p>Heroku <a href="https://zh.wikipedia.org/wiki/Heroku">wiki</a></p><p>云平台即服务(PaaS)</p> |
+| 【serverless】云平台heroku介绍(2) [FreeCoder](https://www.youtube.com/watch?v=M-lRz0GODxg)      |
+| Serverless是一种新兴的云计算架构，它允许开发人员构建和部署应用程序而无需考虑服务器管理。使用Serverless可以使得应用程序的开发和运维变得更加容易和快速。    |
+|                                                                                          |
 
 ### Railyway
 
-|                                                                                      |   |   |
-| ------------------------------------------------------------------------------------ | - | - |
-| Railyway is The New Heroku [NeuralNine](https://www.youtube.com/watch?v=2YmdkXo7iP8) |   |   |
-|                                                                                      |   |   |
-|                                                                                      |   |   |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| Railyway is The New Heroku [NeuralNine](https://www.youtube.com/watch?v=2YmdkXo7iP8) |
+|                                                                                      |
+|                                                                                      |
 
 ## 谷歌
 

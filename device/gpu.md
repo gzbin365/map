@@ -20,6 +20,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | volumeshader 毒蘑菇测试 [s](https://cznull.github.io/vsbm) [v](https://www.bilibili.com/video/BV1V7411L7P6)                                                                                      |
 | 集成显卡和核心显卡是一个东西嘛 [90后科技说](https://www.douyin.com/video/7152454149454482724)                                                                                                                  |
 | 黄仁勋为什么能吃到GPU的每一波，cpu与gpu到底有什么区别？GPU时代终结了吗？ [基地](https://www.youtube.com/watch?v=OzPACosEsu0)                                                                                                |
+| 世界級大咖來啦！身價一兆的皮衣大叔，AI教父黃仁勳｜Nvidia｜輝達｜英偉達｜一兆男｜[白飯Cadai](https://www.youtube.com/watch?v=WvvPZ7X-QP8)                                                                                          |
 | <p>为什么会有22GB显存的2080Ti？ <a href="https://www.youtube.com/watch?v=32JWAczeWKE">技数犬</a></p><p>TESLA A100 40GB <a href="https://www.youtube.com/watch?v=8aVLuwDWE3o">技数犬</a> 风冷改水冷</p>          |
 | 组装一台自己的GPU炼丹(深度学习)机器玩Ai。不贵，才万元出头! [欧皇张大千](https://www.youtube.com/watch?v=b70MtQPwrQo)                                                                                                      |
 | 31 深度学习硬件：CPU 和 GPU【动手学深度学习v2】 [跟李沐学AI](https://www.youtube.com/watch?v=3eFzd3CEWrY)                                                                                                        |

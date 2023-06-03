@@ -354,6 +354,8 @@ import cv2
 | 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                                                                                                                                               |
 | Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)   Squirrel Anime Enhance   [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y)   [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
 | xinntao/[ESRGAN](https://github.com/xinntao/ESRGAN)   Enhanced SRGAN                                                                                                                                                                                            |
+| <p>AI技術去除馬賽克，全民步兵時代已經來臨 <a href="https://www.youtube.com/watch?v=udN9m-Xw_pg">LSP开车</a> </p><p>CodeFormer JavPlayer JavPlayerfree(假) TecoGAN JavPlayer中文交流论坛 SD:BVPP模型</p>                                                                                      |
+|                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                 |
 
 ## 以图搜图 Image similarity search

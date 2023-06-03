@@ -447,7 +447,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                  |
 | ------------------------------------------------------------------------------------------------ |
 | DeepPavlov Research Seminars: Emotions [DeepPavlov](https://www.youtube.com/watch?v=57fIihBHOpI) |
-|                                                                                                  |
+| 我们做了个能对话的AI派蒙，免费给大家玩！ [极客湾Geekerwan](https://www.youtube.com/watch?v=8gd\_WtBPxaw) BERT PERT     |
 |                                                                                                  |
 
 ### 意图识别
@@ -699,7 +699,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 终于来了！ChatGPT 官方 APP正式版发布，居然暗藏福利！可无限制使用 GPT4，附“非美区”用户安装教程！ \| [零度解说](https://www.youtube.com/watch?v=X2ZKyqxHLfA)                                                                                                                                                                                                           |
 | 本地安装 ChatGPT！无需API、 免翻墙、完全免费使用纯正OpenAI的全部功能！ 支持 Windows、 Mac、NAS、Linux系统 \| [零度解说](https://www.youtube.com/watch?v=gKmawmUw7Jo) docker                                                                                                                                                                                     |
 | <p>【公开课】基于 Colossal-AI 低成本复现 ChatGPT｜大型语言模型技术公开课 | 智东西 <a href="https://www.youtube.com/watch?v=EPHirGusfUA">最佳拍档</a></p><p>【公开课】10%成本定制类 GPT-4 多模态对话模型｜大型语言模型技术公开课 <a href="https://www.youtube.com/watch?v=zlbnRszUXuU">02</a> | 智东西</p>                                                                                 |
-|                                                                                                                                                                                                                                                                                                                            |
+| acheong08/[ChatGPT](https://github.com/acheong08/ChatGPT) 逆向工程API [v](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                                                                                                                                                        |
 | 大模型训练：Deepspeed-chat 如何使用自定义数据和模型 \| 训练ChatGPT大模型，微软最新的AI训练技术 [TechDIYLife](https://www.youtube.com/watch?v=P7dIMYdOUl8)                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                            |
 

@@ -207,6 +207,9 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 | How ChatGPT works - From Transformers to Reinforcement Learning with Human Feedback (RLHF) [John Tan Chong Min](https://www.youtube.com/watch?v=wA8rjKueB3Q) |
 | RLHF+CHATGPT: What you must know [Machine Learning Street Talk](https://www.youtube.com/watch?v=PBH2nImUM5c)                                                 |
 | AI Safety, RLHF, and Self-Supervision - Jared Kaplan \| Stanford MLSys #79 [Stanford MLSys Seminars](https://www.youtube.com/watch?v=fqC3D-zNJUM)            |
+| 【分享】State of GPT（GPT的现状）中文字幕精校版 \| Andrej Karpathy 微软Build大会精彩演讲 \| GPT状态和原理 \| 解密OpenAI模型训练 [最佳拍档](https://www.youtube.com/watch?v=b8WIHOcp9ck)             |
+| 【機器學習 2023】(生成式 AI) [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsOePyfmkfivYZ7Rqr2nMk3W)                                                 |
+|                                                                                                                                                              |
 |                                                                                                                                                              |
 
 | PPO                                                                                                                                                    |
