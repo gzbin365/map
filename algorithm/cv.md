@@ -229,6 +229,9 @@ import cv2
 | 新的 AI 繪圖工具抵達戰場！！Leonardo.ai 五個超酷功能讓 Midjourney 也感到害怕 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=VCpNlcffl4w) |
 | Ai绘图谁更强？ 16GB VS 22GB [技数犬](https://www.youtube.com/watch?v=iZ-p6T4-9eI)                                        |
 | 2080Ti所有涡轮卡都是这么改的！ [技数犬](https://www.youtube.com/watch?v=DlME4nUDNIM)                                           |
+| Midjourney教程 入门到精通 [氪学家](https://www.youtube.com/playlist?list=PL4L5yXcAegdyj-6kMUc9PJY-oPvgWzo3m)              |
+|                                                                                                                 |
+|                                                                                                                 |
 |                                                                                                                 |
 
 ### DeepFake

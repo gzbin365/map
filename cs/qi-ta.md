@@ -815,6 +815,7 @@
 | 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                               |
 | 带您在PC上安装 Windows 10 + UBuntu 18.04 双系统 [美国村長](https://www.youtube.com/watch?v=YJ73UpTHk5g)                         |
 | 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)   |
+| 保姆级windows双系统\多系统安装和卸载教程，win11\10\7同时拥有 [大海资源](https://www.youtube.com/watch?v=YMAMdtjY\_cA)                       |
 |                                                                                                                    |
 
 ### RAMOS, 把系统装在内存上
@@ -828,11 +829,19 @@
 
 ### 把系统装在U盘上
 
-|                                                         |
-| ------------------------------------------------------- |
-| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) |
-|                                                         |
-|                                                         |
+|                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                                           |
+| Ventoy – 免費 USB 多重開機隨身碟製作軟體 \| [科技阿宅王](https://www.youtube.com/watch?v=YyX3zrXYCxc)                                                                                               |
+| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                        |
+| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                      |
+| Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ) |
+| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                     |
+|                                                                                                                                                                                   |
+| <p>UtraISO</p><p>双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入</p>                                                                                                           |
+| U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                                                                                   |
+|                                                                                                                                                                                   |
+|                                                                                                                                                                                   |
 
 ## BIOS
 

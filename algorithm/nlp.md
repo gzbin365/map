@@ -702,7 +702,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | acheong08/[ChatGPT](https://github.com/acheong08/ChatGPT) 逆向工程API [v](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                                                                                                                                                        |
 | 大模型训练：Deepspeed-chat 如何使用自定义数据和模型 \| 训练ChatGPT大模型，微软最新的AI训练技术 [TechDIYLife](https://www.youtube.com/watch?v=P7dIMYdOUl8)                                                                                                                                                                                                   |
 | Letting GPT-4 Control My Terminal (TermGPT) [sentdex](https://www.youtube.com/watch?v=O4EmRi0\_CI4)                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                            |
+| ChatGPT系列 [氪学家](https://www.youtube.com/playlist?list=PL4L5yXcAegdwi9RJdSGd42yilEzsjpale)                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### Prompt Engineering
@@ -825,6 +825,15 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | [v](https://www.youtube.com/watch?v=w8K0ULcLxhc) |
 |                                                  |
 |                                                  |
+
+### Character.AI
+
+|                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| character.ai [s](https://beta.character.ai/)                                                                                                                               |
+| 又一款爆火的AI人工智能应用！碾压ChatGPT，上线一周突破200万安装量！来自 Google LaMDA 大语言模型 Character.AI \| [零度解说](https://www.youtube.com/watch?v=47vMjLqMHh8)   [s](https://www.freedidi.com/9616.html) |
+|                                                                                                                                                                            |
+|                                                                                                                                                                            |
 
 ### 文心一言
 
@@ -1022,7 +1031,15 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Introduction to Large Language Models [Google Cloud Tech](https://www.youtube.com/watch?v=zizonToFXDs)                                                                                                            |
 |                                                                                                                                                                                                                   |
 
-### Causal Inference
+### 大型语言模型 LLMs
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+### 因果推断 Causal Inference
 
 Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond [2109.00725v1](https://arxiv.org/pdf/2109.00725v1.pdf)
 
