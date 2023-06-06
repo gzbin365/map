@@ -4,7 +4,7 @@
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 大佬你好啊([u](https://www.youtube.com/channel/UCKUmZM\_yDHMKxl4EWAt6GKw/playlists), ) | tracyattt1([u](https://www.youtube.com/user/tracyattt1/playlists), ) |
 | 全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                   | 華夏 [u](https://www.youtube.com/@HUAXIAZGWH/playlists)                |
-| Gen Kuang [u](https://www.youtube.com/@genkuang9148/playlists)                    |                                                                      |
+| Gen Kuang [u](https://www.youtube.com/@genkuang9148/playlists)                    | 1.10818. net [u](https://www.youtube.com/@10818/playlists)           |
 
 ## 风水
 
@@ -50,9 +50,12 @@
 
 ## 瑜伽
 
-|                                                                             |   |
-| --------------------------------------------------------------------------- | - |
-| Sadhguru 繁體中文 [u](https://www.youtube.com/channel/UCSaNMML9AAXTN4142jD-dxw) |   |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Sadhguru 繁體中文 [u](https://www.youtube.com/channel/UCSaNMML9AAXTN4142jD-dxw)                                                |
+| 大学生瑜伽 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJPTwmepSsQt4xN42sICe-wc) |
+|                                                                                                                            |
+|                                                                                                                            |
 
 ## 道
 

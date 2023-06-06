@@ -745,18 +745,21 @@ System on Chip, 系统级芯片
 
 ## 电视机  TV
 
-|                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| Panasonic JZ2000 [羅卡Rocca](https://www.youtube.com/watch?v=FUsPscHye1g) [v](https://www.youtube.com/watch?v=pTpH3g\_yp4Y) |
-| 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                       |
-| 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                     |
-| 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                 |
-| LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                       |
-| 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                 |
-| 看！我是如何收集这些资源的，不仅免费而且还是高清稳定的线路 \| [零度解说](https://www.youtube.com/watch?v=3C1Bzp-A4Ek)                                      |
-| 如何在 windows 10 /11 系统上安装 Android TV 和 Google TV ？看这个教程就可以搞定 ！ \| [零度解说](https://www.youtube.com/watch?v=0-PHXue5TqQ)      |
-| 小米盒子3增强版从入门到精通 [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVod5bF2MZotiIuNvNwklY\_8h) 等等                |
-|                                                                                                                           |
+|                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Panasonic JZ2000 [羅卡Rocca](https://www.youtube.com/watch?v=FUsPscHye1g) [v](https://www.youtube.com/watch?v=pTpH3g\_yp4Y)                                                                                                 |
+| 实用电视app推荐　[电视老司机](https://www.douyin.com/video/7026646754128923918)                                                                                                                                                       |
+| 分布式计算如何颠覆家庭娱乐生态  [林亦LYi](https://www.youtube.com/watch?v=E8gDAIz8Llg)                                                                                                                                                     |
+| 不到 3000 块，也能买到 120Hz 的游戏电视   [Konsn玩数码](https://www.douyin.com/video/7023355474749836552)                                                                                                                                 |
+| LG C2电视实测！这台OLED电视开启了PC的新时代？ ｜[大狸子切切里](https://www.youtube.com/watch?v=UG6zD87AZrg)                                                                                                                                       |
+| 电视点播软件 [天涯工作室](https://www.youtube.com/playlist?list=PLbiHMP36rghh78X8tsY\_CQ2YyladsWid3)                                                                                                                                 |
+| 看！我是如何收集这些资源的，不仅免费而且还是高清稳定的线路 \| [零度解说](https://www.youtube.com/watch?v=3C1Bzp-A4Ek)                                                                                                                                      |
+| 如何在 windows 10 /11 系统上安装 Android TV 和 Google TV ？看这个教程就可以搞定 ！ \| [零度解说](https://www.youtube.com/watch?v=0-PHXue5TqQ)                                                                                                      |
+| 小米盒子3增强版从入门到精通 [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVod5bF2MZotiIuNvNwklY\_8h) 等等                                                                                                                |
+| <p>电视盒子 <a href="https://www.youtube.com/playlist?list=PLV03kUE6uHsoJf4eTW7hgPIhVsRHuB5hw">小悟空的频道</a></p><p>Apple TV 4K <a href="https://www.youtube.com/playlist?list=PLV03kUE6uHsq1UG7bRHoO_v5icm7orCOf">小悟空的频道</a></p> |
+|                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                           |
 
 ## 空调
 
@@ -996,6 +999,16 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | NAS [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIET7wJ8F97zDGsuHEywCuis)                                                                                                                           |
 |                                                                                                                                                                                                               |
 
+#### 全固态NAS
+
+|                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| 威联通 双2.5G全固态SSD NAS TBS-464                                                                                                             |
+| 这台只能装M.2固态硬盘的静音轻薄NAS，UP主为他耗尽脑汁——威联通TBS-464上手体验 [司波图](https://www.youtube.com/watch?v=NgNqUw1Dl40)                                       |
+| 2022年 QNAP威联通4盘位全固态NAS TBS464 搭载Intel N5105 8GB 内存 双2.5G网口 开箱试用 #QNAP@wukongdaily [小悟空的频道](https://www.youtube.com/watch?v=qHHicN2dLj4) |
+|                                                                                                                                         |
+|                                                                                                                                         |
+
 #### RAID
 
 磁盘阵列技术
@@ -1088,6 +1101,9 @@ direct-attached storage
 | 2023今年买啥软路由？多网口迷你电脑新年选购辅助指南！                                                                                                                                                                                                                                                                     |
 | 群晖&软路由 [番茄科技](https://www.youtube.com/playlist?list=PLIKcGrK2tIrOlf0Q99HUsasrg4EdaK16o)                                                                                                                                                                                                          |
 | 玩转OpenWRT软路由 [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrtIZcnfqTCQpiDcFyNd0W7)                                                                                                                                                                                                   |
+| 软路由设置 [小悟空的频道](https://www.youtube.com/playlist?list=PLV03kUE6uHsqgGKVSu0dOHE4zz\_nI3jNo)                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                  |
 
 ## Merlin
@@ -1181,6 +1197,9 @@ direct-attached storage
 | AMAZING ROBOTIC ANIMALS YOU MUST SEE! [TechZone](https://www.youtube.com/watch?v=ZSNwrIQiod4)                                                             |
 | How to start making AUTONOMOUS ROBOT with the ATTLER [stepbystep-robotics](https://www.youtube.com/watch?v=jlrUUotkIlk)                                   |
 | 《时尚科技秀》 20230203 智能力控机器人\|[CCTV科教](https://www.youtube.com/watch?v=5Wpr7BrEXVY)                                                                           |
+| 魅力机器人 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJM4B4GmnwdFXLh1Mri99yeR)                                |
+|                                                                                                                                                           |
+|                                                                                                                                                           |
 
 | 机器人三原则                                                                                      |
 | ------------------------------------------------------------------------------------------- |

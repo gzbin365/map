@@ -86,6 +86,14 @@
 |                                                                      |
 |                                                                      |
 
+### 营养学
+
+|                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>营养学 <a href="https://www.youtube.com/playlist?list=PLj12i3PT3FJNHWj_RS0wTyR9WGuA0e0EA">Peking University Mooc - 欢迎订阅 -北京大学公开课 -</a> 许雅君教授</p><p>身边的营养学 北京大学 授课导师：许雅君教授 <a href="https://www.youtube.com/watch?v=O9XhQ7-dDXI">刘楠</a> 8:29:56</p> |
+| 人體生化營養學 Human Biochemical Nutrition / 吳雲珠 [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_6EDPkzRDdHsDVr3iVmaY3u)                                                                                          |
+|                                                                                                                                                                                                                                                    |
+
 ### 脊椎维护
 
 |                                                                       |

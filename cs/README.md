@@ -511,7 +511,7 @@ Computer Components？Computer Architecture？
 | MIT 6.004 Computation Structures Fall 2018 - All Lectures [Kelvin Sudani](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we\_Yu) |
 | 北京大学\_\_计算机组成原理 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z5bY7M6QS1C7IyIZL-Lh5ml)                                   |
 | 计算机硬件系统设计 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z553E2JJ-YhXYYyx5kQsXAK)                                         |
-|                                                                                                                                                      |
+| 计算机组成 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJO8VajIyj1NThePSGqqnuAJ)                           |
 |                                                                                                                                                      |
 
 ## 计算机网络

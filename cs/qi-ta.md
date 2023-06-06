@@ -335,7 +335,7 @@
 | Stephanie\_程序媛 [u](https://www.youtube.com/@stephanie\_3037/videos)                                             | PolyMars [u](https://www.youtube.com/watch?v=VrBjzjNwrqU)                                                                |
 | Alexander Lee [u](https://www.youtube.com/watch?v=vxVqtMcXHCA) 2048                                             | Polygon Forest Podcast [u](https://www.youtube.com/@polygonforestpodcast5991)                                            |
 | SimonDev [u](https://www.youtube.com/@simondev758/playlists)                                                    | Chris Courses [u](https://www.youtube.com/@ChrisCourses)                                                                 |
-|                                                                                                                 |                                                                                                                          |
+| Ava - 凛 [u](https://www.youtube.com/@AvaLab)                                                                    |                                                                                                                          |
 
 | CS50's Introduction to Game Development [freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)                                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -664,6 +664,9 @@
 | 计算机艺术 [u](https://www.youtube.com/@SysArcDesign/videos)                                                                                                                  |
 | twitter/[the-algorithm](https://github.com/twitter/the-algorithm/)   [v](https://www.youtube.com/watch?v=tYuJKVnEO0w)   [v](https://www.youtube.com/watch?v=pfeKZIK7PHY) |
 | System Design [Interview Pen](https://www.youtube.com/playlist?list=PLPkuArhPxxQGkbl-\_STo8FFxBBB4ri-tl)                                                                 |
+| 架构设计 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJOGtvY\_VHWCGhvzBfSjYspi)                                               |
+|                                                                                                                                                                          |
+|                                                                                                                                                                          |
 
 ## 低代码 白码 Low-Code NoCode
 
@@ -893,6 +896,12 @@
 | Python Click Tutorial( Building Command Line Apps) [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSizF1shhf2rHi-aA1yjt7rtX)                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                                                                                                                                          |
+
+| Poe                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poe更新发布安卓版！手机操作AI机器人如此丝滑！Poe Android Version! The AI robot operation on the phone is so smooth! [工具狂Toolbuddy](https://www.youtube.com/watch?v=M9uJrQlijrE) |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
 
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |

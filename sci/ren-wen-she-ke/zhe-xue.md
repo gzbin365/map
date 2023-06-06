@@ -47,6 +47,9 @@
 | 懷疑論 Skepticism [臺灣通識網General Education TW-開放式課程GET](https://www.youtube.com/playlist?list=PLfS0WrMWEu\_72nxcEQ7dmK\_MC\_dkW16Sy) |
 | 苑举正 怀疑论 [肥洲](https://www.youtube.com/watch?v=Ksvp0pr0GO8)                                                                        |
 | 艺术哲学与审美问题 王德峰 66节合集 [南部小波杰bojack](https://www.youtube.com/watch?v=TXIMq0\_qwL4)                                                  |
+| 悖论：思维的魔方 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJO8jKe\_COaWoxkzdnmCiptt)   |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ## 思考
 
