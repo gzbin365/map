@@ -277,6 +277,14 @@ import cv2
 |                                                                                                                       |
 |                                                                                                                       |
 
+| StyleDrop                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| [arxiv](https://arxiv.org/abs/2306.00983)   [demo](https://styledrop.github.io/)                                                  |
+| 【AIGC】谷歌公开StyleDrop模型论文 \| 图像风格定制大师 \| LOGO也能轻松生成 \| 挑战Midjourney \| 基于Muse模型 [最佳拍档](https://www.youtube.com/watch?v=Gi8eEanuNY8) |
+|                                                                                                                                   |
+|                                                                                                                                   |
+|                                                                                                                                   |
+
 ## 图像压缩 Image Compression
 
 |                                                                                                                            |

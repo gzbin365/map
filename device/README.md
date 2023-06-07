@@ -197,11 +197,19 @@ description: 硬件设备
 
 ## 单片机
 
-|                                                                                               |                                                                                                                                  |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k) | 宇凡微单片机 抖音号：[yufanwei](https://www.douyin.com/user/MS4wLjABAAAAJdUiTpvXaNzoRSdle2j5BWgblGhMFI0xOPWANPccmHxfw4fCeCl\_lel4FmJNJ-SE) |
-| 一个合格的硬件工程师需要具备哪些能力 [宇凡微单片机](https://www.douyin.com/video/7136118453278149925)                 |                                                                                                                                  |
-| [硬件工程师](https://www.douyin.com/search/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)          |                                                                                                                                  |
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k)                                    |
+| 宇凡微单片机 抖音号：[yufanwei](https://www.douyin.com/user/MS4wLjABAAAAJdUiTpvXaNzoRSdle2j5BWgblGhMFI0xOPWANPccmHxfw4fCeCl\_lel4FmJNJ-SE) |
+| 一个合格的硬件工程师需要具备哪些能力 [宇凡微单片机](https://www.douyin.com/video/7136118453278149925)                                                    |
+| [硬件工程师](https://www.douyin.com/search/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)                                             |
+| 51单片机到ARM征服嵌入式 霖锋 [Ann Schreiber](https://www.youtube.com/playlist?list=PLyDQq\_2y5gRkuj-gNGXhe03JIPwGUD4sR)                     |
+| 51单片机 [jxin bei](https://www.youtube.com/playlist?list=PLCj2q5IJYt4MApPAahkCkElEF-3Xg-aQI)                                       |
+| 振南 单片机                                                                                                                           |
+| 【对话】振南知波创始人于振南 \| 十五年单片机嵌入式老兵 \| 创业及工作经历分享 \| 第一代技术网红 \| 即将带来频道专享版《高手C》系列课程 [最佳拍档](https://www.youtube.com/watch?v=OBjkXPuXVhU)  |
+| 本自同根生，性能却相差悬殊!CPU和单片机有什么不同 [爱上半导体](https://www.youtube.com/watch?v=BrnpLvocGwg)                                                  |
+|                                                                                                                                  |
+|                                                                                                                                  |
 
 ## NVIDIA Jetson
 
@@ -721,9 +729,9 @@ System on Chip, 系统级芯片
 
 ## 蓝牙
 
-|                                                                                          |
-| ---------------------------------------------------------------------------------------- |
-| How does Bluetooth Work? [Branch Education](https://www.youtube.com/watch?v=1I1vxu5qIUM) |
+|                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>How does Bluetooth Work? <a href="https://www.youtube.com/watch?v=1I1vxu5qIUM">Branch Education</a></p><p>Bluetooth5 新手入門【nRF52832 教程】 <a href="https://www.youtube.com/playlist?list=PLHpfx416EzLMnuhmSHrKIwa3c0Ta7di0f">大笑脸</a></p> |
 
 ## NFC, Near Field Communication
 
@@ -1102,7 +1110,7 @@ direct-attached storage
 | 群晖&软路由 [番茄科技](https://www.youtube.com/playlist?list=PLIKcGrK2tIrOlf0Q99HUsasrg4EdaK16o)                                                                                                                                                                                                          |
 | 玩转OpenWRT软路由 [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrtIZcnfqTCQpiDcFyNd0W7)                                                                                                                                                                                                   |
 | 软路由设置 [小悟空的频道](https://www.youtube.com/playlist?list=PLV03kUE6uHsqgGKVSu0dOHE4zz\_nI3jNo)                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                  |
+| <p>软路由安装PVE虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！ <a href="https://www.youtube.com/watch?v=t_1o0rM3S7o">向北</a></p><p>软路由安装ESXI虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！这期很长你忍一下 <a href="https://www.youtube.com/watch?v=aWgO2xdT4FI">向北</a></p>                                      |
 |                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                  |
 

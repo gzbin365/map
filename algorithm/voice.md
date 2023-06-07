@@ -237,6 +237,9 @@ Voice Synthesis
 | 我们做了个能对话的AI派蒙，免费给大家玩！ [极客湾Geekerwan](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                         |
 | <p>变分推断 学习声线 VITS: </p><p>Variational Inference with adversarial learning for end-to-end Text-to-Speech</p>                                                |
 | Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech                                                                |
+| 【警告】涉及敏感內容！未公開的教學流出！隨時會刪片... #ai孫燕姿 #tuneflow #svs [咖哩哥](https://www.youtube.com/watch?v=EEtQg9zJ0\_g)                                                     |
+| TuneFlow [s](https://tuneflow.com/)                                                                                                                        |
+| svc-develop-team/[so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                                                            |
 |                                                                                                                                                            |
 
 ### Transcribed speech（转录语音）

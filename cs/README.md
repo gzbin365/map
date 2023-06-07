@@ -121,7 +121,7 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 
 使用 AWS Educate 學會軟體工程師必會的兩大雲服務 [六角學院](https://www.youtube.com/watch?v=cJ0Z3kJJ1lY)
 
-
+Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) [DevOps Directive](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
 
 

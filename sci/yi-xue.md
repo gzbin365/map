@@ -25,6 +25,7 @@
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
+| The Comprehensive Map of Medicine [Domain of Science](https://www.youtube.com/watch?v=CkwSeMrOPjc)                               |
 | [诊断学 四川大学华西医学中心](https://www.youtube.com/playlist?list=PLgvxkXbWub7hnMdxF2Tw7bgSjKplBJ0Cu) Free Course                           |
 | 课程-中医诊断学\_上 [People With\_Guitar](https://www.youtube.com/playlist?list=PLtUG5I3iHx9xR-rrT344O85Jopbu5enzv)                      |
 | 跟明星一起学黄帝内经中医课 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTysMNu1slGIA6ib5NHa4bnk)                               |
