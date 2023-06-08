@@ -920,6 +920,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DiskGenius [cn](https://www.diskgenius.cn/) [en](https://www.diskgenius.com/)                                                                                        |
 | How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            |
 | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                       |
 | 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     |
@@ -934,9 +935,15 @@ System on Chip, 系统级芯片
 | 990pro 980pro                                                                                                                                                        |
 | SAMSUNG 983ZET slc                                                                                                                                                   |
 | 技嘉AG510K                                                                                                                                                             |
-| This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA)                                                                      |
+| This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA) CrystalDiskMark                                                      |
 | 移速 2T 3500 dy 458 tb 456.62 445到手                                                                                                                                    |
 |                                                                                                                                                                      |
+
+| CrystalDiskMark                                                      |
+| -------------------------------------------------------------------- |
+| 硬盘测速   [s](https://crystalmark.info/en/software/crystaldiskmark/)    |
+|                                                                      |
+|                                                                      |
 
 ## NAS
 
@@ -1063,6 +1070,10 @@ direct-attached storage
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW) |
 | 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)   云盾数据恢复中心 [u](https://www.youtube.com/@user-yg8ti8ym1y)     |
 | shred -u filename                                                                                                  |
+| 最好的磁盘（硬盘）数据恢复软件DiskGenius，完美解决｜分区丢失｜误格式化｜找回丢失的数据 [Memory Story DC](https://www.youtube.com/watch?v=Onp0YRs00hI)    |
+|                                                                                                                    |
+|                                                                                                                    |
+|                                                                                                                    |
 
 ## 宽带 专线
 

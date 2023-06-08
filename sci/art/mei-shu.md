@@ -281,6 +281,14 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 
 How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
 
+### 文本生成3D模型
+
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| 【人工智能】Tafi \| 全球首个文本生成高质量3D模型平台 \| 效果媲美玛雅C4D \| 开放测试申请 [最佳拍档](https://www.youtube.com/watch?v=bvXw4LVxOwU) |
+|                                                                                                            |
+|                                                                                                            |
+
 ### 虚拟主播 虚拟形象 Vtuber 数字人 数字生命
 
 |                                                                                                                                                                                                  |

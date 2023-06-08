@@ -143,6 +143,8 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Circuits [AlphaPhoenix](https://www.youtube.com/playlist?list=PL39PMIJeIAqxAlvsvCbBSEUXEMOS7XQDS)                                                                                                                             |
 | 模拟电子电路 [周末实验室](https://www.youtube.com/playlist?list=PLG\_u09HLwxf-LZcE9KeSIyQal0CuHlgRW)                                                                                                                                     |
 |                                                                                                                                                                                                                               |
+| 《模拟电路》知识点总结·考前突击【一个视频就够了】[大笑脸](https://www.youtube.com/watch?v=F8FOEeJ\_xTk\&list=PLHpfx416EzLMW3ikMz10iCxVQDNgp1DMy\&index=3)                                                                                                |
+|                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                               |
 
 ## 微波 Microwave

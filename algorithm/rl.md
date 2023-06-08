@@ -35,18 +35,18 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 
 ## OpenAI
 
-|                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **OpenAI(**[**site**](https://openai.com)**,** [**git**](https://github.com/openai)**,** [**Baselines**](https://github.com/openai/baselines)**,** [**GPT-3**](https://arxiv.org/abs/2005.14165)**)** |
-| OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.youtube.com/watch?v=540vzMlf-54)                                                                                      |
-| Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367                                                            |
-| Breakthrough potential of AI \| Sam Altman \| MIT 2023 [Imagination in Action](https://www.youtube.com/watch?v=T5cPoNwO7II\&list=PLY\_nsiUEgM3n8bvHQpkiwOXRg3aeFYES8\&index=2)                        |
-| OpenAI CEO Sam Altman testifies at Senate artificial intelligence hearing \| full video [CBS News](https://www.youtube.com/watch?v=TO0J2Yw7usM)                                                       |
-| LIVE: OpenAI CEO Sam Altman testifies during Senate hearing on AI oversight — 05/16/23 [CNBC Television](https://www.youtube.com/watch?v=fP5YdyjTfG0)                                                 |
-| Open AI CEO第一次国会听证会内容介绍 [Jeff科技视角](https://www.youtube.com/watch?v=D2LtLa2agDE)                                                                                                                       |
-| 【OpenAI】萨姆奥特曼 Sam Altman出席国会听证会 \| 积极拥抱政府监管 \| AI企业要上牌照 \| 建议成立国际组织 \| AI将创造更多就业 \| 不为赚钱只因热爱 [最佳拍档](https://www.youtube.com/watch?v=CW4T5dQiViY)                                                      |
-|                                                                                                                                                                                                       |
-|                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OpenAI(**[**site**](https://openai.com)**,** [**git**](https://github.com/openai)**,** [**Baselines**](https://github.com/openai/baselines)**,** [**GPT-3**](https://arxiv.org/abs/2005.14165)**)**   openai Research index [s](https://openai.com/research) |
+| OpenAI CEO, CTO on risks and how AI will reshape society [ABC News](https://www.youtube.com/watch?v=540vzMlf-54)                                                                                                                                               |
+| Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI \| [Lex Fridman](https://www.youtube.com/watch?v=L\_Guz73e6fw) Podcast #367                                                                                                                     |
+| Breakthrough potential of AI \| Sam Altman \| MIT 2023 [Imagination in Action](https://www.youtube.com/watch?v=T5cPoNwO7II\&list=PLY\_nsiUEgM3n8bvHQpkiwOXRg3aeFYES8\&index=2)                                                                                 |
+| OpenAI CEO Sam Altman testifies at Senate artificial intelligence hearing \| full video [CBS News](https://www.youtube.com/watch?v=TO0J2Yw7usM)                                                                                                                |
+| LIVE: OpenAI CEO Sam Altman testifies during Senate hearing on AI oversight — 05/16/23 [CNBC Television](https://www.youtube.com/watch?v=fP5YdyjTfG0)                                                                                                          |
+| Open AI CEO第一次国会听证会内容介绍 [Jeff科技视角](https://www.youtube.com/watch?v=D2LtLa2agDE)                                                                                                                                                                                |
+| 【OpenAI】萨姆奥特曼 Sam Altman出席国会听证会 \| 积极拥抱政府监管 \| AI企业要上牌照 \| 建议成立国际组织 \| AI将创造更多就业 \| 不为赚钱只因热爱 [最佳拍档](https://www.youtube.com/watch?v=CW4T5dQiViY)                                                                                                               |
+|                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                |
 
 ## UP
 

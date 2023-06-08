@@ -1,7 +1,5 @@
 # 其他
 
-##
-
 ## TIOBE 编程语言排行榜
 
 |                                                                                                                                               |
@@ -616,6 +614,10 @@
 | Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) [NetworkChuck](https://www.youtube.com/watch?v=\_u8qTN3cCnQ)                                                                                          |
 | Mac免费虚拟机来啦！支持M芯片｜VMware Fusion 13 [黄杨ME](https://www.youtube.com/watch?v=QTs9sHN6W5A)                                                                                                                        |
 | 最新版VMware Workstation 17.0 Pro安装Windows 11最新版 \| 正版安装 \| 免费永久激活 \| 附下载链接 \| [丹姐解说](https://www.youtube.com/watch?v=ysiXNJH2DqI)                                                                              |
+| VirtualBox 虚拟机使用物理硬盘启动，制做软件测试环境 [One Fish](https://www.youtube.com/watch?v=sl1GKmB9R6s\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=2)                                                                   |
+| VirtualBox 命令行                                                                                                                                                                                               |
+| Virtualbox [Day Day Up - 天天向上](https://www.youtube.com/@Day-Day-Up/search?query=Virtualbox)                                                                                                                  |
+|                                                                                                                                                                                                              |
 
 ## 架构, WEB APP Architecture
 
@@ -745,27 +747,27 @@
 
 ### Windows 98
 
-|                                                                                                                                                                                                                                    |   |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| <p>What's the fastest (officially supported) Windows 98 PC? <a href="https://www.youtube.com/watch?v=7D01We2aAu8">MattKC</a></p><p><a href="https://www.youtube.com/c/MattKC/search?query=Windows%2098">query</a>=Windows%2098</p> |   |   |
-|                                                                                                                                                                                                                                    |   |   |
-|                                                                                                                                                                                                                                    |   |   |
+|                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>What's the fastest (officially supported) Windows 98 PC? <a href="https://www.youtube.com/watch?v=7D01We2aAu8">MattKC</a></p><p><a href="https://www.youtube.com/c/MattKC/search?query=Windows%2098">query</a>=Windows%2098</p> |
+|                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                    |
 
 ### Windows XP
 
-|                                                                          |                                           |   |
-| ------------------------------------------------------------------------ | ----------------------------------------- | - |
-| 2022年正常使用windows XP之四：常用软件篇 [zh](https://zhuanlan.zhihu.com/p/348144558) | 系统之家官网 [s](https://www.xitongzhijia.net/) |   |
-|                                                                          |                                           |   |
-|                                                                          |                                           |   |
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| 2022年正常使用windows XP之四：常用软件篇 [zh](https://zhuanlan.zhihu.com/p/348144558) |
+| 系统之家官网 [s](https://www.xitongzhijia.net/)                                |
+|                                                                          |
 
 ### Windows 7
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |
+| - |
+|   |
+|   |
+|   |
 
 ### Windows 10
 
@@ -780,6 +782,9 @@
 | PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
 | xp风格的win10 [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) [s](https://www.freedidi.com/8810.html)                                                |
 | kms激活 [零度解说](https://www.youtube.com/watch?v=VoG37gE40mk)                                                                                          |
+| 利用VirtualBox 虚拟机安装Win10系统到U盘 [One Fish](https://www.youtube.com/watch?v=etOXzinnXWI\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=1)            |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
 
 ### Windows 11
 
@@ -840,6 +845,7 @@
 | 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                      |
 | Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ) |
 | Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                     |
+| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                       |
 |                                                                                                                                                                                   |
 | <p>UtraISO</p><p>双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入</p>                                                                                                           |
 | U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                                                                                   |
