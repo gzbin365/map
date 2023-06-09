@@ -595,29 +595,29 @@
 
 ## 虚拟机
 
-|                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 王隆杰 VMware vSphere 5.5管理教程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyC6ky99wXQrM9SI\_ujIp72)                                                                                             |
-| <p><a href="https://www.ozabc.com/gongju/499925.html">VMware Workstation Pro 16永久激活码激活秘钥</a></p><p>ZF3R0-FHED2-M80TY-8QYGC-NPKYF</p><p>YF390-0HF8P-M81RQ-2DXQE-M2UT6</p><p>ZF71R-DMX85-08DQY-8YMNC-PPHV8</p> |
-| [hyper-v设置详解，教你用WIN原生虚拟机免费打造软路由，全家出国旅行](https://www.youtube.com/watch?v=9Hc-5EOtaJs)                                                                                                                         |
-| How To Install Linux (Ubuntu) On Windows Virtually \| No Dual OS \| No Software \| Virtual Machine. [Know-How](https://www.youtube.com/watch?v=WgZ276a0B44)                                                  |
-| Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                        |
-| 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                 |
-| Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                              |
-| 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                   |
-| Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                              |
-| ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                           |
-| VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                   |
-| How to Install Kali Linux 2022.3 in VirtualBox on windows [CS Malik](https://www.youtube.com/watch?v=TbQQpRe2-7s)                                                                                            |
-| VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                 |
-| 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                              |
-| Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) [NetworkChuck](https://www.youtube.com/watch?v=\_u8qTN3cCnQ)                                                                                          |
-| Mac免费虚拟机来啦！支持M芯片｜VMware Fusion 13 [黄杨ME](https://www.youtube.com/watch?v=QTs9sHN6W5A)                                                                                                                        |
-| 最新版VMware Workstation 17.0 Pro安装Windows 11最新版 \| 正版安装 \| 免费永久激活 \| 附下载链接 \| [丹姐解说](https://www.youtube.com/watch?v=ysiXNJH2DqI)                                                                              |
-| VirtualBox 虚拟机使用物理硬盘启动，制做软件测试环境 [One Fish](https://www.youtube.com/watch?v=sl1GKmB9R6s\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=2)                                                                   |
-| VirtualBox 命令行                                                                                                                                                                                               |
-| Virtualbox [Day Day Up - 天天向上](https://www.youtube.com/@Day-Day-Up/search?query=Virtualbox)                                                                                                                  |
-|                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 王隆杰 VMware vSphere 5.5管理教程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTyC6ky99wXQrM9SI\_ujIp72)                                                                                                                 |
+| <p><a href="https://www.ozabc.com/gongju/499925.html">VMware Workstation Pro 16永久激活码激活秘钥</a></p><p>ZF3R0-FHED2-M80TY-8QYGC-NPKYF</p><p>YF390-0HF8P-M81RQ-2DXQE-M2UT6</p><p>ZF71R-DMX85-08DQY-8YMNC-PPHV8</p>                     |
+| [hyper-v设置详解，教你用WIN原生虚拟机免费打造软路由，全家出国旅行](https://www.youtube.com/watch?v=9Hc-5EOtaJs)                                                                                                                                             |
+| How To Install Linux (Ubuntu) On Windows Virtually \| No Dual OS \| No Software \| Virtual Machine. [Know-How](https://www.youtube.com/watch?v=WgZ276a0B44)                                                                      |
+| Stop using Virtualbox, Here's how to use QEMU instead Chris [Titus Tech](https://www.youtube.com/watch?v=Kq849CpGd88)                                                                                                            |
+| 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                                     |
+| Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                                                  |
+| 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                                       |
+| Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                                                  |
+| ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                                               |
+| VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                                       |
+| How to Install Kali Linux 2022.3 in VirtualBox on windows [CS Malik](https://www.youtube.com/watch?v=TbQQpRe2-7s)                                                                                                                |
+| VMware虚拟机“去虚拟化”第一集：修改BIOS主板信息和开机Logo [爱比较](https://www.douyin.com/video/7149198337340689695)                                                                                                                                     |
+| 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                                                  |
+| Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) [NetworkChuck](https://www.youtube.com/watch?v=\_u8qTN3cCnQ)                                                                                                              |
+| Mac免费虚拟机来啦！支持M芯片｜VMware Fusion 13 [黄杨ME](https://www.youtube.com/watch?v=QTs9sHN6W5A)                                                                                                                                            |
+| 最新版VMware Workstation 17.0 Pro安装Windows 11最新版 \| 正版安装 \| 免费永久激活 \| 附下载链接 \| [丹姐解说](https://www.youtube.com/watch?v=ysiXNJH2DqI)                                                                                                  |
+| VirtualBox 虚拟机使用物理硬盘启动，制做软件测试环境 [One Fish](https://www.youtube.com/watch?v=sl1GKmB9R6s\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=2)                                                                                       |
+| VirtualBox 命令行                                                                                                                                                                                                                   |
+| <p>Virtualbox <a href="https://www.youtube.com/@Day-Day-Up/search?query=Virtualbox">Day Day Up - 天天向上</a></p><p>如何在VirtualBox中启用嵌套虚拟化-在虚拟机上安装虚拟机 <a href="https://www.youtube.com/watch?v=r-v_vfVk8Rc">Day Day Up - 天天向上</a></p> |
+|                                                                                                                                                                                                                                  |
 
 ## 架构, WEB APP Architecture
 
@@ -741,6 +741,24 @@
 | 老盖聊装系统，制作U盘启动盘，安装winpe优盘ghost工具备份恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTUxY0tEEyQUPfkfarLbNFa) |
 |                                                                                                                       |
 
+### UEFI, Unified Extensible Firmware Interface
+
+统一的可扩展固件接口
+
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
+|                                                                                                                                          |
+|                                                                                                                                          |
+
+### PE
+
+|                                                                        |
+| ---------------------------------------------------------------------- |
+| 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54) |
+|                                                                        |
+|                                                                        |
+
 ### Windows 95 Windows ME
 
 
@@ -783,7 +801,7 @@
 | xp风格的win10 [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) [s](https://www.freedidi.com/8810.html)                                                |
 | kms激活 [零度解说](https://www.youtube.com/watch?v=VoG37gE40mk)                                                                                          |
 | 利用VirtualBox 虚拟机安装Win10系统到U盘 [One Fish](https://www.youtube.com/watch?v=etOXzinnXWI\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=1)            |
-|                                                                                                                                                    |
+| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc)           |
 |                                                                                                                                                    |
 
 ### Windows 11
@@ -837,28 +855,37 @@
 
 ### 把系统装在U盘上
 
-|                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ventoy [v](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                                           |
-| Ventoy – 免費 USB 多重開機隨身碟製作軟體 \| [科技阿宅王](https://www.youtube.com/watch?v=YyX3zrXYCxc)                                                                                               |
-| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                        |
-| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                      |
-| Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ) |
-| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                     |
-| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                       |
-|                                                                                                                                                                                   |
-| <p>UtraISO</p><p>双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入</p>                                                                                                           |
-| U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                                                                                   |
-|                                                                                                                                                                                   |
-|                                                                                                                                                                                   |
+| Ventoy                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ventoy/[Ventoy](https://github.com/ventoy/Ventoy) [s](https://www.ventoy.net/cn/index.html) Ventoy/[releases](https://github.com/ventoy/Ventoy/releases) [isolist](https://www.ventoy.net/cn/isolist.html) |
+| Windows 10 秒变 XP系统！重温经典，流畅度极高，大小只有3.7G！让老旧电脑再次充满活力 \| [零度解说](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                  |
+| Ventoy – 免費 USB 多重開機隨身碟製作軟體 \| [科技阿宅王](https://www.youtube.com/watch?v=YyX3zrXYCxc) [s](https://www.tokfun.net/software/ventoy/)                                                                           |
+| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                                                 |
+| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                                               |
+| Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ)                          |
+| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                                              |
+| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                                                |
+|                                                                                                                                                                                                            |
+|                                                                                                                                                                                                            |
+|                                                                                                                                                                                                            |
+|                                                                                                                                                                                                            |
+|                                                                                                                                                                                                            |
 
-## BIOS
+| UtraISO                                                                         |
+| ------------------------------------------------------------------------------- |
+| 双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入                              |
+| U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8) |
+|                                                                                 |
 
-|                                                                                                   |
-| ------------------------------------------------------------------------------------------------- |
-| 97%使用者可能會用到的6個BIOS功能! 華碩 微星 技嘉 BIOS 設定教學 \| 聊電[Jing](https://www.youtube.com/watch?v=DYibYk6W8rg) |
-|                                                                                                   |
-|                                                                                                   |
+## BIOS, Basic Input Output System
+
+基本输入输出系统
+
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 97%使用者可能會用到的6個BIOS功能! 華碩 微星 技嘉 BIOS 設定教學 \| 聊電[Jing](https://www.youtube.com/watch?v=DYibYk6W8rg)                                        |
+| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
+|                                                                                                                                          |
 
 ## 按键精灵 Robotic Process Automation(RPA)
 

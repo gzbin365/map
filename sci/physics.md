@@ -234,6 +234,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 |                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                         |
 
+## 航空航天
+
+|                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>航空引擎系列 <a href="https://www.youtube.com/playlist?list=PLG9aIrr5hvEf_gOKlx27566j67VpBh7Rq">Minmin Gong</a></p><p>航天引擎系列 <a href="https://www.youtube.com/playlist?list=PLG9aIrr5hvEfdKQr627Q2bhYTubC-UtjZ">Minmin Gong</a></p><p>航空航天联动系列 <a href="https://www.youtube.com/playlist?list=PLG9aIrr5hvEdr8ceq6bPVb395xtZJFRHq">Minmin Gong</a></p> |
+|                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                    |
+
 ## 核电
 
 |                                                                                                                                                                           |

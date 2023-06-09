@@ -45,6 +45,7 @@
 | How To Install Kali Linux On Android Device NO ROOT Easily, Kali Linux On Android [Haxoid](https://www.youtube.com/watch?v=1YNRA0S1pZw\&list=PLe3KcwnEQOZeE3QzRBHYIgFEAm0o4eugp\&index=5) |
 | Kali 安全技術 [HKCTO](https://www.youtube.com/playlist?list=PLmk2A5FdzV3PL3Vymf\_WGRyNgrZyDg4UQ) Kali 滲透教程                                                                                    |
 | 2021年Kali渗透教程/网络安全/kali/Linux/黑客/web安全/信息安全/白帽黑客 [GBVM](https://www.youtube.com/playlist?list=PLC6U1nhX05jFLDC\_yS17f9AXcz86DvYdn)                                                        |
+| WINDOWS系统通过虚拟机VIRTUALBOX安装KALI LINUX - 1台电脑两个操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=gWolp6637ao)                                                                        |
 | Ethical hacking: Getting started guide [David Bombal](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPqmsoVb0STYzw4IaTe1fxn)                                                           |
 | ethical hacking sinhala \| cybersecurity sinhala [Malinda Sir](https://www.youtube.com/playlist?list=PLO5ZaVAr6mVyI\_bDqHK\_U6emnuBvOY1bW)                                                |
 | Linux Essentials for Ethical Hackers - Full InfoSec Course [freeCodeCamp](https://www.youtube.com/watch?v=1hvVcEhcbLM)                                                                    |

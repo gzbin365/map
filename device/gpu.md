@@ -11,7 +11,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | <p>计算能力（Compute Capability）是 Nvidia GPU 的一个术语，它代表着 GPU 支持的一系列计算特性和功能。</p><p>每个 Nvidia GPU 都有一个特定的计算能力版本号，例如：Compute Capability 8.6。计算能力版本号代表了该 GPU 支持的 CUDA 版本、指令集和硬件特性。计算能力版本号的提高通常会带来更高的性能、更多的功能和更好的兼容性。</p><p>具体来说，计算能力版本号与以下几个方面有关：</p><ul><li>指令集：计算能力版本号决定了 GPU 支持的指令集的类型和数量。新版本的计算能力通常支持更多的指令，因此可以更有效地执行复杂的计算任务。</li><li>GPU 架构：计算能力版本号反映了 GPU 的架构类型。不同的 GPU 架构可以提供不同的性能和功能，因此计算能力版本号可以帮助开发人员选择最适合其应用程序的 GPU。</li><li>CUDA 版本：计算能力版本号也指定了 GPU 支持的 CUDA 版本。新版本的 CUDA 可以提供更多的功能和性能优化，因此较新的计算能力版本号通常可以更好地利用 CUDA 的新功能。</li></ul><p>综上所述，计算能力是一个非常重要的概念，它代表了 GPU 的功能和性能。开发人员需要了解不同的计算能力版本号，并根据自己的需求选择最适合的 GPU。</p> |
 | <p>Nvidia GPU 的浮点性能是指其在进行浮点数运算时的峰值计算能力。计算能力的大小代表着该 GPU 可以在一定时间内完成的浮点数计算的数量。计算能力越高，意味着 GPU 在相同时间内可以完成更多的计算工作，因此在计算密集型的应用中具有更好的性能表现。</p><p>浮点性能通常由一个浮点数值来表示，例如 NVIDIA GeForce GTX 1080 Ti 的浮点性能为 11.3 TFLOPS（11.3万亿次浮点运算每秒）。这个数字代表着 GPU 可以在一秒钟内执行的浮点数计算的数量，因此它对于科学计算、机器学习和深度学习等需要大量浮点数计算的应用程序非常重要。</p>                                                                                                                                                                                                                                                                                                                  |
 | 从加速游戏到加速人类，英伟达做对了什么？ [技工虎克](https://www.youtube.com/watch?v=6sB-wAY3K6Y)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| cpu对少量数据做复杂的计算, gpu对大量的数据做简单的计算                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 |                                                                                                                                                                                             |
@@ -37,6 +37,8 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | 【AI芯片】GPU基础 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p7sJcPCt\_SjxctXDhCpgH6c) [git](https://github.com/chenzomi12/DeepLearningSystem/tree/main/Hardware)                    |
 | GPUs: Explained [IBM Technology](https://www.youtube.com/watch?v=LfdK-v0SbGI)                                                                                                               |
 | 全新中國顯卡MTT S70正式發佈，摩爾線程夏季發佈會匯總「[超極氪](https://www.youtube.com/watch?v=Mph6MFYXDHc)」摩尔线程                                                                                                       |
+| 上帝视角看GPU [Minmin Gong](https://www.youtube.com/playlist?list=PLG9aIrr5hvEdsFh37nUQh-m3VewEAKpiI)                                                                                            |
+| wuye9036/[SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) Salvia渲染器                                                                                                             |
 |                                                                                                                                                                                             |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
@@ -46,6 +48,14 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的保姆級教程 [Super Kr超极氪](https://www.youtube.com/watch?v=VqpvqU2I07c)
 
 四等分的显卡！用一张显卡开网吧是什么体验？ [极客湾Geekerwan](https://www.youtube.com/watch?v=KYCq3YcF2k0)
+
+## 光线追踪 光线跟踪
+
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 上帝视角看GPU（6）：光线跟踪流水线 [Minmin Gong](https://www.youtube.com/watch?v=kw1bnub3EFo\&list=TLPQMDkwNjIwMjMgXCzwL8nFhA\&index=6) |
+|                                                                                                                          |
+|                                                                                                                          |
 
 ## eGPU
 

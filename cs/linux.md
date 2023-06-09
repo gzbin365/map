@@ -227,15 +227,17 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## 嵌入式
 
-|                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| 嵌入式Linux网络编程基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZyi1i\_FBTsLH6kf8fZ9YFd)                                  |
-| 嵌入式驱动开发环境搭建初级 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhazL036uR61slr9UhGR0SCl)                                    |
-| 嵌入式C语言高级 语法概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYZWYj5aactvfQXlipc5qg5)                                    |
-| 嵌入式C语言高级 内存空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAZA0qlSrhDXi3ONB2rVj6)                                    |
-| 嵌入式C语言高级 函数空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZFxpKta3ZtBkuvBiGIPU\_3)                                   |
-| 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5) |
-| 国信安教育 抖音号：[2176970384](https://www.douyin.com/user/MS4wLjABAAAA15Zx\_NigGboxmlqXGHoTNy34YJNqU6deXvOruievvis)                       |
+|                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 嵌入式Linux网络编程基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZyi1i\_FBTsLH6kf8fZ9YFd)                                                                                                                                                                 |
+| 嵌入式驱动开发环境搭建初级 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhazL036uR61slr9UhGR0SCl)                                                                                                                                                                   |
+| 嵌入式C语言高级 语法概述 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYZWYj5aactvfQXlipc5qg5)                                                                                                                                                                   |
+| 嵌入式C语言高级 内存空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaAZA0qlSrhDXi3ONB2rVj6)                                                                                                                                                                   |
+| 嵌入式C语言高级 函数空间 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZFxpKta3ZtBkuvBiGIPU\_3)                                                                                                                                                                  |
+| 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5)                                                                                                                                |
+| 国信安教育 抖音号：[2176970384](https://www.douyin.com/user/MS4wLjABAAAA15Zx\_NigGboxmlqXGHoTNy34YJNqU6deXvOruievvis)                                                                                                                                                      |
+| <p>【独家】《嵌入式高手C》1-4讲 | 于振南 | 十天登顶嵌入式C语言之巅系列课程 | 2023全新百集大课 | 振南知波 <a href="https://www.youtube.com/watch?v=YvxX3ka2YGI">最佳拍档</a></p><p>【独家】《嵌入式高手C》<a href="https://www.youtube.com/watch?v=1qYXKPqKbc8">5-7讲</a> | 于振南 | 十天登顶嵌入式C语言之巅系列课程 | 2023全新百集大课 | 振南知波</p> |
+|                                                                                                                                                                                                                                                                   |
 
 ## **Git & Github**
 
@@ -356,8 +358,15 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Docker [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIGZ-LVL-gh1wmavd16pxQx1)                                                                                                                                 |
 | Using 🐋 Docker Containers for Production in ⚡ Ignition [Inductive Automation](https://www.youtube.com/watch?v=KYPq4j5V9SA)                                                                                            |
 | 强烈推荐 5 款免费容器！真心不错，速度快！免绑卡、一键搭建开源项目、ChatGPT、代理节点、博客等，都可轻松搞定！！ \| [零度解说](https://www.youtube.com/watch?v=624eTQqx\_As)                                                                                                   |
+| Docker入门 \| 安装 \| 命令 \| 实践 [Day Day Up - 天天向上](https://www.youtube.com/playlist?list=PLk694hKMYsRETRSU8ORWmFD1pVRarqafP)                                                                                               |
 |                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                        |
+
+| 免费容器                                                              |
+| ----------------------------------------------------------------- |
+| Railway [v](https://www.youtube.com/watch?v=O4EGS3BxA8A) 1个月500小时 |
+| Render [v](https://www.youtube.com/watch?v=O4EGS3BxA8A) 更好 不被墙    |
+|                                                                   |
 
 |                                                                      |
 | -------------------------------------------------------------------- |

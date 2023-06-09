@@ -918,9 +918,19 @@ System on Chip, 系统级芯片
 
 ## 硬盘 固态硬盘 SSD
 
+| 磁盘管理                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------- |
+| DiskGenius [cn](https://www.diskgenius.cn/) [en](https://www.diskgenius.com/)                                 |
+| 【软件工具】如何给已分区的磁盘进行扩容/拆分/合并的操作？新装硬盘如何显示在我的电脑内？ [硬件茶谈](https://www.youtube.com/watch?v=FejBGDdNZ5M)              |
+| 推荐一款硬盘分区工具---DiskGenius [浮生若梦](https://www.youtube.com/watch?v=7sZxk4V4tv4)                                   |
+| 电脑分区教程，使用Diskgenius随意调整分区大小 [把布丢](https://www.youtube.com/watch?v=dxVtlWM7JpI)                                |
+| \[电脑の实用技能] 巧用分区工具 拯救飘红的C盘 自由调整分区大小 完成C盘扩容 DiskGenius教程 [GagleTV](https://www.youtube.com/watch?v=dnRhKHqgO3M) |
+|                                                                                                               |
+
 |                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DiskGenius [cn](https://www.diskgenius.cn/) [en](https://www.diskgenius.com/)                                                                                        |
+|                                                                                                                                                                      |
+|                                                                                                                                                                      |
 | How Do Computers Remember? [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)                                                                            |
 | 你的硬盘还能用几年？ [零度解说](https://www.youtube.com/watch?v=elHY9E8Nlvc)                                                                                                       |
 | 硬盘选购（Hard Drive） [钱韦德](https://www.youtube.com/playlist?list=PLHyVgtsgaV2RM8UjVz46pXMG4h-jcbj5q)                                                                     |

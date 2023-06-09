@@ -94,6 +94,7 @@ description: 自然语言处理
 | Transformers & NLP [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hwaMUYxJMiM3jTB2o58A6WY)                                                                                                                             |
 | Positional Encoding in Transformer Neural Networks Explained [CodeEmporium](https://www.youtube.com/watch?v=ZMxVe-HK174)                                                                                                             |
 | 【GPT时代】你需要了解的chatGPT的技术原理- Transformer架构及NLP技术演进 [Rebel\_nerd](https://www.youtube.com/watch?v=GJfW7BYLQNQ)                                                                                                                          |
+| 【人工智能】RWKV \| 集 RNN 和 transformer 两者优势于一身的全新网络架构 \| 官方论文解读\| RWKV团队侯皓文 [最佳拍档](https://www.youtube.com/watch?v=oaP8\_fUFVWw) 54:11                                                                                                    |
 |                                                                                                                                                                                                                                      |
 | BERT [git](https://github.com/google-research/bert)                                                                                                                                                                                  |
 | Bidirectional Encoder Representation of Transformer                                                                                                                                                                                  |
@@ -797,7 +798,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### MS New Bing
 
-
+|                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ |
+|                                                                                                              |
+| 一键搭建 AI 智能聊天机器人！无需翻墙、内置 ChatGPT 、免登录即可轻松使用微软 New Bing！\| [零度解说](https://www.youtube.com/watch?v=O4EGS3BxA8A) |
+|                                                                                                              |
 
 ### AutoGPT AgentGPT MiniGPT-4 HuggingGPT
 
