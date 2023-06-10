@@ -37,6 +37,8 @@ description: 硬件设备
 | 装机教程 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpPux9thGFnbA-lzdfFSzy0Y) | 装机实况 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpOYEzSdkTtKiI849Hnz4rte) | 硬件科普 [硬件茶谈](https://www.youtube.com/playlist?list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX)  |
 | 徕笙Channel [u](https://www.youtube.com/watch?v=qGpe5AhV0Dk)                             | 充电头网 [u](https://www.youtube.com/channel/UCydiICaHkgnEXzPmYbUHaaQ)                     | HACK实验室 [u](https://www.youtube.com/c/HACK%E5%AE%9E%E9%AA%8C%E5%AE%A4/videos)           |
 | 酷玩小报 [u](https://www.youtube.com/@user-ez1ls8vn4c)                                     | Branch Education [u](https://www.youtube.com/@BranchEducation)                         | 電腦硬件入門教學 [腦控](https://www.youtube.com/playlist?list=PLXvhiMRRLHkONRo5SUZzALsgfenhFQRQ-) |
+| 老弟一号 [u](https://www.youtube.com/@user-eh4uj6uu4p)                                     |                                                                                        |                                                                                         |
+|                                                                                        |                                                                                        |                                                                                         |
 
 |                                                                                                     |
 | --------------------------------------------------------------------------------------------------- |
@@ -918,14 +920,15 @@ System on Chip, 系统级芯片
 
 ## 硬盘 固态硬盘 SSD
 
-| 磁盘管理                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------- |
-| DiskGenius [cn](https://www.diskgenius.cn/) [en](https://www.diskgenius.com/)                                 |
-| 【软件工具】如何给已分区的磁盘进行扩容/拆分/合并的操作？新装硬盘如何显示在我的电脑内？ [硬件茶谈](https://www.youtube.com/watch?v=FejBGDdNZ5M)              |
-| 推荐一款硬盘分区工具---DiskGenius [浮生若梦](https://www.youtube.com/watch?v=7sZxk4V4tv4)                                   |
-| 电脑分区教程，使用Diskgenius随意调整分区大小 [把布丢](https://www.youtube.com/watch?v=dxVtlWM7JpI)                                |
-| \[电脑の实用技能] 巧用分区工具 拯救飘红的C盘 自由调整分区大小 完成C盘扩容 DiskGenius教程 [GagleTV](https://www.youtube.com/watch?v=dnRhKHqgO3M) |
-|                                                                                                               |
+| 磁盘管理                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| DiskGenius [cn](https://www.diskgenius.cn/) [en](https://www.diskgenius.com/)                                                                                                              |
+| 【软件工具】如何给已分区的磁盘进行扩容/拆分/合并的操作？新装硬盘如何显示在我的电脑内？ [硬件茶谈](https://www.youtube.com/watch?v=FejBGDdNZ5M)                                                                                           |
+| 推荐一款硬盘分区工具---DiskGenius [浮生若梦](https://www.youtube.com/watch?v=7sZxk4V4tv4)                                                                                                                |
+| 电脑分区教程，使用Diskgenius随意调整分区大小 [把布丢](https://www.youtube.com/watch?v=dxVtlWM7JpI)                                                                                                             |
+| \[电脑の实用技能] 巧用分区工具 拯救飘红的C盘 自由调整分区大小 完成C盘扩容 DiskGenius教程 [GagleTV](https://www.youtube.com/watch?v=dnRhKHqgO3M)                                                                              |
+| Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ) BATOCERA |
+|                                                                                                                                                                                            |
 
 |                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -949,11 +952,12 @@ System on Chip, 系统级芯片
 | 移速 2T 3500 dy 458 tb 456.62 445到手                                                                                                                                    |
 |                                                                                                                                                                      |
 
-| CrystalDiskMark                                                      |
-| -------------------------------------------------------------------- |
-| 硬盘测速   [s](https://crystalmark.info/en/software/crystaldiskmark/)    |
-|                                                                      |
-|                                                                      |
+| CrystalDiskMark                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| 硬盘测速   [s](https://crystalmark.info/en/software/crystaldiskmark/)                                                      |
+| How To Use CrystalDiskMark \| What Do The Numbers Mean? [Tech Illiterate](https://www.youtube.com/watch?v=JI8QS74Xz38) |
+|                                                                                                                        |
+|                                                                                                                        |
 
 ## NAS
 
@@ -975,6 +979,12 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                    |
 | 玩转NAS（网络存储） [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrWVBPUYA9\_UR33f7D5\_Fxs)                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                 |
+
+| 黑群晖                                                                                                     |
+| ------------------------------------------------------------------------------------------------------- |
+| 手把手教你安装自己的黑群晖DMS7.1.1NAS系统 [忙嘞个芒](https://www.youtube.com/watch?v=oxD0Qb\_DClA)                         |
+| 旧电脑变身NAS！打造个人NAS和家庭影音中心，黑群晖7.1保姆级安装、上手教程、黑群晖最新安装教程 [我是阿皮啊](https://www.youtube.com/watch?v=4AsVtYc3O50) |
+|                                                                                                         |
 
 |                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1134,6 +1144,15 @@ direct-attached storage
 | <p>软路由安装PVE虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！ <a href="https://www.youtube.com/watch?v=t_1o0rM3S7o">向北</a></p><p>软路由安装ESXI虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！这期很长你忍一下 <a href="https://www.youtube.com/watch?v=aWgO2xdT4FI">向北</a></p>                                      |
 |                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                  |
+
+| openwrt                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://openwrt.org/)                                                                                                                   |
+| J4125小主机安装OpenWrt 2.5G网卡不识别？ [胡蔼麦](https://www.youtube.com/watch?v=gWFGKHAo1EQ)                                                             |
+| 最新【保姆级】软路由小主机安装虚拟机安装OpenWrt、iKuai、NAS、Windows，打造all in one系统（CC字幕） [向北](https://www.youtube.com/watch?v=bAt9p0FvU1E)                        |
+| Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
+| DHDAXCW/[OpenWRT\_x86\_x64](https://github.com/DHDAXCW/OpenWRT\_x86\_x64) 基于 lede 源码建构 x86 的 OpenWrt 固件。                                    |
+|                                                                                                                                             |
 
 ## Merlin
 

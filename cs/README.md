@@ -207,6 +207,12 @@ International Business Machine IBM 美国国际商用机器公司
 | 利用VBA在Excel 2010製作自動化流程 [孫在陽](https://www.youtube.com/playlist?list=PLGuK5pHqj2qkqHZgKC8MZAisCTlm5Aw-u)                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                      |
 
+| Word                                                                                      |
+| ----------------------------------------------------------------------------------------- |
+| Word 教學 [科技阿宅王](https://www.youtube.com/playlist?list=PLzAvUoSYHGY048SA7rfBKBu0tXUJtgfSW) |
+|                                                                                           |
+|                                                                                           |
+
 ### 百度
 
 |                                                                                       |
@@ -574,6 +580,12 @@ Computer Components？Computer Architecture？
 | 【[司波图](https://www.youtube.com/watch?v=rj1yxHQj8G0)】基于Wireguard组网技术的内网穿透教程                                                                                                 | 教你搭建属于自己的内网穿透服务器（基于frp与zerotier moon服务器） [司波图](https://www.youtube.com/watch?v=rj8vhniGrwA)         | 【278】如何随时随地访问家中的软路由和其他设备？远程访问端口转发保姆级教程丨CloudFlare设置动态DNS 域名解析 URL转发 [BIGDONGDONG](https://www.youtube.com/watch?v=Y0HGp94eHGU) |
 | cpolar [s](https://www.cpolar.com/) [s](https://dashboard.cpolar.com/get-started) [doc](https://www.cpolar.com/docs) [v](https://www.douyin.com/video/7131701871365852452) | 大型公司内网和外网是如何透传的？ [超有趣学网络](https://www.youtube.com/watch?v=ErEaftiEO-0)                              | 超轻量级NPS内网穿透自带后台设置界面，超好用FRP可以下台了。[ Vedio Talk](https://www.youtube.com/watch?v=jdVQQQacPj4)                                     |
 | 【硬核】外网访问？内网穿透！零经验上手！ [科技宅小明](https://www.youtube.com/watch?v=nL0-UZSW\_24) ZeroTier                                                                                        | 外网访问 \| 内网穿透 \| 端口映射 \| 全网最简单的端口映射方案 \| SSH虚拟隧道 [大咖mt](https://www.youtube.com/watch?v=4kCQICjI298) |                                                                                                                                |
+
+| 网络监控                                                              |
+| ----------------------------------------------------------------- |
+| 公司就监控不到我了。。。吗？ [把布丢](https://www.youtube.com/watch?v=7CYwDNp0Ndc) |
+|                                                                   |
+|                                                                   |
 
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |

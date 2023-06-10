@@ -257,6 +257,8 @@
 | How to Make a WordPress Blog and Website – Tutorial for Beginners 2022 [freeCodeCamp](https://www.youtube.com/watch?v=9VPq1JxMfkA)                                                                                                                                                                                                                                                                                                     |
 | Complete WordPress Tutorial [Web Technical Tips](https://www.youtube.com/playlist?list=PLaGpHssktcFW\_ibyfeIoCFXE0RyjENRdw)                                                                                                                                                                                                                                                                                                            |
 | Wordpress教程 [梧桐小讲堂](https://www.youtube.com/playlist?list=PLTjPjHa6Nol19WSJREAl3kDK\_\_rpu8FyH)                                                                                                                                                                                                                                                                                                                                        |
+| WordPress 教學 [科技阿宅王](https://www.youtube.com/playlist?list=PLzAvUoSYHGY3nIY14OOnhXUuD16t2eUDb)                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ### Netlify
@@ -687,22 +689,25 @@
 
 ## Mac
 
-|                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MAC全栈开发环境搭建指南(**[**书栈**](https://www.bookstack.cn/books/o2team-mac)**, )**                                                                                         |
-| **Xcode Server持续集成指南(Xcode Server and Continuous Integration Guide) (**[**书栈**](https://www.bookstack.cn/books/Xcode-Server-and-Continuous-Integration-Guide)**, )** |
-| **Mac 最佳应用--神器 (**[**书栈**](https://www.bookstack.cn/books/mac-best-app)**, )**                                                                                       |
-| Run macOS on Linux with 1 COMMAND LINE([The Linux Experiment](https://www.youtube.com/watch?v=6WgjQpm9VWE)) SOSUMI                                                   |
-| Great Ideas in Theoretical Computer Science - Ryan O'Donnell \| CMU [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3YIVK2r5fNRBaVV30R3iEW)       |
-| Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                          |
-| 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
-| 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                       |
-| 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                        |
-| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                         |
-| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                           |
-| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                         |
-| 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                            |
-| 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                      |
+|                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MAC全栈开发环境搭建指南(**[**书栈**](https://www.bookstack.cn/books/o2team-mac)**, )**                                                                                                                            |
+| **Xcode Server持续集成指南(Xcode Server and Continuous Integration Guide) (**[**书栈**](https://www.bookstack.cn/books/Xcode-Server-and-Continuous-Integration-Guide)**, )**                                    |
+| **Mac 最佳应用--神器 (**[**书栈**](https://www.bookstack.cn/books/mac-best-app)**, )**                                                                                                                          |
+| Run macOS on Linux with 1 COMMAND LINE([The Linux Experiment](https://www.youtube.com/watch?v=6WgjQpm9VWE)) SOSUMI                                                                                      |
+| Great Ideas in Theoretical Computer Science - Ryan O'Donnell \| CMU [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3YIVK2r5fNRBaVV30R3iEW)                                          |
+| Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                                                             |
+| 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                                                             |
+| 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                                                          |
+| 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                                                           |
+| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                                                            |
+| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                                                              |
+| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                                                            |
+| 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                                                               |
+| 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                         |
+| 【Mac 教學】製作 macOS Monterey 12 系統 ISO、DMG 安裝映像檔 \| macOS 安裝檔製作 \| macOS DMG \| macOS ISO \| Mac \| [科技阿宅王](https://www.youtube.com/watch?v=-5vz0MHt1Js\&list=PLzAvUoSYHGY37MAetLVTZdaRG4XUKpbV3\&index=1) |
+|                                                                                                                                                                                                         |
+|                                                                                                                                                                                                         |
 
 ## Windows
 
@@ -714,7 +719,7 @@
 | PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
 | Windows 不敢公布的电脑软件，这5款你一定都知道！【绝对宝藏级的】\| [零度解说](https://www.youtube.com/watch?v=8xOBmkycU24)                                                                                                                                                                                                                                                                                          |
 | <p>将windows装到口袋里（上）--- Windows To Go的制作 <a href="https://www.youtube.com/watch?v=M5gHpm-pzgY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">Cool Play</a></p><p>将windows装到口袋里（<a href="https://www.youtube.com/watch?v=ak0rzszBOGY&#x26;list=PLeTPtpt422itEdsW0EXGBvA400Y8fbSDj&#x26;index=3">下</a>） - Mac虚拟机引导Windows To Go （Parallels， VirtualBox， VMware Fusion）</p> |
-| 如何在 USB、移动硬盘上运行 Windows 10 / 11 系统 [零度解说](https://www.youtube.com/watch?v=ILQ8H5K3w-o)                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
 | 唯一有效禁止Windows更新的方法 [袋装资源](https://www.douyin.com/video/7138689467509935368)                                                                                                                                                                                                                                                                                                         |
 | What is the Windows API? What is Windows.h? [Guided Hacking](https://www.youtube.com/watch?v=S4lQwJawOzI)                                                                                                                                                                                                                                                                           |
 | AR 4789 [u](https://www.youtube.com/c/AR4789/videos)                                                                                                                                                                                                                                                                                                                                |
@@ -730,7 +735,7 @@
 | WSL: Run Linux GUI Apps [Microsoft Developer](https://www.youtube.com/watch?v=kC3eWRPzeWw)                                   |
 | Windows 11 runs Graphical Linux Apps out of the box with WSLg [Scott Hanselman](https://www.youtube.com/watch?v=b1YBx1L8op4) |
 | 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE)                                                |
-|                                                                                                                              |
+| 如何优雅的使用WSL [把布丢](https://www.youtube.com/watch?v=\_iZoam5P\_DA)                                                              |
 |                                                                                                                              |
 
 ### 镜像
@@ -753,11 +758,11 @@
 
 ### PE
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54) |
-|                                                                        |
-|                                                                        |
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54)                                                                   |
+| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
+|                                                                                                                                          |
 
 ### Windows 95 Windows ME
 
@@ -833,49 +838,83 @@
 
 ### 双系统 多系统
 
-|                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ |
-| Windows10 + Linux 双系统安装教程, Manjaro保姆级教程 【单硬盘】 \| [零度解说](https://www.youtube.com/watch?v=jemh7iCyVoE)               |
-| 一台电脑，三个系统，是什么体验！[阿拓新](https://www.youtube.com/watch?v=gvkCs6hEbVw)                                                 |
-| 手把手教你把老旧windows笔记本秒变最新Chrombook｜ ChromeOS google操作系统 谷歌系统 [大方BigFang](https://www.youtube.com/watch?v=oMdliLv-S94) |
-| 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                               |
-| 带您在PC上安装 Windows 10 + UBuntu 18.04 双系统 [美国村長](https://www.youtube.com/watch?v=YJ73UpTHk5g)                         |
-| 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)   |
-| 保姆级windows双系统\多系统安装和卸载教程，win11\10\7同时拥有 [大海资源](https://www.youtube.com/watch?v=YMAMdtjY\_cA)                       |
-|                                                                                                                    |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Windows10 + Linux 双系统安装教程, Manjaro保姆级教程 【单硬盘】 \| [零度解说](https://www.youtube.com/watch?v=jemh7iCyVoE)                                                         |
+| 一台电脑，三个系统，是什么体验！[阿拓新](https://www.youtube.com/watch?v=gvkCs6hEbVw)                                                                                           |
+| 手把手教你把老旧windows笔记本秒变最新Chrombook｜ ChromeOS google操作系统 谷歌系统 [大方BigFang](https://www.youtube.com/watch?v=oMdliLv-S94)                                           |
+| 电脑上安装双系统或多系统是一种怎样的体验？ [zh](https://www.zhihu.com/question/267087220)                                                                                         |
+| 带您在PC上安装 Windows 10 + UBuntu 18.04 双系统 [美国村長](https://www.youtube.com/watch?v=YJ73UpTHk5g)                                                                   |
+| 双系统下 Windows 为 Ubuntu 扩充新空间 \| Linux 扩容原理介绍 + 填坑 \| 适合任何分区情况 [美国村長](https://www.youtube.com/watch?v=a4JRKOVJIFg)                                             |
+| 保姆级windows双系统\多系统安装和卸载教程，win11\10\7同时拥有 [大海资源](https://www.youtube.com/watch?v=YMAMdtjY\_cA)                                                                 |
+| Steam Deck 磁碟分割 \| 安裝Windows \| 安裝雙系統 \| 安裝rEFInd多重啟動選單 \| 安裝SteamOS中文化 \| 開機找不到系統問題排除 \| rEFInd多重系統選單失效修復 [肥鼠](https://www.youtube.com/watch?v=CAkW04juf78) |
+|                                                                                                                                                              |
+|                                                                                                                                                              |
 
 ### RAMOS, 把系统装在内存上
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| 开机慢, 怕断电, 容量小价格贵,                                                                                  |
-| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)              |
-| 【Fun科技】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？ [FUN科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE) |
-|                                                                                                    |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| 开机慢, 怕断电, 容量小价格贵,                                                                                                  |
+| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)                              |
+| 【Fun科技】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？ [FUN科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE)                 |
+| How to Create Multiboot macOS USB Installer on Mac [Macintosh Weekly](https://www.youtube.com/watch?v=hVhZeheMsLQ) |
+|                                                                                                                    |
 
 ### 把系统装在U盘上
 
-| Ventoy                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ventoy/[Ventoy](https://github.com/ventoy/Ventoy) [s](https://www.ventoy.net/cn/index.html) Ventoy/[releases](https://github.com/ventoy/Ventoy/releases) [isolist](https://www.ventoy.net/cn/isolist.html) |
-| Windows 10 秒变 XP系统！重温经典，流畅度极高，大小只有3.7G！让老旧电脑再次充满活力 \| [零度解说](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                  |
-| Ventoy – 免費 USB 多重開機隨身碟製作軟體 \| [科技阿宅王](https://www.youtube.com/watch?v=YyX3zrXYCxc) [s](https://www.tokfun.net/software/ventoy/)                                                                           |
-| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                                                 |
-| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                                               |
-| Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ)                          |
-| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                                              |
-| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                                                |
-|                                                                                                                                                                                                            |
-|                                                                                                                                                                                                            |
-|                                                                                                                                                                                                            |
-|                                                                                                                                                                                                            |
-|                                                                                                                                                                                                            |
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                 |
+| 安装 Windows To Go，解决 Mac 系统兼容，硬盘空间不足等问题 [Mac云课堂](https://www.youtube.com/watch?v=sUkP9TqRXVQ)                    |
+| How to create Multiple bootable macOS in a Single USB [Mac2iPhone](https://www.youtube.com/watch?v=MfQ0amkPLVg) |
+|                                                                                                                 |
 
-| UtraISO                                                                         |
-| ------------------------------------------------------------------------------- |
-| 双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入                              |
-| U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8) |
-|                                                                                 |
+| Rufus                                                                                        |
+| -------------------------------------------------------------------------------------------- |
+| 写盘工具 [s](https://rufus.ie/zh/)                                                               |
+| 如何在 USB、移动硬盘上运行 Windows 10 / 11 系统 [零度解说](https://www.youtube.com/watch?v=ILQ8H5K3w-o) Rufus |
+| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo)         |
+|                                                                                              |
+
+| Ventoy                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 多镜像启动工具 .iso .img .vxd .efi                                                                                                                                                                                                                                                                                            |
+| ventoy/[Ventoy](https://github.com/ventoy/Ventoy) [s](https://www.ventoy.net/cn/index.html) Ventoy/[releases](https://github.com/ventoy/Ventoy/releases) [isolist](https://www.ventoy.net/cn/isolist.html)                                                                                                             |
+| Windows 10 秒变 XP系统！重温经典，流畅度极高，大小只有3.7G！让老旧电脑再次充满活力 \| [零度解说](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                                                                                                                              |
+| <p>Ventoy – 免費 USB 多重開機隨身碟製作軟體 | <a href="https://www.youtube.com/watch?v=YyX3zrXYCxc">科技阿宅王</a> <a href="https://www.tokfun.net/software/ventoy/">s</a></p><p>Ventoy Theme <a href="https://www.gnome-look.org/find?search=ventoy">GNOME-LOOK.ORG</a></p>                                                             |
+| Ventoy打造全能U盘！配备多个PE、Wintogo系统，号称目前最强U盘引导 [忙嘞个芒](https://www.youtube.com/watch?v=1W7IOJ42d-Q)                                                                                                                                                                                                                           |
+| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                                                                                                                                                             |
+| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                                                                                                                                                           |
+| <p>Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 <a href="https://www.youtube.com/watch?v=4HztcRMKzLQ">乌客</a> in <a href="https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ">list</a> BATOCERA</p><p>BATOCERA 游戏懒人包： </p><p>链接：https://pan.baidu.com/s/15oTa52NsFl1ldKfaIP5FmA</p><p>提取码：rllr</p> |
+| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                                                                                                                                                          |
+| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                                                                                                                                                            |
+| Steam Deck 磁碟分割 \| 安裝Windows \| 安裝雙系統 \| 安裝rEFInd多重啟動選單 \| 安裝SteamOS中文化 \| 開機找不到系統問題排除 \| rEFInd多重系統選單失效修復 [肥鼠](https://www.youtube.com/watch?v=CAkW04juf78)                                                                                                                                                           |
+| Install Ventoy to USB from MacOS (via VirtualBox) [AlienDrew](https://www.youtube.com/watch?v=t569-j5aoA4)                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                        |
+
+| win to go, wintogo, win2go                                                           |
+| ------------------------------------------------------------------------------------ |
+|                                                                                      |
+| win to go的辅助工具, .vhdx                                                                |
+| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo) |
+|                                                                                      |
+|                                                                                      |
+
+| UtraISO                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------- |
+| 双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入                                                             |
+| U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                |
+| 电脑设置U盘启动，只需简单几步！Boot from USB Drive Step-by-Step [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=qK9WXQQosgU) |
+
+## Steam Deck
+
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
+| Steam Deck [肥鼠](https://www.youtube.com/playlist?list=PL-rNunU3YV1Z\_9yE1DB4MLwMZ59rqh9zP) |
+|                                                                                            |
+|                                                                                            |
 
 ## BIOS, Basic Input Output System
 

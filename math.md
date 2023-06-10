@@ -1530,6 +1530,8 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
 | MD5 - A completely broken secure hash algorithm [mCoding](https://www.youtube.com/watch?v=HWpaz5XsECc) |
+| 如何优雅的使用WSL [把布丢](https://www.youtube.com/watch?v=\_iZoam5P\_DA) md5sum                                 |
+|                                                                                                        |
 
 #### SHA 256
 

@@ -91,10 +91,13 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 ### 微软Hyper-V
 
-|                                                                                        |        |
-| -------------------------------------------------------------------------------------- | ------ |
-| 【全网首发】家用显卡虚拟化vGPU，微软Hyper-V独有免费功能 [账户未命名](https://www.youtube.com/watch?v=lUGaH7WMNBQ) | GPU 分区 |
-|                                                                                        |        |
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【全网首发】家用显卡虚拟化vGPU，微软Hyper-V独有免费功能 [账户未命名](https://www.youtube.com/watch?v=lUGaH7WMNBQ) GPU 分区                                               |
+| Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
+| 将VMware虚拟机转换为Hyper-V虚拟机 [把布丢](https://www.youtube.com/watch?v=mY\_XeLpXjQA)                                                                 |
+|                                                                                                                                             |
+|                                                                                                                                             |
 
 ## AMD
 

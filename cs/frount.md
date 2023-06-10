@@ -483,6 +483,12 @@ HTML & Coding Introduction – Course for Beginners [freeCodeCamp](https://www.y
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
+| JavaScript小技巧                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 一鍵網頁破解右鍵封鎖及選取、修改網頁文字功能教學 \| 破解右鍵 \| 解鎖右鍵 \| 破解選取文字封鎖 \| [科技阿宅王](https://www.youtube.com/watch?v=XTc17Ndf5Is\&list=PLzAvUoSYHGY0vo1a6xvPEh5734tRtIm2Z\&index=2) |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+
 ### TypeScript
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

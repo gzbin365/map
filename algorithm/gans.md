@@ -105,7 +105,7 @@ description: Generative Adversarial Network (GAN)
 | 借助AI实现文字生成视频！长短视频 电影电视剧行业的重磅炸弹 解析来自Google的黑科技「Phenaki」 [电丸科技AK](https://www.youtube.com/watch?v=eS7luZntgnQ)                                                   |
 | Make-A-Video [s](https://makeavideo.studio/) [pdf](https://arxiv.org/abs/2209.14792) [v](https://www.douyin.com/video/7150288454050450726)                     |
 | 重磅！文本生成视频工具Gen-2正式开放使用！Breaking news! The text-to-video tool Gen-2 is now officially open for use! [工具狂Toolbuddy](https://www.youtube.com/watch?v=tS9xdDVwTyg) |
-|                                                                                                                                                                |
+| 【分享】《Frost 霜冻》第一部 \| 完全由AI生成的电影短片 \| 中英双语字幕版 \| Waymark制作 \| 4K [最佳拍档](https://www.youtube.com/watch?v=k21uFFXaGCk)                                            |
 |                                                                                                                                                                |
 
 ### Image to Text

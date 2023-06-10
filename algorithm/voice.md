@@ -240,6 +240,9 @@ Voice Synthesis
 | 【警告】涉及敏感內容！未公開的教學流出！隨時會刪片... #ai孫燕姿 #tuneflow #svs [咖哩哥](https://www.youtube.com/watch?v=EEtQg9zJ0\_g)                                                     |
 | TuneFlow [s](https://tuneflow.com/)                                                                                                                        |
 | svc-develop-team/[so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                                                            |
+| 【超火的 AI翻唱】克隆自己的声音！全网最详细的使用教程， So-VITS-SVC 4.1 声音复制神器，完全免费！！ \| [零度解说](https://www.youtube.com/watch?v=o6mKekgJDqw)                                         |
+|                                                                                                                                                            |
+|                                                                                                                                                            |
 |                                                                                                                                                            |
 
 ### Transcribed speech（转录语音）
@@ -284,11 +287,14 @@ Voice Synthesis
 
 ## 人声分离
 
-|                                                                                                                    |   |   |
-| ------------------------------------------------------------------------------------------------------------------ | - | - |
-| algoriddim [s](https://www.algoriddim.com/djay-pro-mac)                                                            |   |   |
-| vocal remover [v](https://www.youtube.com/watch?v=YAviCCA-Fic) [s](https://www.media.io/online-vocal-remover.html) |   |   |
-| Ultimate Vocal Remover [s](https://ultimatevocalremover.com/) [v](https://www.youtube.com/watch?v=YAviCCA-Fic)     |   |   |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| algoriddim [s](https://www.algoriddim.com/djay-pro-mac)                                                            |
+| vocal remover [v](https://www.youtube.com/watch?v=YAviCCA-Fic) [s](https://www.media.io/online-vocal-remover.html) |
+| Ultimate Vocal Remover [s](https://ultimatevocalremover.com/) [v](https://www.youtube.com/watch?v=YAviCCA-Fic)     |
+| 除了提取伴奏和人声、还可以提取乐器的免费开源工具! \| Ultimate Vocal Remover \| UVR5 [忙嘞个芒](https://www.youtube.com/watch?v=W7nmoM9OIfE)    |
+|                                                                                                                    |
+|                                                                                                                    |
 
 ## Voice Assistant
 

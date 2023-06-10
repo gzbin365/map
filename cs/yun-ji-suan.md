@@ -212,11 +212,11 @@ Machine Learning Crash Course with TensorFlow APIs [google](https://developers.g
 
 ### Google 工具糸列
 
-|                                                                                                     |                                                                                  |                                                                                                                   |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Google 工具糸列 [PAPAYA 電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPlClkxNw26-jbfyzrO0XczR) | 用Google Sheet 做 天氣查詢LineBot [幫你寫程式](https://www.youtube.com/watch?v=xPXAa-zIVU8) | How To Build A Google Drive Clone With Firebase [Web Dev Simplified](https://www.youtube.com/watch?v=6XTRElVAZ9Y) |
-| Google Sheets [freeCodeCamp](https://www.youtube.com/watch?v=N2opj8XzYBY)                           | 蕭仕原 Ben [u](https://www.youtube.com/@benisgoodla/playlists)                      |                                                                                                                   |
-|                                                                                                     |                                                                                  |                                                                                                                   |
+|                                                                                                     |                                                                                  |                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google 工具糸列 [PAPAYA 電腦教室](https://www.youtube.com/playlist?list=PL7enJ2-v6SPlClkxNw26-jbfyzrO0XczR) | 用Google Sheet 做 天氣查詢LineBot [幫你寫程式](https://www.youtube.com/watch?v=xPXAa-zIVU8) | How To Build A Google Drive Clone With Firebase [Web Dev Simplified](https://www.youtube.com/watch?v=6XTRElVAZ9Y)                            |
+| Google Sheets [freeCodeCamp](https://www.youtube.com/watch?v=N2opj8XzYBY)                           | 蕭仕原 Ben [u](https://www.youtube.com/@benisgoodla/playlists)                      | Google Drive 共享影片破解下載教學 \| 雲端硬碟破解 \| [科技阿宅王](https://www.youtube.com/watch?v=8wwMtzBslIc\&list=PLzAvUoSYHGY2VEedlbHBecGWbbao1Q\_1t\&index=1) |
+|                                                                                                     |                                                                                  |                                                                                                                                              |
 
 ### Chrome
 
