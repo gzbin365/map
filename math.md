@@ -347,6 +347,8 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | <p>Maths for Programmers Tutorial - Full Course on Sets and Logic <a href="https://www.youtube.com/watch?v=2SpuBqvNjHI">freeCodeCamp</a></p><p>Maths for Programmers <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1">freeCodeCamp</a></p> |
 | Logic & Foundations with Haskell [Marius Furter](https://www.youtube.com/playlist?list=PLd8NbPjkXPliojM8YMN3z3o9--zXwti8Z)                                                                                                                                                   |
 | Book: Digital Logic Design. Important Topics [Dr. Bilal](https://www.youtube.com/playlist?list=PLh6xNmrNtosKuCi7pbljnqMslEqM7c8X2)                                                                                                                                           |
+| 邏輯學入門 [汤质看本质](https://www.youtube.com/playlist?list=PLxvnxt2fBNs27esuk7UvF4L1Y9KiOpC0v)                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                              |
 
 ### 范畴轮 Category Theory
@@ -967,6 +969,9 @@ $$
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Geometry [MindYourDecisions](https://www.youtube.com/playlist?list=PLDZcGqoKA84E2a0L6IS68hswD4iiUN2Cv) [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMXMi3bUMThGdYqos36X\_lA) [Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqyZZAicSHbpVhJzLPfPMJf6) |
 | Kaleidoscope [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS6pM75yBxmC28d46v7O-wcn) 万花筒                                                                                                                                                                                     |
+| 几何宇宙 [眼见为识](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFPYZsTvrs\_TtSn\_3AvRNcg)                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                          |
 
 ### 平面几何
 

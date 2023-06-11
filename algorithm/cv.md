@@ -218,7 +218,7 @@ import cv2
 | AI Generated Images Are Getting Too Real [bycloud](https://www.youtube.com/watch?v=AlSCx-4d51U)                         |
 | Anime Related AI Applications [bycloud](https://www.youtube.com/playlist?list=PLW2SPT7gdqw5n11wauSVuIbpZ1cMU2zDq)       |
 | Adobe Firefly [v](https://www.youtube.com/watch?v=z1oUmFdjBLM)                                                          |
-|                                                                                                                         |
+| 史上最强AI画图软件PS AI中文版、永久免费使用！Win+Mac系统、附安装流程和疑难杂症解决！ [科技源代码Technology](https://www.youtube.com/watch?v=Zr060N5KqRA)        |
 |                                                                                                                         |
 
 ### Midjourney

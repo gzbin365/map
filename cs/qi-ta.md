@@ -595,7 +595,7 @@
 | 峰哥教你玩正则 [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVocQl0UEuFmB7JIpB2nHeW2O)                                                                                             |
 |                                                                                                                                                                                             |
 
-## 虚拟机
+## 虚拟机 虚拟化 Virtualization
 
 |                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -619,7 +619,21 @@
 | VirtualBox 虚拟机使用物理硬盘启动，制做软件测试环境 [One Fish](https://www.youtube.com/watch?v=sl1GKmB9R6s\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=2)                                                                                       |
 | VirtualBox 命令行                                                                                                                                                                                                                   |
 | <p>Virtualbox <a href="https://www.youtube.com/@Day-Day-Up/search?query=Virtualbox">Day Day Up - 天天向上</a></p><p>如何在VirtualBox中启用嵌套虚拟化-在虚拟机上安装虚拟机 <a href="https://www.youtube.com/watch?v=r-v_vfVk8Rc">Day Day Up - 天天向上</a></p> |
+| 虚拟化Virtualization [CoolOps](https://www.youtube.com/playlist?list=PLKhQTC6HZZvOlo1mAIlSeOA-TT575JmTN) VirtualBox                                                                                                                 |
 |                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Proxmox VE（Virtual Environment）是一种开源的服务器虚拟化管理平台。它基于Debian GNU/Linux发行版，并结合了KVM虚拟化、LXC容器和集中式管理工具，提供了一个全面的虚拟化解决方案。</p><p>Proxmox VE本身并不是一个镜像，而是一个完整的虚拟化平台。你可以从Proxmox官方网站（<a href="https://www.proxmox.com/%EF%BC%89%E4%B8%8B%E8%BD%BDProxmox">https://www.proxmox.com/）下载Proxmox</a> VE的安装镜像。这个安装镜像实际上是一个ISO文件，可以用于在服务器或物理机上安装Proxmox VE操作系统。</p><p>安装Proxmox VE后，你可以使用它来创建和管理虚拟机和容器，实现资源的共享和隔离。它提供了一个基于Web的用户界面，可以方便地管理和监控虚拟化环境。此外，Proxmox VE还支持高可用性、故障转移、集群管理等功能，使你能够构建强大而可靠的虚拟化基础架构。</p><p>总而言之，Proxmox VE是一个功能丰富的开源虚拟化管理平台，可用于创建和管理虚拟机和容器，并提供了许多高级功能和管理工具。</p> |
+| [v](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+| VirtualBox                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.virtualbox.org/)   [doc](https://www.virtualbox.org/wiki/Documentation)   [UserManual](http://download.virtualbox.org/virtualbox/UserManual.pdf)   [Downloads](https://www.virtualbox.org/wiki/Downloads) |
+| Download VirtualBox for [Linux](https://www.virtualbox.org/wiki/Linux\_Downloads)                                                                                                                                         |
+|                                                                                                                                                                                                                           |
 
 ## 架构, WEB APP Architecture
 
@@ -709,6 +723,12 @@
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 
+| 黑苹果                                                |
+| -------------------------------------------------- |
+| 胡蔼麦 [u](https://www.youtube.com/@aimai-who/videos) |
+|                                                    |
+|                                                    |
+
 ## Windows
 
 |                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -727,6 +747,14 @@
 | 老盖讲系统，电脑windows设置选项经验，计算机入门基础教程心得 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTgNAJDmjypoFhNIBS9cmmE)                                                                                                                                                                                                                                                                 |
 | 老盖聊软件，分享各种实用软件工具，介绍好用的软件技巧知识。 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRUYWCgu9I\_GVyqU-t2Onuq)                                                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+
+| windows自动更新                                                             |
+| ----------------------------------------------------------------------- |
+| 一招解决windows自动更新驱动的烦恼 [把布丢](https://www.youtube.com/watch?v=qwEn3lKfp00) |
+|                                                                         |
+|                                                                         |
 
 ### WSL
 
@@ -762,7 +790,17 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54)                                                                   |
 | 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
+| 无忧启动                                                                                                                                     |
+| 1个U盘，玩转N个PE，Ventoy ，多系统U盘启动神器，重装系统？系统维护？一盘在手，天下我有，含三款纯净无推广强大PE工具箱 [资源核](https://www.youtube.com/watch?v=oCGobwpLxd0)                     |
+| PE优盘制作，随时给你的电脑装系统 [便利空间](https://www.youtube.com/watch?v=G2\_Ash3rDj0)                                                                   |
+| CYL [u](https://www.youtube.com/@cyl2077)                                                                                                |
 |                                                                                                                                          |
+
+| 微PE                                                                               |
+| --------------------------------------------------------------------------------- |
+| [s](https://www.wepe.com.cn/)   [download](https://www.wepe.com.cn/download.html) |
+|                                                                                   |
+|                                                                                   |
 
 ### Windows 95 Windows ME
 
@@ -859,7 +897,7 @@
 | 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)                              |
 | 【Fun科技】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？ [FUN科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE)                 |
 | How to Create Multiboot macOS USB Installer on Mac [Macintosh Weekly](https://www.youtube.com/watch?v=hVhZeheMsLQ) |
-|                                                                                                                    |
+| 【[Fun科技](https://www.youtube.com/watch?v=wbY-vMqPtPo)】把Win11装到显卡（RTX4090）里，有多快？                                    |
 
 ### 把系统装在U盘上
 
@@ -877,22 +915,22 @@
 | Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo)         |
 |                                                                                              |
 
-| Ventoy                                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 多镜像启动工具 .iso .img .vxd .efi                                                                                                                                                                                                                                                                                            |
-| ventoy/[Ventoy](https://github.com/ventoy/Ventoy) [s](https://www.ventoy.net/cn/index.html) Ventoy/[releases](https://github.com/ventoy/Ventoy/releases) [isolist](https://www.ventoy.net/cn/isolist.html)                                                                                                             |
-| Windows 10 秒变 XP系统！重温经典，流畅度极高，大小只有3.7G！让老旧电脑再次充满活力 \| [零度解说](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                                                                                                                              |
-| <p>Ventoy – 免費 USB 多重開機隨身碟製作軟體 | <a href="https://www.youtube.com/watch?v=YyX3zrXYCxc">科技阿宅王</a> <a href="https://www.tokfun.net/software/ventoy/">s</a></p><p>Ventoy Theme <a href="https://www.gnome-look.org/find?search=ventoy">GNOME-LOOK.ORG</a></p>                                                             |
-| Ventoy打造全能U盘！配备多个PE、Wintogo系统，号称目前最强U盘引导 [忙嘞个芒](https://www.youtube.com/watch?v=1W7IOJ42d-Q)                                                                                                                                                                                                                           |
-| 超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ [向北](https://www.youtube.com/watch?v=wS1qqgNtU8o)                                                                                                                                                                                                             |
-| 用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 [星夜星在线](https://www.youtube.com/watch?v=hZDwleTIR8s)                                                                                                                                                                                                                           |
-| <p>Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 <a href="https://www.youtube.com/watch?v=4HztcRMKzLQ">乌客</a> in <a href="https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ">list</a> BATOCERA</p><p>BATOCERA 游戏懒人包： </p><p>链接：https://pan.baidu.com/s/15oTa52NsFl1ldKfaIP5FmA</p><p>提取码：rllr</p> |
-| Ventoy制作定制版启动U盘：自定义主题&映像分类&映像别名&映像不显示&数据持久化-Ventoy multiboot USB drive, customize, persistence [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=385ZKoU\_8Fo)                                                                                                                                                          |
-| 制作多系统镜像启动USB \| VENTOY \| Virtualbox安装操作系统 [Day Day Up - 天天向上](https://www.youtube.com/watch?v=dsY6KISjX5s)                                                                                                                                                                                                            |
-| Steam Deck 磁碟分割 \| 安裝Windows \| 安裝雙系統 \| 安裝rEFInd多重啟動選單 \| 安裝SteamOS中文化 \| 開機找不到系統問題排除 \| rEFInd多重系統選單失效修復 [肥鼠](https://www.youtube.com/watch?v=CAkW04juf78)                                                                                                                                                           |
-| Install Ventoy to USB from MacOS (via VirtualBox) [AlienDrew](https://www.youtube.com/watch?v=t569-j5aoA4)                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                        |
+| Ventoy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 多镜像启动工具 .iso .img .vhd(x) .efi .wim                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| <p>ventoy/<a href="https://github.com/ventoy/Ventoy">Ventoy</a> <a href="https://www.ventoy.net/cn/index.html">s</a> Ventoy/<a href="https://github.com/ventoy/Ventoy/releases">releases</a> <a href="https://www.ventoy.net/cn/isolist.html">isolist</a></p><p><a href="https://www.ventoy.net/cn/plugin_entry.html">plugin_entry</a>   <a href="https://www.ventoy.net/cn/plugin_plugson.html">VentoyPlugson</a>   <a href="https://www.ventoy.net/cn/plugin_theme.html">plugin_theme</a></p> |
+| Windows 10 秒变 XP系统！重温经典，流畅度极高，大小只有3.7G！让老旧电脑再次充满活力 \| [零度解说](https://www.youtube.com/watch?v=hM8pCVP0mO8)                                                                                                                                                                                                                                                                                                                                                                                       |
+| <p>Ventoy – 免費 USB 多重開機隨身碟製作軟體 | <a href="https://www.youtube.com/watch?v=YyX3zrXYCxc">科技阿宅王</a> <a href="https://www.tokfun.net/software/ventoy/">s</a></p><p>Ventoy Theme <a href="https://www.gnome-look.org/find?search=ventoy">GNOME-LOOK.ORG</a>   BigSur GRUB <a href="https://www.gnome-look.org/p/1443844/">Theme</a></p><p>额外分区 默认磁盘管理   VM测试   菜单解释</p>                                                                                                                              |
+| <p>Ventoy打造全能U盘！配备多个PE、Wintogo系统，号称目前最强U盘引导 <a href="https://www.youtube.com/watch?v=1W7IOJ42d-Q">忙嘞个芒</a></p><p>微PE和优启通   wintogo(Windows <a href="https://www.ventoy.net/cn/plugin_vhdboot.html">VHD</a> 插件, <a href="https://url33.ctfile.com/d/18111433-53593801-e8925d?p=7752">WinNTSetup</a>)   不想注册微软账户(跳过账户注册)</p>                                                                                                                                                                      |
+| <p>超强U盘多系统，把Windows(wintogo)、OpenWrt、各类固件都装进U盘随身携带启动，你值得拥有！ <a href="https://www.youtube.com/watch?v=wS1qqgNtU8o">向北</a>   WTG辅助工具 <a href="https://bbs.luobotou.org/thread-761-1-1.html">v5.6.1</a> - Windows To Go优盘系统 - 萝卜头</p><p>win10.vhdx   Windows <a href="https://www.ventoy.net/cn/plugin_vhdboot.html">VHD</a> 插件   Ventoy 启动 <a href="https://www.ventoy.net/cn/doc_openwrt.html">OpenWrt</a> 说明   ikuai8(软路由)   </p>                                                               |
+| <p>用ventoy打造多系统u盘，Wintogo、batocera全都有，随身切换 <a href="https://www.youtube.com/watch?v=hZDwleTIR8s">星夜星在线</a></p><p>WTG辅助工具萝卜头</p><p>(选择ios, 选择移动设备, 选择系统版本, 高级功能 虚拟硬盘 vhdx w10tg 500g gpt 不固定 部署 等待 重启 u盘启动 win初始化 重启)</p><p>batocera(不需要引导插件 直接复制到根目录) <a href="https://pan.baidu.com/s/15oTa52NsFl1ldKfaIP5FmA#list/path=%2F">bdy</a> 提取码：rllr</p>                                                                                                                                              |
+| <p>Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 <a href="https://www.youtube.com/watch?v=4HztcRMKzLQ">乌客</a> in <a href="https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ">list</a> BATOCERA</p><p>BATOCERA 游戏懒人包： </p><p>链接：https://pan.baidu.com/s/15oTa52NsFl1ldKfaIP5FmA</p><p>提取码：rllr</p>                                                                                                                                                                          |
+| <p>Ventoy制作定制版启动U盘：自定义主题&#x26;映像分类&#x26;映像别名&#x26;映像不显示&#x26;数据持久化-Ventoy multiboot USB drive, customize, persistence <a href="https://www.youtube.com/watch?v=385ZKoU_8Fo">写代码的会计1CodeAcc</a></p><p>GRUB <a href="https://www.gnome-look.org/browse?cat=109&#x26;ord=latest">Themes</a>   <a href="https://www.gnome-look.org/p/1230780">Poly dark</a></p><p>persistence 28:10</p>                                                                                                             |
+| <p>制作多系统镜像启动USB | VENTOY | Virtualbox安装操作系统 <a href="https://www.youtube.com/watch?v=dsY6KISjX5s">Day Day Up - 天天向上</a></p><p>在Virtualbox上面用usb启动和安装 gtkhash/<a href="https://github.com/gtkhash/gtkhash/releases">releases</a> Virtual Machine USB Boot <a href="https://github.com/DavidBrenner3/VMUB/releases">git</a></p>                                                                                                                                                                   |
+| Steam Deck 磁碟分割 \| 安裝Windows \| 安裝雙系統 \| 安裝rEFInd多重啟動選單 \| 安裝SteamOS中文化 \| 開機找不到系統問題排除 \| rEFInd多重系統選單失效修復 [肥鼠](https://www.youtube.com/watch?v=CAkW04juf78)                                                                                                                                                                                                                                                                                                                                    |
+| Install Ventoy to USB from MacOS (via VirtualBox) [AlienDrew](https://www.youtube.com/watch?v=t569-j5aoA4)                                                                                                                                                                                                                                                                                                                                                                                      |
+| <p>最强大U盘启动工具Ventoy，安装系统更简单！ <a href="https://www.youtube.com/watch?v=g5nG9OWPGsM">CYL</a></p><p>ventoy/ventoy_wimboot.img   wePE iso(其他不支持的格式, 用pe安装)</p>                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 | win to go, wintogo, win2go                                                           |
 | ------------------------------------------------------------------------------------ |
@@ -924,6 +962,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 97%使用者可能會用到的6個BIOS功能! 華碩 微星 技嘉 BIOS 設定教學 \| 聊電[Jing](https://www.youtube.com/watch?v=DYibYk6W8rg)                                        |
 | 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
+| 學習重灌/超頻之前 先來認識BIOS吧! UEFI 又是甚麼? \| [聊電Jing](https://www.youtube.com/watch?v=ZNW3fAvURkg)                                                 |
+|                                                                                                                                          |
 |                                                                                                                                          |
 
 ## 按键精灵 Robotic Process Automation(RPA)

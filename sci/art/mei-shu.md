@@ -145,12 +145,17 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | premiere                                                                                | 达芬奇                                                              |                                                                              |
 |                                                                                         |                                                                  |                                                                              |
 
-## 达芬奇
+## 达芬奇 Davinci Resolve
 
 |                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 达芬奇软件（DaVinci Resolve）是一款专业的视频编辑和调色软件，由Blackmagic Design开发。它主要用于电影、电视、广告和网络视频等制作领域，可以进行视频编辑、音频编辑、色彩校正、特效制作等多种操作。它有一个完整的工作流程，包括导入、剪辑、调色、音频处理、特效制作、输出等功能，能够满足专业制作人员的需求。同时，它也有免费版本和收费版本，供不同需求的用户选择。 |
 | 达芬奇教程 [Mediastorm影视飓风](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV)                                                                                                 |
+| All about Davinci Resolve [Apurv Das](https://www.youtube.com/playlist?list=PLJBITlXDHpyb5W8Uw0aGdNf5CjX046VtH)                                                                                  |
+| How to Install And Configure DaVinci Resolve In Linux [Hrishikesh Pathak](https://www.maketecheasier.com/install-configure-davinci-resolve-linux/)                                               |
+| Installing Davinci Resolve on Linux + Bug Fixes [Michael Horn](https://www.youtube.com/watch?v=YMtjRh1ve\_A)                                                                                     |
+| Install DaVinci Resolve in Debian based Linux systems \[step by step] [STÆMPUNK TV](https://www.youtube.com/watch?v=NSfZ1nn0cdA)                                                                 |
+|                                                                                                                                                                                                  |
 |                                                                                                                                                                                                  |
 
 ## 视频剪辑 剪輯
@@ -177,18 +182,20 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 |                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- |
+| macOS上最好的视频剪辑                                                                                           |
 | Final Cut Pro X 教學 [DVE(IT)](https://www.youtube.com/playlist?list=PLwBySiD\_oGcpsPuHMNeKyf0mJPUlou897) |
 |                                                                                                         |
 |                                                                                                         |
 
-### OpenShot
 
 
 
-### Adobe Premiere
+
+### Adobe Premiere, Pr​​emiere Pro
 
 |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- |
+| windows上最好的视频剪辑                                                                                          |
 | Adobe Premiere 2020教程 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRqqw215zZWUItWQjRtBDfwg) |
 |                                                                                                          |
 |                                                                                                          |
@@ -201,6 +208,60 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Adobe After Effects 2020教程 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRrEI-4G1yYjZhkKxt8DcgPt) |
 |                                                                                                               |
 |                                                                                                               |
+
+### FREE Video Editing Software
+
+|                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>🎬 3 BEST FREE Video Editing Software for PC - 2023 <a href="https://www.youtube.com/watch?v=JpYESoy63cE">Kevin Stratvert</a></p><p>ClipChamp, CapCut, DaVinci Resolve, </p> |
+|                                                                                                                                                                                 |
+|                                                                                                                                                                                 |
+
+| ClipChamp               |
+| ----------------------- |
+| free on Windows 11 shop |
+|                         |
+|                         |
+
+## Video Editing Software for Linux
+
+|                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Best FREE Video Editing Softwares for 2023 | No watermarks! <a href="https://www.youtube.com/watch?v=dp5W2GLetAQ">Apurv Das</a></p><p>Hitfilm Express, Olive(on shop), Kdenlive(on shop), Shotcut(on shop), Davinci Resolve</p> |
+| <p>Best Video Editing Software for Linux! <a href="https://www.youtube.com/watch?v=imHRY5mKMLY">Apurv Das</a> in 2021</p><p>Davinci Resolve, Kdenlive(on shop), Shotcut(on shop)</p><p>Flowblade、Openshot 或 Blender</p>            |
+| The State of Video Editing on Linux in 2022! [Reluctant Anarchist](https://www.youtube.com/watch?v=Ltrot3s82Ys)                                                                                                                    |
+|                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                    |
+
+| Olive(on shop)                                                        |
+| --------------------------------------------------------------------- |
+| beginning development in 2018 and being developed by youtuber matt kc |
+|                                                                       |
+|                                                                       |
+
+| Shotcut(on shop) |
+| ---------------- |
+|                  |
+|                  |
+|                  |
+
+| Kdenlive(on shop)                                                                                |
+| ------------------------------------------------------------------------------------------------ |
+| Video Editing [Purism](https://www.youtube.com/playlist?list=PLbi9Ij0Mdq2txiG-mtevC1TSrnzbKZg5o) |
+|                                                                                                  |
+|                                                                                                  |
+
+| Flowblade(on shop)    |
+| --------------------- |
+| 不是跨平台的，它只能在 linux 上运行 |
+|                       |
+|                       |
+
+| OpenShot(on shop) |
+| ----------------- |
+|                   |
+|                   |
+|                   |
 
 ## adobe全家桶
 
@@ -289,12 +350,13 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 |                                                                                                            |
 |                                                                                                            |
 
-### 虚拟主播 虚拟形象 Vtuber 数字人 数字生命
+### 虚拟主播 虚拟形象 Vtuber 数字人 虚拟人 数字生命
 
 |                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Sebastian Kamph [u](https://www.youtube.com/@sebastiankamph)   Prompt Engineering [u](https://www.youtube.com/@engineerprompt)                                                                   |
 | Kizuna AI, 世界最初Vtuber                                                                                                                                                                            |
+| Ai model [u](https://www.youtube.com/@aiartpark)   몽손(mongson) [u](https://www.youtube.com/@user-tc2qu9pr2u)                                                                                     |
 | I Built a Secret AI Youtube Channel [Siraj Raval](https://www.youtube.com/watch?v=4r-\_iW8fmWU)                                                                                                  |
 | Talk \| 字节跳动(北美)软件工程师桑燊：风格化3D虚拟形象的创建 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=yNwt2eTmIKE)                                                                                              |
 | 真人LORA训练全攻略！看这篇就够了 LORA模型 Stable diffusion 教程 真人模型 [阿硕讲AI](https://www.youtube.com/watch?v=4B-Yciur3Zo)                                                                                          |

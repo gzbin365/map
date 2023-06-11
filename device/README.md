@@ -1152,15 +1152,24 @@ direct-attached storage
 | 最新【保姆级】软路由小主机安装虚拟机安装OpenWrt、iKuai、NAS、Windows，打造all in one系统（CC字幕） [向北](https://www.youtube.com/watch?v=bAt9p0FvU1E)                        |
 | Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
 | DHDAXCW/[OpenWRT\_x86\_x64](https://github.com/DHDAXCW/OpenWRT\_x86\_x64) 基于 lede 源码建构 x86 的 OpenWrt 固件。                                    |
+| 在群晖上搭建OpenWrt软路由系统 [把布丢](https://www.youtube.com/watch?v=qAVqPA3TxNI)                                                                       |
+|                                                                                                                                             |
+|                                                                                                                                             |
 |                                                                                                                                             |
 
-## Merlin
+| ikuai（爱快）软路由                                     |
+| ------------------------------------------------ |
+| [v](https://www.youtube.com/watch?v=wS1qqgNtU8o) |
+|                                                  |
+|                                                  |
 
-|                                                                                                         |   |   |
-| ------------------------------------------------------------------------------------------------------- | - | - |
-| 老李‘s精分自留地 [u](https://www.youtube.com/@FantasticLee)   [v](https://www.youtube.com/watch?v=iROuoHGSIMA) |   |   |
-|                                                                                                         |   |   |
-|                                                                                                         |   |   |
+## 梅林 Merlin
+
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| 老李‘s精分自留地 [u](https://www.youtube.com/@FantasticLee)   [v](https://www.youtube.com/watch?v=iROuoHGSIMA)           |
+| 华硕梅林固件 科学上网 小飞机插件 设置说明 #华硕路由器 #科学上网 #翻墙 #shadowsocks #梯子 #VPN [便利空间](https://www.youtube.com/watch?v=2wpKWvHG4tU) |
+|                                                                                                                   |
 
 ## mesh wifi
 
@@ -1172,11 +1181,11 @@ direct-attached storage
 
 ## 交换机
 
-|                                                                                      |   |   |
-| ------------------------------------------------------------------------------------ | - | - |
-| 实现链路聚合这么简单？！交换机升级就行？！我一番折腾终成功 [TuTu生活志](https://www.youtube.com/watch?v=vuD9mZtuV7U) |   |   |
-|                                                                                      |   |   |
-|                                                                                      |   |   |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| 实现链路聚合这么简单？！交换机升级就行？！我一番折腾终成功 [TuTu生活志](https://www.youtube.com/watch?v=vuD9mZtuV7U) |
+|                                                                                      |
+|                                                                                      |
 
 ## 手工, DIY
 
