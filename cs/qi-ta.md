@@ -607,6 +607,7 @@
 | 【[Fun科技](https://www.youtube.com/watch?v=mAV67sPzD0A)】一机多用！教你把自己的电脑打造成超级服务器！                                                                                                                                                     |
 | Windows 11 上安装 macOS系统！通过虚拟机即可轻松搞定【黑苹果系统】\| [零度解说](https://www.youtube.com/watch?v=FO9Bwa5btn8)                                                                                                                                  |
 | 黑苹果系列教程 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9TJPyJuDO1XzcVuWpf1feTM)                                                                                                                                       |
+| 黑苹果双系统安装教程 \| 完美搭建WIN10+黑苹果 \| 附赠黑苹果Clover文件正确配置方法。 [零度解说](https://www.youtube.com/watch?v=UviGPrj-Jqk\&list=PLPpU3NyRmFI56B1AcolicxVVNQKuPjl4B)                                                                                 |
 | Using Virtual Machines on Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra) [Kalos Likes Computers](https://www.youtube.com/watch?v=uRwnwkdSX-I)                                                                                  |
 | ssh客户端连接ssh服务器 virtualbox、vmware、xshell、securecrt 2020-02-24 [小胖软件学堂](https://www.youtube.com/watch?v=OwmhJnmoDY0)                                                                                                               |
 | VMware vSphere 8 Released New Features! [VirtualizationHowto](https://www.youtube.com/watch?v=rST8GhKdXeI)                                                                                                                       |
@@ -746,7 +747,7 @@
 | 老盖讲DOS，windows批处理教学，bat脚本语言学习，dos命令教程 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQiYq-rt6Q6XnYyv6zRtRhI)                                                                                                                                                                                                                                                             |
 | 老盖讲系统，电脑windows设置选项经验，计算机入门基础教程心得 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrTgNAJDmjypoFhNIBS9cmmE)                                                                                                                                                                                                                                                                 |
 | 老盖聊软件，分享各种实用软件工具，介绍好用的软件技巧知识。 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRUYWCgu9I\_GVyqU-t2Onuq)                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                                                                                     |
+| PC 电脑软件！ [方俊皓](https://www.youtube.com/playlist?list=PLAXVfXtWydopTlX\_lJ2VrTe35AFotEs36)                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -796,11 +797,12 @@
 | CYL [u](https://www.youtube.com/@cyl2077)                                                                                                |
 |                                                                                                                                          |
 
-| 微PE                                                                               |
-| --------------------------------------------------------------------------------- |
-| [s](https://www.wepe.com.cn/)   [download](https://www.wepe.com.cn/download.html) |
-|                                                                                   |
-|                                                                                   |
+| 微PE                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.wepe.com.cn/)   [download](https://www.wepe.com.cn/download.html)                                     |
+| <p>如何制作PE工具ISO镜像，免费干净好用的PE工具分享 <a href="https://www.youtube.com/watch?v=kcMz8jbiCDs">向北</a></p><p>制作PE镜像 放入ventoy</p> |
+|                                                                                                                       |
+|                                                                                                                       |
 
 ### Windows 95 Windows ME
 
@@ -845,6 +847,8 @@
 | kms激活 [零度解说](https://www.youtube.com/watch?v=VoG37gE40mk)                                                                                          |
 | 利用VirtualBox 虚拟机安装Win10系统到U盘 [One Fish](https://www.youtube.com/watch?v=etOXzinnXWI\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=1)            |
 | 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc)           |
+| 安装win10系统, 简单易懂 ,永久免费激活Win10 [零度解说](https://www.youtube.com/watch?v=EgHDeLgz8Cw\&list=PLPpU3NyRmFI56B1AcolicxVVNQKuPjl4B\&index=3)                 |
+|                                                                                                                                                    |
 |                                                                                                                                                    |
 
 ### Windows 11
@@ -862,7 +866,7 @@
 | 给手机装Windows11！还能玩大型游戏？！ [极客湾Geekerwan](https://www.youtube.com/watch?v=4QnVNkZVnfc)                                                                                                             |
 | 【[Fun科技](https://www.youtube.com/watch?v=eJAAIzs1ZwE)】把Win11装在128G的内存条里：能跑的比PCIe5.0固态硬盘还要快么？                                                                                                    |
 | How to merge Windows 11 for All Computer and Laptop [Ezee AI (Shree Balaji Institute)](https://www.youtube.com/watch?v=Af1IJx7GaL0\&list=PLYdsgrylSw-gyRMB7wKT140l0jDo2-PF0\&index=2) Power ISO |
-|                                                                                                                                                                                                 |
+| 史上最小！非常好用的 Windows 11 极度精简版，仅1.25G！配置要求极低，只需1G内存，运行贼流畅，老电脑和VM虚拟机都可以安装！ [实用技能](https://www.youtube.com/watch?v=os5vBdhm96A) 在VM上添加U盘                                                             |
 |                                                                                                                                                                                                 |
 
 ### Edge
@@ -901,12 +905,13 @@
 
 ### 把系统装在U盘上
 
-|                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                 |
-| 安装 Windows To Go，解决 Mac 系统兼容，硬盘空间不足等问题 [Mac云课堂](https://www.youtube.com/watch?v=sUkP9TqRXVQ)                    |
-| How to create Multiple bootable macOS in a Single USB [Mac2iPhone](https://www.youtube.com/watch?v=MfQ0amkPLVg) |
-|                                                                                                                 |
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                     |
+| 安装 Windows To Go，解决 Mac 系统兼容，硬盘空间不足等问题 [Mac云课堂](https://www.youtube.com/watch?v=sUkP9TqRXVQ)                                        |
+| How to create Multiple bootable macOS in a Single USB [Mac2iPhone](https://www.youtube.com/watch?v=MfQ0amkPLVg)                     |
+| 史上最小！非常好用的 Windows 11 极度精简版，仅1.25G！配置要求极低，只需1G内存，运行贼流畅，老电脑和VM虚拟机都可以安装！ [实用技能](https://www.youtube.com/watch?v=os5vBdhm96A) 在VM上添加U盘 |
+|                                                                                                                                     |
 
 | Rufus                                                                                        |
 | -------------------------------------------------------------------------------------------- |
@@ -932,13 +937,16 @@
 | <p>最强大U盘启动工具Ventoy，安装系统更简单！ <a href="https://www.youtube.com/watch?v=g5nG9OWPGsM">CYL</a></p><p>ventoy/ventoy_wimboot.img   wePE iso(其他不支持的格式, 用pe安装)</p>                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-| win to go, wintogo, win2go                                                           |
-| ------------------------------------------------------------------------------------ |
-|                                                                                      |
-| win to go的辅助工具, .vhdx                                                                |
-| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo) |
-|                                                                                      |
-|                                                                                      |
+| win to go, wintogo, win2go                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                    |
+| win to go的辅助工具, .vhdx                                                                                                                                                                                                              |
+| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo)                                                                                                                                               |
+| Windows to go安装教程！把Windows 10完整安装到U盘，走到哪里都能用！甚至能打游戏！苹果MAC也能用！ [阿雷科技](https://www.youtube.com/watch?v=bU0\_q2fxZ5I)   [萝卜头](https://bbs.luobotou.org/thread-761-1-1.html)   [傲梅](https://www.disktool.cn/wintogo.html)口袋系统(WinToGo) |
+|                                                                                                                                                                                                                                    |
+| 口袋系统(win to usb)，把windows安装在移动硬盘里，可以直接插在PC和MAC电脑上使用，无需安装双系统，十分便捷方便 [Sky - 知识堡](https://www.youtube.com/watch?v=EIMagADvrkQ) WinToUSB                                                                                               |
+|                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                    |
 
 | UtraISO                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------- |
@@ -965,6 +973,16 @@
 | 學習重灌/超頻之前 先來認識BIOS吧! UEFI 又是甚麼? \| [聊電Jing](https://www.youtube.com/watch?v=ZNW3fAvURkg)                                                 |
 |                                                                                                                                          |
 |                                                                                                                                          |
+
+## 硬盘克隆、系统迁移
+
+|                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>硬盘克隆、系统迁移教程！完全免费，速度超快！电脑升级SSD必备 | <a href="https://www.youtube.com/watch?v=4gAqu-ShZQE">零度解说</a></p><p>EasyUS Macrium <a href="https://www.disktool.cn/">傲梅</a> DiskGenius</p>                                                  |
+| Windows to go安装教程！把Windows 10完整安装到U盘，走到哪里都能用！甚至能打游戏！苹果MAC也能用！ [阿雷科技](https://www.youtube.com/watch?v=bU0\_q2fxZ5I)   [萝卜头](https://bbs.luobotou.org/thread-761-1-1.html)   [傲梅](https://www.disktool.cn/wintogo.html)口袋系统(WinToGo) |
+| 口袋系统(win to usb)，把windows安装在移动硬盘里，可以直接插在PC和MAC电脑上使用，无需安装双系统，十分便捷方便 [Sky - 知识堡](https://www.youtube.com/watch?v=EIMagADvrkQ) WinToUSB                                                                                               |
+|                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                    |
 
 ## 按键精灵 Robotic Process Automation(RPA)
 
