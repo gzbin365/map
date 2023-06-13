@@ -169,11 +169,14 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 ## Linux 文件系统   Linux File System
 
-|                                                                                                     |                                                                                                      |   |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | - |
-| Linux 文件系统九讲 [Shuo Chen](https://www.youtube.com/playlist?list=PL3wVcVGXqdnbp8ww\_ogY39Mnk8IVNE3B1) | Linux File System/Structure Explained! [DorianDotSlash](https://www.youtube.com/watch?v=HbgzrKJvDRw) |   |
-| 操作系统                                                                                                |                                                                                                      |   |
-|                                                                                                     |                                                                                                      |   |
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| Linux 文件系统九讲 [Shuo Chen](https://www.youtube.com/playlist?list=PL3wVcVGXqdnbp8ww\_ogY39Mnk8IVNE3B1)  |
+| Linux File System/Structure Explained! [DorianDotSlash](https://www.youtube.com/watch?v=HbgzrKJvDRw) |
+| 操作系统                                                                                                 |
+| Linux File System Simply Explained [NeuralNine](https://www.youtube.com/watch?v=BUnb1PKKMBA)         |
+|                                                                                                      |
+|                                                                                                      |
 
 ## Linux 核心代码
 
@@ -458,6 +461,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 
 |                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 北漂運營維護 [u](https://www.youtube.com/@chenggonglaptop)                                                                                                         |
 | Linux教程 命令指令 运维 服务器 项目上线 CentOS 从入门到精通 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9\_iDguCUOhLFGamKI)                                |
 | Linux Server Course - System Configuration and Operation [freeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)                                         |
 | 【尚硅谷云计算】Linux集群教程 运维工程师培训 by 沈超&汪洋 [尚硅谷IT培训学校](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFRy8gq2phTxuxb4qj6Y34t)                                     |
