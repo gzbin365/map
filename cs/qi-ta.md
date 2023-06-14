@@ -26,7 +26,11 @@
 
 ## rust
 
-
+|                                               |
+| --------------------------------------------- |
+| Rust [u](https://www.youtube.com/@RustVideos) |
+|                                               |
+|                                               |
 
 ## Ruby
 
@@ -688,6 +692,7 @@
 | Coding Complex App Logic, Visually [Coding Tech](https://www.youtube.com/watch?v=wgWwJSnhgDU)                                                                            |
 | 计算机艺术 [u](https://www.youtube.com/@SysArcDesign/videos)                                                                                                                  |
 | twitter/[the-algorithm](https://github.com/twitter/the-algorithm/)   [v](https://www.youtube.com/watch?v=tYuJKVnEO0w)   [v](https://www.youtube.com/watch?v=pfeKZIK7PHY) |
+| 【人工智能】Twitter开源核心推荐系统解读 \| 推荐系统架构介绍 \| 召回 \| 粗排 \| 精排 \| 重排 \| 混排 [最佳拍档](https://www.youtube.com/watch?v=KoWUS4P\_IGk)                                                   |
 | System Design [Interview Pen](https://www.youtube.com/playlist?list=PLPkuArhPxxQGkbl-\_STo8FFxBBB4ri-tl)                                                                 |
 | 架构设计 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJOGtvY\_VHWCGhvzBfSjYspi)                                               |
 |                                                                                                                                                                          |
@@ -756,6 +761,12 @@
 | PC 电脑软件！ [方俊皓](https://www.youtube.com/playlist?list=PLAXVfXtWydopTlX\_lJ2VrTe35AFotEs36)                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                     |
+
+| 系统优化                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- |
+| 这7招！让你电脑速度快到起飞！！直接加载进内存读取，从此告别 Win10/11 系统卡顿、慢等问题 \| [零度解说](https://www.youtube.com/watch?v=huR42oVUMzI) |
+|                                                                                                          |
+|                                                                                                          |
 
 | windows自动更新                                                             |
 | ----------------------------------------------------------------------- |

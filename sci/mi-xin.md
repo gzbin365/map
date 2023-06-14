@@ -3,7 +3,7 @@
 |                                                                                   |                                                                      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 大佬你好啊([u](https://www.youtube.com/channel/UCKUmZM\_yDHMKxl4EWAt6GKw/playlists), ) | tracyattt1([u](https://www.youtube.com/user/tracyattt1/playlists), ) |
-| 全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                   | 華夏 [u](https://www.youtube.com/@HUAXIAZGWH/playlists)                |
+| 全球華人智慧財富健康頻道 [u](https://www.youtube.com/@user-ye001/playlists)                   | 華夏 [u](https://www.youtube.com/@HUAXIAZGWH/playlists) 曾仕强            |
 | Gen Kuang [u](https://www.youtube.com/@genkuang9148/playlists)                    | 1.10818. net [u](https://www.youtube.com/@10818/playlists)           |
 
 ## 风水
