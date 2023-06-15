@@ -213,7 +213,9 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 相对论 Relativity [眼见为识](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFeCWwgvZyXvAbQjcviGEo9) |
 |                                                                                                 |
 
-## 流体动力学 Fluid Dynamics
+## 流体动力学 Fluid Dynamics, CFD
+
+CFD（Computational Fluid Dynamics）计算流体力学
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -231,8 +233,16 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | MIT 16.687 Private Pilot Ground School, IAP 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)                                                                                                         |
 | <p>Aerodynamics <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumydi4tiofayriGGjK-XiEsUY">BYU FLOW Lab</a></p><p>Flight Vehicle Design <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumye-ZP-kRBWzC-jhNMFm2O-d">BYU FLOW Lab</a></p> |
+| FluidX3D [v](https://www.youtube.com/watch?v=-nb\_DZAH-TM)                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                         |
+
+## 分子动力学
+
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| LAMMPS 28Mar2023 [v](https://www.youtube.com/watch?v=-nb\_DZAH-TM) 高精度 FP32 FP64 |
+| GROMAC2023.1                                                                     |
+|                                                                                  |
 
 ## 航空航天
 

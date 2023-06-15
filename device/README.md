@@ -644,6 +644,7 @@ description: 硬件设备
 | 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                          |
 | How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ) |
 | 32\*2 6400                                                                                          |
+| 買記憶體條需要注意哪些參數？ 頻率、時序對效能有什麼影響？ 「超極氪」 [Super Kr超极氪](https://www.youtube.com/watch?v=7\_rodI5bQIs)     |
 |                                                                                                     |
 
 ## 散热
@@ -902,6 +903,8 @@ System on Chip, 系统级芯片
 | How to build cheap VR Haptic Gloves to FEEL VR. [Lucas VRTech](https://www.youtube.com/watch?v=2yF-SJcg3zQ)                                                                 |
 | AR/VR [Harvard Innovation Labs](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp2v4xOC-wSkK1GPZ8JuZ6an)                                                                   |
 | Why Apple’s Vision Pro is the Next iPhone (Analysis) [ColdFusion](https://www.youtube.com/watch?v=l5qU2Yrq\_mc)                                                             |
+| 你想知道的VR秘密 [平平的3CVR分享基地Ping's Channel](https://www.youtube.com/playlist?list=PLFUb\_pk0vUygCCsKO92HWbDrgUC4nuWBU)                                                            |
+|                                                                                                                                                                             |
 
 ### AR增强现实
 
@@ -1143,7 +1146,7 @@ direct-attached storage
 | 玩转OpenWRT软路由 [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrtIZcnfqTCQpiDcFyNd0W7)                                                                                                                                                                                                                                           |
 | 软路由设置 [小悟空的频道](https://www.youtube.com/playlist?list=PLV03kUE6uHsqgGKVSu0dOHE4zz\_nI3jNo)                                                                                                                                                                                                                                                |
 | <p>软路由安装PVE虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！ <a href="https://www.youtube.com/watch?v=t_1o0rM3S7o">向北</a></p><p>软路由安装ESXI虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！这期很长你忍一下 <a href="https://www.youtube.com/watch?v=aWgO2xdT4FI">向北</a></p>                                                                              |
-|                                                                                                                                                                                                                                                                                                                                          |
+| 软路由N100，这样玩才完美，软路由All in One最完美方案！硬盘直通，双盘位NAS [阿雷科技](https://www.youtube.com/watch?v=QYX6sQ2arKk)                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                          |
 
 | openwrt                                                                                                                                     |

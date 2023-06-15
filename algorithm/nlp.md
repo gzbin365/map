@@ -291,6 +291,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | WNUT17 Shared Task - Multi channel BiLSTM CRF Model for Emerging Named Entity Recognition [Frank Xu](https://www.youtube.com/watch?v=zhqJPYHxJNY) |
 | hmm crf bilstm                                                                                                                                    |
 
+### 文档理解
+
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| DONUT 一种理解文档的多模态TransFormer模型 [v](https://www.youtube.com/watch?v=-nb\_DZAH-TM) 看发票 |
+|                                                                                     |
+|                                                                                     |
+
 ### 对话系统
 
 |                                                                                                                                                                                                                                                                                                |
