@@ -643,7 +643,7 @@
 | VMware                                                                                         |
 | ---------------------------------------------------------------------------------------------- |
 | VMware虛擬化教學 [北漂運營維護](https://www.youtube.com/playlist?list=PL9ihhzkzO8EtDqItKRsoIeBUWuaxumlKq) |
-|                                                                                                |
+| Catlin Wu [u](https://www.youtube.com/@CatlinWu/playlists)                                     |
 |                                                                                                |
 
 ## 架构, WEB APP Architecture
@@ -732,7 +732,7 @@
 | 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                                                               |
 | 虚拟机 VirtualBox 7.0 发布了！轻松安装 Win 11 + MacOS系统！支持M2芯片无视TPM2.0 [零度解说](https://www.youtube.com/watch?v=DkeJuv7LXLY)                                                                                         |
 | 【Mac 教學】製作 macOS Monterey 12 系統 ISO、DMG 安裝映像檔 \| macOS 安裝檔製作 \| macOS DMG \| macOS ISO \| Mac \| [科技阿宅王](https://www.youtube.com/watch?v=-5vz0MHt1Js\&list=PLzAvUoSYHGY37MAetLVTZdaRG4XUKpbV3\&index=1) |
-|                                                                                                                                                                                                         |
+| 【萌新必看】Macbook新手入門到精通快速上手蘋果電腦保姆級教程教學 [闲评](https://www.youtube.com/watch?v=Z-CoJ8mROe8)                                                                                                                   |
 |                                                                                                                                                                                                         |
 
 | 黑苹果                                                |
@@ -931,12 +931,12 @@
 | 史上最小！非常好用的 Windows 11 极度精简版，仅1.25G！配置要求极低，只需1G内存，运行贼流畅，老电脑和VM虚拟机都可以安装！ [实用技能](https://www.youtube.com/watch?v=os5vBdhm96A) 在VM上添加U盘 |
 |                                                                                                                                     |
 
-| Rufus                                                                                        |
-| -------------------------------------------------------------------------------------------- |
-| 写盘工具 [s](https://rufus.ie/zh/)                                                               |
-| 如何在 USB、移动硬盘上运行 Windows 10 / 11 系统 [零度解说](https://www.youtube.com/watch?v=ILQ8H5K3w-o) Rufus |
-| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo)         |
-|                                                                                              |
+| Rufus                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 写盘工具 [s](https://rufus.ie/zh/)                                                                                                                                                                                     |
+| <p>如何在 USB、移动硬盘上运行 Windows 10 / 11 系统 <a href="https://www.youtube.com/watch?v=ILQ8H5K3w-o">零度解说</a> Rufus</p><p>如何将Win10和Linux系统安装进U盘？实现即插即用！| <a href="https://www.youtube.com/watch?v=DuOOEBwMb8E">零度解说</a></p> |
+| Windows，PE，复古游戏机我都要！U盘也玩all in one [乌客](https://www.youtube.com/watch?v=YUmyLmrJsZo)                                                                                                                               |
+|                                                                                                                                                                                                                    |
 
 | Ventoy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -964,6 +964,7 @@
 |                                                                                                                                                                                                                                    |
 | 口袋系统(win to usb)，把windows安装在移动硬盘里，可以直接插在PC和MAC电脑上使用，无需安装双系统，十分便捷方便 [Sky - 知识堡](https://www.youtube.com/watch?v=EIMagADvrkQ) WinToUSB                                                                                               |
 |                                                                                                                                                                                                                                    |
+| 将windows装到口袋里（[上](https://www.youtube.com/watch?v=M5gHpm-pzgY)）--- Windows To Go的制作 Cool Play 萝卜头                                                                                                                                  |
 |                                                                                                                                                                                                                                    |
 
 | UtraISO                                                                                                        |
@@ -989,7 +990,7 @@
 | 97%使用者可能會用到的6個BIOS功能! 華碩 微星 技嘉 BIOS 設定教學 \| 聊電[Jing](https://www.youtube.com/watch?v=DYibYk6W8rg)                                        |
 | 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
 | 學習重灌/超頻之前 先來認識BIOS吧! UEFI 又是甚麼? \| [聊電Jing](https://www.youtube.com/watch?v=ZNW3fAvURkg)                                                 |
-|                                                                                                                                          |
+| 在BIOS中屏蔽usb接口 [v](https://www.youtube.com/watch?v=ylQ22f\_QHSo)                                                                          |
 |                                                                                                                                          |
 
 ## 硬盘克隆、系统迁移, 系统备份

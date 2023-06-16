@@ -56,11 +56,13 @@ description: 硬件设备
 
 ## 主板
 
-|                       |
-| --------------------- |
-| rog maximus z790 hero |
-| msi 多显卡               |
-|                       |
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| rog maximus z790 hero                                                                     |
+| msi 多显卡                                                                                   |
+| 某UP竟公开表演凭一根插槽找出主板？被拿来烤肉的是什么配置？【阅机无数13】[老弟一号](https://www.youtube.com/watch?v=LNgBWYcKxg4) |
+|                                                                                           |
+|                                                                                           |
 
 ## **Arduino**
 
@@ -1093,11 +1095,17 @@ direct-attached storage
 | 老盖聊硬盘，电脑数据恢复，坏道检测修复 ，数据清除，硬盘测速 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrQWVQDbasizd0pKNmxcXw6G)                                   |
 | 老盖聊优盘，U盘扩容检测测速，优盘量产修复，U盘内存卡数据恢复 [老盖聊技术](https://www.youtube.com/playlist?list=PLjlNANzswLrRFgDnRmNFyxH3Fcp\_jg8RW)                                 |
 | 数据恢复工作室 [u](https://www.youtube.com/@user-fy9xn1sn9s)   云盾数据恢复中心 [u](https://www.youtube.com/@user-yg8ti8ym1y)                                     |
-| shred -u filename                                                                                                                                  |
+|                                                                                                                                                    |
 | 最好的磁盘（硬盘）数据恢复软件DiskGenius，完美解决｜分区丢失｜误格式化｜找回丢失的数据 [Memory Story DC](https://www.youtube.com/watch?v=Onp0YRs00hI)                                    |
 | <p>数据恢复 | 数据恢复软件 | 数据恢复软件使用 <a href="https://www.youtube.com/watch?v=OhVqXGe8bnw">Fan科技</a></p><p>DiskGenius   Recover My Files   DiskRecovery</p> |
 | <p>数据恢复干货分享，NAS的RAID阵列也不怕，轻松恢复误删的数据 <a href="https://www.youtube.com/watch?v=uBfxykGsBgA">Vedio Talk</a></p><p>r-studio macos windows</p>          |
 |                                                                                                                                                    |
+
+| 阻止数据恢复                                                                  |
+| ----------------------------------------------------------------------- |
+| shred -u filename                                                       |
+| 物理销毁 消磁重写 魔法消除? [v](https://www.youtube.com/watch?v=ylQ22f\_QHSo) TPM芯片 |
+|                                                                         |
 
 ## 宽带 专线
 
