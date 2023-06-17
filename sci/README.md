@@ -70,10 +70,13 @@ description: 推动世界前进
 
 ## 考研
 
-|                                                                                            |                                                                                              |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| **GNU(**[**u**](https://www.youtube.com/channel/UCrnHNeGtmkvoCVzjMgp36Tg/playlists)**, )** | **考研e族(**[**u**](https://www.youtube.com/channel/UCumvu1nun2Hr\_0y7MzrN2YA/playlists)**, )** |
-| Will Perplexed [u](https://www.youtube.com/channel/UCSG1txFm7lTWc4SP9ycPepg/playlists)     | 中国好视频 [u](https://www.youtube.com/channel/UCCn95TJ-ghiNsJmwLoaE1gw/playlists)                |
+|                                                                                                   |                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **GNU(**[**u**](https://www.youtube.com/channel/UCrnHNeGtmkvoCVzjMgp36Tg/playlists)**, )**        | **考研e族(**[**u**](https://www.youtube.com/channel/UCumvu1nun2Hr\_0y7MzrN2YA/playlists)**, )** |
+| Will Perplexed [u](https://www.youtube.com/channel/UCSG1txFm7lTWc4SP9ycPepg/playlists)            | 中国好视频 [u](https://www.youtube.com/channel/UCCn95TJ-ghiNsJmwLoaE1gw/playlists)                |
+| DayDayUp计算机 [u](https://www.youtube.com/@daydayup-cs/playlists) [s](https://v.ddup.io/playlists/) |                                                                                              |
+|                                                                                                   |                                                                                              |
+|                                                                                                   |                                                                                              |
 
 |                                                                                 |
 | ------------------------------------------------------------------------------- |

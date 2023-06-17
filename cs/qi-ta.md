@@ -640,11 +640,14 @@
 | Download VirtualBox for [Linux](https://www.virtualbox.org/wiki/Linux\_Downloads)                                                                                                                                         |
 |                                                                                                                                                                                                                           |
 
-| VMware                                                                                         |
-| ---------------------------------------------------------------------------------------------- |
-| VMware虛擬化教學 [北漂運營維護](https://www.youtube.com/playlist?list=PL9ihhzkzO8EtDqItKRsoIeBUWuaxumlKq) |
-| Catlin Wu [u](https://www.youtube.com/@CatlinWu/playlists)                                     |
-|                                                                                                |
+| VMware ESXi                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>VMware虛擬化教學 <a href="https://www.youtube.com/playlist?list=PL9ihhzkzO8EtDqItKRsoIeBUWuaxumlKq">北漂運營維護</a></p><p>推荐16pro, 16比17好, 17砍掉了磁盘映射的功能, 不过有补救</p> |
+| Catlin Wu [u](https://www.youtube.com/@CatlinWu/playlists)                                                                                                  |
+| VMware虚拟机去虚拟化懒人过鲁大师修改，玩游戏防封 [deionCube](https://www.youtube.com/watch?v=YB1SDMVqMNc)                                                                        |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
+|                                                                                                                                                             |
 
 ## 架构, WEB APP Architecture
 
@@ -972,6 +975,14 @@
 | 双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入                                                             |
 | U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                |
 | 电脑设置U盘启动，只需简单几步！Boot from USB Drive Step-by-Step [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=qK9WXQQosgU) |
+
+## Batocera
+
+|                                                               |
+| ------------------------------------------------------------- |
+| 万能游戏机Batocera保姆级教程 [u](https://www.youtube.com/@batocera2994) |
+|                                                               |
+|                                                               |
 
 ## Steam Deck
 

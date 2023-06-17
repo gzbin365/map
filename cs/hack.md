@@ -71,7 +71,7 @@
 | ChatGPT For Cybersecurity [HackerSploit](https://www.youtube.com/watch?v=6PrC4z4tPB0)                                                                                                     |
 | 能让你合法学习黑客技术的网站 [安全](https://www.youtube.com/watch?v=VE4aJlRshv8)                                                                                                                          |
 | 【2023最新護網課程2023最新護網課程，0基礎即可學習，學完日薪1000+，整整200集】 [wannaHacking](https://www.youtube.com/playlist?list=PLqhnoRGLuxy4pzPwy\_Vjsegh\_np6uhcO-)                                                |
-|                                                                                                                                                                                           |
+| 安卓修改大师 [deionCube](https://www.youtube.com/playlist?list=PLao\_xKE7W8QhjPFFBsHiOZJ\_gGmRKxis3)                                                                                            |
 |                                                                                                                                                                                           |
 |                                                                                                                                                                                           |
 |                                                                                                                                                                                           |
