@@ -1061,6 +1061,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                                                         |
 | shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                      |                                                                                                                         |
 |                                                                                                                               |                                                                                                      | 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                    |
+| 【硬件科普】磁盘阵列是什么东西？为什么需要磁盘阵列？不同阵列之间的区别是什么？ [硬件茶谈](https://www.youtube.com/watch?v=PxerbjeQkyA)                                   |                                                                                                      |                                                                                                                         |
 
 ## DAS
 
