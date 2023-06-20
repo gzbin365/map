@@ -213,6 +213,13 @@ International Business Machine IBM 美国国际商用机器公司
 |                                                                                           |
 |                                                                                           |
 
+| PPT, PowerPoint                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| 用完就回不去了！取代 PowerPoint 的強大 AI 工具？讓我從此只想用它做簡報？｜Gamma｜[泛科學院](https://www.youtube.com/watch?v=WSlV5PW3QP8) |
+|                                                                                                        |
+|                                                                                                        |
+|                                                                                                        |
+
 ### 百度
 
 |                                                                                       |

@@ -1054,14 +1054,21 @@ Network Attached Storage, 网络附加存储, 个人私有云
 
 磁盘阵列技术
 
-|                                                                                                                               |                                                                                                      |                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          | What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac) | 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                          |
-| 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) | 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                      | A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf) |
-| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            | 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                       |                                                                                                                         |
-| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                      |                                                                                                                         |
-|                                                                                                                               |                                                                                                      | 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                    |
-| 【硬件科普】磁盘阵列是什么东西？为什么需要磁盘阵列？不同阵列之间的区别是什么？ [硬件茶谈](https://www.youtube.com/watch?v=PxerbjeQkyA)                                   |                                                                                                      |                                                                                                                         |
+|                                                                                                                               |   |
+| ----------------------------------------------------------------------------------------------------------------------------- | - |
+| 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          |   |
+| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)                          |   |
+| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                                |   |
+| 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) |   |
+| 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                                               |   |
+| A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf)       |   |
+| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            |   |
+| 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                                                |   |
+| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 |   |
+| RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                                               |   |
+| 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                          |   |
+| 【硬件科普】磁盘阵列是什么东西？为什么需要磁盘阵列？不同阵列之间的区别是什么？ [硬件茶谈](https://www.youtube.com/watch?v=PxerbjeQkyA)                                   |   |
+|                                                                                                                               |   |
 
 ## DAS
 
@@ -1362,6 +1369,7 @@ direct-attached storage
 | 特斯拉最闲的人-吉姆.凯勒Jim Keller，设计芯片这是，他是怎么做到的 去哪哪翻盘呢？[基地](https://www.youtube.com/watch?v=UX21Jj2aDu0)                                             |
 | Jim Keller: Moore's Law, Microprocessors, and First Principles \| [Lex Fridman](https://www.youtube.com/watch?v=Nb2tebYAaOA) Podcast #70    |
 | Jim Keller: The Future of Computing, AI, Life, and Consciousness \| [Lex Fridman](https://www.youtube.com/watch?v=G4hL5Om4IJ4) Podcast #162 |
+| 【分享】芯片传奇大神JimKeller \| 6月最新访谈 \| AI、Risc V、项目进展 \| 中文完整版 [最佳拍档](https://www.youtube.com/watch?v=tMYzj-OJcHs)                                |
 | 不要太在意人口数量，挖掘人口深度 [九边](https://www.douyin.com/video/7056037049886838047)                                                                     |
 | tsmc                                                                                                                                        |
 | TSMC's Renegade Genius [Asianometry](https://www.youtube.com/watch?v=-W0YdacKwUo) 梁孟松                                                       |

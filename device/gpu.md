@@ -41,6 +41,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | wuye9036/[SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) Salvia渲染器                                                                                                             |
 | 这是史上最快GPU！我们测了四张H100！价值120万元！[极客湾Geekerwan](https://www.youtube.com/watch?v=-nb\_DZAH-TM)                                                                                                   |
 | NVIDIA'S HUGE AI Chip Breakthroughs Change Everything (Supercut) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=0EIwhvqCX1c)                                                          |
+| 英伟达NVIDIA创业20年坎坷之路，差点公司都丢掉 [ZOMI](https://www.youtube.com/watch?v=Sa-O5XU0JGE)                                                                                                              |
 |                                                                                                                                                                                             |
 |                                                                                                                                                                                             |
 
