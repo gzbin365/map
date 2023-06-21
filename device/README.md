@@ -296,9 +296,12 @@ description: 硬件设备
 
 ## Steam Deck
 
-|                                                                            |   |
-| -------------------------------------------------------------------------- | - |
-| 最新掌上型主機 Steam Deck [Sky game](https://www.youtube.com/watch?v=O40Amrc6Yho) |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| 最新掌上型主機 Steam Deck [Sky game](https://www.youtube.com/watch?v=O40Amrc6Yho)                                                    |
+| Steam Deck 改機全攻略：如何拆機、SSD更換、改雙系統、安裝Windows、FSR 硬開啟、rEFInd 切換開機、副廠底座動手玩 [電腦王阿達](https://www.youtube.com/watch?v=P\_\_EKkN4DqQ) |
+|                                                                                                                               |
+|                                                                                                                               |
 
 ## PC主机
 
@@ -1193,11 +1196,12 @@ direct-attached storage
 
 ## mesh wifi
 
-|                                                                                                                |   |   |
-| -------------------------------------------------------------------------------------------------------------- | - | - |
-| 要不要來我家看路由器？45 坪老公寓升級 Mesh Wi-Fi TOTOLINK X18 網狀路由器 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=5AtT6L3UZfM) |   |   |
-|                                                                                                                |   |   |
-|                                                                                                                |   |   |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| 要不要來我家看路由器？45 坪老公寓升級 Mesh Wi-Fi TOTOLINK X18 網狀路由器 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=5AtT6L3UZfM) |
+| mesh技术详解——不同品牌路由器怎么组mesh网络？路由器\|无线路由器\|openWRT\|mesh网络 [乌客](https://www.youtube.com/watch?v=zBoRFh8xTks)       |
+|                                                                                                                |
+|                                                                                                                |
 
 ## 交换机
 

@@ -1675,7 +1675,7 @@ Combinatorics/Combinatorial mathematics/Discrete Mathematics
 | 拉马努金                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>印度数学神童——拉马努金，一个从未来穿越回来的数学家　<a href="https://www.youtube.com/watch?v=FPwLewUNmtk">妈咪说MommyTalk</a></p><p>知无崖者　The man who knew infinity 拉马努金传&#x26;电影</p> |
-|                                                                                                                                                             |
+| 未接受正规教育，却发现3900个数学公式的超级天才，拉马努金！ [天才简史](https://www.youtube.com/watch?v=GI3i3hCa0Ek)                                                                         |
 |                                                                                                                                                             |
 
 | 丘成桐                                                                                                                                                                                          |

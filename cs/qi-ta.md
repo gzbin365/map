@@ -738,11 +738,12 @@
 | 【萌新必看】Macbook新手入門到精通快速上手蘋果電腦保姆級教程教學 [闲评](https://www.youtube.com/watch?v=Z-CoJ8mROe8)                                                                                                                   |
 |                                                                                                                                                                                                         |
 
-| 黑苹果                                                |
-| -------------------------------------------------- |
-| 胡蔼麦 [u](https://www.youtube.com/@aimai-who/videos) |
-|                                                    |
-|                                                    |
+| 黑苹果                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 胡蔼麦 [u](https://www.youtube.com/@aimai-who/videos)   趣科技分享 [u](https://www.youtube.com/@user-cg7ot5je5m/videos)   黑苹果屋 [u](https://www.youtube.com/@user-ro1tw7ke5y)    |
+| ventoy黑苹果[?](https://www.youtube.com/results?search\_query=ventoy%E9%BB%91%E8%8B%B9%E6%9E%9C)                                                                           |
+| 无需U盘在线安装原版macOS，黑(白)苹果用户通用方式，支持最新monterey 12.3.1 [小明白](https://www.youtube.com/watch?v=p9FPAaHU6q4)                                                                     |
+|                                                                                                                                                                         |
 
 ## Windows
 
@@ -814,7 +815,7 @@
 | 无忧启动                                                                                                                                     |
 | 1个U盘，玩转N个PE，Ventoy ，多系统U盘启动神器，重装系统？系统维护？一盘在手，天下我有，含三款纯净无推广强大PE工具箱 [资源核](https://www.youtube.com/watch?v=oCGobwpLxd0)                     |
 | PE优盘制作，随时给你的电脑装系统 [便利空间](https://www.youtube.com/watch?v=G2\_Ash3rDj0)                                                                   |
-| CYL [u](https://www.youtube.com/@cyl2077)                                                                                                |
+| CYL [u](https://www.youtube.com/@cyl2077)   趣科技分享 [u](https://www.youtube.com/@user-cg7ot5je5m/videos)                                   |
 |                                                                                                                                          |
 
 | 微PE                                                                                                                   |
@@ -928,7 +929,7 @@
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                     |
+| 趣科技分享 [u](https://www.youtube.com/@user-cg7ot5je5m/videos)                                                                          |
 | 安装 Windows To Go，解决 Mac 系统兼容，硬盘空间不足等问题 [Mac云课堂](https://www.youtube.com/watch?v=sUkP9TqRXVQ)                                        |
 | How to create Multiple bootable macOS in a Single USB [Mac2iPhone](https://www.youtube.com/watch?v=MfQ0amkPLVg)                     |
 | 史上最小！非常好用的 Windows 11 极度精简版，仅1.25G！配置要求极低，只需1G内存，运行贼流畅，老电脑和VM虚拟机都可以安装！ [实用技能](https://www.youtube.com/watch?v=os5vBdhm96A) 在VM上添加U盘 |
@@ -1015,6 +1016,8 @@
 | Windows to go安装教程！把Windows 10完整安装到U盘，走到哪里都能用！甚至能打游戏！苹果MAC也能用！ [阿雷科技](https://www.youtube.com/watch?v=bU0\_q2fxZ5I)   [萝卜头](https://bbs.luobotou.org/thread-761-1-1.html)   [傲梅](https://www.disktool.cn/wintogo.html)口袋系统(WinToGo) |
 | 口袋系统(win to usb)，把windows安装在移动硬盘里，可以直接插在PC和MAC电脑上使用，无需安装双系统，十分便捷方便 [Sky - 知识堡](https://www.youtube.com/watch?v=EIMagADvrkQ) WinToUSB                                                                                               |
 | 【平Ping】DIY電腦新手看這邊！不必重灌的免費Win10作業系統轉移教學分享(家用版、專業版、企業版都適用) ft.PNY 1TB SSD -Ep 024 \| [平平的3CVR分享基地](https://www.youtube.com/watch?v=QPKPB-cEBGc) 免费系统克隆WinToHDD                                                                       |
+| 教你升级系统盘不重装系统，看似简单其实很多坑 [epcdiy](https://www.youtube.com/watch?v=0ZutH3WZp1U)                                                                                                                                                       |
+|                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                    |
 
 ## 按键精灵 Robotic Process Automation(RPA)
