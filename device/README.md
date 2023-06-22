@@ -696,7 +696,8 @@ description: 硬件设备
 | 100集短视频专辑《大话集成电路》 [科学声音](https://www.youtube.com/playlist?list=PLrpsOAujCCNwRzb6yLYpdFIAc3U\_I4X0t)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Intel Core i9 Explained [Techquickie](https://www.youtube.com/watch?v=suQnh1TvGHw)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Intel Processors (CPU) Explained - Super Easy Guide [SoulOfTech](https://www.youtube.com/watch?v=43QLEafkVUE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 現代處理器設計：cache 原理和多核心議題 (2017-10-26) [. GUTS](https://www.youtube.com/watch?v=ceER2kqQ9tA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CPU 處理器 規格技術解說 \[電腦硬體教學-EP1] \| [LawrenceChief契夫](https://www.youtube.com/watch?v=207YTIKel3U)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 | CPU超频 Overclocking                                                                                              |
@@ -1057,21 +1058,23 @@ Network Attached Storage, 网络附加存储, 个人私有云
 
 磁盘阵列技术
 
-|                                                                                                                               |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | - |
-| 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          |   |
-| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)                          |   |
-| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                                |   |
-| 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) |   |
-| 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                                               |   |
-| A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf)       |   |
-| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            |   |
-| 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                                                |   |
-| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 |   |
-| RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                                               |   |
-| 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                          |   |
-| 【硬件科普】磁盘阵列是什么东西？为什么需要磁盘阵列？不同阵列之间的区别是什么？ [硬件茶谈](https://www.youtube.com/watch?v=PxerbjeQkyA)                                   |   |
-|                                                                                                                               |   |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| 【[Huan](https://www.youtube.com/watch?v=VppVKQ3yHjM)】 我終於要來升級NAS了！！ Synology DS1618+                                          |
+| What is RAID 0, 1, 5, & 10? [PowerCert Animated Videos](https://www.youtube.com/watch?v=U-OCdTeZLac)                          |
+| 【硬件科普】NAS究竟是什么东西？你需要一台NAS吗？[硬件茶谈](https://www.youtube.com/watch?v=BGMY3dn5V4U)                                                |
+| 【[Jing](https://www.youtube.com/watch?v=Iit4sj8wrv0)】完成男孩子的夢想! 升級96TB的NAS硬碟! 為何我需要NAS? NAS硬碟又有什麼特色? (Ft.Seagate IronWolf Pro) |
+| 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                                               |
+| A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf)       |
+| 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            |
+| 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                                                |
+| shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 |
+| RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                                               |
+| 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                          |
+| 【硬件科普】磁盘阵列是什么东西？为什么需要磁盘阵列？不同阵列之间的区别是什么？ [硬件茶谈](https://www.youtube.com/watch?v=PxerbjeQkyA)                                   |
+| win10 win11 动态磁盘卷功能轻松实现磁盘扩展及raid0 raid1，完美实现磁盘扩容、高速读写、数据备份操作。 [雷电分享](https://www.youtube.com/watch?v=ueNw7KEb36k)             |
+|                                                                                                                               |
+|                                                                                                                               |
 
 ## DAS
 
