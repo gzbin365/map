@@ -235,16 +235,22 @@ description: 硬件设备
 
 ## 手机
 
-|                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a> termux   内网穿透 cpolar <a href="https://www.cpolar.com/">s</a>   $ uname -a 查看手机型号,   dsutil dsutils 文件传输,   curl,</p><p>unzip</p> |
-| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                                                                                                                                                                                    |
-| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH)                                                                                                                                                         |
-| 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                                                                                                                                                                                       |
-| 【[硬件科普](https://www.youtube.com/watch?v=z8IkeNezRvk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=60)】如何让手机的充电速度更快                                                                                                                                                                  |
-| 华为Mate X3为啥爆火？从我的婚后生活聊起 [林亦LYi](https://www.youtube.com/watch?v=j8bOF3CmK1I)                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                |
+| iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                            |
+| 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH) |
+| 在苹果旧手机上安装Linux系统，秒变服务器 [程序员阿灏](https://www.douyin.com/video/7143075282713349407)                                               |
+| 【[硬件科普](https://www.youtube.com/watch?v=z8IkeNezRvk\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=60)】如何让手机的充电速度更快          |
+| 华为Mate X3为啥爆火？从我的婚后生活聊起 [林亦LYi](https://www.youtube.com/watch?v=j8bOF3CmK1I)                                                   |
+|                                                                                                                                |
+|                                                                                                                                |
+
+| 旧手机利用                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>教你从0到1升级自己的旧手机，让你家里成为云服务中心 <a href="https://www.douyin.com/video/7131701871365852452">程序员阿灏</a></p><p>f-droid <a href="https://f-droid.org/">s</a> termux   内网穿透 cpolar <a href="https://www.cpolar.com/">s</a>   $ uname -a 查看手机型号,   dsutil dsutils 文件传输,   curl,</p><p>unzip</p>                                                                                                                                |
+| <p>旧手机不要扔，还能做这些事…… <a href="https://www.youtube.com/watch?v=EROFDL9sKyo">极客湾Geekerwan</a></p><p>硬件监视器 AIDA64, </p><p>无线扬声器 SoundWire, 让电脑里的声音从手机里发出来, 耳机无线接收器</p><p>无线麦克风 Womic, </p><p>无线摄像头 Iriun Webcam, &#x26; 无线麦克风</p><p>无线副屏 Spacedesk, 数量无上限</p><p>键鼠+遥控器, 蓝牙键盘app, 手机安卓至少9.0以上, 键鼠+遥控器, 游戏手柄, 触摸板</p><p>重力感应手柄, Monect 魔控, 键鼠手柄, 对手机要求比较友好</p><p>家庭网盘, FTPshare, 同一局域网, 高级充电控制器 AccA (需要root)</p><p>端口转发</p> |
+|                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## 手机散热
 
