@@ -990,13 +990,16 @@ $$
 
 ### 解析几何&#x20;
 
-### 代数几何 Algebraische Geometrie
+### 代数几何 Algebraic Geometry
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| Algebraische Geometrie [MATHEKANAL](https://www.youtube.com/playlist?list=PLho3wDE1H4WOq6klg5cbRB7ipNEmPV4ab) |
-|                                                                                                               |
-|                                                                                                               |
+Algebraische Geometrie
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Algebraic Geometry和Algebraische Geometrie是指同一个数学领域，只是用不同的语言进行描述。</p><p>Algebraic Geometry是英语中对这个领域的称呼，它是在英语的数学研究中广泛使用的术语。它涉及研究代数方程和代数曲线的几何性质，以及与它们相关的代数结构。Algebraic Geometry的研究对象包括代数簇、代数曲线、代数流形等。</p><p>Algebraische Geometrie则是德语中对同一领域的称呼。它是德语数学研究中使用的术语，与Algebraic Geometry指的是同一个领域。Algebraische Geometrie也研究代数方程和代数曲线的几何性质，以及与它们相关的代数结构。</p><p>因此，Algebraic Geometry和Algebraische Geometrie没有实质性的区别，只是使用不同的语言进行描述而已。这两个术语可以互换使用，表示同一个数学领域的研究。</p> |
+| Algebraische Geometrie [MATHEKANAL](https://www.youtube.com/playlist?list=PLho3wDE1H4WOq6klg5cbRB7ipNEmPV4ab)                                                                                                                                                                                                                                                                                                                                             |
+| book: Algebraic Geometry Second Edition 代数几何(第二版) 高等教育出版社                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ### 高等几何
 

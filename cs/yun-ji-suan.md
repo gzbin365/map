@@ -252,6 +252,14 @@ Machine Learning Crash Course with TensorFlow APIs [google](https://developers.g
 | Google’s Coding Competitions - Check out challenges for all skill levels [Google Developers](https://www.youtube.com/watch?v=ZbnI4E3F\_l4) | Medium Google Coding Interview With Ben Awad [Clément Mihailescu](https://www.youtube.com/watch?v=4tYoVx0QoN0\&t=48s) | Google Code Archive [s](https://code.google.com/archive/) [schema](https://code.google.com/archive/schema) |
 |                                                                                                                                            |                                                                                                                       |                                                                                                            |
 
+### Google Calendar
+
+|                                                                                                |
+| ---------------------------------------------------------------------------------------------- |
+| Google Calendar Automation in Python [NeuralNine](https://www.youtube.com/watch?v=B2E82UPUnOY) |
+|                                                                                                |
+|                                                                                                |
+
 ### Firebase
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

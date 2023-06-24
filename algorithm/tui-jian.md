@@ -22,6 +22,6 @@
 | \[Tutorialsplanet.NET] Udemy - Building Recommender Systems with Machine Learning and AI                                                                                                            |
 | Recommendation Systems [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)                                                                                       |
 | Mitigating the challenges of cold start in TensorFlow Recommenders [TensorFlow](https://www.youtube.com/watch?v=UFpF108gyaw)                                                                        |
-|                                                                                                                                                                                                     |
+| Recommendation Systems with OpenAI Embeddings [NeuralNine](https://www.youtube.com/watch?v=YcSTKEHS9Es)                                                                                             |
 |                                                                                                                                                                                                     |
 |                                                                                                                                                                                                     |
