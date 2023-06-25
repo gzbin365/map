@@ -938,7 +938,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 【人工智能】解读Meta Toolformer论文 \| 可以自学使用工具的大语言模型 \| 如何让机器自己学会调用API \| 如何对API进行采样和过滤 [最佳拍档](https://www.youtube.com/watch?v=6bcJ3qrXSIY) |
-|                                                                                                                                    |
+| 清华博士带你搞懂大模型自学工具使用（Toolformer【OpenBMB论文速读】第 7 期 [跟李沐学AI](https://www.youtube.com/watch?v=ljdjRU1zFOg)                               |
 |                                                                                                                                    |
 
 ### Meta LLaMA 开源
