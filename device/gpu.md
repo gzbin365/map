@@ -100,19 +100,20 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | 【全网首发】家用显卡虚拟化vGPU，微软Hyper-V独有免费功能 [账户未命名](https://www.youtube.com/watch?v=lUGaH7WMNBQ) GPU 分区                                               |
 | Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
 | 将VMware虚拟机转换为Hyper-V虚拟机 [把布丢](https://www.youtube.com/watch?v=mY\_XeLpXjQA)                                                                 |
-|                                                                                                                                             |
+| Windows 11 最新虚拟机版 震撼发布！完全免费，基于 “Moment 3”功能打造！速来体验！\| [零度解说](https://www.youtube.com/watch?v=JQ8U571QBzc)                                   |
+| Windows 10 上的 Hyper-V 简介 [microsoft](https://learn.microsoft.com/zh-cn/virtualization/hyper-v-on-windows/about/)                            |
 |                                                                                                                                             |
 
 ## AMD
 
-|                                         |                |   |
-| --------------------------------------- | -------------- | - |
-| <p>游戏营销部门高级总监</p><p>Sasa Marinkovic</p> | 显卡部门 amdradeon |   |
-|                                         |                |   |
-|                                         |                |   |
+|                            |
+| -------------------------- |
+| 游戏营销部门高级总监 Sasa Marinkovic |
+| 显卡部门 amdradeon             |
+|                            |
 
-|                                                                                                                                                                                                                                                                                             |   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| 普普通通Tony大叔 [B](https://space.bilibili.com/351085345/video) [dy](https://www.douyin.com/user/MS4wLjABAAAAW75lWf-i0ZdqnGQZDdmN6KjQcYs\_kfAMsrakQsGZMS8) [u](https://www.youtube.com/@yuanlinfish) [tw](https://twitter.com/yuanlinfish) [wb](https://weibo.com/tonyfisher) 俞元麟Tony，华硕电脑中国区总经理 |   |   |
-|                                                                                                                                                                                                                                                                                             |   |   |
-|                                                                                                                                                                                                                                                                                             |   |   |
+|                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 普普通通Tony大叔 [B](https://space.bilibili.com/351085345/video) [dy](https://www.douyin.com/user/MS4wLjABAAAAW75lWf-i0ZdqnGQZDdmN6KjQcYs\_kfAMsrakQsGZMS8) [u](https://www.youtube.com/@yuanlinfish) [tw](https://twitter.com/yuanlinfish) [wb](https://weibo.com/tonyfisher) 俞元麟Tony，华硕电脑中国区总经理 |
+|                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                             |
