@@ -71,4 +71,12 @@ description: Psychology
 | NLP心理學彭博 [u](https://www.youtube.com/@nlp8083/playlists)   NLP小教室 [u](https://www.youtube.com/@minduptw/playlists)   Soul Free World 你的身心靈導師 [u](https://www.youtube.com/@SoulFreeWorld/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | NLP Courses Malaysia [u](https://www.youtube.com/@nlpcoursesmalaysia3835/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
+## 心理测量学
+
+|                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- |
+| Psychometrics [Statistics Ninja](https://www.youtube.com/playlist?list=PLYpF5d40XgQM63-0VXB0OmlV8901vw7wQ) |
+|                                                                                                            |
+|                                                                                                            |
+
 ## other
