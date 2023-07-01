@@ -873,6 +873,24 @@ $$
 | Statistics in Machine Learning [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)                                                                                                                                                                                |
 | <p>【统计学】样本方差为什么要除以n-1 <a href="https://www.youtube.com/watch?v=tSBk9sJ25JQ">JianJiang</a></p><p>在现实世界里我们很难知道总体的均值μ, 只能用样本均值替代总体均值进行计算, 用样本均值算出的样本方差S方是其所有可能取值的下限, 这就导致样本方差小于总体方差, 因为用x bar直接替代μ 会造成对总体方差的低估, 所以要进行校正. 做法通常是让分母的n减去1, 这样方差会比之前稍大一点, 更加接近总体方差, 这个校正后的方差被称为无偏方差(Unbiased Variance).</p> |
 
+| SPSS |
+| ---- |
+|      |
+|      |
+|      |
+
+| SPSSPRO                                                  |
+| -------------------------------------------------------- |
+| SPSSPRO社区 [s](https://bbs.spsspro.com/)                  |
+| \[博文首篇]我眼中的SPSSPRO [不二](https://bbs.spsspro.com/news/87) |
+|                                                          |
+
+| SPSSAU                                                           |
+| ---------------------------------------------------------------- |
+| [https://spssau.com/](https://spssau.com/)                       |
+| 关于spssau和spss的一些区别 [米佳乐](https://zhuanlan.zhihu.com/p/369601356) |
+|                                                                  |
+
 | IRT理論                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IRT理论即项目反应理论(Item Response Theory, IRT)，又称题目反应理论、潜在特质理论（Item Response Theory）是一系列心理统计学模型的总称。[baike](https://baike.baidu.hk/item/IRT%E7%90%86%E8%AB%96/7965650) |
