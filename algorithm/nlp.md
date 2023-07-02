@@ -278,6 +278,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Droidtown/[ArticutAPI](https://github.com/Droidtown/ArticutAPI)                                           |
 | HanLP：面向生产环境的自然语言处理工具包 [s](https://hanlp.hankcs.com/) hankcs/[pyhanlp](https://github.com/hankcs/pyhanlp) |
 | 【NLP】为什么中文分词比英文分词更难？有哪些常用算法？（附代码）[Datawhale](https://mp.weixin.qq.com/s/q9DgcME8zvVt9jPpb7RrPA)           |
+| 【公开课】TACL一作分享中文大模型细粒度分词 \| OpenBMB论文速读 \| 第4期 [最佳拍档](https://www.youtube.com/watch?v=onn9i4RLGgc)         |
+|                                                                                                           |
 |                                                                                                           |
 
 ### POS 词性标注
@@ -768,7 +770,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | LangChain How to and guides [Sam Witteveen](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)                                                                                                                                                                       |
 | 【人工智能】LangChain简介 \| 揭秘Copilot背后的技术 \| 开源LLMs接口框架 \| 开发GPT插件和应用程序 \| 如何构建大语言模型应用程序 [最佳拍档](https://www.youtube.com/watch?v=r7PeKRs8BeA)                                                                                                                                                      |
 | Enabling LLM-Powered Applications with Harrison Chase of LangChain [Weights & Biases](https://www.youtube.com/watch?v=WvLcI6x-rs8)                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                             |
+| <p>【公开课】从GLM 130B到ChatGLM | 大模型预训练与微调 | 曾奥涵 | 清华大学知识工程实验室（KEG）<a href="https://www.youtube.com/watch?v=yY0eJnuH4gw">最佳拍档</a></p><p>【公开课】官方教程 | ChatGLM + LangChain 实战培训 <a href="https://www.youtube.com/watch?v=KFlZNsee0w4">最佳拍档</a></p>                                                  |
 |                                                                                                                                                                                                                                                                                             |
 
 ### Pinecone
@@ -890,6 +892,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |                                                                                                                       |
 
 ### ChatGLM
+
+|                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>【公开课】从GLM 130B到ChatGLM | 大模型预训练与微调 | 曾奥涵 | 清华大学知识工程实验室（KEG） <a href="https://www.youtube.com/watch?v=yY0eJnuH4gw">最佳拍档</a></p><p>【公开课】官方教程 | ChatGLM + LangChain 实战培训 <a href="https://www.youtube.com/watch?v=KFlZNsee0w4">最佳拍档</a></p> |
+|                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                             |
 
 ### BabyAGI
 

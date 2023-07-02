@@ -12,3 +12,41 @@
 | ffmpeg常用命令 [迷途小书童的Note](https://www.youtube.com/watch?v=nzBZgtvW1V4)                                                                                                                                                   |
 | FFmpeg 系列教程 (FFmpeg Tutorials) [softshare](https://www.youtube.com/playlist?list=PLnMTZUNDARlFhhGzMH3YUrWg4lxWNjCdU)                                                                                                   |
 |                                                                                                                                                                                                                        |
+
+## 播放器
+
+| linux播放器                                           |
+| -------------------------------------------------- |
+| mpv                                                |
+| Celluloid [s](https://celluloid-player.github.io/) |
+| vlc                                                |
+|                                                    |
+
+| mac播放器                                                                         |
+| ------------------------------------------------------------------------------ |
+| IINA                                                                           |
+| Mac中最好用的视频播放器？[zh](https://www.zhihu.com/question/404879728/answer/2088549614) |
+|                                                                                |
+
+| windows播放器 |
+| ---------- |
+| potplayer  |
+|            |
+|            |
+
+| android播放器 |
+| ---------- |
+| MX播放器      |
+|            |
+|            |
+
+
+
+
+
+
+
+
+
+## 其他
+

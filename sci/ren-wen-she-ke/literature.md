@@ -142,6 +142,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 老李播客 MaxStudio [u](https://www.youtube.com/@studiomax9289)                                                     | 阿法尔说 AlphaSay [u](https://www.youtube.com/@alphasay4133)                                                                                                                                                                                                                                      |
 | lin Gu [u](https://www.youtube.com/@lingu5146)                                                                 | 文曰小强——官方频道 [u](https://www.youtube.com/@wenyuexiaoqiang)                                                                                                                                                                                                                                      |
 | 聼書 [u](https://www.youtube.com/@user-zj1gl5cx5g/playlists)                                                     | luna can [u](https://www.youtube.com/@lunacan1597)                                                                                                                                                                                                                                            |
+| 听一本书 · 精读世界名著 [u](https://www.youtube.com/@ListentoaBook)                                                      |                                                                                                                                                                                                                                                                                               |
 |                                                                                                                |                                                                                                                                                                                                                                                                                               |
 |                                                                                                                |                                                                                                                                                                                                                                                                                               |
 
@@ -191,11 +192,11 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 
 ## 电子书下载
 
-|                                                   |
-| ------------------------------------------------- |
-| 书库下载 [戏曲窝](https://www.xiquwo.com/leimu/t10.html) |
-|                                                   |
-|                                                   |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 书库下载 [戏曲窝](https://www.xiquwo.com/leimu/t10.html)   电子书之家 [s](https://honeypdf.com/index.html)    |
+|                                                                                                   |
+|                                                                                                   |
 
 ## 其他
 

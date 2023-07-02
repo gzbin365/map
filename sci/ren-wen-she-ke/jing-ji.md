@@ -98,6 +98,8 @@
 | 经济机器是怎样运行的 (时长30分钟) Ray Dalio [Principles by Ray Dalio](https://www.youtube.com/watch?v=rFV7wdEX-Mo)                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 什么是基金？基金和股票债券的关系？一个小动画带你迅速了解其中的概念 \| [David读书科普](https://www.youtube.com/watch?v=dAXVdeiz50o)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 华人开放式课程MOOC [u](https://www.youtube.com/c/%E5%8D%8E%E4%BA%BA%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AF%BE%E7%A8%8BMOOC/playlists)                                                                                                                                                                                                                                                                                                                                                                                               |
+| 听一本书｜《国富论》经济学之父亚当·斯密巨著，现代经济学开山之作｜#听一本书 #国富论 #读书 #有声书 [听一本书 · 精读世界名著](https://www.youtube.com/watch?v=mNXYQV\_eTXA)                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
@@ -119,12 +121,14 @@
 | 货币银行学 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJPM2geo5Ib0meIvAM7Vs\_EZ)                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                               |
 
-### 电子商务 E-commerce
+### 电子商务, 电商 E-commerce
 
 |                                                        |
 | ------------------------------------------------------ |
 | SKU Agency [u](https://www.youtube.com/@skuagency)     |
 | 运营知竹 [u](https://www.youtube.com/@WeChat-TDX52588) 拼多多 |
+| 优客吧 [u](https://www.youtube.com/@yoke8/playlists) 营销   |
+|                                                        |
 |                                                        |
 
 ### FineBI

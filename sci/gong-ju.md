@@ -44,12 +44,12 @@
 
 ### 其他导航
 
-|                                                                                                   |                                                                 |                                    |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------- |
-| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/)                                | Cilici[li](https://cilicili.cn/)   |
-| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)                                  | 好例子网 [s](https://www.haolizi.net/) |
-| 115综合资源网 [s](https://www.smk115.net/)                                                             | 十大导航网站排行榜 [v](https://www.douyin.com/video/7235648127674469670) |                                    |
-|                                                                                                   |                                                                 |                                    |
+|                                                                                                   |                                                                 |                                      |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------ |
+| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/)                                | Cilici[li](https://cilicili.cn/)     |
+| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)                                  | 好例子网 [s](https://www.haolizi.net/)   |
+| 115综合资源网 [s](https://www.smk115.net/)                                                             | 十大导航网站排行榜 [v](https://www.douyin.com/video/7235648127674469670) | 资源猫 [s](https://www.ziyuanmaow.com/) |
+|                                                                                                   |                                                                 |                                      |
 
 ### 安卓模拟器, emulator
 

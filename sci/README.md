@@ -62,11 +62,19 @@ description: 推动世界前进
 | 教育百科 [s](http://pedia.cloud.edu.tw/)     |   |
 | 超理论坛 [s](https://chaoli.club/index.php/) |   |
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| 科学到底如何产生的？ [思想史万有引力](https://www.youtube.com/watch?v=uhWWwCEZH8A)                                        |
-| 李永乐老师品书 \| 《从一到无穷大》精读 [百科研习社](https://www.youtube.com/playlist?list=PLB\_aVIzLNrvaTMdfLp403IoC6AI4JAJEB) |
-|                                                                                                          |
+|                                                                   |
+| ----------------------------------------------------------------- |
+| 科学到底如何产生的？ [思想史万有引力](https://www.youtube.com/watch?v=uhWWwCEZH8A) |
+|                                                                   |
+|                                                                   |
+
+| 从一到无穷大                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------- |
+| 李永乐老师品书 \| 《从一到无穷大》精读 [百科研习社](https://www.youtube.com/playlist?list=PLB\_aVIzLNrvaTMdfLp403IoC6AI4JAJEB)             |
+| 《从一到无穷大》One Two Three... Infinity [洞深世界](https://www.youtube.com/playlist?list=PL\_EewNnBUv5Woi-q3IGYv9d08RkyfL1Hg)  |
+| 听一本书｜《从一到无穷大》从四维空间到时空弯曲，用数学解答全宇宙｜#听一本书 #从一到无穷大 #读书 #有声书 [听一本书 · 精读世界名著](https://www.youtube.com/watch?v=hpMQmB29TcQ) |
+|                                                                                                                      |
+|                                                                                                                      |
 
 ## 考研
 

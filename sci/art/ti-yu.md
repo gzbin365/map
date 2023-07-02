@@ -42,7 +42,7 @@
 |                                                                                                                               |                                                  |                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | 悟能象棋 抖音号：[wunengxq](https://www.douyin.com/user/MS4wLjABAAAA3gCKF7Qi6yKqPGvdDhHFTv-eLjrffl3s5bD6j1kAOoVSxk32EuJWT-jEM8IaTrt1) | 四郎讲棋 [u](https://www.youtube.com/@SiLangjiangqi) | 万千象棋对弈棋局(象棋棋局) [Pronounce Word](https://www.youtube.com/playlist?list=PLCDAtQ4XMAGwTQ9p78B78jWTw6\_TArDoj) |
-|                                                                                                                               |                                                  |                                                                                                            |
+| 赵奕帆象棋教学 [u](https://www.youtube.com/@user-zj3es7jm2n)                                                                         |                                                  |                                                                                                            |
 |                                                                                                                               |                                                  |                                                                                                            |
 
 ## 武术
