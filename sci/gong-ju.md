@@ -125,10 +125,13 @@
 | 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
 | 真白嫖！免费申请 office E5 开发者账号，送5T私人网盘，附无限续期的教程！\| [零度解说](https://www.youtube.com/watch?v=eamiBQpzbrQ)                               |
 
-|                                |                                  |
-| ------------------------------ | -------------------------------- |
-| [城通网盘](https://www.ctfile.com) | [123云盘](https://www.123pan.com/) |
-| [夸克网盘](https://pan.quark.cn/)  | [蓝奏云](https://www.lanzouh.com/)  |
+|                                    |                                  |
+| ---------------------------------- | -------------------------------- |
+| [城通网盘](https://www.ctfile.com)     | [123云盘](https://www.123pan.com/) |
+| [夸克网盘](https://pan.quark.cn/)      | [蓝奏云](https://www.lanzouh.com/)  |
+| [小飞机网盘](https://www.feijipan.com/) | 115                              |
+| mega                               | bdy                              |
+| jianguo                            | aliyun                           |
 
 | 谷歌搜索技巧                                                                                    |
 | ----------------------------------------------------------------------------------------- |

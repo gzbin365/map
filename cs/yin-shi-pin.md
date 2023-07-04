@@ -28,11 +28,11 @@
 | Mac中最好用的视频播放器？[zh](https://www.zhihu.com/question/404879728/answer/2088549614) |
 |                                                                                |
 
-| windows播放器 |
-| ---------- |
-| potplayer  |
-|            |
-|            |
+| windows播放器                                 |
+| ------------------------------------------ |
+| potplayer [s](https://potplayer.daum.net/) |
+|                                            |
+|                                            |
 
 | android播放器 |
 | ---------- |

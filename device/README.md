@@ -430,7 +430,7 @@ description: 硬件设备
 | 贝贝享飞无人机 [u](https://www.youtube.com/@gymnast95630)                                                                             |                                                                                                                 |
 |                                                                                                                                |                                                                                                                 |
 
-***
+
 
 |                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -922,6 +922,8 @@ System on Chip, 系统级芯片
 | AR/VR [Harvard Innovation Labs](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp2v4xOC-wSkK1GPZ8JuZ6an)                                                                   |
 | Why Apple’s Vision Pro is the Next iPhone (Analysis) [ColdFusion](https://www.youtube.com/watch?v=l5qU2Yrq\_mc)                                                             |
 | 你想知道的VR秘密 [平平的3CVR分享基地Ping's Channel](https://www.youtube.com/playlist?list=PLFUb\_pk0vUygCCsKO92HWbDrgUC4nuWBU)                                                            |
+| 手机马上被淘汰？彻底了解 Vision Pro [FView Official Channel](https://www.youtube.com/watch?v=DmJWIqtCyCE)                                                                               |
+|                                                                                                                                                                             |
 |                                                                                                                                                                             |
 
 ### AR增强现实
