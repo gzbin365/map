@@ -120,6 +120,12 @@ description: 自然语言处理
 |                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                      |
 
+| LayoutTransformer, Layout Generation                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LayoutTransformer: Layout Generation and Completion with Self-attention                                                                                                            |
+| [arxiv](https://arxiv.org/abs/2006.14615) [pdf](https://arxiv.org/pdf/2006.14615.pdf) [s](https://kampta.github.io/layout/) [code](https://github.com/kampta/DeepLayout)DeepLayout |
+|                                                                                                                                                                                    |
+
 #### Hugging Face
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
