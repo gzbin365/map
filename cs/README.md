@@ -109,13 +109,13 @@ aws-samples [git](https://github.com/aws-samples)
 
 Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSDlnrNJ\_ERqTAkIe21xyRhi)
 
-Complete END to END Azure DevOps Tutorials Series with Practical's \[ Full Course in 4 Hours ] [DevOps Mela](https://www.youtube.com/watch?v=7YMWthE6RTY)
 
-Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=V53AHWun17s)
 
-Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
-AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)
+
+
+
+
 
 最新白嫖免费VPS，为永久免费的CDN做准备，详细讲解AWS亚马逊云的申请流程及反薅注意事项，免费一年的EC2和三个月的光帆(lightsail)，告别申请玄学的甲骨文云免费VPS [不良林](https://www.youtube.com/watch?v=GXIVvAEGP6w)
 
@@ -124,6 +124,10 @@ AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtu
 Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) [DevOps Directive](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
 
+
+
+
+Migration Hub 策略建议 [docs.aws.amazon](https://docs.aws.amazon.com/zh\_cn/migrationhub-strategy/latest/userguide/what-is-mhub-strategy.html)
 
 </details>
 
@@ -155,11 +159,13 @@ Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)
 
 ### 甲骨文 Oracle
 
-|                                                                                                               |   |
-| ------------------------------------------------------------------------------------------------------------- | - |
-| 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), ) |   |
-|                                                                                                               |   |
-|                                                                                                               |   |
+|                                                                                                               |                              |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 甲骨文oracleVPS([s](https://www.oracle.com/cn/cloud/free/), [v](https://www.youtube.com/watch?v=cNL8\_4uUnGw), ) | [s](https://www.oracle.com/) |
+| [blogs.oracle](https://blogs.oracle.com/)                                                                     |                              |
+| [developer](https://developer.oracle.com/).oracle                                                             |                              |
+|                                                                                                               |                              |
+|                                                                                                               |                              |
 
 |                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------- |
@@ -192,7 +198,12 @@ International Business Machine IBM 美国国际商用机器公司
 | Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=P3qmqUZJ7l0)                                                                      |
 | 免费申请 microsoft 365 E5 账号 可开25个号 每个号OneDrive5t空间 无限续期 永久使用 [科技lion](https://www.youtube.com/watch?v=4NmPlEf4FTk)                                                                                                |
 | CloudCasts - Alan Smith [u](https://www.youtube.com/@CloudCastsAlanSmith/playlists)                                                                                                                            |
-|                                                                                                                                                                                                                |
+| Complete END to END Azure DevOps Tutorials Series with Practical's \[ Full Course in 4 Hours ] [DevOps Mela](https://www.youtube.com/watch?v=7YMWthE6RTY)                                                      |
+| Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=V53AHWun17s)                                                               |
+| Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam [freeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)                                                                          |
+| AZ 104 Azure Administrator training course [TechDirectArchive](https://www.youtube.com/watch?v=S69w6fqETeY)                                                                                                    |
+| Azure Stack 文档 [learn.microsoft](https://learn.microsoft.com/zh-cn/azure-stack/?view=azs-2301)                                                                                                                 |
+| Azure Stack Hub 用户文档 [learn.microsoft](https://learn.microsoft.com/zh-cn/azure-stack/user/?view=azs-2301)                                                                                                      |
 |                                                                                                                                                                                                                |
 
 #### office

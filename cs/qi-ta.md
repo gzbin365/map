@@ -1006,7 +1006,8 @@
 | 将windows装到口袋里（[上](https://www.youtube.com/watch?v=M5gHpm-pzgY)）--- Windows To Go的制作 Cool Play 萝卜头                                                                                                                                  |
 |                                                                                                                                                                                                                                    |
 | 系统还可以安装进VHD文件里？是的，一键恢复不怕中病毒还能随身携带 [趣科技分享](https://www.youtube.com/watch?v=hmSIuKIR2Ds)                                                                                                                                             |
-|                                                                                                                                                                                                                                    |
+| 低速U盘安装WinToGo方法 [s](http://bbs.wuyou.net/forum.php?mod=viewthread\&action=printable\&tid=379255)                                                                                                                                   |
+| <p>WTG辅助工具高级选项说明（2020.5.27更新）<a href="https://bbs.luobotou.org/thread-6098-1-1.html">萝卜头IT论坛</a></p><p>Windows To Go优盘系统 <a href="https://bbs.luobotou.org/forum-88-1.html">萝卜头IT论坛</a></p>                                        |
 |                                                                                                                                                                                                                                    |
 
 | UtraISO                                                                                                        |
@@ -1014,6 +1015,20 @@
 | 双击 继续试用 文件 打开 (选择iso, 等待加载完成) 启动 写入硬盘(管理员) 选择u盘 写入                                                             |
 | U盘装系统系列之U盘启动盘制作篇(UtraISO) [小胖软件学堂](https://www.youtube.com/watch?v=QhBrcm1mDp8)                                |
 | 电脑设置U盘启动，只需简单几步！Boot from USB Drive Step-by-Step [写代码的会计1CodeAcc](https://www.youtube.com/watch?v=qK9WXQQosgU) |
+
+## VHD, VHDx, VHD(x)
+
+|                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Windows的Native VHD Boot [s](https://fadeer.github.io/%E5%B7%A5%E4%BD%9C/2015/07/23/windows-native-vhd-boot.html)                                                                           |
+| 我这样部署vhd系统(附vhd启动模板) [无忧启动](http://bbs.c3.wuyou.net/forum.php?mod=viewthread\&tid=419844)                                                                                                  |
+| 利用vhdx（虚拟硬盘）安装多系统 [toutiao](https://www.toutiao.com/article/7024039807122981406/)                                                                                                          |
+| VHD系统区 [无忧启动论坛](http://bbs.wuyou.net/forum.php?mod=forumdisplay\&fid=69)                                                                                                                   |
+| Download a Windows VHD from Azure [learn.microsoft](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/download-vhd?tabs=azure-portal)                                       |
+| <p>更改VHD虚拟磁盘容量（VHD扩容）<a href="https://bbs.luobotou.org/thread-6484-1-1.html">萝卜头IT论坛</a></p><p>[教程] VHD/VHDX常见问题解答 <a href="https://bbs.luobotou.org/thread-5964-1-1.html">萝卜头IT论坛</a></p> |
+| 下载 VHD/VHDX hub?                                                                                                                                                                           |
+|                                                                                                                                                                                            |
+|                                                                                                                                                                                            |
 
 ## Batocera
 
