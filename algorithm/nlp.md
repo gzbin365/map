@@ -1071,11 +1071,11 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 大型语言模型 LLMs
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 【人工智能】开源多模态大语言模型哪家强？\| TOP 12 排行榜 \| 2个大类14个子任务 \| BLIP2 \| MiniGPT4 [最佳拍档](https://www.youtube.com/watch?v=jMVzOgp5f5k) |
+|                                                                                                                          |
+|                                                                                                                          |
 
 ### 因果推断 Causal Inference
 
