@@ -15,12 +15,12 @@
 
 ## 播放器
 
-| linux播放器                                           |
-| -------------------------------------------------- |
-| mpv                                                |
-| Celluloid [s](https://celluloid-player.github.io/) |
-| vlc                                                |
-|                                                    |
+| linux播放器                                                                                          |
+| ------------------------------------------------------------------------------------------------- |
+| mpv [s](https://mpv.io/) [doc](https://hooke007.github.io/official\_man/mpv.html) Linux 下的极简视频播放器 |
+| Celluloid [s](https://celluloid-player.github.io/)                                                |
+| vlc                                                                                               |
+|                                                                                                   |
 
 | mac播放器                                                                         |
 | ------------------------------------------------------------------------------ |

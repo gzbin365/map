@@ -7,7 +7,7 @@ description: Self-Driving
 |                                                                              |                                                       |                                                                                                                                     |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Tesla [s](https://www.tesla.com/) [git](https://github.com/teslamotors)      | Tesla Daily [u](https://www.youtube.com/c/TeslaDaily) | 小明说驾车 抖音号：[42596461288](https://www.douyin.com/user/MS4wLjABAAAA8LjfXSjKmfUX\_eTiM7cMNAC-58rENiuYnsSMUvsRhrK4JB2ocI9Q\_5twofZF6OoP) |
-| Mr. Automotive [u](https://www.youtube.com/channel/UCG8omlanQc2vk74ctSXFBiQ) | Yosh [u](https://www.youtube.com/@yosh6033)           |                                                                                                                                     |
+| Mr. Automotive [u](https://www.youtube.com/channel/UCG8omlanQc2vk74ctSXFBiQ) | Yosh [u](https://www.youtube.com/@yosh6033)           | Life of Wayne [u](https://www.youtube.com/watch?v=i9m5E41dCGY)                                                                      |
 |                                                                              |                                                       |                                                                                                                                     |
 
 |                                                                                                                                                                                                    |
@@ -19,7 +19,7 @@ description: Self-Driving
 | [comma ai \| George Hotz \| Do openpilot tools work? Let's find out! \| github.com/commaai](https://www.youtube.com/watch?v=ixfAdv9sL30)                                                           |
 | **Self-Driving Cars Lectures** [**Lex Fridman**](https://www.youtube.com/playlist?list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq)                                                                         |
 | Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) [freeCodeCamp](https://www.youtube.com/watch?v=cPOtULagNnI)                                                            |
-| Life of Wayne [u](https://www.youtube.com/watch?v=i9m5E41dCGY)                                                                                                                                     |
+|                                                                                                                                                                                                    |
 | 純視覺不靠譜？你能聽懂的特斯拉人工智能自動駕駛解密上集！全網最細緻！TESLA AI DAY EXPLAINED [Life of Wayne](https://www.youtube.com/watch?v=-0i\_Gc83vSE)                                                                             |
 | waymo的自动驾驶系统与特斯拉有啥不一样？ [基地](https://www.youtube.com/watch?v=FAy-cxPZnc0)                                                                                                                           |
 | 现在的自动驾驶发展到啥程度了呢？[基地](https://www.youtube.com/watch?v=XfIFRj0I-j0)                                                                                                                                  |
