@@ -468,7 +468,7 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 |                                                                            |                                                                                                                                      |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Freya Holmér [u](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA) | 太阳鸽鸽 抖音号：[taiyanggegebang](https://www.douyin.com/user/MS4wLjABAAAAc3YEQjp7hQOpeYnBme6TSTnbsyByeE1nQnsHH08wEdDdzXwzGRKr5mFhMONANdHx) |
-| Catsuka [u](https://www.youtube.com/@CatsukaDotCom)                        |                                                                                                                                      |
+| Catsuka [u](https://www.youtube.com/@CatsukaDotCom)                        | Alan Becker [u](https://www.youtube.com/@alanbecker) [v](https://www.youtube.com/watch?v=B1J6Ou4q8vE)                                |
 |                                                                            |                                                                                                                                      |
 
 |                                                                                                                      |
