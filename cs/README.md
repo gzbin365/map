@@ -123,7 +123,7 @@ Serverless Rest API using AWS and Python [Indian Pythonista](https://www.youtube
 
 Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) [DevOps Directive](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
-
+Learn Terraform with Google Cloud Platform – Infrastructure as Code Course [freeCodeCamp](https://www.youtube.com/watch?v=VCayKl82Lt8)
 
 
 

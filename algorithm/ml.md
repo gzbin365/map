@@ -581,7 +581,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 |                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                       |
 
-
+***
 
 ### DL
 
@@ -817,11 +817,11 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 
 #### 决策树
 
-|                                                                                                                       |   |   |
-| --------------------------------------------------------------------------------------------------------------------- | - | - |
-| Decision Tree Classification Algorithm in Telugu [CSE & IT Tutorials 4u](https://www.youtube.com/watch?v=ixHKRC4c2jk) |   |   |
-| 剪支 pruning                                                                                                            |   |   |
-|                                                                                                                       |   |   |
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| Decision Tree Classification Algorithm in Telugu [CSE & IT Tutorials 4u](https://www.youtube.com/watch?v=ixHKRC4c2jk) |
+| 剪支 pruning                                                                                                            |
+|                                                                                                                       |
 
 #### 随机森林 Random Forests
 
@@ -832,6 +832,8 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | 算法：随机森林与集成算法 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhZuhR-QwjHYzNHhnAWNWKsu)                         |
 | 一套完整的基于随机森林的机器学习流程（特征选择、交叉验证、模型评估））[生信宝典](https://mp.weixin.qq.com/s/SNXp5\_6zWKarbbcG5GXIfA)                          |
 | Random Forest Algorithm Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=v6VJ2RO66Ag)              |
+| How Do Random Forests Work & What is Ensemble Learning [NeuralNine](https://www.youtube.com/watch?v=Wj3qfSyRHys)       |
+|                                                                                                                        |
 
 #### MLP
 
@@ -1201,7 +1203,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 |                                                                                                                                   |
 |                                                                                                                                   |
 
-### 集成学习 Ensemble
+### 集成学习 Ensemble Learning
 
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
@@ -1215,7 +1217,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 并行化方法 Bagging   Random Forest\*   Random Subspace                                                                         |
 | E = E' - A', diversity is A'                                                                                              |
 | 圣杯 "What is diversity" remains the holy grail problem of ensemble learning                                                |
-|                                                                                                                           |
+| How Do Random Forests Work & What is Ensemble Learning [NeuralNine](https://www.youtube.com/watch?v=Wj3qfSyRHys)          |
 |                                                                                                                           |
 
 ### 多任务学习 Multi-task learning
