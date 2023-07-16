@@ -6,6 +6,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)                                                                      |
 | TIOBE编程社区指数（TIOBE programming community index）是一种衡量编程语言流行度的标准，由成立于2000年10月位于荷兰埃因霍温的TIOBE Software BV创建和维护。 该指数是根据网络搜索引擎对含有该语言名称的查询结果的数量计算出来的。 |
+|                                                                                                                                               |
 
 ## Mojo
 
@@ -661,7 +662,10 @@
 | KVM+显卡直通（passthrough）[csdn](https://blog.csdn.net/a985588764/article/details/108882354)                                                                                                                                |
 | 桌面PC中如何在虚拟机中调用独立显卡工作？[zh](https://www.zhihu.com/question/26656622)                                                                                                                                                     |
 | Ubuntu20.04、kvm、nvidia显卡直通虚拟机 [51cto](https://blog.51cto.com/u\_14204744/5418824)                                                                                                                                      |
-| 地狱难度！游戏本也可用！虚拟机显卡直通，终于骗过了Windows和英伟达，又能愉快的糖豆人了 [飞蚊话](https://www.bilibili.com/video/BV1ff4y1q7fA/?vd\_source=11c56ae1eb9c057dd925712a9c7d022c)                                                                         |
+| 地狱难度！游戏本也可用！虚拟机显卡直通，终于骗过了Windows和英伟达，又能愉快的糖豆人了 [飞蚊话](https://www.bilibili.com/video/BV1ff4y1q7fA/?vd\_source=11c56ae1eb9c057dd925712a9c7d022c) 核显直连                                                                    |
+| KVM显卡直通最新最简单最全面教程，支持A卡，N卡一键安装，无需核显！[阿莫洗落衣](https://www.bilibili.com/video/BV1gh4y1g7Aw)                                                                                                                                |
+| Install KVM on Ubuntu 20.04 [Herbertech](https://www.youtube.com/watch?v=LQuxJxfMd6w)                                                                                                                                  |
+|                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                        |
 
 | Parallels                       |
@@ -821,6 +825,11 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | 如何优雅的使用WSL [把布丢](https://www.youtube.com/watch?v=\_iZoam5P\_DA)                                                                                                                                                                    |
 | <p>WSL Documentation <a href="https://learn.microsoft.com/en-us/windows/wsl/">learn.microsoft</a></p><p>Windows Subsystem for Linux Documentation</p>                                                                              |
 | Troubleshooting Windows Subsystem for Linux [learn.microsoft](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting#error-0x80370102-the-virtual-machine-could-not-be-started-because-a-required-feature-is-not-installed) |
+| 使用 WSL 在 Windows 上安装 Linux [learn.microsoft](https://learn.microsoft.com/zh-cn/windows/wsl/install)                                                                                                                                |
+| microsoft/[WSL](https://github.com/microsoft/WSL) [doc](https://learn.microsoft.com/zh-cn/windows/wsl/) 适用于 Linux 的 Windows 子系统文档                                                                                                  |
+| Using Windows Subsystem for Linux v2 [John Savill's Technical Training](https://www.youtube.com/watch?v=RTv7G79YYPU)                                                                                                               |
+| Using VirtualBox and WSL2 side by side [Abstract programmer](https://www.youtube.com/watch?v=DONvxwbWrrQ)                                                                                                                          |
+|                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                    |
 
