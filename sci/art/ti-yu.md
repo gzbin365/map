@@ -52,6 +52,7 @@
 | 《局面》經典節目:王局專訪太極掌門馬保國; [王志安](https://www.youtube.com/watch?v=ZapTCgZzVec)                                                                     |
 | 龙泉市登峰剑铺 抖音号：[46808004018](https://www.douyin.com/user/MS4wLjABAAAAJTA5Y-YeMYTCWZsPy\_siPcV5Xndod8zg8vtpG5Ul7JDIWKrl0eMw5IFQMFmeocIO)         |
 | 陈鹤皋（生命极危时刻反击术） 抖音号：[ChenHeGao1962](https://www.douyin.com/user/MS4wLjABAAAA0iMKYNByLzSKRcZm6AGQwLM9F3CORnBgZwbRwC3gPmp-l0bp9pS3Xpb1AJLNXEZ6) |
+| 一战成名-功夫 抖音号：[xsc1193185075](https://www.douyin.com/user/MS4wLjABAAAA485FJEA9C\_fRX6gHwhjVc9pqsqqciNOa9KghErfLLUM)                            |
 
 ## 乒乓球
 

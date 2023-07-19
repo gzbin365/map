@@ -1344,16 +1344,16 @@ Probabilistic Graphical Models, Spring 2018 [Scientific Computing and Artificial
 | <p>分析一 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhUqtKbZf0LIFKd-xN__g_M">臺大科學教育發展中心CASE</a></p><p>分析二 - 臺大數學系 齊震宇 教授 <a href="https://www.youtube.com/playlist?list=PLil-R4o6jmGhkuZPmKL_A5Y7N4HOsa1nX">臺大科學教育發展中心CASE</a></p> |
 | Ordinary Differential Equations [Maths Partner](https://www.youtube.com/playlist?list=PLg5nrpKdkk2A4QPqYXA-Fj1siYgTXexNz)                                                                                                                                      |
 | Solve ODEs in Excel and Python [APMonitor.com](https://www.youtube.com/watch?v=7TbwDrZ3kAg)                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                |
+| Matlab\_解ODE [Ryan Lin](https://www.youtube.com/watch?v=fJM9CKvFT6Y)                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                |
 
 ### 随机微分方程
 
-|                                                                                                                          |                                                                                                                              |   |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | - |
-| 概率统计与随机微分方程，经济金融入门 [万门大学](https://www.youtube.com/watch?v=iOqjVHdYJfY\&list=PL5FZj2uqddd17jbmr-u1DgtS0ADBpBcPN\&index=8) | 15 2 随机微分方程和偏微分方程转换 [AI量化交易](https://www.youtube.com/watch?v=1vyQdazyXcM\&list=PL8XnX0hzN2HKKpYd2h1obeyXNGNyMBOaw\&index=87) |   |
-|                                                                                                                          |                                                                                                                              |   |
-|                                                                                                                          |                                                                                                                              |   |
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| 概率统计与随机微分方程，经济金融入门 [万门大学](https://www.youtube.com/watch?v=iOqjVHdYJfY\&list=PL5FZj2uqddd17jbmr-u1DgtS0ADBpBcPN\&index=8)     |
+| 15 2 随机微分方程和偏微分方程转换 [AI量化交易](https://www.youtube.com/watch?v=1vyQdazyXcM\&list=PL8XnX0hzN2HKKpYd2h1obeyXNGNyMBOaw\&index=87) |
+|                                                                                                                              |
 
 ### 拉普拉斯变换 Laplace Transform
 

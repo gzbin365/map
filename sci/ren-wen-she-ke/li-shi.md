@@ -13,6 +13,7 @@ description: History
 | Stefan Milo [u](https://www.youtube.com/@StefanMilo/videos)                                                              | History of the Earth [u](https://www.youtube.com/@HistoryoftheEarth)                                                                |
 | HISTORY [u](https://www.youtube.com/@HISTORY)                                                                            | Naked Science [u](https://www.youtube.com/@NakedScience)                                                                            |
 | Doreen历史教学 [u](https://www.youtube.com/@doreen5984)                                                                      | 張漁頑聊歷史 [u](https://www.youtube.com/@zhangyuwanliaolishi)                                                                            |
+| 逸明荒野探墓 抖音号：[lym1748](https://www.douyin.com/user/MS4wLjABAAAAxr8FpwOPQHL5-5A2RRi6Hhuw\_J37cJcXreFtsQtbs00)               |                                                                                                                                     |
 |                                                                                                                          |                                                                                                                                     |
 
 
