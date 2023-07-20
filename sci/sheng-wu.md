@@ -10,6 +10,8 @@ description: 好好睡觉 好好干饭
 | 无穷小亮的科普日常 抖音号： [wuqiongxiaoliang](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2\_neQsQy\_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca) | European Bioinformatics Institute - EMBL-EBI [u](https://www.youtube.com/@EMBL-EBI) 欧洲生物信息学研究所 - EMBL-EBI        |
 |                                                                                                                                               |                                                                                                                  |
 
+
+
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
 | BioTech Whisperer [u](https://www.youtube.com/@biotechwhisperer) 一群退休教授，他们通过简短的视频分享我们的知识              |
@@ -37,6 +39,8 @@ description: 好好睡觉 好好干饭
 | MIT Deep Learning in Life Sciences - Spring 2021 [Manolis Kellis](https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)                                                                                                                                                                                |
 | <p>生命科学(Life Sciences)是一门综合性科学，研究生命现象及其相关现象的基础和应用问题，包括生物学、生物化学、分子生物学、遗传学、微生物学、生态学、生物信息学等多个学科。生命科学涉及的研究领域非常广泛，包括从单细胞生物到多细胞生物，从分子水平到生态系统水平的各种生物现象。其研究内容包括生命的起源、生命的进化、生物的结构与功能、生物的遗传与表达、生物的生长和发育、生物的代谢与调控、生物的繁殖和遗传等。</p><p>生命科学在医学、农业、环境、能源、材料等领域有着广泛的应用，例如生命科学的研究可以帮助我们理解人类疾病的发生机制，提高粮食作物的产量和品质，解决环境污染问题，开发新型生物能源和生物材料等。</p> |
 | <p>北京大学__生物学概念与途径 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6rDx4nWwvsuu3iO08d4GvU">知识资源世界(KnowledgeWorld)</a></p><p>北京大学__生物化学实验 <a href="https://www.youtube.com/playlist?list=PLoEWjLHPG6Z7HWfAv3Ug67F2IktHghMeP">知识资源世界(KnowledgeWorld)</a></p>                                                       |
+| 人類滅絕的一種可能性，人造生命已經誕生 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=sNE2sHjg-XU)                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                            |
 
 ### 基因
