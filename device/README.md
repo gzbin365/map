@@ -1558,6 +1558,14 @@ rode podmic 880   RODE Wireless GO II 3000   舒尔SM58   KMS 105
 | lazboy 15000+                                                                                        |
 |                                                                                                      |
 
+### 床
+
+|        |
+| ------ |
+| 舒福德智能床 |
+|        |
+|        |
+
 ## 维修
 
 |                                                                                                              |                                                                      |

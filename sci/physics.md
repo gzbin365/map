@@ -234,7 +234,7 @@ CFD（Computational Fluid Dynamics）计算流体力学
 | MIT 16.687 Private Pilot Ground School, IAP 2019 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)                                                                                                         |
 | <p>Aerodynamics <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumydi4tiofayriGGjK-XiEsUY">BYU FLOW Lab</a></p><p>Flight Vehicle Design <a href="https://www.youtube.com/playlist?list=PLj6pNSgoumye-ZP-kRBWzC-jhNMFm2O-d">BYU FLOW Lab</a></p> |
 | FluidX3D [v](https://www.youtube.com/watch?v=-nb\_DZAH-TM)                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                         |
+| 一百多年没搞懂原理，飞机能飞为什么是未解之谜？[量子位](https://www.youtube.com/watch?v=gLNL89cRKLY)                                                                                                                                                                               |
 
 ## 分子动力学
 
