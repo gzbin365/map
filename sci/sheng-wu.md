@@ -8,6 +8,7 @@ description: 好好睡觉 好好干饭
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 一粒小米 抖音号： [Fmo827](https://www.douyin.com/user/MS4wLjABAAAAZhohR1ukACKQcgiJ7\_jAN7vktsGvOqL6hjz8dVhCWw8)                                      | 鹅膏哥（蘑菇分类学专业） 抖音号： [egaoge](https://www.douyin.com/user/MS4wLjABAAAAzrWWaCi4b3dBc\_vNawn-CZIHyE4RBcesCZGEz9Vx29s) |
 | 无穷小亮的科普日常 抖音号： [wuqiongxiaoliang](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2\_neQsQy\_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca) | European Bioinformatics Institute - EMBL-EBI [u](https://www.youtube.com/@EMBL-EBI) 欧洲生物信息学研究所 - EMBL-EBI        |
+| Nat Geo WILD [u](https://www.youtube.com/@NatGeoWild) 国家地理野生动物                                                                                |                                                                                                                  |
 |                                                                                                                                               |                                                                                                                  |
 
 
@@ -73,11 +74,12 @@ description: 好好睡觉 好好干饭
 
 ### 植物
 
-|                                                                                                                                     |                                                                                                                                    |   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | - |
-| 水果猎人杨晓洋 抖音号：[81549622105](https://www.douyin.com/user/MS4wLjABAAAAvVwfkKT3Fn8soFrqSffBPTcJK83m0nfmxbmgCF8kOPhWsPPoX2OQziJh23lMQ1pf) | 农大高同学 抖音号：[24974551914](https://www.douyin.com/user/MS4wLjABAAAAQ\_VPSLfnLkyeWXxrlf7tIg1BlsLGnNHq8NhehTfT2jMJxspMKJ3Y6md39GNsfV6D) |   |
-|                                                                                                                                     |                                                                                                                                    |   |
-|                                                                                                                                     |                                                                                                                                    |   |
+|                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| 水果猎人杨晓洋 抖音号：[81549622105](https://www.douyin.com/user/MS4wLjABAAAAvVwfkKT3Fn8soFrqSffBPTcJK83m0nfmxbmgCF8kOPhWsPPoX2OQziJh23lMQ1pf) |
+| 中国三农发布 抖音号：[3nongntv](https://www.douyin.com/user/MS4wLjABAAAABkg9gDA2R2mrf6ndY8j9m9mlMNPOrljOkaszc6Y554pRBzfciTSvY3j1k4If5-F2)     |
+| 农大高同学 抖音号：[24974551914](https://www.douyin.com/user/MS4wLjABAAAAQ\_VPSLfnLkyeWXxrlf7tIg1BlsLGnNHq8NhehTfT2jMJxspMKJ3Y6md39GNsfV6D)  |
+|                                                                                                                                     |
 
 ### 动物
 
@@ -111,6 +113,10 @@ description: 好好睡觉 好好干饭
 | 萌宠指南  抖音号： [RHB66666666](https://www.douyin.com/user/MS4wLjABAAAAXuuG4sLLmJAu6uUBAApRtLLHgakH2e813Hkqs1QXlSg)                      | 豫西小丁 抖音号：[95483957](https://www.douyin.com/user/MS4wLjABAAAApXxfOBJPo-iatSMng6rRvdXXD03rAZjJhWasdNvUfOA) |
 | 从城中村出发 抖音号：[cczccf13223](https://www.douyin.com/user/MS4wLjABAAAAdWQlUU6bYLzU2IWq7zWh2QHQNd1CvRVAGGq8EmKj4lFyIbKHlCW9UiPMk5iXjuiT) | 何山爱龟说 抖音号：[hsags](https://www.douyin.com/user/MS4wLjABAAAATpZGUrvlHNwNO2tTjoU9UYdOO2LaxV6r5kZsuXEOvl8)   |
 |                                                                                                                                    |                                                                                                          |
+
+## 古生物
+
+
 
 ## Biomimicry 仿生学
 
