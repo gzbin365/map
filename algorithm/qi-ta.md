@@ -26,6 +26,14 @@ Coding Challenge #10.1: Maze Generator with p5.js - Part 1 [The Coding Train](ht
 | Python Sudoku Solver - [Computerphile](https://www.youtube.com/watch?v=G\_UYXzGuqvM)                                         |
 |                                                                                                                              |
 
+## 数据压缩 Data Compression
+
+|                                                                                                  |
+| ------------------------------------------------------------------------------------------------ |
+| Data Compression Algorithms in Python [NeuralNine](https://www.youtube.com/watch?v=pRhtjx0dw\_k) |
+|                                                                                                  |
+|                                                                                                  |
+
 ## 智商测试
 
 |                                                                                             |

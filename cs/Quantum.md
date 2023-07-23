@@ -21,3 +21,8 @@ A beginner's guide to quantum computing | Shohini Ghose [TED](https://www.youtub
 Superposition in Quantum Computers - [Computerphile](https://www.youtube.com/watch?v=kv-YXKRUheQ)
 
 Quantum Programming - Part 1 [New Mind](https://www.youtube.com/watch?v=2Eswqed8agg)
+
+谷歌确认量子霸权，它是怎么实现的？@微信时刻@微信创作者#谷歌#量子计算机#量子霸权#硅谷#黑科技 [斯坦福机器人庞博士Leo](https://www.douyin.com/video/7252580926532635938)
+
+
+

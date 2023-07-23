@@ -147,7 +147,7 @@ Voice Synthesis
 |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- |
 | AI Voice Synthesis [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsTiGp5Jc37XID9jS9SHKUV1) |
-|                                                                                                          |
+| ai实时变音，你的声卡能否一战！#人工智能 #aigc #有ai就有无限可能 #ai [AICK-KC](https://www.douyin.com/video/7249742859941776651)   |
 |                                                                                                          |
 
 ## **TTS  Text to Speech**
