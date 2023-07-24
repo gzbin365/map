@@ -322,7 +322,7 @@ import cv2
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Depix [git](https://github.com/beurtschipper/Depix) [v](https://www.douyin.com/video/7035174419454528781)                                                        |
+| Depix [git](https://github.com/beurtschipper/Depix) [v](https://www.douyin.com/video/7035174419454528781) [v](https://www.douyin.com/video/7258947267288255781)  |
 | 利用AI给黑白照片上色 [git](https://github.com/jwenjian/ghiblog/issues/96) [colourise](https://colourise.sg/)                                                              |
 | CodeFormer-GUI [v](https://www.youtube.com/watch?v=1TWydoqHcqA) 零度解说                                                                                             |
 | DeblurGAN [arxiv](https://arxiv.org/pdf/1711.07064.pdf) [git](https://github.com/RaphaelMeudec/deblur-gan) [git](https://github.com/KupynOrest/DeblurGAN) 除去运动模糊 |
@@ -366,7 +366,7 @@ import cv2
 | Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)   Squirrel Anime Enhance   [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y)   [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
 | xinntao/[ESRGAN](https://github.com/xinntao/ESRGAN)   Enhanced SRGAN                                                                                                                                                                                            |
 | <p>AI技術去除馬賽克，全民步兵時代已經來臨 <a href="https://www.youtube.com/watch?v=udN9m-Xw_pg">LSP开车</a> </p><p>CodeFormer JavPlayer JavPlayerfree(假) TecoGAN JavPlayer中文交流论坛 SD:BVPP模型</p>                                                                                      |
-|                                                                                                                                                                                                                                                                 |
+| 现在AI这么强，能去马赛克吗？#技术 #科技 #知识 #黑科技 #涨知识 [玄离199](https://www.douyin.com/video/7258947267288255781)                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                 |
 
 ## 以图搜图 Image similarity search
