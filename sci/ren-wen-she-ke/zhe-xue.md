@@ -2,6 +2,7 @@
 
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
+| 分类:哲学 [wiki](https://zh.wikipedia.org/zh-hans/Category:%E5%93%B2%E5%AD%A6)                             |
 | 思想道德修养与法律基础 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDyixmqoppuvNpQQoc6JgGi9)         |
 | 中国近现代史纲要\_北京大学 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDxpoMwnisy3nAC\_B8ZmpuuP)     |
 | 毛泽东思想和中国特色社会主义理论体系 [愛學習的小魚](https://www.youtube.com/playlist?list=PLQffpq8PoFDzZ3J9SGcGAlXfW5om\_sF-w) |

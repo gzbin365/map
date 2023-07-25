@@ -1,14 +1,15 @@
 # 人文社科
 
-|                                                                                 |                                                                     |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 蟹老板([u](https://www.youtube.com/channel/UCsEArwGh1-lMOuaV\_Bxpm7g/playlists), ) | Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists) |
+|                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 蟹老板([u](https://www.youtube.com/channel/UCsEArwGh1-lMOuaV\_Bxpm7g/playlists), )   Free Course [u](https://www.youtube.com/c/FreeCourseBLGX/playlists)   分类:人文学科 [wiki](https://zh.wikipedia.org/zh-hans/Category:%E4%BA%BA%E6%96%87%E5%AD%B8%E7%A7%91)   分类:社会科学 [wiki](https://zh.wikipedia.org/zh-hans/Category:%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6)    |
 
 ## 人类行为生物学
 
-|                                                                                                                     |   |
-| ------------------------------------------------------------------------------------------------------------------- | - |
-| Lecture Collection \| Human Behavioral Biology [Stanford](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) |   |
+|                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- |
+| Lecture Collection \| Human Behavioral Biology [Stanford](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) |
+|                                                                                                                     |
 
 ## 质性研究
 

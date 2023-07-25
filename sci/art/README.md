@@ -10,5 +10,6 @@
 | 意公子 [u](https://www.youtube.com/@EYart-yigongzi/playlists)                                                                                                                    |
 | 浙江文艺出版社 抖音号：[zhejiangwenyi](https://www.douyin.com/user/MS4wLjABAAAA798oPUUs6pf85yX3foN09gVASY02hoPlB85f9qYLBYtJvdDooGjocuDRegUjO9Lt)                                         |
 | MrBeast [u](https://www.youtube.com/@MrBeast)                                                                                                                                 |
+| 分类:艺术 [wiki](https://zh.wikipedia.org/zh-hans/Category:%E8%89%BA%E6%9C%AF)                                                                                                    |
 |                                                                                                                                                                               |
 |                                                                                                                                                                               |
