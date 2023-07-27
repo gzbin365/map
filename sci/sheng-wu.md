@@ -8,7 +8,7 @@ description: 好好睡觉 好好干饭
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 一粒小米 抖音号： [Fmo827](https://www.douyin.com/user/MS4wLjABAAAAZhohR1ukACKQcgiJ7\_jAN7vktsGvOqL6hjz8dVhCWw8)                                      | 鹅膏哥（蘑菇分类学专业） 抖音号： [egaoge](https://www.douyin.com/user/MS4wLjABAAAAzrWWaCi4b3dBc\_vNawn-CZIHyE4RBcesCZGEz9Vx29s) |
 | 无穷小亮的科普日常 抖音号： [wuqiongxiaoliang](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2\_neQsQy\_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca) | European Bioinformatics Institute - EMBL-EBI [u](https://www.youtube.com/@EMBL-EBI) 欧洲生物信息学研究所 - EMBL-EBI        |
-| Nat Geo WILD [u](https://www.youtube.com/@NatGeoWild) 国家地理野生动物                                                                                |                                                                                                                  |
+| Nat Geo WILD [u](https://www.youtube.com/@NatGeoWild) 国家地理野生动物                                                                                | 芳斯塔芙 [u](https://www.youtube.com/@Funstuff2018)                                                                  |
 |                                                                                                                                               |                                                                                                                  |
 
 
@@ -66,10 +66,13 @@ description: 好好睡觉 好好干饭
 | Neuroscience exploration [Artem Kirsanov](https://www.youtube.com/playlist?list=PLgtmMKe4spCMzkiVa4-eSHVk-N4SC8r9K)                   |
 | My Brain after 569 Leetcode Problems [NeetCode](https://www.youtube.com/watch?v=8wysIxzqgPI)                                          |
 | 了解 Neuroscience and Brain Research 神经科学和脑研究 (3 分钟微学习) ENG Subtitle [BioTech Whisperer](https://www.youtube.com/watch?v=W2N7\_mfZbIo)  |
+| 科学家如何暴力破解大脑的运作原理 [芳斯塔芙](https://www.youtube.com/watch?v=czGmYuvrBRU)                                                                  |
 |                                                                                                                                       |
 | 改善精神状态                                                                                                                                |
 | 你多久打不起精神了？你可能是慢性疲勞 [理科 Plus](https://www.youtube.com/watch?v=4PFr7e0GCVU)                                                             |
 | 脑力下降，反应迟钝？如何恢复大脑活力？ [鹏哥谈健康](https://www.youtube.com/watch?v=ThBuvQwO6mU)                                                              |
+|                                                                                                                                       |
+|                                                                                                                                       |
 |                                                                                                                                       |
 
 ### 植物

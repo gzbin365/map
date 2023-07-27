@@ -1122,6 +1122,23 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | AI Text Generation / LLMs [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsTRhLmGv8qSMdsUs7nC1\_tj)                                                                  |
 |                                                                                                                                                                                   |
 
+### 文本水印 文本检测
+
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 【人工智能】白宫联合七大AI巨头发起自愿承诺书 \| 如何对AI生成的内容添加水印 \| 马里兰大学论文解读 [最佳拍档](https://www.youtube.com/watch?v=GlaWDx8efps)                                 |
+| 【人工智能】用AI检测器来检测AI生成内容到底靠不靠谱 \| 《美国宪法》和《圣经》都是AI生成的？\| 困惑度和突发性指标 \| GPTZero \| AI生成数据有毒？ [最佳拍档](https://www.youtube.com/watch?v=0GrS3Edsm-4) |
+|                                                                                                                                            |
+|                                                                                                                                            |
+
+### 文本去水印 文本去马赛克
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
 ### 代码生成
 
 |                                                                                                                                                      |
