@@ -952,6 +952,7 @@ System on Chip, 系统级芯片
 | 电脑分区教程，使用Diskgenius随意调整分区大小 [把布丢](https://www.youtube.com/watch?v=dxVtlWM7JpI)                                                                                                             |
 | \[电脑の实用技能] 巧用分区工具 拯救飘红的C盘 自由调整分区大小 完成C盘扩容 DiskGenius教程 [GagleTV](https://www.youtube.com/watch?v=dnRhKHqgO3M)                                                                              |
 | Windows，Ubuntu，复古游戏机我都要，移动硬盘 All in one 2.0 [乌客](https://www.youtube.com/watch?v=4HztcRMKzLQ) in [list](https://www.youtube.com/playlist?list=PL-Qt8Y7EML7ueqRVlP8PX1wF7kVCX1TkQ) BATOCERA |
+|LVM（Logical Volume Manager）是Linux上的一种逻辑卷管理器，它提供了对存储设备的灵活管理和扩展功能。LVM 允许你将多个物理存储设备（硬盘或分区）组合成一个或多个逻辑卷，并且可以根据需要进行动态调整大小。|
 |                                                                                                                                                                                            |
 
 |                                                                                                                                                                      |
