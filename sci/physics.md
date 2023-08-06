@@ -147,6 +147,14 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 |                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                               |
 
+## 超导 superconductor
+
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+|【超导】LK-99常温超导晶体 | 中美俄实验室同日复现 | 韩国团队内讧 | 相关美股暴涨 | 专家仪器竟比不过坩埚| 炼金术成真| 第四次技术革命到来？ [最佳拍档](https://www.youtube.com/watch?v=0E7znys97z0)|
+|【超导】LK-99背后的故事 | 幽灵般出现的波动 | 两人坚持了20年的梦想 | 人类为何如此追求超导 [最佳拍档](https://www.youtube.com/watch?v=UyhQtBv_0eE)|
+|                                                                                                                                  |
+
 ## 微波 Microwave
 
 |                                                                                                                                  |
