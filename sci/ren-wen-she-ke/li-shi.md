@@ -25,6 +25,7 @@ description: History
 | 大英博物馆的五件逆天文物，三件来自中国，文物背后隐藏的不为人知的故事 \[[脑洞乌托邦](https://www.youtube.com/watch?v=B2LOHeARUzM) \| 小乌 \| Xiaowu]                                          |
 | [History](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9AX5GFZWvzy2KIN8MGHfxOE) - Mankind: The Story of All of Us                               |
 | 中国古代史 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJMUxJpRN34QBhNlj5ncQXwo)                          |
+| 【中国通史/ChinaHistory 百集历史纪录片】中国迄今为止规模最大的一部历史专题片 [中国电影频道 CHINA MOVIE OFFICIAL CHANNEL](https://www.youtube.com/playlist?list=PLOrf2h5ONlwUTW9etWK4b3xQiz8LdgkKS) |
 |                                                                                                                                                     |
 
 | 袁腾飞                                                                                          |
