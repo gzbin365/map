@@ -65,6 +65,7 @@ description: 推动世界前进
 |                                                                   |
 | ----------------------------------------------------------------- |
 | 科学到底如何产生的？ [思想史万有引力](https://www.youtube.com/watch?v=uhWWwCEZH8A) |
+| 世界著名大学 [乔春华](https://www.youtube.com/playlist?list=PLnJjW7ueIkD7l1Yvj7wlz6gTY54qWc0PS) |
 |                                                                   |
 |                                                                   |
 
