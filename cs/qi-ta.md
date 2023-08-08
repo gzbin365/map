@@ -640,6 +640,9 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [s](https://www.virtualbox.org/)   [doc](https://www.virtualbox.org/wiki/Documentation)   [UserManual](http://download.virtualbox.org/virtualbox/UserManual.pdf)   [Downloads](https://www.virtualbox.org/wiki/Downloads) |
 | Download VirtualBox for [Linux](https://www.virtualbox.org/wiki/Linux\_Downloads)                                                                                                                                         |
+| 减小VirtualBox虚拟硬盘文件的大小 [csdn](https://blog.csdn.net/Quincylk/article/details/86491998) [bak](https://cleanli.github.io/cleanhome/posts/2017-05-22/reduce_virtualbox_vdi.html) |
+| 「虛擬機教學」VirtualBox硬碟大小調整。 Resize of the VituralBox hard disk [SamYeh](https://www.youtube.com/watch?v=0-L-IcGkVGg) |
+|  VBoxManage modifyhd mydisk.vdi --resize 60000 (单位是mb) |
 |                                                                                                                                                                                                                           |
 
 | VMware ESXi vSphere                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
