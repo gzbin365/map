@@ -643,6 +643,8 @@
 | 减小VirtualBox虚拟硬盘文件的大小 [csdn](https://blog.csdn.net/Quincylk/article/details/86491998) [bak](https://cleanli.github.io/cleanhome/posts/2017-05-22/reduce_virtualbox_vdi.html) |
 | 「虛擬機教學」VirtualBox硬碟大小調整。 Resize of the VituralBox hard disk [SamYeh](https://www.youtube.com/watch?v=0-L-IcGkVGg) |
 |  VBoxManage modifyhd mydisk.vdi --resize 60000 (单位是mb) |
+| How to Install VirtualBox Guest Additions On Ubuntu 22.04 [itzgeek](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-virtualbox-guest-additions-on-ubuntu-22-04.html) |
+| sudo apt update, sudo apt install -y build-essential linux-headers-$(uname -r), sudo ./VBoxLinuxAdditions.run, reboot |
 |                                                                                                                                                                                                                           |
 
 | VMware ESXi vSphere                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
