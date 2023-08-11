@@ -42,6 +42,11 @@
 | 為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Q\_PfYlAtvHc) |
 | 这就是最棒的效率软件！如果不是，我倒想试试你的 \| Notion使用技巧分享 [老石谈芯](https://www.youtube.com/watch?v=NHTMs1z88uA)        |
 
+| wiznote 为知笔记                                                                                            |
+| -------------------------------------------------------------------------------------------------- |
+| [s](https://www.wiz.cn/zh-cn) [d](https://www.wiz.cn/zh-cn/wiznew.html) foxmail 92 |
+|  |
+
 ### 其他导航
 
 |                                                                                                   |                                                                 |                                      |
