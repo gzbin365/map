@@ -10,7 +10,7 @@
 | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------ |
 | [**外贸服务站**](https://waimaowork.me/auth/register?code=ZYXb)                                               | 2016-2021 | 299/年, 500G/月, 100-300ms |
 | [**bywave**](https://bywave.art/aff.php?aff=2614)                                                        | 2019-2022 | 280/年, 120G/月, 30-50ms   |
-| Go加速 [s](https://gogoo.cyou/auth/register?code=rMAF) [git](https://x-go.gitbook.io/untitled/)            | 2022-     | 88/年, 200G/月, 10-150ms   |
+| Go加速 [s](https://gogoo.cyou/auth/register?code=rMAF) [git](https://x-go.gitbook.io/untitled/) foxmail92           | 2022-     | 88/年, 200G/月, 10-150ms   |
 | [牛牛很牛](https://niuniuhenniu.net/auth/register?code=12861)                                                |           |                          |
 | 速蛙云 [s](https://cloud.faster.buzz/)                                                                      |           |                          |
 | **baacloud(**[**site**](https://www.baacloud.com)**,** [**git**](https://github.com/baacloud/url)**, )** |           |                          |
@@ -33,8 +33,9 @@
 | Clash [git](https://github.com/Dreamacro/clash) [d](https://github.com/Dreamacro/clash/releases) [v](https://www.youtube.com/watch?v=sL2kVWJ-JbI\&t=329s) [s](https://gogoo.club/user/tutorial?os=linux\&client=clash) [v](https://www.youtube.com/watch?v=9Ice-qMePQk) [面板](http://clash.razord.top/#/connections) [漏洞](https://www.youtube.com/watch?v=dnFu2Je20XE) |
 | ClashN [v](https://www.youtube.com/watch?v=-H-fzgw6A4M)                                                                                                                                                                                                                                                                                                               |
 | Clash for Windows [安装](https://www.youtube.com/watch?v=ceCjsjKHCnE) [汉化](https://www.youtube.com/watch?v=XLHcxew5JSQ)                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                                                                                                       |
+|   网络代理 手动, 127.0.0.1 7890, 127.0.0.1 7890, 127.0.0.1 7890, 127.0.0.1 7891                   |
+|                                                                          |
+|                                                                          |
 
 ## 插件
 
