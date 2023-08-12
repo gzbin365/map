@@ -652,7 +652,10 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks [Lama Dev](https://www.youtube.com/watch?v=jsZoR1kkq6s)                                                                                                                                                                                                               |
 | 在 Windows 里安装 Manim，数学动画编程 Manim 入门 [程序猿Shawn](https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y?modal\_id=7068352594149641511) [blibili](https://www.bilibili.com/video/BV1ZY41137xD)                                                                                                          |
 | Visual Studio Code Tutorial \| Introduction to VS Code \| Basics in 8 Minutes [Max Teaches Tech](https://www.youtube.com/watch?v=phzQMwFXMEo)                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                                                   |
+| VS Code入门教程2020 [VSCode Cool](https://www.youtube.com/playlist?list=PLNEp_Xli9W_lUQTtRYG7883bGah63UkNB) |
+|   |
+|   |
+|   |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 
