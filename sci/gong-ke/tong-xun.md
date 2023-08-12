@@ -27,6 +27,17 @@ description: Telecommunications
 | 通信原理 北京邮电大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7jPRz17k8K3MFylYdl\_q7LG)                               |
 | 来感受一下电子通信的压迫感吧 [立创商城](https://www.douyin.com/video/7140485514422979875)                                                            |
 | \[Tutorialsplanet.NET] Udemy - Signal processing problems, solved in MATLAB and in Python                                          |
+|                                                 |
+|                                                 |
+
+
+|  信号屏蔽原理 |
+| ---|
+|那些考场里的信号屏蔽器原理 [神州明达信号屏蔽器](https://zhuanlan.zhihu.com/p/163153542)|
+|                                                 |
+|                                                 |
+|                                                 |
+
 
 ## 信息论 Information Theory
 
