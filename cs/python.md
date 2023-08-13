@@ -739,7 +739,9 @@ Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/lea
 | PyCharm Version Control w/ Git & GitHub \| Basics in 12 Minutes \| Updated 2022 [Max teaches Tech](https://www.youtube.com/watch?v=8ZEssR8VTKo) |
 | PyCharm Tutorials [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-dKTR0wBfkQw9mywvkCi3q\_)                                 |
 | PyCharm Tutorial [World of Python](https://www.youtube.com/playlist?list=PL455mfbkn3PmrkrIJ9oQPpg8fIktGaL99)                                    |
-|                                                                                                                                                 |
+| 配置pycharm+wsl的开发环境 [藕丝空间](https://www.youtube.com/watch?v=LHseJntr_1k)|
+|                                                           |
+|                                                           |
 
 ## Lapce
 

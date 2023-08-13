@@ -858,7 +858,9 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | microsoft/[WSL](https://github.com/microsoft/WSL) [doc](https://learn.microsoft.com/zh-cn/windows/wsl/) 适用于 Linux 的 Windows 子系统文档                                                                                                  |
 | Using Windows Subsystem for Linux v2 [John Savill's Technical Training](https://www.youtube.com/watch?v=RTv7G79YYPU)                                                                                                               |
 | Using VirtualBox and WSL2 side by side [Abstract programmer](https://www.youtube.com/watch?v=DONvxwbWrrQ)                                                                                                                          |
-|                                                                                                                                                                                                                                    |
+| Windows10开发环境搭建 [麦兜搞IT](https://www.youtube.com/playlist?list=PLfQqWeOCIH4ACS0037k1KLNIv5f646jbr) |
+|              |
+|              |
 |                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                    |
 
