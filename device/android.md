@@ -63,7 +63,9 @@
 | How you can Control your Android Device with Python [s](https://itnext.io/how-you-can-control-your-android-device-with-python-45c3ab15e260)                                                                                                                                                                                                                 |
 | 利用python实现操控手机 [s](https://blog.csdn.net/weixin\_43881394/article/details/105918083)                                                                                                                                                                                                                                                                        |
 | <p>ADB Keeps Screen On 2023 <a href="https://www.youtube.com/watch?v=ksAlZrb97lQ">Kris Occhipinti</a></p><p>Android <a href="https://www.youtube.com/playlist?list=PLcUid3OP_4OX9q80EIEAWsolQV5cr6RQx">Kris Occhipinti</a></p><p>Motorola Moto G <a href="https://www.youtube.com/playlist?list=PLcUid3OP_4OVI1Rtuwxk1RjABh1PxXXQq">Kris Occhipinti</a></p> |
-|                                                                                                                                                                                                                                                                                                                                                             |
+| 丝般顺滑！电脑💻控制手机📲，电脑玩游戏，体验最棒的一款同屏助手！抛弃安卓模拟器吧！[阿雷科技](https://www.youtube.com/watch?v=1Bi47ex8uAY) 米卓同屏助手 |
+|                                     |
+|                                     |
 |                                                                                                                                                                                                                                                                                                                                                             |
 
 | SCRCPY                                                                                                      |
