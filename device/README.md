@@ -1059,14 +1059,15 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | NAS [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIET7wJ8F97zDGsuHEywCuis)                                                                                                                           |
 |                                                                                                                                                                                                               |
 
-#### 全固态NAS
+#### 全固态NAS 纯固态NAS
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 威联通 双2.5G全固态SSD NAS TBS-464                                                                                                             |
 | 这台只能装M.2固态硬盘的静音轻薄NAS，UP主为他耗尽脑汁——威联通TBS-464上手体验 [司波图](https://www.youtube.com/watch?v=NgNqUw1Dl40)                                       |
 | 2022年 QNAP威联通4盘位全固态NAS TBS464 搭载Intel N5105 8GB 内存 双2.5G网口 开箱试用 #QNAP@wukongdaily [小悟空的频道](https://www.youtube.com/watch?v=qHHicN2dLj4) |
-|                                                                                                                                         |
+|  低成本DIY一套5盘位迷你（纯固态）NAS，功耗只有18W，还静音。[阿雷科技](https://www.youtube.com/watch?v=TUWfecEaUBs)  |
+|                             |
 |                                                                                                                                         |
 
 #### RAID
