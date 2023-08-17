@@ -61,7 +61,7 @@
 | Java Tutorial for Beginners 2023 [Telusko](https://www.youtube.com/watch?v=BGTx91t8q50)                                                                                                       |
 | Java基础2021（黑马程序员） [编程喵](https://www.youtube.com/playlist?list=PLOuYTLq5dJ2v5nUQXeyhqeX5sb3DcglHp)                                                                                             |
 | Java模式设计 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJN2xVKuhK--Q2NDjWQU20rK)                                                                 |
-|                                                                                                                                                                                               |
+|  100分钟学习Java [it coding man](https://www.youtube.com/watch?v=O81HCaIvEn4) |
 |                                                                                                                                                                                               |
 
 ### NginX

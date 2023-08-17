@@ -854,6 +854,7 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | 如何优雅的使用WSL [把布丢](https://www.youtube.com/watch?v=\_iZoam5P\_DA)                                                                                                                                                                    |
 | <p>WSL Documentation <a href="https://learn.microsoft.com/en-us/windows/wsl/">learn.microsoft</a></p><p>Windows Subsystem for Linux Documentation</p>                                                                              |
 | Troubleshooting Windows Subsystem for Linux [learn.microsoft](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting#error-0x80370102-the-virtual-machine-could-not-be-started-because-a-required-feature-is-not-installed) |
+| 适用于 Linux 的 Windows 子系统文档 [learn.microsoft](https://learn.microsoft.com/zh-cn/windows/wsl/) |
 | 使用 WSL 在 Windows 上安装 Linux [learn.microsoft](https://learn.microsoft.com/zh-cn/windows/wsl/install)                                                                                                                                |
 | microsoft/[WSL](https://github.com/microsoft/WSL) [doc](https://learn.microsoft.com/zh-cn/windows/wsl/) 适用于 Linux 的 Windows 子系统文档                                                                                                  |
 | Using Windows Subsystem for Linux v2 [John Savill's Technical Training](https://www.youtube.com/watch?v=RTv7G79YYPU)                                                                                                               |
