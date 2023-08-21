@@ -936,7 +936,7 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Windows 10 家庭版 电子下载版 [microsoftstore](https://www.microsoftstore.com.cn/windows/windows-10-home)                                                   |
 | Windows 10 [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfaKwqsYS0eQ9Ti0Qp5V5kj2)                                               |
-| Install Linux GUI apps on Windows 10 [Chris Titus Tech](https://www.youtube.com/watch?v=KcIdAunRSSc)                                               |
+| Install Linux GUI apps on Windows 10 [Chris Titus Tech](https://www.youtube.com/watch?v=KcIdAunRSSc) wslg                                          |
 | PowerShell [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6kusr3cg6eYqCAiU6ezVj5)                                               |
 | Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
 | PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |

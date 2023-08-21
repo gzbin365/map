@@ -58,6 +58,9 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 |                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ |
 | 上帝视角看GPU（6）：光线跟踪流水线 [Minmin Gong](https://www.youtube.com/watch?v=kw1bnub3EFo\&list=TLPQMDkwNjIwMjMgXCzwL8nFhA\&index=6) |
+|  The Ray Tracer Challenge [pragprog](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/) |
+|                                                                                                                          |
+|                                                                                                                          |
 |                                                                                                                          |
 |                                                                                                                          |
 
