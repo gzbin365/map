@@ -937,11 +937,8 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | Windows 10 家庭版 电子下载版 [microsoftstore](https://www.microsoftstore.com.cn/windows/windows-10-home)                                                   |
 | Windows 10 [James Q Quick](https://www.youtube.com/playlist?list=PLDlWc9AfQBfaKwqsYS0eQ9Ti0Qp5V5kj2)                                               |
 | Install Linux GUI apps on Windows 10 [Chris Titus Tech](https://www.youtube.com/watch?v=KcIdAunRSSc) wslg                                          |
-| PowerShell [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6kusr3cg6eYqCAiU6ezVj5)                                               |
+|                                               |
 | Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours! [freeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
-| PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
-| PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
-| PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
 | xp风格的win10 [v](https://www.youtube.com/watch?v=hM8pCVP0mO8) [s](https://www.freedidi.com/8810.html)                                                |
 |                                                                                                                                                    |
 | 利用VirtualBox 虚拟机安装Win10系统到U盘 [One Fish](https://www.youtube.com/watch?v=etOXzinnXWI\&list=PLKmhRbwV0zPaRHk8V3L97w5SYOpKUf9n\_\&index=1)            |
@@ -955,6 +952,17 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | kms激活 [零度解说](https://www.youtube.com/watch?v=VoG37gE40mk)                                                                          |
 | 安装win10系统, 简单易懂 ,永久免费激活Win10 [零度解说](https://www.youtube.com/watch?v=EgHDeLgz8Cw\&list=PLPpU3NyRmFI56B1AcolicxVVNQKuPjl4B\&index=3) |
 |                                                                                                                                    |
+
+| PowerShell|
+|---|
+| PowerShell [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6kusr3cg6eYqCAiU6ezVj5) |
+| PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
+| PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
+| PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
+| PowerShell Master Class [John Savill's Technical Training](https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8) |
+| |
+| |
+| |
 
 ### Windows 11
 

@@ -71,6 +71,8 @@ Genetic Algorithm Visualization [Zachary McArthur](https://www.youtube.com/watch
 
 Genetic algorithms and machine learning for programmers: create AI models and evolve solutions [Book version: P 1.0 ed.] 9781680506204, 168050620X [dokumen.pub](https://dokumen.pub/genetic-algorithms-and-machine-learning-for-programmers-create-ai-models-and-evolve-solutions-book-version-p-10nbsped-9781680506204-168050620x.html)
 
+分享新书《遗传算法与机器学习编程》试读 [learnku](https://learnku.com/python/t/74995)
+
 24. 遗传算法实现公平分割 - 人工智能导论 Python 实验资源包 [跨象乘云AI补习社](https://www.youtube.com/watch?v=mQAdbhgf8kE\&list=PL9FmM4XAZdqDEZigM1GWfgETdYILpmiJA\&index=25)
 
 ## 进化算法
