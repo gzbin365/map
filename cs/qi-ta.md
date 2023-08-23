@@ -815,7 +815,7 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 |                                                                                                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IT豪哥-电脑软件教程 [u](https://www.youtube.com/@IT-HAOGE)                                                                                                                                                                                                                                                                                                                                  |
-| 18 CMD Tips, Tricks and Hacks                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                        |
 | MSDN, 我告诉你 [s](https://msdn.itellyou.cn/) itellyou                                                                                                                                                                                                                                                                                                                                  |
 | an evaluation version of Windows [microsoft](https://www.microsoft.com/zh-cn/evalcenter/)                                                                                                                                                                                                                                                                                           |
 | PowerToys PAPAYA [電腦教室](https://www.youtube.com/watch?v=EAoIGJjWdbA\&list=TLPQMjkwNzIwMjE55EX45Kn5Cw\&index=10)                                                                                                                                                                                                                                                                     |
@@ -955,11 +955,29 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 
 | PowerShell|
 |---|
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)  [PowerShell Gallery](https://www.powershellgallery.com/) |
 | PowerShell [Nerd's lesson](https://www.youtube.com/playlist?list=PL7T06JEc5PF6kusr3cg6eYqCAiU6ezVj5) |
 | PowerShell 支持生命周期 [doc](https://docs.microsoft.com/zh-cn/powershell/scripting/install/PowerShell-Support-Lifecycle?view=powershell-7.2)            |
 | PowerShell in Visual Studio Code [doc](https://code.visualstudio.com/docs/languages/powershell)                                                    |
 | PowerShell Hacking [Loi Liang Yang](https://www.youtube.com/watch?v=ZIzViKPEFIw)                                                                   |
 | PowerShell Master Class [John Savill's Technical Training](https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8) |
+| Microsoft Power Automate [microsoft](https://make.powerautomate.com/) [文档](https://learn.microsoft.com/zh-cn/power-automate/?utm_source=flow-sidebar&utm_medium=web) |
+| PowerShell Made Easy [Andy Malone MVP](https://www.youtube.com/watch?v=b7SGPchYRn0) |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+
+
+|cmd |
+|---|
+|18 CMD Tips, Tricks and Hacks , CMD Tutorial for Beginners , Command Prompt , Windows 7/8/8.1/10 [BITS OF TUTORIALS](https://www.youtube.com/watch?v=Ol6wijs5uHg) |
+| |
+| |
+| |
 | |
 | |
 | |
