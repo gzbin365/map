@@ -306,7 +306,7 @@
 | How to make a Save & Load System in Unity \| 2022 [Trever Mock](https://www.youtube.com/watch?v=aUi9aijvpgs)                                           |
 | SAVE & LOAD SYSTEM in [Unity Brackeys](https://www.youtube.com/watch?v=XOjd\_qU2Ido)                                                                   |
 | [Should I learn Unity or Unreal Engine?](https://www.youtube.com/watch?v=OH2sYJw52BQ) Stylized Station                                                 |
-| **Unity Tutorials(**[**freeCodeCamp.org**](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB)**)**                              |
+| Unity Tutorials([freeCodeCamp.org](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB))                            |
 | Unity DOTS vs Handbuilt: Sample Project([Nick Caston](https://www.youtube.com/channel/UCWm66r5LauAXin-Asjgo8YQ))                                       |
 | Unity4.0公开课([Cosmo Wang](https://www.youtube.com/playlist?list=PLFhPE3hKAfx\_rvnvkI6BTAyS6XoiGu3\_R))                                                  |
 | Unity3D ARPG游戏实战 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhb\_rnmsB2tsEqpQXlNF\_MuH)                                                   |
@@ -321,6 +321,7 @@
 | How to Make Oculus Quest 2 Games // Introduction to Unity VR Development [Justin P Barnett - VR Game Dev](https://www.youtube.com/watch?v=wnn-dzHz-tA) |
 | Unity 十分钟快速入门 [奇乐编程学院](https://www.youtube.com/watch?v=5azG7\_Yzq9o)                                                                                   |
 | Make Pong With Python! [Tech With Tim](https://www.youtube.com/watch?v=vVGTZlnnX3U)                                                                    |
+| Pong with Python & Pygame – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=tS8F7_X2qB0) |
 | How I learned Unity without following tutorials [Game Maker's Toolkit](https://www.youtube.com/watch?v=vFjXKOXdgGo)                                    |
 | \[Tutorialsplanet.NET] Udemy - Unity Multiplayer 2017 -Build Online Shooter - code included                                                            |
 | \[Tutorialsplanet.NET] Udemy - The Unity C# Survival Guide                                                                                             |

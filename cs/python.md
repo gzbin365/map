@@ -1234,6 +1234,9 @@ Python: OpenStreetMap API - add Longitudes and Latitudes by using Geopy module [
 
 [**Decorators**](https://www.youtube.com/watch?v=FsAPt\_9Bf3U)
 
+WinRAR 爆高危漏洞！危害极大，这是最佳的解决方法！！请尽快修复你的压缩软件  [零度解说](https://www.youtube.com/watch?v=ONF-wEV1y_0)
+
+
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
 | 一篇文章搞懂Python装饰器所有用法【建议收藏】 [麦叔编程](https://www.youtube.com/watch?v=5u3sKl5I\_Bg)    |

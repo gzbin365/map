@@ -326,3 +326,18 @@ CFD（Computational Fluid Dynamics）计算流体力学
 | 尹希                                                                      |
 | 这个人绝对是中国最具争议的超级天才 [v](https://www.douyin.com/video/7019136224736595232) |
 |                                                                         |
+
+
+|[杨振宁](https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E6%8C%AF%E5%AE%81) [楊振寧](https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81)|
+|---|
+|诺奖是他最不起眼的成就！破解粒子世界的真相，比肩牛顿、爱因斯坦，却在晚年坚称世界存在造物主？！当代活着的最牛物理学家 [She's Xiaowu @ndwtb] [脑洞乌托邦](https://www.youtube.com/watch?v=Jz7X33cgPz4)|
+||
+||
+
+
+
+
+
+
+
+
