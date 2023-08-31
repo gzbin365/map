@@ -226,6 +226,15 @@ A.I. Flappy Bird without Libraries from SCRATCH (Python/PyCharm) [Max Teaches Te
 |                                                                                                                  |
 |                                                                                                                  |
 
+## 具身智能 Embodied AI
+||
+|---|
+|【人工智能】具身智能：下一个AI浪潮 \| 稚晖君 \| Embodied AI \| 什么是具身智能 \| 目前发展阶段 \| 挑战与困难 \| 智元远征A1机器人 [最佳拍档](https://www.youtube.com/watch?v=UZBSXzNKB1Q)|
+||
+||
+||
+||
+
 ## 游戏AI
 
 | Voyager                                                                                                                                                       |
