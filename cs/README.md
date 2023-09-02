@@ -217,6 +217,12 @@ International Business Machine IBM 美国国际商用机器公司
 | Excel2019/Office365 完整教学 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6VQ315d612Gi5NwAq0d3xr)                                                                                                                                                                          |
 | PPT2019完整教程 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z7Q-aZGfTbK-hzhi7lnvuMy)                                                                                                                                                                                       |
 | 利用VBA在Excel 2010製作自動化流程 [孫在陽](https://www.youtube.com/playlist?list=PLGuK5pHqj2qkqHZgKC8MZAisCTlm5Aw-u)                                                                                                                                                                                              |
+| <p>【國語】機器學習實作 \| 用Excel輕鬆建立、訓練和使用神經網路Neural Network \| 完整教程 [解密遊俠](https://www.youtube.com/watch?v=L0dsdNlWUw8)</p><p>【國語】AI人工智能 [解密遊俠](https://www.youtube.com/playlist?list=PLGN1kjOn4OioDUouyNbItBZXdRi90xRKt)</p>|
+| 【Office】微软EXCEL重大升级 \| 原生支持Python \| 可视化分析 \| 机器学习 \| 数据处理 \| Anaconda \| Microsoft 365 [最佳拍档](https://www.youtube.com/watch?v=cYpBDZbrvLA) |
+|  |
+|  |
+|  |
+|  |
 |                                                                                                                                                                                                                                                                                                      |
 
 | Word                                                                                      |
