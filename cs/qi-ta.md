@@ -966,7 +966,7 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | PowerShell Made Easy [Andy Malone MVP](https://www.youtube.com/watch?v=b7SGPchYRn0) |
 | Learn PowerShell in Less Than 2 Hours [PowerShell Engineer](https://www.youtube.com/watch?v=ZOoCaWyifmI) |
 | Learn PowerShell with Active Directory in Less Than 2 Hours [PowerShell Engineer](https://www.youtube.com/watch?v=9oiEOYFe6PI) |
-| |
+| PowerShell and Active Directory Essentials [Varonis](https://www.youtube.com/watch?v=-zDXTLiX_wk) |
 | |
 | |
 | |
