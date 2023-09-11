@@ -203,6 +203,11 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | （更新中）【俗說量子】[Linvo說宇宙](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN)                                                                         |
 | Algebra, Particles, and Quantum Theory [u](https://www.youtube.com/channel/UCl1NZPlP0x9n28amaeeGG4w)                                                                    |
 | 量子故事会 [妈咪说MommyTalk](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q)                                                                          |
+|信息量有點大，你可能需要細細品味，雙縫干涉實驗詳解，未來改變過去，平行宇宙之間的相互影響 \| [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=FVuBQiBL8NQ)|
+||
+||
+||
+
 
 ## Quantum Artificial Intelligence
 
