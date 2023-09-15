@@ -27,7 +27,7 @@ description: Telecommunications
 | 通信原理 北京邮电大学 [Free Course](https://www.youtube.com/playlist?list=PLgvxkXbWub7jPRz17k8K3MFylYdl\_q7LG)                               |
 | 来感受一下电子通信的压迫感吧 [立创商城](https://www.douyin.com/video/7140485514422979875)                                                            |
 | \[Tutorialsplanet.NET] Udemy - Signal processing problems, solved in MATLAB and in Python                                          |
-|                                                 |
+| 华为Mate60 Pro的卫星通信是怎么回事 [Jeff科技视角](https://www.youtube.com/watch?v=gYl21XJ3-VM) |
 |                                                 |
 
 
