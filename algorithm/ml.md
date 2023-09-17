@@ -319,6 +319,11 @@ magnet:?xt=urn:btih:F60CCA8F091866C1F6F35460882285386719588B\&dn=%E6%B7%B1%E5%BA
 | PyTorch2.0 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p4lsB1mj6vinCthLSyhUZCm)                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Pytorch+cpp/cuda extension 教學 tutorial [AI葵](https://www.youtube.com/playlist?list=PLDV2CyUo4q-LKuiNltBqCKdO9GH4SS\_ec)                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Install PyTorch for Windows GPU [Jeff Heaton](https://www.youtube.com/watch?v=gsixIQYvj3U) |
+|  |
+|  |
+|  |
+
 
 | Deep Learning with PyTorch: Zero to GANs freeCodeCamp                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

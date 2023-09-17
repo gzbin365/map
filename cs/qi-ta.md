@@ -841,6 +841,10 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | -------------------------------------------------------------------------------------------------------- |
 | 这7招！让你电脑速度快到起飞！！直接加载进内存读取，从此告别 Win10/11 系统卡顿、慢等问题 \| [零度解说](https://www.youtube.com/watch?v=huR42oVUMzI) |
 | 屌爆了！一键提速400%，堪称 Windows 10/11 系统的神优化！居然是真的 \| [零度解说](https://www.youtube.com/watch?v=DO8HZ6_pWqI) |
+| 有惊喜！更改 9 个 Windows 设置！让你电脑更快更安全 \| [零度解说](https://www.youtube.com/watch?v=rmMXzEsirYU) |
+|                                                                                                          |
+|                                                                                                          |
+|                                                                                                          |
 |                                                                                                          |
 
 | windows自动更新                                                                 |
