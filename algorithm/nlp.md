@@ -549,6 +549,8 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | DeepL 翻译文件(PDF)                                                                                                                                                                                                                                                                                                   |
 | 知云文献翻译 软件                                                                                                                                                                                                                                                                                                         |
 | immersive-translate/[immersive-translate/](https://github.com/immersive-translate/immersive-translate/)   Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 [s](https://immersive-translate.owenyoung.com/) immersive-translate，沉浸式翻译，支持edge和chrome浏览器 [v](https://www.youtube.com/watch?v=DOgjiV75VLM) |
+| Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel) [freeCodeCamp](https://www.youtube.com/watch?v=r895rFUbGtE) |
+|  |
 |                                                                                                                                                                                                                                                                                                                   |
 
 ### Attention
