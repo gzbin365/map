@@ -391,6 +391,11 @@ import cv2
 | 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) |                                                                                                                                                                  |
 | AlexNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=zjnxu8KUYKA)                                                                                                      | Convolution Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74)                                                 | Convolutional Neural Networks in Practice // Cassidy Williams, Clarifai (FirstMark's Code Driven) [Code Driven NYC](https://www.youtube.com/watch?v=s716QXfApa0) |
 | CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)                                                           |                                                                                                                                                                      |                                                                                                                                                                  |
+| Why do Convolutional Neural Networks work so well? [Algorithmic Simplicity](https://www.youtube.com/watch?v=8iIdWHjleIs)                                                          |                                                                                                                                                                      |                                                                                                                                                                  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ### ResNet
 

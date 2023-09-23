@@ -1013,6 +1013,7 @@ Implementation of KNN Algorithm using Iris Dataset in Jupyter Notebook | [JAcade
 | 你能不能训练一个GPT类大型语言模型？[基地](https://www.youtube.com/watch?v=AusE36ycvqM) 安德鲁·卡帕西（Andrej Karpathy）                                                                    |
 | Neural Network from Scratch \| Mathematics & Python Code [The Independent Code](https://www.youtube.com/watch?v=pauPCy\_s0Ok)                                    |
 | Gradient Descent From Scratch in Python - Visual Explanation [NeuralNine](https://www.youtube.com/watch?v=gsfbWn4Gy5Q)                                           |
+| Deriving the Ultimate Neural Network Architecture from Scratch #SoME3 [Algorithmic Simplicity](https://www.youtube.com/watch?v=kWLed8o5M2Y) |
 |                                                                                                                                                                  |
 
 | 万能近似定理（universal approximation theorrm）                               |                                                                                                              |                                                                 |

@@ -13,6 +13,9 @@
 |                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | Mojo 🔥 — a new programming language for AI developers (first look) [Patrick Loeber](https://www.youtube.com/watch?v=-ogEkqeDEPg) |
+| Mojo Programming Language – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=5Sm9IVMet9c) |
+|                                                                                                                                   |
+|                                                                                                                                   |
 |                                                                                                                                   |
 |                                                                                                                                   |
 
@@ -974,7 +977,11 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | PowerShell Made Easy [Andy Malone MVP](https://www.youtube.com/watch?v=b7SGPchYRn0) |
 | Learn PowerShell in Less Than 2 Hours [PowerShell Engineer](https://www.youtube.com/watch?v=ZOoCaWyifmI) |
 | Learn PowerShell with Active Directory in Less Than 2 Hours [PowerShell Engineer](https://www.youtube.com/watch?v=9oiEOYFe6PI) |
+| Networking with PowerShell [PowerShell Engineer](https://www.youtube.com/watch?v=LRdwjfIzaSY) |
 | PowerShell and Active Directory Essentials [Varonis](https://www.youtube.com/watch?v=-zDXTLiX_wk) |
+| How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) \| Add Users w/PowerShell [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI) |
+| Top 10 PowerShell Commands for Beginners \| Realistic Examples with Explanations! [Josh Madakor](https://www.youtube.com/watch?v=MP_UR5iWfZQ) |
+| Learn PowerShell [ABMedia](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE) |
 | |
 | |
 | |
