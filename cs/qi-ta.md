@@ -981,6 +981,7 @@ VBoxManage setextradata "mac.11.BigSur.movespeed.80g.src" "VBoxInternal/Devices/
 | PowerShell and Active Directory Essentials [Varonis](https://www.youtube.com/watch?v=-zDXTLiX_wk) |
 | How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) \| Add Users w/PowerShell [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI) |
 | Top 10 PowerShell Commands for Beginners \| Realistic Examples with Explanations! [Josh Madakor](https://www.youtube.com/watch?v=MP_UR5iWfZQ) |
+| Top 5 Useful PowerShell Commands [ITProTV](https://www.youtube.com/watch?v=0-TtGeaNpNA) |
 | Learn PowerShell [ABMedia](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE) |
 | |
 | |
