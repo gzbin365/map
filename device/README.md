@@ -237,6 +237,7 @@ description: 硬件设备
 
 |                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| 发布会回放 [u](https://www.youtube.com/@HUIFAN001) 发布会精华 [u](https://www.youtube.com/@JINHUA001) |
 |                                                                                                                                |
 | iPhone使用指南 [呼叫天呦](https://www.douyin.com/video/7084987463864732962)                                                            |
 | 雷电云手机 抖音号：[LDyun123](https://www.douyin.com/user/MS4wLjABAAAALJlISrQBL2lJ9MG7eEbwweJPbw5P6IeLL9k-K-GRexOgSfHigIUae5bgUG1bw1VH) |
