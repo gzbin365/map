@@ -802,6 +802,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 【人工智能】爆肝万字介绍向量数据库和Pinecone \| 向量搜索的演化过程 \| LLM是人类的大脑，向量数据库就是海马体 \| Pinecone的发展历程 \| Pinecone直接和潜在竞争对手有哪些 [最佳拍档](https://www.youtube.com/watch?v=u03AZlmZF\_8) |
 | Vector Databases simply explained! (Embeddings & Indexes) [AssemblyAI](https://www.youtube.com/watch?v=dN0lsF2cvm4)                                           |
 | Can We Build an Artificial Hippocampus? [Artem Kirsanov](https://www.youtube.com/watch?v=cufOEzoVMVA)                                                         |
+| Milvus 向量数据库：大模型的长期记忆体 [WasmEdge 中文](https://www.youtube.com/watch?v=a5EVPjK5-j4) |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 
