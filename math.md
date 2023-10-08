@@ -794,6 +794,11 @@ Theory of functions of a real variable
 | 关于赌博的魔鬼经济学 [脑洞乌托邦](https://www.youtube.com/watch?v=RFY0qeXin3I)                                                                                             |
 |                                                                                                                                                             |
 
+| 真随机 |
+|---|
+| 真随机存在吗？量子力学如何超越概率论？经典概率和量子概率的联系与区别  [王木头学科学](https://www.youtube.com/watch?v=xFKUSdfGDeM) |
+|   |
+
 ### 高等概率论, Advanced Probability theory
 
 |                                                                                                   |   |   |
