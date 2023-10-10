@@ -34,6 +34,7 @@
 | 中医方剂 [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsdivW4F-20bBbS8BzFDuCT\_IU)                                    |
 | 2、【2022新课】山东中医药大学 中医基础理论（孙广仁版）郑红46课时 [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbZH28oIfLyc4satZ5RXKrk0) |
 | 医学统计学从入门到精通【共28节】【全】!!! [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbbJWU63VBDzclwtWyu9cldH)              |
+| 肝脏不好 去湿气 护肝片 龙胆泻肝丸 黑五类 |
 |                                                                                                                                  |
 
 ### HuatuoGPT
