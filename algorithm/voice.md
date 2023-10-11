@@ -156,6 +156,7 @@ Voice Synthesis
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | pdf to voice [v](https://www.douyin.com/video/7150605317326245151)                                                                                                                                                   |
 | 魔音工坊 [s](https://www.moyin.com/) |
+| 逗哥 云浩宇 解说模式 |
 | VoiceMaker [s](https://voicemaker.in/) [v](https://www.youtube.com/watch?v=X-DacDX3W8M)                                                                                                                              |
 | NaturalReaders [s](https://www.naturalreaders.com/online/) 无中文 英文发音好                                                                                                                                                 |
 | narakeet [s](https://www.narakeet.com/app/text-to-audio) [s](https://www.narakeet.com/languages/chinese-text-to-speech/) Zihan Daoming                                                                               |
