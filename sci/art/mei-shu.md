@@ -70,6 +70,7 @@
 | Introduction to Substance Painter - Ultimate Beginners Guide [FlippedNormals](https://www.youtube.com/watch?v=RQ-hRk0WHJ8)                                                        |
 | MasterGo [s](https://mastergo.com/)                                                                                                                                               |
 | 且曼设计学院 [zh](https://www.zhihu.com/column/c\_1264866098362736640) [dy](https://www.douyin.com/user/MS4wLjABAAAAm-cESGcd\_E3uMnfrL1JL8HllPs6dJ3KmI34HbwiaX49\_avYlKT8LmGJuwaHHjSfJ) |
+| 艺术比特像素绘图工具 [apple](https://apps.apple.com/cn/app/%E8%89%BA%E6%9C%AF%E6%AF%94%E7%89%B9%E5%83%8F%E7%B4%A0%E7%BB%98%E5%9B%BE%E5%B7%A5%E5%85%B7/id1077222270) |
 | 【四技统测｜设计群】 [统测王云端学院](https://www.youtube.com/playlist?list=PLo7u75FjthsB58e2v096TCJBmT3QUqJQt)                                                                                    |
 
 | **ArtStation(**[**site**](https://www.artstation.com)**,** [**u2b**](https://www.youtube.com/c/ArtStationHQ/featured)**, )** |                                                 |                                               |
