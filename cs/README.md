@@ -750,6 +750,7 @@ Computer Components？Computer Architecture？
 | gongdaowei/[ituring\_books](https://github.com/gongdaowei/ituring\_books) 图灵程序设计丛书 |
 | Dujltqzv/[Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books)            |
 | 开发者藏经阁 [阿里云](https://developer.aliyun.com/ebook/) |
+| Google图书 [s](https://books.google.com/) |
 |                                                                                    |
 
 {% file src="../.gitbook/assets/21天学通 C++（第8版）_带目录.pdf" %}
