@@ -67,6 +67,7 @@
 | 越能体现人性尊严的快乐，越是一种最高级的快乐 [厚大法考（厚大宣传部offical）](https://www.youtube.com/watch?v=UBbQjYiD4X0\&t=181s)                                                                                                            |
 | 如何变得更自信、快乐、不在乎别人的看法 [翠西Tracey](https://www.youtube.com/watch?v=J0F9SS182YA)                                                                                                                                 |
 | 【六小时完整版】长谈 罗振宇、罗永浩超长对话,让我把话说完 [Y L](https://www.youtube.com/watch?v=Hyg3y-Q\_C-U)                                                                                                                           |
+| 论人生短暂【震撼】人生短暫，但你要反覆觀看這個影片 |  [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=BjmZDqIsRqc) |
 
 ### 人生的意义
 
