@@ -142,3 +142,4 @@
 | List of mythologies [wiki](https://en.wikipedia.org/wiki/List\_of\_mythologies)                                                                                                              |
 | 有間書屋 [u](https://www.youtube.com/@user-to6uz1kn2y/videos)                                                                                                                                    |
 | Peter Mou [u](https://www.youtube.com/@VeramPietatem/playlists) 宗教                                                                                                                           |
+| [千门八将](https://baike.baidu.com/item/%E5%8D%83%E9%97%A8%E5%85%AB%E5%B0%86/62712) 上八将分别是正、提、反、脱、风、火、除、谣，合称千门八将。 下八将分别是撞、流、天、风、种、马、掩、昆。|
