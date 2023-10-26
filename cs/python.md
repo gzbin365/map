@@ -1295,6 +1295,7 @@ WinRAR 爆高危漏洞！危害极大，这是最佳的解决方法！！请尽�
 | Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                                                                                                                                                |
 | Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)                                                                                                                                       |
 | Python Misc Projects [NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1EgOLIPo1sVuf\_rDPEp33S8)                                                                                                                                                    |
+| Manage Multiple Python Versions with PyEnv [NeuralNine](https://www.youtube.com/watch?v=3my06DUnApM) |
 
 <details>
 
