@@ -138,6 +138,7 @@
 | 粪菌移植，真的就是吃答辩吗？[量子位](https://www.youtube.com/watch?v=CjJr\_atQmcs)                                                                                                                                                                                        |
 | 【正经科研】裸睡可以减肥，这事儿是真的 [量子位](https://www.youtube.com/watch?v=EsirOEW4DWg)                                                                                                                                                                                   |
 | shuaisoserious [u](https://www.youtube.com/@shuaisoserious)                                                                                                                                                                                              |
+| 司美格鲁肽 [v](https://www.youtube.com/watch?v=_lunG2t-j1Y) |
 |                                                                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                                                          |
 
