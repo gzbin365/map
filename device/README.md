@@ -1405,6 +1405,7 @@ direct-attached storage
 | 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                                                                  |
 | 黄令仪 \| 中国芯片之母 [最佳拍档](https://www.youtube.com/watch?v=Z3NhFsMtxC8) 我最大的心愿就是匍匐在地，擦净祖国身上的耻辱                                                    |
 | 【商业】OPPO缘何梦碎哲库ZEKU \| 失败的原因究竟是什么 \| 美国制裁还是没钱 \| 亦或是对行业缺少敬畏 \| 造芯片究竟有多难 [最佳拍档](https://www.youtube.com/watch?v=8zusGXL86UU)                  |
+| M3系列深度解析: 新智能缓存/光追架构, 生产力爆发? [Luv Letter](https://www.youtube.com/watch?v=HUJwmKDQ0LM) |
 |                                                                                                                                             |
 
 ### 数字电路
