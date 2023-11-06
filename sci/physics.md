@@ -171,6 +171,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 光纤：光为什么能通讯？高锟为啥能得诺贝尔奖？李永乐老师追忆光纤之父 [李永乐老师](https://www.youtube.com/watch?v=E-j-6X9yh44)                                      |
 | 激光啥原理？居然比太阳温度还高？李永乐老师讲诺贝尔物理奖之激光（上） [李永乐老师](https://www.youtube.com/watch?v=U-WlZxjIGUU)                                     |
 | 诺贝尔物理学奖深度解读：光学镊子和啁啾放大技术是什么？李永乐老师告诉你 [李永乐老师](https://www.youtube.com/watch?v=fMLYKEAfLn4)                                    |
+| 【硬核科普】爆肝1万字！以十层理解带你深度解析光的本质！ [小学科学SSR](https://www.youtube.com/watch?v=rf2-7-zD1lY) |
 |                                                                                                                             |
 
 ## 分子光谱学
