@@ -35,7 +35,7 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | 古城算法 [u](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/playlists)                                                       | 从0开始数 [u](https://www.youtube.com/channel/UCdoJwR2wSE4j-CiJw4JGLYQ/videos)                       |
 | 九章算法 [u](https://www.youtube.com/channel/UCdBXs\_F9YlBodIH7eK0BYfQ/playlists)                                                            | HackerRank [u](https://www.youtube.com/c/HackerrankOfficial/playlists)                           |
 | Pepcoding [u](https://www.youtube.com/c/Pepcoding/playlists)                                                                             | 資訊科技領域\_微課程 [u](https://www.youtube.com/channel/UCZQgs9xEZsdXBivdQVRCzNw/playlists)              |
-|                                                                                                                                          | SithDev [u](https://www.youtube.com/channel/UCBTZEtFw\_-eLa1Vb5LPiGMA/playlists)                 |
+| Eve的科学频道 [抖音号：dy9eo5dwfi5o](https://www.douyin.com/user/MS4wLjABAAAAaFT8-q_UZAERZqiMRgWlzijg8zLxpSv5g8Rmz_DnAKKn7OPiemhVoKN61ysNXf-o?vid=7287976988441070908) | SithDev [u](https://www.youtube.com/channel/UCBTZEtFw\_-eLa1Vb5LPiGMA/playlists)                 |
 
 ## 动态规划 **Dynamic Programming Problems, DP**
 
