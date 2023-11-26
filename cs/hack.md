@@ -13,6 +13,7 @@
 | HKCTO [u](https://www.youtube.com/@hkcto/playlists) [s](https://www.hkcto.com/)                                                | [Hackinthebox](https://www.hitb.org/)黑客技术信息安全咨询学习网站                                                                                                                                                                |
 | Shark恒 [u](https://www.youtube.com/@Shark-ox4ms)                                                                               | 白帽学苑 [u](https://www.youtube.com/@wha-yuanfh)                                                                                                                                                                      |
 |  DeeL Mind [u](https://www.youtube.com/@DeeLMind/playlists) [s](https://deelmind.com.cn/) [B](https://space.bilibili.com/282616786) | Gerald Auger, PhD - Simply Cyber [u](https://www.youtube.com/@SimplyCyber) |
+|John Hammond [u](https://www.youtube.com/@_JohnHammond)||
 |                                                                                                                                |                                                                                                                                                                                                                    |
 
 |                                                                                                                                                                                           |
