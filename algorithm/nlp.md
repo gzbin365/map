@@ -886,7 +886,12 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 
 ### 文心一言
 
-###
+### WPS AI
+| |
+|---|
+| WPS AI拿用户文件训练大模型，被人民日报点名批评。继OpenAI发布了ChatGPT之后，包括MidJourney在内的AIGC大模型的隐私和版权方面的问题和正义，就没有停过。 [老范讲故事](https://www.youtube.com/watch?v=rmYpzqdSuLI) |
+||
+||
 
 ### 通义千问
 
