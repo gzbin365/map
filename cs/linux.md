@@ -521,6 +521,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Speeding Up Vim Startup Time [NeuralNine](https://www.youtube.com/watch?v=ykrluoYGm2w)                                    |
 | Vim 中执行 Shell 命令和在 Shell 环境间切换 [wxnacy](https://www.youtube.com/watch?v=FhynFOT9FDM)                                      |
 | Marks in Vim Are A Game Changer [NeuralNine](https://www.youtube.com/watch?v=XT\_kFia3Ua4)                                |
+| Vim Folds Make Your Code More Readable [NeuralNine](https://www.youtube.com/watch?v=Y7S2lcfc128) |
 |                                                                                                                           |
 
 ### Neovim
