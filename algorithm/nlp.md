@@ -1164,6 +1164,7 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 | 【编程】使用Amazon CodeWhisperer快速构建基础设施 \| 什么是 Amazon CodeWhisperer \| 如何编写S3和DynamoDB的代码 \| 亚马逊资深架构师 [最佳拍档](https://www.youtube.com/watch?v=575hcwnR3S4) |
 | 微软AI Copilot产品入门和应用指南 [大宇时空](https://www.youtube.com/playlist?list=PL\_qO\_t9auXSblj8s3pts8TYFf9svA0hqu)                                             |
 | StarCoder: How to use an LLM to code [AssemblyAI](https://www.youtube.com/watch?v=1PH3oDly1bc)                                                       |
+| Github Copilot Chat，结合ChatGPT4推出，赋能AI时代的新程序员。屎山代码终于有救了。人人都是程序员的时代是不是到来了？ [老范讲故事](https://www.youtube.com/watch?v=Ft7oTuWhzpM) |
 |                                                                                                                                                      |
 
 #### 拼写检查
