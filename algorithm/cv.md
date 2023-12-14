@@ -261,6 +261,7 @@ import cv2
 | ---------------------------------------------------------------------------------------------------------- |
 | runway [v](https://www.youtube.com/watch?v=z1oUmFdjBLM) text 2 video                                       |
 | This New AI Is The Future of Videomaking! [Two Minute Papers](https://www.youtube.com/watch?v=muNkPjigQEE) |
+| HeyGen [s](https://www.heygen.com/) AI-powered video creations at scale |
 |                                                                                                            |
 
 ### img 2 video
