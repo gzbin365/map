@@ -16,6 +16,7 @@
 | NLP for Semantic Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgz-BI8bNMVGwQxIMuQddJO)             |
 | Vector Similarity Search and Faiss Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)  |
 | Design a Basic Search Engine (Google or Bing) \| System Design [Interview Prep](https://www.youtube.com/watch?v=0LTXCcVRQi0)        |
+| 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程~ [檀东东·Tango](https://www.youtube.com/watch?v=tiN6T1LewmQ) |
 |                                                                                                                                     |
 
 | 搜索技巧                                                                 |
