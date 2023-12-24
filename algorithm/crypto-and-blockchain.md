@@ -62,6 +62,7 @@ description: Blockchain & Cryptocurrency
 |                                                                                                                                                                                                                                                                                           |
 | <p>Blockchain and Cryptocurrency Course: What You Need to Know <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rN_bvJCjfM33sOLTGj8gxrF">Stanford Online</a></p><p>区块链和加密货币课程：你需要知道的</p>                                                                                         |
 | 區塊鏈介紹 [DVE(IT)](https://www.youtube.com/watch?v=go\_pja2EIaU)                                                                                                                                                                                                                             |
+| PolkaWorld [u](https://www.youtube.com/@PolkaWorld/playlists) Polkadot是一个区块链平台 |
 |                                                                                                                                                                                                                                                                                           |
 
 ## 元宇宙
