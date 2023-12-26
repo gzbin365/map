@@ -111,6 +111,7 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | Accelerator and Beam Physics Gerard Lawler [Gerard Lawler](https://www.youtube.com/playlist?list=PLJ7LoXWErO\_pFFIWg02pKCTfyaH2HktW4)              |
 | Laser Plasma Accelerator [International Centre for Theoretical Sciences](https://www.youtube.com/playlist?list=PL04QVxpjcnjgdWBi16C9riopevKlmbKLa) |
 | Fusion Energy: Hype or The Future? [ColdFusion](https://www.youtube.com/watch?v=ouecRm8cCoY)                                                       |
+| 【硬核科普】爆肝2万字！由浅入深以十层理解带你深度解析原子以及物质的本质！ (55分钟） [小学科学SSR](https://www.youtube.com/watch?v=9XvZT2c6ZWs) |
 
 ## 电
 
