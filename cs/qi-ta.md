@@ -329,6 +329,7 @@
 | \[Tutorialsplanet.NET] Udemy - Unity Multiplayer 2017 -Build Online Shooter - code included                                                            |
 | \[Tutorialsplanet.NET] Udemy - The Unity C# Survival Guide                                                                                             |
 | Learn Unity Beginner/Intermediate 2023 (FREE COMPLETE Course - Unity Tutorial) [Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) 10:49:41     |
+| Unity常用网络框架与实战解析 [Training](https://www.youtube.com/playlist?list=PLHxM50fGnEoV3hSUAt4I88B7VJyi5mSm8) |
 |                                                                                                                                                        |
 
 ## Game Programming, Game dev
