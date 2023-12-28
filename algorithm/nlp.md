@@ -804,6 +804,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Vector Databases simply explained! (Embeddings & Indexes) [AssemblyAI](https://www.youtube.com/watch?v=dN0lsF2cvm4)                                           |
 | Can We Build an Artificial Hippocampus? [Artem Kirsanov](https://www.youtube.com/watch?v=cufOEzoVMVA)                                                         |
 | Milvus 向量数据库：大模型的长期记忆体 [WasmEdge 中文](https://www.youtube.com/watch?v=a5EVPjK5-j4) |
+| Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search [freeCodeCamp](https://www.youtube.com/watch?v=JEBDfGqrAUA) |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 
