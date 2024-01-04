@@ -28,6 +28,7 @@
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 网站，值得前端工程师收藏 [v](https://www.douyin.com/video/7002896729465048331)                                                                    |
+| 截图复刻网站，Github霸榜第一，单日2500+ Star，免费，快速AI生成网页 \| Screenshot to Code [AI煉金術](https://www.youtube.com/watch?v=6EwOQMEwngA) |
 | 前端、後端、資料庫是什麼？它們如何溝通？實際範例解說 [走歪的工程師James](https://www.youtube.com/watch?v=G-Ks1XYGyaY)                                                 |
 | App/小程序开发怎么选择跨端技术开发框架 [写代码的产品兔](https://www.douyin.com/video/7032020021471628574)                                                     |
 | Micro-Frontends Course - Beginner to Expert [freeCodeCamp](https://www.youtube.com/watch?v=lKKsjpH09dU)                               |
