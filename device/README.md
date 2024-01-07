@@ -663,6 +663,7 @@ description: 硬件设备
 | How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ) |
 | 32\*2 6400                                                                                          |
 | 買記憶體條需要注意哪些參數？ 頻率、時序對效能有什麼影響？ 「超極氪」 [Super Kr超极氪](https://www.youtube.com/watch?v=7\_rodI5bQIs)     |
+| Memcached Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=VhM2ByShhzE) |
 |                                                                                                     |
 
 ## 散热
