@@ -87,6 +87,7 @@ description: 硬件设备
 | TOP 10 Arduino Projects Of All Time \| 2022 [THE ELECTRONIC GUY](https://www.youtube.com/watch?v=-p\_8u\_0GNZE)                                                                                                                                                               |
 | How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                                                                                                                                                     |
 | Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                                                                                                                                                     |
+| Arduino Course for Everybody [freeCodeCamp](https://www.youtube.com/watch?v=DPqiIzK97K0) |
 
 ## **Raspberry Pi**
 
