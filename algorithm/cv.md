@@ -338,6 +338,15 @@ import cv2
 |                                                                                                                                        |   |   |
 |                                                                                                                                        |   |   |
 
+#### 扩图
+
+|   |
+| - |
+| 生成式填充和扩图又一替代方案！Topaz Photo AI。 [工具狂Toolbuddy](https://www.youtube.com/watch?v=WnsmxZKR1Cs) |
+|   |
+|   |
+|   |
+
 #### 去水印
 
 |   |   |   |
