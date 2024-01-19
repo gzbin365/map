@@ -1198,6 +1198,7 @@ direct-attached storage
 | Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
 | DHDAXCW/[OpenWRT\_x86\_x64](https://github.com/DHDAXCW/OpenWRT\_x86\_x64) 基于 lede 源码建构 x86 的 OpenWrt 固件。                                    |
 | 在群晖上搭建OpenWrt软路由系统 [把布丢](https://www.youtube.com/watch?v=qAVqPA3TxNI)                                                                       |
+| 我依然推荐用linux网关取代openwrt旁路由，稳定、便宜、兼容性拉满。 [索拉里斯风](https://www.youtube.com/watch?v=DqubruPMmhU) |
 |                                                                                                                                             |
 |                                                                                                                                             |
 |                                                                                                                                             |
