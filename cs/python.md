@@ -606,6 +606,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | PyQt5视频教程 [PyQt5视频教程](https://www.xdbcb8.com/archives/3655.html)                                                                             |
 | Python GUI Development Using PySide6 and Qt – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1N9JzNax2k)                           |
 | \[Tutorialsplanet.NET] Udemy - Qt 5 Design Patterns                                                                                          |
+| UIs with Python – Use PyQt5 to Create a Music Player [freeCodeCamp](https://www.youtube.com/watch?v=DjutoyfCl2c) |
 
 #### kivi
 
