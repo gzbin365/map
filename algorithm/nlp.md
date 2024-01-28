@@ -762,6 +762,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | 一款爆火的翻译软件中的Prompt漏洞，如何利用Prompt Engineering优化你的AI工具。免费福利：Prompt 学习笔记 \| [回到Axton](https://www.youtube.com/watch?v=3SeD9Wi2KHo)                                                                                                                                                                         |
 | 第1集 \| 三句话，驯服ChatGPT！#ChatGPT #gpt4 #ChatGPT指令 #OpenAI #AI [AI研究猿](https://www.douyin.com/video/7258942441938505017)                                                                                                                                                                                  |
 | Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=ScKCy2udln8) |
+| Prompt Engineering Tutorial – Master ChatGPT and LLM Responses [freeCodeCamp](https://www.youtube.com/watch?v=_ZvnD73m40o) |
 |                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                       |
 
