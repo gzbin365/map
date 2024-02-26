@@ -274,6 +274,7 @@ Voice Synthesis
 | 资深音频人怎么看谷歌最新作曲AI（下集）读评论，How does a composer look at Goolge Music AI，Episode II, Read Comments [Van Zeng \[Audio Man\]](https://www.youtube.com/watch?v=JBqurD1KG\_w) |
 | 【[Code Gym](https://www.youtube.com/watch?v=0PuslZHJQes)】Python 文字轉語音教學，用短短幾行程式，做出會讀文字說話的自動化服務                                                                       |
 | 借助ChatGPT，乐盲也能轻松驾驭 Google MusicLM，Midjourney来助阵，让音乐与图像完美结合 \| [回到Axton](https://www.youtube.com/watch?v=s3Lm\_uff4PA)                                                |
+| Advanced Music Production with FL Studio – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=I_ShMaNw0Rc) |
 |                                                                                                                                                                      |
 
 ### text to song
