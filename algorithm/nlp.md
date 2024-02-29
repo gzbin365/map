@@ -834,6 +834,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | Google I/O 大会 8 项精彩片段 「懒人包」Google AI 全线出击 \| [回到Axton](https://www.youtube.com/watch?v=0FZdtq9IZm8)                                                                                            |
 |                                                                                                                                                                                                |
 
+### Google Gemma
+
+|   |
+| - |
+| 好消息！谷歌最强AI模型 Gemma 开源了！性能超Llama-2，可在笔记本和台式机运行，附本地安装教程！\|  [零度解说](https://www.youtube.com/watch?v=Ms1xkAFNO9g) |
+|   |
+|   |
+
 ### MS New Bing
 
 |                                                                                                              |
