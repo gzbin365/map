@@ -766,6 +766,7 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 | Understanding Pipeline in Machine Learning with Scikit-learn (sklearn pipeline) [Dr. Data Science](https://www.youtube.com/watch?v=jzKSAeJpC6s)                     |
 | Machine learning in Python with scikit-learn [Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)                                |
 | Scikit-Learn Model Pipeline Tutorial [Greg Hogg](https://www.youtube.com/watch?v=xIqX1dqcNbY)                                                                       |
+| Using Scikit-Learn Pipelines for Data Preprocessing with Python [Nicholas Renotte](https://www.youtube.com/watch?v=2_7vRKawvEU) |
 |                                                                                                                                                                     |
 |                                                                                                                                                                     |
 
