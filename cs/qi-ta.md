@@ -111,6 +111,7 @@
 | Advanced C# – LINQ Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=5l2qA3Pc83M) 3:07:24                                                                               |
 | 北京大学\_\_C#程序设计 [知识资源世界(KnowledgeWorld)](https://www.youtube.com/playlist?list=PLoEWjLHPG6Z6tXwRY4kCkq4ks4HSM9PyF)                                                             |
 | Foundational C# with Microsoft – Free Course and Certification [freeCodeCamp](https://www.youtube.com/watch?v=6GQAE7iLOhY)|
+| Learn C\# – Full Course with Mini-Projects [freeCodeCamp](https://www.youtube.com/watch?v=YrtFtdTTfv0) |
 |                                                                                                                                                                               |
 |                                                                                                                                                                               |
 
