@@ -260,6 +260,7 @@ Industrial-Strength Natural Language Processing
 | Skip-Gram Model to Derive Word Vectors [John Lins](https://www.youtube.com/watch?v=jKUwzgzdz3U)                                           |
 | Session 12: word2vec - Programming with Text [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF) |
 | Word Embeddings [macheads101](https://www.youtube.com/watch?v=5PL0TmQhItY\&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u\&index=7)              |
+| Nomic Embed \| 新手入门 - Open Source Long Context Embedding Model [01Coder](https://www.youtube.com/watch?v=1fnuuh_cWXw) |
 |                                                                                                                                           |
 
 ### 文本分类
