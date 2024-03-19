@@ -251,7 +251,7 @@ Voice Synthesis
 | 如何克隆自己的声音？如何克隆别人的声音？免安装1分钟克隆声音 关键还是免费的，支持中文英文日语韩语、AI文字转语音克隆 [峰哥探世界](https://www.youtube.com/watch?v=cli0ZfTxlJA) |
 | 【GPT-SoVITS 本地整合包0306】声音克隆新纪元！1分钟完美声音克隆，完美复刻任何语音、语调、语气！效果超神！ [十个骑士](https://www.youtube.com/watch?v=J9FwHp9egg0) |
 | 只需一小时，完美克隆你自己！最新中文AI数字人制作教程, 手机可搞定的AI数字人分身, 中文领域秒杀Heygen数字人 clone yourself perfectly within one hour [靜電的AI設計教室](https://www.youtube.com/watch?v=vBhEuQO2QFc) |
-| GPT-SoVITS语音克隆AI，只需一分钟素材训练模型，效果堪比商用。一键安装，附Colab脚本 | TTS | RVC|GPT-SoVITS Colab [AI探索与发现](https://www.youtube.com/watch?v=BDC2aJJFSgE) |
+| GPT-SoVITS语音克隆AI，只需一分钟素材训练模型，效果堪比商用。一键安装，附Colab脚本 \| TTS \| RVC\|GPT-SoVITS Colab [AI探索与发现](https://www.youtube.com/watch?v=BDC2aJJFSgE) |
 |                                                                                                                                                            |
 |                                                                                                                                                            |
 |                                                                                                                                                            |
