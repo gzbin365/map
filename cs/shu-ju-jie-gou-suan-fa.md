@@ -187,6 +187,8 @@ geekxh/[hello-algorithm](https://github.com/geekxh/hello-algorithm)   [s](https:
 | Deeply Understanding Logarithms In Time Complexities & Their Role In Computer Science [Back To Back SWE](https://www.youtube.com/watch?v=M4ubFru2O80)                                                                                                                                                                                                                                                                          |
 | <p>Sorting Visualizer with Sound (JavaScript Tutorial) <a href="https://www.youtube.com/watch?v=_AwSlHlpFuc">Radu Mariescu-Istodor</a></p><p>Complex JavaScript Sorting Visualizer (Animation and Sound) <a href="https://www.youtube.com/watch?v=UfbQFoMhux8">Radu Mariescu-Istodor</a></p><p>Advanced Sorting Visualizer with JavaScript <a href="https://www.youtube.com/watch?v=ej8H_casOwA">Radu Mariescu-Istodor</a></p> |
 | 俞敏洪整理一次书架要多长时间？10000本书，哪种排序算法最好？ [李永乐老师](https://www.youtube.com/watch?v=frxO8pIyVE0)                                                                                                                                                                                                                                                                                                                                          |
+| Natural Sorting with natsort in Python [NeuralNine](https://www.youtube.com/watch?v=3HlF-3qEbW0) |
+
 
 ### 插入排序 Insertion Sort
 
