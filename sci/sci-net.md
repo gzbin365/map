@@ -9,7 +9,7 @@
 | 机场                                                                                                       |               |                            |
 | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------ |
 | [**外贸服务站**](https://waimaowork.me/auth/register?code=ZYXb)                                               | 2016-2021 | 299/年, 500G/月, 100-300ms |
-| [**bywave**]([https://user.by.icu/clientarea.php](https://user.by.ltd/aff.php?aff=2614))                                                        | 2019-2022 | 280/年, 120G/月, 30-50ms   |
+| [**bywave**](https://user.by.ltd/aff.php?aff=2614)                                                        | 2019-2022 | 280/年, 120G/月, 30-50ms   |
 | Go加速 [s](https://gogoo.cyou/auth/register?code=rMAF) [git](https://x-go.gitbook.io/untitled/) foxmail92           | 2022-     | 88/年, 200G/月, 10-150ms   |
 | [牛牛很牛](https://niuniuhenniu.net/auth/register?code=12861)                                                |           |                          |
 | 速蛙云 [s](https://cloud.faster.buzz/)                                                                      |           |                          |
