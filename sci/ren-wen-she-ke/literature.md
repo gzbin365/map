@@ -70,6 +70,7 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 爱看小说的王大锤 抖音号： [45275235633](https://www.douyin.com/user/MS4wLjABAAAA8rZImGcb4uI7MTyN\_PJaW160iU4z5tUPMEE453WT6r0eRM919qhIrsqmZe\_wgZPt) | 琬玲珑今天码字了吗 抖音号： [ZQWLL](https://www.douyin.com/user/MS4wLjABAAAAa79Hp2wgIpPYeQ9w9wDqurXoN7ZIea6aK7JLTJ0oe9k)     |
 | 天天有声书 Audiobooks Daily [u](https://www.youtube.com/channel/UCINw5l-B8O--vAuD8mhBnKw/playlists)                                          | [美文网](http://www.mw8.la/)-美文欣赏\_经典美文\_励志文章\_优美散文                                                                |
 | David读书科普 [u](https://www.youtube.com/channel/UC27fH6rrbGDJjktCJmDAxcQ/playlists)                                                       | このこねこの1日1冊本紹介 [u](https://www.youtube.com/@user-hw7nt8mg1n/playlists)                                           |
+| 小以看名著 [u](https://www.youtube.com/@XiaoYiKanMingZhu) |  |
 |                                                                                                                                         |                                                                                                                 |
 |                                                                                                                                         |                                                                                                                 |
 
