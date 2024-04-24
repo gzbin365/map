@@ -276,6 +276,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | 奇妙的数学 [u](https://www.youtube.com/channel/UCfYTKlFf0xXldKUhNQV-iGA/playlists)                                                         | 初中数学竞赛 [u](https://www.youtube.com/channel/UCCNQgGoCEDqx51Fy3g9bDGw)                                           |
 | 胡老师数学 [u](https://www.youtube.com/@user-cb3ps8vg6m)                                                                                   | 百益数学 [u](https://www.youtube.com/@user-bw7fc3kr1w)                                                             |
 | 天天数理学习分享 [u](https://www.youtube.com/@egoohcn/videos) | 贝尔不等式 [u](https://www.youtube.com/@user-ms1wz6fz1c) |
+| 启星老师 [u](https://www.youtube.com/@user-pz9pp2lb8q) |  |
 
 |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- |
