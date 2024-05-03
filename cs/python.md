@@ -33,7 +33,7 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 |                                                                                                                                                           |                                                                                                                                 | **EuroSciPy(**[**u2b**](https://www.youtube.com/c/EuroSciPy/featured)**, )**                                                                                                                                                                                                                                   |
 | [**Al Sweigart**](https://www.youtube.com/user/Albert10110/featured)                                                                                      | **Termux(**[**v**](https://www.youtube.com/watch?v=bNx2dNKeerA)**,** [**Wiki**](https://wiki.termux.com/wiki/Main\_Page)**, )** |                                                                                                                                                                                                                                                                                                                |
 
-**GNotification(**[**intro**](https://developer.gnome.org/GNotification/), [**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html), [**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)) [**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)  [**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
+**GNotification(**[**intro**](https://developer.gnome.org/GNotification/), [**Python API**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html), [**Tutorial**](https://lazka.github.io/pgi-docs/#Gio-2.0/classes/Notification.html)) [**Python GTK+ 3 Tutorial**](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) [**PyGObject API Reference**](https://lazka.github.io/pgi-docs/main.html)
 
 [**What Does It Take To Be An Expert At Python?**](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 
@@ -168,11 +168,11 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 
 ### 传智/黑马
 
-|                                                                                            |
-| ------------------------------------------------------------------------------------------ |
-| 传智教育 [s](https://www.itcast.cn)   黑马程序员 [u](https://www.youtube.com/@itheima666/playlists) |
-| [map](http://yun.itheima.com/map)                                                          |
-|                                                                                            |
+|                                                                                          |
+| ---------------------------------------------------------------------------------------- |
+| 传智教育 [s](https://www.itcast.cn) 黑马程序员 [u](https://www.youtube.com/@itheima666/playlists) |
+| [map](http://yun.itheima.com/map)                                                        |
+|                                                                                          |
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -310,26 +310,26 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 |                                                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                               |
 
-| pillow                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| python-pillow/[Pillow](https://github.com/python-pillow/Pillow)   [s](https://python-pillow.org/)                                                                                                                                            |
-| pillow [doc](https://pillow.readthedocs.io/en/stable/)9.2.0,[ch](https://www.osgeo.cn/pillow/)8.4.0 [ch](https://pillow-zh-cn.readthedocs.io/zh\_CN/latest/installation.html)3.3.0  [ch](https://pillow-cn.readthedocs.io/zh\_CN/latest/)2.4 |
-| PIL.Image 源代码 [8.4.0](https://www.osgeo.cn/pillow/\_modules/PIL/Image.html)                                                                                                                                                                  |
-| 加[水印](https://www.youtube.com/watch?v=4PK4-70piZY)                                                                                                                                                                                           |
-| Python Pillow [Patrick B](https://www.youtube.com/playlist?list=PLtdTvjcat54p3P9rkHd8uWgdsKfMWVE\_U)                                                                                                                                         |
-| <p>Python Modules and Libraries <a href="https://www.youtube.com/playlist?list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg">Python Simplified</a></p><p>Image Processing with Pillow - a Python Code-Along</p>                                        |
-| Python Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)                                                                                                                                   |
-| Turn any image into ASCII art! (Easy Python PIL Tutorial) [Kite](https://www.youtube.com/watch?v=v\_raWlX7tZY)                                                                                                                               |
-| 【Python】综合知识库 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtHKkZt7eSDMRsuMIUCbxhZ)                                                                                                                                               |
-| Advanced Discord.py Tutorials [Code With Swastik](https://www.youtube.com/playlist?list=PLoFvxwcEPSPhCNdel2XcNgbgmntp4E-CE)                                                                                                                  |
-| Python (Pillow): working with images \| Hindi \| [Tech-Gram Academy](https://www.youtube.com/playlist?list=PLjC8JXsSUrrjtXUDzXqr1mj\_1iYpN2R8S)                                                                                              |
-| Python PIL Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXCayO4KZqSmym2Z\_sn6Pha)                                                                                                                        |
-| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                       |
-| Image Manipulation with Python and Pillow [PyPros](https://www.youtube.com/playlist?list=PLJ1odve0o6dV0mKl0cwERv9JO1\_eqWmw-)                                                                                                                |
-| Image manipulation with Python & Pillow (2021) [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP)                                                                                                |
-| Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                      |
-| 18 - Image processing using pillow in Python [DigitalSreeni](https://www.youtube.com/watch?v=uDNqNv2N-pY\&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW\&index=3)                                                                                  |
-|                                                                                                                                                                                                                                              |
+| pillow                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| python-pillow/[Pillow](https://github.com/python-pillow/Pillow) [s](https://python-pillow.org/)                                                                                                                                             |
+| pillow [doc](https://pillow.readthedocs.io/en/stable/)9.2.0,[ch](https://www.osgeo.cn/pillow/)8.4.0 [ch](https://pillow-zh-cn.readthedocs.io/zh\_CN/latest/installation.html)3.3.0 [ch](https://pillow-cn.readthedocs.io/zh\_CN/latest/)2.4 |
+| PIL.Image 源代码 [8.4.0](https://www.osgeo.cn/pillow/\_modules/PIL/Image.html)                                                                                                                                                                 |
+| 加[水印](https://www.youtube.com/watch?v=4PK4-70piZY)                                                                                                                                                                                          |
+| Python Pillow [Patrick B](https://www.youtube.com/playlist?list=PLtdTvjcat54p3P9rkHd8uWgdsKfMWVE\_U)                                                                                                                                        |
+| <p>Python Modules and Libraries <a href="https://www.youtube.com/playlist?list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg">Python Simplified</a></p><p>Image Processing with Pillow - a Python Code-Along</p>                                       |
+| Python Tutorials [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)                                                                                                                                  |
+| Turn any image into ASCII art! (Easy Python PIL Tutorial) [Kite](https://www.youtube.com/watch?v=v\_raWlX7tZY)                                                                                                                              |
+| 【Python】综合知识库 [小马技术](https://www.youtube.com/playlist?list=PLliocbKHJNwtHKkZt7eSDMRsuMIUCbxhZ)                                                                                                                                              |
+| Advanced Discord.py Tutorials [Code With Swastik](https://www.youtube.com/playlist?list=PLoFvxwcEPSPhCNdel2XcNgbgmntp4E-CE)                                                                                                                 |
+| Python (Pillow): working with images \| Hindi \| [Tech-Gram Academy](https://www.youtube.com/playlist?list=PLjC8JXsSUrrjtXUDzXqr1mj\_1iYpN2R8S)                                                                                             |
+| Python PIL Module Tutorials [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXCayO4KZqSmym2Z\_sn6Pha)                                                                                                                       |
+| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                      |
+| Image Manipulation with Python and Pillow [PyPros](https://www.youtube.com/playlist?list=PLJ1odve0o6dV0mKl0cwERv9JO1\_eqWmw-)                                                                                                               |
+| Image manipulation with Python & Pillow (2021) [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP)                                                                                               |
+| Streams [Carberra Tutorials](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YVmOn6pIV3q7\_7anmwvOyv)                                                                                                                                     |
+| 18 - Image processing using pillow in Python [DigitalSreeni](https://www.youtube.com/watch?v=uDNqNv2N-pY\&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW\&index=3)                                                                                 |
+|                                                                                                                                                                                                                                             |
 
 | sympy                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -381,14 +381,14 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 | Pandas for Data Analysis by Example – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=gtjxAH8uaP0)                                     |
 |                                                                                                                                                                 |
 
-| sklearn                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)        [https://github.com/scikit-learn](https://github.com/scikit-learn) |
-| 从版本0.9（在2011年9月发布）起，scikit-learn导入路径从scikits.learn 改为 sklearn                                                                                  |
-|                                                                                                                                                |
-| scikit-learn：Python中的机器学习 [书栈](https://www.bookstack.cn/read/scipy-lecture-notes\_cn/90c085936b816f10.md)                                      |
-|                                                                                                                                                |
-|                                                                                                                                                |
+| sklearn                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/) [https://github.com/scikit-learn](https://github.com/scikit-learn) |
+| 从版本0.9（在2011年9月发布）起，scikit-learn导入路径从scikits.learn 改为 sklearn                                                                           |
+|                                                                                                                                         |
+| scikit-learn：Python中的机器学习 [书栈](https://www.bookstack.cn/read/scipy-lecture-notes\_cn/90c085936b816f10.md)                               |
+|                                                                                                                                         |
+|                                                                                                                                         |
 
 | seaborn                                                               |   |
 | --------------------------------------------------------------------- | - |
@@ -410,7 +410,7 @@ How To Read Documentations For Beginners [NeuralNine](https://www.youtube.com/wa
 | Обучение парсингу на Python #1 \| Парсинг сайтов \| Разбираем методы библиотеки Beautifulsoup [PythonToday](https://www.youtube.com/watch?v=7hn1\_t2ZtJQ)                                                                                                                                                                                      |   |   |
 |                                                                                                                                                                                                                                                                                                                                                |   |   |
 
-| django([s](https://www.djangoproject.com), [git](https://github.com/django/django), )   django-cms([s](https://www.django-cms.org/en/), )                                              |
+| django([s](https://www.djangoproject.com), [git](https://github.com/django/django), ) django-cms([s](https://www.django-cms.org/en/), )                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 麦子学院-django基础 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhaWVGnmOgttOGX2u\_hluH8O) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwnn8ivqqjf1nQa\_VTqIl9V) |
 | 麦子学院-django进阶 [开发者学堂](https://www.youtube.com/playlist?list=PLGmd9-PCMLhYVKTTPw62kegfuQqVG3KR9) [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTxDXbI1WDmjz-\_KbfPIQqmP)  |
@@ -529,7 +529,7 @@ muduo 网络库 [Shuo Chen](https://www.youtube.com/playlist?list=PLA41633960297
 {% endtab %}
 
 {% tab title="AutoPy" %}
-AutoPy [doc](https://www.autopy.org/documentation/api-reference/index.html) [pypi](https://pypi.org/project/autopy/) [git](https://github.com/mgregson/autopy) [s](https://www.autopy.org/)&#x20;
+AutoPy [doc](https://www.autopy.org/documentation/api-reference/index.html) [pypi](https://pypi.org/project/autopy/) [git](https://github.com/mgregson/autopy) [s](https://www.autopy.org/)
 
 Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/article/details/107358905)
 {% endtab %}
@@ -551,26 +551,26 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | -------------------------------------------------------------------------------------------------------- | - |
 | **Alan D Moore Codes(**[**u**](https://www.youtube.com/channel/UCj7i-mmOjLV17YTPIrCPkog/featured)**, )** |   |
 
-| 视频                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI) Alan D Moore Codes                            |
-|                                                                                                                                                             |
-| 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)                                 |
-| Python GUI - Eel [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1AnieCi1FfNibjYWkLWIPi92Yu)   ChrisKnott/[Eel](https://github.com/ChrisKnott/Eel) |
-| Python GUI - Tkinter [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anie\_vHuCOt3hCXN6HIl8Ph8u)                                                  |
-| GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                           |
-| Prox Softwares [Proxlight](https://www.youtube.com/playlist?list=PLi3fckH40FL5zHR-80J\_\_tgmCe0-Jx\_nm)                                                     |
-| Convert GUI App to Real Program - Python to exe to setup wizard [Python Simplified](https://www.youtube.com/watch?v=p3tSLatmGvU)                            |
-|                                                                                                                                                             |
+| 视频                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Tkinter vs. PyQt: Which Python GUI framework is right for you?](https://www.youtube.com/watch?v=Dby5jRoENlI) Alan D Moore Codes                          |
+|                                                                                                                                                           |
+| 写个桌面挂件 \| 手把手带大家做只桌面宠物呗 [s](https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ) [s](https://www.zhihu.com/question/35851198)                               |
+| Python GUI - Eel [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1AnieCi1FfNibjYWkLWIPi92Yu) ChrisKnott/[Eel](https://github.com/ChrisKnott/Eel) |
+| Python GUI - Tkinter [Proladon](https://www.youtube.com/playlist?list=PLSCgthA1Anie\_vHuCOt3hCXN6HIl8Ph8u)                                                |
+| GUI Apps Simplified [Python Simplified](https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL)                                         |
+| Prox Softwares [Proxlight](https://www.youtube.com/playlist?list=PLi3fckH40FL5zHR-80J\_\_tgmCe0-Jx\_nm)                                                   |
+| Convert GUI App to Real Program - Python to exe to setup wizard [Python Simplified](https://www.youtube.com/watch?v=p3tSLatmGvU)                          |
+|                                                                                                                                                           |
 
 | Tkinter                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| tk   [doc](https://docs.python.org/zh-cn/3/library/tk.html)   tkinter [doc](https://docs.python.org/zh-cn/3/library/tkinter.html)                                                                                                |
+| tk [doc](https://docs.python.org/zh-cn/3/library/tk.html) tkinter [doc](https://docs.python.org/zh-cn/3/library/tkinter.html)                                                                                                    |
 | Pil and Tkinter [PythonProgrammi](https://www.youtube.com/playlist?list=PL\_38rYkBIiiWOWaehEWm-wZsvPHVNjYxn)                                                                                                                     |
 | 麦子学院-Tkinter桌面编程 [Yang Liu](https://www.youtube.com/playlist?list=PLhXu26RzZZTwxB1Et8QjNz0XVZ7kvgvZ4)                                                                                                                            |
 | 麦子学院-项目-Python开发跨平台的记事本 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTxsRLmmTjXa1hO45PpnQcBM)                                                                                                                       |
 | Awesome Python Tkinter GUI drag & drop builder! Pygubu [Coding Zoe](https://www.youtube.com/watch?v=CS3\_uVTUaII)                                                                                                                |
-| Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU)   [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)                                           |
+| Desktop GUI App With Python & Tkinter [Traversy Media](https://www.youtube.com/watch?v=ELkaEpN29PU) [list](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)                                             |
 | tkinter 窗口可视化你的 python 程序 GUI 教学 学习教程 [莫烦Python](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)                                                                                                       |
 | Python Tkinter GUI 🐍【𝙁𝙧𝙚𝙚】 [Bro Code](https://www.youtube.com/watch?v=TuLxsvK4svQ)                                                                                                                                          |
 | GUIs with Tkinter (intermediate) [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)                                                                                                             |
@@ -606,7 +606,7 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | PyQt5视频教程 [PyQt5视频教程](https://www.xdbcb8.com/archives/3655.html)                                                                             |
 | Python GUI Development Using PySide6 and Qt – Tutorial [freeCodeCamp](https://www.youtube.com/watch?v=Z1N9JzNax2k)                           |
 | \[Tutorialsplanet.NET] Udemy - Qt 5 Design Patterns                                                                                          |
-| UIs with Python – Use PyQt5 to Create a Music Player [freeCodeCamp](https://www.youtube.com/watch?v=DjutoyfCl2c) |
+| UIs with Python – Use PyQt5 to Create a Music Player [freeCodeCamp](https://www.youtube.com/watch?v=DjutoyfCl2c)                             |
 
 #### kivi
 
@@ -631,9 +631,9 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 
 |                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| microsoft/[vscode](https://github.com/microsoft/vscode) [updates](https://code.visualstudio.com/updates/)                                                                                                                                                                                                               |
+| microsoft/[vscode](https://github.com/microsoft/vscode) [updates](https://code.visualstudio.com/updates/)                                                                                                                                                                                                                         |
 | Visual Studio Code Extensions to Improve Your Productivity [freeCodeCamp](https://www.youtube.com/watch?v=g1vy03ZY5mM)                                                                                                                                                                                                            |
-| VS Code Tutorial – Become More Productive [freeCodeCamp](https://www.youtube.com/watch?v=heXQnM99oAI) |
+| VS Code Tutorial – Become More Productive [freeCodeCamp](https://www.youtube.com/watch?v=heXQnM99oAI)                                                                                                                                                                                                                             |
 | **Visual Studio Code(**[**u**](https://www.youtube.com/c/Code/featured)**,** [**site**](https://code.visualstudio.com)**,** [**new version**](https://code.visualstudio.com/updates)**,** [**docs**](https://code.visualstudio.com/docs)**,** [**Settings Sync**](https://code.visualstudio.com/docs/editor/settings-sync)**, )** |
 | Bill Raymond([u](https://www.youtube.com/c/WilliamRaymondPM/featured), )                                                                                                                                                                                                                                                          |
 | Code 2020([u](https://www.youtube.com/c/Code2020/playlists), [s](https://code2020.dev), )                                                                                                                                                                                                                                         |
@@ -654,10 +654,10 @@ Python游戏辅助基础之AutoPy [s](https://blog.csdn.net/weixin\_49396117/art
 | Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks [Lama Dev](https://www.youtube.com/watch?v=jsZoR1kkq6s)                                                                                                                                                                                                               |
 | 在 Windows 里安装 Manim，数学动画编程 Manim 入门 [程序猿Shawn](https://www.douyin.com/user/MS4wLjABAAAAJzVzj4eIT-eSSuLMW2ymRioDekx3sZbwqHRz5jdMr8Y?modal\_id=7068352594149641511) [blibili](https://www.bilibili.com/video/BV1ZY41137xD)                                                                                                          |
 | Visual Studio Code Tutorial \| Introduction to VS Code \| Basics in 8 Minutes [Max Teaches Tech](https://www.youtube.com/watch?v=phzQMwFXMEo)                                                                                                                                                                                     |
-| VS Code入门教程2020 [VSCode Cool](https://www.youtube.com/playlist?list=PLNEp_Xli9W_lUQTtRYG7883bGah63UkNB) |
-|   |
-|   |
-|   |
+| VS Code入门教程2020 [VSCode Cool](https://www.youtube.com/playlist?list=PLNEp\_Xli9W\_lUQTtRYG7883bGah63UkNB)                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                   |
 
 [VSCode's Python Interactive mode is AMAZING!](https://www.youtube.com/watch?v=lwN4-W1WR84\&t=307s)
 
@@ -694,8 +694,6 @@ Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/lea
 [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W\_tfPVrY)
 
 [I Don't Need Postman Anymore!! I Use VS Code Instead...](https://www.youtube.com/watch?v=AbCTlemwZ1k)
-
-
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -741,9 +739,9 @@ Visual Studio Code 中的 GitHub 简介 [s](https://docs.microsoft.com/zh-cn/lea
 | PyCharm Version Control w/ Git & GitHub \| Basics in 12 Minutes \| Updated 2022 [Max teaches Tech](https://www.youtube.com/watch?v=8ZEssR8VTKo) |
 | PyCharm Tutorials [Max teaches Tech](https://www.youtube.com/playlist?list=PL30AETbxgR-dKTR0wBfkQw9mywvkCi3q\_)                                 |
 | PyCharm Tutorial [World of Python](https://www.youtube.com/playlist?list=PL455mfbkn3PmrkrIJ9oQPpg8fIktGaL99)                                    |
-| 配置pycharm+wsl的开发环境 [藕丝空间](https://www.youtube.com/watch?v=LHseJntr_1k)|
-|                                                           |
-|                                                           |
+| 配置pycharm+wsl的开发环境 [藕丝空间](https://www.youtube.com/watch?v=LHseJntr\_1k)                                                                         |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
 
 ## Lapce
 
@@ -812,14 +810,12 @@ ARCHER High Performance Computing Service [u](https://www.youtube.com/channel/UC
 
 ### CuPy
 
-
-
 | CuPy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **CuPy(**[**s**](https://cupy.dev)**,** [**s2**](https://www.preferred.jp/en/projects/cupy/)**,** [**doc**](https://docs.cupy.dev/en/stable/)**,** [**v**](https://cupy.dev/#videos)**,** [**pypi**](https://pypi.org/project/cupy/)**,** [**git**](https://github.com/cupy/cupy)**,** [**知乎**](https://zhuanlan.zhihu.com/p/80355569)**,** [**Guide**](https://docs.cupy.dev/en/stable/user\_guide/index.html)**,** [**API**](https://docs.cupy.dev/en/stable/reference/index.html)**,** [**examples**](https://github.com/cupy/cupy/tree/master/examples)**, )** |
 | CuPy A NumPy compatible Library for the GPU - [Sean Farley](https://www.youtube.com/watch?v=\_AKDqw6li58)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **CuPy: A NumPy Compatible Library for High Performance Computing with GPU \|** [**SciPy 2019**](https://www.youtube.com/watch?v=GjJRNMTA53s\&t=112s) **\|**                                                                                                                                                                                                                                                                                                                                                                                                       |
-| CuPy: A Numpy-compatible Library for HPC with GPU \| Masayuki Takagi \|   [**SciPy Japan 2020**](https://www.youtube.com/watch?v=xG1nz3R8H7I)                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CuPy: A Numpy-compatible Library for HPC with GPU \| Masayuki Takagi \| [**SciPy Japan 2020**](https://www.youtube.com/watch?v=xG1nz3R8H7I)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Valentin Haenel: Create CUDA kernels from Python using Numba and CuPy \| [PyData](https://www.youtube.com/watch?v=CQDsT81GyS8) Amsterdam 2019                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | William Horton - CUDA in your Python: Effective Parallel Programming on the GPU - [PyCon 2019](https://www.youtube.com/watch?v=iw8RU4m4Dlo)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -867,8 +863,6 @@ cpython, pypy, jython, rustpython这些都是什么鬼 [码农高天](https://ww
 
 ### Asyncio
 
-
-
 | Asyncio                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Python Asynchronous Programming - AsyncIO & Async/Await([Tech With Tim](https://www.youtube.com/watch?v=t5Bo1Je9EmE\&list=TLPQMDMwNTIwMjFWurBhFKL2-Q\&index=7)) |
@@ -902,8 +896,6 @@ Python高性能编程
 
 ## app
 
-
-
 |                                                                                                                |                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **kivy(**[**s**](https://kivy.org)**, )**                                                                      |                                                                                                                                                                          |
@@ -911,7 +903,7 @@ Python高性能编程
 
 |                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- |
-| [**Kivy Course - Create Python Games and Mobile Apps**](https://www.youtube.com/watch?v=l8Imtec4ReQ)  freeCodeCamp               |
+| [**Kivy Course - Create Python Games and Mobile Apps**](https://www.youtube.com/watch?v=l8Imtec4ReQ) freeCodeCamp                |
 | Kivy - Mobile and Desktop App Dev w/ Python [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN\_VRQfq8rF) |
 | **Python App development(**[**uList**](https://www.youtube.com/playlist?list=PLoCOfLpxN8\_U4t2NBaefPqaOHPE-f1Wbw)**, )**         |
 | Kivy自学笔记 [Xiaoqiang Club](https://www.youtube.com/playlist?list=PLaURY2xI-x4ulr5MlaBy58hCRYY6ob84n)                              |
@@ -974,7 +966,7 @@ Python高性能编程
 
 |                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 小熊猫 [u](https://www.youtube.com/@user-kv5du2wl5h) 何老师Python [u](https://www.youtube.com/@HLSPython/playlists)                                                                                                                                                                                                                                       |
+| 小熊猫 [u](https://www.youtube.com/@user-kv5du2wl5h) 何老师Python [u](https://www.youtube.com/@HLSPython/playlists)                                                                                                                                                                                                                                          |
 | Python 6小时网络爬虫入门课程完整版(2020年）[程序员小飞](https://www.youtube.com/watch?v=ZMjhBB17KVY)                                                                                                                                                                                                                                                                       |
 | Python爬虫 [程序员小飞](https://www.youtube.com/playlist?list=PLlcH26KGVLuIQI9vGA5AvuXZYYXT2aLlO)                                                                                                                                                                                                                                                             |
 | 不扯淡Python爬虫学习路线 （2021） [麦叔编程](https://www.youtube.com/watch?v=yKLfMjtTKak)                                                                                                                                                                                                                                                                             |
@@ -992,9 +984,9 @@ Python高性能编程
 | 崔庆才Python爬虫系列课程(全) [BiteOfPython](https://www.youtube.com/playlist?list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz)                                                                                                                                                                                                                                            |
 | 互联网开发教程 [u](https://www.youtube.com/c/%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/playlists)                                                                                                                                                                                                                                       |
 | Python3.8入门 & 进阶 & 原生爬虫实战完全解读 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlH7Gse4X3mcuDoXDIzgOCE)                                                                                                                                                                                                                                    |
-| sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader)   谷歌、百度、必应图片下载                                                                                                                                                                                                                                                       |
-| csuldw/[AntSpider](https://github.com/csuldw/AntSpider)   1000万豆瓣电影/评论/名人/评分数据采集源码                                                                                                                                                                                                                                                                     |
-| RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download)   Google image downloader                                                                                                                                                                                                                                      |
+| sczhengyabin/[Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) 谷歌、百度、必应图片下载                                                                                                                                                                                                                                                         |
+| csuldw/[AntSpider](https://github.com/csuldw/AntSpider) 1000万豆瓣电影/评论/名人/评分数据采集源码                                                                                                                                                                                                                                                                       |
+| RiddlerQ/[simple\_image\_download](https://github.com/RiddlerQ/simple\_image\_download) Google image downloader                                                                                                                                                                                                                                        |
 | awolfly9/[IPProxyTool](https://github.com/awolfly9/IPProxyTool) 抓取大量免费代理 ip，提取有效 ip 使用                                                                                                                                                                                                                                                                 |
 | Python 网络爬虫从入门到实战 [蚂蚁学Python](https://www.youtube.com/playlist?list=PLCemT-oocgakYtYvMXu\_NivSTOjHzaOmE)                                                                                                                                                                                                                                               |
 | Beautiful Soup 4 Tutorial [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)                                                                                                                                                                                                                                    |
@@ -1003,7 +995,7 @@ Python高性能编程
 | 2019千锋Python爬虫全套视频（最经典）[千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4ZkUUau3b5Df3OJAG7l94o)                                                                                                                                                                                                                                                |
 | Python爬虫—国庆档电影爬取与分析【千锋】 [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J72Nsj\_2NzRgJJSqnxt50Hb) drive                                                                                                                                                                                                                                        |
 | 2019千锋Python爬虫超详细教程（精华版） [千锋教育](https://www.youtube.com/playlist?list=PLwDQt7s1o9J4DqlcIaDLJPnP902mZs0Js) drive                                                                                                                                                                                                                                        |
-| keenwon/[antcolony](https://github.com/keenwon/antcolony)   Nodejs实现的一个磁力链接爬虫 [文章介绍](https://keenwon.com/1436.html) [blog](https://keenwon.com/)                                                                                                                                                                                                       |
+| keenwon/[antcolony](https://github.com/keenwon/antcolony) Nodejs实现的一个磁力链接爬虫 [文章介绍](https://keenwon.com/1436.html) [blog](https://keenwon.com/)                                                                                                                                                                                                         |
 | Python 網路爬蟲 Web Crawler 基本教學 By 彭彭 [彭彭的課程](https://www.youtube.com/watch?v=9Z9xKWfNo7k\&list=PL-g0fdC5RMboYEyt6QS2iLb\_1m7QcgfHk\&index=19)                                                                                                                                                                                                            |
 | 網路爬蟲實戰教學 [大數軟體有限公司](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)                                                                                                                                                                                                                                                          |
 | XPath Crash Course For Python Web Scraping [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)                                                                                                                                                                                                                                                   |
@@ -1012,7 +1004,7 @@ Python高性能编程
 | Python爬虫编程基础5天速成 Python入门+数据分析 [网课知识大全](https://www.youtube.com/playlist?list=PLhXu26RzZZTwCmlnBroM10oVNnix5Qx8v)                                                                                                                                                                                                                                      |
 | Python数据爬虫实战 [Python学习指南](https://www.youtube.com/playlist?list=PLxpYnyUGAYhh9Pgsn4REhHsHVpGVkhd\_S)                                                                                                                                                                                                                                                   |
 | ChatGPT教我Python爬虫 1小时搞定数千家公司信息 [TheDataQ](https://www.youtube.com/watch?v=iX9lGPHgjhQ)                                                                                                                                                                                                                                                                 |
-| 【 Python 爬蟲 】2 小時初學者課程 ：一次學會 PTT 爬蟲、Hahow 爬蟲、Yahoo 電影爬蟲！#beautifulsoup #requests #ajax #cookie [CodeShiba 程式柴](https://www.youtube.com/watch?v=1PHp1prsxIM) |
+| 【 Python 爬蟲 】2 小時初學者課程 ：一次學會 PTT 爬蟲、Hahow 爬蟲、Yahoo 電影爬蟲！#beautifulsoup #requests #ajax #cookie [CodeShiba 程式柴](https://www.youtube.com/watch?v=1PHp1prsxIM)                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -1042,6 +1034,8 @@ Python网络编程 [Shadowalker](https://www.youtube.com/playlist?list=PLpu5MZcF
 
 \[Tutorialsplanet.NET] Udemy - Socket.IO (with websockets) - the details. (socket io v2)
 
+WebSockets Beginners Tutorial with Socket.IO [freeCodeCamp](https://www.youtube.com/watch?v=CzcfeL7ymbU)
+
 ## Python-Excel
 
 |                                                                                                                                         |
@@ -1066,7 +1060,7 @@ Python网络编程 [Shadowalker](https://www.youtube.com/playlist?list=PLpu5MZcF
 |                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------- |
 | How to Convert HTML to PDF using Python [buckmasterinstitute](https://www.youtube.com/watch?v=9DP5Nkw7LEY)    |
-| JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit)  HTML to PDF wrapper                      |
+| JazzCore/[python-pdfkit](https://github.com/JazzCore/python-pdfkit) HTML to PDF wrapper                       |
 | wmjordan/[PDFPatcher](https://github.com/wmjordan/PDFPatcher) PDF补丁丁 [s](https://www.cnblogs.com/pdfpatcher/) |
 | Merge PDF Files in Python [NeuralNine](https://www.youtube.com/watch?v=4gZgWXJpX-w)                           |
 | Extract PDF Content with Python [NeuralNine](https://www.youtube.com/watch?v=w2r2Bg42UPY)                     |
@@ -1089,9 +1083,9 @@ Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files [Corey Sch
 
 ## **Auto Download of Videos & Images**
 
-|                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| Auto Download of Videos & Images  ([**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qn26ex6xNNVxboeJfK686NJ)) |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| Auto Download of Videos & Images ([**PyB TV**](https://www.youtube.com/playlist?list=PLY2Azc6nd2Qn26ex6xNNVxboeJfK686NJ)) |
 
 ## Jupyter
 
@@ -1207,7 +1201,7 @@ Python Hacks : Data Visualization using Plotly - Introduction [Fluidic Colours](
 
 Plotly For Web Based Data Visualization - Basic Charts Using Plotly, Pandas & Matplotlib In Python [TheEngineeringWorld](https://www.youtube.com/watch?v=B911tZFuaOM)
 
-Introduction to Dash Plotly - Data Visualization in Python  [Charming Data](https://www.youtube.com/watch?v=hSPmj7mK6ng)
+Introduction to Dash Plotly - Data Visualization in Python [Charming Data](https://www.youtube.com/watch?v=hSPmj7mK6ng)
 
 </details>
 
@@ -1217,7 +1211,7 @@ Introduction to Dash Plotly - Data Visualization in Python  [Charming Data](http
 
 <summary>Geospatial</summary>
 
-&#x20;Geospatial Analysis with Python [Rogue Hogue](https://www.youtube.com/watch?v=qvHXRuGPHl0)
+Geospatial Analysis with Python [Rogue Hogue](https://www.youtube.com/watch?v=qvHXRuGPHl0)
 
 Introduction to Geospatial Data Analysis with Python | [SciPy 2018](https://www.youtube.com/watch?v=kJXUUO5M4ok) Tutorial | Serge Rey
 
@@ -1237,8 +1231,7 @@ Python: OpenStreetMap API - add Longitudes and Latitudes by using Geopy module [
 
 [**Decorators**](https://www.youtube.com/watch?v=FsAPt\_9Bf3U)
 
-WinRAR 爆高危漏洞！危害极大，这是最佳的解决方法！！请尽快修复你的压缩软件  [零度解说](https://www.youtube.com/watch?v=ONF-wEV1y_0)
-
+WinRAR 爆高危漏洞！危害极大，这是最佳的解决方法！！请尽快修复你的压缩软件 [零度解说](https://www.youtube.com/watch?v=ONF-wEV1y\_0)
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
@@ -1297,11 +1290,11 @@ WinRAR 爆高危漏洞！危害极大，这是最佳的解决方法！！请尽�
 | Why bpython is Awesome [DevDungeon](https://www.youtube.com/watch?v=b60tnXChdog)                                                                                                                                                                                |
 | Python Package Publishing [Indian Pythonista](https://www.youtube.com/playlist?list=PLyb\_C2HpOQSB3z\_4WliKt56WyDgfXzzMz)                                                                                                                                       |
 | Python Misc Projects [NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1EgOLIPo1sVuf\_rDPEp33S8)                                                                                                                                                    |
-| Manage Multiple Python Versions with PyEnv [NeuralNine](https://www.youtube.com/watch?v=3my06DUnApM) |
+| Manage Multiple Python Versions with PyEnv [NeuralNine](https://www.youtube.com/watch?v=3my06DUnApM)                                                                                                                                                            |
 
 <details>
 
-<summary>python 内存管理   GC</summary>
+<summary>python 内存管理 GC</summary>
 
 u2b search\_query=[python+内存管理](https://www.youtube.com/results?search\_query=python+%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
 
@@ -1311,9 +1304,7 @@ Memory Allocation and Management in Python - simplified tutorial for beginners [
 
 Memory Management in Python - The Basics [North Bay Python](https://www.youtube.com/watch?v=URNdRl97q\_0)
 
-Python Memory Management | Garbage Collector in python | Reference Counting Algorithm | [Part 1](https://www.youtube.com/watch?v=-HLk\_VY5Ovc)  [Part 2](https://www.youtube.com/watch?v=DJjZOg2QfhU)  Code Framer
-
-
+Python Memory Management | Garbage Collector in python | Reference Counting Algorithm | [Part 1](https://www.youtube.com/watch?v=-HLk\_VY5Ovc) [Part 2](https://www.youtube.com/watch?v=DJjZOg2QfhU) Code Framer
 
 </details>
 
