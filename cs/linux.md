@@ -632,7 +632,7 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | Linux Server Troubleshooting [Sandip Das](https://www.youtube.com/watch?v=2YOiJGSzUKI)                                    |
 | Linux Performance Troubleshooting Demos [grobelDev](https://www.youtube.com/watch?v=rwVLa9me7e4)                          |
 | raas/[mbw](https://github.com/raas/mbw) 测试内存速度                                                                            |
-|                                                                                                                           |
+| Performance Benchmarking Python Applications with perf [NeuralNine](https://www.youtube.com/watch?v=tA-UAlb7NDE)          |
 
 ## 其他
 
