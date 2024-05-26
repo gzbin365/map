@@ -768,27 +768,27 @@
 
 ## Mac
 
-|                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 休康 抖音号：[MacloudTV](https://www.douyin.com/user/MS4wLjABAAAAL1UhBHB9HnkYBYNX\_cxSs8zJibXdDmm4oF3COX59Gok) Mac圈 [u](https://www.youtube.com/@Apple-MacOS)              |
-| **MAC全栈开发环境搭建指南(**[**书栈**](https://www.bookstack.cn/books/o2team-mac)**, )**                                                                                         |
-| **Xcode Server持续集成指南(Xcode Server and Continuous Integration Guide) (**[**书栈**](https://www.bookstack.cn/books/Xcode-Server-and-Continuous-Integration-Guide)**, )** |
-| **Mac 最佳应用--神器 (**[**书栈**](https://www.bookstack.cn/books/mac-best-app)**, )**                                                                                       |
-| Run macOS on Linux with 1 COMMAND LINE([The Linux Experiment](https://www.youtube.com/watch?v=6WgjQpm9VWE)) SOSUMI                                                   |
-| Great Ideas in Theoretical Computer Science - Ryan O'Donnell \| CMU [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3YIVK2r5fNRBaVV30R3iEW)       |
-| Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                          |
-| 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                          |
-| 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                       |
-| 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                        |
-| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                         |
-| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                           |
-| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                         |
-| 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                            |
-| Mac软件分享 [黄杨ME](https://www.youtube.com/@huangyang/playlists)                                                                                                         |
-| Mac 必學祕技！ [APPLEFANS蘋果迷](https://www.youtube.com/playlist?list=PLOq0qjygIvo1KGa3LXsV8VxKOGFDvWNMG)                                                                   |
-|                                                                                                                                                                      |
-| 【萌新必看】Macbook新手入門到精通快速上手蘋果電腦保姆級教程教學 [闲评](https://www.youtube.com/watch?v=Z-CoJ8mROe8)                                                                                |
-|                                                                                                                                                                      |
+|                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 休康 抖音号：[MacloudTV](https://www.douyin.com/user/MS4wLjABAAAAL1UhBHB9HnkYBYNX\_cxSs8zJibXdDmm4oF3COX59Gok) Mac圈 [u](https://www.youtube.com/@Apple-MacOS) SernHao Tv [u](https://www.youtube.com/@SernHaoTv) |
+| **MAC全栈开发环境搭建指南(**[**书栈**](https://www.bookstack.cn/books/o2team-mac)**, )**                                                                                                                               |
+| **Xcode Server持续集成指南(Xcode Server and Continuous Integration Guide) (**[**书栈**](https://www.bookstack.cn/books/Xcode-Server-and-Continuous-Integration-Guide)**, )**                                       |
+| **Mac 最佳应用--神器 (**[**书栈**](https://www.bookstack.cn/books/mac-best-app)**, )**                                                                                                                             |
+| Run macOS on Linux with 1 COMMAND LINE([The Linux Experiment](https://www.youtube.com/watch?v=6WgjQpm9VWE)) SOSUMI                                                                                         |
+| Great Ideas in Theoretical Computer Science - Ryan O'Donnell \| CMU [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3YIVK2r5fNRBaVV30R3iEW)                                             |
+| Great Mac Apps [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiStnho-YPF9N3ROqDlESPqD)                                                                                                |
+| 每个人都会遇到的问题：移动硬盘和Mac不兼容 [Mac云课堂](https://www.youtube.com/watch?v=1rBNQ1IEOHs) Paragon Tuxera                                                                                                                |
+| 苹果没告诉你的秘密: M1芯片背后的PMIC, 在能效上发挥了什么作用? [Luv Letter](https://www.youtube.com/watch?v=gV0Cqbk55d0)                                                                                                             |
+| 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                                                              |
+| Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                                                               |
+| Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                                                                 |
+| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                                                               |
+| 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                                                                  |
+| Mac软件分享 [黄杨ME](https://www.youtube.com/@huangyang/playlists)                                                                                                                                               |
+| Mac 必學祕技！ [APPLEFANS蘋果迷](https://www.youtube.com/playlist?list=PLOq0qjygIvo1KGa3LXsV8VxKOGFDvWNMG)                                                                                                         |
+| Apple MacBook 如何重裝系統？｜開源週末 Open Source Weekend [tvtvfun](https://www.youtube.com/watch?v=FQrV7TowPVU)                                                                                                      |
+| 【萌新必看】Macbook新手入門到精通快速上手蘋果電腦保姆級教程教學 [闲评](https://www.youtube.com/watch?v=Z-CoJ8mROe8)                                                                                                                      |
+|                                                                                                                                                                                                            |
 
 | 黑苹果                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
