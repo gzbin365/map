@@ -13,7 +13,7 @@
 | 在老师研读了几十本Java书以后，比较好的一本 [v](https://www.douyin.com/video/7007347180830821668?count=10\&cursor=1631647229000\&modeFrom=userLike\&pre\_vid=7003625998822411551\&previous\_page=video\_detail\&secUid=MS4wLjABAAAAz2va9iNHKFQ8a0GiwHZkHaul2PRtqdpN4bOrZvmN4RnrbduTMV-sJIFWyeib4lsF) |
 | 分享GitHub上Java语言相关的4个优质开源项目　[ZStack云计算](https://www.douyin.com/video/7037753671525977377)                                                                                                                                                                                         |
 | Java面试题链接: https://pan.baidu.com/s/1nqCc3ejXwFekuXO1lb1dCA 密码: ap7i                                                                                                                                                                                                              |
-| xbox1994/[Java-Interview](https://github.com/xbox1994/Java-Interview)  高级Java后台开发面试指南                                                                                                                                                                                            |
+| xbox1994/[Java-Interview](https://github.com/xbox1994/Java-Interview) 高级Java后台开发面试指南                                                                                                                                                                                             |
 | java开发手册                                                                                                                                                                                                                                                                         |
 
 ##
@@ -61,7 +61,8 @@
 | Java Tutorial for Beginners 2023 [Telusko](https://www.youtube.com/watch?v=BGTx91t8q50)                                                                                                       |
 | Java基础2021（黑马程序员） [编程喵](https://www.youtube.com/playlist?list=PLOuYTLq5dJ2v5nUQXeyhqeX5sb3DcglHp)                                                                                             |
 | Java模式设计 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJN2xVKuhK--Q2NDjWQU20rK)                                                                 |
-|  100分钟学习Java [it coding man](https://www.youtube.com/watch?v=O81HCaIvEn4) |
+| 100分钟学习Java [it coding man](https://www.youtube.com/watch?v=O81HCaIvEn4)                                                                                                                      |
+| 【Java】3小时初学者Java教程 #Java #Java教程 #Java入门 \| 全面了解 Java – 从真实世界案例学习Java [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=nQ1Z3NxpfIw)                                                        |
 |                                                                                                                                                                                               |
 
 ### NginX
@@ -131,8 +132,6 @@ Nginx 核心知識 [M Max](https://www.youtube.com/playlist?list=PLoZQ0sz6CBHGG1
 汇总了程序员常用的数据格式，你不会全知道 [程序员鱼皮](https://www.douyin.com/video/6937310186025553182)
 
 ### XML可扩展标记语言
-
-
 
 ### JSON
 

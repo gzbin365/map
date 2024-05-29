@@ -24,70 +24,68 @@ description: 机器视觉
 
 ## UP主
 
-|                                                                                                       |                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                                                                     |
-| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**                                                      |
-| Jeremy Howard [u](https://www.youtube.com/@howardjeremyp/playlists)                                   | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                            |
-| James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                      | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects) |
-|                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                              |
-| Computer vision engineer [u](https://www.youtube.com/@ComputerVisionEngineer/playlists)               |                                                                                                                                                                                 |
+|                                                                                                       |                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Raúl Mur Artal(**[**u**](https://www.youtube.com/channel/UC\_jh6pkpTd3movgveqdILuQ/videos)**, )**   | **小无敌技术讲堂(**[**u**](https://www.youtube.com/channel/UCinHMAnLqwggMqKLes1EsaA/videos)**, )**                                                                                   |
+| **Denis Dmitriev(**[**u**](https://www.youtube.com/channel/UC8m-a4A0jk2bkesfPdz1z\_A/featured)**, )** | **Murtaza's Workshop - Robotics and AI(**[**u**](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/playlists)**, )**                                                    |
+| Jeremy Howard [u](https://www.youtube.com/@howardjeremyp/playlists)                                   | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                          |
+| James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                      | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) [git](https://github.com/enpeizhao/CVprojects) |
+|                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                            |
+| Computer vision engineer [u](https://www.youtube.com/@ComputerVisionEngineer/playlists)               |                                                                                                                                                                               |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
-
-
 ## 课程
 
-|                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 李飞飞: 我们怎么教计算机理解图片？ [TED](https://www.youtube.com/watch?v=40riCqvRoMs)                                                                                                                                                                       |
-| MAE 论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=mYlX2dpdHHM)                                                                                                                                                                       |
-| How computers learn to recognize objects instantly \| Joseph Redmon [TED](https://www.youtube.com/watch?v=Cgxsv1riJhI)                                                                                                                      |
-| 机器视觉-2020北邮远程课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RQ6tTu-c2ZFFrMxtSIhztC) [git](https://github.com/CV-xueba/A01\_cvclass\_basic)                                                                                      |
-| CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley) [Machine Learning at Berkeley](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)                                                                         |
-| **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                                               |
-| CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)    2017 [Mansoor Mughal](https://www.youtube.com/playlist?list=PLf7L7Kg8\_FNxHATtLwDceyh72QQL9pvpQ)  Stanford University School of Engineering |
-| 圖象處理編程知識 \| 如何為圖象去除Alpha透明通道？網上廣傳的方法是錯的，小心！ [解密遊俠](https://www.youtube.com/watch?v=mkpP\_YXcXx0)                                                                                                                                            |
-| Convolutional Neural Networks for Visual Recognition - Fei Fei Li \| Stanford University [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig)                                                         |
-| Fei-Fei Li & Demis Hassabis: Using AI to Accelerate Scientific Discovery [Stanford HAI](https://www.youtube.com/watch?v=KHFmIknP\_Hc)                                                                                                       |
-| Full Stack Computer Vision Tutorial with Tensorflow, Python　([**Nicholas Renotte**](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr))                                                                              |
-| 曲线高级用法【[裹小脚的大叔](https://www.bilibili.com/video/BV1NJ411C7rs/?spm\_id\_from=333.788.recommend\_more\_video.-1)】08:10                                                                                                                         |
-| **遥感数字图像处理-朱文泉（北京师范大学）**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbU-5g3y4Bd4Eboqsbp1Whv)                                                                                                                         |
-| Image Analysis in Python with SciPy and scikit-image \| [SciPy 2018 Tutorial](https://www.youtube.com/watch?v=arXiv-TM7DY) \| Stefan van der Walt                                                                                           |
-| Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD)                                       |
-| Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                                                               |
-| Deep Learning for Computer Vision [Michigan Online](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)                                                                                                               |
-| Build An Image Editor in HTML CSS & JavaScript \| Image Editor in JavaScript [CodingNepal](https://www.youtube.com/watch?v=YqUUvBpCtfA)                                                                                                     |
-| 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                                                         |
-| 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                                                        |
-| Advanced Computer Vision with Python - Full Course [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU\_NvOY) 6：40：40                                                                                                                 |
-| Images [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf8Ui5124JnEGKGA7QG87ru)                                                                                                                                         |
-| RGB Colour Mixer Application [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf-epdo0malavLMhL-CCrST)                                                                                                                   |
-| Introduction to Computer Vision \| [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK\_kB\_RUkuxQBlCm)                                                                                                                    |
-| Why do computers use RGB for colors, and not RBY? [Fireship](https://www.youtube.com/watch?v=B1t4Fjlomi8)                                                                                                                                   |
-| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
-| Introductory python tutorials for image processing [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)                                                                                                 |
-| Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf)                                                                                                              |
-| The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [Reducible](https://www.youtube.com/watch?v=0me3guauqOU)                                                                                                               |
-| How PNG Works: Compromising Speed for Quality [Reducible](https://www.youtube.com/watch?v=EFUYNoFRHQI)                                                                                                                                      |
-| Huffman Codes: An Information Theory Perspective [Reducible](https://www.youtube.com/watch?v=B3y0RsVCyrw)   [Data Compression](https://www.youtube.com/playlist?list=PLpXOY-RxVRTOR1PAtQUwoZN2tSs1ICSk7)                                    |
-| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                      |
-| Image filters in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZrTsptDOKRdSsVO5mU5Qf0)                                                                                                                           |
-| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                       |
-| Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                     |
-| Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                            |
-| 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                                   |
-| Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                        |
-| Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                        |
-| Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                                  |
-| \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                    |
-| Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                             |
-| Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                                  |
-| AI 產業訓練課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUEnw5L6CASKs04NMa0lg-Bh)                                                                                                                                              |
-| Vision Transformers (ViT) Explained + Fine-tuning in Python [James Briggs](https://www.youtube.com/watch?v=qU7wO02urYU)                                                                                                                     |
-| AI Image Manipulation [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsRz1Xcaggutgsvi-rlrMsyD)                                                                                                                                 |
-|                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 李飞飞: 我们怎么教计算机理解图片？ [TED](https://www.youtube.com/watch?v=40riCqvRoMs)                                                                                                                                                                   |
+| MAE 论文逐段精读【论文精读】 [Mu Li](https://www.youtube.com/watch?v=mYlX2dpdHHM)                                                                                                                                                                   |
+| How computers learn to recognize objects instantly \| Joseph Redmon [TED](https://www.youtube.com/watch?v=Cgxsv1riJhI)                                                                                                                  |
+| 机器视觉-2020北邮远程课 [刘先生](https://www.youtube.com/playlist?list=PLFI1Cd4723\_RQ6tTu-c2ZFFrMxtSIhztC) [git](https://github.com/CV-xueba/A01\_cvclass\_basic)                                                                                  |
+| CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley) [Machine Learning at Berkeley](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)                                                                     |
+| **CS231n Winter 2016(**[**Andrej Karpathy**](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**, )**                                                                                                           |
+| CS231N-2016 [Alex](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) 2017 [Mansoor Mughal](https://www.youtube.com/playlist?list=PLf7L7Kg8\_FNxHATtLwDceyh72QQL9pvpQ) Stanford University School of Engineering |
+| 圖象處理編程知識 \| 如何為圖象去除Alpha透明通道？網上廣傳的方法是錯的，小心！ [解密遊俠](https://www.youtube.com/watch?v=mkpP\_YXcXx0)                                                                                                                                        |
+| Convolutional Neural Networks for Visual Recognition - Fei Fei Li \| Stanford University [Rahul Madhavan](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig)                                                     |
+| Fei-Fei Li & Demis Hassabis: Using AI to Accelerate Scientific Discovery [Stanford HAI](https://www.youtube.com/watch?v=KHFmIknP\_Hc)                                                                                                   |
+| Full Stack Computer Vision Tutorial with Tensorflow, Python　([**Nicholas Renotte**](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr))                                                                          |
+| 曲线高级用法【[裹小脚的大叔](https://www.bilibili.com/video/BV1NJ411C7rs/?spm\_id\_from=333.788.recommend\_more\_video.-1)】08:10                                                                                                                     |
+| **遥感数字图像处理-朱文泉（北京师范大学）**[**中国大学MOOC-慕课**](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbU-5g3y4Bd4Eboqsbp1Whv)                                                                                                                     |
+| Image Analysis in Python with SciPy and scikit-image \| [SciPy 2018 Tutorial](https://www.youtube.com/watch?v=arXiv-TM7DY) \| Stefan van der Walt                                                                                       |
+| Cmputer Vision [**Yannic Kilcher**](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL) [**RE•WORK**](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8mRwTpROsHZF2wXixoxrCoD)                                   |
+| Deep Learning for Computer Vision [NPTEL-NOC IITM](https://www.youtube.com/playlist?list=PLyqSpQzTE6M\_PI-rIz4O1jEgffhJU9GgG)                                                                                                           |
+| Deep Learning for Computer Vision [Michigan Online](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)                                                                                                           |
+| Build An Image Editor in HTML CSS & JavaScript \| Image Editor in JavaScript [CodingNepal](https://www.youtube.com/watch?v=YqUUvBpCtfA)                                                                                                 |
+| 图像处理与分析 武汉大学 贾永红 [电子工程世界](http://training.eeworld.com.cn/course/5404) 共41课时 6小时4分9秒                                                                                                                                                     |
+| 数字图像处理 天津理工大学 [电子工程世界](http://training.eeworld.com.cn/course/5044) 共49课时 1天4小时20分39秒                                                                                                                                                    |
+| Advanced Computer Vision with Python - Full Course [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU\_NvOY) 6：40：40                                                                                                             |
+| Images [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf8Ui5124JnEGKGA7QG87ru)                                                                                                                                     |
+| RGB Colour Mixer Application [Computer Science](https://www.youtube.com/playlist?list=PLTd6ceoshprf-epdo0malavLMhL-CCrST)                                                                                                               |
+| Introduction to Computer Vision \| [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK\_kB\_RUkuxQBlCm)                                                                                                                |
+| Why do computers use RGB for colors, and not RBY? [Fireship](https://www.youtube.com/watch?v=B1t4Fjlomi8)                                                                                                                               |
+| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                   |
+| Introductory python tutorials for image processing [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)                                                                                             |
+| Image Annotation for Machine Learning [Apeer\_micro](https://www.youtube.com/playlist?list=PLHae9ggVvqPhu28DFhBWnse4fzKcKDolf)                                                                                                          |
+| The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [Reducible](https://www.youtube.com/watch?v=0me3guauqOU)                                                                                                           |
+| How PNG Works: Compromising Speed for Quality [Reducible](https://www.youtube.com/watch?v=EFUYNoFRHQI)                                                                                                                                  |
+| Huffman Codes: An Information Theory Perspective [Reducible](https://www.youtube.com/watch?v=B3y0RsVCyrw) [Data Compression](https://www.youtube.com/playlist?list=PLpXOY-RxVRTOR1PAtQUwoZN2tSs1ICSk7)                                  |
+| Image processing with python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)                                                                                                                  |
+| Image filters in python [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwZrTsptDOKRdSsVO5mU5Qf0)                                                                                                                       |
+| Python tutorials for image processing and machine learning [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu\_PUO19M7aHMgwBJr)                                                                                   |
+| Hyperspectral Image Processing [李政軒](https://www.youtube.com/playlist?list=PLt0SBi1p7xrTdrkkLBst\_ZYcRrKm1eHrv) 高光谱图像处理                                                                                                                 |
+| Fun Python Exercise - Convert Numbers to Images with NumPy, OpenCV and Pillow [Python Simplified](https://www.youtube.com/watch?v=8O\_fU\_qrDoY)                                                                                        |
+| 网络视频监控技术-任帅（长安大学） [中国大学MOOC-慕课](https://www.youtube.com/playlist?list=PLBPbUxsZM4SZ8X5oOeLfZRHatKaG5yCGD)                                                                                                                               |
+| Image Localization: Explanation + Code in TensorFlow (And how to make Multi-Output Models!) [Greg Hogg](https://www.youtube.com/watch?v=pUSn1D1pdjE)                                                                                    |
+| Introduction to SIFT (Scale-Invariant Feature Transform) [opencv](https://docs.opencv.org/3.4/da/df5/tutorial\_py\_sift\_intro.html)                                                                                                    |
+| Computer Vision [Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)                                                                                                                              |
+| \[Tutorialsplanet.NET] Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs                                                                                                                                                |
+| Computer Vision Tutorial [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk)                                                                                                                         |
+| Introduction to AI & Neural Networks [Luci Date](https://www.youtube.com/playlist?list=PLaJCKi8Nk1hz2OB7irG0BswZJx3B3jpob)                                                                                                              |
+| AI 產業訓練課程 [國網中心NCHC](https://www.youtube.com/playlist?list=PLAyHZCbbwlUEnw5L6CASKs04NMa0lg-Bh)                                                                                                                                          |
+| Vision Transformers (ViT) Explained + Fine-tuning in Python [James Briggs](https://www.youtube.com/watch?v=qU7wO02urYU)                                                                                                                 |
+| AI Image Manipulation [NanoNomad](https://www.youtube.com/playlist?list=PLn3gJVMORUsRz1Xcaggutgsvi-rlrMsyD)                                                                                                                             |
+|                                                                                                                                                                                                                                         |
 
 | pillow                                                             |                                                 |   |
 | ------------------------------------------------------------------ | ----------------------------------------------- | - |
@@ -104,11 +102,11 @@ import mediapipe as mp
 | Mediapipe [s](https://mediapipe.dev/) [s](https://google.github.io/mediapipe/) [git](https://github.com/google/mediapipe) [u](https://www.youtube.com/c/MediaPipe) [doc](https://google.github.io/mediapipe/) |
 | 一小时学习python和mediapipe [it coding man](https://www.youtube.com/watch?v=h2nAdkW5PHY)                                                                                                                            |
 | 利用MMediapipe和DGL实现火影结印识别与追踪---特殊手势识别 [csdn](https://blog.csdn.net/weixin\_45564943/article/details/121688966)                                                                                                 |
-| 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2)   [git](https://github.com/enpeizhao/CVprojects)                               |
+| 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) [git](https://github.com/enpeizhao/CVprojects)                                 |
 | AI Face Body and Hand Pose Detection with Python and Mediapipe [Nicholas Renotte](https://www.youtube.com/watch?v=pG4sUNDOZFg)                                                                                |
 | Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python [The Coding Lib](https://www.youtube.com/watch?v=f-Ibri14KMY)                                                                    |
 | MediaPipe - AI机器学习套件介绍 [陈荣政](https://www.youtube.com/watch?v=RsX2WAr-RwI)                                                                                                                                     |
-| 【python】OpenCV + MediaPipe 手部追踪 ｜  [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA)   [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)           |
+| 【python】OpenCV + MediaPipe 手部追踪 ｜ [GrandmaCan -我阿嬷都会](https://www.youtube.com/watch?v=x4eeX7WJIuA) [git](https://github.com/hibyby/GrandmaCan\_python\_hand\_tracking/blob/main/handTracking.py)              |
 | Exercise Rep Counter using OpenCV \| Python \| Computer Vision \| Machine Learning [AI Sciences](https://www.youtube.com/watch?v=4WwSJAKRtcA)                                                                 |
 | Push-up counter using Mediapipe python [I know python](https://www.youtube.com/watch?v=ZI2-Xl0J8S4)                                                                                                           |
 |                                                                                                                                                                                                               |
@@ -119,14 +117,12 @@ pip install opencv-python
 
 import cv2
 
-|                                                                                           |                                                                                                                                          |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )**   | doc [2.4](https://docs.opencv.org/2.4/index.html)  [4.x](https://docs.opencv.org/4.x/d9/df8/tutorial\_root.html) OpenCV-Python Tutorials |
-| [doc](https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html) OpenCV-Python Tutorials | Introduction to OpenCV-Python Tutorials [doc](https://docs.opencv.org/4.x/d0/de3/tutorial\_py\_intro.html)                               |
+|                                                                                           |                                                                                                                                         |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **OpenCVTutorials(**[**u**](https://www.youtube.com/user/OpenCVTutorials/videos)**, )**   | doc [2.4](https://docs.opencv.org/2.4/index.html) [4.x](https://docs.opencv.org/4.x/d9/df8/tutorial\_root.html) OpenCV-Python Tutorials |
+| [doc](https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html) OpenCV-Python Tutorials | Introduction to OpenCV-Python Tutorials [doc](https://docs.opencv.org/4.x/d0/de3/tutorial\_py\_intro.html)                              |
 
 [**Public LIVE: Code Walkthrough (OpenCV using Python)**](https://www.youtube.com/watch?v=SgzPF0\_dLMY)
-
-
 
 [**LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021)**](https://www.youtube.com/watch?v=2FYm3GOonhk)
 
@@ -162,14 +158,6 @@ import cv2
 |                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                 |
-
-
-
-
-
-
-
-
 
 ### HALCON
 
@@ -242,18 +230,16 @@ import cv2
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [Yannic Kilche](https://www.youtube.com/watch?v=W-O7AZNzbzQ) |
 | 最真实人工智能换脸--AI换脸背后的秘密（deepfacelab操作指南）[长安老张](https://www.youtube.com/watch?v=fNiqYv5uA2Q)                                                                      |
-| iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab)  [arxiv](https://arxiv.org/abs/2005.05535)                                                        |
+| iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab) [arxiv](https://arxiv.org/abs/2005.05535)                                                         |
 | AI 换脸教程 - 最简单易懂的 Faceswap 换脸视频！完全免费开源 2022 \| [零度解说](https://www.youtube.com/watch?v=NbS0v6CUwCg)                                                             |
 | iperov/[DeepFaceLab](https://github.com/iperov/DeepFaceLab) creating deepfakes                                                                                |
 | Deepfacelab智能换脸 [u](https://www.youtube.com/channel/UCwdM2VqN5JsSYkn8XZbN9NQ/videos)                                                                          |
 | Age & Gender Prediction with DeepFace in Python [NeuralNine](https://www.youtube.com/watch?v=hvNj7Js9RyA)                                                     |
-|                                                                                                                                                               |
+| 【公众号：马哥随笔】AI视频换脸！史上最强最快的方法，100%成功，完全免费，无需配置、打开即用、使用操作简单 [公众号 \| 马哥随笔](https://www.youtube.com/watch?v=cRKfx57TCck) git                                        |
 |                                                                                                                                                               |
 |                                                                                                                                                               |
 
 ### 多帧合成
-
-
 
 ### 视频生成
 
@@ -261,7 +247,7 @@ import cv2
 | ---------------------------------------------------------------------------------------------------------- |
 | runway [v](https://www.youtube.com/watch?v=z1oUmFdjBLM) text 2 video                                       |
 | This New AI Is The Future of Videomaking! [Two Minute Papers](https://www.youtube.com/watch?v=muNkPjigQEE) |
-| HeyGen [s](https://www.heygen.com/) AI-powered video creations at scale |
+| HeyGen [s](https://www.heygen.com/) AI-powered video creations at scale                                    |
 |                                                                                                            |
 
 ### img 2 video
@@ -272,7 +258,7 @@ import cv2
 
 |                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- |
-| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime)  [s](https://selfie2anime.com/)                 |
+| t04glovern/[selfie2anime](https://github.com/t04glovern/selfie2anime) [s](https://selfie2anime.com/)                  |
 | Talk \| 威斯康星大学麦迪逊分校穆方舟：3D相片的风格化-从单张输入图生成风格化的全新视角 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=ruzvF33\_t9w)      |
 | AI Caricatures And Portrait Style Transfer Are Here! [Two Minute Papers](https://www.youtube.com/watch?v=8gnhA-zqD-o) |
 |                                                                                                                       |
@@ -280,7 +266,7 @@ import cv2
 
 | StyleDrop                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- |
-| [arxiv](https://arxiv.org/abs/2306.00983)   [demo](https://styledrop.github.io/)                                                  |
+| [arxiv](https://arxiv.org/abs/2306.00983) [demo](https://styledrop.github.io/)                                                    |
 | 【AIGC】谷歌公开StyleDrop模型论文 \| 图像风格定制大师 \| LOGO也能轻松生成 \| 挑战Midjourney \| 基于Muse模型 [最佳拍档](https://www.youtube.com/watch?v=Gi8eEanuNY8) |
 |                                                                                                                                   |
 |                                                                                                                                   |
@@ -301,23 +287,23 @@ import cv2
 
 ## 视频压缩
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
-| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                                    |
-| 完全解析：视频编码与封装 [Mediastorm影视飓风](https://www.youtube.com/watch?v=P-k4nqCL7tw)                                    |
-| 视频格式, 封装格式, 编码格式, h.264 编码 mp4 封装                                                                             |
-| 高画质的背后——视频的封装与编码 [Mediastorm影视飓风](https://www.youtube.com/watch?v=hqNcj6\_lYg0)                               |
-| 封装格式 mp4                                                                                                      |
-| <p>视频编码 h.264 </p><p>帧内压缩 intraframe   jpeg   保留亮度 压缩颜色 缩小90%</p><p>帧间压缩 interframe   关键帧+细节变化   I帧、P帧和B帧</p> |
-| adobe media encoder                                                                                           |
-| <p>码率, 控制码率的方法, 恒定码率cbr 可变码率vbr 固定质量crf 比特率</p><p>16mbps 16mb/s 5000kbps</p><p>cpu画质预设 fast</p>               |
-| 【科普】“视频”是怎么来的？H.264、码率这些词又是什么意思？ [极客湾Geekerwan](https://www.youtube.com/watch?v=d\_24Tgsc0vo)                 |
-| 300mbps ->3mbps   MediaCoder x64                                                                              |
-| 显卡编码 nvenc编码器 直播用                                                                                             |
-| avisynth.nl AVS的各种用法   doom9论坛（forum.doom9.org）有用的压制技巧                                                        |
-| h.265   hevc   B站的视频上传规范                                                                                      |
-| 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                            |
-| obs studio                                                                                                    |
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| 如何压缩视频，把文件变小，还没画质损失？ [Mac云课堂](https://www.youtube.com/watch?v=0LSHhatwTxM)                           |
+| 完全解析：视频编码与封装 [Mediastorm影视飓风](https://www.youtube.com/watch?v=P-k4nqCL7tw)                           |
+| 视频格式, 封装格式, 编码格式, h.264 编码 mp4 封装                                                                    |
+| 高画质的背后——视频的封装与编码 [Mediastorm影视飓风](https://www.youtube.com/watch?v=hqNcj6\_lYg0)                      |
+| 封装格式 mp4                                                                                             |
+| <p>视频编码 h.264</p><p>帧内压缩 intraframe jpeg 保留亮度 压缩颜色 缩小90%</p><p>帧间压缩 interframe 关键帧+细节变化 I帧、P帧和B帧</p> |
+| adobe media encoder                                                                                  |
+| <p>码率, 控制码率的方法, 恒定码率cbr 可变码率vbr 固定质量crf 比特率</p><p>16mbps 16mb/s 5000kbps</p><p>cpu画质预设 fast</p>      |
+| 【科普】“视频”是怎么来的？H.264、码率这些词又是什么意思？ [极客湾Geekerwan](https://www.youtube.com/watch?v=d\_24Tgsc0vo)        |
+| 300mbps ->3mbps MediaCoder x64                                                                       |
+| 显卡编码 nvenc编码器 直播用                                                                                    |
+| avisynth.nl AVS的各种用法 doom9论坛（forum.doom9.org）有用的压制技巧                                                 |
+| h.265 hevc B站的视频上传规范                                                                                 |
+| 【科普】手把手教你做直播！4K直播了解一下？ [极客湾Geekerwan](https://www.youtube.com/watch?v=SRWpUvBtnZI)                   |
+| obs studio                                                                                           |
 
 ## 图像修复 图像恢复
 
@@ -332,20 +318,20 @@ import cv2
 
 #### 图像隐形水印
 
-|                                                                                                                                        |   |   |
-| -------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| ShieldMnt/[invisible-watermark](https://github.com/ShieldMnt/invisible-watermark)   [s](https://juejin.cn/post/6926838759786971144)    |   |   |
-|                                                                                                                                        |   |   |
-|                                                                                                                                        |   |   |
+|                                                                                                                                   |   |   |
+| --------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| ShieldMnt/[invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) [s](https://juejin.cn/post/6926838759786971144) |   |   |
+|                                                                                                                                   |   |   |
+|                                                                                                                                   |   |   |
 
 #### 扩图
 
-|   |
-| - |
+|                                                                                            |
+| ------------------------------------------------------------------------------------------ |
 | 生成式填充和扩图又一替代方案！Topaz Photo AI。 [工具狂Toolbuddy](https://www.youtube.com/watch?v=WnsmxZKR1Cs) |
-|   |
-|   |
-|   |
+|                                                                                            |
+|                                                                                            |
+|                                                                                            |
 
 #### 去水印
 
@@ -365,19 +351,19 @@ import cv2
 
 ## 超分辨率, SR, Super Resolution
 
-|                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180)                                                                                                                              |
-| TecoGAN [v](https://www.youtube.com/watch?v=MwCgvYtOLS0) [git](https://github.com/thunil/TecoGAN) [arxiv](https://arxiv.org/abs/1811.09393)                                                                                                                     |
-| SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                                                                                                                                        |
-| [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                                                                                                                                             |
-| Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                                                                                                                                              |
-| 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                                                                                                                                               |
-| Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)   Squirrel Anime Enhance   [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y)   [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
-| xinntao/[ESRGAN](https://github.com/xinntao/ESRGAN)   Enhanced SRGAN                                                                                                                                                                                            |
-| <p>AI技術去除馬賽克，全民步兵時代已經來臨 <a href="https://www.youtube.com/watch?v=udN9m-Xw_pg">LSP开车</a> </p><p>CodeFormer JavPlayer JavPlayerfree(假) TecoGAN JavPlayer中文交流论坛 SD:BVPP模型</p>                                                                                      |
-| 现在AI这么强，能去马赛克吗？#技术 #科技 #知识 #黑科技 #涨知识 [玄离199](https://www.douyin.com/video/7258947267288255781)                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Towards Real-World Blind Face Restoration with Generative Facial Prior [程序员资料](http://www.4k8k.xyz/article/qq\_38846606/115560180)                                                                                                                        |
+| TecoGAN [v](https://www.youtube.com/watch?v=MwCgvYtOLS0) [git](https://github.com/thunil/TecoGAN) [arxiv](https://arxiv.org/abs/1811.09393)                                                                                                               |
+| SixQuant/[nowatermark](https://github.com/SixQuant/nowatermark) 去除图片中的水印                                                                                                                                                                                  |
+| [search](https://github.com/search?q=cnn-watermark-removal)?q=cnn-watermark-removal                                                                                                                                                                       |
+| Deep Image Prior [s](https://dmitryulyanov.github.io/deep\_image\_prior) paper git                                                                                                                                                                        |
+| 模糊视频秒变高清！ Chrome、Edge浏览器可直接开启，AI又添全新“VSR”超分辨率技术，支持三代N卡、A卡 \| [零度解说](https://www.youtube.com/watch?v=O4\_L42zkUNo)                                                                                                                                         |
+| Justin62628/[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) Squirrel Anime Enhance [v](https://www.youtube.com/watch?v=lexA4KmEQ-Y) [reddit](https://www.reddit.com/r/mpv/comments/vq740t/squirrel\_anime\_enhance\_implements\_realcugan/) |
+| xinntao/[ESRGAN](https://github.com/xinntao/ESRGAN) Enhanced SRGAN                                                                                                                                                                                        |
+| <p>AI技術去除馬賽克，全民步兵時代已經來臨 <a href="https://www.youtube.com/watch?v=udN9m-Xw_pg">LSP开车</a></p><p>CodeFormer JavPlayer JavPlayerfree(假) TecoGAN JavPlayer中文交流论坛 SD:BVPP模型</p>                                                                                 |
+| 现在AI这么强，能去马赛克吗？#技术 #科技 #知识 #黑科技 #涨知识 [玄离199](https://www.douyin.com/video/7258947267288255781)                                                                                                                                                            |
+|                                                                                                                                                                                                                                                           |
 
 ## 以图搜图 Image similarity search
 
@@ -396,16 +382,16 @@ import cv2
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Kernel Size and Why Everyone Loves 3x3 - Neural Network Convolution [Animated AI](https://www.youtube.com/watch?v=V9ZYDCnItr0)                                          | What are Convolutional Neural Networks (CNNs)? [IBM Technology](https://www.youtube.com/watch?v=QzY57FaENXg)                                                         |                                                                                                                                                                  |
 | What is a convolutional neural network (CNN)? [Packt](https://www.youtube.com/watch?v=K\_BHmztRTpA)                                                                     | What is CNN Convolutional neural network \| Why should we use CNN \| Goeduhub [Goeduhub Technologies](https://www.youtube.com/watch?v=A9u43OT\_xPU)                  | CNN architecture in 5 minutes - A Quick Learning [Shriram Vasudevan](https://www.youtube.com/watch?v=R9CSbcGxKzo)                                                |
-| Convolutional Neural Networks \| CNN \| Kernel \| Stride \| Padding \| Pooling \| Flatten \| Formula [Binod Suman Academy](https://www.youtube.com/watch?v=Y1qxI-Df4Lk) | <p></p><p>Convolutional Neural Networks <a href="https://www.youtube.com/watch?v=wzy8jI-duEQ">Weights &#x26; Biases</a></p>                                          | Convolutional Neural Networks Explained (CNN Visualized) [Futurology — An Optimistic Future](https://www.youtube.com/watch?v=pj9-rr1wDhM)                        |
+| Convolutional Neural Networks \| CNN \| Kernel \| Stride \| Padding \| Pooling \| Flatten \| Formula [Binod Suman Academy](https://www.youtube.com/watch?v=Y1qxI-Df4Lk) | Convolutional Neural Networks [Weights & Biases](https://www.youtube.com/watch?v=wzy8jI-duEQ)                                                                        | Convolutional Neural Networks Explained (CNN Visualized) [Futurology — An Optimistic Future](https://www.youtube.com/watch?v=pj9-rr1wDhM)                        |
 | Convolutional Neural Network Visualization by Otavio Good [Israel Vicars](https://www.youtube.com/watch?v=f0t-OCG79-U)                                                  | 2D Convolution Neural Network Animation [Anuj shah](https://www.youtube.com/watch?v=CXOGvCMLrkA)                                                                     | Convolutional Neural Networks (CNNs) explained [deeplizard](https://www.youtube.com/watch?v=YRhxdVk\_sIs)                                                        |
 | 卷积神经网络的简介（ML Zero to Hero，第三集） [TensorFlow](https://www.youtube.com/watch?v=x\_VrgWTKkiM)                                                                               | 【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN) [Hung-yi Lee](https://www.youtube.com/watch?v=OP5HcXJg2Aw\&list=PLJV\_el3uVTsMhtt7\_Y6sgTHGHp1Vb2P2J\&index=9) |                                                                                                                                                                  |
 | AlexNet论文逐段精读 [Mu Li](https://www.youtube.com/watch?v=zjnxu8KUYKA)                                                                                                      | Convolution Neural Networks [CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74)                                                 | Convolutional Neural Networks in Practice // Cassidy Williams, Clarifai (FirstMark's Code Driven) [Code Driven NYC](https://www.youtube.com/watch?v=s716QXfApa0) |
 | CNN Explainer [s](https://poloclub.github.io/cnn-explainer/) [v](https://www.youtube.com/watch?v=HnWIHWFbuUQ)                                                           |                                                                                                                                                                      |                                                                                                                                                                  |
-| Why do Convolutional Neural Networks work so well? [Algorithmic Simplicity](https://www.youtube.com/watch?v=8iIdWHjleIs)                                                          |                                                                                                                                                                      |                                                                                                                                                                  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Why do Convolutional Neural Networks work so well? [Algorithmic Simplicity](https://www.youtube.com/watch?v=8iIdWHjleIs)                                                |                                                                                                                                                                      |                                                                                                                                                                  |
+|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                                                  |
+|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                                                  |
+|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                                                  |
+|                                                                                                                                                                         |                                                                                                                                                                      |                                                                                                                                                                  |
 
 ### ResNet
 
@@ -469,7 +455,7 @@ import cv2
 | DINO: Emerging Properties in Self-Supervised Vision Transformers Summary [towardsdatascience](https://towardsdatascience.com/dino-emerging-properties-in-self-supervised-vision-transformers-summary-ab91df82cc3c)                                           |
 | DINOv2: State-of-the-art computer vision models with self-supervised learning [ai.facebook](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)                                                                                  |
 | facebookresearch/[dino](https://github.com/facebookresearch/dino)                                                                                                                                                                                            |
-| facebookresearch/[dinov2](https://github.com/facebookresearch/dinov2)   DINO2 API documentation [s](https://d3d9.github.io/DINO2/DINO2/) [v](https://www.youtube.com/watch?v=vl9rurUg0ug)4:00                                                                |
+| facebookresearch/[dinov2](https://github.com/facebookresearch/dinov2) DINO2 API documentation [s](https://d3d9.github.io/DINO2/DINO2/) [v](https://www.youtube.com/watch?v=vl9rurUg0ug)4:00                                                                  |
 | DINOv2 from Meta AI: Data pipeline, model training and results explained [AI Bites](https://www.youtube.com/watch?v=RZEkdOc3szU)                                                                                                                             |
 |                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                              |
@@ -485,7 +471,7 @@ import cv2
 | Object detection using YOLO v4 and pre trained model \| Deep Learning Tutorial 32 (Tensorflow) [codebasics](https://www.youtube.com/watch?v=IfRMV2MY9n0)                                                                                                                                 |
 | facebookresearch/Detectron [git](https://github.com/facebookresearch/Detectron)                                                                                                                                                                                                          |
 | YOLOv5发布v6.0版本，看看效果怎么样 [迷途小书童的Note](https://www.youtube.com/watch?v=LvnP04V5grA) [s](https://xugaoxiang.com/2021/10/14/yolov5-v6/)                                                                                                                                                       |
-| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/)   [v](https://www.youtube.com/watch?v=cQqvrJoue-I)                                                                                                                                               |
+| Streamlit部署YOLOv5目标检测 [迷途小书童的Note](https://xugaoxiang.com/2021/08/27/yolov5-streamlit/) [v](https://www.youtube.com/watch?v=cQqvrJoue-I)                                                                                                                                                 |
 | YOLO [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM)                                                                                                                                                                                                |
 | Build a Deep Face Detection Model with Python and Tensorflow \| Full Course [Nicholas Renotte](https://www.youtube.com/watch?v=N\_W4EYtsa10)                                                                                                                                             |
 | Gilbert Tanner [u](https://www.youtube.com/c/GilbertTanner/playlists)                                                                                                                                                                                                                    |
@@ -518,11 +504,7 @@ import cv2
 
 #### 2D目标检测
 
-
-
 #### 3D目标检测
-
-
 
 ### 视频跟踪
 
@@ -722,7 +704,7 @@ import cv2
 | This Image is Made of Text [The Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI)                                                                                                                       |
 | Fingerprint Matching in Python [NeuralNine](https://www.youtube.com/watch?v=IIvfqfKkiio) 指纹识别                                                                                                                    |
 | NVIDIA Instant Neural Graphics Primitives (nerf) [Dirk Teucher](https://www.youtube.com/watch?v=87h\_P2BXEag)                                                                                                    |
-| OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI)   A python library [s](http://imageai.org/) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                      |
+| OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI) A python library [s](http://imageai.org/) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                        |
 | Coding Challenge: Image to ASCII [The Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI)                                                                                                                 |
 
 <details>

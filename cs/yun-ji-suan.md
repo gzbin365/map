@@ -48,6 +48,8 @@
 | 服务器和PC的区别 [拿撒勒的码农](https://www.youtube.com/watch?v=o-W8Hudycao)                                                                           |
 | 花两千多的预算，得到一个128G内存，14核心28线程的工作站，你心动了吗？ [妙不工作室](https://www.youtube.com/watch?v=tRD8J0txcBo)                                               |
 | 为什么它被称为互联网之魂？服务器硬件知识科普 [无情开评](https://www.youtube.com/watch?v=GmX3Sd\_3AIQ)                                                               |
+| 「黑貓」把 M2 Mac mini 用作家用伺服器 \| 入門教程 + 體驗感受 [黑貓的野望 BlackCat's Studio](https://www.youtube.com/watch?v=CITHNloGlnU)                           |
+|                                                                                                                                           |
 |                                                                                                                                           |
 
 ## 数据中心

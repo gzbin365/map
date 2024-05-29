@@ -785,7 +785,7 @@ System on Chip, 系统级芯片
 | 如何在 windows 10 /11 系统上安装 Android TV 和 Google TV ？看这个教程就可以搞定 ！ \| [零度解说](https://www.youtube.com/watch?v=0-PHXue5TqQ)                                                                                                      |
 | 小米盒子3增强版从入门到精通 [YuFeng Deng](https://www.youtube.com/playlist?list=PL3dZh-p-vVod5bF2MZotiIuNvNwklY\_8h) 等等                                                                                                                |
 | <p>电视盒子 <a href="https://www.youtube.com/playlist?list=PLV03kUE6uHsoJf4eTW7hgPIhVsRHuB5hw">小悟空的频道</a></p><p>Apple TV 4K <a href="https://www.youtube.com/playlist?list=PLV03kUE6uHsq1UG7bRHoO_v5icm7orCOf">小悟空的频道</a></p> |
-|                                                                                                                                                                                                                           |
+| TVBox 全网最强大的影视软件，爱优腾都删了吧，一个影视仓就够了！小白详细配置教程 [快嘴科技](https://www.youtube.com/watch?v=5INL1Vaum4Y)                                                                                                                            |
 |                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                           |
 
@@ -815,6 +815,7 @@ System on Chip, 系统级芯片
 | 【硬件科普】一个视频带你了解LCD OLED QLED mini-LED等显示技术的区别 [硬件茶谈](https://www.youtube.com/watch?v=wHdSGmqLne0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 为什么我不推荐购买OLED笔记本电脑？IPS和OLED如何选择？[科技你我他](https://www.youtube.com/watch?v=SfXOpHCp0qg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | LCD :VA TN IPS, IPS面板: In-Plane Switching                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 飞利浦的27B1U7903 4K Mini LED [v](https://www.youtube.com/watch?v=TpoPhk4kmyM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 | 墨水屏                                                                                            |
@@ -841,6 +842,14 @@ System on Chip, 系统级芯片
 | Awtrix DIY [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9T3Lw7PR9u\_UrtplM1Dqp77) |
 |                                                                                                |
 |                                                                                                |
+
+
+
+| 便携显示器 Portable monitor                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>完美！這才是真的便攜顯示器，街頭光微軟surface系列同款便攜屏 <a href="https://www.youtube.com/watch?v=A5ru6EyuJyc">街头光电</a></p><p>街头光10.5寸微軟surface系列同款 1920x1280</p> |
+|                                                                                                                                               |
+|                                                                                                                                               |
 
 ## HUD, Head-Up Display
 
