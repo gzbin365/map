@@ -70,7 +70,7 @@ description: 硬件设备
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Arduino(**[**u**](https://www.youtube.com/c/Arduino/featured)**, )**                                                                                                                                                                                               |
 | Arduino Projects HD [u](https://www.youtube.com/channel/UCpJh6vY8o19FawUx-yhXccA) Nikodem Bartnik [u](https://www.youtube.com/c/nikodembartnik) 黃信惠的瘋狂教室 [u](https://www.youtube.com/@davidhuanglab/playlists) TechDIYLife [u](https://www.youtube.com/@techdiylife) |
-| 周末实验室 [u](https://www.youtube.com/@user-gl2np7wo1n/playlists)                                                                                                                                                                                                        |
+| 周末实验室 [u](https://www.youtube.com/@user-gl2np7wo1n/playlists)   [Arduino入门](https://www.youtube.com/playlist?list=PLG\_u09HLwxf8ofJ14kPlD-3AoiI46X89O)                                                                                                               |
 | ESP32 + Arduino [Simply Explained](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU)                                                                                                                                                         |
 | Arduino Course for Beginners - Open-Source Electronics Platform [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX\_fLU)                                                                                                                                         |
 | Arduino Project to Product [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1\_j\_8)                                                                                                                                                    |
@@ -797,6 +797,16 @@ System on Chip, 系统级芯片
 | 0.5匹移动空调，夏季高温户外露营救星？Ecoflow岚Wave【值不值得买第567期】 [TESTV](https://www.youtube.com/watch?v=740HJSMcZtA) |
 | 耗资 10 万，盖了 9 间房，告诉你哪台空调最省电 [先看评测](https://www.youtube.com/watch?v=HWWL53c6Kk0)                    |
 
+## 洗衣机
+
+
+
+|                                                                         |
+| ----------------------------------------------------------------------- |
+| [路人齐小姐](https://www.youtube.com/watch?v=H\_QCJ8lSvS4)-生活小技巧：如何更换洗衣机排水管？ |
+|                                                                         |
+|                                                                         |
+
 ## 显示器 屏幕
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -848,7 +858,7 @@ System on Chip, 系统级芯片
 | 便携显示器 Portable monitor                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>完美！這才是真的便攜顯示器，街頭光微軟surface系列同款便攜屏 <a href="https://www.youtube.com/watch?v=A5ru6EyuJyc">街头光电</a></p><p>街头光10.5寸微軟surface系列同款 1920x1280</p> |
-|                                                                                                                                               |
+| pocketlcd2 【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【硬核】 [稚晖君](https://www.youtube.com/watch?v=AW4tgCRMADQ)                                           |
 |                                                                                                                                               |
 
 ## HUD, Head-Up Display
