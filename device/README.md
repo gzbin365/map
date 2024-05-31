@@ -882,7 +882,7 @@ System on Chip, 系统级芯片
 |                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 【硬件科普】视频采集卡有什么用？哪些场景需要采集卡？采集卡工作原理是啥？[硬件茶谈](https://www.youtube.com/watch?v=KoFDxkd7xjc\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=9) |
-|                                                                                                                                            |
+| 【宿舍必备】用 iPad/笔记本代替显示器！采集卡大横评！ [小宁子 XNZ](https://www.youtube.com/watch?v=vkvBEIrNJO4)                                                       |
 |                                                                                                                                            |
 
 ## 电源
@@ -1001,6 +1001,14 @@ System on Chip, 系统级芯片
 | How To Use CrystalDiskMark \| What Do The Numbers Mean? [Tech Illiterate](https://www.youtube.com/watch?v=JI8QS74Xz38) |
 |                                                                                                                        |
 |                                                                                                                        |
+
+
+
+| 硬盘检测                                                     |
+| -------------------------------------------------------- |
+| 先上官网查sn，然后检查盘体，然后用软件测硬盘型号，通电次数，运行时间，磁头飞行时间，然后跑磁道检测（必须全绿） |
+|                                                          |
+|                                                          |
 
 ## NAS
 
