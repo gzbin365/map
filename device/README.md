@@ -1109,7 +1109,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 26个英文字母不够了怎么办？超强的硬盘阵列感受一下！ [科技宅小明](https://www.youtube.com/watch?v=E9WQyRNNJa0)                                               |
 | A Case for Redundant Arrays of Inexpensive Disks (RAID) [pdf](https://www.cs.cmu.edu/\~garth/RAIDpaper/Patterson88.pdf)       |
 | 三块以上硬盘, RAID 5, 6 路由器需要好一点的, 22T 红盘 专用硬盘, 硬盘大小需要一样                                                                            |
-| 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接.                                                                                                |
+| 2块硬盘 RAID 1，硬盘镜像. RAID 0 硬盘拼接. raid 10 一半冗余，快                                                                                 |
 | shr [v](https://www.youtube.com/watch?v=XcRN9gsI0vk) 兼顾, 1个容错                                                                 |
 | RAID 5 1个容错 性能好, RAID 6 2个容错 安全                                                                                               |
 | 【折腾工坊】4块PCIe4.0的NVME固态组阵列能比内存快吗？ [硬件茶谈](https://www.youtube.com/watch?v=OCGguruZyrw)                                          |
