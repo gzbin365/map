@@ -993,6 +993,7 @@ System on Chip, 系统级芯片
 | 技嘉AG510K                                                                                                                                                             |
 | This SSD is Faster Than Your RAM [Linus Tech Tips](https://www.youtube.com/watch?v=IFwFDZDQWAA) CrystalDiskMark                                                      |
 | 移速 2T 3500 dy 458 tb 456.62 445到手                                                                                                                                    |
+| 硬碟裡面的「奈米科技」，到底有多狂？HDD、SSD有什麼差？《 生活中的發明史 》EP 017｜[志祺七七](https://www.youtube.com/watch?v=9iTbHo2FJEQ)                                                                  |
 |                                                                                                                                                                      |
 
 | CrystalDiskMark                                                                                                        |
@@ -1004,7 +1005,7 @@ System on Chip, 系统级芯片
 
 
 
-| 硬盘检测                                                     |
+| 硬盘检测 磁盘检测                                                |
 | -------------------------------------------------------- |
 | 先上官网查sn，然后检查盘体，然后用软件测硬盘型号，通电次数，运行时间，磁头飞行时间，然后跑磁道检测（必须全绿） |
 |                                                          |
