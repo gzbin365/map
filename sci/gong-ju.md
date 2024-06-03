@@ -6,9 +6,7 @@
 | 工具大师i [u](https://www.youtube.com/c/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88i)              | 止吾说 [u](https://www.youtube.com/c/%E6%AD%A2%E5%90%BE%E8%AF%B4/playlists)              |
 | [knowledge](https://wiki.nikiv.dev/) [git](https://github.com/nikitavoloboev/knowledge) | [4download](https://4download.net/)                                                   |
 | 蚂蚱资源网 [s](http://www.qiteb.com/sort/17)                                                 | 觸動世界 gettyimages [hk](https://www.gettyimages.hk/) [en](https://www.gettyimages.com/) |
-| 幕布 [s](https://mubu.com/home) 一键生成思维导图                                                  |   [ProcessOn](https://www.processon.com/) 在线流程图思维导图                                         |
-
-
+| 幕布 [s](https://mubu.com/home) 一键生成思维导图                                                  | [ProcessOn](https://www.processon.com/) 在线流程图思维导图                                     |
 
 | LaTeX                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,10 +40,18 @@
 | 為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Q\_PfYlAtvHc) |
 | 这就是最棒的效率软件！如果不是，我倒想试试你的 \| Notion使用技巧分享 [老石谈芯](https://www.youtube.com/watch?v=NHTMs1z88uA)        |
 
-| wiznote 为知笔记                                                                                            |
-| -------------------------------------------------------------------------------------------------- |
+| wiznote 为知笔记                                                                       |
+| ---------------------------------------------------------------------------------- |
 | [s](https://www.wiz.cn/zh-cn) [d](https://www.wiz.cn/zh-cn/wiznew.html) foxmail 92 |
-|  |
+|                                                                                    |
+
+
+
+|                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- |
+| 這些 App 讓你聰明用平板！清大學生真實使用技巧，蘋果 iPad、三星 Tab S 系列上課、家教、寫論文都行！ [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=I9pdCRomckM) |
+| ChatGPT 4.0 论文写作指导全流程，还不赶紧收藏好！ [周医生的科研馆](https://www.youtube.com/watch?v=xvUbOyRfr7Q)                                 |
+|                                                                                                                       |
 
 ### 其他导航
 
@@ -58,11 +64,11 @@
 
 ### 安卓模拟器, emulator
 
-|                                                                                                      |   |   |
-| ---------------------------------------------------------------------------------------------------- | - | - |
-| 【[Huan](https://www.youtube.com/watch?v=ZoURL5INFvE)】 手遊模擬器多開需要怎樣的電腦配備? PC電腦玩手遊: RO仙境傳說:愛如初見   夜神模拟器 |   |   |
-|                                                                                                      |   |   |
-|                                                                                                      |   |   |
+|                                                                                                    |   |   |
+| -------------------------------------------------------------------------------------------------- | - | - |
+| 【[Huan](https://www.youtube.com/watch?v=ZoURL5INFvE)】 手遊模擬器多開需要怎樣的電腦配備? PC電腦玩手遊: RO仙境傳說:愛如初見 夜神模拟器 |   |   |
+|                                                                                                    |   |   |
+|                                                                                                    |   |   |
 
 | bluestacks                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -124,7 +130,7 @@
 | AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放视频，硬盘扩容添加开机自启动更好用 \| [零度解说](https://www.youtube.com/watch?v=12QoxeljMoY)    |
 | 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                              |
 | 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                              |
-| [filez](https://www.filez.com/)   企业网盘                                                                                         |
+| [filez](https://www.filez.com/) 企业网盘                                                                                           |
 | Antdownload [s](https://antdownloadmanager.com/)                                                                               |
 | 免费网盘的“耻辱榜”！限速最严重、吃相最难看的到底是谁？今天我给大家测出来了 \| [零度解说](https://www.youtube.com/watch?v=WsqitzUuKKw)                                  |
 | 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
@@ -150,7 +156,7 @@
 | HopToDesk [v](https://www.douyin.com/video/7149035892676545824)                                                                                              |
 | ToDesk s [d](https://www.todesk.com/download.html) [git](https://github.com/ji4ozhu/ToDesk) tag?                                                             |
 | TeamViewer 破解版 [git](https://github.com/itgoyo/TeamViewer-5min)                                                                                              |
-| [#remote-desktop](https://github.com/topics/remote-desktop)  [#teamviewer](https://github.com/topics/teamviewer)                                             |
+| [#remote-desktop](https://github.com/topics/remote-desktop) [#teamviewer](https://github.com/topics/teamviewer)                                              |
 | 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
 | Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                                    |
 | Pi-Hosted : Must Have Tool For System Admins - Rust Desk Open Source Remote Desktop Software [Novaspirit Tech](https://www.youtube.com/watch?v=PDnqFnnbVHg)  |
@@ -158,11 +164,11 @@
 
 ## utools
 
-|                                                                                                                                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s](https://u.tools/) [v](https://www.douyin.com/video/7035994224096972070) [doc](https://u.tools/docs/guide/about-uTools.html#%E4%B8%80%E5%88%87%E7%9A%86%E6%8F%92%E4%BB%B6) [B](https://space.bilibili.com/395978728) [猿料](https://yuanliao.info/) [插件开发](https://u.tools/docs/developer/welcome.html)   [uTools 用户协议](https://u.tools/agreement.html) |
-| mohuishou/[utools](https://github.com/mohuishou/utools) utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [s](https://u.tools/) [v](https://www.douyin.com/video/7035994224096972070) [doc](https://u.tools/docs/guide/about-uTools.html#%E4%B8%80%E5%88%87%E7%9A%86%E6%8F%92%E4%BB%B6) [B](https://space.bilibili.com/395978728) [猿料](https://yuanliao.info/) [插件开发](https://u.tools/docs/developer/welcome.html) [uTools 用户协议](https://u.tools/agreement.html) |
+| mohuishou/[utools](https://github.com/mohuishou/utools) utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                        |
 
 ## 飞书
 
@@ -185,4 +191,3 @@
 | 联想工程师工具箱 [d](https://www.123pan.com/s/kP6A-XHBO3) [v](https://www.youtube.com/watch?v=gCDlPejwCQk)                       |
 | LANDrop [v](https://www.youtube.com/watch?v=UZJWHEil36Y) [s](https://landrop.app) [git](https://github.com/LANDrop) 文件传输 |
 |                                                                                                                          |
-

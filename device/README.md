@@ -400,12 +400,16 @@ description: 硬件设备
 
 ## 平板 Tablet, Pad
 
-|                                                                                             |                                                                                          |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU)  | 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享 |
-|                                                                                             |                                                                                          |
-| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                         |                                                                                          |
-| 畢業一年後，我把我的iPad Pro 2018換成了mini 6 [钱与非DreamFly](https://www.youtube.com/watch?v=UR09Rne1djE) |                                                                                          |
+|                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| Linux for an x86 Tablet [ExplainingComputers](https://www.youtube.com/watch?v=UaCwLjIf3sU)                                           |
+| 【[Huan](https://www.youtube.com/watch?v=JA6e7kjbjiE)】 如何免費把手機平板變成電腦螢幕? ASUS GlideX軟體操作分享                                             |
+| Mac与iPad指南 [呼叫天呦](https://www.douyin.com/video/7093154148656434439)                                                                  |
+| 畢業一年後，我把我的iPad Pro 2018換成了mini 6 [钱与非DreamFly](https://www.youtube.com/watch?v=UR09Rne1djE)                                          |
+| 這些 App 讓你聰明用平板！清大學生真實使用技巧，蘋果 iPad、三星 Tab S 系列上課、家教、寫論文都行！ [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=I9pdCRomckM)                |
+| 大學生人手一台 iPad 是基本？最多人用的平板筆記 App 是 GoodNotes & Notability！清華大學校訪 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=1C18-Vw4\_Fo) Flexcil  |
+|                                                                                                                                      |
+|                                                                                                                                      |
 
 ## Homelab
 
@@ -1210,6 +1214,7 @@ direct-attached storage
 | 软路由设置 [小悟空的频道](https://www.youtube.com/playlist?list=PLV03kUE6uHsqgGKVSu0dOHE4zz\_nI3jNo)                                                                                                                                                                                                                                 |
 | <p>软路由安装PVE虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！ <a href="https://www.youtube.com/watch?v=t_1o0rM3S7o">向北</a></p><p>软路由安装ESXI虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！这期很长你忍一下 <a href="https://www.youtube.com/watch?v=aWgO2xdT4FI">向北</a></p>                                                               |
 | 软路由N100，这样玩才完美，软路由All in One最完美方案！硬盘直通，双盘位NAS [阿雷科技](https://www.youtube.com/watch?v=QYX6sQ2arKk)                                                                                                                                                                                                                         |
+| 多维度测试中兴AX5400 Pro+：打造智能家需要它，电竞玩家的福音！ [拙言讲数码](https://www.youtube.com/watch?v=MNNatZgAock)                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                           |
 
 | openwrt                                                                                                                                     |
