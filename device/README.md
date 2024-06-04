@@ -408,7 +408,7 @@ description: 硬件设备
 | 畢業一年後，我把我的iPad Pro 2018換成了mini 6 [钱与非DreamFly](https://www.youtube.com/watch?v=UR09Rne1djE)                                          |
 | 這些 App 讓你聰明用平板！清大學生真實使用技巧，蘋果 iPad、三星 Tab S 系列上課、家教、寫論文都行！ [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=I9pdCRomckM)                |
 | 大學生人手一台 iPad 是基本？最多人用的平板筆記 App 是 GoodNotes & Notability！清華大學校訪 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=1C18-Vw4\_Fo) Flexcil  |
-|                                                                                                                                      |
+| 無法想像大學生現在都用平板上課！稽查妹妹平板，到底是買前生產力，還是買後Netflix【[貝爾熊派](https://www.youtube.com/watch?v=Y\_jS3iLpYBo)】                                    |
 |                                                                                                                                      |
 
 ## Homelab
