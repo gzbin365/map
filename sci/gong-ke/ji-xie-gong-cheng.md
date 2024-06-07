@@ -13,6 +13,9 @@
 | [Mechanical Engineering](https://www.youtube.com/playlist?list=PLi5WqFHu\_OJOkwyeHyD06tPyJ\_srHC4ZU) Zach Star                                    |
 | September 2020 - Introduction to Aircraft Design [IIT Bombay July 2018](https://www.youtube.com/playlist?list=PLOzRYVm0a65dHb6f2kmW7PBncvpedPiWe) |
 | Mechanisms [Noah Posner](https://www.youtube.com/playlist?list=PLhoXNQqrCmEfAaTf0AfQ1Ztxmz2DoZiCk)                                                |
+| Mechanical animation [Engine On](https://www.youtube.com/playlist?list=PLllB7oytZaSyUsL8bqX7FH63-tdHg6oXh)                                        |
+| Mechanical Engineering Basics [Skill Lync](https://www.youtube.com/playlist?list=PL9-f9hWLZS6129peH0QeQiRC-HwU6iZzg)                              |
+|                                                                                                                                                   |
 
 ## 机械设计
 

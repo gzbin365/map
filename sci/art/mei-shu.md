@@ -456,6 +456,16 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 |                                                                           |
 |                                                                           |
 
+### Fusion
+
+
+
+|                                                                        |
+| ---------------------------------------------------------------------- |
+| [s](https://www.blackmagicdesign.com/cn/products/fusion/visualeffects) |
+|                                                                        |
+|                                                                        |
+
 ### Revit
 
 Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course] [freeCodeCamp](https://www.youtube.com/watch?v=hEAg47jdYMs)
