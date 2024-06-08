@@ -830,7 +830,7 @@ System on Chip, 系统级芯片
 | 为什么我不推荐购买OLED笔记本电脑？IPS和OLED如何选择？[科技你我他](https://www.youtube.com/watch?v=SfXOpHCp0qg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | LCD :VA TN IPS, IPS面板: In-Plane Switching                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 飞利浦的27B1U7903 4K Mini LED [v](https://www.youtube.com/watch?v=TpoPhk4kmyM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Mac外接显示器推荐，你会选27寸还是32寸？[吴格子](https://www.youtube.com/watch?v=7GLbHVniDK4) 明基 EW3280U                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Mac外接显示器推荐，你会选27寸还是32寸？[吴格子](https://www.youtube.com/watch?v=7GLbHVniDK4) 明基 EW3280U 4K HDR [v](https://www.youtube.com/watch?v=bZ77JVVfHEE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 | 墨水屏                                                                                            |
@@ -1101,6 +1101,16 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 低成本DIY一套5盘位迷你（纯固态）NAS，功耗只有18W，还静音。[阿雷科技](https://www.youtube.com/watch?v=TUWfecEaUBs)                                                   |
 |                                                                                                                                         |
 |                                                                                                                                         |
+
+#### 绿联dxp4800plus
+
+
+
+|                     |
+| ------------------- |
+| 小雅emby alist 1panel |
+|                     |
+|                     |
 
 #### RAID
 
