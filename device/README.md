@@ -1104,13 +1104,11 @@ Network Attached Storage, 网络附加存储, 个人私有云
 
 #### 绿联dxp4800plus
 
-
-
-|                     |
-| ------------------- |
-| 小雅emby alist 1panel |
-|                     |
-|                     |
+|                                                          |
+| -------------------------------------------------------- |
+| 小雅emby alist 1panel unraid, true nas, bleach wrt, plex,  |
+|                                                          |
+|                                                          |
 
 #### RAID
 
