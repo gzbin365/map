@@ -413,11 +413,12 @@ description: 硬件设备
 
 ## Homelab
 
-|                                                                                                 |                                                                                                                  |   |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
-| Automating my Homelab with Ansible [Jeff Geerling](https://www.youtube.com/watch?v=yoFTL0Zm3tw) | Homelab upgrade: New Raspberry Pi Cluster rackmount [Jeff Geerling](https://www.youtube.com/watch?v=akJ97oqmQlU) |   |
-|                                                                                                 |                                                                                                                  |   |
-|                                                                                                 |                                                                                                                  |   |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Automating my Homelab with Ansible [Jeff Geerling](https://www.youtube.com/watch?v=yoFTL0Zm3tw)                  |
+| Homelab upgrade: New Raspberry Pi Cluster rackmount [Jeff Geerling](https://www.youtube.com/watch?v=akJ97oqmQlU) |
+| Homelab and Virtualization [2GuysTek](https://www.youtube.com/playlist?list=PLblpZ56f6Rwq4mRNJ0uecpAGgO\_CBHiQ5) |
+|                                                                                                                  |
 
 ## Drone / UAV
 
@@ -1089,6 +1090,8 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 能否使用普通电脑搭建家用NAS？[zh](https://www.zhihu.com/question/48046217)                                                                                                                                                 |
 | NAS相關內容分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFa3C4evyjHVcYCim3kluKj)                                                                                                                   |
 | NAS [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIET7wJ8F97zDGsuHEywCuis)                                                                                                                           |
+| 在 Linux 上使用 NAS [s](https://www.asustor.com/zh-cn/online/College\_topic?topic=109#lux1)                                                                                                                       |
+| linux安装samba服务器 [s](https://www.cnblogs.com/lemanlai/p/12267330.html)                                                                                                                                         |
 |                                                                                                                                                                                                               |
 
 #### 全固态NAS 纯固态NAS
@@ -1104,11 +1107,11 @@ Network Attached Storage, 网络附加存储, 个人私有云
 
 #### 绿联dxp4800plus
 
-|                                                          |
-| -------------------------------------------------------- |
-| 小雅emby alist 1panel unraid, true nas, bleach wrt, plex,  |
-|                                                          |
-|                                                          |
+|                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| 小雅emby alist 1panel unraid [v](https://www.youtube.com/watch?v=85qbJM4g-L8), true nas, bleach wrt, plex, istoreos, ikuai, 迅游, plex,  |
+|                                                                                                                                      |
+|                                                                                                                                      |
 
 #### RAID
 
