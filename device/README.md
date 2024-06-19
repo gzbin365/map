@@ -1036,6 +1036,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 机械换成固态: 没有噪音                                                                                                                                                                                                                                                  |
 | NAS 扩容 [v](https://www.youtube.com/watch?v=wNjbQC53KxY) 8:35                                                                                                                                                                                                  |
 | 玩转NAS（网络存储） [我是阿皮啊](https://www.youtube.com/playlist?list=PLUbug3-ArPPrWVBPUYA9\_UR33f7D5\_Fxs)                                                                                                                                                               |
+| 全是NAS（群晖｜QNAP｜DiyNAS等） [悟空的日常](https://www.youtube.com/playlist?list=PL-Gg8EgJJQpAueQ8jy3geO4sy2Udz38t3)                                                                                                                                                      |
 |                                                                                                                                                                                                                                                               |
 
 | 黑群晖                                                                                                     |
@@ -1092,6 +1093,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | NAS [张大七](https://www.youtube.com/playlist?list=PLIIaQT8SoQIET7wJ8F97zDGsuHEywCuis)                                                                                                                           |
 | 在 Linux 上使用 NAS [s](https://www.asustor.com/zh-cn/online/College\_topic?topic=109#lux1)                                                                                                                       |
 | linux安装samba服务器 [s](https://www.cnblogs.com/lemanlai/p/12267330.html)                                                                                                                                         |
+| Freenas教程 [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuFt8-0yh-4qUUn-5muyq\_UB)                                                                                                                    |
 |                                                                                                                                                                                                               |
 
 #### 全固态NAS 纯固态NAS
@@ -1605,4 +1607,5 @@ rode podmic 880 RODE Wireless GO II 3000 舒尔SM58 KMS 105
 | 罗上凯工程师 [u](https://www.youtube.com/channel/UCU6utq4E8UPuUGv03AXSAdQ)                                        | 海賊王DIY日記 [u](https://www.youtube.com/@pirate-king)                   |
 | 笔记本维修厮 [u](https://www.youtube.com/@LaptopRepairGuy) [B](https://space.bilibili.com/382666849)              | 靓仔修机 PC-Repair [u](https://www.youtube.com/@LiangZaiXiuJi)           |
 | 電腦維修升級類 [北漂運營維護](https://www.youtube.com/playlist?list=PL9ihhzkzO8EvOrr6B7qhw2vscyD3Pq03P)                  | EZFIX [u](https://www.youtube.com/@EZFIX.)                           |
-| 合肥怡飞苹果电脑维修 MAC FIX ---维修案例分享 [u](https://www.youtube.com/@hefei-yifei)                                      |                                                                      |
+| 合肥怡飞苹果电脑维修 MAC FIX ---维修案例分享 [u](https://www.youtube.com/@hefei-yifei)                                      | 华宇万维 [u](https://www.youtube.com/@hyww)                              |
+|                                                                                                             |                                                                      |
