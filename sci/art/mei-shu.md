@@ -178,7 +178,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 剪映手机版教学 [剪映新手入门](https://www.youtube.com/playlist?list=PLXYDcTR26v0tSz48S2sGoCcUCZxk-OFXB)                                                                                                                                         |
 | 剪映专业版2023完全课程（Windows 版本） [老胡油管研究院](https://www.youtube.com/playlist?list=PLIYXXsSXtjoJd9HHDDGuuYmWMTbZsLTTd)                                                                                                                      |
 | 【2024年5月】VIP剪輯軟體解鎖！最新PC版破解教學 ｜ 开心版，让你剪辑自由，无论是抖音、tiktok、快手、youtube都能畅快剪辑 [小雨ChatGPT实验室](https://www.youtube.com/watch?v=fFIqkFfKbiU)                                                                                                |
-|                                                                                                                                                                                                                                    |
+| 剪映专业版入门手册 [暴躁小枫](https://www.capcut.cn/learning/topic\_detail/7128272592783428894?page\_enter\_from=videocut\_pc)                                                                                                                  |
 |                                                                                                                                                                                                                                    |
 
 ### Final Cut Pro
