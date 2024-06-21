@@ -515,7 +515,7 @@
 | 從零開始學習C++編程語言 [自學課堂](https://www.youtube.com/playlist?list=PL5eFspCU9xDdFQfaTRGng05ALJHDzaIfN)                                                                                      |
 | RPA脚本课程 [脚本哥](https://www.youtube.com/playlist?list=PL\_Xn6a3Kyf0rlUU5WVBAgbCxEcN\_Ge-5y)                                                                                           |
 | Android手游逆向教程(45集) [砖家王二狗](https://www.youtube.com/playlist?list=PLwIrqQCQ5pQmjLvsEamXeNPi3hGZF4egi)                                                                                |
-|                                                                                                                                                                                     |
+| 最硬核科普-各类外挂底层原理！爆肝探索各路牛鬼蛇神作弊器 Principle of all kinds of cheat [轻音丶Joy](https://www.youtube.com/watch?v=4fG7uoKbV80)                                                                  |
 |                                                                                                                                                                                     |
 
 ## 易语言
