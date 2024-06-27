@@ -496,6 +496,9 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | chaoming0625/[SentimentPolarityAnalysis](https://github.com/chaoming0625/SentimentPolarityAnalysis) 情感极性分析repository                                                                     |
 | DefuLi/[Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) “互联网新闻情感分析”赛题                                                                |
 | Build a Comment Toxicity Model with Deep Learning and Python [Nicholas Renotte](https://www.youtube.com/watch?v=ZUqB-luawZg)                                                             |
+| Sentiment Analysis with Transformers in Python [NeuralNine](https://www.youtube.com/watch?v=cXWuSWX0Va0)                                                                                 |
+|                                                                                                                                                                                          |
+|                                                                                                                                                                                          |
 
 ### （短）文本相似度 Text Similarity
 

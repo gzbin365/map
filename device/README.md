@@ -1235,6 +1235,10 @@ direct-attached storage
 | <p>软路由安装PVE虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！ <a href="https://www.youtube.com/watch?v=t_1o0rM3S7o">向北</a></p><p>软路由安装ESXI虚拟机安装OpenWrt、爱快iKuai、NAS，打造all in one小主机,超详细！这期很长你忍一下 <a href="https://www.youtube.com/watch?v=aWgO2xdT4FI">向北</a></p>                                                               |
 | 软路由N100，这样玩才完美，软路由All in One最完美方案！硬盘直通，双盘位NAS [阿雷科技](https://www.youtube.com/watch?v=QYX6sQ2arKk)                                                                                                                                                                                                                         |
 | 多维度测试中兴AX5400 Pro+：打造智能家需要它，电竞玩家的福音！ [拙言讲数码](https://www.youtube.com/watch?v=MNNatZgAock)                                                                                                                                                                                                                                 |
+| 软路由教程 [元墨](https://www.youtube.com/playlist?list=PLVP8MsUg\_u86aphZKHhoi2W146tWvHUJ7)                                                                                                                                                                                                                                     |
+| 软路由 [洋葱](https://www.youtube.com/playlist?list=PLsMQTINwajNS\_6ltJcvR1rucs1u3H2BjC)                                                                                                                                                                                                                                       |
+| NAS / 路由器 / 網絡相關 [腦控](https://www.youtube.com/playlist?list=PLXvhiMRRLHkN5LwW18zKryt22UbQza4i3)                                                                                                                                                                                                                           |
+| Switching and Routing [Sunny Classroom](https://www.youtube.com/playlist?list=PLSNNzog5eydtmcbcbc1b8pVRkgre3vNUy)                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                           |
 
 | openwrt                                                                                                                                     |
@@ -1246,8 +1250,8 @@ direct-attached storage
 | DHDAXCW/[OpenWRT\_x86\_x64](https://github.com/DHDAXCW/OpenWRT\_x86\_x64) 基于 lede 源码建构 x86 的 OpenWrt 固件。                                    |
 | 在群晖上搭建OpenWrt软路由系统 [把布丢](https://www.youtube.com/watch?v=qAVqPA3TxNI)                                                                       |
 | 我依然推荐用linux网关取代openwrt旁路由，稳定、便宜、兼容性拉满。 [索拉里斯风](https://www.youtube.com/watch?v=DqubruPMmhU)                                                 |
-|                                                                                                                                             |
-|                                                                                                                                             |
+| ALL IN ONE 一体机教程 EXSI 虚拟化 OPENWRT 软路由 NAS 个人云存储 [augustdoit](https://www.youtube.com/playlist?list=PLttD9ghFYDQG0h\_4ODZL2U6MVlqzH0G1B)     |
+| OpenWrt [OneMarcFifty](https://www.youtube.com/playlist?list=PLZXNpqQDHIJrgzaR7h1V1AT4bdaNjS0zZ)                                            |
 |                                                                                                                                             |
 
 | ikuai（爱快）软路由                                     |
