@@ -824,6 +824,14 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 |   |
 |   |
 
+### LangGraph
+
+|                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learn how to build an agent from scratch with LangGraph [DeepLearningAI](https://www.youtube.com/watch?v=Lj9npd7u1Ms)   [s](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction) |
+|                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                 |
+
 ### Google Bard
 
 |                                                                                                                                          |

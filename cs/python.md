@@ -1145,6 +1145,10 @@ IPython [s](https://ipython.org/) [Documentation](https://ipython.readthedocs.io
 
 Jupyter Notebook Viewer [nbviewer](https://nbviewer.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
 
+Turn Jupyter Notebooks to Web Apps in Python [NeuralNine](https://www.youtube.com/watch?v=bz0JzpvzbS8)LangGraph
+
+
+
 </details>
 
 ### JupyterLab

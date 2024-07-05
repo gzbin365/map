@@ -1239,6 +1239,7 @@ direct-attached storage
 | 软路由 [洋葱](https://www.youtube.com/playlist?list=PLsMQTINwajNS\_6ltJcvR1rucs1u3H2BjC)                                                                                                                                                                                                                                       |
 | NAS / 路由器 / 網絡相關 [腦控](https://www.youtube.com/playlist?list=PLXvhiMRRLHkN5LwW18zKryt22UbQza4i3)                                                                                                                                                                                                                           |
 | Switching and Routing [Sunny Classroom](https://www.youtube.com/playlist?list=PLSNNzog5eydtmcbcbc1b8pVRkgre3vNUy)                                                                                                                                                                                                         |
+| 【ESXi • 探究】 [老同学B](https://www.youtube.com/playlist?list=PL8Mh4NC6IvzxX1BVF2Nkg7BSzfoge05Rd)                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                           |
 
 | openwrt                                                                                                                                     |
@@ -1448,6 +1449,8 @@ direct-attached storage
 | 黄令仪 \| 中国芯片之母 [最佳拍档](https://www.youtube.com/watch?v=Z3NhFsMtxC8) 我最大的心愿就是匍匐在地，擦净祖国身上的耻辱                                                    |
 | 【商业】OPPO缘何梦碎哲库ZEKU \| 失败的原因究竟是什么 \| 美国制裁还是没钱 \| 亦或是对行业缺少敬畏 \| 造芯片究竟有多难 [最佳拍档](https://www.youtube.com/watch?v=8zusGXL86UU)                  |
 | M3系列深度解析: 新智能缓存/光追架构, 生产力爆发? [Luv Letter](https://www.youtube.com/watch?v=HUJwmKDQ0LM)                                                      |
+| 芯片故事 [老范讲故事](https://www.youtube.com/playlist?list=PLEpazxzSpsG22xbu1eBxGKdYMroM1p0OC)                                                      |
+|                                                                                                                                             |
 |                                                                                                                                             |
 
 ### 数字电路
