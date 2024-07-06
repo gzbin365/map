@@ -784,7 +784,7 @@
 | 一个邮箱拥有两个外区AppStore [凸游Club](https://www.douyin.com/video/7137498677886602510)                                                                                                                              |
 | Installing macOS on a Microsoft laptop [MattKC](https://www.youtube.com/watch?v=S15FVwbHEqo)                                                                                                               |
 | Infuse使用经验分享：搭建私人影视资源库 [黄杨ME](https://www.youtube.com/watch?v=Z1o-UqAzjZQ)                                                                                                                                 |
-| 友人朦 [u](https://www.youtube.com/@YouRenMeng)                                                                                                                                                               |
+| 友人朦 [u](https://www.youtube.com/@YouRenMeng)   Spike‘s Podcast [u](https://www.youtube.com/@zongye8327)                                                                                                    |
 | 你可以有：“吊打”苹果电脑的Hei苹果！ [科技宅小明](https://www.youtube.com/watch?v=GLAQEskK2TU)                                                                                                                                  |
 | Mac软件分享 [黄杨ME](https://www.youtube.com/@huangyang/playlists)                                                                                                                                               |
 | Mac 必學祕技！ [APPLEFANS蘋果迷](https://www.youtube.com/playlist?list=PLOq0qjygIvo1KGa3LXsV8VxKOGFDvWNMG)                                                                                                         |
