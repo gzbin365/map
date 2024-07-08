@@ -657,16 +657,18 @@ description: 硬件设备
 
 ## 内存
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE)          |
-| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)               |
-| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                          |
-| How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ) |
-| 32\*2 6400                                                                                          |
-| 買記憶體條需要注意哪些參數？ 頻率、時序對效能有什麼影響？ 「超極氪」 [Super Kr超极氪](https://www.youtube.com/watch?v=7\_rodI5bQIs)     |
-| Memcached Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=VhM2ByShhzE)        |
-|                                                                                                     |
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| 【酷玩】这些内存到底有什么区别？实际使用有多大差距？我用测试一周的数据告诉你 [酷玩小报](https://www.youtube.com/watch?v=mi4AkdETUrE)               |
+| 把系统装在内存条上，速度能不能起飞？这操作让微软看了也都直呼内行！ [酷玩小报](https://www.youtube.com/watch?v=fF7l-ODLnrc)                    |
+| 放大一亿倍，芯片内部是如何工作的？ [NONO](https://www.douyin.com/video/7165485658058837256)                               |
+| How does Computer Memory Work? 💻🛠 [Branch Education](https://www.youtube.com/watch?v=7J7X7aZvMXQ)      |
+| 32\*2 6400                                                                                               |
+| 買記憶體條需要注意哪些參數？ 頻率、時序對效能有什麼影響？ 「超極氪」 [Super Kr超极氪](https://www.youtube.com/watch?v=7\_rodI5bQIs)          |
+| Memcached Tutorial for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=VhM2ByShhzE)             |
+| 如何在 Windows 10 /11 上提升内存速度、让电脑的速度瞬间起飞！！又能免费增加 RAM \| [零度解说](https://www.youtube.com/watch?v=0rjvDqMeKVw) |
+|                                                                                                          |
+|                                                                                                          |
 
 ## 散热
 
