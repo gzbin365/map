@@ -1546,7 +1546,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Deployment of ML Models [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)                                              |
 | Aladdin Persson [u](https://www.youtube.com/@AladdinPersson/playlists)                                                                                      |
 | Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel) [freeCodeCamp](https://www.youtube.com/watch?v=r895rFUbGtE)     |
-|                                                                                                                                                             |
+| How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more ) [freeCodeCamp](https://www.youtube.com/watch?v=vROMXzOWqec) |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
