@@ -200,4 +200,14 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | Kindle为什么退出中国？ [老范讲故事](https://www.youtube.com/watch?v=uXN8m8JWkJE)                                                                                                |
 |                                                                                                                                                                    |
 
+## Podcast
+
+
+
+|                                                                         |
+| ----------------------------------------------------------------------- |
+| 張修修的不正常人生 Shosho's Abnormal Life [u](https://www.youtube.com/@shoshotw) |
+|                                                                         |
+|                                                                         |
+
 ## 其他
