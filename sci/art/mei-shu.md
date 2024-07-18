@@ -161,11 +161,13 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ## 视频剪辑 剪輯
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf\_id=8) |
-| 剪輯教學 [木石mushi](https://www.youtube.com/playlist?list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o)    |
-|                                                                                             |
+|                                                                                                   |
+| ------------------------------------------------------------------------------------------------- |
+| 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf\_id=8)       |
+| 剪輯教學 [木石mushi](https://www.youtube.com/playlist?list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o)          |
+| 影片剪辑教程 [咔咔的老吴](https://www.youtube.com/playlist?list=PLhZY3cJj3ouBcbx-SzMSzI7V0w3Wy2h2j)          |
+| 剪映電腦版教程 [Greyson Zhang](https://www.youtube.com/playlist?list=PLNUIzu31Ju-dBnnMP8rMZE6JA6v-KSOzo) |
+|                                                                                                   |
 
 ### 剪映 剪映国际版capcut
 
@@ -514,3 +516,76 @@ Revit Tutorial for Beginners - Building Information Modeling \[3D Design Course]
 | 天合后期老毛 抖音号： [hqlm999](https://www.douyin.com/user/MS4wLjABAAAAgFU11AaduuCNSEoE8vlgeCyy24wKI1xCeoasDVo7CPU) |   |
 | 特效小哥的神之操作，假的不光可以是背景～ [冥天游戏带你飞](https://www.douyin.com/video/7130480600233905415)                           |   |
 |                                                                                                            |   |
+
+## AI推文
+
+
+
+|                                                                                       |
+| ------------------------------------------------------------------------------------- |
+| 惫懒の欧阳川 [u](https://www.youtube.com/@OUYCC/playlists)                                  |
+| AI教學 [小發學姐](https://www.youtube.com/playlist?list=PL-hs63VhM8NiSaz22tNAZLERQZzt-qSvR) |
+|                                                                                       |
+
+### 作图
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+### 文案
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+### 配音
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+## 其他
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

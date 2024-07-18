@@ -222,6 +222,16 @@ import cv2
 |                                                                                                                 |
 |                                                                                                                 |
 
+### AI绘图
+
+
+
+|                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| AIGC、ChatGPT、MidJourney [老范讲故事](https://www.youtube.com/playlist?list=PLEpazxzSpsG19Ra1EpQLIQhebG53K9wjB) |
+|                                                                                                           |
+|                                                                                                           |
+
 ### DeepFake
 
 [How to detect DeepFakes with MesoNet | 20 MIN. PYTHON TUTORIAL](https://www.youtube.com/watch?v=kYeLBZMTLjk)
