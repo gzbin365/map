@@ -530,6 +530,7 @@ import cv2
 | YOLOv5 的 Android 部署，基于 tflite [迷途小书童的Note](https://www.youtube.com/watch?v=glC6Gm7UY6c)                                                                                        |
 | I Built an AI That Shoots Me in the Face When I Get Distracted [ForrestKnight](https://www.youtube.com/watch?v=A8eegxL82PI)                                                    |
 | Tracking Cars with Drones and LandingLens [Landing AI](https://www.youtube.com/watch?v=vysOcTcDmCQ)                                                                            |
+| 手把手带你实战YOLOv5 [你可是处女座啊](https://www.youtube.com/playlist?list=PL2ecZnqc6-L4mp6CktfgLDrw5TCYqL\_6B)                                                                             |
 |                                                                                                                                                                                |
 
 #### SAM-Track
