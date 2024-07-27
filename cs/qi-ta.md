@@ -987,6 +987,7 @@
 | Top 10 PowerShell Commands for Beginners \| Realistic Examples with Explanations! [Josh Madakor](https://www.youtube.com/watch?v=MP\_UR5iWfZQ)                          |
 | Top 5 Useful PowerShell Commands [ITProTV](https://www.youtube.com/watch?v=0-TtGeaNpNA)                                                                                 |
 | Learn PowerShell [ABMedia](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE)                                                                    |
+| windows为什么有两个命令行工具？命令提示符与PowerShell有什么区别？#教程 #操作系统 #编程 #windows #powershell #科技 #极客 技术爬爬虾 [TechShrimp](https://www.youtube.com/watch?v=u0yKHP0onwU)                     |
 |                                                                                                                                                                         |
 |                                                                                                                                                                         |
 |                                                                                                                                                                         |
