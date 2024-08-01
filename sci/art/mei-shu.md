@@ -135,8 +135,26 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 |                                                                                                                                  |                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 十无的画 抖音号： [Shiwu77\_](https://www.douyin.com/user/MS4wLjABAAAA63M3fmDoT9\_WUt-29-8h7XHRQPXidUIz46u57St1FiUAN9y0aZymIqruaC8luXiS) | Brad Colbow [u](https://www.youtube.com/@thebradcolbow) |
+| 茶子鱼插画 [u](https://www.youtube.com/@chaziyu/playlists)                                                                            |                                                         |
 |                                                                                                                                  |                                                         |
-|                                                                                                                                  |                                                         |
+
+### Procreate
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+
+
+|                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| PROCREATE 5.0 教程：新版本有哪些新突破？绘画爱好者的福音 [叶子Msyemin](https://www.youtube.com/watch?v=NNsNp0DZ1Q8)             |
+| Learn to Procreate [Procreate](https://www.youtube.com/playlist?list=PLlpSQCrjuGkoZHyUyO3cNEMyYPNkF0Hne) |
+|                                                                                                          |
 
 ## 调色 配色
 
