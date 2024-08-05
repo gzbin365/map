@@ -150,11 +150,11 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| PROCREATE 5.0 教程：新版本有哪些新突破？绘画爱好者的福音 [叶子Msyemin](https://www.youtube.com/watch?v=NNsNp0DZ1Q8)             |
-| Learn to Procreate [Procreate](https://www.youtube.com/playlist?list=PLlpSQCrjuGkoZHyUyO3cNEMyYPNkF0Hne) |
-|                                                                                                          |
+|                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>PROCREATE 5.0 教程：新版本有哪些新突破？绘画爱好者的福音 <a href="https://www.youtube.com/watch?v=NNsNp0DZ1Q8">叶子Msyemin</a></p><p>PROCREATE教程 <a href="https://www.youtube.com/playlist?list=PLTtNt0zxWYMM9IXZ5ZO_5asBNTMmBg6oN">叶子Msyemin</a></p> |
+| Learn to Procreate [Procreate](https://www.youtube.com/playlist?list=PLlpSQCrjuGkoZHyUyO3cNEMyYPNkF0Hne)                                                                                                                          |
+|                                                                                                                                                                                                                                   |
 
 ## 调色 配色
 
