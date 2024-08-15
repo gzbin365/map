@@ -187,7 +187,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 剪映電腦版教程 [Greyson Zhang](https://www.youtube.com/playlist?list=PLNUIzu31Ju-dBnnMP8rMZE6JA6v-KSOzo) |
 |                                                                                                   |
 
-### 剪映 剪映国际版capcut
+### 剪映 剪映专业版 剪映国际版 capcut
 
 |                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
