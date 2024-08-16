@@ -189,7 +189,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### 剪映 剪映专业版 剪映国际版 capcut
 
-|                                                                                                                                                                                                                                    |
+| 电脑版                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [s & d](https://www.capcut.cn/) capcut [s](https://www.capcut.com/)                                                                                                                                                                |
 | 王同学的剪辑分享 [B](https://space.bilibili.com/2029640706) joe是說 [u](https://www.youtube.com/@joewemedia/playlists) 1个小罗罗的自媒体工具研究院 [u](https://www.youtube.com/@1luoluo)                                                                  |
@@ -199,7 +199,18 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | 剪映专业版2023完全课程（Windows 版本） [老胡油管研究院](https://www.youtube.com/playlist?list=PLIYXXsSXtjoJd9HHDDGuuYmWMTbZsLTTd)                                                                                                                      |
 | 【2024年5月】VIP剪輯軟體解鎖！最新PC版破解教學 ｜ 开心版，让你剪辑自由，无论是抖音、tiktok、快手、youtube都能畅快剪辑 [小雨ChatGPT实验室](https://www.youtube.com/watch?v=fFIqkFfKbiU)                                                                                                |
 | 剪映专业版入门手册 [暴躁小枫](https://www.capcut.cn/learning/topic\_detail/7128272592783428894?page\_enter\_from=videocut\_pc)                                                                                                                  |
+| 【全網最完整免費剪映教學】60分鐘精通剪映專業版（2024） [Greyson Zhang](https://www.youtube.com/watch?v=Zl4beiFq37c)                                                                                                                                        |
 |                                                                                                                                                                                                                                    |
+
+
+
+|   |
+| - |
+|   |
+|   |
+|   |
+
+
 
 ### Final Cut Pro
 
