@@ -191,7 +191,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 | 电脑版                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [s & d](https://www.capcut.cn/) capcut [s](https://www.capcut.com/)                                                                                                                                                                |
+| [s & d](https://www.capcut.cn/) capcut [s](https://www.capcut.com/)   [剪映教学](https://www.youtube.com/results?search\_query=%E5%89%AA%E6%98%A0%E6%95%99%E5%AD%A6)                                                                   |
 | 王同学的剪辑分享 [B](https://space.bilibili.com/2029640706) joe是說 [u](https://www.youtube.com/@joewemedia/playlists) 1个小罗罗的自媒体工具研究院 [u](https://www.youtube.com/@1luoluo)                                                                  |
 | <p>剪映教學 - 剪輯影片 <a href="https://www.youtube.com/playlist?list=PLSAzhY_t5XqMIIf8YBeZe2QRyJ-Y4woLt">無遠弗屆教學教室</a></p><p>AI 人工智慧系列 <a href="https://www.youtube.com/playlist?list=PLSAzhY_t5XqNzacLKFuegvNKkJ41h05re">無遠弗屆教學教室</a></p> |
 | 剪映使用教學分享 [分享家-羽](https://www.youtube.com/playlist?list=PLTMUm5gLefCFHiT1VLfhV5CW9tY\_LgGoG)                                                                                                                                        |
