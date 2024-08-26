@@ -158,9 +158,21 @@
 | TeamViewer 破解版 [git](https://github.com/itgoyo/TeamViewer-5min)                                                                                              |
 | [#remote-desktop](https://github.com/topics/remote-desktop) [#teamviewer](https://github.com/topics/teamviewer)                                              |
 | 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
-| Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                                    |
+|                                                                                                                                                              |
+|                                                                                                                                                              |
 | Pi-Hosted : Must Have Tool For System Admins - Rust Desk Open Source Remote Desktop Software [Novaspirit Tech](https://www.youtube.com/watch?v=PDnqFnnbVHg)  |
 | RayLink v                                                                                                                                                    |
+
+### Rustdesk
+
+
+
+|                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                   |
+| 2024骨髓级教程Rustdesk开源自建远程工具配置教程及编译带服务器信息的客户端 [Vedio Talk](https://www.youtube.com/watch?v=DSs\_GJe1ub4)                                       |
+| \[老高分享]免费开源远程桌面神器RustDesk简单易用Docker/Windows/Ubuntu/Mac/iOS/Android等多种系统搭建跨平台使用 支持硬件解码 [爱折腾的老高](https://www.youtube.com/watch?v=1R8iC7xtCGg) |
+|                                                                                                                                             |
 
 ## utools
 
