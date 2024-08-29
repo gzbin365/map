@@ -1263,6 +1263,30 @@ direct-attached storage
 |                                                  |
 |                                                  |
 
+
+
+| rt-ac88u asus                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.asus.com/us/networking-iot-servers/wifi-routers/asus-wifi-routers/rt-ac88u/)                                              |
+| AC3100 双频千兆 WiFi 游戏路由器，具有 MU-MIMO，支持趋势科技的 AiProtection 网络安全、用于网状 WiFi 系统的 AiMesh 和 WTFast 游戏加速器                                           |
+| 超快速 802.11ac 双频 Wi-Fi 路由器将速度提升至 3167 Mbps，实现低延迟在线游戏、流畅的 4K 超高清视频播放和极快的文件共享。                                                               |
+| 4x4 天线设计，采用 AiRadar 通用波束成形技术，可实现无与伦比的 Wi-Fi 范围。                                                                                           |
+| 直观的华硕路由器应用程序可让您随时随地控制网络，无需启动 PC。                                                                                                          |
+| WTFast® 独有的内置游戏加速器让您在支持的多人在线游戏中享受流畅的游戏体验。                                                                                                 |
+| AiProtection with Trend Micro™ 可实现三重网络安全，以及强大的家长控制和隐私保护。                                                                                  |
+| 8 个千兆 LAN 端口，可实现广泛的连接。                                                                                                                    |
+| 链路聚合可实现高达 2Gbps 的有线网络速度，让更多设备可以享受更快的访问。                                                                                                   |
+| 革命性的 MU-MIMO 技术可以同时以每台设备的最大速度连接多个 MU-MIMO 兼容客户端。                                                                                          |
+| 支持 AiMesh - 连接到其他兼容的华硕路由器，创建强大而灵活的全家 Wi-Fi 网络                                                                                             |
+| <p>入手华硕AC88U，与AC86U和AX3000AImesh组网使用体验 <a href="https://www.youtube.com/watch?v=D41hT1u3aII">Charlie的分享</a></p><p>双核 1.4g 博通cpu 8lan口</p> |
+| 192.168.50.1 [v](https://www.youtube.com/watch?v=kdRjNa1XXUI)                                                                             |
+|                                                                                                                                           |
+| 华硕路由器AC5300 AC86U AC88U AC68U 刷梅林固件步骤评测 避免刷错固件入坑 wifi不稳定断流的解决办法 [工匠先森](https://www.youtube.com/watch?v=DXrV2vNOLdk)                       |
+| 【路由器评测】华硕BE88U 旗舰出手 王者能否归来？ [晓春哥XCG](https://www.youtube.com/watch?v=WilCyJLAhT8)                                                         |
+| 华硕无线路由器AC68U(AC1900)升级Merlin梅林固件系统，🔴用SS SSR koolgame V2ray来加速网络和科学上网。✳️ [Tony](https://www.youtube.com/watch?v=K5C7Axy40c0)              |
+|                                                                                                                                           |
+|                                                                                                                                           |
+
 ## 梅林 Merlin
 
 |                                                                                                                   |

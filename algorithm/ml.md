@@ -1548,7 +1548,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel) [freeCodeCamp](https://www.youtube.com/watch?v=r895rFUbGtE)     |
 | How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more ) [freeCodeCamp](https://www.youtube.com/watch?v=vROMXzOWqec) |
 | 👍AI 项目本地部署-通用脚本🟢小白都能用 🟢 通吃GitHub上的AI相关项目🟢 Step by Step 一个脚本搞定 🟢 AI项目本地部署保成功 [NiuGee AI](https://www.youtube.com/watch?v=yzmyKxwz-nc)                   |
-|                                                                                                                                                             |
+| Deploy Python Applications - Google Cloud Run with Docker [NeuralNine](https://www.youtube.com/watch?v=sqUuofLBfFw)                                         |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 |                                                                                                                                                             |

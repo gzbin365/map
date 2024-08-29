@@ -1,8 +1,8 @@
 # GPU
 
-**Deep Learning GPU Benchmarks(**[**s**](https://lambdalabs.com/gpu-benchmarks)**, )**   Gamers Nexus [u](https://www.youtube.com/c/GamersNexus)   Super Kr超极氪 [u](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ)   阿健座谈 [u](https://www.youtube.com/channel/UCS1ky\_d928QwTl-yVFC029Q)
+**Deep Learning GPU Benchmarks(**[**s**](https://lambdalabs.com/gpu-benchmarks)**, )** Gamers Nexus [u](https://www.youtube.com/c/GamersNexus) Super Kr超极氪 [u](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ) 阿健座谈 [u](https://www.youtube.com/channel/UCS1ky\_d928QwTl-yVFC029Q)
 
-NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg)   NVIDIA Studio [u](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)   思腾合力 [zh](https://www.zhihu.com/org/si-teng-he-li-33)  &#x20;
+NVIDIA [u](https://www.youtube.com/c/NVIDIA) NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg) NVIDIA Studio [u](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw) 思腾合力 [zh](https://www.zhihu.com/org/si-teng-he-li-33)
 
 **GPU 计算能力(**[**nvidia**](https://developer.nvidia.com/zh-cn/cuda-gpus)**, )**
 
@@ -42,7 +42,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA)   NVIDIA GeForce [u](https://www.yo
 | 这是史上最快GPU！我们测了四张H100！价值120万元！[极客湾Geekerwan](https://www.youtube.com/watch?v=-nb\_DZAH-TM)                                                                                                   |
 | NVIDIA'S HUGE AI Chip Breakthroughs Change Everything (Supercut) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=0EIwhvqCX1c)                                                          |
 | 英伟达NVIDIA创业20年坎坷之路，差点公司都丢掉 [ZOMI](https://www.youtube.com/watch?v=Sa-O5XU0JGE)                                                                                                              |
-| 【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 [硅谷101](https://www.youtube.com/watch?v=UBwHVneGiXs) |
+| 【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 [硅谷101](https://www.youtube.com/watch?v=UBwHVneGiXs)                                                                                                  |
 |                                                                                                                                                                                             |
 |                                                                                                                                                                                             |
 
@@ -59,7 +59,7 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 |                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ |
 | 上帝视角看GPU（6）：光线跟踪流水线 [Minmin Gong](https://www.youtube.com/watch?v=kw1bnub3EFo\&list=TLPQMDkwNjIwMjMgXCzwL8nFhA\&index=6) |
-|  The Ray Tracer Challenge [pragprog](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/) |
+| The Ray Tracer Challenge [pragprog](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/)                      |
 |                                                                                                                          |
 |                                                                                                                          |
 |                                                                                                                          |
@@ -77,7 +77,7 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | 笔记本外接RTX3080：鸡肋还是好用？老笔记本也能畅玩3A？\| [笔吧评测室](https://www.youtube.com/watch?v=g604vnywjyw)                                                      |
 | 【SPlusTech】白菜价的OCulink显卡坞评测：轻薄本狂喜！价格实惠，无损改装，超高效的外接独显方案 [SPlus Tech](https://www.youtube.com/watch?v=pmA9Y79efdY)                            |
 | 唠唠雷电4：重新定义外接显卡 [林亦LYi](https://www.youtube.com/watch?v=gXEnJSoP3vM)                                                                         |
-|                                                                                                                                             |
+| 「自费评测」带PCIEX16插槽迷你主机零刻GTi12 Ultra i9-12900H迷你主机+EX显卡坞 4K影视级黑神话&黑苹果体验 [小明白](https://www.youtube.com/watch?v=GSaCswsWrcc)                     |
 |                                                                                                                                             |
 
 ## **CUDA**
