@@ -149,6 +149,26 @@
 | 学会这7招，Google搜索一秒搜到心坎里！老司机必备的神技（福利） \| [零度解说](https://www.youtube.com/watch?v=0gbCi03CNX0) |
 | 程序员都用什么软件做笔记 [IT师哥](https://www.douyin.com/video/7027099311112555784)                     |
 
+## 下载
+
+
+
+| idm, Internet Download Manager                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Fix 'HTTP/1.1 403 Forbidden' &#x26; 'No Permission to Download' Errors in IDM (Updated) </p><p><a href="https://www.youtube.com/watch?v=KMoOgGme5W4">Windows Fixer</a> Proxy</p> |
+|                                                                                                                                                                                     |
+|                                                                                                                                                                                     |
+
+### 在线下载youtube的视频
+
+
+
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| [y2down](https://y2down.cc/zh/)   [addyoutube](https://addyoutube.com/)                              |
+| 10种超级好用的YouTube转MP3工具推荐 [s](https://www.acethinker.cn/youtube-downloader/site-like-youtube-mp3.html) |
+|                                                                                                      |
+
 ## 电脑远程控制
 
 |                                                                                                                                                              |
@@ -158,7 +178,7 @@
 | TeamViewer 破解版 [git](https://github.com/itgoyo/TeamViewer-5min)                                                                                              |
 | [#remote-desktop](https://github.com/topics/remote-desktop) [#teamviewer](https://github.com/topics/teamviewer)                                              |
 | 同时操控 2 台电脑，只需一个鼠标和键盘！完全免费，由微软官方提供 \| [零度解说](https://www.youtube.com/watch?v=bcsZzhdrccs) [d](https://www.microsoft.com/en-us/download/details.aspx?id=35460) |
-|                                                                                                                                                              |
+| Anadisk                                                                                                                                                      |
 |                                                                                                                                                              |
 | Pi-Hosted : Must Have Tool For System Admins - Rust Desk Open Source Remote Desktop Software [Novaspirit Tech](https://www.youtube.com/watch?v=PDnqFnnbVHg)  |
 | RayLink v                                                                                                                                                    |
