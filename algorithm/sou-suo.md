@@ -1,23 +1,24 @@
 # 搜索
 
-|                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)                             |
-| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                         |
-| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)                                       |
-| Working with Google Custom Search Engine using Python [Indian Pythonista](https://www.youtube.com/watch?v=IBhdLRheKyM)              |
-| ditch Google!! (build your own PRIVATE search engine) [NetworkChuck](https://www.youtube.com/watch?v=ifT6npY39Dw)                   |
-| 打造自己的超级搜索引擎 [JS神技能](https://www.youtube.com/watch?v=e4S12pjMp8I)                                                                    |
-| Google Like a Pro – All Advanced Search Operators Tutorial \[2023 Tips] [freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0) |
-| 贪婪搜索                                                                                                                                |
-| beam search                                                                                                                         |
-| ZoomEye [v](https://www.youtube.com/watch?v=K9cM0BEdlZ4)                                                                            |
-| Computer Vision and Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhF5CrFLaAWKuA0LoFWtpQj)          |
-| NLP for Semantic Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgz-BI8bNMVGwQxIMuQddJO)             |
-| Vector Similarity Search and Faiss Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)  |
-| Design a Basic Search Engine (Google or Bing) \| System Design [Interview Prep](https://www.youtube.com/watch?v=0LTXCcVRQi0)        |
-| 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程~ [檀东东·Tango](https://www.youtube.com/watch?v=tiN6T1LewmQ) |
-|                                                                                                                                     |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ElasticSearch(ES)入门简明教程 [平头哥](https://www.youtube.com/playlist?list=PLg5ULjirtivu6ovHBnxp5sayC3F6Q6UNU)                                                         |
+| pagerank [v](https://www.youtube.com/watch?v=OErjTY1EHGM\&list=PL9nxfq1tlKKnvvdiM1HUD5IyPxdttKcPB\&index=2)                                                     |
+| Fuzzy File Searching Tool in Python [NeuralNine](https://www.youtube.com/watch?v=WNFBLi6CaTM)                                                                   |
+| Working with Google Custom Search Engine using Python [Indian Pythonista](https://www.youtube.com/watch?v=IBhdLRheKyM)                                          |
+| ditch Google!! (build your own PRIVATE search engine) [NetworkChuck](https://www.youtube.com/watch?v=ifT6npY39Dw)                                               |
+| 打造自己的超级搜索引擎 [JS神技能](https://www.youtube.com/watch?v=e4S12pjMp8I)                                                                                                |
+| Google Like a Pro – All Advanced Search Operators Tutorial \[2023 Tips] [freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0)                             |
+| 贪婪搜索                                                                                                                                                            |
+| beam search                                                                                                                                                     |
+| ZoomEye [v](https://www.youtube.com/watch?v=K9cM0BEdlZ4)                                                                                                        |
+| Computer Vision and Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhF5CrFLaAWKuA0LoFWtpQj)                                      |
+| NLP for Semantic Search Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLgz-BI8bNMVGwQxIMuQddJO)                                         |
+| Vector Similarity Search and Faiss Course [James Briggs](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)                              |
+| Design a Basic Search Engine (Google or Bing) \| System Design [Interview Prep](https://www.youtube.com/watch?v=0LTXCcVRQi0)                                    |
+| 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程\~ [檀东东·Tango](https://www.youtube.com/watch?v=tiN6T1LewmQ)                                                                             |
+| 【技术】Google搜索引擎排名内幕大揭秘 \| 数千页内部文档泄露 \| 还原完整系统架构 \| 什么对搜索结果排名才最重要 \| 内容优化到点击优化 \| Twiddler \| Navboost \| SEO [最佳拍档](https://www.youtube.com/watch?v=P7g6tFDw70c) |
+|                                                                                                                                                                 |
 
 | 搜索技巧                                                                 |
 | -------------------------------------------------------------------- |
