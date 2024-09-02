@@ -213,7 +213,7 @@ description: 硬件设备
 | 振南 单片机                                                                                                                           |
 | 【对话】振南知波创始人于振南 \| 十五年单片机嵌入式老兵 \| 创业及工作经历分享 \| 第一代技术网红 \| 即将带来频道专享版《高手C》系列课程 [最佳拍档](https://www.youtube.com/watch?v=OBjkXPuXVhU)  |
 | 本自同根生，性能却相差悬殊!CPU和单片机有什么不同 [爱上半导体](https://www.youtube.com/watch?v=BrnpLvocGwg)                                                  |
-|                                                                                                                                  |
+| 郭天祥老师 [u](https://www.youtube.com/@user-rq2ho3tu7m/playlists)                                                                    |
 |                                                                                                                                  |
 
 ## NVIDIA Jetson
