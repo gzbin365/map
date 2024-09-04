@@ -1380,7 +1380,7 @@ direct-attached storage
 | How to start making AUTONOMOUS ROBOT with the ATTLER [stepbystep-robotics](https://www.youtube.com/watch?v=jlrUUotkIlk)                                   |
 | 《时尚科技秀》 20230203 智能力控机器人\|[CCTV科教](https://www.youtube.com/watch?v=5Wpr7BrEXVY)                                                                           |
 | 魅力机器人 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJM4B4GmnwdFXLh1Mri99yeR)                                |
-|                                                                                                                                                           |
+| 我们造出了“自动写作业机器人”！ [极客湾Geekerwan](https://www.youtube.com/watch?v=jWgvvESR09k)                                                                              |
 |                                                                                                                                                           |
 
 | 机器人三原则                                                                                      |
