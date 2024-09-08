@@ -1476,7 +1476,7 @@ direct-attached storage
 | 【商业】OPPO缘何梦碎哲库ZEKU \| 失败的原因究竟是什么 \| 美国制裁还是没钱 \| 亦或是对行业缺少敬畏 \| 造芯片究竟有多难 [最佳拍档](https://www.youtube.com/watch?v=8zusGXL86UU)                  |
 | M3系列深度解析: 新智能缓存/光追架构, 生产力爆发? [Luv Letter](https://www.youtube.com/watch?v=HUJwmKDQ0LM)                                                      |
 | 芯片故事 [老范讲故事](https://www.youtube.com/playlist?list=PLEpazxzSpsG22xbu1eBxGKdYMroM1p0OC)                                                      |
-|                                                                                                                                             |
+| semiwiki [s](https://semiwiki.com/) [v](https://www.youtube.com/watch?v=aqqvbj5EeSY) 10:50                                                  |
 |                                                                                                                                             |
 
 ### 数字电路
