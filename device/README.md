@@ -1120,6 +1120,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 |                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 小雅emby alist 1panel unraid [v](https://www.youtube.com/watch?v=85qbJM4g-L8), true nas, bleach wrt, plex, istoreos, ikuai, 迅游, plex,  |
+| 把黑神话悟空装到NAS里运行，体验会怎样？在NAS里创建一个vhdx的虚拟磁盘教程\|nas\|绿联\|vhdx\|虚拟磁盘\| [乌客wuke](https://www.youtube.com/watch?v=SGCGHGgyttk)               |
 |                                                                                                                                      |
 |                                                                                                                                      |
 
