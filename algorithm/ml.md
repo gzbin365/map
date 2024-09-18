@@ -680,6 +680,8 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 
 ### Data Science
 
+数据科学
+
 |                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Python And Data Science Full Course \| Data Science With Python Full Course In 12 Hours \| [Simplilearn](https://www.youtube.com/watch?v=ub1BX0I2GCs)                         |
@@ -711,6 +713,7 @@ Artificial Intelligence (AI) vs Machine Learning vs Deep Learning vs Data Scienc
 | Data Science Job Interview – Full Mock Interview [freeCodeCamp](https://www.youtube.com/watch?v=sD468LfeVdc)                                                                  |
 | python 数据分析（中国国家精品课程） [华人开放式课程MOOC](https://www.youtube.com/playlist?list=PLv8hyYaXsditOKYzez8sQH2DM0PBPHwuR)                                                                 |
 | Data Science/ML Projects [JCharisTech](https://www.youtube.com/playlist?list=PLJ39kWiJXSixN8mGD8xvIPf5d7ZW0am0s)                                                              |
+| 10x Your Data Science With Polars [Machine Learning with Phil](https://www.youtube.com/watch?v=r9ZoKgE4Rp4)                                                                   |
 |                                                                                                                                                                               |
 
 #### 数据清理
@@ -1549,7 +1552,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more ) [freeCodeCamp](https://www.youtube.com/watch?v=vROMXzOWqec) |
 | 👍AI 项目本地部署-通用脚本🟢小白都能用 🟢 通吃GitHub上的AI相关项目🟢 Step by Step 一个脚本搞定 🟢 AI项目本地部署保成功 [NiuGee AI](https://www.youtube.com/watch?v=yzmyKxwz-nc)                   |
 | Deploy Python Applications - Google Cloud Run with Docker [NeuralNine](https://www.youtube.com/watch?v=sqUuofLBfFw)                                         |
-|                                                                                                                                                             |
+| Deploy Python Applications From Source - Google Cloud Run [NeuralNine](https://www.youtube.com/watch?v=8Y22xjngXpY)                                         |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 

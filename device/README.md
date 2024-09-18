@@ -1406,6 +1406,14 @@ direct-attached storage
 | Top 5 Robotic Arms for your desktop [AwesomeTech](https://www.youtube.com/watch?v=-69raWQ2DUc) |
 |                                                                                                |
 
+### 机械手 灵巧手
+
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| 决胜灵巧手！揭秘人形机器人最精密的机械部件 [大刘科普](https://www.youtube.com/watch?v=5hMWFSb3dmA) |
+|                                                                           |
+|                                                                           |
+
 ### Large-scale UGV Localization
 
 ### Long-tern UAV Navigation
