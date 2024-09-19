@@ -88,6 +88,9 @@ description: 硬件设备
 | How to make a 16x16x16 LED CUBE at home with Arduino platform [Malt Whiskey](https://www.youtube.com/watch?v=ciaFar8nfHc)                                                                                                                                            |
 | Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                                                                                                                                            |
 | Arduino Course for Everybody [freeCodeCamp](https://www.youtube.com/watch?v=DPqiIzK97K0)                                                                                                                                                                             |
+| 可能是全世界最受欢迎的开发板！Arduino有何魔力？ [爱上半导体](https://www.youtube.com/watch?v=kmGchNjzbyo) uno R4                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                      |
 
 ## **Raspberry Pi**
 
@@ -1129,7 +1132,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 小雅emby alist 1panel unraid [v](https://www.youtube.com/watch?v=85qbJM4g-L8), true nas, bleach wrt, plex, istoreos, ikuai, 迅游, plex,  |
 | 把黑神话悟空装到NAS里运行，体验会怎样？在NAS里创建一个vhdx的虚拟磁盘教程\|nas\|绿联\|vhdx\|虚拟磁盘\| [乌客wuke](https://www.youtube.com/watch?v=SGCGHGgyttk)               |
-|                                                                                                                                      |
+| 这次真的是未来可期了！——绿联NAS私有云DXP4800使用体验 [钱韦德](https://www.youtube.com/watch?v=nPA9q4-O0hg)                                                  |
 |                                                                                                                                      |
 
 #### RAID
@@ -1390,6 +1393,7 @@ direct-attached storage
 | 《时尚科技秀》 20230203 智能力控机器人\|[CCTV科教](https://www.youtube.com/watch?v=5Wpr7BrEXVY)                                                                           |
 | 魅力机器人 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJM4B4GmnwdFXLh1Mri99yeR)                                |
 | 我们造出了“自动写作业机器人”！ [极客湾Geekerwan](https://www.youtube.com/watch?v=jWgvvESR09k)                                                                              |
+| 给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型 [Zihao Zhang](https://www.youtube.com/watch?v=MxK9JnHzths)                                                         |
 |                                                                                                                                                           |
 
 | 机器人三原则                                                                                      |

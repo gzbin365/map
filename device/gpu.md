@@ -78,6 +78,8 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | 【SPlusTech】白菜价的OCulink显卡坞评测：轻薄本狂喜！价格实惠，无损改装，超高效的外接独显方案 [SPlus Tech](https://www.youtube.com/watch?v=pmA9Y79efdY)                            |
 | 唠唠雷电4：重新定义外接显卡 [林亦LYi](https://www.youtube.com/watch?v=gXEnJSoP3vM)                                                                         |
 | 「自费评测」带PCIEX16插槽迷你主机零刻GTi12 Ultra i9-12900H迷你主机+EX显卡坞 4K影视级黑神话&黑苹果体验 [小明白](https://www.youtube.com/watch?v=GSaCswsWrcc)                     |
+| 15块实现笔记本外接显卡？？旧电脑也能爽玩黑神话悟空?！【翼王工作室】 [翼王](https://www.youtube.com/watch?v=8wZ1V3CM6Rg)                                                       |
+|                                                                                                                                             |
 |                                                                                                                                             |
 
 ## **CUDA**
