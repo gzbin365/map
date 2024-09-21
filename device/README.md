@@ -1670,5 +1670,6 @@ rode podmic 880 RODE Wireless GO II 3000 舒尔SM58 KMS 105
 | 笔记本维修厮 [u](https://www.youtube.com/@LaptopRepairGuy) [B](https://space.bilibili.com/382666849)              | 靓仔修机 PC-Repair [u](https://www.youtube.com/@LiangZaiXiuJi)           |
 | 電腦維修升級類 [北漂運營維護](https://www.youtube.com/playlist?list=PL9ihhzkzO8EvOrr6B7qhw2vscyD3Pq03P)                  | EZFIX [u](https://www.youtube.com/@EZFIX.)                           |
 | 合肥怡飞苹果电脑维修 MAC FIX ---维修案例分享 [u](https://www.youtube.com/@hefei-yifei)                                      | 华宇万维 [u](https://www.youtube.com/@hyww)                              |
-| 万维创芯-老罗 [u](https://www.youtube.com/@user-lx7dc6pk3m)                                                       |                                                                      |
+| 万维创芯-老罗 [u](https://www.youtube.com/@user-lx7dc6pk3m)                                                       | 我爱电器维修 [u](https://www.youtube.com/@DianQiWeiXiu)                    |
+| 家电小王 [u](https://www.youtube.com/@%E5%AE%B6%E7%94%B5%E5%B0%8F%E7%8E%8B/videos)                              |                                                                      |
 |                                                                                                             |                                                                      |
