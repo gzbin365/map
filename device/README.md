@@ -89,6 +89,9 @@ description: 硬件设备
 | Can you map a room with LIDAR and Arduino? [Nikodem Bartnik](https://www.youtube.com/watch?v=xSrjtJ2AZqw)                                                                                                                                                            |
 | Arduino Course for Everybody [freeCodeCamp](https://www.youtube.com/watch?v=DPqiIzK97K0)                                                                                                                                                                             |
 | 可能是全世界最受欢迎的开发板！Arduino有何魔力？ [爱上半导体](https://www.youtube.com/watch?v=kmGchNjzbyo) uno R4                                                                                                                                                                              |
+| Tutorials on Arduino [hash include electronics](https://www.youtube.com/playlist?list=PLtSy5iifHQn3a79PJRPWfMQnJAUwl81V7)                                                                                                                                            |
+|                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                      |
 
@@ -205,19 +208,19 @@ description: 硬件设备
 
 ## 单片机
 
-|                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k)                                    |
-| 宇凡微单片机 抖音号：[yufanwei](https://www.douyin.com/user/MS4wLjABAAAAJdUiTpvXaNzoRSdle2j5BWgblGhMFI0xOPWANPccmHxfw4fCeCl\_lel4FmJNJ-SE) |
-| 一个合格的硬件工程师需要具备哪些能力 [宇凡微单片机](https://www.douyin.com/video/7136118453278149925)                                                    |
-| [硬件工程师](https://www.douyin.com/search/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)                                             |
-| 51单片机到ARM征服嵌入式 霖锋 [Ann Schreiber](https://www.youtube.com/playlist?list=PLyDQq\_2y5gRkuj-gNGXhe03JIPwGUD4sR)                     |
-| 51单片机 [jxin bei](https://www.youtube.com/playlist?list=PLCj2q5IJYt4MApPAahkCkElEF-3Xg-aQI)                                       |
-| 振南 单片机                                                                                                                           |
-| 【对话】振南知波创始人于振南 \| 十五年单片机嵌入式老兵 \| 创业及工作经历分享 \| 第一代技术网红 \| 即将带来频道专享版《高手C》系列课程 [最佳拍档](https://www.youtube.com/watch?v=OBjkXPuXVhU)  |
-| 本自同根生，性能却相差悬殊!CPU和单片机有什么不同 [爱上半导体](https://www.youtube.com/watch?v=BrnpLvocGwg)                                                  |
-| 郭天祥老师 [u](https://www.youtube.com/@user-rq2ho3tu7m/playlists)                                                                    |
-|                                                                                                                                  |
+|                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NodeMCU [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUk3PjnoKMhGKGEVzToKyk6k)                                                                                                                                             |
+| 宇凡微单片机 抖音号：[yufanwei](https://www.douyin.com/user/MS4wLjABAAAAJdUiTpvXaNzoRSdle2j5BWgblGhMFI0xOPWANPccmHxfw4fCeCl\_lel4FmJNJ-SE)                                                                                                          |
+| 一个合格的硬件工程师需要具备哪些能力 [宇凡微单片机](https://www.douyin.com/video/7136118453278149925)                                                                                                                                                             |
+| [硬件工程师](https://www.douyin.com/search/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)                                                                                                                                                      |
+| 51单片机到ARM征服嵌入式 霖锋 [Ann Schreiber](https://www.youtube.com/playlist?list=PLyDQq\_2y5gRkuj-gNGXhe03JIPwGUD4sR)                                                                                                                              |
+| 51单片机 [jxin bei](https://www.youtube.com/playlist?list=PLCj2q5IJYt4MApPAahkCkElEF-3Xg-aQI)                                                                                                                                                |
+| 振南 单片机                                                                                                                                                                                                                                    |
+| 【对话】振南知波创始人于振南 \| 十五年单片机嵌入式老兵 \| 创业及工作经历分享 \| 第一代技术网红 \| 即将带来频道专享版《高手C》系列课程 [最佳拍档](https://www.youtube.com/watch?v=OBjkXPuXVhU)                                                                                                           |
+| 本自同根生，性能却相差悬殊!CPU和单片机有什么不同 [爱上半导体](https://www.youtube.com/watch?v=BrnpLvocGwg)                                                                                                                                                           |
+| 郭天祥老师 [u](https://www.youtube.com/@user-rq2ho3tu7m/playlists)   张筱远 [u](https://www.youtube.com/playlist?list=PL8K3jVxtxgQ6uOHOYVTuAIAofAsxw260Y)   单片机教学 [张筱远](https://www.youtube.com/playlist?list=PL8K3jVxtxgQ6uOHOYVTuAIAofAsxw260Y) |
+|                                                                                                                                                                                                                                           |
 
 ## NVIDIA Jetson
 
@@ -626,6 +629,8 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)                              |
 | Starting with STM32 - Programming Tutorial for Beginners \| Step by Step \| Greidi Ajalik [Robert Feranec](https://www.youtube.com/watch?v=dnfuNT1dPiM) |
+| keysking的stm32教程 [keys king](https://www.youtube.com/playlist?list=PLXhqpdHvPB\_FgFjNr1a2qU0JlrRVSY25q)                                                 |
+|                                                                                                                                                         |
 
 ## ESP32
 
@@ -1267,6 +1272,8 @@ direct-attached storage
 | 我依然推荐用linux网关取代openwrt旁路由，稳定、便宜、兼容性拉满。 [索拉里斯风](https://www.youtube.com/watch?v=DqubruPMmhU)                                                 |
 | ALL IN ONE 一体机教程 EXSI 虚拟化 OPENWRT 软路由 NAS 个人云存储 [augustdoit](https://www.youtube.com/playlist?list=PLttD9ghFYDQG0h\_4ODZL2U6MVlqzH0G1B)     |
 | OpenWrt [OneMarcFifty](https://www.youtube.com/playlist?list=PLZXNpqQDHIJrgzaR7h1V1AT4bdaNjS0zZ)                                            |
+| 【全网唯一】openwrt完美插件MihomoTproxy教程 \| 插件安装卸载、无需使用传统订阅、无需后端、插件原理讲解、超级简单稳定。 [七尺宇](https://www.youtube.com/watch?v=uca-CdIO7Ug)                   |
+| 【完美科学方式探讨】OpenWrt 主或旁 、 Linux旁路网关、MAC旁路网关、电脑手机客户端、VPN客户端、内核对比 [七尺宇](https://www.youtube.com/watch?v=124HAmOr6gY)                            |
 |                                                                                                                                             |
 
 | ikuai（爱快）软路由                                     |
@@ -1615,11 +1622,11 @@ direct-attached storage
 
 ### 耳机
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| 耳机王耳机维修团队 抖音号： [1555281682](https://www.douyin.com/user/MS4wLjABAAAA-3bNbN43Il3D9HoF1ebdcZO6WJRSWhwvvlWMEJOW1UY) |
-| 立志成为跳水冠军降噪耳机-索尼WH1000XM5【值不值得买第562期】 [TESTV](https://www.youtube.com/watch?v=Pd1e7c-E1RU)                        |
-|                                                                                                                  |
+|                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 耳机王耳机维修团队 抖音号： [1555281682](https://www.douyin.com/user/MS4wLjABAAAA-3bNbN43Il3D9HoF1ebdcZO6WJRSWhwvvlWMEJOW1UY)   石山频道 [u](https://www.youtube.com/@shishanvlog/videos) |
+| 立志成为跳水冠军降噪耳机-索尼WH1000XM5【值不值得买第562期】 [TESTV](https://www.youtube.com/watch?v=Pd1e7c-E1RU)                                                                                |
+|                                                                                                                                                                          |
 
 ### 声卡
 

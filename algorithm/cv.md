@@ -31,7 +31,9 @@ description: 机器视觉
 | Jeremy Howard [u](https://www.youtube.com/@howardjeremyp/playlists)                                   | Apeer\_micro [u](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/playlists)                                                                                          |
 | James Briggs [u](https://www.youtube.com/@jamesbriggs/playlists)                                      | 恩培 抖音号： [enpeizhao](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu\_f4dwM2hNoEYyQBcim2) [git](https://github.com/enpeizhao/CVprojects) |
 |                                                                                                       | AINTU-人工智慧技術暨全幅健康照護聯合研究中心 [u](https://www.youtube.com/channel/UCDGhn5\_LTQQ1kQdQjAYokaQ/playlists)                                                                            |
-| Computer vision engineer [u](https://www.youtube.com/@ComputerVisionEngineer/playlists)               |                                                                                                                                                                               |
+| Computer vision engineer [u](https://www.youtube.com/@ComputerVisionEngineer/playlists)               | Find Interesting AI [u](https://www.youtube.com/@architect-felix/videos)                                                                                                      |
+|                                                                                                       |                                                                                                                                                                               |
+|                                                                                                       |                                                                                                                                                                               |
 
 [**faceai**](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目
 
@@ -603,6 +605,8 @@ import cv2
 | Optical Character Recognition Project \| Find Text inside the images/Videos Machine Learning \| OCR [Data Magic (by Sunny Kusawa)](https://www.youtube.com/watch?v=kpzzkW5Y3Kc)                                     |
 | Optical Character Recognition From Beginner to Expert Using Python \| Tesseract - Complete Tutorial [The Sineth](https://www.youtube.com/watch?v=7XP5WiKw56Y)                                                       |
 | Automatic Number Plate Recognition using Tensorflow and EasyOCR Full Course in 2 Hours \| Python [Nicholas Renotte](https://www.youtube.com/watch?v=0-4p\_QgrdbE\&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy\&index=4) |
+| OCR技术总结 [Find Interesting AI](https://www.youtube.com/watch?v=jeXKlagSazI)                                                                                                                                          |
+|                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                     |
 
 ### 表格识别
