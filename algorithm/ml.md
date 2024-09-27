@@ -870,7 +870,13 @@ The Ultimate Guide to Data Cleaning [towardsdatascience](https://towardsdatascie
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-####
+#### KAN
+
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| 使用KAN网络，更少参数更高准确率，更好的可解释性 替代传统MLP！[Find Interesting AI](https://www.youtube.com/watch?v=iuVVGVh48Bg) |
+|                                                                                                      |
+|                                                                                                      |
 
 ### 聚类 Clustering 集簇
 
@@ -1563,7 +1569,7 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 👍AI 项目本地部署-通用脚本🟢小白都能用 🟢 通吃GitHub上的AI相关项目🟢 Step by Step 一个脚本搞定 🟢 AI项目本地部署保成功 [NiuGee AI](https://www.youtube.com/watch?v=yzmyKxwz-nc)                   |
 | Deploy Python Applications - Google Cloud Run with Docker [NeuralNine](https://www.youtube.com/watch?v=sqUuofLBfFw)                                         |
 | Deploy Python Applications From Source - Google Cloud Run [NeuralNine](https://www.youtube.com/watch?v=8Y22xjngXpY)                                         |
-|                                                                                                                                                             |
+| Edge AI 開發板挑選完整指南 [VisCircuit 電路筆記](https://www.youtube.com/watch?v=UJy5u8av8kc)                                                                            |
 |                                                                                                                                                             |
 
 ### TensorRT

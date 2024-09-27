@@ -95,6 +95,8 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)                                                                                                                                           |
 | Tensorflow, Pytorch and OpenCV Setup with CUDA [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhivR1J7ULJ1V8PsXUKoMLB)                                                                                                                     |
 | CUDA Toolkit 12.2: New Accelerated Computing and Security Enhancements Revealed [NVIDIA Developer](https://www.youtube.com/watch?v=tVd4-xL6EBU)                                                                                                             |
+| CUDA Programming Course – High-Performance Computing with GPUs [freeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe\_4)                                                                                                                                 |
+|                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                             |
 
 ## 虚拟化vGPU

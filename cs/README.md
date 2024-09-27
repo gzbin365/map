@@ -683,6 +683,16 @@ Computer Components？Computer Architecture？
 | AI编译器前端优化 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p6cuMBvE6Z2E82zKN6WfWHn)                                                                 |
 | AI编译器后端优化 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p5SBdbrBoPqu4MGWUbybtWk)                                                                 |
 
+## 计算机编程
+
+
+
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Course \| Programming Methodology [Stanford](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)                                          |
+| CS 106a: Programming Methodology Spring 2017 [Marty Stepp CS106 CS193 Stanford Archive](https://www.youtube.com/@MartySteppCSCSStanfordArchive) |
+|                                                                                                                                                 |
+
 ## 函数式编程
 
 |                                                                                                                                         |
@@ -708,11 +718,12 @@ Computer Components？Computer Architecture？
 
 ## 编程范式
 
-|                                                                                      |
-| ------------------------------------------------------------------------------------ |
-| Programming Paradigms - [Computerphile](https://www.youtube.com/watch?v=sqV3pL5x8PI) |
-|                                                                                      |
-|                                                                                      |
+|                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Programming Paradigms - [Computerphile](https://www.youtube.com/watch?v=sqV3pL5x8PI)                             |
+| Lecture Collection \| Programming Paradigms [Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) |
+|                                                                                                                  |
+|                                                                                                                  |
 
 ## 并行算法
 

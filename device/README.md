@@ -90,8 +90,10 @@ description: 硬件设备
 | Arduino Course for Everybody [freeCodeCamp](https://www.youtube.com/watch?v=DPqiIzK97K0)                                                                                                                                                                             |
 | 可能是全世界最受欢迎的开发板！Arduino有何魔力？ [爱上半导体](https://www.youtube.com/watch?v=kmGchNjzbyo) uno R4                                                                                                                                                                              |
 | Tutorials on Arduino [hash include electronics](https://www.youtube.com/playlist?list=PLtSy5iifHQn3a79PJRPWfMQnJAUwl81V7)                                                                                                                                            |
-|                                                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                      |
+| \[ Arduino 教學 ] 從零開始學Arduino [旭豐老師の創客工作坊](https://www.youtube.com/playlist?list=PLF5aWjVhhnRhK9q\_UqfX0OU5MqFGh3Mb8)                                                                                                                                                 |
+| Arduino入门视频教程 [ken lee](https://www.youtube.com/playlist?list=PLrOT3yUqsQ8eHYtwADFlSiyCFGGD3nPGr)                                                                                                                                                                    |
+| Arduino入门教程 [微联实验室](https://www.youtube.com/playlist?list=PLN18A5ZeQDYBlhuJoWYELTUjDQDVkMghA)                                                                                                                                                                        |
+| 零基础入门学用Arduino-MeArm机械臂篇 [Taichi-Maker太极创客](https://www.youtube.com/playlist?list=PL8mx3Pk-gVLLWzmtN3mOrOaiEl4qNW7nn)                                                                                                                                                |
 |                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                      |
 
@@ -634,11 +636,11 @@ description: 硬件设备
 
 ## ESP32
 
-|                                                                  |
-| ---------------------------------------------------------------- |
-| maker.moekoe [u](https://www.youtube.com/@makermoekoe/playlists) |
-|                                                                  |
-|                                                                  |
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| maker.moekoe [u](https://www.youtube.com/@makermoekoe/playlists)                          |
+| 這玩意有點意思 ESP32-S 的基本介紹 眾多公司採用此產品的原因 [軟體技術研究會](https://www.youtube.com/watch?v=pPH651a9WzU) |
+|                                                                                           |
 
 ## 微控制器
 
@@ -1328,7 +1330,7 @@ direct-attached storage
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
 | 实现链路聚合这么简单？！交换机升级就行？！我一番折腾终成功 [TuTu生活志](https://www.youtube.com/watch?v=vuD9mZtuV7U) |
-|                                                                                      |
+| OpenRouter [u](https://www.youtube.com/@ruanluyou/videos)                            |
 |                                                                                      |
 
 ## 手工, DIY
