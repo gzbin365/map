@@ -10,7 +10,7 @@ description: 从编程中找到快乐
 
 [**Linus Torvalds on why desktop Linux sucks**](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
 
-Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
+Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs/\[link]\(https:/www.youtube.com/watch/README.md)
 
 [只是为了好玩](https://www.youtube.com/watch?v=6HyUEROjtAc) 林纳斯·托瓦兹自传
 
@@ -262,28 +262,32 @@ Linux: The Origin Story [Hardcoded](\[link]\(https:/www.youtube.com/watch/)
 | 江江编程（哞哞哥）抖音号： [jjstm32](https://www.douyin.com/user/MS4wLjABAAAAtEx2FPlNUyhOrLzgQpe7mz9pCY6\_nerSJSoIFqTK3clo3NqWX-pV1rdy-anR1-Q5) |
 | 国信安教育 抖音号：[2176970384](https://www.douyin.com/user/MS4wLjABAAAA15Zx\_NigGboxmlqXGHoTNy34YJNqU6deXvOruievvis)                       |
 | 【对话】振南知波创始人于振南                                                                                                                     |
+| 这才是你需要的C语言/C++嵌入式开发自学路线！附知识点详细大梳理和自学书籍推荐 [CodeSheep程序羊](https://www.youtube.com/watch?v=EsPImK1bXWM)                               |
+| 什么是bootloader？常见嵌入式芯片启动过程的完全分析 [蛋饼嵌入式](https://www.youtube.com/watch?v=17YVRdv7sfo)                                                |
+| 嵌入式系統-放牛班課程 [科技下午茶](https://www.youtube.com/playlist?list=PLJvU73y7BpTt36BcPzQnDnTfeHyQBLtRQ)                                      |
+|                                                                                                                                    |
 |                                                                                                                                    |
 
 ## **Git & Github**
 
-|                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn) |
-| bytebase/[star-history](https://github.com/bytebase/star-history) [s](https://star-history.com/)                                                                       |
-| [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                 |
-| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )** Git教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)                 |
-| **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                             |
-| GitHub Documentation [ch](\[link]\(https:/docs.github.com/cn\)/) [en](\[link]\(https:/docs.github.com/en\)/)                                                           |
-|                                                                                                                                                                        |
-| GitHub [u](https://www.youtube.com/c/GitHub/featured)                                                                                                                  |
-| git 提交规范                                                                                                                                                               |
-|                                                                                                                                                                        |
-| Open Source Guides [s](https://opensource.guide) [license](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)                    |
-| Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                             |
-| github-actions [s](https://github.com/features/actions) bot                                                                                                            |
-| GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                           |
-| How To Automate Github Using Python \| PyGithub \| Easy Guide [AI Sciences](https://www.youtube.com/watch?v=QaURSdmP0o8)                                               |
-|                                                                                                                                                                        |
+|                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| git([s](https://git-scm.com), [down](https://git-scm.com/downloads), ) [runoob](https://www.runoob.com/git/git-basic-operations.html) [rbtree](http://rcode.rbtree.cn)                                                   |
+| bytebase/[star-history](https://github.com/bytebase/star-history) [s](https://star-history.com/)                                                                                                                         |
+| [**git - 简易指南**](https://www.bootcss.com/p/git-guide/)                                                                                                                                                                   |
+| **廖雪峰Git教程（2020） (**[**书栈**](https://www.bookstack.cn/books/liaoxuefeng-git-2020)**, )** Git教程 [廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)                                                                   |
+| **github 开源贡献指南中文版本 (**[**书栈**](https://www.bookstack.cn/books/opensource-contribute-guide-chinese)**, )**                                                                                                               |
+| GitHub Documentation [ch](https://github.com/GuZhebin/map/blob/main/cs/\[link]\(https:/docs.github.com/cn\)/README.md) [en](https://github.com/GuZhebin/map/blob/main/cs/\[link]\(https:/docs.github.com/en\)/README.md) |
+|                                                                                                                                                                                                                          |
+| GitHub [u](https://www.youtube.com/c/GitHub/featured)                                                                                                                                                                    |
+| git 提交规范                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                          |
+| Open Source Guides [s](https://opensource.guide) [license](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)                                                                      |
+| Git/Github Tutorial [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)                                                                                                               |
+| github-actions [s](https://github.com/features/actions) bot                                                                                                                                                              |
+| GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                                                                             |
+| How To Automate Github Using Python \| PyGithub \| Easy Guide [AI Sciences](https://www.youtube.com/watch?v=QaURSdmP0o8)                                                                                                 |
+|                                                                                                                                                                                                                          |
 
 | github.dev                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |

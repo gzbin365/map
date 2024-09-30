@@ -24,6 +24,8 @@
 | Machine Learning with Python & R [Wise Way Learning](https://www.youtube.com/playlist?list=PLf6bUqkkw\_JQ5PNoVwct3OHmsoJDnhwNj)                                       |
 | 【R语言入门】小白速成与实践 全30课 Study R from Zero to Hero [HammerResources](https://www.youtube.com/playlist?list=PLGy-tIPhuAbY\_ttheQ6GEbgAGX8Mqdv2k)                            |
 | R语言入门与数据分析 [基因学苑](https://www.bilibili.com/video/BV19x411X7C6) 12:45:42                                                                                               |
+| Installation & RStudio - R Tutorial Series #1 [NeuralNine](https://www.youtube.com/watch?v=hnM5K-tdwjw)                                                               |
+| Basics of R Programing [Animal Sciences](https://www.youtube.com/playlist?list=PL1ectsXIpOkd36uTl6PpoOOjbRhaqm7lE)                                                    |
 |                                                                                                                                                                       |
 |                                                                                                                                                                       |
 

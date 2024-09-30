@@ -157,11 +157,13 @@
 
 ## ARM语言
 
-|                                                 |
-| ----------------------------------------------- |
-| ARM语言(汇编手册).[pdf](http://maxwell.ysepan.com/)   |
-| Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/) |
-|                                                 |
+|                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------- |
+| ARM语言(汇编手册).[pdf](http://maxwell.ysepan.com/)                                                                     |
+| Cortex-M3权威指南.[pdf](http://maxwell.ysepan.com/)                                                                   |
+| 嵌入式开发最佳视频教程-ARM体系结构及Bootloader开发 [微特米](https://www.youtube.com/playlist?list=PLmiPdj5kigguH\_vS3C25xtTwG1cgyqgl-) |
+|                                                                                                                   |
+|                                                                                                                   |
 
 ## scratch
 
@@ -905,15 +907,15 @@
 
 ### PE
 
-|                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54)                                                                   |
-| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc) |
-| 无忧启动                                                                                                                                     |
-| 1个U盘，玩转N个PE，Ventoy ，多系统U盘启动神器，重装系统？系统维护？一盘在手，天下我有，含三款纯净无推广强大PE工具箱 [资源核](https://www.youtube.com/watch?v=oCGobwpLxd0)                     |
-| PE优盘制作，随时给你的电脑装系统 [便利空间](https://www.youtube.com/watch?v=G2\_Ash3rDj0)                                                                   |
-| CYL [u](https://www.youtube.com/@cyl2077) 趣科技分享 [u](https://www.youtube.com/@user-cg7ot5je5m/videos)                                     |
-|                                                                                                                                          |
+|                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 推荐一款U盘启动制作工具---微PE [浮生若梦](https://www.youtube.com/watch?v=kh70snb0V54)                                                                                       |
+| 【Win10系统装机教程】超详细，最纯净Win10系统安装教程，微软官方方式与PE两种方法教程，超简单五分钟学会装系统，UEFI+GUID分区与Legacy+MBR分区 [美美视频](https://www.youtube.com/watch?v=oBxzsxe9-rc)                     |
+| 无忧启动                                                                                                                                                         |
+| 1个U盘，玩转N个PE，Ventoy ，多系统U盘启动神器，重装系统？系统维护？一盘在手，天下我有，含三款纯净无推广强大PE工具箱 [资源核](https://www.youtube.com/watch?v=oCGobwpLxd0)                                         |
+| PE优盘制作，随时给你的电脑装系统 [便利空间](https://www.youtube.com/watch?v=G2\_Ash3rDj0)                                                                                       |
+| CYL [u](https://www.youtube.com/@cyl2077)   趣科技分享 [u](https://www.youtube.com/@user-cg7ot5je5m/videos)   在下莫老师 [u](https://www.youtube.com/@zxmls/videos)    |
+|                                                                                                                                                              |
 
 | 微PE                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------- |
@@ -1122,7 +1124,7 @@
 | Ventoy 启动本地硬盘中的镜像文件 [ventoy](https://www.ventoy.net/cn/doc\_vlnk.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Linux vDisk 文件启动插件 [ventoy](https://www.ventoy.net/cn/plugin\_vtoyboot.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Windows VHD 文件启动插件 [ventoy](https://www.ventoy.net/cn/plugin\_vhdboot.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 在下莫老师 [u](https://www.youtube.com/@zxmls/videos)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 | win to go, wintogo, win2go                                                                                                                                                                                                     |

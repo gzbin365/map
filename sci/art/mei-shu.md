@@ -26,6 +26,10 @@
 | Sarah Renae Clark [u](https://www.youtube.com/@SarahRenaeClark)                                                                                                                                                 | Kyle Heath Art [u](https://www.youtube.com/@KyleHeathArt)                                                                          |
 | Brad's Art School [u](https://www.youtube.com/@BradsArtSchool)                                                                                                                                                  | Simple Art Tips [u](https://www.youtube.com/@simplearttips382)                                                                     |
 | Flow Studio [u](https://www.youtube.com/@FlowStudio)                                                                                                                                                            | Visme [u](https://www.youtube.com/@VismeApp)                                                                                       |
+| 有点艺思哦 [u](https://www.youtube.com/@YouDianYiSi/playlists)                                                                                                                                                       | 長腿馬繪畫工作室 [u](https://www.youtube.com/@%E9%95%B7%E8%85%BF%E9%A6%AC%E7%B9%AA%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4)                    |
+| Comic Black Rainbow黑虹 [u](https://www.youtube.com/@comicblackrainbow/videos)                                                                                                                                    |                                                                                                                                    |
+|                                                                                                                                                                                                                 |                                                                                                                                    |
+|                                                                                                                                                                                                                 |                                                                                                                                    |
 |                                                                                                                                                                                                                 |                                                                                                                                    |
 
 |                                                                                             |                                                                                            |                                                                                                                    |
@@ -135,8 +139,16 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 |                                                                                                                                  |                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 十无的画 抖音号： [Shiwu77\_](https://www.douyin.com/user/MS4wLjABAAAA63M3fmDoT9\_WUt-29-8h7XHRQPXidUIz46u57St1FiUAN9y0aZymIqruaC8luXiS) | Brad Colbow [u](https://www.youtube.com/@thebradcolbow) |
-| 茶子鱼插画 [u](https://www.youtube.com/@chaziyu/playlists)                                                                            |                                                         |
+| 茶子鱼插画 [u](https://www.youtube.com/@chaziyu/playlists)                                                                            | 有点艺思哦 [u](https://www.youtube.com/@YouDianYiSi)         |
 |                                                                                                                                  |                                                         |
+
+
+
+|                                                                                        |
+| -------------------------------------------------------------------------------------- |
+| 如何判断自己有绘画的天赋 [有点艺思哦](https://www.youtube.com/watch?v=E7zjCN2YZQI) 于建国博士 8:48           |
+| 零基础学画画 [画久久](https://www.youtube.com/playlist?list=PLtiqRkrZXsxTrLDykWcM2jzaUcdUz6Oei) |
+|                                                                                        |
 
 ### Procreate
 
@@ -372,6 +384,12 @@ CG 原为Computer Graphics的英文缩写 [s](https://baike.baidu.com/item/CG%E7
 
 How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=qEp70jK8Az0)
 
+|                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| 工业设计 如何选择建模软件？入门三维世界 [设计游牧民](https://www.youtube.com/watch?v=r1\_43xPwxWs)                                                   |
+| Nomad introductory tutorial—小白必看！没人会讲的Nomad建模理论与核心逻辑\~内容较多，慢慢看。 [Super Rabbit](https://www.youtube.com/watch?v=ZBTb62YqI\_o) |
+|                                                                                                                              |
+
 ### 文本生成3D模型
 
 |                                                                                                            |
@@ -435,7 +453,7 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | Surfaced Studio [u](https://www.youtube.com/c/SurfacedStudio/playlists)                                                                                                                                                                                                                                                                 |
 | Kev Binge [u](https://www.youtube.com/watch?v=SZ1X0ADyONE) sab\_3d [u](https://www.youtube.com/@sab3d) sabrina garcia [v](https://www.douyin.com/video/7229994642505288963)                                                                                                                                                             |
 | CG Cookie [u](https://www.youtube.com/c/CGCookieBlender/playlists) Polygon Runway [u](https://www.youtube.com/c/PolygonRunway) Noggi [u](https://www.youtube.com/c/Noggi\_Video) Blender Art [u](https://www.youtube.com/c/BlenderArt) Dédouze [u](https://www.youtube.com/@dedouze) 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m) |
-| Kumo Blender [u](https://www.youtube.com/@KumoBlender/playlists)   浩克肥虫 HulkFatZerg [u](https://www.youtube.com/@HulkFatZerg)                                                                                                                                                                                                           |
+| Kumo Blender [u](https://www.youtube.com/@KumoBlender/playlists)   浩克肥虫 HulkFatZerg [u](https://www.youtube.com/@HulkFatZerg)   Wendy Jiang [u](https://www.youtube.com/@JiangHongYing/playlists)   3D設計人 [u](https://www.youtube.com/@3D%E8%A8%AD%E8%A8%88%E4%BA%BA/videos)                                                            |
 | Primer [u](https://www.youtube.com/c/PrimerLearning) [git](https://github.com/Primer-Learning/PrimerTools) [git](https://github.com/gzbin365/primerpython)                                                                                                                                                                              |
 | Blender Fundamentals 2.8 [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6)                                                                                                                                                                                                                           |
 | Blender Training [Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya\_\_OzPl3hfAjdayD9QIatudV)                                                                                                                                                                                                                                  |
@@ -457,6 +475,8 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 | PAPAYA 電腦教室 [u](https://www.youtube.com/c/papayaclass/playlists)                                                                                                                                                                                                                                                                        |
 | \[Tutorialsplanet.NET] Udemy - Blender Character Modeling & Rigging - Character Design                                                                                                                                                                                                                                                  |
 | <p>如何自学建模？ <a href="https://www.youtube.com/watch?v=gLhexBGa08E">有点艺思哦</a></p><p>10:03 Scott Robertsion with Thomas Bertling - How to draw </p><p>12:00 21時長 Blender 2.8 硬表面教學精華 </p><p>12:30 Hard surface modeling Blender - Gleb Alexandrov &#x26; Aidy burrows</p>                                                                   |
+| AutoDL+Blender建模插件，丝滑参加Tripo AI 3D渲染大赛？ [AI.toolbox](https://www.youtube.com/watch?v=AXeAIHqk8As)                                                                                                                                                                                                                                       |
+| 不挑手機！將影片變成3D模型的方法（內含Blender修模教學）[ZACK 3D](https://www.youtube.com/watch?v=5jLNnZod3Ng)                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                         |
 
 |                                                                                                                                                    |

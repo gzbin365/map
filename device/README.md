@@ -97,7 +97,7 @@ description: 硬件设备
 |                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                      |
 
-## **Raspberry Pi**
+## 树莓派 **Raspberry Pi**
 
 |                                                                                                                |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -108,65 +108,66 @@ description: 硬件设备
 | Yuan Wang [u](https://www.youtube.com/channel/UCfy3IRqGZb7W6Jv4gWChTzA)                                        | powersee [u](https://www.youtube.com/c/powersee/videos)                                                                    |
 | Sam Westby Tech [u](https://www.youtube.com/c/SamWestbyTech/playlists)                                         | 游戏咖啡馆 GameCafe [u](https://www.youtube.com/c/%E6%B8%B8%E6%88%8F%E5%92%96%E5%95%A1%E9%A6%86GameCafe)                        |
 
-|                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Raspberry Pi [Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)                                                                                                              |
-| [Linux 中国](https://linux.cn/tech/raspberrypi/)◆开源社区\|树莓派                                                                                                                                               |
-| HomeAssistant智能家居实战篇 [HAChina中文网](https://www.youtube.com/playlist?list=PLfLv9YbLnoeuOJ22n-45FLFZQZeDs3fJh)                                                                                            |
-| Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                        |
-| Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                                   |
-| Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie)       |
-| Maker.io Presents How to... [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyS2ss1BpkRhfBzYqC0vEgM8)                                                                                       |
-| VMware on a Raspberry Pi!?!?! (ESXi Install) [NetworkChuck](https://www.youtube.com/watch?v=6aLyZisehCU)                                                                                               |
-| i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher) [NetworkChuck](https://www.youtube.com/watch?v=X9fSMGkjtug)                                                         |
-| How to Remote Desktop Into Your Raspberry Pi (VNC/RDP) [Refactored](https://www.youtube.com/watch?v=IfzBPi4FHpI)                                                                                       |
-| How to make an Nginx Webserver in 7 minutes [Kian Brose](https://www.youtube.com/watch?v=yBV9216R6\_E)                                                                                                 |
-| How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                      |
-| my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                               |
-| Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                            |
-| 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                                |
-| Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                         |
-| Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                             |
-| How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                           |
-| 树莓派变视频监控(python脚本方案) [我是炬峰](https://www.youtube.com/watch?v=nTVl9YBZoFg) [git](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials/blob/master/Projects/rpi\_camera\_surveillance\_system.py)      |
-| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                     |
-| 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                              |
-| 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                                   |
-| 如何让树莓派变成黑客工具 [我是炬峰](https://www.youtube.com/watch?v=cF4qeIpufm4)                                                                                                                                       |
-| 只要 $35 美金的小型電腦！？一起開箱樹莓派 Raspberry Pi 4 （簡易安裝教學 + 實測） \| #devlog [愷開寫程式 / Kalan Coding](https://www.youtube.com/watch?v=xCyvMF80yjg)                                                                    |
-| 樹梅派 Raspberry Pi 中文影片 [科技新柚](https://www.youtube.com/playlist?list=PLog31l8T4fsAGEK4F926H6hJmNpj5-b1E)                                                                                                 |
-| 【Aiden】BerryBoot 樹梅派 多系統開機 教學 [Aiden's Low Budget Adventure](https://www.youtube.com/watch?v=FsJVMzBwLRE)                                                                                              |
-| 树莓派BerryBoot SSD多系统启动 \| CC中文字幕 [老明](https://www.youtube.com/watch?v=aJueYuVt\_qU)                                                                                                                     |
-| 樹莓派教學 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtzka1v94A33ISzcv363njjIa)                                                                                         |
-| Raspberry PI 4 樹莓派四代來襲 遊戲體驗更棒 運行性能提升 增加NAOMI SS模擬器 還能跑PGM2 太讚的特色電玩啦！！ [獅心瘋](https://www.youtube.com/watch?v=ppzgQ2n0EFo)                                                                               |
-| Windows 11 ARM on Raspberry Pi [ExplainingComputers](https://www.youtube.com/watch?v=zGF\_HaSdFyA)                                                                                                     |
-| 不到200块的树莓派变身超级复古游戏机 [Yi Wang](https://www.youtube.com/watch?v=oPD0-CpVHjA)                                                                                                                             |
-| Raspberry Pi [Cool Play](https://www.youtube.com/playlist?list=PLeTPtpt422iswWcKFrZ3Mdrqa8P79aECU) 集群                                                                                                  |
-| 树莓派应用系列 [悟空的日常](https://www.youtube.com/playlist?list=PL-Gg8EgJJQpCnggBXCguQdura5GfnPg6L)                                                                                                              |
-| 如何用树莓派搭一个文件服务器 [我是炬峰](https://www.youtube.com/watch?v=ocgEwgJ8MAI)                                                                                                                                     |
-| <p>Tech <a href="https://www.youtube.com/playlist?list=PLdgI9Pl3hKw31hdPFBitr1yoFI19oC3Bo">美国村長</a></p><p>详解 Raspberry Pi 搭建 Jupyter Notebook 远程云服务器</p>                                               |
-| 20210330 教師專題講座 「樹莓派相機影像辨識實作」 [FabLab花蓮高工](https://www.youtube.com/watch?v=hKwA1Rmkow8)                                                                                                                |
-| 【踢踢】200多元的树莓派能给家里带来多大的改变？ [踢踢打踢踢](https://www.youtube.com/watch?v=Lo2dU-Gnxso)                                                                                                                         |
-| How to Overclock Raspberry Pi 4 to 2.0 GHz [s](https://www.cnx-software.com/2019/07/26/how-to-overclock-raspberry-pi-4/)                                                                               |
-| <p>【韩风Talk】树莓派4最佳<a href="https://www.youtube.com/watch?v=RGYtiO1tcOo">散热</a>解决方案，目前没有之一</p><p>折腾树莓派 <a href="https://www.youtube.com/playlist?list=PLTI5d7Gwez7pMOKZgEKxte1_guTl5tJJq">韩风Talk</a></p> |
-| 树莓派DIY中文智能音箱 [IT Commander](https://www.youtube.com/watch?v=tEkMuxXF9LY)                                                                                                                               |
-| \[商品]Raspberry PI 樹莓派 金屬殼專用 多層支架 [熊的開發DVPBear](https://www.youtube.com/watch?v=Ffi3R--cosw)                                                                                                            |
-| Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                          |
-| Pi Cluster vs monster 128-core Ampere Altra Max [Jeff Geerling](https://www.youtube.com/watch?v=UT5UbSJOyog)                                                                                           |
-| 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                               |
-| Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                     |
-| Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                  |
-| Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                     |
-| Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                               |
-| Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                               |
-| Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                        |
-| The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                  |
-| 树莓派驱动开发实战 [Philon](https://ixx.life/categories/%E6%A0%91%E8%8E%93%E6%B4%BE%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/)                                                                     |
-| Movidius NCS + Raspberry Pi 3B+ [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRaT\_AEkme7Ne81WTgBzMEg) Deep Learning                                                                    |
-| Creating a Website on Raspberry Pi [Chris Titus Tech](https://www.youtube.com/watch?v=BPcficy9ji0)                                                                                                     |
-| Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL\_vyuxE-AO-CXEUMjEN8Vzt0\_WxrhEbEX)                                                                                           |
-| I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc\_zGRYhLo)                                             |
-|                                                                                                                                                                                                        |
+|                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi [Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)                                                                                                                |
+| <p>树莓派3B替换开发板推荐 <a href="https://www.youtube.com/watch?v=5CYPAo-q3pg">技术宅</a></p><p>树莓派4B替换开发板推荐 <a href="https://www.youtube.com/watch?v=XNjM0QDVNrw">技术宅</a></p>                                       |
+| [Linux 中国](https://linux.cn/tech/raspberrypi/)◆开源社区\|树莓派                                                                                                                                                 |
+| HomeAssistant智能家居实战篇 [HAChina中文网](https://www.youtube.com/playlist?list=PLfLv9YbLnoeuOJ22n-45FLFZQZeDs3fJh)                                                                                              |
+| Mobile Raspberry Pi Setup with iPad Pro - Coding, Productivity & More [Tech Craft](https://www.youtube.com/watch?v=A3qn1nqw-Gw)                                                                          |
+| Raspberry Pi GPU Bringup LIVE - Nvidia GeForce GTX 1080 [Jeff Geerling](https://www.youtube.com/watch?v=1hFPnpVqzkw)                                                                                     |
+| Raspberry Pi [Pantech eLearning](https://www.youtube.com/playlist?list=PLMVm21xCcvZdGKeTRof5ejPIwvXz2M4qo) [Null Byte](https://www.youtube.com/playlist?list=PL4zzNO1AFRUkCIU2i-gO-3EFb0EeKIZie)         |
+| Maker.io Presents How to... [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyS2ss1BpkRhfBzYqC0vEgM8)                                                                                         |
+| VMware on a Raspberry Pi!?!?! (ESXi Install) [NetworkChuck](https://www.youtube.com/watch?v=6aLyZisehCU)                                                                                                 |
+| i built a Raspberry Pi SUPER COMPUTER!! // ft. Kubernetes (k3s cluster w/ Rancher) [NetworkChuck](https://www.youtube.com/watch?v=X9fSMGkjtug)                                                           |
+| How to Remote Desktop Into Your Raspberry Pi (VNC/RDP) [Refactored](https://www.youtube.com/watch?v=IfzBPi4FHpI)                                                                                         |
+| How to make an Nginx Webserver in 7 minutes [Kian Brose](https://www.youtube.com/watch?v=yBV9216R6\_E)                                                                                                   |
+| How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) [NetworkChuck](https://www.youtube.com/watch?v=vbaJcRxASo0)                                                                        |
+| my SUPER secure Raspberry Pi Router (wifi VPN travel router)　[NetworkChuck](https://www.youtube.com/watch?v=jlHWnKVpygw)                                                                                 |
+| Cryptocurrency Mining on a Raspberry Pi (it's fun....trust me) [NetworkChuck](https://www.youtube.com/watch?v=hHtGN\_JzoP8)                                                                              |
+| 4 Pis on a mini ITX board! The Turing Pi 2 [Jeff Geerling](https://www.youtube.com/watch?v=IUPYpZBfsMU)                                                                                                  |
+| Mini Dream PC That worth many Sleepless Night \| [TecH BoyS ToyS](https://www.youtube.com/watch?v=oGTCyeLdxfY)                                                                                           |
+| Introduction to object detection on Raspberry Pi [TensorFlow](https://www.youtube.com/watch?v=mNjXEybFn98)                                                                                               |
+| How to build an air quality monitor using Raspberry Pi Zero W + ANAVI Infrared pHAT [devaslife](https://www.youtube.com/watch?v=0gNnUWtbmeI)                                                             |
+| 树莓派变视频监控(python脚本方案) [我是炬峰](https://www.youtube.com/watch?v=nTVl9YBZoFg) [git](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials/blob/master/Projects/rpi\_camera\_surveillance\_system.py)        |
+| Building the best Raspberry Pi NAS - Wiretrustee SATA [Jeff Geerling](https://www.youtube.com/watch?v=ahrdx3TYxZc)                                                                                       |
+| 4美元的樹莓派Pico開發板詳細評測 [HACK实验室](https://www.youtube.com/watch?v=yTNF5cEnhLo)                                                                                                                                |
+| 【到底玩什么03】“派”到底玩个啥？——树莓派4B入门点灯教程。 [司波图](https://www.youtube.com/watch?v=8\_GsEBgcOO8)                                                                                                                     |
+| 如何让树莓派变成黑客工具 [我是炬峰](https://www.youtube.com/watch?v=cF4qeIpufm4)                                                                                                                                         |
+| 只要 $35 美金的小型電腦！？一起開箱樹莓派 Raspberry Pi 4 （簡易安裝教學 + 實測） \| #devlog [愷開寫程式 / Kalan Coding](https://www.youtube.com/watch?v=xCyvMF80yjg)                                                                      |
+| 樹梅派 Raspberry Pi 中文影片 [科技新柚](https://www.youtube.com/playlist?list=PLog31l8T4fsAGEK4F926H6hJmNpj5-b1E)                                                                                                   |
+| 【Aiden】BerryBoot 樹梅派 多系統開機 教學 [Aiden's Low Budget Adventure](https://www.youtube.com/watch?v=FsJVMzBwLRE)                                                                                                |
+| 树莓派BerryBoot SSD多系统启动 \| CC中文字幕 [老明](https://www.youtube.com/watch?v=aJueYuVt\_qU)                                                                                                                       |
+| 樹莓派教學 [Aiden's Low Budget Adventure](https://www.youtube.com/playlist?list=PLL8xXulHTtzka1v94A33ISzcv363njjIa)                                                                                           |
+| Raspberry PI 4 樹莓派四代來襲 遊戲體驗更棒 運行性能提升 增加NAOMI SS模擬器 還能跑PGM2 太讚的特色電玩啦！！ [獅心瘋](https://www.youtube.com/watch?v=ppzgQ2n0EFo)                                                                                 |
+| Windows 11 ARM on Raspberry Pi [ExplainingComputers](https://www.youtube.com/watch?v=zGF\_HaSdFyA)                                                                                                       |
+| 不到200块的树莓派变身超级复古游戏机 [Yi Wang](https://www.youtube.com/watch?v=oPD0-CpVHjA)                                                                                                                               |
+| Raspberry Pi [Cool Play](https://www.youtube.com/playlist?list=PLeTPtpt422iswWcKFrZ3Mdrqa8P79aECU) 集群                                                                                                    |
+| 树莓派应用系列 [悟空的日常](https://www.youtube.com/playlist?list=PL-Gg8EgJJQpCnggBXCguQdura5GfnPg6L)                                                                                                                |
+| 如何用树莓派搭一个文件服务器 [我是炬峰](https://www.youtube.com/watch?v=ocgEwgJ8MAI)                                                                                                                                       |
+| <p>Tech <a href="https://www.youtube.com/playlist?list=PLdgI9Pl3hKw31hdPFBitr1yoFI19oC3Bo">美国村長</a></p><p>详解 Raspberry Pi 搭建 Jupyter Notebook 远程云服务器</p>                                                 |
+| 20210330 教師專題講座 「樹莓派相機影像辨識實作」 [FabLab花蓮高工](https://www.youtube.com/watch?v=hKwA1Rmkow8)                                                                                                                  |
+| 【踢踢】200多元的树莓派能给家里带来多大的改变？ [踢踢打踢踢](https://www.youtube.com/watch?v=Lo2dU-Gnxso)                                                                                                                           |
+| How to Overclock Raspberry Pi 4 to 2.0 GHz [s](https://www.cnx-software.com/2019/07/26/how-to-overclock-raspberry-pi-4/)                                                                                 |
+| <p>【韩风Talk】树莓派4最佳<a href="https://www.youtube.com/watch?v=RGYtiO1tcOo">散热</a>解决方案，目前没有之一</p><p>折腾树莓派 <a href="https://www.youtube.com/playlist?list=PLTI5d7Gwez7pMOKZgEKxte1_guTl5tJJq">韩风Talk</a></p>   |
+| <p>树莓派DIY中文智能音箱 <a href="https://www.youtube.com/watch?v=tEkMuxXF9LY">IT Commander</a></p><p>树莓派 <a href="https://www.youtube.com/playlist?list=PLBB2HcNrG9ZYHNGCqsvkxPzaKxXTZSq78">IT Commander</a></p> |
+| \[商品]Raspberry PI 樹莓派 金屬殼專用 多層支架 [熊的開發DVPBear](https://www.youtube.com/watch?v=Ffi3R--cosw)                                                                                                              |
+| Pi Cluster [KF7IJZ](https://www.youtube.com/playlist?list=PLYdpm7CC0KkJVUbawjqwNMTy4qDRNb8wK)                                                                                                            |
+| Pi Cluster vs monster 128-core Ampere Altra Max [Jeff Geerling](https://www.youtube.com/watch?v=UT5UbSJOyog)                                                                                             |
+| 【[游戏咖啡馆](https://www.youtube.com/watch?v=X4bltprI0U4)】教你制作9999in1的树莓派游戏机                                                                                                                                 |
+| Raspberry Pi [打開Siri學英文](https://www.youtube.com/playlist?list=PLeADNyODTwgO9gvb3j2CPRft6upPpSTm8)                                                                                                       |
+| Raspberry Pi [Brian Schell](https://www.youtube.com/playlist?list=PL0OvL0vNFHNCDVCLC0sVIXKDHI5X35u2F)                                                                                                    |
+| Top 10 Raspberry Pi Projects for 2022 [Jeff Geerling](https://www.youtube.com/watch?v=rS9CbsohFGk)                                                                                                       |
+| Host Your Own Website FOR FREE \| Raspberry Pi [DIY SLAPS!](https://www.youtube.com/watch?v=bwQd3OpADNo)                                                                                                 |
+| Raspberry Pi [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3iTKbgQryS6UNXM4Nf3KVFw)                                                                                                 |
+| Raspberry Pi - Autonomous Robot [Daniel Schnabel](https://www.youtube.com/watch?v=QCOK8\_6Ujdg)                                                                                                          |
+| The Petabyte Pi Project [Jeff Geerling](https://www.youtube.com/watch?v=BBnomwpF\_uY)                                                                                                                    |
+| 树莓派驱动开发实战 [Philon](https://ixx.life/categories/%E6%A0%91%E8%8E%93%E6%B4%BE%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/)                                                                       |
+| Movidius NCS + Raspberry Pi 3B+ [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wRaT\_AEkme7Ne81WTgBzMEg) Deep Learning                                                                      |
+| Creating a Website on Raspberry Pi [Chris Titus Tech](https://www.youtube.com/watch?v=BPcficy9ji0)                                                                                                       |
+| Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL\_vyuxE-AO-CXEUMjEN8Vzt0\_WxrhEbEX)                                                                                             |
+| I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc\_zGRYhLo)                                               |
+|                                                                                                                                                                                                          |
 
 ### Raspberry Pi Pico
 
@@ -425,6 +426,9 @@ description: 硬件设备
 | 這些 App 讓你聰明用平板！清大學生真實使用技巧，蘋果 iPad、三星 Tab S 系列上課、家教、寫論文都行！ [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=I9pdCRomckM)                |
 | 大學生人手一台 iPad 是基本？最多人用的平板筆記 App 是 GoodNotes & Notability！清華大學校訪 [電獺少女-女孩的科技日常](https://www.youtube.com/watch?v=1C18-Vw4\_Fo) Flexcil  |
 | 無法想像大學生現在都用平板上課！稽查妹妹平板，到底是買前生產力，還是買後Netflix【[貝爾熊派](https://www.youtube.com/watch?v=Y\_jS3iLpYBo)】                                    |
+| 耐刷王！小米平板5刷澎湃OS+Win11双系统保姆级指南 [在下莫老师](https://www.youtube.com/watch?v=p6SPaTMpqyQ)                                                    |
+|                                                                                                                                      |
+|                                                                                                                                      |
 |                                                                                                                                      |
 
 ## Homelab
@@ -519,11 +523,11 @@ description: 硬件设备
 | 去西雅图偷飞机fpv [B](https://space.bilibili.com/29452659)                                                         |                                                                                                                 | Engineer01 [B](https://space.bilibili.com/2504850)                                                                             |
 |                                                                                                             |                                                                                                                 |                                                                                                                                |
 
-|                                                                                               |                                                                                     |                                                                                                |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 【FPV一镜到底】疫情居家，开小飞机到楼下小区遛个弯儿～65mm小无刷真舒适 [YUE-FPV](https://www.bilibili.com/video/BV15Y4y1e7Ng) | 【穿越机分享】最贴近真机的模拟器-TRYP [自目THEMODE\_FPV](https://www.bilibili.com/video/BV1QV4y1E7WK) | 新手入门穿越机保姆级教程 [曹骞不会飞](https://space.bilibili.com/489256208/channel/collectiondetail?sid=265264) |
-|                                                                                               |                                                                                     |                                                                                                |
-|                                                                                               |                                                                                     |                                                                                                |
+|                                                                                                                         |                                                                                     |                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 【FPV一镜到底】疫情居家，开小飞机到楼下小区遛个弯儿～65mm小无刷真舒适 [YUE-FPV](https://www.bilibili.com/video/BV15Y4y1e7Ng)                           | 【穿越机分享】最贴近真机的模拟器-TRYP [自目THEMODE\_FPV](https://www.bilibili.com/video/BV1QV4y1E7WK) | 新手入门穿越机保姆级教程 [曹骞不会飞](https://space.bilibili.com/489256208/channel/collectiondetail?sid=265264) |
+| Make a TINY Arduino Drone with FPV Camera - Will It Fly? [Max Imagination](https://www.youtube.com/watch?v=Sa6EslOHsI0) |                                                                                     |                                                                                                |
+|                                                                                                                         |                                                                                     |                                                                                                |
 
 #### FPV模拟器
 
@@ -570,7 +574,7 @@ description: 硬件设备
 | 如何制作阿凡达蝎子遥控直升机 - 3D 打印遥控直升机 [Craft Channel](https://www.youtube.com/watch?v=UkFCE25-XTs)                 |
 | How to Make a RC Helicopter at Home - ALZRC X360 [NDA Hack](https://www.youtube.com/watch?v=0E73PSjSGZI) |
 
-## **3D Pringing**
+## 3D打印 **3D Pringing**
 
 | 机构                                                                                                                                  |                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -600,6 +604,8 @@ description: 硬件设备
 | 3D Printer [Tabletop Machine Shop](https://www.youtube.com/playlist?list=PLncGmOkJj3YRgMIMFepeuBZr68jy9i-zl)                                                                          |
 | 3d Printing [Novaspirit Tech](https://www.youtube.com/playlist?list=PL846hFPMqg3hNmtrGnf8Qy82ZyacP4Li1)                                                                               |
 | <p>【<a href="https://www.youtube.com/watch?v=YqY6BbhkbGA&#x26;list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX&#x26;index=47">硬件科普</a>】什么是3D打印，3D打印有哪些种类，优劣分别是什么？</p><p>FDM Snapmaker 创想三维</p> |
+| 拓竹A1系潜在问题及解决方案 [子羽 EvolutionarySchool](https://www.youtube.com/watch?v=wOFZwwygc54)                                                                                                   |
+| 3D列印基礎課堂！Blender 從建模到打印的全流程指南 \| [三米創作](https://www.youtube.com/watch?v=dstlHy39zwg)                                                                                                  |
 |                                                                                                                                                                                       |
 |                                                                                                                                                                                       |
 
@@ -954,6 +960,15 @@ System on Chip, 系统级芯片
 |                                                                                      |
 |                                                                                      |
 
+
+
+| 可调电源                                                                                           |
+| ---------------------------------------------------------------------------------------------- |
+| 10款百元\~千元级可调电源评测，差距到底有多大？ [工科男孙老师](https://www.youtube.com/watch?v=jt2H0MfsVGM)                |
+| 简单分享新入手的维修小工具｜可调直流稳压电源 帮我完成NAS风扇改造 [TuTu生活志](https://www.youtube.com/watch?v=s170R7pLFIQ) dc电源 |
+|                                                                                                |
+|                                                                                                |
+
 ## 充电宝
 
 |                                                                                |   |   |
@@ -1079,7 +1094,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 8盘位Nas 如何合理组建阵列？[zh](https://www.zhihu.com/question/402224452)                                                                                                                                                |
 | 不想被勒索软件毁掉数据，就按照「3-2-1 原则」来备份文件 [s](https://sspai.com/post/39591) [v](https://www.douyin.com/video/7143988313458789664)                                                                                        |
 | 备份3-2-1 原则, 至少备份3份, 透过2种不同媒介存储, 1分异地备份 [v](https://www.youtube.com/watch?v=wNjbQC53KxY)9:06                                                                                                                   |
-| UPGRADE Your MacBook With THIS! [Created Tech](\[link]\(https:/www.youtube.com/watch/)                                                                                                                        |
+| UPGRADE Your MacBook With THIS! [Created Tech](https://github.com/GuZhebin/map/blob/main/device/\[link]\(https:/www.youtube.com/watch/README.md)                                                              |
 | 简单聊聊硬raid和软raid [一个非常朋克的技术](https://www.douyin.com/video/7018551548590509319)                                                                                                                                 |
 | 什么使用场景适合什么对应的磁盘阵列Raid类型呢？ [一个非常朋克的技术](https://www.douyin.com/video/6945354287987854629) 推荐Raid５                                                                                                               |
 | 群晖服务器 [Jomy King](https://www.youtube.com/playlist?list=PL9nxfq1tlKKnBlbAg-x5eNMXdBBzimfWh)                                                                                                                   |
@@ -1228,6 +1243,7 @@ direct-attached storage
 |                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 猫猫无线 [u](https://www.youtube.com/@maomaowuxian) 老韩一米九 [u](https://www.youtube.com/@oldhan1m9) jack stone [u](https://www.youtube.com/@jackstone) 向北 [u](https://www.youtube.com/@xiangbei) 卡卡的鼓捣日记 [u](https://www.youtube.com/@kaka\_58) JS神技能 [u](https://www.youtube.com/@jssjn) 乌客 [u](https://www.youtube.com/@wuke) |
+| 在下莫老师 [u](https://www.youtube.com/@zxmls/videos)                                                                                                                                                                                                                                                                          |
 | OpenWrt固件新天花板/软路由入手五分钟完成设置/小白入门一键设置智能引导首选固件/iStoreOS X86版本全网首发 [JS神技能](https://www.youtube.com/watch?v=XIPo9KTBoH0)                                                                                                                                                                                                       |
 | 五分钟安装软路由/极速安装OpenWrt新方法/入门新人必备神技能 [JS神技能](https://www.youtube.com/watch?v=zIYIQO3FQBQ)                                                                                                                                                                                                                                    |
 | 软路由必修课2022年软路由选购指南/软路由选择底层逻辑/十分钟学会如何选择软路由 [JS神技能](https://www.youtube.com/watch?v=HCFRa4uMrUg)                                                                                                                                                                                                                            |
@@ -1373,7 +1389,9 @@ direct-attached storage
 | Arx Mechanica - Robotics [u](https://www.youtube.com/channel/UCmzvCu9xpKVJguiTmxV\_2Zg)                                                                                                                                                                                                                                               | <p>Boston Dynamics <a href="https://www.bostondynamics.com/">s</a> <a href="https://www.youtube.com/user/BostonDynamics">u</a> <a href="https://github.com/search?q=Boston+Dynamics">git</a></p><p>Bosstown Dynamics</p>                                                                                                                                                     |
 | 耀司 抖音号：[601104841](https://www.douyin.com/user/MS4wLjABAAAA0nq3XXPjGGlyTGaQ\_4eb3DVTkz4eKvQ04lmTRbilbtY)                                                                                                                                                                                                                              | 机械师哥 抖音号：[jixieshi1989](https://www.douyin.com/user/MS4wLjABAAAAs4P-IeUGwafwFXLBxDB09asEKV0umhbByBUE28P4Lbo)                                                                                                                                                                                                                                                                 |
 | 雷特 抖音号：[11061745](https://www.douyin.com/user/MS4wLjABAAAAuuKR2cG8By4UygC7U6AAyLBu7NrnW2a6AWP06wIvUjs)                                                                                                                                                                                                                                | JetsonHacks [u](https://www.youtube.com/c/JetsonHacks/playlists)                                                                                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                                       | Tesla [u](https://www.youtube.com/tesla)                                                                                                                                                                                                                                                                                                                                     |
+| Learn Robotics and AI 🤖 [u](https://www.youtube.com/@LearnRoboticsAndAI)                                                                                                                                                                                                                                                             | Tesla [u](https://www.youtube.com/tesla)                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                              |
 
 |                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1400,9 +1418,11 @@ direct-attached storage
 | AMAZING ROBOTIC ANIMALS YOU MUST SEE! [TechZone](https://www.youtube.com/watch?v=ZSNwrIQiod4)                                                             |
 | How to start making AUTONOMOUS ROBOT with the ATTLER [stepbystep-robotics](https://www.youtube.com/watch?v=jlrUUotkIlk)                                   |
 | 《时尚科技秀》 20230203 智能力控机器人\|[CCTV科教](https://www.youtube.com/watch?v=5Wpr7BrEXVY)                                                                           |
-| 魅力机器人 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJM4B4GmnwdFXLh1Mri99yeR)                                |
+| 魅力机器人 [Peking University Mooc - 欢迎订阅 -北京大学公开课 -](https://www.youtube.com/playlist?list=PLj12i3PT3FJM4B4GmnwdFXLh1Mri99yeR) 机器人学                           |
 | 我们造出了“自动写作业机器人”！ [极客湾Geekerwan](https://www.youtube.com/watch?v=jWgvvESR09k)                                                                              |
 | 给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型 [Zihao Zhang](https://www.youtube.com/watch?v=MxK9JnHzths)                                                         |
+| From Brains to Bot: Arduino's Next-Level Journey with AI. [DIY Builder](https://www.youtube.com/watch?v=VyC9gXPdpmg)                                      |
+| Building a mobile robot [Articulated Robotics](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT)                                  |
 |                                                                                                                                                           |
 
 | 机器人三原则                                                                                      |
@@ -1413,11 +1433,44 @@ direct-attached storage
 
 ### 机械臂 Robot Arm
 
-|                                                                                                |
-| ---------------------------------------------------------------------------------------------- |
-| I made a DUMMY ROBOTIC ARM from scratch！ [稚晖君](https://www.youtube.com/watch?v=F29vrvUwqS4)    |
-| Top 5 Robotic Arms for your desktop [AwesomeTech](https://www.youtube.com/watch?v=-69raWQ2DUc) |
-|                                                                                                |
+|                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| I made a DUMMY ROBOTIC ARM from scratch！ [稚晖君](https://www.youtube.com/watch?v=F29vrvUwqS4)                                                   |
+| Top 5 Robotic Arms for your desktop [AwesomeTech](https://www.youtube.com/watch?v=-69raWQ2DUc)                                                |
+| 用機械手臂取代銲接師傅？機械手臂基礎教學介紹與操作認知【[超認真少年](https://www.youtube.com/watch?v=7UbzYNWOPb8)】Electric Robot Welding                                       |
+| 【AI项目】moblie aloha 斯坦福大学家政机器人-！免费开源！可商用！全网最细解读 ！低成本方案具备可行性！完全体符合普通人的期待！ [AB视界](https://www.youtube.com/watch?v=YVif31dayQQ) git               |
+| 做家务的机器人终于来了！你也能搭建！Stanford+ Google DeepMind+波士顿动力! 比特斯拉Optimus更厉害开源机器人 [常常99 - 99ai 🤖 Jojo投资创业](https://www.youtube.com/watch?v=40rFWzt9VJQ) |
+| Dobot MG400 Robotic Arm: my first impressions, demos and hardware overview. [UptimeFab](https://www.youtube.com/watch?v=6nGexb\_i0aM)         |
+| Top 5 Mini Robotic Arm of 2021 [AstirTech](https://www.youtube.com/watch?v=uBRjvlfmqTI)                                                       |
+| I Made a Robot Arm to Hold My Camera \[$500] [3DprintedLife](https://www.youtube.com/watch?v=e3TNaIyTAnY)                                     |
+| JetArm 3D Vision Robot Arm: A Deep Dive into AI ROS Robot [Hiwonder](https://www.youtube.com/watch?v=wYL03uhiER4)                             |
+| Arduino 4-Axis Robot Arm [Make It Smart](https://www.youtube.com/watch?v=Z7HWoh\_MR1s)                                                        |
+| Robotic Arm with Arduino - Save/Play/Export/Import Positions. [FABRI creator](https://www.youtube.com/watch?v=ZEir102PxJ8)                    |
+| Robot Arm Programming (Dobot MG400) Ep1 Getting Started with Education Kit for Dobot MG400 [PLS](https://www.youtube.com/watch?v=aqIe6f4vjCU) |
+| 三轴机械臂解算逆运算控制 只需要初中三角函数 超级详细讲！ [技术宅](https://www.youtube.com/watch?v=sXwb7dloJFs)                                                              |
+| DIY Arduino Robot Arm - Controlled By Python Desktop App [KOS Elements](https://www.youtube.com/watch?v=mjYarSre3vk)                          |
+| How to Build a 3D Printed Robot Arm Tutorial (Arduino Based) - Part Two [Build Some Stuff](https://www.youtube.com/watch?v=OiQKw0lZ5Rw)       |
+|                                                                                                                                               |
+
+#### Elephant Robotics
+
+|                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                       |
+| <p>古月居測評 | myCobot六軸協作機械臂開箱測評 <a href="https://www.youtube.com/watch?v=oHyDCyopmMM">Elephant Robotics</a> </p><p>myCobot280 myCobot320 myCobot600</p> |
+| ultraArm P340 \| 4-axis Desktop Robotic Arm with Various Solutions for Education [Elephant Robotics](https://www.youtube.com/watch?v=cpa-lKwGyBk)     |
+|                                                                                                                                                       |
+|                                                                                                                                                       |
+
+#### Elephant Mecharm
+
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| Elephant Mecharm 270 Unbox from RoboFiesta.com [RoboFiesta](https://www.youtube.com/watch?v=9lN9U4Q8QwY)       |
+| mechArm 270-Pi \| Artificial Intelligence Kit [Elephant Robotics](https://www.youtube.com/watch?v=cjaUuUIa68A) |
+| 工業型 六軸機械手臂 mechArm [PlayRobot Inc](https://www.youtube.com/watch?v=mloaN5Zs77s)                                |
+|                                                                                                                |
+|                                                                                                                |
 
 ### 机械手 灵巧手
 
@@ -1555,7 +1608,7 @@ direct-attached storage
 | 悦宇搞机　抖音号： [yueyugaoji](https://www.douyin.com/user/MS4wLjABAAAA5mPBa5ZWrVeNwLx6Z9yzW8BUaXR3\_gtBkTNlXDZJ\_mbFhxcllnTXki4o7SQJI1ED) | 机品社　抖音号： [jipinshe](https://www.douyin.com/user/MS4wLjABAAAAJAwIVnSTGVtAV1tZ94nEz3dCzHoqdopiwsPxA-ERbNE)                                            | 捡垃圾的碎梦 抖音号： [dy2qty7xol4z](https://www.douyin.com/user/MS4wLjABAAAAZqE1AmPW6WAYJl-LDtj-4RlnXEDvLxJk1YfpoaRUQOOkiCgiEOxYfBQOe1YYHBzX) |
 | 90后科技说 抖音号：[69140729](https://www.douyin.com/user/MS4wLjABAAAArEguk4UmgcNDiCSPKjfA7kAL5HIvZDp1XaTU8uTMDis)                         | 酷玩小报 [u](https://www.youtube.com/channel/UC74YCjbQMu3opbM-SXDeaCQ)                                                                                  | 侃侃有余 [u](https://www.youtube.com/channel/UCA7a7WlEY9sH7h4qoWZzEGQ/videos)                                                            |
 | Gamers Nexus [u](https://www.youtube.com/c/GamersNexus)                                                                            | 苏打baka 抖音号：[sudabaka](https://www.douyin.com/user/MS4wLjABAAAAM9HjShBQl8aaTzWCyaj12p4xBUo1bFCXHG6Y1dHGVZM5-sFoJfI5IWEnr01Jyrl1)                     | 杰客森林 [u](https://www.youtube.com/@jackinforest/videos)                                                                               |
-|                                                                                                                                    |                                                                                                                                                     |                                                                                                                                      |
+| 在下莫老师 [u](https://www.youtube.com/@zxmls/videos)                                                                                   |                                                                                                                                                     |                                                                                                                                      |
 |                                                                                                                                    |                                                                                                                                                     |                                                                                                                                      |
 
 |                                                                                                                              |
