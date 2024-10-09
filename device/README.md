@@ -606,7 +606,7 @@ description: 硬件设备
 | <p>【<a href="https://www.youtube.com/watch?v=YqY6BbhkbGA&#x26;list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX&#x26;index=47">硬件科普</a>】什么是3D打印，3D打印有哪些种类，优劣分别是什么？</p><p>FDM Snapmaker 创想三维</p> |
 | 拓竹A1系潜在问题及解决方案 [子羽 EvolutionarySchool](https://www.youtube.com/watch?v=wOFZwwygc54)                                                                                                   |
 | 3D列印基礎課堂！Blender 從建模到打印的全流程指南 \| [三米創作](https://www.youtube.com/watch?v=dstlHy39zwg)                                                                                                  |
-|                                                                                                                                                                                       |
+| 3D打印了一根带声光电特效的金箍棒！路上的大人小孩都馋疯了！ [宅宅小霸王 OFFICIAL CHANNEL](https://www.youtube.com/watch?v=P7-6TE9oDi0)                                                                                  |
 |                                                                                                                                                                                       |
 
 ## UV印刷
@@ -637,7 +637,8 @@ description: 硬件设备
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Getting Started with STM32 and Nucleo [Digi-Key](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)                              |
 | Starting with STM32 - Programming Tutorial for Beginners \| Step by Step \| Greidi Ajalik [Robert Feranec](https://www.youtube.com/watch?v=dnfuNT1dPiM) |
-| keysking的stm32教程 [keys king](https://www.youtube.com/playlist?list=PLXhqpdHvPB\_FgFjNr1a2qU0JlrRVSY25q)                                                 |
+| keysking的stm32教程 [keys king](https://www.youtube.com/playlist?list=PLXhqpdHvPB\_FgFjNr1a2qU0JlrRVSY25q) 淘宝学习套件 [B](https://space.bilibili.com/6100925)  |
+|                                                                                                                                                         |
 |                                                                                                                                                         |
 
 ## ESP32
@@ -772,11 +773,12 @@ System on Chip, 系统级芯片
 
 ## DPU
 
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| 继CPU、GPU之后，DPU也要成为主力芯片了吗 [差评君](https://www.douyin.com/video/7032934789917297956) 处理数据 |
-| CPU, GPU…..DPU? [NetworkChuck](https://www.youtube.com/watch?v=pQrM5L6C-FQ)           |
-|                                                                                       |
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 继CPU、GPU之后，DPU也要成为主力芯片了吗 [差评君](https://www.douyin.com/video/7032934789917297956) 处理数据                                                           |
+| CPU, GPU…..DPU? [NetworkChuck](https://www.youtube.com/watch?v=pQrM5L6C-FQ)                                                                     |
+| 【芯片】什么是DPU \| 数据处理单元 \| AI时代带来的芯片分工 \| 超级网卡 \| 英伟达BlueField \| 收购Mellanox \| 片上数据中心 \| 3U一体 [最佳拍档](https://www.youtube.com/watch?v=afLjSZVQTJk) |
+|                                                                                                                                                 |
 
 ## 蓝牙
 
