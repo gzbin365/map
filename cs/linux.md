@@ -287,6 +287,8 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 | github-actions [s](https://github.com/features/actions) bot                                                                                                                                                              |
 | GitHub 社区指导方针 [s](https://docs.github.com/cn/github/site-policy/github-community-guidelines)                                                                                                                             |
 | How To Automate Github Using Python \| PyGithub \| Easy Guide [AI Sciences](https://www.youtube.com/watch?v=QaURSdmP0o8)                                                                                                 |
+| 【科技】Github为什么能够打败Google \| 联合创始人Scott Chacon万字长文 \| 解决SVN的痛点 \| Linus Torvalds大神加持 \| Mercurial \| 创业二十年 [最佳拍档](https://www.youtube.com/watch?v=B5BRonjJGlI)                                                             |
+|                                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                          |
 
 | github.dev                                                                                                                                          |
