@@ -607,6 +607,8 @@ description: 硬件设备
 | 拓竹A1系潜在问题及解决方案 [子羽 EvolutionarySchool](https://www.youtube.com/watch?v=wOFZwwygc54)                                                                                                   |
 | 3D列印基礎課堂！Blender 從建模到打印的全流程指南 \| [三米創作](https://www.youtube.com/watch?v=dstlHy39zwg)                                                                                                  |
 | 3D打印了一根带声光电特效的金箍棒！路上的大人小孩都馋疯了！ [宅宅小霸王 OFFICIAL CHANNEL](https://www.youtube.com/watch?v=P7-6TE9oDi0)                                                                                  |
+| 【入门指南】不会建模，怎么3D打印？ [小宁子 XNZ](https://www.youtube.com/watch?v=AmYSu4akEC0) Tinkercad                                                                                                   |
+|                                                                                                                                                                                       |
 |                                                                                                                                                                                       |
 
 ## UV印刷
