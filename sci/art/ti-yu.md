@@ -91,6 +91,10 @@
 |                                                    |
 |                                                    |
 
+## Golf
+
+Disc Golf Beginner Series 🥏 [GingerSnapDiscGolf](https://www.youtube.com/playlist?list=PLk6JjIFN0eQX8HGrzbvSse-EXFPhgAuFx)
+
 ## 桌游
 
 |                                                                                                           |   |   |

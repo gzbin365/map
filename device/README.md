@@ -608,6 +608,10 @@ description: 硬件设备
 | 3D列印基礎課堂！Blender 從建模到打印的全流程指南 \| [三米創作](https://www.youtube.com/watch?v=dstlHy39zwg)                                                                                                  |
 | 3D打印了一根带声光电特效的金箍棒！路上的大人小孩都馋疯了！ [宅宅小霸王 OFFICIAL CHANNEL](https://www.youtube.com/watch?v=P7-6TE9oDi0)                                                                                  |
 | 【入门指南】不会建模，怎么3D打印？ [小宁子 XNZ](https://www.youtube.com/watch?v=AmYSu4akEC0) Tinkercad                                                                                                   |
+| 投资500多万，1000台3d打印机，自建生产线，现状如何？小生意大爆发 抓住机会 工厂实拍视频 [阿K在义乌](https://www.youtube.com/watch?v=XIWc6tbG5Es)                                                                                 |
+| 3D列印教學 Phrozen [普羅森3D列印](https://www.youtube.com/playlist?list=PLiEUlcXkYQU4FN3BYBuRWOIb0M8z\_Dsuy)                                                                                   |
+| 拆解拓竹3D打印机A1，看懂内部精妙的细节设计 [硬核拆解](https://www.youtube.com/watch?v=Y9zdrKCi2\_g)                                                                                                          |
+|                                                                                                                                                                                       |
 |                                                                                                                                                                                       |
 |                                                                                                                                                                                       |
 
