@@ -167,6 +167,8 @@ description: 硬件设备
 | Creating a Website on Raspberry Pi [Chris Titus Tech](https://www.youtube.com/watch?v=BPcficy9ji0)                                                                                                       |
 | Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL\_vyuxE-AO-CXEUMjEN8Vzt0\_WxrhEbEX)                                                                                             |
 | I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc\_zGRYhLo)                                               |
+| Raspberry Pi Tutorials [Data Slayer](https://www.youtube.com/playlist?list=PLWi3Ex6e1xiudNz3lW1djQ7qJmtj1HaMT)                                                                                           |
+|                                                                                                                                                                                                          |
 |                                                                                                                                                                                                          |
 
 ### Raspberry Pi Pico

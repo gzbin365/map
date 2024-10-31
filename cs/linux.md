@@ -164,6 +164,7 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 | RedHat Certified Linux Administrator (RHCSA) EX200 Training in Hindi [Nehra Classes](https://www.youtube.com/playlist?list=PL9LY4jTSNS22K3GNEsRI6TWGiKbMvyvG0)                                                                       |
 | Introduction to Linux – Full Course for Beginners [freeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8) 6:07:31                                                                                                                |
 | Linux教學 [科技阿宅王](https://www.youtube.com/playlist?list=PLzAvUoSYHGY0hLdBD4LGh3IDskcNr5PC6)                                                                                                                                            |
+| Learn Something New! [Learn Linux TV](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)                                                                                                                      |
 |                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                      |
 

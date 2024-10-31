@@ -230,30 +230,30 @@ Voice Synthesis
 
 ### AI音色替换技术(Sovits4.0)
 
-|                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| voice 2 voice                                                                                                                                                 |
-| AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos) 华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)                                                       |
-| 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                                                                   |
-| 从孙燕姿的“漠河舞厅”谈生成式AI创作 [Jeff科技视角](https://www.youtube.com/watch?v=x3DwYWqlY5k) Jarret Charvis                                                                    |
-| AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                                                                 |
-| 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE) colab                                                                           |
-| Voice Cloning Tutorial with Coqui TTS and Google Colab \| Fine Tune Your Own VITS Model for Free [NanoNomad](https://www.youtube.com/watch?v=6QAGk\_rHipE)    |
-| 一键完成Ai声音模拟和音色替换，无需训练模型 – 快速生成AI孙燕姿歌曲 [小薇 Official Channel](https://www.youtube.com/watch?v=YAviCCA-Fic)                                                       |
-| 我们做了个能对话的AI派蒙，免费给大家玩！ [极客湾Geekerwan](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                            |
-| <p>变分推断 学习声线 VITS:</p><p>Variational Inference with adversarial learning for end-to-end Text-to-Speech</p>                                                    |
-| Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech                                                                   |
-| 【警告】涉及敏感內容！未公開的教學流出！隨時會刪片... #ai孫燕姿 #tuneflow #svs [咖哩哥](https://www.youtube.com/watch?v=EEtQg9zJ0\_g)                                                        |
-| TuneFlow [s](https://tuneflow.com/)                                                                                                                           |
-| svc-develop-team/[so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                                                               |
-| 【超火的 AI翻唱】克隆自己的声音！全网最详细的使用教程， So-VITS-SVC 4.1 声音复制神器，完全免费！！ \| [零度解说](https://www.youtube.com/watch?v=o6mKekgJDqw)                                            |
-| 如何克隆自己的声音？如何克隆别人的声音？免安装1分钟克隆声音 关键还是免费的，支持中文英文日语韩语、AI文字转语音克隆 [峰哥探世界](https://www.youtube.com/watch?v=cli0ZfTxlJA)                                              |
-| 【GPT-SoVITS 本地整合包0306】声音克隆新纪元！1分钟完美声音克隆，完美复刻任何语音、语调、语气！效果超神！ [十个骑士](https://www.youtube.com/watch?v=J9FwHp9egg0)                                              |
-| 只需一小时，完美克隆你自己！最新中文AI数字人制作教程, 手机可搞定的AI数字人分身, 中文领域秒杀Heygen数字人 clone yourself perfectly within one hour [靜電的AI設計教室](https://www.youtube.com/watch?v=vBhEuQO2QFc) |
-| GPT-SoVITS语音克隆AI，只需一分钟素材训练模型，效果堪比商用。一键安装，附Colab脚本 \| TTS \| RVC\|GPT-SoVITS Colab [AI探索与发现](https://www.youtube.com/watch?v=BDC2aJJFSgE)                      |
-|                                                                                                                                                               |
-|                                                                                                                                                               |
-|                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| voice 2 voice                                                                                                                                                                                                                                                     |
+| AI孙燕姿 [u](https://www.youtube.com/@AI-nx9lp/videos) 华语AI翻唱 [u](https://www.youtube.com/@AImusicCover4u)                                                                                                                                                           |
+| 【AI翻唱】“超详细”！Sovits4.0手把手详细教学！ [StarPorridge小粥](https://www.youtube.com/watch?v=VTWTQ5l9eHI)                                                                                                                                                                       |
+| 从孙燕姿的“漠河舞厅”谈生成式AI创作 [Jeff科技视角](https://www.youtube.com/watch?v=x3DwYWqlY5k) Jarret Charvis                                                                                                                                                                        |
+| AI孙燕姿，再次席卷乐坛。版权律师们，愁白了头。 [老范讲故事](https://www.youtube.com/watch?v=322Al2O6Dz8)                                                                                                                                                                                     |
+| 面向小白的低成本的VITS模型训练教程及注意事项 [欧皇张大千](https://www.youtube.com/watch?v=hnxPPDw5fWE) colab                                                                                                                                                                               |
+| Voice Cloning Tutorial with Coqui TTS and Google Colab \| Fine Tune Your Own VITS Model for Free [NanoNomad](https://www.youtube.com/watch?v=6QAGk\_rHipE)                                                                                                        |
+| 一键完成Ai声音模拟和音色替换，无需训练模型 – 快速生成AI孙燕姿歌曲 [小薇 Official Channel](https://www.youtube.com/watch?v=YAviCCA-Fic)                                                                                                                                                           |
+| 我们做了个能对话的AI派蒙，免费给大家玩！ [极客湾Geekerwan](https://www.youtube.com/watch?v=8gd\_WtBPxaw)                                                                                                                                                                                |
+| <p>变分推断 学习声线 VITS:</p><p>Variational Inference with adversarial learning for end-to-end Text-to-Speech</p>                                                                                                                                                        |
+| Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech                                                                                                                                                                       |
+| 【警告】涉及敏感內容！未公開的教學流出！隨時會刪片... #ai孫燕姿 #tuneflow #svs [咖哩哥](https://www.youtube.com/watch?v=EEtQg9zJ0\_g)                                                                                                                                                            |
+| TuneFlow [s](https://tuneflow.com/)                                                                                                                                                                                                                               |
+| svc-develop-team/[so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                                                                                                                                                                   |
+| 【超火的 AI翻唱】克隆自己的声音！全网最详细的使用教程， So-VITS-SVC 4.1 声音复制神器，完全免费！！ \| [零度解说](https://www.youtube.com/watch?v=o6mKekgJDqw)                                                                                                                                                |
+| 如何克隆自己的声音？如何克隆别人的声音？免安装1分钟克隆声音 关键还是免费的，支持中文英文日语韩语、AI文字转语音克隆 [峰哥探世界](https://www.youtube.com/watch?v=cli0ZfTxlJA)                                                                                                                                                  |
+| 【GPT-SoVITS 本地整合包0306】声音克隆新纪元！1分钟完美声音克隆，完美复刻任何语音、语调、语气！效果超神！ [十个骑士](https://www.youtube.com/watch?v=J9FwHp9egg0)                                                                                                                                                  |
+| 只需一小时，完美克隆你自己！最新中文AI数字人制作教程, 手机可搞定的AI数字人分身, 中文领域秒杀Heygen数字人 clone yourself perfectly within one hour [靜電的AI設計教室](https://www.youtube.com/watch?v=vBhEuQO2QFc)                                                                                                     |
+| <p>GPT-SoVITS语音克隆AI，只需一分钟素材训练模型，效果堪比商用。一键安装，附Colab脚本 | TTS | RVC|GPT-SoVITS Colab <a href="https://www.youtube.com/watch?v=BDC2aJJFSgE">AI探索与发现</a></p><p>声音克隆 <a href="https://www.youtube.com/playlist?list=PLZoPEoiia3kyEaE7aitCDGnwJEIJ9Knye">AI探索与发现</a></p> |
+|                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                   |
 
 ### Transcribed speech（转录语音）
 

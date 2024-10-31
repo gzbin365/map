@@ -97,11 +97,11 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ### PhotoShop
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| 【PS教程】PhotoShop CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX4io2J1cgReJ958a6tr5dA) |
-|                                                                                                                  |
-|                                                                                                                  |
+|                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ |
+| 【PS教程】PhotoShop CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX4io2J1cgReJ958a6tr5dA)   |
+| Photoshop Full Course [Learnit Training](https://www.youtube.com/playlist?list=PLoyECfvEFOjaxQVcyd55GORggJTwG1AAo) |
+|                                                                                                                    |
 
 ### Gimp
 
@@ -363,6 +363,9 @@ Photoshop elements 和 Premiere elements, 他俩可以看成是 ps 和 pr 的精
 | Adobe Illustrator Tutorials [Andy Tells Things](https://www.youtube.com/playlist?list=PLl8IaUbuW2VsECwJ\_\_kE0LGVLg947KvQ2) |
 | Learn Adobe Illustrator [Envato Tuts+](https://www.youtube.com/playlist?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB)            |
 | 【AI教程】illustrator CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoUu-D8tMZJ\_3R67k5uYLcXe)         |
+| Adobe Training [Learnit Training](https://www.youtube.com/playlist?list=PLoyECfvEFOjbn-DMn6GByK4gkkxyAYHZF)                 |
+|                                                                                                                             |
+|                                                                                                                             |
 
 | Adobe InDesign CC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
