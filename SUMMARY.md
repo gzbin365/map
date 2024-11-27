@@ -20,6 +20,7 @@
   * [安全](cs/wang-luo-an-quan.md)
   * [Hack](cs/hack.md)
   * [面试](cs/mian-shi.md)
+  * [cs工具](cs/cs-gong-ju.md)
   * [其他](cs/qi-ta.md)
 * [Algorithm](algorithm/README.md)
   * [ML](algorithm/ml.md)

@@ -18,6 +18,7 @@
 | Design a Basic Search Engine (Google or Bing) \| System Design [Interview Prep](https://www.youtube.com/watch?v=0LTXCcVRQi0)                                    |
 | 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程\~ [檀东东·Tango](https://www.youtube.com/watch?v=tiN6T1LewmQ)                                                                             |
 | 【技术】Google搜索引擎排名内幕大揭秘 \| 数千页内部文档泄露 \| 还原完整系统架构 \| 什么对搜索结果排名才最重要 \| 内容优化到点击优化 \| Twiddler \| Navboost \| SEO [最佳拍档](https://www.youtube.com/watch?v=P7g6tFDw70c) |
+| 最強大的 AI 搜尋引擎：Felo Search PRO [Will 保哥](https://www.youtube.com/watch?v=HgQ5Cjo3nK4)                                                                             |
 |                                                                                                                                                                 |
 
 | 搜索技巧                                                                 |
