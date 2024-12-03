@@ -1,6 +1,6 @@
 # GPU
 
-**Deep Learning GPU Benchmarks(**[**s**](https://lambdalabs.com/gpu-benchmarks)**, )** Gamers Nexus [u](https://www.youtube.com/c/GamersNexus) Super Kr超极氪 [u](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ) 阿健座谈 [u](https://www.youtube.com/channel/UCS1ky\_d928QwTl-yVFC029Q)
+**Deep Learning GPU Benchmarks(**[**s**](https://lambdalabs.com/gpu-benchmarks)**, )** Gamers Nexus [u](https://www.youtube.com/c/GamersNexus) Super Kr超极氪 [u](https://www.youtube.com/channel/UCXV8c9V9rut6oRwZq5E9pZQ) 阿健座谈 [u](https://www.youtube.com/channel/UCS1ky_d928QwTl-yVFC029Q)
 
 NVIDIA [u](https://www.youtube.com/c/NVIDIA) NVIDIA GeForce [u](https://www.youtube.com/c/NGNgg) NVIDIA Studio [u](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw) 思腾合力 [zh](https://www.zhihu.com/org/si-teng-he-li-33)
 
@@ -32,14 +32,14 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA) NVIDIA GeForce [u](https://www.yout
 | 【科技杂谈79】从GTX到RTX，NVIDIA GEFORCE显卡家族的历史（1999-2019） [红酒汤姆一世](https://www.youtube.com/watch?v=UUxUCVlXV0A)                                                                                     |
 | 4090在深度学习训练上的性能表现 [Duan Qinghua](https://www.youtube.com/watch?v=OgLPLFM3HmY)                                                                                                               |
 | 差价3千，从事生产力 显卡选3090还是3090TI? [草鸡实验室](https://www.youtube.com/watch?v=lCJo9m124Xg)                                                                                                            |
-| 百万“电脑”该怎么玩？自己造个GPT！ [科技宅小明](https://www.youtube.com/watch?v=UWR7pIOpg\_A) nanoGPT 新华三 R5350 G6                                                                                              |
-| 【[硬件科普](https://www.youtube.com/watch?v=hi-9e8TRz2E\&list=PL7mmImi\_1wpMVhVpBWr3Bob7kdchdDEoX\&index=39)】全网最详细显卡散热工作原理科普                                                                    |
-| 【AI芯片】GPU基础 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p7sJcPCt\_SjxctXDhCpgH6c) [git](https://github.com/chenzomi12/DeepLearningSystem/tree/main/Hardware)                    |
+| 百万“电脑”该怎么玩？自己造个GPT！ [科技宅小明](https://www.youtube.com/watch?v=UWR7pIOpg_A) nanoGPT 新华三 R5350 G6                                                                                               |
+| 【[硬件科普](https://www.youtube.com/watch?v=hi-9e8TRz2E\&list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX\&index=39)】全网最详细显卡散热工作原理科普                                                                     |
+| 【AI芯片】GPU基础 [ZOMI](https://www.youtube.com/playlist?list=PLuufbYGcg3p7sJcPCt_SjxctXDhCpgH6c) [git](https://github.com/chenzomi12/DeepLearningSystem/tree/main/Hardware)                     |
 | GPUs: Explained [IBM Technology](https://www.youtube.com/watch?v=LfdK-v0SbGI)                                                                                                               |
 | 全新中國顯卡MTT S70正式發佈，摩爾線程夏季發佈會匯總「[超極氪](https://www.youtube.com/watch?v=Mph6MFYXDHc)」摩尔线程                                                                                                       |
 | 上帝视角看GPU [Minmin Gong](https://www.youtube.com/playlist?list=PLG9aIrr5hvEdsFh37nUQh-m3VewEAKpiI)                                                                                            |
 | wuye9036/[SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) Salvia渲染器                                                                                                             |
-| 这是史上最快GPU！我们测了四张H100！价值120万元！[极客湾Geekerwan](https://www.youtube.com/watch?v=-nb\_DZAH-TM)                                                                                                   |
+| 这是史上最快GPU！我们测了四张H100！价值120万元！[极客湾Geekerwan](https://www.youtube.com/watch?v=-nb_DZAH-TM)                                                                                                    |
 | NVIDIA'S HUGE AI Chip Breakthroughs Change Everything (Supercut) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=0EIwhvqCX1c)                                                          |
 | 英伟达NVIDIA创业20年坎坷之路，差点公司都丢掉 [ZOMI](https://www.youtube.com/watch?v=Sa-O5XU0JGE)                                                                                                              |
 | 【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 [硅谷101](https://www.youtube.com/watch?v=UBwHVneGiXs)                                                                                                  |
@@ -69,7 +69,7 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 
 |                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd\_9SpZEtJCb16pQ-gcNIXzMK0)                                               |
+| eGPU-外置显卡坞 [黑影儿TV](https://www.youtube.com/playlist?list=PLmxTR4AYd_9SpZEtJCb16pQ-gcNIXzMK0)                                                |
 | ThinkPad eGPU Deep Learning Build [Mark Jay](https://www.youtube.com/playlist?list=PLX-LrBk6h3wQPjevIs6A9KfzLDh3WEy4j)                      |
 | RTX 4090 Gaming Laptop 🤯 eGPU Comparison with Desktop! [Jarrod'sTech](https://www.youtube.com/watch?v=NlYHPj-0DTE)                         |
 | External GPU for 3D and Architecture Work - Razer Core X Chroma & Nvidia RTX 3080 [Joseph Kim](https://www.youtube.com/watch?v=UyvjbzfSHXA) |
@@ -87,15 +87,15 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 |                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>CUDA Explained - Why Deep Learning uses GPUs <a href="https://www.youtube.com/watch?v=6stDhEA0wFQ&#x26;list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&#x26;index=4"><strong>deeplizard</strong></a></p><p>PyTorch - Python Deep Learning Neural Network API</p> |
-| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV\_sU)                                                                                                                                             |
+| CUDA Crash Course [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU)                                                                                                                                              |
 | CUDA Crash Course (v2) [CoffeeBeforeArch](https://www.youtube.com/playlist?list=PLxNPSjHT5qvu4Q2UElj3HUCh2lpSooQWo)                                                                                                                                         |
 | Cuda [Dave Poo](https://www.youtube.com/playlist?list=PLLwK93hM93Z39tn1HzdMXhhlTToos7ZGu)                                                                                                                                                                   |
-| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA\_CUDA\_Programming\_Guide\_1.1\_chs.pdf)                                                                                                                                                  |
+| NVIDIA CUDA 编程指南 [pdf](https://www.nvidia.cn/docs/IO/51635/NVIDIA_CUDA_Programming_Guide_1.1_chs.pdf)                                                                                                                                                       |
 | Intro to CUDA (part 3): Parallelizing a For-Loop [Josh Holloway](https://www.youtube.com/watch?v=BSzoEXqP9aU)                                                                                                                                               |
 | Intro to Parallel Programming [Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)                                                                                                                                           |
 | Tensorflow, Pytorch and OpenCV Setup with CUDA [TheCodingBug](https://www.youtube.com/playlist?list=PLUE9cBml08yhivR1J7ULJ1V8PsXUKoMLB)                                                                                                                     |
 | CUDA Toolkit 12.2: New Accelerated Computing and Security Enhancements Revealed [NVIDIA Developer](https://www.youtube.com/watch?v=tVd4-xL6EBU)                                                                                                             |
-| CUDA Programming Course – High-Performance Computing with GPUs [freeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe\_4)                                                                                                                                 |
+| CUDA Programming Course – High-Performance Computing with GPUs [freeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe_4)                                                                                                                                  |
 |                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                             |
 
@@ -108,10 +108,10 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | pro可用 home不可用                                                                                                                               |
 | 【全网首发】家用显卡虚拟化vGPU，微软Hyper-V独有免费功能 [账户未命名](https://www.youtube.com/watch?v=lUGaH7WMNBQ) GPU 分区                                               |
 | Windows系统使用hyper-v虚拟机安装openwrt软路由、人人都能拥有的免费软路由、Hyper-v虚拟机刷入openwrt，虚拟机使用软路由系统、小白的第一台软路由 [乡下小黑](https://www.youtube.com/watch?v=mJkRqSU7LZo) |
-| 将VMware虚拟机转换为Hyper-V虚拟机 [把布丢](https://www.youtube.com/watch?v=mY\_XeLpXjQA)                                                                 |
+| 将VMware虚拟机转换为Hyper-V虚拟机 [把布丢](https://www.youtube.com/watch?v=mY_XeLpXjQA)                                                                  |
 | Windows 11 最新虚拟机版 震撼发布！完全免费，基于 “Moment 3”功能打造！速来体验！\| [零度解说](https://www.youtube.com/watch?v=JQ8U571QBzc)                                   |
 | Windows 10 上的 Hyper-V 简介 [microsoft](https://learn.microsoft.com/zh-cn/virtualization/hyper-v-on-windows/about/)                            |
-| 微软最强虚拟机！ Hyper-V 显卡直通教程，vGPU虚拟化，用途广，速度贼快！秒开应用！\| [零度解说](https://www.youtube.com/watch?v=WpxVJC-f\_s4) gpu passthrough                       |
+| 微软最强虚拟机！ Hyper-V 显卡直通教程，vGPU虚拟化，用途广，速度贼快！秒开应用！\| [零度解说](https://www.youtube.com/watch?v=WpxVJC-f_s4) gpu passthrough                        |
 
 ## AMD
 
@@ -121,8 +121,16 @@ NVIDIA控制面板最佳設置！讓顯卡性能暴漲、遊戲幀數提升的�
 | 显卡部门 amdradeon             |
 |                            |
 
-|                                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 普普通通Tony大叔 [B](https://space.bilibili.com/351085345/video) [dy](https://www.douyin.com/user/MS4wLjABAAAAW75lWf-i0ZdqnGQZDdmN6KjQcYs\_kfAMsrakQsGZMS8) [u](https://www.youtube.com/@yuanlinfish) [tw](https://twitter.com/yuanlinfish) [wb](https://weibo.com/tonyfisher) 俞元麟Tony，华硕电脑中国区总经理 |
-|                                                                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 普普通通Tony大叔 [B](https://space.bilibili.com/351085345/video) [dy](https://www.douyin.com/user/MS4wLjABAAAAW75lWf-i0ZdqnGQZDdmN6KjQcYs_kfAMsrakQsGZMS8) [u](https://www.youtube.com/@yuanlinfish) [tw](https://twitter.com/yuanlinfish) [wb](https://weibo.com/tonyfisher) 俞元麟Tony，华硕电脑中国区总经理 |
+|                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                            |
+
+## Apple 统一内存
+
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| 坏了！苹果真有生产力了：我用3500块的Mac mini跑了这些大模型 [量子位](https://www.youtube.com/watch?v=H-9j7f881ms)                |
+| 三千块的M4+16G,性价比与生产力体验能颠覆Win主机? #macminim4 评测 [Luv Letter](https://www.youtube.com/watch?v=NPkNWE1Er6I) |
+|                                                                                                       |

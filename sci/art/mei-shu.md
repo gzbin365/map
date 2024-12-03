@@ -168,6 +168,16 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | Learn to Procreate [Procreate](https://www.youtube.com/playlist?list=PLlpSQCrjuGkoZHyUyO3cNEMyYPNkF0Hne)                                                                                                                          |
 |                                                                                                                                                                                                                                   |
 
+## 透视画法
+
+
+
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| 快速精準的透視圖技法 [LEMON 20](https://www.youtube.com/playlist?list=PLvhZua3FG0yS4TOeniigKi2KRK7_6pP0r) |
+|                                                                                                 |
+|                                                                                                 |
+
 ## 调色 配色
 
 |                                                                                         |                                                                  |                                                                              |
@@ -230,7 +240,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 | ------------------------------------------------------------------------------------------------------ |
 | macOS上最好的视频剪辑                                                                                          |
 | Final Cut Pro X 教學 [DVE(IT)](https://www.youtube.com/playlist?list=PLwBySiD_oGcpsPuHMNeKyf0mJPUlou897) |
-|                                                                                                        |
+| 时隔 13 年！Final Cut Pro 迎来大升级，AI 助力磁性蒙版 [Mac云课堂](https://www.youtube.com/watch?v=j1Fbsc2GJK0)            |
 |                                                                                                        |
 
 ### Adobe Premiere, Pr​​emiere Pro
