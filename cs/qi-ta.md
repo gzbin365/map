@@ -494,6 +494,22 @@
 | --------------------------------------------------------------------------------- | - |
 | Cheat Engine for Idiots [Kian Brose](https://www.youtube.com/watch?v=4KJNM0FiE14) |   |
 
+### OpenGL
+
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| 【OpenGL 篇】为什么游戏总要编译着色器？ [Redknot-乔红](https://www.youtube.com/watch?v=x7_LSjWe2rc) |
+|                                                                                   |
+|                                                                                   |
+
+### Direct3D
+
+|                                                                                    |
+| ---------------------------------------------------------------------------------- |
+| 【Direct3D篇】为什么游戏总要编译着色器？ [Redknot-乔红](https://www.youtube.com/watch?v=6ZraACggaBU) |
+|                                                                                    |
+|                                                                                    |
+
 ## 外挂
 
 【罗翔】玩游戏开挂犯罪吗？制作外挂软件的要怎么判？ [罗翔说刑法](https://www.youtube.com/watch?v=Ar46H0NIIY4)

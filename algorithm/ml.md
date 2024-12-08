@@ -1411,6 +1411,8 @@ Lec 9: Conditional Random Fields [(1/3)](https://www.youtube.com/watch?v=B1nl8fL
 | 179 - Variational autoencoders using keras on MNIST data [DigitalSreeni](https://www.youtube.com/watch?v=8wrLjnQ7EWQ)                                                        |
 | VAE-GAN Explained! [Connor Shorten](https://www.youtube.com/watch?v=yyqfZfnSzcw)                                                                                             |
 | What are Generative Models? \| VAE & GAN \| Intro to AI [Zhuoyue Lyu](https://www.youtube.com/watch?v=24oBV_s5ufQ)                                                           |
+| Build a Stable Diffusion VAE From Scratch using Pytorch [freeCodeCamp](https://www.youtube.com/watch?v=kG9l41Dtuyo)                                                          |
+|                                                                                                                                                                              |
 |                                                                                                                                                                              |
 
 ### 变分推断 Variational Inference
