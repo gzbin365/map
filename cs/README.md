@@ -271,11 +271,12 @@ International Business Machine IBM 美国国际商用机器公司
 
 ### ipad
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                                                                 |
+| ----------------------------------------------------------------------------------------------- |
+| 喘喘 [u](https://www.youtube.com/@%E5%96%98%E5%96%98wiliwil/videos)                               |
+| Notion教學 [槓桿生活 \| QQ](https://www.youtube.com/playlist?list=PLbWFAHzILSxhtz-ZdwGtZylhLKmdPhlYT) |
+| 无纸化学英语｜最强语言学习工具，这波真的赢麻了！[喘喘](https://www.youtube.com/watch?v=tcKa2yhg3us)                       |
+|                                                                                                 |
 
 #### 备忘录 apple notes
 

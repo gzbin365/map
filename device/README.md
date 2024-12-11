@@ -168,6 +168,10 @@ description: 硬件设备
 | Raspberry Pi Tony [Teaches Tech](https://www.youtube.com/playlist?list=PL_vyuxE-AO-CXEUMjEN8Vzt0_WxrhEbEX)                                                                                               |
 | I found an Excellent Raspberry Pi Replacement for Home Assistant / IOTstack (incl. Proxmox) [Andreas Spiess](https://www.youtube.com/watch?v=rXc_zGRYhLo)                                                |
 | Raspberry Pi Tutorials [Data Slayer](https://www.youtube.com/playlist?list=PLWi3Ex6e1xiudNz3lW1djQ7qJmtj1HaMT)                                                                                           |
+| Every Developer Needs a Raspberry Pi [Sam Meech-Ward](https://www.youtube.com/watch?v=Vp4glSVPT8o)                                                                                                       |
+| Top 25 Raspberry Pi Projects of 2024 🤯! [ToP Projects Compilation](https://www.youtube.com/watch?v=Vv9Ouf_QH5s)                                                                                         |
+|                                                                                                                                                                                                          |
+|                                                                                                                                                                                                          |
 |                                                                                                                                                                                                          |
 |                                                                                                                                                                                                          |
 

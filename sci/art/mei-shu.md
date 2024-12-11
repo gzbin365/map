@@ -201,13 +201,17 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ## 视频剪辑 剪輯
 
-|                                                                                                   |
-| ------------------------------------------------------------------------------------------------- |
-| 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf_id=8)        |
-| 剪輯教學 [木石mushi](https://www.youtube.com/playlist?list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o)          |
-| 影片剪辑教程 [咔咔的老吴](https://www.youtube.com/playlist?list=PLhZY3cJj3ouBcbx-SzMSzI7V0w3Wy2h2j)          |
-| 剪映電腦版教程 [Greyson Zhang](https://www.youtube.com/playlist?list=PLNUIzu31Ju-dBnnMP8rMZE6JA6v-KSOzo) |
-|                                                                                                   |
+|                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| 影视教程（影視教程）[百家Talk](https://www.youtube.com/@bjtalk/playlists?view=50\&sort=dd\&shelf_id=8)                                 |
+| 剪輯教學 [木石mushi](https://www.youtube.com/playlist?list=PLi3JGBubTe7YtBHGuc5Gj9NfwIsWqnG4o)                                   |
+| 影片剪辑教程 [咔咔的老吴](https://www.youtube.com/playlist?list=PLhZY3cJj3ouBcbx-SzMSzI7V0w3Wy2h2j)                                   |
+| 剪映電腦版教程 [Greyson Zhang](https://www.youtube.com/playlist?list=PLNUIzu31Ju-dBnnMP8rMZE6JA6v-KSOzo)                          |
+| 码率更低, 画质居然更好?聊聊影视飓风码率视频的造假片段和错误结论 #影视飓风 #视频编码 #av1 [Luv Letter](https://www.youtube.com/watch?v=OqqpW50rV48) a roll b roll |
+|                                                                                                                            |
+|                                                                                                                            |
+|                                                                                                                            |
+|                                                                                                                            |
 
 ### 剪映 剪映专业版 剪映国际版 capcut
 
