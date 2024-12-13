@@ -810,7 +810,7 @@
 | Apple MacBook 如何重裝系統？｜開源週末 Open Source Weekend [tvtvfun](https://www.youtube.com/watch?v=FQrV7TowPVU)                                                                                                     |
 | 【萌新必看】Macbook新手入門到精通快速上手蘋果電腦保姆級教程教學 [闲评](https://www.youtube.com/watch?v=Z-CoJ8mROe8)                                                                                                                     |
 | Mac 用戶必學 20 個隱藏功能！以前都不知道可以這樣用 😅｜[塔科女子](https://www.youtube.com/watch?v=1Tu8ereQSyE)                                                                                                                      |
-|                                                                                                                                                                                                           |
+| Mac 入门教程 [旅客君](https://www.youtube.com/playlist?list=PL7FfZStI8sAxrnbmlu3z26r7cUpTucLJx)                                                                                                                  |
 |                                                                                                                                                                                                           |
 
 | 黑苹果                                                                                                                                                                                                                 |

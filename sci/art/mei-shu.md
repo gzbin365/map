@@ -154,11 +154,11 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 
 
-|   |
-| - |
-|   |
-|   |
-|   |
+|                                                       |
+| ----------------------------------------------------- |
+| Nuomi諾米 [u](https://www.youtube.com/@Nuomi/playlists) |
+|                                                       |
+|                                                       |
 
 
 
