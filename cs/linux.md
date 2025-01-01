@@ -550,6 +550,8 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 | I switched from VSCode to Neovim [System Coding](https://www.youtube.com/watch?v=clFR9NfObvc)                                                               |
 | NeoVim Installation & Config on Windows [NeuralNine](https://www.youtube.com/watch?v=XBlKG2LW6p4)                                                           |
 | Neovim With AstroNvim \| Your New Advanced Development Editor [Cretezy](https://www.youtube.com/watch?v=GEHPiZ10gOk)                                        |
+| 从零开始Neovim 鼠标我已经扔了 [程序员老王](https://www.youtube.com/watch?v=zLLIA5uRsYI)                                                                                     |
+|                                                                                                                                                             |
 |                                                                                                                                                             |
 
 ## tmux
