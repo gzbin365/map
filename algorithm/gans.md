@@ -7,7 +7,7 @@ description: Generative Adversarial Network (GAN)
 |                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Random Face Generator (This Person Does Not Exist) [s](https://this-person-does-not-exist.com/zh)                                                                                                                                                                                                        |
-| Talk \| 微软亚洲研究院杨蛟龙：高质量三维图像对抗生成学习 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7WPJxLGf\_jA)                                                                                                                                                                                                         |
+| Talk \| 微软亚洲研究院杨蛟龙：高质量三维图像对抗生成学习 [将门-TechBeat技术社区](https://www.youtube.com/watch?v=7WPJxLGf_jA)                                                                                                                                                                                                          |
 | <p>Generative Adversarial Network (GAN), 2017 <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsMd2G9ZjcpJn1YfnM9wVOBf">Hung-yi Lee</a></p><p>Generative Adversarial Network (GAN), 2018 <a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw">Hung-yi Lee</a></p> |
 
 |                                                                                                                                                                                                                |
@@ -17,23 +17,23 @@ description: Generative Adversarial Network (GAN)
 | 247 - Conditional GANs and their applications [DigitalSreeni](https://www.youtube.com/watch?v=W5NPlZzebO0)                                                                                                     |
 | 248 - keras implementation of GAN to generate cifar10 images [DigitalSreeni](https://www.youtube.com/watch?v=TXy5wZknie8)                                                                                      |
 | 249 - keras implementation of Conditional GAN (cifar10 data set) [DigitalSreeni](https://www.youtube.com/watch?v=MAMSh5kVoec)                                                                                  |
-| 257 - Exploring GAN latent space to generate images with desired features​ [DigitalSreeni](https://www.youtube.com/watch?v=iuQ\_f3W5Ttk)                                                                       |
+| 257 - Exploring GAN latent space to generate images with desired features​ [DigitalSreeni](https://www.youtube.com/watch?v=iuQ_f3W5Ttk)                                                                        |
 | Belajar Generative Adversarial Networks (GAN) bersama Risman Adnan (Director Samsung R\&D Indonesia) [BISA AI Academy](https://www.youtube.com/watch?v=A4MfiALK7LU)                                            |
 | Generative Adversarial Networks - FUTURISTIC & FUN AI ! [CodeEmporium](https://www.youtube.com/watch?v=O8LAi6ksC80)                                                                                            |
 | Understand the Math and Theory of GANs in \~ 10 minutes [WelcomeAIOverlords](https://www.youtube.com/watch?v=J1aG12dLo4I)                                                                                      |
-| The Math Behind Generative Adversarial Networks Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=Gib\_kiXgnvA)                                                                             |
+| The Math Behind Generative Adversarial Networks Clearly Explained! [Normalized Nerd](https://www.youtube.com/watch?v=Gib_kiXgnvA)                                                                              |
 | What are GANs (Generative Adversarial Networks)? [IBM Technology](https://www.youtube.com/watch?v=TpMIssRdhco)                                                                                                 |
 | Ian Goodfellow, Research Scientist OpenAI : Generative Adversarial Networks (GANs) #AIWTB 2016 [With The Best](https://www.youtube.com/watch?v=HN9NRhm9waY)                                                    |
 | GANs [RE•WORK](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lLH6Ru8peDrG2HoWyycbFR)                                                                                                                       |
 | 李宏毅2018GAN算法讲解 [电子工程世界](http://training.eeworld.com.cn/course/5321) 共10课时 8小时20分14秒                                                                                                                            |
-| Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV\_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                                                            |
+| Generative Adversarial Network (GAN), 2018 [Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)                                                                             |
 | Tutorial on Generative adversarial networks - Introduction [ComputerVisionFoundation Videos](https://www.youtube.com/watch?v=sgHdUYHGvtA)                                                                      |
 | Playing a Neural Network's version of GTA V: GAN Theft Auto [sentdex](https://www.youtube.com/watch?v=udPY5rQVoW0)                                                                                             |
 | Intro to Generative Adversarial Networks (GANs) - New Course Release [deeplizard](https://www.youtube.com/watch?v=p3Eq2b22qJM) [s](https://deeplizard.com/lesson/gaa0ailzrd)                                   |
 | Efficient Geometry-aware 3D Generative Adversarial Networks \| GAN Paper Explained [The AI Epiphany](https://www.youtube.com/watch?v=ZHIRRsnINGA)                                                              |
 | [Jeff Heaton](https://www.youtube.com/playlist?list=PLjy4p-07OYzs6XDEm39m6g7yZWXB6MKac)'s Generative Adversarial Network (GAN) Videos                                                                          |
-| Generative Adversarial Networks (GAN) [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwboR4\_xj-n3K6XBTweC4YVD)                                                                               |
-| GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g\_0HtlrLiDo)                                                                                                                                           |
+| Generative Adversarial Networks (GAN) [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD)                                                                                |
+| GAN论文逐段精读【论文精读】[Mu Li](https://www.youtube.com/watch?v=g_0HtlrLiDo)                                                                                                                                            |
 | GAN的现状与未来 马波 [青云QingCloud](https://www.youtube.com/watch?v=v7rsHn4ziZ4)                                                                                                                                        |
 | Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects [Nicholas Renotte](https://www.youtube.com/watch?v=AALBGpLbj6Q)                                             |
 | StyleGANv2 Explained! [Connor Shorten](https://www.youtube.com/watch?v=u8qPvzk0AfY)                                                                                                                            |
@@ -66,7 +66,7 @@ description: Generative Adversarial Network (GAN)
 
 |                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi\_Y)            |
+| \[ML News] Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution [Yannic Kilcher](https://www.youtube.com/watch?v=RJwPN4qNi_Y)             |
 | OpenAI's new model DALL·E 2 is amazing! [What's AI](https://www.youtube.com/watch?v=rdGVbPI42sA)                                                                    |
 | Google’s New AI: DALL-E, But Now In 3D! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=L3G0dx1Q0R8)                                                         |
 | 【空罐王】 AI已經能畫出商用等級的圖了嗎? Disco Diffusion介紹+教學! [空罐王CankingSketch](https://www.youtube.com/watch?v=w7B1rfhnqY8)                                                        |
@@ -86,14 +86,14 @@ description: Generative Adversarial Network (GAN)
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DALL·E 2 Explained [OpenAI](https://www.youtube.com/watch?v=qTgPSKKjfVg) [s](https://openai.com/dall-e-2/)                                              |
 | DALL·E 2【论文精读】 [Mu Li](https://www.youtube.com/watch?v=hO57mntSMl0)                                                                                     |
-| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv\_SYVDC8)                                                 |
+| DALL-E 2 by OpenAI is out! Live Reaction [Yannic Kilcher](https://www.youtube.com/watch?v=gGPv_SYVDC8)                                                  |
 | lucidrains/[DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)   OpenAI's Text to Image Transformer, in Pytorch                                |
 | How does DALL-E 2 actually work? [AssemblyAI](https://www.youtube.com/watch?v=F1X4fHzF4mQ)                                                              |
 | Trends in AI — April 2022: DALL·E, Pathways, PaLM... + Generative Language Models Demo [Zeta Alpha Vector](https://www.youtube.com/watch?v=w7MNDZLJ30M) |
-| OpenAI DALL-E 2: Top 10 Insane Results! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=X3\_LD3R\_Ygs)                                           |
+| OpenAI DALL-E 2: Top 10 Insane Results! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=X3_LD3R_Ygs)                                             |
 | DALL-E 2 is… meh [Edan Meyer](https://www.youtube.com/watch?v=gmfI3B6pQTo)                                                                              |
 | How This A.I. Draws Anything You Describe \[DALL-E 2] [ColdFusion](https://www.youtube.com/watch?v=U1cF9QCu1rQ)                                         |
-| OpenAI DALL-E 2 - Top 10 Best Images! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=Q9FGUii\_4Ok)                                              |
+| OpenAI DALL-E 2 - Top 10 Best Images! 🤯 [Two Minute Papers](https://www.youtube.com/watch?v=Q9FGUii_4Ok)                                               |
 | OpenAI's DALL-E 2 Has Insane Capabilities! 🤖 [Two Minute Papers](https://www.youtube.com/watch?v=eM5jn8vY2OQ)                                          |
 |                                                                                                                                                         |
 
@@ -139,11 +139,14 @@ description: Generative Adversarial Network (GAN)
 | ChatGPTが変える働き方　AIリスクは増加へ【WBS】（2023年1月27日）　Open AI イーロンマスク　チャットGPT [テレ東BIZ](https://www.youtube.com/watch?v=cHikHtiVwXU)                                                                                     |
 | Ari Seff [u](https://www.youtube.com/@ariseffai/videos)                                                                                                                                                     |
 | GenRep: Generative Models as a Data Source for Multiview Representation Learning in ICLR2022 [Ali Jahanian](https://www.youtube.com/watch?v=qYmGvVrGZno\&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH\&index=22) |
-| GFlowNets for generative active learning \| Amazon Science [Amazon Science](https://www.youtube.com/watch?v=2s\_GtmofbyU)                                                                                   |
+| GFlowNets for generative active learning \| Amazon Science [Amazon Science](https://www.youtube.com/watch?v=2s_GtmofbyU)                                                                                    |
 | Generative Modeling by Estimating Gradients of the Data Distribution - Stefano Ermon [Institute for Advanced Study](https://www.youtube.com/watch?v=8TcNXi3A5DI)                                            |
 | Generative Art [Oziter茅](https://www.youtube.com/playlist?list=PLDWzcHf8iVS5HopwjWRquVIluLKz7HI1f)                                                                                                          |
 | Introduction to Generative AI [Google Cloud Tech](https://www.youtube.com/watch?v=G2fqAlgmoPo)                                                                                                              |
 | AIGC创业者访谈：4大赛道的机遇与挑战 [李自然说](https://www.youtube.com/watch?v=e7M9Lkwfuyw)                                                                                                                                    |
+| 生成式AI、大語言與多模態模型 [CAVEDU - technology education content provider](https://www.youtube.com/playlist?list=PLZkpEAYL25ACKzfhPyM8NC990CAcEuzGH)                                                                  |
+|                                                                                                                                                                                                             |
+|                                                                                                                                                                                                             |
 |                                                                                                                                                                                                             |
 
 ### Fake
@@ -152,7 +155,7 @@ topics/[fake-videos](https://github.com/topics/fake-videos)
 
 datamllab/[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)
 
-albertoxamin/[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot) [colab](https://colab.research.google.com/github/albertoxamin/telegram-deep-fakes-bot/blob/master/deep\_fake\_telegram.ipynb)
+albertoxamin/[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot) [colab](https://colab.research.google.com/github/albertoxamin/telegram-deep-fakes-bot/blob/master/deep_fake_telegram.ipynb)
 
 First Order Motion Model for Image Animation [s](https://aliaksandrsiarohin.github.io/first-order-model-website/) [git](https://github.com/AliaksandrSiarohin/first-order-model) [paper](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)
 

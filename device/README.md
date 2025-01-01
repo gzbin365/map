@@ -43,7 +43,7 @@ description: 硬件设备
 |                                                                                                     |
 | --------------------------------------------------------------------------------------------------- |
 | 板廠沒有說的祕密 [板廠沒有說的秘密 TOPPC](https://www.youtube.com/playlist?list=PLLJxhaFfyGEOtGdxfMM8I2GLxJCVinqnx) |
-|                                                                                                     |
+| 电子科技 [阿塔科普](https://www.youtube.com/playlist?list=PLG46_f_wBYKBtKM-SyOrPMlbanHU8nWtK)               |
 |                                                                                                     |
 
 ### **计算机组装**
