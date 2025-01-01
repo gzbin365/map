@@ -221,11 +221,11 @@ description: 机器学习
 
 
 
-|                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| 火線班迪 [u](https://www.youtube.com/@lan9wolf/videos)   阿石OMP [u](https://www.youtube.com/@ompshek/videos)    |
-|                                                                                                            |
-|                                                                                                            |
+|                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 火線班迪 [u](https://www.youtube.com/@lan9wolf/videos)   阿石OMP [u](https://www.youtube.com/@ompshek/videos)   肥拉超漫flcman [u](https://www.youtube.com/@flcman/playlists)    |
+|                                                                                                                                                                        |
+|                                                                                                                                                                        |
 
 ## 框架
 
