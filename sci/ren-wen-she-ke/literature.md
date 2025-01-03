@@ -36,6 +36,8 @@ description: 为天地立心，为生民立命，为往圣继绝学，为万世�
 | 《读书》\| 一档和大众分享好书的栏目 [CCTV科教](https://www.youtube.com/playlist?list=PL34iN-VUc-dpH2-tbpjORwZpDbOFivN_6)                         |
 | 文学理论课程全集 共32讲 [龙猫对对碰](https://www.youtube.com/playlist?list=PLi3ljbfkN5r0kTeW_SKQJTaia7Ib8tDJ8)                                |
 | 香港書展 [香港貿發局](https://www.youtube.com/playlist?list=PLmLc9w39VONdWdT4AvUYoxI2KsE81Ytpb)                                         |
+| 北京大学-字节跳动数字人文开放实验室 [s](https://pkudh.org/intro.html) [s](https://ca.pkudh.net/)                                                |
+| 北京师范大学图书馆 [s](http://www.lib.bnu.edu.cn/)                                                                                      |
 |                                                                                                                                |
 |                                                                                                                                |
 

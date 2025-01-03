@@ -266,17 +266,17 @@ International Business Machine IBM 美国国际商用机器公司
 |                                                 |                                                                     |                                                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Apple [u](https://www.youtube.com/user/Apple)   | AppleProgramming [u](https://www.youtube.com/user/AppleProgramming) | apple/[darwin-xnu](https://github.com/apple/darwin-xnu) [git](https://github.com/apple) |
-| [翻新](https://www.apple.com.cn/shop/refurbished) |                                                                     |                                                                                         |
+| [翻新](https://www.apple.com.cn/shop/refurbished) | JeffreyTech [u](https://www.youtube.com/@jeffreytech/videos)        |                                                                                         |
 |                                                 |                                                                     |                                                                                         |
 
 ### ipad
 
-|                                                                                                 |
-| ----------------------------------------------------------------------------------------------- |
-| 喘喘 [u](https://www.youtube.com/@%E5%96%98%E5%96%98wiliwil/videos)                               |
-| Notion教學 [槓桿生活 \| QQ](https://www.youtube.com/playlist?list=PLbWFAHzILSxhtz-ZdwGtZylhLKmdPhlYT) |
-| 无纸化学英语｜最强语言学习工具，这波真的赢麻了！[喘喘](https://www.youtube.com/watch?v=tcKa2yhg3us)                       |
-|                                                                                                 |
+|                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- |
+| 喘喘 [u](https://www.youtube.com/@%E5%96%98%E5%96%98wiliwil/videos)                                       |
+| Notion教學 [槓桿生活 \| QQ](https://www.youtube.com/playlist?list=PLbWFAHzILSxhtz-ZdwGtZylhLKmdPhlYT)         |
+| 无纸化学英语｜最强语言学习工具，这波真的赢麻了！[喘喘](https://www.youtube.com/watch?v=tcKa2yhg3us)                               |
+| 2025彻底颠覆你的时间管理！ 13 个苹果日历隐藏技巧，一次搞定生产力系统！90%的人没用对！[Alex Day](https://www.youtube.com/watch?v=vYSfEBl1Xd8) |
 
 #### 备忘录 apple notes
 

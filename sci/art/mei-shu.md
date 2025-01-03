@@ -180,11 +180,15 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 ## 调色 配色
 
-|                                                                                         |                                                                  |                                                                              |
-| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 如何找出好配色？照著這個步驟做，讓你的設計更具吸引力！！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=PCYD7codKXQ) | 配色設計學 [La Bon Cafe](https://www.youtube.com/watch?v=kOj631X8zAI) | 『iPad Procreate』電腦繪圖怎麼配色？[曲奇放克](https://www.youtube.com/watch?v=hvEZgxx1LNw) |
-| premiere                                                                                | 达芬奇                                                              |                                                                              |
-|                                                                                         |                                                                  |                                                                              |
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| 不加冰Course [u](https://www.youtube.com/@course7750/videos)                               |
+| 如何找出好配色？照著這個步驟做，讓你的設計更具吸引力！！ [PAPAYA 電腦教室](https://www.youtube.com/watch?v=PCYD7codKXQ) |
+| premiere   达芬奇                                                                          |
+| 配色設計學 [La Bon Cafe](https://www.youtube.com/watch?v=kOj631X8zAI)                        |
+| 『iPad Procreate』電腦繪圖怎麼配色？[曲奇放克](https://www.youtube.com/watch?v=hvEZgxx1LNw)            |
+|                                                                                         |
+|                                                                                         |
 
 ## 达芬奇 Davinci Resolve
 
