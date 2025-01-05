@@ -1,12 +1,12 @@
 # 管理学
 
-|                                                                   |                                                                                                                                        |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Jacob Morgan([u](https://www.youtube.com/c/JacobMorgan/videos), ) | 清芬教育 齐昊 抖音号： [QHbosum](https://www.douyin.com/user/MS4wLjABAAAAZHYMkuvxOG29Fh82MFpto3KWekwpT3Wse01uTQaxHVH\_q29\_fUiEZobcMHgI6gm4) 已注销 |
+|                                                                   |                                                                                                                                      |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Jacob Morgan([u](https://www.youtube.com/c/JacobMorgan/videos), ) | 清芬教育 齐昊 抖音号： [QHbosum](https://www.douyin.com/user/MS4wLjABAAAAZHYMkuvxOG29Fh82MFpto3KWekwpT3Wse01uTQaxHVH_q29_fUiEZobcMHgI6gm4) 已注销 |
 
 |                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [管理学](https://www.youtube.com/playlist?list=PLuAhsn5lHHmPmVJmp5O3EXvJ5\_gWhfrPE)(Pharaohsxh)                                                                                                                                                                                                                                     |
+| [管理学](https://www.youtube.com/playlist?list=PLuAhsn5lHHmPmVJmp5O3EXvJ5_gWhfrPE)(Pharaohsxh)                                                                                                                                                                                                                                      |
 | 東海大學「設計思考」 [Data Cheng](https://www.youtube.com/playlist?list=PL002D62AC265A979A)                                                                                                                                                                                                                                                |
 | 東海大學「人文、文化與設計思考」 [Data Cheng](https://www.youtube.com/playlist?list=PLE69B8596BF66E740)                                                                                                                                                                                                                                          |
 | <p>管理学-王文周（北京师范大学） <a href="https://www.youtube.com/playlist?list=PLBPbUxsZM4SYspDEsaIp-nujACXqEAV9T">中国大学MOOC-慕课</a></p><p>与上级同级下级沟通 <a href="https://www.youtube.com/watch?v=aGIykokG-mc">中国大学MOOC-慕课</a></p>                                                                                                                  |
@@ -15,9 +15,11 @@
 | Maslow's Hierarchy of Needs Explained [EPM](https://www.youtube.com/watch?v=xT6BpFhPsfY)                                                                                                                                                                                                                                         |
 | “五一”挤死也要旅游，图个啥？用马斯洛需求层次理论分析一下 [李永乐老师](https://www.youtube.com/watch?v=3hIqEis4d9I)                                                                                                                                                                                                                                               |
 | STAR Interview Method Explained [EPM](https://www.youtube.com/watch?v=dWK26jZgsM8)                                                                                                                                                                                                                                               |
-| 自我提升 [理想派](https://www.youtube.com/playlist?list=PL9npAsaJ90uIl-bPWnfPva8e\_MHnASu9m)                                                                                                                                                                                                                                            |
+| 自我提升 [理想派](https://www.youtube.com/playlist?list=PL9npAsaJ90uIl-bPWnfPva8e_MHnASu9m)                                                                                                                                                                                                                                             |
 | 酒店品牌建设与管理 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRoQp8acIkBz2UmdtHd03IkK)                                                                                                                                                                                                                                     |
-| 沟通的艺术 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpOYeKFzo8J\_ygUzSX-aJKv)                                                                                                                                                                                                                                        |
+| 沟通的艺术 [百家Talk](https://www.youtube.com/playlist?list=PLDQHv3MQVoRpOYeKFzo8J_ygUzSX-aJKv)                                                                                                                                                                                                                                         |
+| 【质量管理学】中国计量大学丨含课件 [小白在学习呢](https://www.bilibili.com/video/BV1bK411V756/)                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                  |
 
 ## 人力资源管理, HR
@@ -31,4 +33,10 @@
 ## 公共关系, 公关, pr
 
 
+
+|                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- |
+| 公共关系学：沟通公众的艺术 中国计量大学 蒋楠 [国家高等教育智慧教育平台](https://higher.smartedu.cn/course/66b93e90711dc30c341d0951)      |
+| 公共关系学原理 中国计量大学 蒋楠、方改娥、敬坤、金大伟 [国家高等教育智慧教育平台](https://higher.smartedu.cn/course/668724e2711dc30c3439a15a) |
+|                                                                                                         |
 

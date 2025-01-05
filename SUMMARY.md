@@ -54,6 +54,7 @@
     * [机械工程](sci/gong-ke/ji-xie-gong-cheng.md)
     * [电气工程](sci/gong-ke/dian-qi-gong-cheng/README.md)
       * [电子工程](sci/gong-ke/dian-qi-gong-cheng/dian-zi-gong-cheng.md)
+    * [电力工程](sci/gong-ke/dian-li-gong-cheng.md)
     * [土木工程](sci/gong-ke/tu-mu-gong-cheng.md)
     * [环境工程](sci/gong-ke/huan-jing-gong-cheng.md)
   * [人文社科](sci/ren-wen-she-ke/README.md)

@@ -161,6 +161,9 @@ The Map of Quantum Physics([DoS - Domain of Science](https://www.youtube.com/wat
 | 模拟电子电路 [周末实验室](https://www.youtube.com/playlist?list=PLG_u09HLwxf-LZcE9KeSIyQal0CuHlgRW)                                                                                                                                      |
 | 《菜鸟电路解析》 [郭天祥老师](https://www.youtube.com/playlist?list=PLOPR84k9J45IwDiiCVq_PjHFyT1FWXK-D)                                                                                                                                    |
 | 《模拟电路》知识点总结·考前突击【一个视频就够了】[大笑脸](https://www.youtube.com/watch?v=F8FOEeJ_xTk\&list=PLHpfx416EzLMW3ikMz10iCxVQDNgp1DMy\&index=3)                                                                                                 |
+| 【西安交通大学】《电路》 [长安书院\_](https://www.bilibili.com/video/BV1gEk9YUEhb/)                                                                                                                                                           |
+|                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                               |
 
