@@ -224,35 +224,37 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ### GeoGebra
 
-|                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [s](https://www.geogebra.org/) [u](https://www.youtube.com/@GeoGebraChannel)                                                                                                                                 |
-| GeoGebra数学 [u](https://www.youtube.com/@geogebra6034/playlists)   學用數學 [u](https://www.youtube.com/@xymath/playlists)                                                                                        |
-| 动态几何画板Geogebra教学应用 唐大仕 [mooc](https://www.icourse163.org/u/4525657163?userId=2493955) [dy](https://www.douyin.com/user/MS4wLjABAAAA0p2KVQFjTJBJQXglI8tc6OOt4i9O-j9Bd7GMki9NWo8?modal_id=7443745043556420873) |
-| VG05 唐大仕 Geogebra 课程 第一讲 [bilibili](https://www.bilibili.com/opus/412631488249573346)                                                                                                                        |
-| GeoGebra实用教程（软件操作部分基本更新完成）[--嗷呜咩--](https://www.bilibili.com/video/BV1Ss4y1X7z4/)                                                                                                                            |
-| GEOGEBRA TUTORIAL [Ace Math Academy](https://www.youtube.com/playlist?list=PLBU215V0xs2YoTqiszkk7i5DS1bt3Za9E)                                                                                               |
-| GeoGebra Geometry [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2zqgJ4TWGNrqAPrsqolvxJf)                                                                                                       |
-| Using GeoGebra with Python by Samantha Garcia [GeoGebra](https://www.youtube.com/watch?v=3es1xqcTzKE)                                                                                                        |
-| GeoGebra 3D [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2xzatXT0bdwHkbCiXk8peV5)                                                                                                             |
-| GeoGebra Graphing Calculator [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2zRc_iguf6H4WS55DKOykD_)                                                                                            |
-| GeoGebra Basics [Grant Sander](https://www.youtube.com/playlist?list=PLqZ0eZtMcAlugmcomSSvjPBfewVbX35L7)                                                                                                     |
-| Geogebra Animation [Exam Ready Current](https://www.youtube.com/playlist?list=PLDzzEw5f5MwbFOV7591bm0IDa-h39b1AQ)                                                                                            |
-| GeoGebra Geometry & Graphing Calculator: BEGINNER Tutorial Series [Tim Brzezinski](https://www.youtube.com/playlist?list=PLtN4Hcxd3KanYYcnLtGecZQunwZONaN90)                                                 |
-| GeoGebra 6.0 Basics [GeoGebraist](https://www.youtube.com/playlist?list=PLxAAXBwMDYgsB7HN6maITMB-AGVb_di_0)                                                                                                  |
-| Hexagon Geometric Pattern Drawing [Learn & Art](https://www.youtube.com/playlist?list=PLIjl-KSDWVCHHg3IYZW0Id0VgJw8mcIS4)                                                                                    |
-|                                                                                                                                                                                                              |
-|                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [s](https://www.geogebra.org/) [u](https://www.youtube.com/@GeoGebraChannel)                                                                                                                                                                                                              |
+| GeoGebra数学 [u](https://www.youtube.com/@geogebra6034/playlists)   學用數學 [u](https://www.youtube.com/@xymath/playlists)                                                                                                                                                                     |
+| 动态几何画板Geogebra教学应用 唐大仕 [mooc](https://www.icourse163.org/u/4525657163?userId=2493955) [dy](https://www.douyin.com/user/MS4wLjABAAAA0p2KVQFjTJBJQXglI8tc6OOt4i9O-j9Bd7GMki9NWo8?modal_id=7443745043556420873) [国家高等教育智慧教育平台](https://higher.smartedu.cn/course/62bcd334c0f14e0991549794)   |
+| VG05 唐大仕 Geogebra 课程 第一讲 [bilibili](https://www.bilibili.com/opus/412631488249573346)                                                                                                                                                                                                     |
+| GeoGebra实用教程（软件操作部分基本更新完成）[--嗷呜咩--](https://www.bilibili.com/video/BV1Ss4y1X7z4/)                                                                                                                                                                                                         |
+| 动态几何画板 Geogebra [假的刘看山](https://zhuanlan.zhihu.com/p/104578160)                                                                                                                                                                                                                           |
+| 如何评价动态几何画板 GeoGebra 比几何画板更好用，又免费，但用的人反而少的现象？ [zh](https://www.zhihu.com/question/302544486)                                                                                                                                                                                               |
+| GEOGEBRA TUTORIAL [Ace Math Academy](https://www.youtube.com/playlist?list=PLBU215V0xs2YoTqiszkk7i5DS1bt3Za9E)                                                                                                                                                                            |
+| GeoGebra Geometry [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2zqgJ4TWGNrqAPrsqolvxJf)                                                                                                                                                                                    |
+| Using GeoGebra with Python by Samantha Garcia [GeoGebra](https://www.youtube.com/watch?v=3es1xqcTzKE)                                                                                                                                                                                     |
+| GeoGebra 3D [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2xzatXT0bdwHkbCiXk8peV5)                                                                                                                                                                                          |
+| GeoGebra Graphing Calculator [GeoGebra](https://www.youtube.com/playlist?list=PLITakOESY-2zRc_iguf6H4WS55DKOykD_)                                                                                                                                                                         |
+| GeoGebra Basics [Grant Sander](https://www.youtube.com/playlist?list=PLqZ0eZtMcAlugmcomSSvjPBfewVbX35L7)                                                                                                                                                                                  |
+| Geogebra Animation [Exam Ready Current](https://www.youtube.com/playlist?list=PLDzzEw5f5MwbFOV7591bm0IDa-h39b1AQ)                                                                                                                                                                         |
+| GeoGebra Geometry & Graphing Calculator: BEGINNER Tutorial Series [Tim Brzezinski](https://www.youtube.com/playlist?list=PLtN4Hcxd3KanYYcnLtGecZQunwZONaN90)                                                                                                                              |
+| GeoGebra 6.0 Basics [GeoGebraist](https://www.youtube.com/playlist?list=PLxAAXBwMDYgsB7HN6maITMB-AGVb_di_0)                                                                                                                                                                               |
+| Hexagon Geometric Pattern Drawing [Learn & Art](https://www.youtube.com/playlist?list=PLIjl-KSDWVCHHg3IYZW0Id0VgJw8mcIS4)                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                           |
 
 ### 几何画板
 
 
 
-|               |
-| ------------- |
-| 很好的数学讲座 初中数学苑 |
-|               |
-|               |
+|                                                                                           |
+| ----------------------------------------------------------------------------------------- |
+| 很好的数学讲座 [初中数学苑](https://www.youtube.com/playlist?list=PLQaSBAXaUwmtm_rnksy9SQ8z2x6TPKuud) |
+|                                                                                           |
+|                                                                                           |
 
 ### Math3D
 
@@ -1069,6 +1071,8 @@ $$
 | 几何瑰宝：平面几何500名题暨1000条定理 [bdy](https://pan.baidu.com/s/13AMrmyFqZBcKXMVaoFQ4dw#list/path=%2F)                                                  |
 | 双曲几何 Why Hyperbolic Geometry? \| A Case Study in Linear Fractional Transformations [Two Angles](https://www.youtube.com/watch?v=udF8WHOZJYE) |
 | 泰森多边形是什么构成原理 [40Hours参数化](https://www.douyin.com/video/7153654453739064589)                                                                  |
+| Sacred Geometry Encyclopedia [Zak Korvin](https://www.youtube.com/playlist?list=PLlMQVz__yaenu2umdybrP8h1b1Efi7ikn)                          |
+|                                                                                                                                              |
 |                                                                                                                                              |
 
 ### 立体几何
