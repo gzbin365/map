@@ -364,7 +364,7 @@ International Business Machine IBM 美国国际商用机器公司
 | Full Course [u](https://www.youtube.com/c/FullCourseOfficial/videos)                                                          | Angus Chang [u](https://www.youtube.com/channel/UC8qt16ugONSNcQKt2vgZLVQ/playlists)                                     |
 | 尚学堂 [u](https://www.youtube.com/channel/UCA6Ew_2I6y1nJvp4meqzwjw/playlists)                                                   | Gate Smashers [u](https://www.youtube.com/@GateSmashers)                                                                |
 | Pista Academy [u](https://www.youtube.com/@PistaAcademy) 波斯语                                                                  | doggo dot jl [u](https://www.youtube.com/@doggodotjl/playlists)                                                         |
-| 程序员的乌托邦 [u](https://www.youtube.com/@vikingzhang/videos)                                                                      |                                                                                                                         |
+| 程序员的乌托邦 [u](https://www.youtube.com/@vikingzhang/videos)                                                                      | Xcreate [u](https://www.youtube.com/@xcreate/playlists)                                                                 |
 |                                                                                                                               |                                                                                                                         |
 
 <details>
