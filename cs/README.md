@@ -440,7 +440,7 @@ Python Sudoku Solver Tutorial [Tech With Tim](https://www.youtube.com/playlist?l
 
 ## 算力
 
-**1024gpu(**[**s**](https://www.1024gpu.top/home)**,** [**v**](https://www.bilibili.com/video/BV1TV411U7Mr)**, )**
+**1024gpu(**[**s**](https://www.1024gpu.top/home)**,** [**v**](https://www.bilibili.com/video/BV1TV411U7Mr)**, )**   Glows.ai [v](https://www.youtube.com/watch?v=uKZhAyYDVvQ)  &#x20;
 
 **sharedgpu(**[**s**](https://www.sharedgpu.com/home)**,** [**v**](https://www.bilibili.com/video/BV1tT4y1G7Qp/?spm_id_from=333.788.recommend_more_video.-1)**, )**
 
