@@ -460,11 +460,11 @@ How Games Simulate Cloth & Ropes [DepthBuffer](https://www.youtube.com/watch?v=q
 
 ### AutoCAD
 
-|                                                    |   |   |
-| -------------------------------------------------- | - | - |
-| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m) |   |   |
-|                                                    |   |   |
-|                                                    |   |   |
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| 优途课堂 [u](https://www.youtube.com/@user-tq5fq1ee9m)   EleCAD [u](https://www.youtube.com/@elecad5188) |
+|                                                                                                      |
+|                                                                                                      |
 
 ### blender
 
