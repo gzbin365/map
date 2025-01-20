@@ -688,6 +688,10 @@ import cv2
 | DLSS 3 RTX4090：性能新标杆，不只是打游戏 [林亦LYi](https://www.youtube.com/watch?v=rkv47icj1Jk)                                                                               |
 | 【Huan】 無庸置疑的強大。 NVIDIA GeForce RTX 4090性能實測 [Huan](https://www.youtube.com/watch?v=vEBGCuf7rOU)                                                                |
 | amd fsr                                                                                                                                                        |
+| RTX 50系显卡来了！NV有哪些干货？ [极客湾Geekerwan](https://www.youtube.com/watch?v=kX0u_liufRg)                                                                               |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
 
 ## 视频理解
 
