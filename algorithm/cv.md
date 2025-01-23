@@ -689,7 +689,7 @@ import cv2
 | 【Huan】 無庸置疑的強大。 NVIDIA GeForce RTX 4090性能實測 [Huan](https://www.youtube.com/watch?v=vEBGCuf7rOU)                                                                |
 | amd fsr                                                                                                                                                        |
 | RTX 50系显卡来了！NV有哪些干货？ [极客湾Geekerwan](https://www.youtube.com/watch?v=kX0u_liufRg)                                                                               |
-|                                                                                                                                                                |
+| 【[Huan](https://www.youtube.com/watch?v=19d-MTS_Dlo)】 該不會又是接下來的幾年沒對手了吧..? NVIDIA GeForce RTX 5090創始版性能實測                                                       |
 |                                                                                                                                                                |
 |                                                                                                                                                                |
 
