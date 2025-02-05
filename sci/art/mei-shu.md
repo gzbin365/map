@@ -101,6 +101,7 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 |                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ |
+| Photoshop classroom PS教室 [u](https://www.youtube.com/@psclass2)                                                    |
 | 【PS教程】PhotoShop CC 2018全套入门教程 [UI设计华斌](https://www.youtube.com/playlist?list=PLtxiQE7FndoX4io2J1cgReJ958a6tr5dA)   |
 | Photoshop Full Course [Learnit Training](https://www.youtube.com/playlist?list=PLoyECfvEFOjaxQVcyd55GORggJTwG1AAo) |
 |                                                                                                                    |
