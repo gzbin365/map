@@ -729,6 +729,14 @@ import cv2
 | OlafenwaMoses/[ImageAI](https://github.com/OlafenwaMoses/ImageAI) A python library [s](http://imageai.org/) [v](https://www.youtube.com/playlist?list=PLFW2Za6wL5EV8k8YN8YeOGNdPJk2FkG6x)                       |
 | Coding Challenge: Image to ASCII [The Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI)                                                                                                                |
 
+## cv工具
+
+|                                                                                        |
+| -------------------------------------------------------------------------------------- |
+| AI辅助设计 [来真的](https://www.youtube.com/playlist?list=PLVCM_gDXsgtC-J8veVDJywor2DfoW2pGV) |
+|                                                                                        |
+|                                                                                        |
+
 <details>
 
 <summary>其他</summary>
