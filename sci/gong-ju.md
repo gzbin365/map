@@ -22,7 +22,7 @@
 |                                                                                                                                           |
 | Overleaf                                                                                                                                  |
 | 文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) [PAPAYA 電腦教室](https://www.youtube.com/watch?v=mQamBS6uTOc)                       |
-| results?search\_query=[colab+latex](https://www.youtube.com/results?search\_query=colab+latex)                                            |
+| results?search\_query=[colab+latex](https://www.youtube.com/results?search_query=colab+latex)                                             |
 | LaTex Tutorial for Beginners Full Course [Academic Lesson](https://www.youtube.com/watch?v=fCzF5gDy60g)                                   |
 | zotero [s](https://www.zotero.org/) Your personal research assistant                                                                      |
 | 小绿鲸SCI阅读器 [s](https://www.xljsci.com/) [v](https://www.douyin.com/video/7132483802345000222) [zh](https://zhuanlan.zhihu.com/p/398700230) |
@@ -35,10 +35,10 @@
 | Bongo Cat [u](https://www.youtube.com/channel/UCrMH132hWAcvZu1nL1k7-vA) |
 | ----------------------------------------------------------------------- |
 
-| Notion                                                                                             |
-| -------------------------------------------------------------------------------------------------- |
-| 為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Q\_PfYlAtvHc) |
-| 这就是最棒的效率软件！如果不是，我倒想试试你的 \| Notion使用技巧分享 [老石谈芯](https://www.youtube.com/watch?v=NHTMs1z88uA)        |
+| Notion                                                                                            |
+| ------------------------------------------------------------------------------------------------- |
+| 為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Q_PfYlAtvHc) |
+| 这就是最棒的效率软件！如果不是，我倒想试试你的 \| Notion使用技巧分享 [老石谈芯](https://www.youtube.com/watch?v=NHTMs1z88uA)       |
 
 | wiznote 为知笔记                                                                       |
 | ---------------------------------------------------------------------------------- |
@@ -55,12 +55,12 @@
 
 ### 其他导航
 
-|                                                                                                   |                                                                 |                                      |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------ |
-| [某柠檬](https://www.moulem.com/)                                                                    | [A5创业网](https://www.admin5.com/)                                | Cilici[li](https://cilicili.cn/)     |
-| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl\_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)                                  | 好例子网 [s](https://www.haolizi.net/)   |
-| 115综合资源网 [s](https://www.smk115.net/)                                                             | 十大导航网站排行榜 [v](https://www.douyin.com/video/7235648127674469670) | 资源猫 [s](https://www.ziyuanmaow.com/) |
-|                                                                                                   |                                                                 |                                      |
+|                                                                                                  |                                                                 |                                      |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------ |
+| [某柠檬](https://www.moulem.com/)                                                                   | [A5创业网](https://www.admin5.com/)                                | Cilici[li](https://cilicili.cn/)     |
+| LKs Site [s](https://lkssite.vip/) [u](https://www.youtube.com/channel/UCMpQA4MMSpl_bMvNTZ5rODQ) | 非常论坛 [s](https://machbbs.com/)                                  | 好例子网 [s](https://www.haolizi.net/)   |
+| 115综合资源网 [s](https://www.smk115.net/)                                                            | 十大导航网站排行榜 [v](https://www.douyin.com/video/7235648127674469670) | 资源猫 [s](https://www.ziyuanmaow.com/) |
+|                                                                                                  |                                                                 |                                      |
 
 ### 安卓模拟器, emulator
 
@@ -73,7 +73,7 @@
 | bluestacks                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [s](https://www.bluestacks.com/tw/index.html) [down](https://www.bluestacks.com/download.html) [d](https://www.bluestacks.com/tw/bluestacks-5.html) |
-| 2021年最好用的【Android模拟器】搞机手游必备，性能野兽，超强多开，资源占用少，低配电脑也能搞【[阿雷科技](https://www.youtube.com/watch?v=JYVm\_J8QK1M)】                                           |
+| 2021年最好用的【Android模拟器】搞机手游必备，性能野兽，超强多开，资源占用少，低配电脑也能搞【[阿雷科技](https://www.youtube.com/watch?v=JYVm_J8QK1M)】                                            |
 
 | GameLoop / 腾讯手游助手                                                                       |   |
 | --------------------------------------------------------------------------------------- | - |
@@ -95,7 +95,7 @@
 | 逍遥模拟器                                                                               |
 | ----------------------------------------------------------------------------------- |
 | 逍遥安卓模拟器纯净版：模拟器多开，虚拟定位，谷歌安装器一键安装 [尼玛分享](https://www.youtube.com/watch?v=6ozbEF6qQ-c) |
-| [百度网盘](https://pan.baidu.com/s/1duZkjo3qG79tSjG\_ByNiTQ) 提取码: z37p                  |
+| [百度网盘](https://pan.baidu.com/s/1duZkjo3qG79tSjG_ByNiTQ) 提取码: z37p                   |
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,30 +111,30 @@
 
 ## 网盘
 
-|                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                   |
-| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH\_N-9sw7IAiQ\&index=3)   |
-| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                                |
-| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                              |
-| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                   |
-| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                               |
-| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
-| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive                 |
-| 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                        |
-| 免费创建自己的私人网盘！在家就可以搞定！安全又实用 \| 零[度解说](https://www.youtube.com/watch?v=156s1hphwHg)                                               |
-| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=\_gWfFEuert8) |
-| 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                       |
-| 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                    |
-| 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)              |
-| AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放视频，硬盘扩容添加开机自启动更好用 \| [零度解说](https://www.youtube.com/watch?v=12QoxeljMoY)    |
-| 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                              |
-| 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ\_Y)                                              |
-| [filez](https://www.filez.com/) 企业网盘                                                                                           |
-| Antdownload [s](https://antdownloadmanager.com/)                                                                               |
-| 免费网盘的“耻辱榜”！限速最严重、吃相最难看的到底是谁？今天我给大家测出来了 \| [零度解说](https://www.youtube.com/watch?v=WsqitzUuKKw)                                  |
-| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                                |
-| 真白嫖！免费申请 office E5 开发者账号，送5T私人网盘，附无限续期的教程！\| [零度解说](https://www.youtube.com/watch?v=eamiBQpzbrQ)                               |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| 不限速无限空间的临时网盘 ！ 免客户端 /支持CURL、Wget命令行上传下载 - 钛盘 TMP.link \| [零度解说](https://www.youtube.com/watch?v=bWnNoFVLN6Y)                  |
+| 这5款极品软件！都是老司机必备的工具，每一款都是神器 \| [零度解说](https://www.youtube.com/watch?v=vfWhWcwgktc\&list=TLPQMjAwNzIwMjH_N-9sw7IAiQ\&index=3)   |
+| 推荐5款神仙级的免费软件！每一款都那么的扣人心弦 \| [零度解说](https://www.youtube.com/watch?v=6yOI6skMt2k)                                               |
+| 十大最佳免费网络硬盘，存储文件更安全更放心！2020 \| [零度解说](https://www.youtube.com/watch?v=CkJfZvWoxkI)                                             |
+| 如何把阿里云网盘，天翼网盘挂载到电脑当硬盘用？【[阿雷科技](https://www.youtube.com/watch?v=LJSfC9Qal1M)】                                                  |
+| 超简单！1024TB 私有云网盘搭建（新手指南） \| [IT白话说](https://www.youtube.com/watch?v=-1ePQkzIj80)                                              |
+| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                               |
+| \[[古奇哥](https://www.youtube.com/watch?v=ipRsxJK4USs)] 2021 Google Drive 無限容量復活了 \| Free Unlimited Google Drive                |
+| 超强的免费私人网盘：支持离线下载、云播放、多协议链接，与 TG 高度整合，速度巨快！PikPak \| [零度解说](https://www.youtube.com/watch?v=mQGiV6BWnA4)                       |
+| 免费创建自己的私人网盘！在家就可以搞定！安全又实用 \| 零[度解说](https://www.youtube.com/watch?v=156s1hphwHg)                                              |
+| OpenStack Tutorial – Operate Your Own Private Cloud (Full Course) [freeCodeCamp](https://www.youtube.com/watch?v=_gWfFEuert8) |
+| 电脑硬盘空间不够用？让你的硬盘空间瞬间增加3T，可将阿里云盘，天翼云盘变成你电脑的一个硬盘，操作简单方便 [冰河圈子](https://www.youtube.com/watch?v=Qfb23StNwxU)                      |
+| 如何使用 Docker 免费创建自己的云存储 [NETVN](https://www.youtube.com/watch?v=oXy5h-CJfOY)                                                   |
+| 干货🔥小伙把2000GB云盘当硬盘用👉免费👈挂到电脑，clouddrive和webdav+RaiDrive⭕新手教学 [大海资源](https://www.youtube.com/watch?v=ytJkhB7iYZo)             |
+| AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放视频，硬盘扩容添加开机自启动更好用 \| [零度解说](https://www.youtube.com/watch?v=12QoxeljMoY)   |
+| 高速下载百度网盘文件的方法 [冰河圈子](https://www.youtube.com/watch?v=K-6AS1rNa3g)                                                             |
+| 新版本百度网盘,最新不限速下载每秒100M下载方法 [SIR CSF](https://www.youtube.com/watch?v=gFsy6liuZ_Y)                                              |
+| [filez](https://www.filez.com/) 企业网盘                                                                                          |
+| Antdownload [s](https://antdownloadmanager.com/)                                                                              |
+| 免费网盘的“耻辱榜”！限速最严重、吃相最难看的到底是谁？今天我给大家测出来了 \| [零度解说](https://www.youtube.com/watch?v=WsqitzUuKKw)                                 |
+| 免费获取25T的网络硬盘，OneDrive免费扩容教程，申请无限容量的谷歌云网盘 \| [零度解说](https://www.youtube.com/watch?v=iN1-2bjjUGU)                               |
+| 真白嫖！免费申请 office E5 开发者账号，送5T私人网盘，附无限续期的教程！\| [零度解说](https://www.youtube.com/watch?v=eamiBQpzbrQ)                              |
 
 |                                    |                                  |
 | ---------------------------------- | -------------------------------- |
@@ -156,6 +156,7 @@
 | idm, Internet Download Manager                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>Fix 'HTTP/1.1 403 Forbidden' &#x26; 'No Permission to Download' Errors in IDM (Updated) </p><p><a href="https://www.youtube.com/watch?v=KMoOgGme5W4">Windows Fixer</a> Proxy</p> |
+| 下载狗工具 [s](https://www.xiazaitool.com/)                                                                                                                                              |
 |                                                                                                                                                                                     |
 |                                                                                                                                                                                     |
 
@@ -190,7 +191,7 @@
 |                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Rustdesk [v](https://www.youtube.com/watch?v=9nzHm3xGz2I)                                                                                   |
-| 2024骨髓级教程Rustdesk开源自建远程工具配置教程及编译带服务器信息的客户端 [Vedio Talk](https://www.youtube.com/watch?v=DSs\_GJe1ub4)                                       |
+| 2024骨髓级教程Rustdesk开源自建远程工具配置教程及编译带服务器信息的客户端 [Vedio Talk](https://www.youtube.com/watch?v=DSs_GJe1ub4)                                        |
 | \[老高分享]免费开源远程桌面神器RustDesk简单易用Docker/Windows/Ubuntu/Mac/iOS/Android等多种系统搭建跨平台使用 支持硬件解码 [爱折腾的老高](https://www.youtube.com/watch?v=1R8iC7xtCGg) |
 |                                                                                                                                             |
 

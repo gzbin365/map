@@ -78,6 +78,7 @@
     * [舞蹈](sci/art/wu-dao.md)
     * [体育](sci/art/ti-yu.md)
   * [工具](sci/gong-ju.md)
+  * [Ai工具](sci/ai-gong-ju.md)
   * [其他](sci/qi-ta.md)
 * [other](other.md)
 * [赞助本站](sponsor.md)
