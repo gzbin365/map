@@ -1277,6 +1277,14 @@
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 
+
+
+| EasyClick                                                                                      |
+| ---------------------------------------------------------------------------------------------- |
+| EasyClick [Run time](https://www.youtube.com/playlist?list=PLTtXmzjH9-xDnf_XoqaPb_WWVORFFX5bT) |
+| EasyClick入门教程 [天天](https://www.youtube.com/playlist?list=PLmsCV6ZXxboNyCcho7RUU20k9cBp69_vN)   |
+|                                                                                                |
+
 |                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | xdotool [git](https://github.com/jordansissel/xdotool) [doc](https://github.com/jordansissel/xdotool/blob/master/xdotool.pod) |
