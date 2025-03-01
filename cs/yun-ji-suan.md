@@ -34,7 +34,7 @@
 
 |                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| IT 绿灯大侠 [u](https://www.youtube.com/@IT-uu2rr)                                                                                            |
+| IT 绿灯大侠 [u](https://www.youtube.com/@IT-uu2rr)   朔宇科技 Petacom [u](https://www.youtube.com/@petacom.2024/playlists)                        |
 | Building a Gaming server with Proxmox Part 1 [Stradex Gaming](https://www.youtube.com/watch?v=kP7MKrd8Tqg)                                |
 | 可被自由定义的x86迷你服务器 Docker系统很好用｜玩法超丰富｜超硬核 [TuTu生活志](https://www.youtube.com/watch?v=hb6Y2XnM0cc)                                              |
 | VMware官推超融合——戴尔VxRail，到底有几把刷子？ [无情开评](https://www.youtube.com/watch?v=edWJYp4T9vg)                                                        |

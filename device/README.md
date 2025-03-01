@@ -962,6 +962,7 @@ System on Chip, 系统级芯片
 
 |                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 東尼能源小教室 Tony's Energy Class [u](https://www.youtube.com/@tonysenergyclass1803)                                                                |
 | 【[硬件科普](https://www.youtube.com/watch?v=AixflQWXszY\&list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX\&index=21)】什么是模组电源？他和普通电源有什么区别？模组电源定制线又是什么东西？    |
 | 【[硬件科普](https://www.youtube.com/watch?v=EjBQ-di7zDQ\&list=PL7mmImi_1wpMVhVpBWr3Bob7kdchdDEoX\&index=24)】电源的金银铜牌指的是什么参数？金牌电源比铜牌好吗？详解电源80PLUS认证 |
 | vertex 1200W                                                                                                                                  |

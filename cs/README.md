@@ -266,7 +266,8 @@ International Business Machine IBM 美国国际商用机器公司
 |                                                 |                                                                     |                                                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Apple [u](https://www.youtube.com/user/Apple)   | AppleProgramming [u](https://www.youtube.com/user/AppleProgramming) | apple/[darwin-xnu](https://github.com/apple/darwin-xnu) [git](https://github.com/apple) |
-| [翻新](https://www.apple.com.cn/shop/refurbished) | JeffreyTech [u](https://www.youtube.com/@jeffreytech/videos)        |                                                                                         |
+| [翻新](https://www.apple.com.cn/shop/refurbished) | JeffreyTech [u](https://www.youtube.com/@jeffreytech/videos)        | Mark Gurman [v](https://www.youtube.com/watch?v=sgQHe3GTA8o)                            |
+|                                                 |                                                                     |                                                                                         |
 |                                                 |                                                                     |                                                                                         |
 
 ### ipad
