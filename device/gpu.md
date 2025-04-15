@@ -47,7 +47,7 @@ NVIDIA [u](https://www.youtube.com/c/NVIDIA) NVIDIA GeForce [u](https://www.yout
 | NVIDIA'S HUGE AI Chip Breakthroughs Change Everything (Supercut) [Ticker Symbol: YOU](https://www.youtube.com/watch?v=0EIwhvqCX1c)                                                          |
 | 英伟达NVIDIA创业20年坎坷之路，差点公司都丢掉 [ZOMI](https://www.youtube.com/watch?v=Sa-O5XU0JGE)                                                                                                              |
 | 【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 [硅谷101](https://www.youtube.com/watch?v=UBwHVneGiXs)                                                                                                  |
-|                                                                                                                                                                                             |
+| GPU 是怎麼被發明的? [VisCircuit 電路筆記](https://www.youtube.com/watch?v=Zb3m-8_sf8Q)                                                                                                                 |
 |                                                                                                                                                                                             |
 
 显示器刷新率和显卡帧数有什么关系？　[机品社](https://www.douyin.com/video/7032125871045578014)
