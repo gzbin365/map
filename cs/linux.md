@@ -374,6 +374,7 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 | 容器与虚拟机：有什么区别？ [IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)                                                                                                                                     |
 | 容器化解释 [IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s) Containerization Explained                                                                                                                  |
 | 好玩的Docker项目 [我不是咕咕鸽](https://www.youtube.com/playlist?list=PLIN0r_kqXu-6OfHfhXbojSygtVnD5ClgH)                                                                                                                  |
+| Docker项目 [有云转晴](https://www.youtube.com/playlist?list=PLllZxQIHLNUBd1zQaLE3t-i4LhVj1egxe)                                                                                                                       |
 | Dockerizing your python code for cloud execution [DigitalSreeni](https://www.youtube.com/playlist?list=PLZsOBAyNTZwb7Zy4MCNTvyNQLsYh_5-Fp)                                                                      |
 | Dockerfile和DockerCompose：轻松制作docker image [JimmyCoding](https://www.youtube.com/watch?v=JI9GsupATh0)                                                                                                            |
 | 線上 docker 讀書會 [hsiang an chi](https://www.youtube.com/playlist?list=PLSebY0Ugo-zeibntIPS8qcC6ke1xmRmBU)                                                                                                         |
