@@ -1171,6 +1171,7 @@ Network Attached Storage, 网络附加存储, 个人私有云
 | 在 Linux 上使用 NAS [s](https://www.asustor.com/zh-cn/online/College_topic?topic=109#lux1)                                                                                                                        |
 | linux安装samba服务器 [s](https://www.cnblogs.com/lemanlai/p/12267330.html)                                                                                                                                         |
 | Freenas教程 [司波图](https://www.youtube.com/playlist?list=PL1yJe5g-wSuFt8-0yh-4qUUn-5muyq_UB)                                                                                                                     |
+| 网经阁 [u](https://www.youtube.com/@wangjingge/playlists)                                                                                                                                                        |
 |                                                                                                                                                                                                               |
 
 #### 全固态NAS 纯固态NAS
