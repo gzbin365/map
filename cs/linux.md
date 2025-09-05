@@ -357,6 +357,7 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 
 |                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 科技lion [u](https://www.youtube.com/@kejilion/playlists)                                                                                                                                                         |
 | Docker Containers and Kubernetes Fundamentals – Full Hands-On Course [freeCodeCamp](https://www.youtube.com/watch?v=kTp5xUtcalw)                                                                                |
 | **Docker 手册（Docker Handbook）(**[**书栈**](https://www.bookstack.cn/books/docker-handbook)**, )**                                                                                                                  |
 | Docker Tutorial for Beginners \[2021]\([Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI))56:03                                                                                               |
