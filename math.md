@@ -314,12 +314,13 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 
 ## 高中
 
-|                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                                                                                        |
-| 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P_sRLUXvx9ViyU8Qu9sFn6qo4w) 老于数学之家                                                                 |
-| 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA) 胡老师数学 [u](https://www.youtube.com/@user-cb3ps8vg6m) 郭炎明 [u](https://www.youtube.com/@user-lr4ff3gd3e/playlists) |
-| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                          |
+|                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 数学必考公式 [学历菌](https://www.douyin.com/video/7017624414044867871)                                                                                                                                                                                    |
+| 数学于老师 抖音号： [aishuxue1990](https://www.douyin.com/user/MS4wLjABAAAAhMZQDPQIqqlLpzLx5P_sRLUXvx9ViyU8Qu9sFn6qo4w) 老于数学之家                                                                                                                             |
+| 好学不倦 数学 [u](https://www.youtube.com/channel/UCp-AriKdS6Z7SevFKc1frIA) 胡老师数学 [u](https://www.youtube.com/@user-cb3ps8vg6m) 郭炎明 [u](https://www.youtube.com/@user-lr4ff3gd3e/playlists)   嘉陞的教室 [u](https://www.youtube.com/@lsbh8850/playlists)    |
+| 高中数学复数线上影音教学PengTitus版 [PengTitus](https://www.youtube.com/playlist?list=PL9DF0C8C204F0E8E4)                                                                                                                                                      |
+|                                                                                                                                                                                                                                                   |
 
 ## 竞赛
 
@@ -398,7 +399,7 @@ MATLAB Programming for Numerical Computation [u](https://www.youtube.com/channel
 | Logic & Foundations with Haskell [Marius Furter](https://www.youtube.com/playlist?list=PLd8NbPjkXPliojM8YMN3z3o9--zXwti8Z)                                                                                                                                                   |
 | Book: Digital Logic Design. Important Topics [Dr. Bilal](https://www.youtube.com/playlist?list=PLh6xNmrNtosKuCi7pbljnqMslEqM7c8X2)                                                                                                                                           |
 | 邏輯學入門 [汤质看本质](https://www.youtube.com/playlist?list=PLxvnxt2fBNs27esuk7UvF4L1Y9KiOpC0v)                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                              |
+| 108S205 邏輯 (傅皓政) [臺大開放式課程 NTU OCW](https://www.youtube.com/playlist?list=PLCX-BLZ1hDpARQMQc43TN1oI2OS_jHxsh)                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                              |
 
 ### 范畴轮 Category Theory
