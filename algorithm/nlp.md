@@ -1129,6 +1129,7 @@ Natural Language Understanding in Python | Rasa NLU Quickstart [GamesWithGabe](h
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 【人工智能】开源多模态大语言模型哪家强？\| TOP 12 排行榜 \| 2个大类14个子任务 \| BLIP2 \| MiniGPT4 [最佳拍档](https://www.youtube.com/watch?v=jMVzOgp5f5k)                  |
 | 【人工智能】万字通俗讲解大语言模型内部运行原理 \| LLM \| 词向量 \| Transformer \| 注意力机制 \| 前馈网络 \| 反向传播 \| 心智理论 [最佳拍档](https://www.youtube.com/watch?v=dIyQl99oxlg) |
+| Ollama [git](https://github.com/ollama/ollama)   [s](https://ollama.com/)                                                                 |
 |                                                                                                                                           |
 
 ### 因果推断 Causal Inference
