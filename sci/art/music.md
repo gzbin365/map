@@ -55,6 +55,14 @@
 | 【凭什么卖4399？】物理老师硬核解析Airpods Max背后的技术 [大宽大宽](https://www.youtube.com/watch?v=m4IfxYKNaYk)                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                                                                                                     |
 
+## 吉他 Guitar&#x20;
+
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads [freeCodeCamp](https://www.youtube.com/watch?v=mjXLt97_Cr8) |
+|                                                                                                                                          |
+|                                                                                                                                          |
+
 ## 戏曲
 
 |                                  |
