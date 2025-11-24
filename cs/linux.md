@@ -491,6 +491,8 @@ Linux: The Origin Story [Hardcoded](https://github.com/GuZhebin/map/blob/main/cs
 | What is GitOps, How GitOps works and Why it's so useful [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw)                                   |
 | DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS [freeCodeCamp](https://www.youtube.com/watch?v=PGyhBwLyK2U)                                 |
 | Creating CI/CD Pipeline using GitHub Actions for Python Project (Heroku Deployment Example) [Indian Pythonista](https://www.youtube.com/watch?v=WTofttoD2xg) |
+| Systems Administration Skills Training [Jobskillshare Skills-Based Platform](https://www.youtube.com/playlist?list=PLxo6mf-dQ33hJ62hbFuZySPOznptz63Oh)       |
+|                                                                                                                                                              |
 |                                                                                                                                                              |
 
 | DevOps                                                                                                                                                                                                                                                                                |
