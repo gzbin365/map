@@ -623,7 +623,7 @@ description: 硬件设备
 | 投资500多万，1000台3d打印机，自建生产线，现状如何？小生意大爆发 抓住机会 工厂实拍视频 [阿K在义乌](https://www.youtube.com/watch?v=XIWc6tbG5Es)                                                                                 |
 | 3D列印教學 Phrozen [普羅森3D列印](https://www.youtube.com/playlist?list=PLiEUlcXkYQU4FN3BYBuRWOIb0M8z_Dsuy)                                                                                    |
 | 拆解拓竹3D打印机A1，看懂内部精妙的细节设计 [硬核拆解](https://www.youtube.com/watch?v=Y9zdrKCi2_g)                                                                                                           |
-|                                                                                                                                                                                       |
+| 3D Print Masters [YouTube 影视](https://www.youtube.com/watch?v=nbUv8YSf994)                                                                                                            |
 |                                                                                                                                                                                       |
 |                                                                                                                                                                                       |
 
