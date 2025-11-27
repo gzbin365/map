@@ -550,6 +550,7 @@ description: 硬件设备
 | 【入坑指南】2022穿越机遥控器哪家强？[当红炸子机FPV](https://www.bilibili.com/video/BV1Y541117Zg) TX16s                         |
 | radiomaster TX16S遥控器到底适合什么样玩家，给大家一个答案 [刹那清风与wk](https://www.bilibili.com/video/BV1hT4y1U78g)              |
 | 【全价格推荐】穿越机摇控器全价位选购指南及从多方面了解穿越机遥控器是什么，如何对比，遥控器是越贵越好吗？ [曹骞不会飞](https://www.bilibili.com/video/BV1E5411S7zo) |
+| Flowstate: The FPV Drone Documentary [YouTube 影视](https://www.youtube.com/watch?v=6-yhHfuw1kI)            |
 |                                                                                                           |
 
 #### FPV模拟器
