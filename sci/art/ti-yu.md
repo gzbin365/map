@@ -8,11 +8,11 @@
 
 ## 斗地主
 
-|                                                                        |   |   |
-| ---------------------------------------------------------------------- | - | - |
-| 欢乐斗地主 [u](https://www.youtube.com/channel/UCx\_\_RZbs87HJyt9cin\_aFZg) |   |   |
-|                                                                        |   |   |
-|                                                                        |   |   |
+|                                                                     |   |   |
+| ------------------------------------------------------------------- | - | - |
+| 欢乐斗地主 [u](https://www.youtube.com/channel/UCx__RZbs87HJyt9cin_aFZg) |   |   |
+|                                                                     |   |   |
+|                                                                     |   |   |
 
 ## 围棋
 
@@ -40,13 +40,13 @@
 
 ## 象棋
 
-|                                                                                                                                                                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 悟能象棋 抖音号：[wunengxq](https://www.douyin.com/user/MS4wLjABAAAA3gCKF7Qi6yKqPGvdDhHFTv-eLjrffl3s5bD6j1kAOoVSxk32EuJWT-jEM8IaTrt1) 四郎讲棋 [u](https://www.youtube.com/@SiLangjiangqi) 万千象棋对弈棋局(象棋棋局) [Pronounce Word](https://www.youtube.com/playlist?list=PLCDAtQ4XMAGwTQ9p78B78jWTw6\_TArDoj) |
-| 赵奕帆象棋教学 [u](https://www.youtube.com/@user-zj3es7jm2n) 快乐象棋 抖音号：[m123........](https://www.douyin.com/user/MS4wLjABAAAAU5\_JeDoxmLgFx5r6yvfkv2JPM-4kmzSvE9XXf8X04CQ)                                                                                                                       |
-|                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 悟能象棋 抖音号：[wunengxq](https://www.douyin.com/user/MS4wLjABAAAA3gCKF7Qi6yKqPGvdDhHFTv-eLjrffl3s5bD6j1kAOoVSxk32EuJWT-jEM8IaTrt1) 四郎讲棋 [u](https://www.youtube.com/@SiLangjiangqi) 万千象棋对弈棋局(象棋棋局) [Pronounce Word](https://www.youtube.com/playlist?list=PLCDAtQ4XMAGwTQ9p78B78jWTw6_TArDoj) |
+| 赵奕帆象棋教学 [u](https://www.youtube.com/@user-zj3es7jm2n) 快乐象棋 抖音号：[m123........](https://www.douyin.com/user/MS4wLjABAAAAU5_JeDoxmLgFx5r6yvfkv2JPM-4kmzSvE9XXf8X04CQ)                                                                                                                       |
+| 象棋學堂 [u](https://www.youtube.com/@XiangqiSchool)                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                          |
 
 ## 军旗
 
@@ -63,9 +63,9 @@
 |                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 《局面》經典節目:王局專訪太極掌門馬保國; [王志安](https://www.youtube.com/watch?v=ZapTCgZzVec)                                                                     |
-| 龙泉市登峰剑铺 抖音号：[46808004018](https://www.douyin.com/user/MS4wLjABAAAAJTA5Y-YeMYTCWZsPy\_siPcV5Xndod8zg8vtpG5Ul7JDIWKrl0eMw5IFQMFmeocIO)         |
+| 龙泉市登峰剑铺 抖音号：[46808004018](https://www.douyin.com/user/MS4wLjABAAAAJTA5Y-YeMYTCWZsPy_siPcV5Xndod8zg8vtpG5Ul7JDIWKrl0eMw5IFQMFmeocIO)          |
 | 陈鹤皋（生命极危时刻反击术） 抖音号：[ChenHeGao1962](https://www.douyin.com/user/MS4wLjABAAAA0iMKYNByLzSKRcZm6AGQwLM9F3CORnBgZwbRwC3gPmp-l0bp9pS3Xpb1AJLNXEZ6) |
-| 一战成名-功夫 抖音号：[xsc1193185075](https://www.douyin.com/user/MS4wLjABAAAA485FJEA9C\_fRX6gHwhjVc9pqsqqciNOa9KghErfLLUM)                            |
+| 一战成名-功夫 抖音号：[xsc1193185075](https://www.douyin.com/user/MS4wLjABAAAA485FJEA9C_fRX6gHwhjVc9pqsqqciNOa9KghErfLLUM)                             |
 
 ## 乒乓球
 
@@ -77,11 +77,11 @@
 
 ## 羽毛球
 
-|                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| 李文连奥运会穿线师 抖音号：[871556046](https://www.douyin.com/user/MS4wLjABAAAAsQGp\_jIa0njQfnglKQRfd3sYT1XqH5CdGiIqhels\_7Y) |
-|                                                                                                                  |
-|                                                                                                                  |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| 李文连奥运会穿线师 抖音号：[871556046](https://www.douyin.com/user/MS4wLjABAAAAsQGp_jIa0njQfnglKQRfd3sYT1XqH5CdGiIqhels_7Y) |
+|                                                                                                                |
+|                                                                                                                |
 
 ## 足球
 
@@ -97,11 +97,11 @@ Disc Golf Beginner Series 🥏 [GingerSnapDiscGolf](https://www.youtube.com/play
 
 ## 桌游
 
-|                                                                                                           |   |   |
-| --------------------------------------------------------------------------------------------------------- | - | - |
-| 多肉仙子 抖音号：[20600180](https://www.douyin.com/user/MS4wLjABAAAA--X\_wWEhBEc-D-WoomEDtE7etUCvNE71R4M3Q2PT5CY) |   |   |
-|                                                                                                           |   |   |
-|                                                                                                           |   |   |
+|                                                                                                          |   |   |
+| -------------------------------------------------------------------------------------------------------- | - | - |
+| 多肉仙子 抖音号：[20600180](https://www.douyin.com/user/MS4wLjABAAAA--X_wWEhBEc-D-WoomEDtE7etUCvNE71R4M3Q2PT5CY) |   |   |
+|                                                                                                          |   |   |
+|                                                                                                          |   |   |
 
 ## 滑雪
 

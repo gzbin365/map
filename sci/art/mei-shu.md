@@ -28,7 +28,7 @@
 | Flow Studio [u](https://www.youtube.com/@FlowStudio)                                                                                                                                                      | Visme [u](https://www.youtube.com/@VismeApp)                                                                                      |
 | 有点艺思哦 [u](https://www.youtube.com/@YouDianYiSi/playlists)                                                                                                                                                 | 長腿馬繪畫工作室 [u](https://www.youtube.com/@%E9%95%B7%E8%85%BF%E9%A6%AC%E7%B9%AA%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4)                   |
 | Comic Black Rainbow黑虹 [u](https://www.youtube.com/@comicblackrainbow/videos)                                                                                                                              | Google 艺术与文化 [s](https://artsandculture.google.com/?hl=zh)                                                                        |
-| 肥拉超漫flcman [u](https://www.youtube.com/@flcman/playlists)                                                                                                                                                 |                                                                                                                                   |
+| 肥拉超漫flcman [u](https://www.youtube.com/@flcman/playlists)                                                                                                                                                 | 祝凯 [u](https://www.youtube.com/@zhukaiZK)                                                                                         |
 |                                                                                                                                                                                                           |                                                                                                                                   |
 |                                                                                                                                                                                                           |                                                                                                                                   |
 
@@ -157,11 +157,11 @@ Artstation Learning Now Forever Free For All! [askNK](https://www.youtube.com/wa
 
 
 
-|                                                       |
-| ----------------------------------------------------- |
-| Nuomi諾米 [u](https://www.youtube.com/@Nuomi/playlists) |
-|                                                       |
-|                                                       |
+|                                                                              |
+| ---------------------------------------------------------------------------- |
+| Nuomi諾米 [u](https://www.youtube.com/@Nuomi/playlists)                        |
+| 全网首发！顶配iPad Pro M5纳米玻璃屏画油画 [祝凯](https://www.youtube.com/watch?v=XPE3-WRqv9E) |
+|                                                                              |
 
 
 
