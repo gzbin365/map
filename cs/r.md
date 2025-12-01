@@ -27,7 +27,7 @@
 | R语言入门与数据分析 [基因学苑](https://www.bilibili.com/video/BV19x411X7C6) 12:45:42                                                                                               |
 | Installation & RStudio - R Tutorial Series #1 [NeuralNine](https://www.youtube.com/watch?v=hnM5K-tdwjw)                                                               |
 | Basics of R Programing [Animal Sciences](https://www.youtube.com/playlist?list=PL1ectsXIpOkd36uTl6PpoOOjbRhaqm7lE)                                                    |
-|                                                                                                                                                                       |
+| <p>Harvard CS50’s Intro to R Programming – Full University Course</p><p><a href="https://www.youtube.com/watch?v=g_3IKHG-rfA">freeCodeCamp和CS50</a></p>               |
 |                                                                                                                                                                       |
 
 | Google Colab with R                                                                                                        |
